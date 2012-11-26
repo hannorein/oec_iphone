@@ -16252,8 +16252,19 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<name>Kepler-38(AB)</name>
 		<rightascension>19 07 19</rightascension>
 		<declination>+42 16 45</declination>
-		<star>
-			<mass>1.18</mass>
+		<binary>
+			<semimajoraxis>0.1460</semimajoraxis>
+			<eccentricity>0.1032</eccentricity>
+			<star>
+				<id>Kepler-38 A</id>
+				<mass>0.949</mass>
+				<radius>1.757</radius>
+			</star>
+			<star>
+				<id>Kepler-38 B</id>
+				<mass>0.249</mass>
+				<radius>0.2724</radius>
+			</star>
 			<planet>
 				<id>Kepler-38(AB) b</id>
 				<name>Kepler-38(AB) b</name>
@@ -16267,14 +16278,13 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<semimajoraxis>0.4644</semimajoraxis>
 				<eccentricity>0.032</eccentricity>
 				<inclination>90.182</inclination>
-				<description>Kepler-38(AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The stellar mass quoted here is the sum of the two stellar components. The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
+				<description>Kepler-38(AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/24</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 			</planet>
-			<id>Kepler-38(AB)</id>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<id>Kepler-4</id>
