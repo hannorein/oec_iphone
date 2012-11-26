@@ -19,11 +19,6 @@ popd
 commit "automatic update: create_data"
 
 pushd scripts
-python create_data_kepler.python
-popd
-commit "automatic update: create_data_kepler"
-
-pushd scripts
 python create_data_iphone.python
 popd
 commit "automatic update: create_data_iphone"
