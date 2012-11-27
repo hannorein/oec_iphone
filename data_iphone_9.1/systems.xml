@@ -1,4 +1,4 @@
-<systems name="systems" planets="860">
+<systems name="systems" planets="861">
 	<system>
 		<id>11 Com</id>
 		<name>11 Com</name>
@@ -14897,7 +14897,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>12/11/19</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 				<image>KappaAndromedae</image>
 				<imagedescription>Image of the star Kappa Andromedae and the planet or brown dwarf Kappa Andromedae (top left). 
 			
@@ -18041,7 +18041,7 @@ Image credit: NASA/JPL-Caltech
 				<discoverymethod>microlensing</discoverymethod>
 				<lastupdate>12/11/19</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
@@ -21657,6 +21657,48 @@ Image credit: NASA/JPL-Caltech
 			</planet>
 			<id>WASP-72</id>
 		</star>
+	</system>
+	<system>
+		<id>WASP-77</id>
+		<name>WASP-77</name>
+		<rightascension>02 28 37</rightascension>
+		<declination>-07 03 38</declination>
+		<distance>93</distance>
+		<binary>
+			<semimajoraxis>372</semimajoraxis>
+			<star>
+				<id>WASP-77 A</id>
+				<mass>1.002</mass>
+				<radius>1.12</radius>
+				<temperature>5500</temperature>
+				<metallicity>0.00</metallicity>
+				<spectraltype>G8 V</spectraltype>
+				<planet>
+					<id>WASP-77 A b</id>
+					<name>WASP-77 A b</name>
+					<name>1SWASP J022837.22-070338.4 b</name>
+					<list>Confirmed planets</list>
+					<mass>1.76</mass>
+					<radius>1.21</radius>
+					<period>1.3600309</period>
+					<semimajoraxis>0.0240</semimajoraxis>
+					<inclination>89.4</inclination>
+					<description>WASP-77 A b is a transiting Hot Jupiter (a planet similar to Jupiter but with an orbit much closer to the host star). It is orbiting a moderately bright G8 V star which is part of a visual binary. The binary has a separation of 3 arcseconds.</description>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>12/11/26</lastupdate>
+					<discoveryyear>2012</discoveryyear>
+					<new>1</new>
+				</planet>
+			</star>
+			<star>
+				<id>WASP-77 B</id>
+				<mass>0.71</mass>
+				<radius>0.69</radius>
+				<temperature>4700</temperature>
+				<metallicity>-0.12</metallicity>
+				<spectraltype>K5</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<id>WASP-78</id>
