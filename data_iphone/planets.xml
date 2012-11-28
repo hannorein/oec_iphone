@@ -1684,6 +1684,54 @@
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>BD+30 1138 b</id_exoplaneteu>
+		<name>BD+30 1138 b</name>
+		<name>TYC 2996-683-1 b</name>
+		<name>2MASS J09543439+4023170 b</name>
+		<name>GSC 02996-00683 b</name>
+		<name>SAO 43097 b</name>
+		<name>KELT-3 b</name>
+		<id>BD+30 1138 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.462</mass>
+			<radius>1.358</radius>
+			<orbit>
+				<period>2.703390</period>
+				<semimajoraxis>0.04126</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.14</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.282</mass>
+			<radius>1.482</radius>
+			<metallicity>0.047</metallicity>
+			<distance>178</distance>
+			<temperature>6304</temperature>
+			<rightascension>09 46 48</rightascension>
+			<declination>+31 44 37</declination>
+			<angulardistance />
+			<magV>9.8</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/07</lastupdate>
+		<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey. </description>
+		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>BD-082823 b</id_exoplaneteu>
 		<name>BD-082823 b</name>
 		<name>HIP 49067 b</name>
@@ -25237,9 +25285,10 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Solar System</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kappa Andromedae b</id_exoplaneteu>
+		<id_exoplaneteu>Kappa And b</id_exoplaneteu>
 		<name>Kappa And b</name>
-		<id>Kappa Andromedae b</id>
+		<name>Kappa Andromedae b</name>
+		<id>Kappa And b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>12.8</mass>
@@ -25369,53 +25418,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/11</lastupdate>
 		<description>This planet is a typical Hot Jupiter. It is the first planet discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey. KELT-2A is the third brightest star with a transiting planet identified by ground-based transit surveys, and the ninth brightest star overall with a transiting planet. The planet might have been put on its orbit by the binary companion KELT-2B via the so-called eccentric Kozai mechanism.</description>
-		<new>0</new>
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KELT-3 b</id_exoplaneteu>
-		<name>BD+30 1138 b</name>
-		<name>TYC 2996-683-1 b</name>
-		<name>2MASS J09543439+4023170 b</name>
-		<name>GSC 02996-00683 b</name>
-		<name>SAO 43097 b</name>
-		<id>KELT-3 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>1.462</mass>
-			<radius>1.358</radius>
-			<orbit>
-				<period>2.703390</period>
-				<semimajoraxis>0.04126</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<inclination>84.14</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>F</spectraltype>
-			<mass>1.282</mass>
-			<radius>1.482</radius>
-			<metallicity>0.047</metallicity>
-			<distance>178</distance>
-			<temperature>6304</temperature>
-			<rightascension>09 46 48</rightascension>
-			<declination>+31 44 37</declination>
-			<angulardistance />
-			<magV>9.8</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/07</lastupdate>
-		<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey. </description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -29658,6 +29660,55 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KIC 4862625 (AaAb) b</id_exoplaneteu>
+		<name>KIC 4862625 (AaAb) b</name>
+		<name>Planet Hunters 1 b </name>
+		<name>Kepler-64 b</name>
+		<name>PH-1 b </name>
+		<name>PH-1 (AaAb) b</name>
+		<id>KIC 4862625 (AaAb) b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.5631852</radius>
+			<orbit>
+				<period>138.506</period>
+				<semimajoraxis>0.634</semimajoraxis>
+				<eccentricity>0.0539</eccentricity>
+				<inclination>90.022</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.384</mass>
+			<radius>1.759</radius>
+			<metallicity />
+			<distance>1500</distance>
+			<temperature />
+			<rightascension>19 52 51</rightascension>
+			<declination>+39 57 18</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/15</lastupdate>
+		<description>PH 1 b is a circumbinary planet in a quadruple star system. It is orbiting a double star and there is a second pair of stars at approximately 1000 AU. Citizen scientists discovered this planet by looking at many light curves using the online tool at planethunters.org.</description>
+		<new>0</new>
+		<image>PH1</image>
+		<imagedescription>An artist's conception of the planet in a four-star system. 
+		
+	Credit: Image by Haven Giguere/Yale.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KIC 6185331 b</id_exoplaneteu>
 		<name>KIC 6185331 b</name>
 		<id>KIC 6185331 b</id>
@@ -32882,54 +32933,6 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>PH-1 (AaAb) b</id_exoplaneteu>
-		<name>KIC 4862625 (AaAb) b</name>
-		<name>Planet Hunters 1 b </name>
-		<name>Kepler-64 b</name>
-		<name>PH-1 b </name>
-		<id>PH-1 (AaAb) b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass />
-			<radius>0.5631852</radius>
-			<orbit>
-				<period>138.506</period>
-				<semimajoraxis>0.634</semimajoraxis>
-				<eccentricity>0.0539</eccentricity>
-				<inclination>90.022</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>F</spectraltype>
-			<mass>1.384</mass>
-			<radius>1.759</radius>
-			<metallicity />
-			<distance>1500</distance>
-			<temperature />
-			<rightascension>19 52 51</rightascension>
-			<declination>+39 57 18</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/10/15</lastupdate>
-		<description>PH 1 b is a circumbinary planet in a quadruple star system. It is orbiting a double star and there is a second pair of stars at approximately 1000 AU. Citizen scientists discovered this planet by looking at many light curves using the online tool at planethunters.org.</description>
-		<new>0</new>
-		<image>PH1</image>
-		<imagedescription>An artist's conception of the planet in a four-star system. 
-		
-	Credit: Image by Haven Giguere/Yale.</imagedescription>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Pluto</id_exoplaneteu>
 		<name>Pluto</name>
 		<name>Sun j</name>
@@ -33242,9 +33245,10 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>PSR B1620-26 (AB) b</id_exoplaneteu>
+		<id_exoplaneteu>PSR B1620-26 b</id_exoplaneteu>
 		<name>PSR B1620-26 b</name>
-		<id>PSR B1620-26 (AB) b</id>
+		<name>PSR B1620-26 (AB) b</name>
+		<id>PSR B1620-26 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
 			<mass>2.5</mass>
