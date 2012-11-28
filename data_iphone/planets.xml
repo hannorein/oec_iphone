@@ -3335,6 +3335,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium 
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Earth</id_exoplaneteu>
@@ -25239,6 +25240,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Jupiter</id_exoplaneteu>
@@ -25953,6 +25955,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<image>Kepler 16</image>
 		<imagedescription>This image shows an artist's illustration of the Kepler-16 (AB) b exo-planet orbiting two binary stars. Credit: NASA/JPL-Caltech/R. Hurt</imagedescription>
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-17 b</id_exoplaneteu>
@@ -27717,6 +27720,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-35 (AB) b</id_exoplaneteu>
@@ -27764,6 +27768,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	
 Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-36 b</id_exoplaneteu>
@@ -27907,6 +27912,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-4 b</id_exoplaneteu>
@@ -28002,6 +28008,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-47(AB) c</id_exoplaneteu>
@@ -29657,55 +29664,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<new>0</new>
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KIC 4862625 (AaAb) b</id_exoplaneteu>
-		<name>KIC 4862625 (AaAb) b</name>
-		<name>Planet Hunters 1 b </name>
-		<name>Kepler-64 b</name>
-		<name>PH-1 b </name>
-		<name>PH-1 (AaAb) b</name>
-		<id>KIC 4862625 (AaAb) b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass />
-			<radius>0.5631852</radius>
-			<orbit>
-				<period>138.506</period>
-				<semimajoraxis>0.634</semimajoraxis>
-				<eccentricity>0.0539</eccentricity>
-				<inclination>90.022</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>F</spectraltype>
-			<mass>1.384</mass>
-			<radius>1.759</radius>
-			<metallicity />
-			<distance>1500</distance>
-			<temperature />
-			<rightascension>19 52 51</rightascension>
-			<declination>+39 57 18</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/10/15</lastupdate>
-		<description>PH 1 b is a circumbinary planet in a quadruple star system. It is orbiting a double star and there is a second pair of stars at approximately 1000 AU. Citizen scientists discovered this planet by looking at many light curves using the online tool at planethunters.org.</description>
-		<new>0</new>
-		<image>PH1</image>
-		<imagedescription>An artist's conception of the planet in a four-star system. 
-		
-	Credit: Image by Haven Giguere/Yale.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -31893,6 +31851,7 @@ Image credit: NASA/JPL-Caltech
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>NN Ser (AB) d</id_exoplaneteu>
@@ -31936,6 +31895,7 @@ Image credit: NASA/JPL-Caltech
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>NSVS 14256825 c</id_exoplaneteu>
@@ -31979,6 +31939,7 @@ Image credit: NASA/JPL-Caltech
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>NSVS 14256825 d</id_exoplaneteu>
@@ -32022,6 +31983,7 @@ Image credit: NASA/JPL-Caltech
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>nu Oph b</id_exoplaneteu>
@@ -32146,11 +32108,12 @@ Image credit: NASA/JPL-Caltech
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/12/20</lastupdate>
-		<description>The rapidly pulsating eclipsing binary NY Vir has a period of 0.1 days. On a much longer timescale of 7.9 years, the system exhibits small amplitude cyclic variations which are associated with a third body in the system. A recent paper by Qian et al claims that this body is a giant circumbinary planet orbiting NY Vir at a distance of 3.3 astronomical units. There might be another planet in this system with an even longer orbital period, probably more than 15 years.</description>
+		<description>The rapidly pulsating eclipsing binary NY Vir has a period of 0.1 days. On a much longer timescale of 7.9 years, the system exhibits small amplitude cyclic variations which are associated with a third body in the system. A recent paper by Qian et. al. claims that this body is a giant circumbinary planet orbiting NY Vir at a distance of 3.3 astronomical units. There might be another planet in this system with an even longer orbital period, probably more than 15 years.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>OGLE-05-071L b</id_exoplaneteu>
@@ -32933,6 +32896,56 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>PH-1 (AaAb) b</id_exoplaneteu>
+		<name>PH-1 (AaAb) b</name>
+		<name>PH-1 b </name>
+		<name>KIC 4862625 (AaAb) b</name>
+		<name>Planet Hunters 1 b </name>
+		<name>Kepler-64 b</name>
+		<id>PH-1 (AaAb) b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.5631852</radius>
+			<orbit>
+				<period>138.506</period>
+				<semimajoraxis>0.634</semimajoraxis>
+				<eccentricity>0.0539</eccentricity>
+				<inclination>90.022</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.384</mass>
+			<radius>1.759</radius>
+			<metallicity />
+			<distance>1500</distance>
+			<temperature />
+			<rightascension>19 52 51</rightascension>
+			<declination>+39 57 18</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/15</lastupdate>
+		<description>PH 1 b is a circumbinary planet in a quadruple star system. It is orbiting a double star and there is a second pair of stars at approximately 1000 AU. Citizen scientists discovered this planet by looking at many light curves using the online tool at planethunters.org.</description>
+		<new>0</new>
+		<image>PH1</image>
+		<imagedescription>An artist's conception of the planet in a four-star system. 
+		
+	Credit: Image by Haven Giguere/Yale.</imagedescription>
+		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Pluto</id_exoplaneteu>
 		<name>Pluto</name>
 		<name>Sun j</name>
@@ -33287,6 +33300,7 @@ Image credit: NASA/JPL-Caltech
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Qatar-1 b</id_exoplaneteu>
@@ -33462,6 +33476,7 @@ Image credit: NASA/JPL-Caltech
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Circumbinary planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Saturn</id_exoplaneteu>
