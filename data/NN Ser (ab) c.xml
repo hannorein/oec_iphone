@@ -1,7 +1,7 @@
 <planet>
-	<id_exoplaneteu>NN Ser (ab) c</id_exoplaneteu>
-	<name>NN Ser (ab) c</name>
-	<id>NN Ser (ab) c</id>
+	<id_exoplaneteu>NN Ser (AB) c</id_exoplaneteu>
+	<name>NN Ser (AB) c</name>
+	<id>NN Ser (AB) c</id>
 	<discoverymethod>timing</discoverymethod>
 	<properties>
 		<mass>6.91</mass>
@@ -17,8 +17,8 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>WD+M</spectraltype>
-		<mass>0.646</mass>
+		<spectraltype>DAO1</spectraltype>
+		<mass>0.535</mass>
 		<radius />
 		<metallicity />
 		<distance>500</distance>
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/10/13</lastupdate>
-	<description />
+	<lastupdate>12/11/27</lastupdate>
+	<description>NN Ser AB is a short-period eclipsing binary.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
