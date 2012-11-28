@@ -36,7 +36,7 @@ for filename in glob.glob("../open_exoplanet_catalogue/systems_kepler/*.xml"):
 	for planet in planets:
 		root = ElementTree.Element("planet")
 		tree = ElementTree.ElementTree(root)
-		oldfilename = planet.findtext(".//id")
+		oldfilename = planet.findtext(".//name")
 		names = planet.findall(".//name")
 		ElementTree.SubElement(root,"id_exoplaneteu").text		= oldfilename 
 		for name in names:

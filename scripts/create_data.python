@@ -30,14 +30,14 @@ for filename in glob.glob("../open_exoplanet_catalogue/systems/*.xml"):
 	newfile = open(filename, 'rt')
 	newroot = ElementTree.parse(newfile).getroot()
 	newtree = ElementTree.ElementTree(newroot) 
-	systemid = newtree.findtext(".//id")
+	systemid = newtree.findtext(".//name")
 
 	planets = newtree.findall(".//planet")
 	stars = newtree.findall(".//star")
 	for planet in planets:
 		root = ElementTree.Element("planet")
 		tree = ElementTree.ElementTree(root)
-		oldfilename = planet.findtext(".//id")
+		oldfilename = planet.findtext(".//name")
 		names = planet.findall(".//name")
 		ElementTree.SubElement(root,"id_exoplaneteu").text		= oldfilename 
 		for name in names:
