@@ -2015,10 +2015,22 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium 
 		<name>DP Leo</name>
 		<rightascension>11 17 16</rightascension>
 		<declination>+17 57 41</declination>
-		<star>
-			<mass>0.69</mass>
-			<magV>17.5</magV>
-			<spectraltype>AM Her</spectraltype>
+		<distance>400</distance>
+		<binary>
+			<period>0.0625</period>
+			<star>
+				<id>DP Leo</id>
+				<mass>0.6</mass>
+				<radius>0.0144</radius>
+				<magV>17.5</magV>
+				<temperature>13500</temperature>
+				<spectraltype>AM Her</spectraltype>
+			</star>
+			<star>
+				<id>DP Leo</id>
+				<mass>0.09</mass>
+				<temperature>3000</temperature>
+			</star>
 			<planet>
 				<id>DP Leo b</id>
 				<name>DP Leo b</name>
@@ -2033,8 +2045,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium 
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 			</planet>
-			<id>DP Leo</id>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<id>eps Corona Borealis</id>
@@ -14854,6 +14865,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<planet>
 					<id>HW Vir (AB) b</id>
 					<name>HW Vir (AB) b</name>
+					<name>HW Virginis (AB) b</name>
 					<list>Confirmed planets</list>
 					<mass>14.3</mass>
 					<period>4640</period>
@@ -15260,12 +15272,24 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<name>Kepler-16 (AB)</name>
 		<rightascension>19 16 18</rightascension>
 		<declination>+51 45 27</declination>
-		<star>
-			<mass>0.8499</mass>
-			<radius>0.65</radius>
-			<magV>12</magV>
-			<metallicity>-0.3</metallicity>
-			<spectraltype>K</spectraltype>
+		<distance>60</distance>
+		<binary>
+			<semimajoraxis>0.22</semimajoraxis>
+			<period>41</period>
+			<star>
+				<id>Kepler-16 A</id>
+				<mass>0.6897</mass>
+				<radius>0.6489</radius>
+				<temperature>4450</temperature>
+				<metallicity>-0.3</metallicity>
+				<spectraltype>K</spectraltype>
+			</star>
+			<star>
+				<id>Kepler-16 B</id>
+				<mass>0.20255</mass>
+				<radius>0.22623</radius>
+				<spectraltype>M</spectraltype>
+			</star>
 			<planet>
 				<id>Kepler-16 (AB) b</id>
 				<name>Kepler-16 (AB) b</name>
@@ -15276,16 +15300,15 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<semimajoraxis>0.7048</semimajoraxis>
 				<eccentricity>0.00685</eccentricity>
 				<inclination>90.0322</inclination>
-				<description>Kepler-16 (AB) b is a circum-binary planet. It is orbiting two stars. The visualizations below are therefore not accurate. The masses of the stars are 0.20255 and 0.6897 solar masses. The orbit of the binary stars and the planet are perfectly alligned within half a degree. This suggests that the planet formed in a circumbinary disc. </description>
+				<description>Kepler-16 (AB) b is a circum-binary planet. It is orbiting two stars. The orbit of the binary stars and the planet are perfectly alligned within half a degree. This suggests that the planet formed in a circumbinary disc. </description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/24</lastupdate>
+				<lastupdate>12/11/27</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<image>Kepler 16</image>
 				<imagedescription>This image shows an artist's illustration of the Kepler-16 (AB) b exo-planet orbiting two binary stars. Credit: NASA/JPL-Caltech/R. Hurt</imagedescription>
 			</planet>
-			<id>Kepler-16 (AB)</id>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<id>Kepler-17</id>
@@ -16162,15 +16185,28 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</binary>
 	</system>
 	<system>
-		<id>Kepler-35(AB)</id>
-		<name>Kepler-35(AB)</name>
+		<id>Kepler-35</id>
+		<name>Kepler-35</name>
 		<rightascension>19 37 59</rightascension>
 		<declination>+46 41 23</declination>
-		<star>
-			<mass>1.68</mass>
+		<binary>
+			<period>20.733</period>
+			<semimajoraxis>0.17617</semimajoraxis>
+			<eccentricity>0.1421</eccentricity>
+			<inclination>90.4238</inclination>
+			<star>
+				<id>Kepler-35 A</id>
+				<mass>0.89</mass>
+				<radius>1.02</radius>
+			</star>
+			<star>
+				<id>Kepler-35 B</id>
+				<mass>0.81</mass>
+				<radius>0.7861</radius>
+			</star>
 			<planet>
-				<id>Kepler-35(AB) b</id>
-				<name>Kepler-35(AB) b</name>
+				<id>Kepler-35 (AB) b</id>
+				<name>Kepler-35 (AB) b</name>
 				<name>KIC 9837578 b</name>
 				<name>Kepler-35 b</name>
 				<list>Confirmed planets</list>
@@ -16190,8 +16226,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	
 Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			</planet>
-			<id>Kepler-35(AB)</id>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<id>Kepler-36</id>
@@ -16248,8 +16283,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 	</system>
 	<system>
-		<id>Kepler-38(AB)</id>
-		<name>Kepler-38(AB)</name>
+		<id>Kepler-38</id>
+		<name>Kepler-38</name>
 		<rightascension>19 07 19</rightascension>
 		<declination>+42 16 45</declination>
 		<distance>3500</distance>
@@ -16267,8 +16302,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<radius>0.2724</radius>
 			</star>
 			<planet>
-				<id>Kepler-38(AB) b</id>
-				<name>Kepler-38(AB) b</name>
+				<id>Kepler-38 (AB) b</id>
+				<name>Kepler-38 (AB) b</name>
 				<name>KIC 6762829</name>
 				<name>KOI-1740</name>
 				<name>2MASS J19071928+4216451</name>
@@ -16279,7 +16314,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<semimajoraxis>0.4644</semimajoraxis>
 				<eccentricity>0.032</eccentricity>
 				<inclination>90.182</inclination>
-				<description>Kepler-38(AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
+				<description>Kepler-38 (AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/24</lastupdate>
 				<discoveryyear>2012</discoveryyear>
@@ -18260,38 +18295,49 @@ Image credit: NASA/JPL-Caltech
 		<rightascension>15 52 56</rightascension>
 		<declination>+12 54 47</declination>
 		<distance>500</distance>
-		<star>
-			<mass>0.646</mass>
-			<magV>16.6</magV>
-			<spectraltype>WD+M</spectraltype>
+		<binary>
+			<period>0.133333</period>
+			<star>
+				<id>NN Ser A</id>
+				<mass>0.535</mass>
+				<magV>16.6</magV>
+				<temperature>57000</temperature>
+				<spectraltype>DAO1</spectraltype>
+			</star>
+			<star>
+				<id>NN Ser B</id>
+				<mass>0.111</mass>
+				<spectraltype>M4</spectraltype>
+			</star>
 			<planet>
-				<id>NN Ser (ab) c</id>
-				<name>NN Ser (ab) c</name>
+				<id>NN Ser (AB) c</id>
+				<name>NN Ser (AB) c</name>
 				<list>Confirmed planets</list>
 				<mass>6.91</mass>
 				<period>5660</period>
 				<semimajoraxis>5.38</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
+				<description>NN Ser AB is a short-period eclipsing binary.</description>
 				<discoverymethod>timing</discoverymethod>
-				<lastupdate>10/10/13</lastupdate>
+				<lastupdate>12/11/27</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 			</planet>
 			<planet>
-				<id>NN Ser (ab) d</id>
-				<name>NN Ser (ab) d</name>
+				<id>NN Ser (AB) d</id>
+				<name>NN Ser (AB) d</name>
 				<list>Confirmed planets</list>
 				<mass>2.28</mass>
 				<period>2830</period>
 				<semimajoraxis>3.39</semimajoraxis>
 				<eccentricity>0.2</eccentricity>
+				<description>NN Ser AB is a short-period eclipsing binary.</description>
 				<discoverymethod>timing</discoverymethod>
 				<lastupdate>10/10/13</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 			</planet>
-			<id>NN Ser (ab)</id>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<id>NSVS 14256825</id>
@@ -19066,23 +19112,31 @@ Image credit: NASA/JPL-Caltech
 		<rightascension>16 23 38</rightascension>
 		<declination>-26 31 53</declination>
 		<distance>3800</distance>
-		<star>
-			<mass>1.95</mass>
-			<magV>24</magV>
+		<binary>
+			<period>191.4428</period>
+			<star>
+				<id>PSR B1620-26 A</id>
+				<mass>1.35</mass>
+				<magV>24</magV>
+			</star>
+			<star>
+				<id>PSR B1620-26 B</id>
+				<mass>0.6</mass>
+			</star>
 			<planet>
-				<id>PSR B1620-26 b</id>
+				<id>PSR B1620-26 (AB) b</id>
 				<name>PSR B1620-26 b</name>
 				<list>Confirmed planets</list>
 				<mass>2.5</mass>
 				<period>36525</period>
 				<semimajoraxis>23</semimajoraxis>
+				<description>PSR B1620-26 b is a circum-binary planet. It is orbiting a pulsar and a white dwarf in the globular cluster M4. The cluster is estimated to be 12.2 billion years old.</description>
 				<discoverymethod>timing</discoverymethod>
-				<lastupdate>10/12/23</lastupdate>
+				<lastupdate>12/11/27</lastupdate>
 				<discoveryyear>1994</discoveryyear>
 				<new>0</new>
 			</planet>
-			<id>PSR B1620-26</id>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<id>Qatar-1</id>
