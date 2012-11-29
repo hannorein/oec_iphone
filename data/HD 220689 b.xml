@@ -4,23 +4,23 @@
 	<id>HD 220689 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1.19</mass>
+		<mass>1.06</mass>
 		<radius />
 		<orbit>
-			<period>2191</period>
-			<semimajoraxis />
-			<eccentricity>0.2</eccentricity>
+			<period>2209</period>
+			<semimajoraxis>3.36</semimajoraxis>
+			<eccentricity>0.16</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>137</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G3V</spectraltype>
-		<mass>1.19</mass>
-		<radius />
-		<metallicity />
+		<mass>1.01</mass>
+		<radius>1.07</radius>
+		<metallicity>0.00</metallicity>
 		<distance>44.6</distance>
 		<temperature />
 		<rightascension>23 25 53</rightascension>
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/09/13</lastupdate>
+	<lastupdate>12/11/29</lastupdate>
 	<description />
 	<new>0</new>
 	<image />

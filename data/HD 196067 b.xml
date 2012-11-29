@@ -4,23 +4,23 @@
 	<id>HD 196067 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>7.1</mass>
+		<mass>6.9</mass>
 		<radius />
 		<orbit>
-			<period>4100</period>
-			<semimajoraxis />
-			<eccentricity>0.63</eccentricity>
+			<period>3638</period>
+			<semimajoraxis>5.02</semimajoraxis>
+			<eccentricity>0.66</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>148.2</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G0V</spectraltype>
-		<mass>7.1</mass>
-		<radius />
-		<metallicity />
+		<mass>1.29</mass>
+		<radius>1.73</radius>
+		<metallicity>0.18</metallicity>
 		<distance>44.3</distance>
 		<temperature />
 		<rightascension>20 41 44</rightascension>
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/09/13</lastupdate>
+	<lastupdate>12/11/29</lastupdate>
 	<description />
 	<new>0</new>
 	<image />

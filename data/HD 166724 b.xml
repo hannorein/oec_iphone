@@ -4,23 +4,23 @@
 	<id>HD 166724 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>4.12</mass>
+		<mass>3.53</mass>
 		<radius />
 		<orbit>
-			<period>8100</period>
-			<semimajoraxis />
-			<eccentricity>0.77</eccentricity>
+			<period>5144</period>
+			<semimajoraxis>5.42</semimajoraxis>
+			<eccentricity>0.734</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>202</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K0IV</spectraltype>
-		<mass>4.12</mass>
+		<mass>0.81</mass>
 		<radius />
-		<metallicity />
+		<metallicity>-0.09</metallicity>
 		<distance>42.3</distance>
 		<temperature />
 		<rightascension>18 14 00</rightascension>
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/09/13</lastupdate>
+	<lastupdate>12/11/29</lastupdate>
 	<description />
 	<new>0</new>
 	<image />

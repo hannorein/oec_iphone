@@ -4,23 +4,23 @@
 	<id>HD 10647 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.93</mass>
+		<mass>0.94</mass>
 		<radius />
 		<orbit>
-			<period>1003</period>
-			<semimajoraxis>2.03</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<period>989.2</period>
+			<semimajoraxis>2.015</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>212</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>F8V</spectraltype>
-		<mass>1.1</mass>
+		<spectraltype>F9V</spectraltype>
+		<mass>1.11</mass>
 		<radius>1.1</radius>
-		<metallicity>-0.078</metallicity>
+		<metallicity>0.0</metallicity>
 		<distance>17.3</distance>
 		<temperature />
 		<rightascension>01 42 29</rightascension>
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>09/10/08</lastupdate>
+	<lastupdate>12/11/29</lastupdate>
 	<description />
 	<new>0</new>
 	<image />

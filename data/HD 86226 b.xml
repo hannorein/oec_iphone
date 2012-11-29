@@ -4,23 +4,23 @@
 	<id>HD 86226 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1.5</mass>
+		<mass>0.92</mass>
 		<radius />
 		<orbit>
-			<period>1534</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity>0.73</eccentricity>
+			<period>1695</period>
+			<semimajoraxis>2.84</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>193</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G2V</spectraltype>
-		<mass>1.02</mass>
-		<radius />
-		<metallicity>-0.04</metallicity>
+		<mass>1.06</mass>
+		<radius>1.02</radius>
+		<metallicity>0.05</metallicity>
 		<distance>42.48</distance>
 		<temperature />
 		<rightascension>09 56 30</rightascension>
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/01/26</lastupdate>
+	<lastupdate>12/11/29</lastupdate>
 	<description />
 	<new>0</new>
 	<image />
