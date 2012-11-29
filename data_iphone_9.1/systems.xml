@@ -1,4 +1,4 @@
-<systems name="systems" planets="861">
+<systems name="systems" planets="862">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -4670,49 +4670,55 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<declination>-53 44 27</declination>
 		<distance>17.3</distance>
 		<star>
-			<mass>1.1</mass>
+			<name>HD 10647</name>
+			<age>1.4</age>
+			<mass>1.11</mass>
 			<radius>1.1</radius>
 			<magV>5.52</magV>
-			<metallicity>-0.078</metallicity>
-			<spectraltype>F8V</spectraltype>
+			<metallicity>0.0</metallicity>
+			<spectraltype>F9V</spectraltype>
 			<planet>
 				<name>HD 10647 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.93</mass>
-				<period>1003</period>
-				<semimajoraxis>2.03</semimajoraxis>
-				<eccentricity>0.1</eccentricity>
+				<mass>0.94</mass>
+				<period>989.2</period>
+				<semimajoraxis>2.015</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+				<periastron>212</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/10/08</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2003</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>HD 10647</name>
 		</star>
 	</system>
 	<system>
-		<name>HD 106515A</name>
+		<name>HD 106515 A</name>
 		<rightascension>12 15 07</rightascension>
 		<declination>-07 15 26</declination>
 		<distance>35.2</distance>
 		<star>
-			<mass>0.91</mass>
+			<mass>0.97</mass>
+			<age>11.7</age>
+			<metallicity>0.03</metallicity>
+			<radius>1.62</radius>
 			<magV>7.35</magV>
 			<spectraltype>G5</spectraltype>
 			<planet>
-				<name>HD 106515A b</name>
+				<name>HD 106515 A b</name>
 				<list>Confirmed planets</list>
-				<mass>9.33</mass>
-				<period>3667</period>
-				<semimajoraxis>4.43</semimajoraxis>
-				<eccentricity>0.57</eccentricity>
-				<description>HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is 4 to 8 billion years old.</description>
+				<mass>9.61</mass>
+				<period>3630</period>
+				<semimajoraxis>4.59</semimajoraxis>
+				<eccentricity>0.572</eccentricity>
+				<periastron>123.8</periastron>
+				<description>HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is almost 11 billion years old.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/08/20</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>HD 106515A</name>
+			<name>HD 106515 A</name>
 		</star>
 	</system>
 	<system>
@@ -7171,14 +7177,19 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<star>
 			<magV>9.31</magV>
 			<spectraltype>K0IV</spectraltype>
+			<mass>0.81</mass>
+			<age>4.0</age>
+			<metallicity>-0.09</metallicity>
 			<planet>
 				<name>HD 166724 b</name>
 				<list>Confirmed planets</list>
-				<mass>4.12</mass>
-				<period>8100</period>
-				<eccentricity>0.77</eccentricity>
+				<mass>3.53</mass>
+				<semimajoraxis>5.42</semimajoraxis>
+				<period>5144</period>
+				<eccentricity>0.734</eccentricity>
+				<periastron>202</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -8269,14 +8280,20 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<star>
 			<magV>6.02</magV>
 			<spectraltype>G0V</spectraltype>
+			<age>3.3</age>
+			<mass>1.29</mass>
+			<radius>1.73</radius>
+			<metallicity>0.18</metallicity>
 			<planet>
 				<name>HD 196067 b</name>
 				<list>Confirmed planets</list>
-				<mass>7.1</mass>
-				<period>4100</period>
-				<eccentricity>0.63</eccentricity>
+				<mass>6.9</mass>
+				<period>3638</period>
+				<eccentricity>0.66</eccentricity>
+				<semimajoraxis>5.02</semimajoraxis>
+				<periastron>148.2</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -9371,6 +9388,34 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 	</system>
 	<system>
+		<name>HD 219077</name>
+		<rightascension>23 14 07</rightascension>
+		<declination>-62 42 00</declination>
+		<distance>29</distance>
+		<star>
+			<name>HD 219077</name>
+			<magV>6.12</magV>
+			<spectraltype>G8 V+</spectraltype>
+			<age>8.9</age>
+			<mass>1.05</mass>
+			<radius>1.91</radius>
+			<metallicity>-0.13</metallicity>
+			<planet>
+				<name>HD 219077 b</name>
+				<list>Confirmed planets</list>
+				<mass>10.39</mass>
+				<period>5501</period>
+				<eccentricity>0.770</eccentricity>
+				<periastron>57.61</periastron>
+				<semimajoraxis>6.22</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/11/29</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 219415</name>
 		<rightascension>01 43 40</rightascension>
 		<declination>+21 00 19</declination>
@@ -9461,15 +9506,21 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<distance>44.6</distance>
 		<star>
 			<magV>7.77</magV>
+			<mass>1.01</mass>
+			<age>3.5</age>
+			<radius>1.07</radius>
+			<metallicity>0.00</metallicity>
 			<spectraltype>G3V</spectraltype>
 			<planet>
 				<name>HD 220689 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.19</mass>
-				<period>2191</period>
-				<eccentricity>0.2</eccentricity>
+				<mass>1.06</mass>
+				<semimajoraxis>3.36</semimajoraxis>
+				<period>2209</period>
+				<eccentricity>0.16</eccentricity>
+				<periastron>137</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -9894,15 +9945,22 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<distance>45.5</distance>
 		<star>
 			<magV>8.25</magV>
-			<spectraltype>G3IV</spectraltype>
+			<spectraltype>G3 IV/V</spectraltype>
+			<metallicity>-0.12</metallicity>
+			<mass>0.94</mass>
+			<age>4.4</age>
+			<radius>1.0</radius>
+			<temperature>5737</temperature>
 			<planet>
 				<name>HD 27631 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.7</mass>
-				<period>2220</period>
-				<eccentricity>0.17</eccentricity>
+				<mass>1.45</mass>
+				<period>2208</period>
+				<eccentricity>0.12</eccentricity>
+				<periastron>134</periastron>
+				<semimajoraxis>3.25</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -10071,24 +10129,26 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<declination>-05 40 27</declination>
 		<distance>26.5</distance>
 		<star>
-			<mass>1.219</mass>
-			<radius>1.637</radius>
+			<name>HD 30562</name>
+			<mass>1.23</mass>
+			<radius>1.53</radius>
 			<magV>5.77</magV>
-			<metallicity>0.243</metallicity>
+			<metallicity>0.29</metallicity>
+			<age>3.6</age>
 			<spectraltype>F8V</spectraltype>
 			<planet>
 				<name>HD 30562 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.29</mass>
-				<period>1157</period>
-				<semimajoraxis>2.3</semimajoraxis>
-				<eccentricity>0.76</eccentricity>
+				<mass>1.373</mass>
+				<period>1159</period>
+				<semimajoraxis>2.315</semimajoraxis>
+				<eccentricity>0.778</eccentricity>
+				<periastron>78.4</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/09/25</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>HD 30562</name>
 		</star>
 	</system>
 	<system>
@@ -12632,23 +12692,26 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<declination>-24 05 58</declination>
 		<distance>42.48</distance>
 		<star>
-			<mass>1.02</mass>
+			<name>HD 86226</name>
+			<age>1.5</age>
+			<mass>1.06</mass>
 			<magV>7.93</magV>
-			<metallicity>-0.04</metallicity>
+			<metallicity>0.05</metallicity>
+			<radius>1.02</radius>
 			<spectraltype>G2V</spectraltype>
 			<planet>
 				<name>HD 86226 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.5</mass>
-				<period>1534</period>
-				<semimajoraxis>2.6</semimajoraxis>
-				<eccentricity>0.73</eccentricity>
+				<mass>0.92</mass>
+				<period>1695</period>
+				<semimajoraxis>2.84</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+				<periastron>193</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/01/26</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>HD 86226</name>
 		</star>
 	</system>
 	<system>
@@ -13188,14 +13251,21 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<star>
 			<magV>8.03</magV>
 			<spectraltype>G4V</spectraltype>
+			<mass>1.00</mass>
+			<age>2.3</age>
+			<radius>1.0</radius>
+			<metallicity>0.02</metallicity>
+			<temperature>5759</temperature>
 			<planet>
 				<name>HD 98649 b</name>
 				<list>Confirmed planets</list>
-				<mass>7</mass>
-				<period>10400</period>
-				<eccentricity>0.86</eccentricity>
+				<mass>6.8</mass>
+				<period>4951</period>
+				<eccentricity>0.85</eccentricity>
+				<periastron>248</periastron>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>12/11/29</lastupdate>
+				<semimajoraxis>5.6</semimajoraxis>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
