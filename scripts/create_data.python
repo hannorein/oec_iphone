@@ -67,13 +67,14 @@ for filename in glob.glob("../open_exoplanet_catalogue/systems/*.xml"):
 			ElementTree.SubElement(star,"radius").text	= star0.findtext(".//radius") 
 			ElementTree.SubElement(star,"metallicity").text	= star0.findtext(".//metallicity") 
 			ElementTree.SubElement(star,"distance").text	= newtree.findtext(".//distance") 
+			ElementTree.SubElement(star,"temperature").text	= star0.findtext(".//temperature") 
 		else:
 			ElementTree.SubElement(star,"spectraltype").text= "" 
 			ElementTree.SubElement(star,"mass").text	= "" 
 			ElementTree.SubElement(star,"radius").text	= "" 
 			ElementTree.SubElement(star,"metallicity").text	= ""
 			ElementTree.SubElement(star,"distance").text	= "" 
-		ElementTree.SubElement(star,"temperature").text	= newtree.findtext(".//temperature") 
+			ElementTree.SubElement(star,"temperature").text	= "" 
 		ElementTree.SubElement(star,"rightascension").text	= newtree.findtext(".//rightascension") 
 		ElementTree.SubElement(star,"declination").text	= newtree.findtext(".//declination") 
 		ElementTree.SubElement(star,"angulardistance") 
