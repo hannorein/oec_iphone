@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Gliese 163 c</id_exoplaneteu>
+	<name>Gliese 163 c</name>
+	<name>HIP 19394 c</name>
+	<name>LHS 188 c</name>
+	<id>Gliese 163 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.08063122</mass>
+		<radius />
+		<orbit>
+			<period>25.63226</period>
+			<semimajoraxis>0.1254</semimajoraxis>
+			<eccentricity>0.102</eccentricity>
+			<inclination />
+			<periastron>281.035</periastron>
+			<longitude>40.049749</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.40</mass>
+		<radius />
+		<metallicity />
+		<distance>15</distance>
+		<temperature>299</temperature>
+		<rightascension>04 09 16</rightascension>
+		<declination>-53 22 23</declination>
+		<angulardistance />
+		<magV>10.93</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>12/11/30</lastupdate>
+	<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. Gliese 163 c lies within the habitable zone for a wide range of albedo values. The scientific paper is currently undergoing peer review.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
