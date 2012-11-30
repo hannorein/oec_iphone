@@ -1,4 +1,4 @@
-<planets date="2012-11-30" name="data" planets="864">
+<planets date="2012-11-30" name="data" planets="863">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -11748,7 +11748,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/11/29</lastupdate>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -13532,42 +13532,14 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<mass>2.54</mass>
 			<orbit>
 				<period>963</period>
-				<semimajoraxis>1.64</semimajoraxis>
-				<eccentricity>0.39</eccentricity>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K1 V</spectraltype>
-			<mass>0.7</mass>
-			<metallicity>-0.09</metallicity>
-			<distance>42.5</distance>
-			<rightascension>05 59 49</rightascension>
-			<declination>-48 14 22</declination>
-			<magV>8.65</magV>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2004</discoveryyear>
-		<lastupdate>09/10/06</lastupdate>
-		<new>0</new>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>HD 41004 B b</id_exoplaneteu>
-		<name>HD 41004 B b</name>
-		<id>HD 41004 B b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>18.4</mass>
-			<orbit>
-				<period>1.3283</period>
-				<semimajoraxis>0.0177</semimajoraxis>
-				<eccentricity>0.081</eccentricity>
+				<semimajoraxis>1.7</semimajoraxis>
+				<eccentricity>0.74</eccentricity>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M2</spectraltype>
 			<mass>0.4</mass>
-			<metallicity>-0.01</metallicity>
+			<metallicity>-0.09</metallicity>
 			<distance>43.03</distance>
 			<rightascension>05 59 50</rightascension>
 			<declination>-48 14 23</declination>
@@ -13575,7 +13547,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>06/08/25</lastupdate>
+		<lastupdate>12/11/30</lastupdate>
+		<description>This planet is orbiting the star HD 41004 A. A second object has been found around the star HD 41004 B. With a mass estimate of about 19 Jupiter masses, it is considered to be a brown dwarf.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25394,7 +25367,7 @@ Image credit: NASA/JPL-Caltech
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/11/26</lastupdate>
 		<description>WASP-77 A b is a transiting Hot Jupiter (a planet similar to Jupiter but with an orbit much closer to the host star). It is orbiting a moderately bright G8 V star which is part of a visual binary. The binary has a separation of 3 arcseconds.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
