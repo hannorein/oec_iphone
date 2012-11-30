@@ -1,4 +1,4 @@
-<systems name="systems" planets="864">
+<systems name="systems" planets="863">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2152,6 +2152,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<mass>0.40</mass>
 			<magV>10.93</magV>
 			<age>5.5</age>
+			<spectraltype>M3.5V</spectraltype>
 			<planet>
 				<name>Gliese 163 b</name>
 				<name>GJ 163 b</name>
@@ -9462,7 +9463,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/11/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
@@ -10888,54 +10889,46 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 	</system>
 	<system>
-		<name>HD 41004 A</name>
-		<rightascension>05 59 49</rightascension>
-		<declination>-48 14 22</declination>
-		<distance>42.5</distance>
-		<star>
-			<mass>0.7</mass>
-			<magV>8.65</magV>
-			<metallicity>-0.09</metallicity>
-			<spectraltype>K1 V</spectraltype>
-			<planet>
-				<name>HD 41004 A b</name>
-				<list>Confirmed planets</list>
-				<mass>2.54</mass>
-				<period>963</period>
-				<semimajoraxis>1.64</semimajoraxis>
-				<eccentricity>0.39</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/10/06</lastupdate>
-				<discoveryyear>2004</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 41004 A</name>
-		</star>
-	</system>
-	<system>
-		<name>HD 41004 B</name>
+		<name>HD 41004</name>
 		<rightascension>05 59 50</rightascension>
 		<declination>-48 14 23</declination>
 		<distance>43.03</distance>
-		<star>
-			<mass>0.4</mass>
-			<magV>12.33</magV>
-			<metallicity>-0.01</metallicity>
-			<spectraltype>M2</spectraltype>
-			<planet>
-				<name>HD 41004 B b</name>
-				<list>Confirmed planets</list>
-				<mass>18.4</mass>
-				<period>1.3283</period>
-				<semimajoraxis>0.0177</semimajoraxis>
+		<binary>
+			<semimajoraxis>21.51</semimajoraxis>
+			<star>
+				<name>HD 41004 A</name>
+				<mass>0.4</mass>
+				<magV>12.33</magV>
+				<metallicity>-0.09</metallicity>
+				<spectraltype>M2</spectraltype>
+				<planet>
+					<name>HD 41004 A b</name>
+					<list>Confirmed planets</list>
+					<mass>2.54</mass>
+					<period>963</period>
+					<semimajoraxis>1.7</semimajoraxis>
+					<eccentricity>0.74</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/11/30</lastupdate>
+					<discoveryyear>2004</discoveryyear>
+					<description>This planet is orbiting the star HD 41004 A. A second object has been found around the star HD 41004 B. With a mass estimate of about 19 Jupiter masses, it is considered to be a brown dwarf.</description>
+					<new>0</new>
+				</planet>
+			</star>
+			<binary>
+				<period>1.32</period>
 				<eccentricity>0.081</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>06/08/25</lastupdate>
-				<discoveryyear>2004</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 41004 B</name>
-		</star>
+				<star>
+					<name>HD 41004 B</name>
+					<mass>0.7</mass>
+					<spectraltype>K1V</spectraltype>
+				</star>
+				<star>
+					<name>HD 41004 B b</name>
+					<mass>0.0181410</mass>
+				</star>
+			</binary>
+		</binary>
 	</system>
 	<system>
 		<name>HD 4113</name>
@@ -20373,7 +20366,7 @@ Image credit: NASA/JPL-Caltech
 					<discoverymethod>transit</discoverymethod>
 					<lastupdate>12/11/26</lastupdate>
 					<discoveryyear>2012</discoveryyear>
-					<new>1</new>
+					<new>0</new>
 				</planet>
 				<name>WASP-77 A</name>
 			</star>
