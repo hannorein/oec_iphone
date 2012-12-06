@@ -1,4 +1,4 @@
-<planets date="2012-12-04" name="data" planets="863">
+<planets date="2012-12-05" name="data" planets="866">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -3314,6 +3314,93 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>07/04/25</lastupdate>
 		<description>Gliese 674 is a pre main sequence star in the constellation of Ara.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 676 A b</id_exoplaneteu>
+		<name>Gliese 676 A b</name>
+		<name>GJ 676 A b</name>
+		<id>Gliese 676 A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>4.95</mass>
+			<orbit>
+				<period>1050.3</period>
+				<semimajoraxis>1.80</semimajoraxis>
+				<eccentricity>0.328</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0V</spectraltype>
+			<mass>0.71</mass>
+			<metallicity>0.23</metallicity>
+			<distance>16.5</distance>
+			<rightascension>17 30 11</rightascension>
+			<declination>-51 38 13</declination>
+			<magV>9.58</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>12/12/05</lastupdate>
+		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 676 A d</id_exoplaneteu>
+		<name>Gliese 676 A d</name>
+		<name>GJ 676 A d</name>
+		<id>Gliese 676 A d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.014</mass>
+			<orbit>
+				<period>3.6000</period>
+				<semimajoraxis>0.0413</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0V</spectraltype>
+			<mass>0.71</mass>
+			<metallicity>0.23</metallicity>
+			<distance>16.5</distance>
+			<rightascension>17 30 11</rightascension>
+			<declination>-51 38 13</declination>
+			<magV>9.58</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/12/05</lastupdate>
+		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 676 A e</id_exoplaneteu>
+		<name>Gliese 676 A e</name>
+		<name>GJ 676 A e</name>
+		<id>Gliese 676 A e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.187</mass>
+			<orbit>
+				<period>35.37</period>
+				<semimajoraxis>0.187</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0V</spectraltype>
+			<mass>0.71</mass>
+			<metallicity>0.23</metallicity>
+			<distance>16.5</distance>
+			<rightascension>17 30 11</rightascension>
+			<declination>-51 38 13</declination>
+			<magV>9.58</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/12/05</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
