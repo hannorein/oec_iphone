@@ -7727,64 +7727,95 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>19 05 20</rightascension>
 		<declination>+25 55 14</declination>
 		<distance>59</distance>
-		<star>
-			<mass>1.47</mass>
-			<radius>2.99</radius>
-			<magV>7.18</magV>
-			<metallicity>0.55</metallicity>
-			<spectraltype>K0IV</spectraltype>
-			<planet>
-				<name>HD 177830 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.49</mass>
-				<period>406.6</period>
-				<semimajoraxis>1.2218</semimajoraxis>
-				<eccentricity>0.0009</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/07</lastupdate>
-				<discoveryyear>1999</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>HD 177830 c</name>
-				<list>Confirmed planets</list>
-				<mass>0.15</mass>
-				<period>110.9</period>
-				<semimajoraxis>0.5137</semimajoraxis>
-				<eccentricity>0.3495</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/11/19</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 177830</name>
-		</star>
+		<binary>
+			<semimajoraxis>97.1</semimajoraxis>
+			<star>
+				<name>HD 177830 A</name>
+				<mass>1.47</mass>
+				<radius>2.99</radius>
+				<magV>7.18</magV>
+				<metallicity>0.55</metallicity>
+				<spectraltype>K0IV</spectraltype>
+				<planet>
+					<name>HD 177830 A b</name>
+					<list>Confirmed planets</list>
+					<mass>1.49</mass>
+					<period>406.6</period>
+					<semimajoraxis>1.2218</semimajoraxis>
+					<eccentricity>0.0009</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/07</lastupdate>
+					<discoveryyear>1999</discoveryyear>
+					<description>The star HD 177830 A hosts at least two planets. The planets are close to the 4:1 resonance. The star is four times brighter than our Sun but only visible with binoculars from the Earth.</description>
+					<new>0</new>
+				</planet>
+				<planet>
+					<name>HD 177830 A c</name>
+					<list>Confirmed planets</list>
+					<mass>0.15</mass>
+					<period>110.9</period>
+					<semimajoraxis>0.5137</semimajoraxis>
+					<eccentricity>0.3495</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/07</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<description>The star HD 177830 A hosts at least two planets. The planets are close to the 4:1 resonance. The star is four times brighter than our Sun but only visible with binoculars from the Earth.</description>
+					<new>0</new>
+				</planet>
+			</star>
+			<star>
+				<name>HD 177830 B</name>
+				<mass>0.23</mass>
+				<spectraltype>M2-M5</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
-		<name>HD 178911 B</name>
+		<name>HD 178911</name>
 		<rightascension>19 09 03</rightascension>
 		<declination>+34 35 59</declination>
 		<distance>46.73</distance>
-		<star>
-			<mass>1.07</mass>
-			<radius>1.14</radius>
-			<magV>7.98</magV>
-			<metallicity>0.28</metallicity>
-			<spectraltype>G5</spectraltype>
-			<planet>
-				<name>HD 178911 B b</name>
-				<list>Confirmed planets</list>
-				<mass>6.292</mass>
-				<period>71.487</period>
-				<semimajoraxis>0.32</semimajoraxis>
-				<eccentricity>0.1243</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/29</lastupdate>
-				<discoveryyear>2001</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 178911 B</name>
-		</star>
+		<binary>
+			<semimajoraxis>640</semimajoraxis>
+			<star>
+				<name>HD 178911 B</name>
+				<name>HR 7272</name>
+				<name>ADS 12101</name>
+				<name>HIP 94075/6</name>
+				<mass>1.07</mass>
+				<radius>1.14</radius>
+				<magV>7.98</magV>
+				<metallicity>0.28</metallicity>
+				<spectraltype>G5</spectraltype>
+				<planet>
+					<name>HD 178911 B b</name>
+					<list>Confirmed planets</list>
+					<mass>6.292</mass>
+					<period>71.487</period>
+					<semimajoraxis>0.32</semimajoraxis>
+					<eccentricity>0.1243</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/07</lastupdate>
+					<description>The planet HD 178911 B b is part of a stellar triple system. The wide binary separation is approximately 640 astronomical units. The planet was found using the HIRES and ELODIE spectrographs mounted on telescopes in Hawaii and France.</description>
+					<discoveryyear>2001</discoveryyear>
+					<new>0</new>
+				</planet>
+			</star>
+			<binary>
+				<period>1296.6098</period>
+				<eccentricity>0.59</eccentricity>
+				<star>
+					<name>HD 178911 A A</name>
+					<mass>1.1</mass>
+					<spectraltype>G1</spectraltype>
+				</star>
+				<star>
+					<name>HD 178911 A B</name>
+					<mass>0.79</mass>
+					<spectraltype>K1</spectraltype>
+				</star>
+			</binary>
+		</binary>
 	</system>
 	<system>
 		<name>HD 179079</name>
