@@ -2262,30 +2262,47 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>00 16 12</rightascension>
 		<declination>-79 51 04</declination>
 		<distance>17.62</distance>
-		<star>
-			<mass>0.9</mass>
-			<radius>0.9</radius>
-			<magV>6.59</magV>
-			<metallicity>0.1</metallicity>
-			<spectraltype>G6 V</spectraltype>
-			<planet>
-				<name>Gliese 3021 b</name>
-				<name>GJ 3021 b</name>
-				<name>Gj 3021 b</name>
-				<name>Gl 3021 b</name>
-				<list>Confirmed planets</list>
-				<mass>3.37</mass>
-				<period>133.71</period>
-				<semimajoraxis>0.49</semimajoraxis>
-				<eccentricity>0.511</eccentricity>
-				<description>The Star Gliese 3021 is a binary star in the constellation of Hydrus.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/10/07</lastupdate>
-				<discoveryyear>2000</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>Gliese 3021</name>
-		</star>
+		<binary>
+			<semimajoraxis>68</semimajoraxis>
+			<star>
+				<name>Gliese 3021 A</name>
+				<name>HD 1237 A</name>
+				<name>HIP 1291 A</name>
+				<mass>0.9</mass>
+				<radius>0.9</radius>
+				<age>0.8</age>
+				<magV>6.59</magV>
+				<metallicity>0.1</metallicity>
+				<spectraltype>G6 V</spectraltype>
+				<planet>
+					<name>Gliese 3021 A b</name>
+					<name>GJ 3021 A b</name>
+					<name>Gj 3021 A b</name>
+					<name>Gl 3021 A b</name>
+					<name>HD 1237 A b</name>
+					<name>HIP 1291 A b</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>3.37</mass>
+					<period>133.71</period>
+					<semimajoraxis>0.49</semimajoraxis>
+					<eccentricity>0.511</eccentricity>
+					<description>The Star Gliese 3021 is a binary star in the constellation of Hydrus.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/07</lastupdate>
+					<discoveryyear>2000</discoveryyear>
+					<new>0</new>
+				</planet>
+			</star>
+			<star>
+				<name>Gliese 3021 B</name>
+				<name>HD 1237 B</name>
+				<name>HIP 1291 B</name>
+				<mass>0.13</mass>
+				<age>0.8</age>
+				<spectraltype>M4V V</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>Gliese 317</name>
@@ -8514,30 +8531,42 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 	</system>
 	<system>
-		<name>HD 196885 A</name>
+		<name>HD 196885</name>
 		<rightascension>20 39 51</rightascension>
 		<declination>+11 14 58</declination>
 		<distance>33</distance>
-		<star>
-			<mass>1.33</mass>
-			<radius>1.79</radius>
-			<magV>6.4</magV>
-			<metallicity>0.29</metallicity>
-			<spectraltype>F8V</spectraltype>
-			<planet>
-				<name>HD 196885 A b</name>
-				<list>Confirmed planets</list>
-				<mass>2.98</mass>
-				<period>1326</period>
-				<semimajoraxis>2.6</semimajoraxis>
-				<eccentricity>0.48</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/02/17</lastupdate>
-				<discoveryyear>2007</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 196885 A</name>
-		</star>
+		<binary>
+			<semimajoraxis>23</semimajoraxis>
+			<star>
+				<name>HD 196885 A</name>
+				<mass>1.33</mass>
+				<radius>1.79</radius>
+				<magV>6.4</magV>
+				<metallicity>0.29</metallicity>
+				<spectraltype>F8V</spectraltype>
+				<age>0.5</age>
+				<planet>
+					<name>HD 196885 A b</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>2.98</mass>
+					<period>1326</period>
+					<semimajoraxis>2.6</semimajoraxis>
+					<eccentricity>0.48</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/07</lastupdate>
+					<discoveryyear>2007</discoveryyear>
+					<description>The planet HD 196885 A b is orbiting a binary star in the constellation Delphinus. In 2004 a planet with an orbital period of 386 days was reported. A follow up study did not confirm the original planet but found strong evidence for a planet with a much longer period.</description>
+					<new>0</new>
+				</planet>
+			</star>
+			<star>
+				<name>HD 196885 B</name>
+				<spectraltype>M1V</spectraltype>
+				<age>0.5</age>
+				<mass>0.55</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 197037</name>
