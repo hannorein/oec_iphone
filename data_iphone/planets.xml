@@ -19853,9 +19853,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 40979 b</id_exoplaneteu>
-		<name>HD 40979 b</name>
-		<id>HD 40979 b</id>
+		<id_exoplaneteu>HD 40979 A b</id_exoplaneteu>
+		<name>HD 40979 A b</name>
+		<name>HIP 28767 A b</name>
+		<name>2MASS J06042993+4415379 A b</name>
+		<id>HD 40979 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>3.28</mass>
@@ -19888,12 +19890,13 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2002</discoveryyear>
-		<lastupdate>10/12/20</lastupdate>
-		<description />
+		<lastupdate>12/12/08</lastupdate>
+		<description>This planet is orbiting a yellow-white dwarf star which is part of a triple system.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 41004 A b</id_exoplaneteu>
@@ -32329,9 +32332,10 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>NY Vir b</id_exoplaneteu>
-		<name>NY Vir b</name>
-		<id>NY Vir b</id>
+		<id_exoplaneteu>NY Vir (AB) b</id_exoplaneteu>
+		<name>NY Vir (AB) b</name>
+		<name>PG 1336-018 (AB) b</name>
+		<id>NY Vir (AB) b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
 			<mass>2.3</mass>
@@ -32347,12 +32351,12 @@ Image credit: NASA/JPL-Caltech
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>B D</spectraltype>
-			<mass>0.6</mass>
+			<spectraltype>sdB</spectraltype>
+			<mass>0.46</mass>
 			<radius />
 			<metallicity />
 			<distance />
-			<temperature />
+			<temperature>33000</temperature>
 			<rightascension>13 38 48</rightascension>
 			<declination>-02 01 49</declination>
 			<angulardistance />
@@ -32364,7 +32368,7 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/12/20</lastupdate>
+		<lastupdate>12/12/08</lastupdate>
 		<description>The rapidly pulsating eclipsing binary NY Vir has a period of 0.1 days. On a much longer timescale of 7.9 years, the system exhibits small amplitude cyclic variations which are associated with a third body in the system. A recent paper by Qian et. al. claims that this body is a giant circumbinary planet orbiting NY Vir at a distance of 3.3 astronomical units. There might be another planet in this system with an even longer orbital period, probably more than 15 years.</description>
 		<new>0</new>
 		<image />
@@ -33691,9 +33695,9 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>RR Cae b</id_exoplaneteu>
-		<name>RR Cae b</name>
-		<id>RR Cae b</id>
+		<id_exoplaneteu>RR Cae (AB) b</id_exoplaneteu>
+		<name>RR Cae (AB) b</name>
+		<id>RR Cae (AB) b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
 			<mass>4.2</mass>
@@ -33711,10 +33715,10 @@ Image credit: NASA/JPL-Caltech
 		<star>
 			<spectraltype>DAZ8+dM</spectraltype>
 			<mass>0.622</mass>
-			<radius />
+			<radius>0.015</radius>
 			<metallicity />
 			<distance />
-			<temperature />
+			<temperature>7540</temperature>
 			<rightascension>04 21 06</rightascension>
 			<declination>-48 39 07</declination>
 			<angulardistance />
@@ -33726,12 +33730,13 @@ Image credit: NASA/JPL-Caltech
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/01/23</lastupdate>
-		<description />
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary RR Cae contains a cool white dwarf and an M-Type dwarf. Eclipse timing variations were used to find a circumbinary planet on an orbit nearly identical to that of Jupiter.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Saturn</id_exoplaneteu>
