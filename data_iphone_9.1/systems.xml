@@ -11069,26 +11069,52 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>06 04 29</rightascension>
 		<declination>+44 15 37</declination>
 		<distance>33.3</distance>
-		<star>
-			<mass>1.1</mass>
-			<radius>1.21</radius>
-			<magV>6.74</magV>
-			<metallicity>0.194</metallicity>
-			<spectraltype>F8 V</spectraltype>
-			<planet>
-				<name>HD 40979 b</name>
-				<list>Confirmed planets</list>
-				<mass>3.28</mass>
-				<period>263.1</period>
-				<semimajoraxis>0.83</semimajoraxis>
-				<eccentricity>0.25</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/20</lastupdate>
-				<discoveryyear>2002</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 40979</name>
-		</star>
+		<binary>
+			<semimajoraxis>6394</semimajoraxis>
+			<star>
+				<name>HD 40979 A</name>
+				<name>HIP 28767 A</name>
+				<name>2MASS J06042993+4415379 A</name>
+				<name>BD +44 1353</name>
+				<mass>1.1</mass>
+				<radius>1.21</radius>
+				<magV>6.74</magV>
+				<age>1</age>
+				<metallicity>0.194</metallicity>
+				<spectraltype>F8 V</spectraltype>
+				<planet>
+					<name>HD 40979 A b</name>
+					<name>HIP 28767 A b</name>
+					<name>2MASS J06042993+4415379 A b</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>3.28</mass>
+					<period>263.1</period>
+					<semimajoraxis>0.83</semimajoraxis>
+					<eccentricity>0.25</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<description>This planet is orbiting a yellow-white dwarf star which is part of a triple system.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2002</discoveryyear>
+					<new>0</new>
+				</planet>
+			</star>
+			<binary>
+				<semimajoraxis>129</semimajoraxis>
+				<star>
+					<name>HD 40979 B</name>
+					<name>BD +44 1351</name>
+					<mass>0.833</mass>
+					<age>1</age>
+					<spectraltype>K5</spectraltype>
+				</star>
+				<star>
+					<name>HD 40979 C</name>
+					<mass>0.380</mass>
+					<age>1</age>
+				</star>
+			</binary>
+		</binary>
 	</system>
 	<system>
 		<name>HD 41004</name>
@@ -17493,24 +17519,37 @@ Image credit: NASA/JPL-Caltech
 		<name>NY Vir</name>
 		<rightascension>13 38 48</rightascension>
 		<declination>-02 01 49</declination>
-		<star>
-			<mass>0.6</mass>
-			<magV>13.3</magV>
-			<spectraltype>B D</spectraltype>
+		<binary>
+			<period>0.1010159673</period>
+			<star>
+				<name>NY Vir A</name>
+				<name>PG 1336-018 A</name>
+				<mass>0.46</mass>
+				<magV>13.3</magV>
+				<temperature>33000</temperature>
+				<spectraltype>sdB</spectraltype>
+			</star>
+			<star>
+				<name>NY Vir B</name>
+				<name>PG 1336-018 B</name>
+				<mass>0.14</mass>
+				<temperature>3000</temperature>
+				<spectraltype>M5</spectraltype>
+			</star>
 			<planet>
-				<name>NY Vir b</name>
+				<name>NY Vir (AB) b</name>
+				<name>PG 1336-018 (AB) b</name>
 				<list>Confirmed planets</list>
 				<mass>2.3</mass>
 				<period>2900</period>
 				<semimajoraxis>3.3</semimajoraxis>
 				<description>The rapidly pulsating eclipsing binary NY Vir has a period of 0.1 days. On a much longer timescale of 7.9 years, the system exhibits small amplitude cyclic variations which are associated with a third body in the system. A recent paper by Qian et. al. claims that this body is a giant circumbinary planet orbiting NY Vir at a distance of 3.3 astronomical units. There might be another planet in this system with an even longer orbital period, probably more than 15 years.</description>
 				<discoverymethod>timing</discoverymethod>
-				<lastupdate>11/12/20</lastupdate>
+				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>NY Vir</name>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<name>OGLE-05-071L</name>
@@ -18238,24 +18277,38 @@ Image credit: NASA/JPL-Caltech
 		<name>RR Cae</name>
 		<rightascension>04 21 06</rightascension>
 		<declination>-48 39 07</declination>
-		<star>
-			<mass>0.622</mass>
-			<magV>14.4</magV>
-			<spectraltype>DAZ8+dM</spectraltype>
+		<binary>
+			<period>0.3041666</period>
+			<star>
+				<name>RR Cae A</name>
+				<radius>0.015</radius>
+				<mass>0.622</mass>
+				<magV>14.4</magV>
+				<spectraltype>DAZ8+dM</spectraltype>
+				<temperature>7540</temperature>
+			</star>
+			<star>
+				<name>RR Cae B</name>
+				<mass>0.182</mass>
+				<radius>0.203</radius>
+				<temperature>3100</temperature>
+				<spectraltype>M4</spectraltype>
+			</star>
 			<planet>
-				<name>RR Cae b</name>
+				<name>RR Cae (AB) b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, P-type</list>
 				<mass>4.2</mass>
 				<period>4350</period>
 				<semimajoraxis>5.3</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
+				<description>The binary RR Cae contains a cool white dwarf and an M-Type dwarf. Eclipse timing variations were used to find a circumbinary planet on an orbit nearly identical to that of Jupiter.</description>
 				<discoverymethod>timing</discoverymethod>
-				<lastupdate>12/01/23</lastupdate>
+				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>RR Cae</name>
-		</star>
+		</binary>
 	</system>
 	<system>
 		<name>SR 12 AB</name>
