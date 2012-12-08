@@ -1,7 +1,7 @@
 <planet>
-	<id_exoplaneteu>RR Cae b</id_exoplaneteu>
-	<name>RR Cae b</name>
-	<id>RR Cae b</id>
+	<id_exoplaneteu>RR Cae (AB) b</id_exoplaneteu>
+	<name>RR Cae (AB) b</name>
+	<id>RR Cae (AB) b</id>
 	<discoverymethod>timing</discoverymethod>
 	<properties>
 		<mass>4.2</mass>
@@ -19,10 +19,10 @@
 	<star>
 		<spectraltype>DAZ8+dM</spectraltype>
 		<mass>0.622</mass>
-		<radius />
+		<radius>0.015</radius>
 		<metallicity />
 		<distance />
-		<temperature />
+		<temperature>7540</temperature>
 		<rightascension>04 21 06</rightascension>
 		<declination>-48 39 07</declination>
 		<angulardistance />
@@ -34,10 +34,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/01/23</lastupdate>
-	<description />
+	<lastupdate>12/12/08</lastupdate>
+	<description>The binary RR Cae contains a cool white dwarf and an M-Type dwarf. Eclipse timing variations were used to find a circumbinary planet on an orbit nearly identical to that of Jupiter.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
 </planet>
