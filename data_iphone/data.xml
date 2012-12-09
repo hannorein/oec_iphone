@@ -1,4 +1,4 @@
-<planets date="2012-12-08" name="data" planets="860">
+<planets date="2012-12-08" name="data" planets="866">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -976,6 +976,74 @@
 		<description>The star 81 Ceti is a G-type giant in the constellation of Cetus.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>83 Leonis B b</id_exoplaneteu>
+		<name>83 Leonis B b</name>
+		<name>HD 99492 b</name>
+		<name>Gliese 429 B b</name>
+		<name>GJ 429 B b</name>
+		<id>83 Leonis B b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.109</mass>
+			<orbit>
+				<period>17.0431</period>
+				<semimajoraxis>0.1232</semimajoraxis>
+				<eccentricity>0.254</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.83</mass>
+			<radius>0.96</radius>
+			<metallicity>0.36</metallicity>
+			<distance>18</distance>
+			<temperature>4740</temperature>
+			<rightascension>11 26 46</rightascension>
+			<declination>+03 00 22</declination>
+			<magV>7.38</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2004</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>83 Leonis B c</id_exoplaneteu>
+		<name>83 Leonis B c</name>
+		<name>HD 99492 c</name>
+		<id>83 Leonis B c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.36</mass>
+			<orbit>
+				<period>4970</period>
+				<semimajoraxis>5.4</semimajoraxis>
+				<eccentricity>0.106</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.83</mass>
+			<radius>0.96</radius>
+			<metallicity>0.36</metallicity>
+			<distance>18</distance>
+			<temperature>4740</temperature>
+			<rightascension>11 26 46</rightascension>
+			<declination>+03 00 22</declination>
+			<magV>7.38</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>91 Aquarii A b</id_exoplaneteu>
@@ -10370,9 +10438,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 195019 b</id_exoplaneteu>
-		<name>HD 195019 b</name>
-		<id>HD 195019 b</id>
+		<id_exoplaneteu>HD 195019 A b</id_exoplaneteu>
+		<name>HD 195019 A b</name>
+		<id>HD 195019 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>3.7</mass>
@@ -10394,9 +10462,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1998</discoveryyear>
-		<lastupdate>06/11/25</lastupdate>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The planet is orbiting a star that is part of a binary system. The planet's periastron is far enough away from the host star such that tides are not important.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 196050 A b</id_exoplaneteu>
@@ -10521,9 +10591,12 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 19994 b</id_exoplaneteu>
-		<name>HD 19994 b</name>
-		<id>HD 19994 b</id>
+		<id_exoplaneteu>HD 19994 A b</id_exoplaneteu>
+		<name>HD 19994 A b</name>
+		<name>94 Ceti A b</name>
+		<name>Gliese 128 A b</name>
+		<name>GJ 128 A b</name>
+		<id>HD 19994 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.68</mass>
@@ -10544,10 +10617,12 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<magV>5.07</magV>
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2003</discoveryyear>
-		<lastupdate>09/10/06</lastupdate>
+		<discoveryyear>2000</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The star system 94 Ceti (also known ad HD 19994) is an eccentric binary approximately 73 light years away from Earth. A planet orbiting the primary star was discovered in 2000 by the European Sothern Observatory.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 20003 b</id_exoplaneteu>
@@ -22977,9 +23052,13 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>tau Boo b</id_exoplaneteu>
-		<name>tau Boo b</name>
-		<id>tau Boo b</id>
+		<id_exoplaneteu>tau Boo A b</id_exoplaneteu>
+		<name>tau Boo A b</name>
+		<name>Tau Booetis A b</name>
+		<name>HD 120136 A b</name>
+		<name>GJ 527 A b</name>
+		<name>Gliese 527 A b</name>
+		<id>tau Boo A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>5.95</mass>
@@ -23007,9 +23086,10 @@ Image credit: NASA/JPL-Caltech
 		<new>0</new>
 		<image>tauboo</image>
 		<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
-	
-	Credit: ESO/L. Calcada</imagedescription>
+		
+		Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>tau Gem b</id_exoplaneteu>
@@ -23200,6 +23280,137 @@ Image credit: NASA/JPL-Caltech
 		<lastupdate>11/09/05</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A b</id_exoplaneteu>
+		<name>Upsilon Andromedae A b</name>
+		<name>ups And A b</name>
+		<id>Upsilon Andromedae A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.69</mass>
+			<orbit>
+				<period>4.617136</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>0.013</eccentricity>
+				<inclination>30</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<magV>4.09</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>1996</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A c</id_exoplaneteu>
+		<name>Upsilon Andromedae A c</name>
+		<name>ups And A c</name>
+		<id>Upsilon Andromedae A c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>14.57</mass>
+			<orbit>
+				<period>237.7</period>
+				<semimajoraxis>0.861</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
+				<inclination>8</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<magV>4.09</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>1999</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A d</id_exoplaneteu>
+		<name>Upsilon Andromedae A d</name>
+		<name>ups And A d</name>
+		<id>Upsilon Andromedae A d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>10.19</mass>
+			<orbit>
+				<period>1302.61</period>
+				<semimajoraxis>2.55</semimajoraxis>
+				<eccentricity>0.274</eccentricity>
+				<inclination>24</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<magV>4.09</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>1999</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A e</id_exoplaneteu>
+		<name>Upsilon Andromedae A e</name>
+		<name>ups And A e</name>
+		<id>Upsilon Andromedae A e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.059</mass>
+			<orbit>
+				<period>3848.86</period>
+				<semimajoraxis>5.2456</semimajoraxis>
+				<eccentricity>0.00536</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<magV>4.09</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Uranus</id_exoplaneteu>
