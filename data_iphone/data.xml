@@ -975,9 +975,13 @@
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>91 Aqr b</id_exoplaneteu>
-		<name>91 Aqr b</name>
-		<id>91 Aqr b</id>
+		<id_exoplaneteu>91 Aquarii A b</id_exoplaneteu>
+		<name>91 Aquarii A b</name>
+		<name>91 Aqr A b</name>
+		<name>HD 219449 A b</name>
+		<name>HIP 114855 A b</name>
+		<name>Gliese 893.2 A b</name>
+		<id>91 Aquarii A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>2.9</mass>
@@ -988,19 +992,22 @@
 		</properties>
 		<star>
 			<spectraltype>K0 III</spectraltype>
-			<mass>2.9</mass>
+			<mass>1.74</mass>
+			<radius>10.16</radius>
 			<metallicity>-0.085</metallicity>
 			<distance>45.5</distance>
+			<temperature>4603</temperature>
 			<rightascension>23 15 53</rightascension>
 			<declination>-09 05 15</declination>
 			<magV>4.21</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>11/01/03</lastupdate>
-		<description>91 Aquarii is a triple star system in the constellation Aquarius.</description>
+		<lastupdate>12/12/08</lastupdate>
+		<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the nakes eye and is a host to at least one extrasolar planet.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>AB Pic b</id_exoplaneteu>
@@ -3415,6 +3422,72 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>12/12/05</lastupdate>
 		<description>The star system Gliese 676 is located in the constellation Ara. This  planet was confirmed using a Bayesian probability analysis. It has a false alarme probability of less than one percent.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 777 A b</id_exoplaneteu>
+		<name>Gliese 777 A b</name>
+		<name>HD 190360 A b</name>
+		<name>HR 7670 A b</name>
+		<id>Gliese 777 A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.502</mass>
+			<orbit>
+				<period>2891</period>
+				<semimajoraxis>3.92</semimajoraxis>
+				<eccentricity>0.36</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6 IV</spectraltype>
+			<mass>1.04</mass>
+			<radius>1.2</radius>
+			<metallicity>0.24</metallicity>
+			<distance>15.89</distance>
+			<rightascension>20 03 37</rightascension>
+			<declination>+29 53 48</declination>
+			<magV>5.71</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2003</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 777 A c</id_exoplaneteu>
+		<name>Gliese 777 A c</name>
+		<name>HD 190360 A c</name>
+		<name>HR 7670 A c</name>
+		<id>Gliese 777 A c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.057</mass>
+			<orbit>
+				<period>17.1</period>
+				<semimajoraxis>0.128</semimajoraxis>
+				<eccentricity>0.01</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6 IV</spectraltype>
+			<mass>1.04</mass>
+			<radius>1.2</radius>
+			<metallicity>0.24</metallicity>
+			<distance>15.89</distance>
+			<rightascension>20 03 37</rightascension>
+			<declination>+29 53 48</declination>
+			<magV>5.71</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2005</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -6356,9 +6429,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 114729 b</id_exoplaneteu>
-		<name>HD 114729 b</name>
-		<id>HD 114729 b</id>
+		<id_exoplaneteu>HD 114729 A b</id_exoplaneteu>
+		<name>HD 114729 A b</name>
+		<id>HD 114729 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.84</mass>
@@ -6380,9 +6453,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2002</discoveryyear>
-		<lastupdate>10/12/29</lastupdate>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The planet HD 114720 A b is orbiting a Sun-like star approximately 114 light years away. It has a mass similar to Jupiter and was discovered by the California and Carnegie Planet Search.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 114762 b</id_exoplaneteu>
@@ -8102,6 +8177,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<description>The star system HD 14751, also known as HR 6094, consists of a Sun-like star, a white dwarf stellar remnant and a Jupiter-mass planet. The planet was discovered on 18 June 2002.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 148156 b</id_exoplaneteu>
@@ -10166,64 +10242,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 190360 b</id_exoplaneteu>
-		<name>HD 190360 b</name>
-		<id>HD 190360 b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>1.502</mass>
-			<orbit>
-				<period>2891</period>
-				<semimajoraxis>3.92</semimajoraxis>
-				<eccentricity>0.36</eccentricity>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G6 IV</spectraltype>
-			<mass>1.04</mass>
-			<radius>1.2</radius>
-			<metallicity>0.24</metallicity>
-			<distance>15.89</distance>
-			<rightascension>20 03 37</rightascension>
-			<declination>+29 53 48</declination>
-			<magV>5.71</magV>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2003</discoveryyear>
-		<lastupdate>09/02/18</lastupdate>
-		<new>0</new>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>HD 190360 c</id_exoplaneteu>
-		<name>HD 190360 c</name>
-		<id>HD 190360 c</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.057</mass>
-			<orbit>
-				<period>17.1</period>
-				<semimajoraxis>0.128</semimajoraxis>
-				<eccentricity>0.01</eccentricity>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G6 IV</spectraltype>
-			<mass>1.04</mass>
-			<radius>1.2</radius>
-			<metallicity>0.24</metallicity>
-			<distance>15.89</distance>
-			<rightascension>20 03 37</rightascension>
-			<declination>+29 53 48</declination>
-			<magV>5.71</magV>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2005</discoveryyear>
-		<lastupdate>09/02/18</lastupdate>
-		<new>0</new>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>HD 190647 b</id_exoplaneteu>
 		<name>HD 190647 b</name>
 		<id>HD 190647 b</id>
@@ -11396,9 +11414,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 213240 b</id_exoplaneteu>
-		<name>HD 213240 b</name>
-		<id>HD 213240 b</id>
+		<id_exoplaneteu>HD 213240 A b</id_exoplaneteu>
+		<name>HD 213240 A b</name>
+		<id>HD 213240 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>4.5</mass>
@@ -11409,7 +11427,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G4 IV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.22</mass>
 			<radius>1.5</radius>
 			<metallicity>0.16</metallicity>
@@ -11420,9 +11438,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2001</discoveryyear>
-		<lastupdate>10/12/30</lastupdate>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star system HD 213240 consists of the components A and C. The letter B was already used by the WDS survey from 1901 to describe another object. However, it turns out that the B component is not physically associated with the binary. The planet orbiting the A component was discovered in 2001 by Santos and collaborators.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 215152 b</id_exoplaneteu>
@@ -15555,6 +15575,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	<planet>
 		<id_exoplaneteu>HD 80606 b</id_exoplaneteu>
 		<name>HD 80606 b</name>
+		<name>Struve 1341 B b</name>
 		<id>HD 80606 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -15573,15 +15594,18 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<radius>0.98</radius>
 			<metallicity>0.43</metallicity>
 			<distance>58.4</distance>
+			<temperature>5370</temperature>
 			<rightascension>09 22 37</rightascension>
 			<declination>+50 36 13</declination>
 			<magV>8.93</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2001</discoveryyear>
-		<lastupdate>12/01/26</lastupdate>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The star HD 80606 (also known as Struve 1341 B) is part of a binary star system with a separation of 1200 astronomical units. It hosts an extrasolar planet on a highly elliptical orbits. Because of the high eccentricity the temperature of the planet's surface can rise from 800K to 1500K in just 6 hours.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 81040 b</id_exoplaneteu>
@@ -16078,9 +16102,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 89744 b</id_exoplaneteu>
-		<name>HD 89744 b</name>
-		<id>HD 89744 b</id>
+		<id_exoplaneteu>HD 89744 A b</id_exoplaneteu>
+		<name>HD 89744 A b</name>
+		<name>HR 4067 A b</name>
+		<name>GJ 9326 A b</name>
+		<id>HD 89744 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>7.2</mass>
@@ -16103,9 +16129,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>10/12/08</lastupdate>
+		<lastupdate>12/12/08</lastupdate>
+		<description>This planet was discovered in 2000 by Korzennik and collaborators in 2004 Mugrauer and colleagues found a low mass stellar companion</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 90156 b</id_exoplaneteu>
@@ -21969,10 +21997,11 @@ Image credit: NASA/JPL-Caltech
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>NY Vir (AB) b</id_exoplaneteu>
+		<id_exoplaneteu>NY Virginis (AB) b</id_exoplaneteu>
+		<name>NY Virginis (AB) b</name>
 		<name>NY Vir (AB) b</name>
 		<name>PG 1336-018 (AB) b</name>
-		<id>NY Vir (AB) b</id>
+		<id>NY Virginis (AB) b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
 			<mass>2.3</mass>
@@ -21984,6 +22013,7 @@ Image credit: NASA/JPL-Caltech
 		<star>
 			<spectraltype>sdB</spectraltype>
 			<mass>0.46</mass>
+			<distance>613.18</distance>
 			<temperature>33000</temperature>
 			<rightascension>13 38 48</rightascension>
 			<declination>-02 01 49</declination>
@@ -21992,9 +22022,10 @@ Image credit: NASA/JPL-Caltech
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>12/12/08</lastupdate>
-		<description>The rapidly pulsating eclipsing binary NY Vir has a period of 0.1 days. On a much longer timescale of 7.9 years, the system exhibits small amplitude cyclic variations which are associated with a third body in the system. A recent paper by Qian et. al. claims that this body is a giant circumbinary planet orbiting NY Vir at a distance of 3.3 astronomical units. There might be another planet in this system with an even longer orbital period, probably more than 15 years.</description>
+		<description>The rapidly pulsating eclipsing binary NY Virginis has a period of 0.1 days. On a much longer timescale of 7.9 years, the system exhibits small amplitude cyclic variations which are associated with a third body in the system. A recent paper by Qian et. al. claims that this body is a giant circumbinary planet orbiting NY Vir at a distance of 3.3 astronomical units. There might be another planet in this system with an even longer orbital period, probably more than 15 years.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>OGLE-05-071L b</id_exoplaneteu>
