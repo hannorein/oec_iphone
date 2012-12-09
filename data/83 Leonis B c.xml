@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>83 Leonis B c</id_exoplaneteu>
+	<name>83 Leonis B c</name>
+	<name>HD 99492 c</name>
+	<id>83 Leonis B c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.36</mass>
+		<radius />
+		<orbit>
+			<period>4970</period>
+			<semimajoraxis>5.4</semimajoraxis>
+			<eccentricity>0.106</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2V</spectraltype>
+		<mass>0.83</mass>
+		<radius>0.96</radius>
+		<metallicity>0.36</metallicity>
+		<distance>18</distance>
+		<temperature>4740</temperature>
+		<rightascension>11 26 46</rightascension>
+		<declination>+03 00 22</declination>
+		<angulardistance />
+		<magV>7.38</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2010</discoveryyear>
+	<lastupdate>12/12/08</lastupdate>
+	<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
+	<new>0</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
