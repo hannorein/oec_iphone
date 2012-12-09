@@ -1,7 +1,11 @@
 <planet>
-	<id_exoplaneteu>91 Aqr b</id_exoplaneteu>
-	<name>91 Aqr b</name>
-	<id>91 Aqr b</id>
+	<id_exoplaneteu>91 Aquarii A b</id_exoplaneteu>
+	<name>91 Aquarii A b</name>
+	<name>91 Aqr A b</name>
+	<name>HD 219449 A b</name>
+	<name>HIP 114855 A b</name>
+	<name>Gliese 893.2 A b</name>
+	<id>91 Aquarii A b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
 		<mass>2.9</mass>
@@ -18,11 +22,11 @@
 	</properties>
 	<star>
 		<spectraltype>K0 III</spectraltype>
-		<mass>2.9</mass>
-		<radius />
+		<mass>1.74</mass>
+		<radius>10.16</radius>
 		<metallicity>-0.085</metallicity>
 		<distance>45.5</distance>
-		<temperature />
+		<temperature>4603</temperature>
 		<rightascension>23 15 53</rightascension>
 		<declination>-09 05 15</declination>
 		<angulardistance />
@@ -34,10 +38,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>11/01/03</lastupdate>
-	<description>91 Aquarii is a triple star system in the constellation Aquarius.</description>
+	<lastupdate>12/12/08</lastupdate>
+	<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the nakes eye and is a host to at least one extrasolar planet.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>
