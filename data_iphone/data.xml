@@ -1,4 +1,4 @@
-<planets date="2012-12-08" name="data" planets="866">
+<planets date="2012-12-09" name="data" planets="866">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -84,7 +84,7 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>08/07/11</lastupdate>
-		<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly a white dwarf.</description>
+		<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly an A-type dwarf.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -11040,19 +11040,21 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G9.5V</spectraltype>
-			<mass>0.0379</mass>
-			<distance>35.4</distance>
+			<spectraltype>G2 V</spectraltype>
+			<mass>0.9</mass>
+			<metallicity>-0.05</metallicity>
+			<distance>36.02</distance>
 			<rightascension>03 20 03</rightascension>
-			<declination>-28 47 02</declination>
-			<magV>8.44</magV>
+			<declination>-28 51 14</declination>
+			<magV>7.366</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/12</lastupdate>
-		<description>This planet is part of a large data release by the Euopean HARP team.</description>
+		<lastupdate>12/12/09</lastupdate>
+		<description>The planet HD 20781 b is orbiting a star in a binary system in which both stars host a planetary systems. This is the first such system. It was announced as part of a large data release by the Euopean HARPS team.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 20781 c</id_exoplaneteu>
@@ -11068,19 +11070,21 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G9.5V</spectraltype>
-			<mass>0.0379</mass>
-			<distance>35.4</distance>
+			<spectraltype>G2 V</spectraltype>
+			<mass>0.9</mass>
+			<metallicity>-0.05</metallicity>
+			<distance>36.02</distance>
 			<rightascension>03 20 03</rightascension>
-			<declination>-28 47 02</declination>
-			<magV>8.44</magV>
+			<declination>-28 51 14</declination>
+			<magV>7.366</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/12</lastupdate>
-		<description>This planet is part of a large data release by the Euopean HARP team.</description>
+		<lastupdate>12/12/09</lastupdate>
+		<description>The planet HD 20781 c is orbiting a star in a binary system in which both stars host a planetary systems. This is the first such system. It was announced as part of a large data release by the Euopean HARPS team.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 20782 b</id_exoplaneteu>
@@ -11097,18 +11101,20 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</properties>
 		<star>
 			<spectraltype>G2 V</spectraltype>
-			<mass>1</mass>
+			<mass>0.9</mass>
 			<metallicity>-0.05</metallicity>
 			<distance>36.02</distance>
 			<rightascension>03 20 03</rightascension>
 			<declination>-28 51 14</declination>
-			<magV>7.38</magV>
+			<magV>7.366</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>08/10/10</lastupdate>
+		<lastupdate>12/12/09</lastupdate>
+		<description>The planet HD 20782 b is orbiting the main sequence star HD 20782, a star in a binary system in which both stars host a planetary systems. This is the first such system.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 207832 b</id_exoplaneteu>
