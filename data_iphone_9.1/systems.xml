@@ -1,4 +1,4 @@
-<systems name="systems" planets="866">
+<systems name="systems" planets="860">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -107,31 +107,54 @@
 		</star>
 	</system>
 	<system>
-		<name>16 Cyg B</name>
+		<name>16 Cygni</name>
 		<rightascension>19 41 51</rightascension>
 		<declination>+50 31 03</declination>
 		<distance>21.41</distance>
-		<star>
-			<mass>1.01</mass>
-			<radius>0.98</radius>
-			<magV>6.2</magV>
-			<metallicity>0.08</metallicity>
-			<spectraltype>G2.5 V</spectraltype>
-			<planet>
-				<name>16 Cyg B b</name>
-				<list>Confirmed planets</list>
-				<mass>1.68</mass>
-				<period>799.5</period>
-				<semimajoraxis>1.68</semimajoraxis>
-				<eccentricity>0.689</eccentricity>
-				<description>16 Cygni ABC is a hierachical triple system. The star is in the Kepler field of view. In an active search for extra-terrestrial intelligence a radio message has been sent to this system on May 24 1999. It will reach the system in 2069.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/10/07</lastupdate>
-				<discoveryyear>1996</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>16 Cyg B</name>
-		</star>
+		<binary>
+			<semimajoraxis>850</semimajoraxis>
+			<star>
+				<name>16 Cygni B</name>
+				<name>16 Cyg B</name>
+				<name>HD 186427 B</name>
+				<mass>1.01</mass>
+				<radius>0.98</radius>
+				<magV>6.2</magV>
+				<metallicity>0.08</metallicity>
+				<spectraltype>G2.5 V</spectraltype>
+				<planet>
+					<name>16 Cygni B b</name>
+					<name>16 Cyg B b</name>
+					<name>HD 186427 B b</name>
+					<list>Confirmed planets</list>
+					<mass>1.68</mass>
+					<period>799.5</period>
+					<semimajoraxis>1.68</semimajoraxis>
+					<eccentricity>0.689</eccentricity>
+					<description>16 Cygni is a hierachical triple system. The star is in the Kepler field of view. In an active search for extra-terrestrial intelligence a radio message has been sent to this system on May 24 1999. It will reach the system in 2069.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>1996</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<binary>
+				<semimajoraxis>70</semimajoraxis>
+				<star>
+					<name>16 Cygni A</name>
+					<name>16 Cyg A</name>
+					<name>HD 186427 A</name>
+					<mass>1.02</mass>
+				</star>
+				<star>
+					<name>16 Cygni C</name>
+					<name>16 Cyg C</name>
+					<name>HD 186427 C</name>
+					<mass>0.17</mass>
+				</star>
+			</binary>
+		</binary>
 	</system>
 	<system>
 		<name>18 Del</name>
@@ -5515,40 +5538,58 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>01 57 09</rightascension>
 		<declination>-10 14 32</declination>
 		<distance>33.98</distance>
-		<star>
-			<mass>1.125</mass>
-			<radius>2.18</radius>
-			<magV>6.42</magV>
-			<metallicity>0.17</metallicity>
-			<spectraltype>G5</spectraltype>
-			<planet>
-				<name>HD 11964 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.622</mass>
-				<period>1945</period>
-				<semimajoraxis>3.16</semimajoraxis>
-				<eccentricity>0.041</eccentricity>
-				<description>The planet hosting star HD 11964 is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/15</lastupdate>
-				<discoveryyear>2005</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>HD 11964 c</name>
-				<list>Confirmed planets</list>
-				<mass>0.079</mass>
-				<period>37.91</period>
-				<semimajoraxis>0.229</semimajoraxis>
-				<eccentricity>0.3</eccentricity>
-				<description>The planet hosting star HD 11964 is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/15</lastupdate>
-				<discoveryyear>2005</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 11964</name>
-		</star>
+		<binary>
+			<semimajoraxis>1379</semimajoraxis>
+			<star>
+				<name>HD 11964 A</name>
+				<name>Gliese 81.1 A</name>
+				<name>GJ 81.1 A</name>
+				<mass>1.125</mass>
+				<radius>2.18</radius>
+				<magV>6.42</magV>
+				<age>13.1</age>
+				<metallicity>0.17</metallicity>
+				<spectraltype>G5</spectraltype>
+				<planet>
+					<name>HD 11964 A b</name>
+					<name>Gliese 81.1 A b</name>
+					<name>GJ 81.1 A b</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>0.622</mass>
+					<period>1945</period>
+					<semimajoraxis>3.16</semimajoraxis>
+					<eccentricity>0.041</eccentricity>
+					<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2005</discoveryyear>
+					<new>0</new>
+				</planet>
+				<planet>
+					<name>HD 11964 A c</name>
+					<name>Gliese 81.1 A c</name>
+					<name>GJ 81.1 A c</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>0.079</mass>
+					<period>37.91</period>
+					<semimajoraxis>0.229</semimajoraxis>
+					<eccentricity>0.3</eccentricity>
+					<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2005</discoveryyear>
+					<new>0</new>
+				</planet>
+			</star>
+			<star>
+				<name>HD 11964 A</name>
+				<name>Gliese 81.1 A</name>
+				<name>GJ 81.1 A</name>
+				<mass>0.67</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 11977</name>
@@ -6386,31 +6427,40 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</binary>
 	</system>
 	<system>
-		<name>HD 142022 A</name>
+		<name>HD 142022</name>
 		<rightascension>16 10 15</rightascension>
 		<declination>-84 13 53</declination>
 		<distance>35.87</distance>
-		<star>
-			<mass>0.99</mass>
-			<radius>0.705</radius>
-			<magV>7.7</magV>
-			<metallicity>0.19</metallicity>
-			<spectraltype>K0 V</spectraltype>
-			<planet>
-				<name>HD 142022 A b</name>
-				<list>Confirmed planets</list>
-				<mass>5.1</mass>
-				<period>1928</period>
-				<semimajoraxis>3.03</semimajoraxis>
-				<eccentricity>0.53</eccentricity>
-				<inclination>10</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/01/11</lastupdate>
-				<discoveryyear>2005</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 142022 A</name>
-		</star>
+		<binary>
+			<semimajoraxis>820</semimajoraxis>
+			<star>
+				<name>HD 142022 A</name>
+				<mass>0.99</mass>
+				<radius>0.705</radius>
+				<magV>7.7</magV>
+				<metallicity>0.19</metallicity>
+				<spectraltype>G9V</spectraltype>
+				<planet>
+					<name>HD 142022 A b</name>
+					<list>Confirmed planets</list>
+					<mass>5.1</mass>
+					<period>1928</period>
+					<semimajoraxis>3.03</semimajoraxis>
+					<eccentricity>0.53</eccentricity>
+					<inclination>10</inclination>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<description>The binary star system HD 142022 is located in the southernmost constellation of Octans. A planet has been discovered in orbit around the primary star.</description>
+					<discoveryyear>2005</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 142022 B</name>
+				<mass>0.60</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 142245</name>
@@ -8335,26 +8385,35 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>19 52 04</rightascension>
 		<declination>+28 06 01</declination>
 		<distance>52.6</distance>
-		<star>
-			<mass>1.09</mass>
-			<radius>1.1</radius>
-			<magV>8.22</magV>
-			<metallicity>0.29</metallicity>
-			<spectraltype>G5IV</spectraltype>
-			<planet>
-				<name>HD 188015 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.26</mass>
-				<period>456.46</period>
-				<semimajoraxis>1.19</semimajoraxis>
-				<eccentricity>0.15</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/30</lastupdate>
-				<discoveryyear>2004</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 188015</name>
-		</star>
+		<binary>
+			<semimajoraxis>684</semimajoraxis>
+			<star>
+				<name>HD 188015 A</name>
+				<mass>1.09</mass>
+				<radius>1.1</radius>
+				<magV>8.22</magV>
+				<metallicity>0.29</metallicity>
+				<spectraltype>G5IV</spectraltype>
+				<planet>
+					<name>HD 188015 A b</name>
+					<list>Confirmed planets</list>
+					<mass>1.26</mass>
+					<period>456.46</period>
+					<semimajoraxis>1.19</semimajoraxis>
+					<eccentricity>0.15</eccentricity>
+					<description>The star HD 188015 A is part of a binary system. The binary companion is approximately 684 astronomical units away and much less massive. The planet was found by Geoffrey Marcy and collaborators in 2005.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2004</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 188015 B</name>
+				<mass>0.21</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 189567</name>
@@ -10920,40 +10979,54 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>05 46 34</rightascension>
 		<declination>+01 10 05</declination>
 		<distance>39.28</distance>
-		<star>
-			<mass>1.48</mass>
-			<radius>2.44</radius>
-			<magV>5.94</magV>
-			<metallicity>0.27</metallicity>
-			<spectraltype>G4 IV</spectraltype>
-			<planet>
-				<name>HD 38529 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.78</mass>
-				<period>14.3104</period>
-				<semimajoraxis>0.131</semimajoraxis>
-				<eccentricity>0.248</eccentricity>
-				<inclination>57</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/05/11</lastupdate>
-				<discoveryyear>2000</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>HD 38529 c</name>
-				<list>Confirmed planets</list>
-				<mass>17.7</mass>
-				<period>2134.76</period>
-				<semimajoraxis>3.695</semimajoraxis>
-				<eccentricity>0.36</eccentricity>
-				<inclination>48.3</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/03/02</lastupdate>
-				<discoveryyear>2002</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 38529</name>
-		</star>
+		<binary>
+			<semimajoraxis>12000</semimajoraxis>
+			<star>
+				<name>HD 38529 A</name>
+				<name>138 G. Orionis A</name>
+				<mass>1.48</mass>
+				<radius>2.44</radius>
+				<magV>5.94</magV>
+				<metallicity>0.27</metallicity>
+				<spectraltype>G4 IV</spectraltype>
+				<planet>
+					<name>HD 38529 A b</name>
+					<name>138 G. Orionis A b</name>
+					<list>Confirmed planets</list>
+					<mass>0.78</mass>
+					<period>14.3104</period>
+					<semimajoraxis>0.131</semimajoraxis>
+					<eccentricity>0.248</eccentricity>
+					<inclination>57</inclination>
+					<description>The star system HD 38529 contains a yellow subgiant (the planet hosting star) and a red dwarf. The binary separation is 12000 astronomical units. A debris disc has been detected around the planet hosting star beyond 86 astronomical units.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2000</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>HD 38529 A c</name>
+					<list>Confirmed planets</list>
+					<mass>17.7</mass>
+					<period>2134.76</period>
+					<semimajoraxis>3.695</semimajoraxis>
+					<eccentricity>0.36</eccentricity>
+					<inclination>48.3</inclination>
+					<discoverymethod>RV</discoverymethod>
+					<description>The star system HD 38529 contains a yellow subgiant (the planet hosting star) and a red dwarf. The binary separation is 12000 astronomical units. A debris disc has been detected around the planet hosting star beyond 86 astronomical units.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2002</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 38529 A</name>
+				<mass>0.5</mass>
+				<spectraltype>M3.0V</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 38801</name>
@@ -12626,26 +12699,36 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>08 47 40</rightascension>
 		<declination>-41 44 12</declination>
 		<distance>28.94</distance>
-		<star>
-			<mass>1.05</mass>
-			<radius>1.25</radius>
-			<magV>6.35</magV>
-			<metallicity>0.29</metallicity>
-			<spectraltype>G0 V</spectraltype>
-			<planet>
-				<name>HD 75289 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.42</mass>
-				<period>3.5098</period>
-				<semimajoraxis>0.046</semimajoraxis>
-				<eccentricity>0.024</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/01/01</lastupdate>
-				<discoveryyear>1999</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 75289</name>
-		</star>
+		<binary>
+			<semimajoraxis>621</semimajoraxis>
+			<star>
+				<name>HD 75289 A</name>
+				<mass>1.05</mass>
+				<radius>1.25</radius>
+				<magV>6.35</magV>
+				<metallicity>0.29</metallicity>
+				<spectraltype>G0 V</spectraltype>
+				<planet>
+					<name>HD 75289 A b</name>
+					<list>Confirmed planets</list>
+					<mass>0.42</mass>
+					<period>3.5098</period>
+					<semimajoraxis>0.046</semimajoraxis>
+					<eccentricity>0.024</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<description>The Sun-like star HD 75289 is located in the constellation Velo. It is part of a binary system. The companion is a red dwarf. It also hosts a gas giant which was detected by Udry et al. in 1999.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>1999</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 75289 B</name>
+				<mass>0.14</mass>
+				<spectraltype>M3.5V</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 75898</name>
@@ -13717,44 +13800,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<new>0</new>
 			</planet>
 			<name>HD 99109</name>
-		</star>
-	</system>
-	<system>
-		<name>HD 99492</name>
-		<rightascension>11 26 46</rightascension>
-		<declination>+03 00 22</declination>
-		<distance>18</distance>
-		<star>
-			<mass>0.83</mass>
-			<radius>0.96</radius>
-			<magV>7.38</magV>
-			<metallicity>0.36</metallicity>
-			<spectraltype>K2V</spectraltype>
-			<planet>
-				<name>HD 99492 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.109</mass>
-				<period>17.0431</period>
-				<semimajoraxis>0.1232</semimajoraxis>
-				<eccentricity>0.254</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>06/07/15</lastupdate>
-				<discoveryyear>2004</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>HD 99492 c</name>
-				<list>Confirmed planets</list>
-				<mass>0.36</mass>
-				<period>4970</period>
-				<semimajoraxis>5.4</semimajoraxis>
-				<eccentricity>0.106</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/11/19</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 99492</name>
 		</star>
 	</system>
 	<system>
@@ -18816,71 +18861,6 @@ Image credit: NASA/JPL-Caltech
 				<new>0</new>
 			</planet>
 			<name>TrES</name>
-		</star>
-	</system>
-	<system>
-		<name>ups And</name>
-		<rightascension>01 36 48</rightascension>
-		<declination>+41 24 38</declination>
-		<distance>13.47</distance>
-		<star>
-			<mass>1.27</mass>
-			<radius>1.631</radius>
-			<magV>4.09</magV>
-			<metallicity>0.09</metallicity>
-			<spectraltype>F8 V</spectraltype>
-			<planet>
-				<name>ups And b</name>
-				<list>Confirmed planets</list>
-				<mass>0.69</mass>
-				<period>4.617136</period>
-				<semimajoraxis>0.059</semimajoraxis>
-				<eccentricity>0.013</eccentricity>
-				<inclination>30</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/10/19</lastupdate>
-				<discoveryyear>1996</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>ups And c</name>
-				<list>Confirmed planets</list>
-				<mass>14.57</mass>
-				<period>237.7</period>
-				<semimajoraxis>0.861</semimajoraxis>
-				<eccentricity>0.24</eccentricity>
-				<inclination>8</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/05/11</lastupdate>
-				<discoveryyear>1999</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>ups And d</name>
-				<list>Confirmed planets</list>
-				<mass>10.19</mass>
-				<period>1302.61</period>
-				<semimajoraxis>2.55</semimajoraxis>
-				<eccentricity>0.274</eccentricity>
-				<inclination>24</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/05/11</lastupdate>
-				<discoveryyear>1999</discoveryyear>
-				<new>0</new>
-			</planet>
-			<planet>
-				<name>ups And e</name>
-				<list>Confirmed planets</list>
-				<mass>1.059</mass>
-				<period>3848.86</period>
-				<semimajoraxis>5.2456</semimajoraxis>
-				<eccentricity>0.00536</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/02</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>ups And</name>
 		</star>
 	</system>
 	<system>
