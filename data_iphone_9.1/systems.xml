@@ -1,4 +1,4 @@
-<systems name="systems" planets="860">
+<systems name="systems" planets="866">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -783,6 +783,68 @@
 			</planet>
 			<name>81 Cet</name>
 		</star>
+	</system>
+	<system>
+		<name>83 Leonis</name>
+		<rightascension>11 26 46</rightascension>
+		<declination>+03 00 22</declination>
+		<distance>18</distance>
+		<binary>
+			<semimajoraxis>515</semimajoraxis>
+			<star>
+				<name>83 Leonis B</name>
+				<name>HD 99492</name>
+				<name>Gliese 429 B</name>
+				<name>GJ 429 B</name>
+				<mass>0.83</mass>
+				<radius>0.96</radius>
+				<magV>7.38</magV>
+				<age>4</age>
+				<metallicity>0.36</metallicity>
+				<temperature>4740</temperature>
+				<spectraltype>K2V</spectraltype>
+				<planet>
+					<name>83 Leonis B b</name>
+					<name>HD 99492 b</name>
+					<name>Gliese 429 B b</name>
+					<name>GJ 429 B b</name>
+					<list>Confirmed planets</list>
+					<mass>0.109</mass>
+					<period>17.0431</period>
+					<semimajoraxis>0.1232</semimajoraxis>
+					<eccentricity>0.254</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2004</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>83 Leonis B c</name>
+					<name>HD 99492 c</name>
+					<list>Confirmed planets</list>
+					<mass>0.36</mass>
+					<period>4970</period>
+					<semimajoraxis>5.4</semimajoraxis>
+					<eccentricity>0.106</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>83 Leonis A</name>
+				<name>HD 99491</name>
+				<mass>0.86</mass>
+				<radius>1.9</radius>
+				<temperature>5509</temperature>
+				<spectraltype>KOIV</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>91 Aquarii</name>
@@ -8575,26 +8637,35 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>20 28 17</rightascension>
 		<declination>+18 46 12</declination>
 		<distance>37.36</distance>
-		<star>
-			<mass>1.06</mass>
-			<radius>1.38</radius>
-			<magV>6.91</magV>
-			<metallicity>0.08</metallicity>
-			<spectraltype>G3 IV-V</spectraltype>
-			<planet>
-				<name>HD 195019 b</name>
-				<list>Confirmed planets</list>
-				<mass>3.7</mass>
-				<period>18.20163</period>
-				<semimajoraxis>0.1388</semimajoraxis>
-				<eccentricity>0.014</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>06/11/25</lastupdate>
-				<discoveryyear>1998</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 195019</name>
-		</star>
+		<binary>
+			<semimajoraxis>150</semimajoraxis>
+			<star>
+				<name>HD 195019 A</name>
+				<mass>1.06</mass>
+				<radius>1.38</radius>
+				<magV>6.91</magV>
+				<metallicity>0.08</metallicity>
+				<spectraltype>G3 IV-V</spectraltype>
+				<planet>
+					<name>HD 195019 A b</name>
+					<list>Confirmed planets</list>
+					<mass>3.7</mass>
+					<period>18.20163</period>
+					<semimajoraxis>0.1388</semimajoraxis>
+					<eccentricity>0.014</eccentricity>
+					<description>The planet is orbiting a star that is part of a binary system. The planet's periastron is far enough away from the host star such that tides are not important.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>1998</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 195019 B</name>
+				<mass>0.70</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 196050</name>
@@ -8742,26 +8813,46 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<rightascension>03 12 46</rightascension>
 		<declination>-01 11 45</declination>
 		<distance>22.38</distance>
-		<star>
-			<mass>1.34</mass>
-			<radius>1.93</radius>
-			<magV>5.07</magV>
-			<metallicity>0.25</metallicity>
-			<spectraltype>F8 V</spectraltype>
-			<planet>
-				<name>HD 19994 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.68</mass>
-				<period>535.7</period>
-				<semimajoraxis>1.42</semimajoraxis>
-				<eccentricity>0.3</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/10/06</lastupdate>
-				<discoveryyear>2003</discoveryyear>
-				<new>0</new>
-			</planet>
-			<name>HD 19994</name>
-		</star>
+		<binary>
+			<semimajoraxis>120</semimajoraxis>
+			<eccentricity>0.26</eccentricity>
+			<star>
+				<name>HD 19994 A</name>
+				<name>94 Ceti A</name>
+				<name>Gliese 128 A</name>
+				<name>GJ 128 A</name>
+				<mass>1.34</mass>
+				<radius>1.93</radius>
+				<magV>5.07</magV>
+				<metallicity>0.25</metallicity>
+				<spectraltype>F8 V</spectraltype>
+				<planet>
+					<name>HD 19994 A b</name>
+					<name>94 Ceti A b</name>
+					<name>Gliese 128 A b</name>
+					<name>GJ 128 A b</name>
+					<list>Confirmed planets</list>
+					<mass>1.68</mass>
+					<period>535.7</period>
+					<semimajoraxis>1.42</semimajoraxis>
+					<eccentricity>0.3</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<description>The star system 94 Ceti (also known ad HD 19994) is an eccentric binary approximately 73 light years away from Earth. A planet orbiting the primary star was discovered in 2000 by the European Sothern Observatory.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2000</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 19994 B</name>
+				<name>94 Ceti B</name>
+				<name>Gliese 128 B</name>
+				<name>GJ 128 B</name>
+				<mass>0.35</mass>
+				<spectraltype>M3V</spectraltype>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 20003</name>
@@ -18721,32 +18812,53 @@ Image credit: NASA/JPL-Caltech
 		<rightascension>13 47 17</rightascension>
 		<declination>+17 27 22</declination>
 		<distance>15.6</distance>
-		<star>
-			<mass>1.3</mass>
-			<radius>1.331</radius>
-			<magV>4.5</magV>
-			<metallicity>0.28</metallicity>
-			<spectraltype>F7 V</spectraltype>
-			<planet>
-				<name>tau Boo b</name>
-				<list>Confirmed planets</list>
-				<mass>5.95</mass>
-				<period>3.3135</period>
-				<semimajoraxis>0.046</semimajoraxis>
-				<eccentricity>0.023</eccentricity>
-				<inclination>44.5</inclination>
-				<description>The planet Tau Bootis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time. </description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/07/05</lastupdate>
-				<discoveryyear>1996</discoveryyear>
-				<new>0</new>
-				<image>tauboo</image>
-				<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
-	
-	Credit: ESO/L. Calcada</imagedescription>
-			</planet>
-			<name>tau Boo</name>
-		</star>
+		<binary>
+			<semimajoraxis>245</semimajoraxis>
+			<eccentricity>0.91</eccentricity>
+			<star>
+				<name>tau Boo A</name>
+				<name>Tau Booetis A</name>
+				<name>HD 120136 A</name>
+				<name>GJ 527 A</name>
+				<name>Gliese 527 A</name>
+				<mass>1.3</mass>
+				<radius>1.331</radius>
+				<magV>4.5</magV>
+				<metallicity>0.28</metallicity>
+				<spectraltype>F7 V</spectraltype>
+				<planet>
+					<name>tau Boo A b</name>
+					<name>Tau Booetis A b</name>
+					<name>HD 120136 A b</name>
+					<name>GJ 527 A b</name>
+					<name>Gliese 527 A b</name>
+					<list>Confirmed planets</list>
+					<mass>5.95</mass>
+					<period>3.3135</period>
+					<semimajoraxis>0.046</semimajoraxis>
+					<eccentricity>0.023</eccentricity>
+					<inclination>44.5</inclination>
+					<description>The planet Tau Bootis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time. </description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/07/05</lastupdate>
+					<discoveryyear>1996</discoveryyear>
+					<new>0</new>
+					<image>tauboo</image>
+					<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
+		
+		Credit: ESO/L. Calcada</imagedescription>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>tau Boo B</name>
+				<name>Tau Booetis B</name>
+				<name>HD 120136 B</name>
+				<name>GJ 527 B</name>
+				<name>Gliese 527 B</name>
+				<mass>0.40</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>tau Gem</name>
@@ -18862,6 +18974,93 @@ Image credit: NASA/JPL-Caltech
 			</planet>
 			<name>TrES</name>
 		</star>
+	</system>
+	<system>
+		<name>Upsilon Andromedae</name>
+		<rightascension>01 36 48</rightascension>
+		<declination>+41 24 38</declination>
+		<distance>13.47</distance>
+		<binary>
+			<semimajoraxis>750</semimajoraxis>
+			<star>
+				<name>Upsilon Andromedae A</name>
+				<name>ups And A</name>
+				<mass>1.27</mass>
+				<radius>1.631</radius>
+				<magV>4.09</magV>
+				<age>3.1</age>
+				<metallicity>0.09</metallicity>
+				<spectraltype>F8 V</spectraltype>
+				<planet>
+					<name>Upsilon Andromedae A b</name>
+					<name>ups And A b</name>
+					<list>Confirmed planets</list>
+					<mass>0.69</mass>
+					<period>4.617136</period>
+					<semimajoraxis>0.059</semimajoraxis>
+					<eccentricity>0.013</eccentricity>
+					<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+					<inclination>30</inclination>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>1996</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Upsilon Andromedae A c</name>
+					<name>ups And A c</name>
+					<list>Confirmed planets</list>
+					<mass>14.57</mass>
+					<period>237.7</period>
+					<semimajoraxis>0.861</semimajoraxis>
+					<eccentricity>0.24</eccentricity>
+					<inclination>8</inclination>
+					<discoverymethod>RV</discoverymethod>
+					<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>1999</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Upsilon Andromedae A d</name>
+					<name>ups And A d</name>
+					<list>Confirmed planets</list>
+					<mass>10.19</mass>
+					<period>1302.61</period>
+					<semimajoraxis>2.55</semimajoraxis>
+					<eccentricity>0.274</eccentricity>
+					<inclination>24</inclination>
+					<discoverymethod>RV</discoverymethod>
+					<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>1999</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Upsilon Andromedae A e</name>
+					<name>ups And A e</name>
+					<list>Confirmed planets</list>
+					<mass>1.059</mass>
+					<period>3848.86</period>
+					<semimajoraxis>5.2456</semimajoraxis>
+					<eccentricity>0.00536</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+					<lastupdate>12/12/08</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<new>0</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>Upsilon Andromedae B</name>
+				<name>ups And B</name>
+				<mass>0.19</mass>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>UScoCTIO 108</name>
