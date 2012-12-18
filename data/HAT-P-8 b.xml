@@ -6,11 +6,11 @@
 	<id>HAT-P-8 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>1.34</mass>
-		<radius>1.5</radius>
+		<mass>1.275</mass>
+		<radius>1.321</radius>
 		<orbit>
 			<period>3.0763402</period>
-			<semimajoraxis>0.0449</semimajoraxis>
+			<semimajoraxis>0.04390</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>87.8</inclination>
 			<periastron />
@@ -20,11 +20,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.28</mass>
-		<radius>1.58</radius>
+		<mass>1.192</mass>
+		<radius>1.475</radius>
 		<metallicity>0.01</metallicity>
 		<distance>230</distance>
-		<temperature />
+		<temperature>1713</temperature>
 		<rightascension>22 52 10</rightascension>
 		<declination>+35 26 50</declination>
 		<angulardistance />
@@ -36,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2008</discoveryyear>
-	<lastupdate>11/11/28</lastupdate>
-	<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project.</description>
+	<lastupdate>12/12/17</lastupdate>
+	<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project. Variations in the optical bands may indicate the presence of strong absorbers such as TiO or VO gases.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
