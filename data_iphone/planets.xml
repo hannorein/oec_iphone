@@ -2269,7 +2269,7 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/11/14</lastupdate>
-		<description>This planet is an orphan planet, that means it is not orbiting any star. Some people therefore believe it should not be called planet. The object is assosiacted wth the AB Doradus moving groups which allows astronomers to determine its age an therefore its mass.</description>
+		<description>This planet is an orphan planet, which means it is not orbiting any star. Some people therefore argue that it should not be called planet. The object is assosiacted wth the AB Doradus moving group which allows astronomers to determine its age an therefore its mass.</description>
 		<new>0</new>
 		<image>eso1245a</image>
 		<imagedescription>Artist's impression of the free-floating planet CFBDSIR J214947.2-040308.9 
@@ -7417,11 +7417,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>HAT-P-8 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.34</mass>
-			<radius>1.5</radius>
+			<mass>1.275</mass>
+			<radius>1.321</radius>
 			<orbit>
 				<period>3.0763402</period>
-				<semimajoraxis>0.0449</semimajoraxis>
+				<semimajoraxis>0.04390</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>87.8</inclination>
 				<periastron />
@@ -7431,11 +7431,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.28</mass>
-			<radius>1.58</radius>
+			<mass>1.192</mass>
+			<radius>1.475</radius>
 			<metallicity>0.01</metallicity>
 			<distance>230</distance>
-			<temperature />
+			<temperature>1713</temperature>
 			<rightascension>22 52 10</rightascension>
 			<declination>+35 26 50</declination>
 			<angulardistance />
@@ -7447,8 +7447,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>11/11/28</lastupdate>
-		<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project.</description>
+		<lastupdate>12/12/17</lastupdate>
+		<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project. Variations in the optical bands may indicate the presence of strong absorbers such as TiO or VO gases.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
