@@ -2297,7 +2297,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/11/30</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 			<planet>
 				<name>Gliese 163 c</name>
@@ -2315,7 +2315,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/11/30</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
@@ -4437,9 +4437,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<declination>+47 58 10</declination>
 		<distance>320</distance>
 		<star>
-			<mass>1.47</mass>
-			<radius>1.84</radius>
+			<mass>1.4150</mass>
+			<radius>1.9276</radius>
 			<magV>10.5</magV>
+			<temperature>6423</temperature>
+			<age>2.2082</age>
 			<metallicity>0.26</metallicity>
 			<planet>
 				<name>HAT-P-7 b</name>
@@ -4450,15 +4452,16 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<name>Kepler-2 b</name>
 				<name>KOI-2 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.8</mass>
-				<radius>1.421</radius>
+				<mass>1.709</mass>
+				<radius>1.4588</radius>
+				<temperature>2811</temperature>
 				<period>2.2047298</period>
 				<semimajoraxis>0.0379</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>84.1</inclination>
 				<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Meassurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/05</lastupdate>
+				<lastupdate>13/01/03</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -18942,7 +18945,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<imagedescription>Artist's impression of the Tau Ceti system
 
 Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 			<planet>
 				<name>tau Ceti c</name>
@@ -18956,7 +18959,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>12/12/19</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
-				<new>1</new>
+				<new>0</new>
 				<image>tau_ceti</image>
 				<imagedescription>Artist's impression of the Tau Ceti system
 
@@ -18978,7 +18981,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<imagedescription>Artist's impression of the Tau Ceti system
 
 Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 			<planet>
 				<name>tau Ceti e</name>
@@ -18996,7 +18999,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<imagedescription>Artist's impression of the Tau Ceti system
 
 Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 			<planet>
 				<name>tau Ceti f</name>
@@ -19014,7 +19017,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<imagedescription>Artist's impression of the Tau Ceti system
 
 Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
