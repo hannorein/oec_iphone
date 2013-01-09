@@ -1,4 +1,4 @@
-<systems name="systemskepler" planets="2797">
+<systems name="systemskepler" planets="2740">
 	<system>
 		<name>KOI-0001</name>
 		<rightascension>19 07 14</rightascension>
@@ -57,27 +57,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a confirmed planet by the Kepler team and might have already appear in a peer reviewed paper.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0004</name>
-		<rightascension>19 37 25</rightascension>
-		<declination>+38 56 50</declination>
-		<distance>661.501409469</distance>
-		<star>
-			<magV>11.432</magV>
-			<temperature>6391</temperature>
-			<radius>2.60</radius>
-			<planet>
-				<name>KOI 0004 b</name>
-				<mass>0.507032433464</mass>
-				<radius>1.0744227</radius>
-				<period>3.8493724</period>
-				<semimajoraxis>0.056</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0004</name>
 		</star>
 	</system>
 	<system>
@@ -432,27 +411,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0064</name>
-		<rightascension>19 46 02</rightascension>
-		<declination>+42 32 50</declination>
-		<distance>474.071415719</distance>
-		<star>
-			<magV>13.143</magV>
-			<temperature>5439</temperature>
-			<radius>1.17</radius>
-			<planet>
-				<name>KOI 0064 b</name>
-				<mass>0.0909522447087</mass>
-				<radius>0.4665856</radius>
-				<period>1.9510914</period>
-				<semimajoraxis>0.030</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0064</name>
 		</star>
 	</system>
 	<system>
@@ -1997,27 +1955,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0163</name>
-		<rightascension>19 12 16</rightascension>
-		<declination>+42 21 19</declination>
-		<distance>365.832408793</distance>
-		<star>
-			<magV>13.536</magV>
-			<temperature>5151</temperature>
-			<radius>0.84</radius>
-			<planet>
-				<name>KOI 0163 b</name>
-				<mass>0.0170267032959</mass>
-				<radius>0.2068651</radius>
-				<period>11.1198885</period>
-				<semimajoraxis>0.090</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0163</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0165</name>
 		<rightascension>19 29 56</rightascension>
 		<declination>+46 11 46</declination>
@@ -2507,27 +2444,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0194</name>
-		<rightascension>18 51 51</rightascension>
-		<declination>+48 20 42</declination>
-		<distance>977.887107987</distance>
-		<star>
-			<magV>14.804</magV>
-			<temperature>5883</temperature>
-			<radius>0.96</radius>
-			<planet>
-				<name>KOI 0194 b</name>
-				<mass>0.718093943782</mass>
-				<radius>1.2721748</radius>
-				<period>3.1208300</period>
-				<semimajoraxis>0.043</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0194</name>
 		</star>
 	</system>
 	<system>
@@ -3101,27 +3017,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0229</name>
-		<rightascension>19 23 03</rightascension>
-		<declination>+38 55 40</declination>
-		<distance>979.554233422</distance>
-		<star>
-			<magV>14.72</magV>
-			<temperature>5608</temperature>
-			<radius>1.10</radius>
-			<planet>
-				<name>KOI 0229 b</name>
-				<mass>0.121382145493</mass>
-				<radius>0.5367557</radius>
-				<period>3.5732100</period>
-				<semimajoraxis>0.046</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0229</name>
 		</star>
 	</system>
 	<system>
@@ -3771,27 +3666,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0258</name>
-		<rightascension>18 58 10</rightascension>
-		<declination>+48 57 40</declination>
-		<distance>182.238176369</distance>
-		<star>
-			<magV>9.89</magV>
-			<temperature>6278</temperature>
-			<radius>1.51</radius>
-			<planet>
-				<name>KOI 0258 b</name>
-				<mass>0.0931615289364</mass>
-				<radius>0.4720534</radius>
-				<period>4.1574033</period>
-				<semimajoraxis>0.054</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0258</name>
 		</star>
 	</system>
 	<system>
@@ -5178,27 +5052,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0335</name>
-		<rightascension>19 27 16</rightascension>
-		<declination>+47 40 31</declination>
-		<distance>1275.78109639</distance>
-		<star>
-			<magV>13.893</magV>
-			<temperature>6380</temperature>
-			<radius>1.62</radius>
-			<planet>
-				<name>KOI 0335 b</name>
-				<mass>0.0823876538544</mass>
-				<radius>0.4447144</radius>
-				<period>46.5667778</period>
-				<semimajoraxis>0.274</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0335</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0337</name>
 		<rightascension>19 42 44</rightascension>
 		<declination>+47 44 53</declination>
@@ -6432,27 +6285,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0418</name>
-		<rightascension>19 47 35</rightascension>
-		<declination>+43 42 25</declination>
-		<distance>511.391691715</distance>
-		<star>
-			<magV>14.479</magV>
-			<temperature>5153</temperature>
-			<radius>0.76</radius>
-			<planet>
-				<name>KOI 0418 b</name>
-				<mass>0.321445113295</mass>
-				<radius>0.8611785</radius>
-				<period>22.4183305</period>
-				<semimajoraxis>0.141</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0418</name>
 		</star>
 	</system>
 	<system>
@@ -8070,27 +7902,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0506</name>
-		<rightascension>19 14 02</rightascension>
-		<declination>+41 05 45</declination>
-		<distance>921.289794137</distance>
-		<star>
-			<magV>14.731</magV>
-			<temperature>5777</temperature>
-			<radius>0.97</radius>
-			<planet>
-				<name>KOI 0506 b</name>
-				<mass>0.0327850436349</mass>
-				<radius>0.2843256</radius>
-				<period>1.5831556</period>
-				<semimajoraxis>0.027</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0506</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0507</name>
 		<rightascension>19 50 00</rightascension>
 		<declination>+41 03 25</declination>
@@ -8426,27 +8237,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0522</name>
-		<rightascension>20 04 35</rightascension>
-		<declination>+44 06 16</declination>
-		<distance>605.067239393</distance>
-		<star>
-			<magV>14.406</magV>
-			<temperature>5663</temperature>
-			<radius>0.77</radius>
-			<planet>
-				<name>KOI 0522 b</name>
-				<mass>0.0290076671198</mass>
-				<radius>0.2679222</radius>
-				<period>12.8299404</period>
-				<semimajoraxis>0.102</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0522</name>
 		</star>
 	</system>
 	<system>
@@ -8968,27 +8758,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0552</name>
-		<rightascension>19 49 35</rightascension>
-		<declination>+40 13 45</declination>
-		<distance>983.666232086</distance>
-		<star>
-			<magV>14.741</magV>
-			<temperature>6018</temperature>
-			<radius>0.95</radius>
-			<planet>
-				<name>KOI 0552 b</name>
-				<mass>0.342820521068</mass>
-				<radius>0.8885175</radius>
-				<period>3.0551700</period>
-				<semimajoraxis>0.040</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0552</name>
 		</star>
 	</system>
 	<system>
@@ -10073,27 +9842,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0609</name>
-		<rightascension>19 12 38</rightascension>
-		<declination>+40 52 44</declination>
-		<distance>958.998088</distance>
-		<star>
-			<magV>14.491</magV>
-			<temperature>5696</temperature>
-			<radius>1.16</radius>
-			<planet>
-				<name>KOI 0609 b</name>
-				<mass>0.811074454064</mass>
-				<radius>1.3496353</radius>
-				<period>4.3969343</period>
-				<semimajoraxis>0.052</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0609</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0610</name>
 		<rightascension>18 57 54</rightascension>
 		<declination>+40 55 59</declination>
@@ -10633,27 +10381,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0644</name>
-		<rightascension>19 19 52</rightascension>
-		<declination>+40 31 57</declination>
-		<distance>1141.4234842</distance>
-		<star>
-			<magV>13.725</magV>
-			<temperature>5395</temperature>
-			<radius>2.19</radius>
-			<planet>
-				<name>KOI 0644 b</name>
-				<mass>4.26759519441</mass>
-				<radius>3.0218708</radius>
-				<period>45.9778640</period>
-				<semimajoraxis>0.262</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0644</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0645</name>
 		<rightascension>19 40 52</rightascension>
 		<declination>+40 35 32</declination>
@@ -11099,27 +10826,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0667</name>
-		<rightascension>18 48 37</rightascension>
-		<declination>+42 14 04</declination>
-		<distance>176.414187197</distance>
-		<star>
-			<magV>13.826</magV>
-			<temperature>4135</temperature>
-			<radius>0.55</radius>
-			<planet>
-				<name>KOI 0667 b</name>
-				<mass>0.0965266356891</mass>
-				<radius>0.4802551</radius>
-				<period>4.3052180</period>
-				<semimajoraxis>0.043</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0667</name>
 		</star>
 	</system>
 	<system>
@@ -11669,27 +11375,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0698</name>
-		<rightascension>19 35 39</rightascension>
-		<declination>+45 11 23</declination>
-		<distance>583.448222873</distance>
-		<star>
-			<magV>13.816</magV>
-			<temperature>5705</temperature>
-			<radius>0.96</radius>
-			<planet>
-				<name>KOI 0698 b</name>
-				<mass>0.475655515447</mass>
-				<radius>1.0416159</radius>
-				<period>12.7187062</period>
-				<semimajoraxis>0.106</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0698</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0700</name>
 		<rightascension>19 39 53</rightascension>
 		<declination>+45 12 49</declination>
@@ -11772,27 +11457,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0703</name>
-		<rightascension>19 39 38</rightascension>
-		<declination>+45 34 00</declination>
-		<distance>693.580452618</distance>
-		<star>
-			<magV>13.361</magV>
-			<temperature>6178</temperature>
-			<radius>1.20</radius>
-			<planet>
-				<name>KOI 0703 b</name>
-				<mass>0.00592662506734</mass>
-				<radius>0.1239368</radius>
-				<period>1.3686106</period>
-				<semimajoraxis>0.025</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0703</name>
 		</star>
 	</system>
 	<system>
@@ -11993,27 +11657,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0712</name>
-		<rightascension>19 11 57</rightascension>
-		<declination>+46 21 24</declination>
-		<distance>432.349694855</distance>
-		<star>
-			<magV>13.72</magV>
-			<temperature>5500</temperature>
-			<radius>0.80</radius>
-			<planet>
-				<name>KOI 0712 b</name>
-				<mass>0.0027088950298</mass>
-				<radius>0.0847509</radius>
-				<period>2.1781266</period>
-				<semimajoraxis>0.032</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0712</name>
 		</star>
 	</system>
 	<system>
@@ -12296,27 +11939,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0725</name>
-		<rightascension>19 16 01</rightascension>
-		<declination>+47 02 25</declination>
-		<distance>804.939748909</distance>
-		<star>
-			<magV>15.765</magV>
-			<temperature>5046</temperature>
-			<radius>0.69</radius>
-			<planet>
-				<name>KOI 0725 b</name>
-				<mass>0.4127965</mass>
-				<radius>0.9723571</radius>
-				<period>7.3049603</period>
-				<semimajoraxis>0.068</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0725</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0728</name>
 		<rightascension>19 46 34</rightascension>
 		<declination>+47 13 49</declination>
@@ -12547,27 +12169,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0737</name>
-		<rightascension>19 36 29</rightascension>
-		<declination>+47 24 31</declination>
-		<distance>820.557413343</distance>
-		<star>
-			<magV>15.684</magV>
-			<temperature>5117</temperature>
-			<radius>0.71</radius>
-			<planet>
-				<name>KOI 0737 b</name>
-				<mass>0.0887702344791</mass>
-				<radius>0.4611178</radius>
-				<period>14.4983597</period>
-				<semimajoraxis>0.105</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0737</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0738</name>
 		<rightascension>19 53 23</rightascension>
 		<declination>+47 29 28</declination>
@@ -12634,69 +12235,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0741</name>
-		<rightascension>19 47 49</rightascension>
-		<declination>+47 33 13</declination>
-		<distance>994.550722203</distance>
-		<star>
-			<magV>15.278</magV>
-			<temperature>5556</temperature>
-			<radius>0.88</radius>
-			<planet>
-				<name>KOI 0741 b</name>
-				<mass>1.97449205255</mass>
-				<radius>2.0786753</radius>
-				<period>23.3553430</period>
-				<semimajoraxis>0.159</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0741</name>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0743</name>
-		<rightascension>19 17 01</rightascension>
-		<declination>+47 38 07</declination>
-		<distance>623.216091937</distance>
-		<star>
-			<magV>15.487</magV>
-			<temperature>4877</temperature>
-			<radius>0.65</radius>
-			<planet>
-				<name>KOI 0743 b</name>
-				<mass>0.199136030951</mass>
-				<radius>0.6825637</radius>
-				<period>19.4040015</period>
-				<semimajoraxis>0.123</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0743</name>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0745</name>
-		<rightascension>19 48 37</rightascension>
-		<declination>+47 40 07</declination>
-		<distance>841.955907276</distance>
-		<star>
-			<magV>15.788</magV>
-			<temperature>4957</temperature>
-			<radius>0.74</radius>
-			<planet>
-				<name>KOI 0745 b</name>
-				<mass>0.182529749374</mass>
-				<radius>0.6543134</radius>
-				<period>16.4699586</period>
-				<semimajoraxis>0.115</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0745</name>
 		</star>
 	</system>
 	<system>
@@ -13350,27 +12888,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0779</name>
-		<rightascension>19 16 56</rightascension>
-		<declination>+50 14 27</declination>
-		<distance>1057.9784274</distance>
-		<star>
-			<magV>15.562</magV>
-			<temperature>5527</temperature>
-			<radius>0.83</radius>
-			<planet>
-				<name>KOI 0779 b</name>
-				<mass>0.359688222272</mass>
-				<radius>0.9094774</radius>
-				<period>10.4059559</period>
-				<semimajoraxis>0.086</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0779</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0780</name>
 		<rightascension>19 35 19</rightascension>
 		<declination>+50 13 49</declination>
@@ -13684,27 +13201,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0799</name>
-		<rightascension>19 37 28</rightascension>
-		<declination>+38 18 37</declination>
-		<distance>1027.08320299</distance>
-		<star>
-			<magV>15.279</magV>
-			<temperature>5491</temperature>
-			<radius>0.93</radius>
-			<planet>
-				<name>KOI 0799 b</name>
-				<mass>0.129147500689</mass>
-				<radius>0.5531591</radius>
-				<period>1.6266374</period>
-				<semimajoraxis>0.026</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0799</name>
 		</star>
 	</system>
 	<system>
@@ -14220,27 +13716,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0827</name>
-		<rightascension>19 36 53</rightascension>
-		<declination>+40 25 04</declination>
-		<distance>1326.56040696</distance>
-		<star>
-			<magV>15.546</magV>
-			<temperature>5837</temperature>
-			<radius>0.94</radius>
-			<planet>
-				<name>KOI 0827 b</name>
-				<mass>0.0368006948193</mass>
-				<radius>0.300729</radius>
-				<period>5.9758073</period>
-				<semimajoraxis>0.065</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0827</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0829</name>
 		<rightascension>19 21 50</rightascension>
 		<declination>+40 33 44</declination>
@@ -14450,27 +13925,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0840</name>
-		<rightascension>19 57 15</rightascension>
-		<declination>+40 49 20</declination>
-		<distance>607.203497469</distance>
-		<star>
-			<magV>15.028</magV>
-			<temperature>4916</temperature>
-			<radius>0.77</radius>
-			<planet>
-				<name>KOI 0840 b</name>
-				<mass>0.233989538703</mass>
-				<radius>0.738153</radius>
-				<period>3.0403293</period>
-				<semimajoraxis>0.038</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0840</name>
 		</star>
 	</system>
 	<system>
@@ -14928,27 +14382,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0865</name>
-		<rightascension>19 26 20</rightascension>
-		<declination>+42 22 05</declination>
-		<distance>869.858596976</distance>
-		<star>
-			<magV>15.085</magV>
-			<temperature>5560</temperature>
-			<radius>0.84</radius>
-			<planet>
-				<name>KOI 0865 b</name>
-				<mass>0.155858284474</mass>
-				<radius>0.6060145</radius>
-				<period>119.0208831</period>
-				<semimajoraxis>0.464</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0865</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0867</name>
 		<rightascension>19 28 25</rightascension>
 		<declination>+42 22 49</declination>
@@ -15180,27 +14613,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0876</name>
-		<rightascension>19 11 32</rightascension>
-		<declination>+42 49 56</declination>
-		<distance>1104.16013886</distance>
-		<star>
-			<magV>15.877</magV>
-			<temperature>5417</temperature>
-			<radius>0.78</radius>
-			<planet>
-				<name>KOI 0876 b</name>
-				<mass>0.548627591214</mass>
-				<radius>1.1163425</radius>
-				<period>6.9980904</period>
-				<semimajoraxis>0.069</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0876</name>
 		</star>
 	</system>
 	<system>
@@ -15788,27 +15200,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0903</name>
-		<rightascension>19 42 08</rightascension>
-		<declination>+43 53 04</declination>
-		<distance>1109.56739238</distance>
-		<star>
-			<magV>15.813</magV>
-			<temperature>5620</temperature>
-			<radius>0.75</radius>
-			<planet>
-				<name>KOI 0903 b</name>
-				<mass>0.138520537619</mass>
-				<radius>0.5722964</radius>
-				<period>5.0073120</period>
-				<semimajoraxis>0.054</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0903</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0904</name>
 		<rightascension>19 00 40</rightascension>
 		<declination>+44 01 35</declination>
@@ -15862,27 +15253,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0905</name>
-		<rightascension>19 46 01</rightascension>
-		<declination>+44 02 09</declination>
-		<distance>898.448248226</distance>
-		<star>
-			<magV>15.289</magV>
-			<temperature>5668</temperature>
-			<radius>0.76</radius>
-			<planet>
-				<name>KOI 0905 b</name>
-				<mass>0.0572621060355</mass>
-				<radius>0.3727217</radius>
-				<period>5.7950603</period>
-				<semimajoraxis>0.060</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0905</name>
 		</star>
 	</system>
 	<system>
@@ -16126,27 +15496,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0917</name>
-		<rightascension>20 04 11</rightascension>
-		<declination>+44 42 22</declination>
-		<distance>967.760340874</distance>
-		<star>
-			<magV>15.172</magV>
-			<temperature>5681</temperature>
-			<radius>0.86</radius>
-			<planet>
-				<name>KOI 0917 b</name>
-				<mass>0.0211155508903</mass>
-				<radius>0.2296476</radius>
-				<period>6.7197464</period>
-				<semimajoraxis>0.064</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0917</name>
 		</star>
 	</system>
 	<system>
@@ -16685,27 +16034,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-0944</name>
-		<rightascension>19 39 11</rightascension>
-		<declination>+46 12 27</declination>
-		<distance>832.419886344</distance>
-		<star>
-			<magV>15.361</magV>
-			<temperature>5166</temperature>
-			<radius>0.82</radius>
-			<planet>
-				<name>KOI 0944 b</name>
-				<mass>0.063179956746</mass>
-				<radius>0.3909477</radius>
-				<period>3.1082511</period>
-				<semimajoraxis>0.039</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0944</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-0945</name>
 		<rightascension>19 51 48</rightascension>
 		<declination>+46 15 52</declination>
@@ -16966,27 +16294,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-0960</name>
-		<rightascension>19 41 52</rightascension>
-		<declination>+44 00 38</declination>
-		<distance>831.48899209</distance>
-		<star>
-			<magV>15.513</magV>
-			<temperature>5213</temperature>
-			<radius>0.75</radius>
-			<planet>
-				<name>KOI 0960 b</name>
-				<mass>0.829228482771</mass>
-				<radius>1.3642161</radius>
-				<period>15.8011078</period>
-				<semimajoraxis>0.116</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-0960</name>
 		</star>
 	</system>
 	<system>
@@ -17476,27 +16783,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1003</name>
-		<rightascension>19 21 18</rightascension>
-		<declination>+37 43 36</declination>
-		<distance>1181.59047528</distance>
-		<star>
-			<magV>16.209</magV>
-			<temperature>5126</temperature>
-			<radius>0.80</radius>
-			<planet>
-				<name>KOI 1003 b</name>
-				<mass>0.426459333353</mass>
-				<radius>0.9878492</radius>
-				<period>8.3605703</period>
-				<semimajoraxis>0.074</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1003</name>
 		</star>
 	</system>
 	<system>
@@ -18613,27 +17899,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1111</name>
-		<rightascension>19 29 06</rightascension>
-		<declination>+38 17 04</declination>
-		<distance>861.699232201</distance>
-		<star>
-			<magV>15.212</magV>
-			<temperature>5473</temperature>
-			<radius>0.81</radius>
-			<planet>
-				<name>KOI 1111 b</name>
-				<mass>0.0082833205213</mass>
-				<radius>0.145808</radius>
-				<period>10.2655079</period>
-				<semimajoraxis>0.090</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1111</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1112</name>
 		<rightascension>19 19 06</rightascension>
 		<declination>+38 15 44</declination>
@@ -19058,27 +18323,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1152</name>
-		<rightascension>19 46 46</rightascension>
-		<declination>+47 19 38</declination>
-		<distance>183.974596892</distance>
-		<star>
-			<magV>13.987</magV>
-			<temperature>4069</temperature>
-			<radius>0.55</radius>
-			<planet>
-				<name>KOI 1152 b</name>
-				<mass>0.947382655729</mass>
-				<radius>1.4553461</radius>
-				<period>4.7222521</period>
-				<semimajoraxis>0.046</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1152</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1159</name>
 		<rightascension>19 48 03</rightascension>
 		<declination>+47 29 11</declination>
@@ -19203,27 +18447,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1164</name>
-		<rightascension>19 30 57</rightascension>
-		<declination>+47 29 26</declination>
-		<distance>248.566557514</distance>
-		<star>
-			<magV>14.96</magV>
-			<temperature>3851</temperature>
-			<radius>0.53</radius>
-			<planet>
-				<name>KOI 1164 b</name>
-				<mass>0.00183606560988</mass>
-				<radius>0.0701701</radius>
-				<period>0.9337899</period>
-				<semimajoraxis>0.015</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1164</name>
 		</star>
 	</system>
 	<system>
@@ -19402,27 +18625,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1177</name>
-		<rightascension>19 28 18</rightascension>
-		<declination>+38 37 53</declination>
-		<distance>782.155864153</distance>
-		<star>
-			<magV>15.537</magV>
-			<temperature>5360</temperature>
-			<radius>0.66</radius>
-			<planet>
-				<name>KOI 1177 b</name>
-				<mass>0.440351195184</mass>
-				<radius>1.0033413</radius>
-				<period>3.3055735</period>
-				<semimajoraxis>0.040</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1177</name>
 		</star>
 	</system>
 	<system>
@@ -20249,27 +19451,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1244</name>
-		<rightascension>19 28 56</rightascension>
-		<declination>+42 09 15</declination>
-		<distance>821.347425372</distance>
-		<star>
-			<magV>14.503</magV>
-			<temperature>5871</temperature>
-			<radius>0.93</radius>
-			<planet>
-				<name>KOI 1244 b</name>
-				<mass>0.00796655550468</mass>
-				<radius>0.1430741</radius>
-				<period>10.8049062</period>
-				<semimajoraxis>0.097</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1244</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1245</name>
 		<rightascension>19 29 54</rightascension>
 		<declination>+42 08 32</declination>
@@ -20747,27 +19928,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1285</name>
-		<rightascension>19 26 32</rightascension>
-		<declination>+47 49 56</declination>
-		<distance>604.277821646</distance>
-		<star>
-			<magV>14.546</magV>
-			<temperature>5278</temperature>
-			<radius>0.83</radius>
-			<planet>
-				<name>KOI 1285 b</name>
-				<mass>0.142180147547</mass>
-				<radius>0.5795868</radius>
-				<period>0.9374439</period>
-				<semimajoraxis>0.018</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1285</name>
 		</star>
 	</system>
 	<system>
@@ -22140,27 +21300,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1382</name>
-		<rightascension>18 48 44</rightascension>
-		<declination>+46 00 24</declination>
-		<distance>1632.27635928</distance>
-		<star>
-			<magV>15.653</magV>
-			<temperature>5921</temperature>
-			<radius>1.07</radius>
-			<planet>
-				<name>KOI 1382 b</name>
-				<mass>1.94429756704</mass>
-				<radius>2.0631832</radius>
-				<period>4.2023359</period>
-				<semimajoraxis>0.051</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1382</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1385</name>
 		<rightascension>19 23 32</rightascension>
 		<declination>+45 45 57</declination>
@@ -22343,27 +21482,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1401</name>
-		<rightascension>19 39 09</rightascension>
-		<declination>+45 23 29</declination>
-		<distance>914.54439651</distance>
-		<star>
-			<magV>13.44</magV>
-			<temperature>6693</temperature>
-			<radius>1.30</radius>
-			<planet>
-				<name>KOI 1401 b</name>
-				<mass>0.00765614213181</mass>
-				<radius>0.1403402</radius>
-				<period>0.5667281</period>
-				<semimajoraxis>0.015</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1401</name>
 		</star>
 	</system>
 	<system>
@@ -22602,27 +21720,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1419</name>
-		<rightascension>19 01 38</rightascension>
-		<declination>+48 43 30</declination>
-		<distance>1321.77679755</distance>
-		<star>
-			<magV>15.507</magV>
-			<temperature>5848</temperature>
-			<radius>0.95</radius>
-			<planet>
-				<name>KOI 1419 b</name>
-				<mass>0.246658116766</mass>
-				<radius>0.7572903</radius>
-				<period>1.3361075</period>
-				<semimajoraxis>0.023</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1419</name>
 		</star>
 	</system>
 	<system>
@@ -23251,27 +22348,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1448</name>
-		<rightascension>19 19 13</rightascension>
-		<declination>+46 29 30</declination>
-		<distance>1462.62010471</distance>
-		<star>
-			<magV>15.418</magV>
-			<temperature>5658</temperature>
-			<radius>1.17</radius>
-			<planet>
-				<name>KOI 1448 b</name>
-				<mass>2.23987350599</mass>
-				<radius>2.2099025</radius>
-				<period>2.4865874</period>
-				<semimajoraxis>0.037</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1448</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1452</name>
 		<rightascension>19 33 07</rightascension>
 		<declination>+43 03 20</declination>
@@ -23425,27 +22501,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1468</name>
-		<rightascension>19 55 17</rightascension>
-		<declination>+46 39 00</declination>
-		<distance>1084.76455281</distance>
-		<star>
-			<magV>15.262</magV>
-			<temperature>5635</temperature>
-			<radius>0.94</radius>
-			<planet>
-				<name>KOI 1468 b</name>
-				<mass>0.041298823691</mass>
-				<radius>0.3180437</radius>
-				<period>8.4806253</period>
-				<semimajoraxis>0.079</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1468</name>
 		</star>
 	</system>
 	<system>
@@ -23963,27 +23018,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1502</name>
-		<rightascension>19 24 55</rightascension>
-		<declination>+50 34 01</declination>
-		<distance>636.069486263</distance>
-		<star>
-			<magV>15.202</magV>
-			<temperature>5034</temperature>
-			<radius>0.71</radius>
-			<planet>
-				<name>KOI 1502 b</name>
-				<mass>0.0149341079212</mass>
-				<radius>0.1941069</radius>
-				<period>1.8764018</period>
-				<semimajoraxis>0.028</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1502</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1503</name>
 		<rightascension>19 09 08</rightascension>
 		<declination>+51 14 59</declination>
@@ -24121,27 +23155,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1512</name>
-		<rightascension>19 07 33</rightascension>
-		<declination>+50 22 37</declination>
-		<distance>618.47207387</distance>
-		<star>
-			<magV>14.88</magV>
-			<temperature>5068</temperature>
-			<radius>0.79</radius>
-			<planet>
-				<name>KOI 1512 b</name>
-				<mass>0.0206009836465</mass>
-				<radius>0.2269137</radius>
-				<period>9.0417982</period>
-				<semimajoraxis>0.082</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1512</name>
 		</star>
 	</system>
 	<system>
@@ -24610,69 +23623,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1540</name>
-		<rightascension>19 56 24</rightascension>
-		<declination>+40 50 57</declination>
-		<distance>932.154813103</distance>
-		<star>
-			<magV>15.559</magV>
-			<temperature>5390</temperature>
-			<radius>0.77</radius>
-			<planet>
-				<name>KOI 1540 b</name>
-				<mass>3.87439986124</mass>
-				<radius>2.8833532</radius>
-				<period>1.2078535</period>
-				<semimajoraxis>0.020</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1540</name>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1541</name>
-		<rightascension>19 32 46</rightascension>
-		<declination>+39 54 26</declination>
-		<distance>1442.01177396</distance>
-		<star>
-			<magV>15.189</magV>
-			<temperature>6164</temperature>
-			<radius>1.08</radius>
-			<planet>
-				<name>KOI 1541 b</name>
-				<mass>2.03741137141</mass>
-				<radius>2.1105708</radius>
-				<period>2.3792823</period>
-				<semimajoraxis>0.037</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1541</name>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1543</name>
-		<rightascension>19 21 47</rightascension>
-		<declination>+40 26 34</declination>
-		<distance>943.04896334</distance>
-		<star>
-			<magV>14.985</magV>
-			<temperature>5821</temperature>
-			<radius>0.87</radius>
-			<planet>
-				<name>KOI 1543 b</name>
-				<mass>0.689776517786</mass>
-				<radius>1.2475697</radius>
-				<period>3.9643337</period>
-				<semimajoraxis>0.048</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1543</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1546</name>
 		<rightascension>19 54 03</rightascension>
 		<declination>+40 38 22</declination>
@@ -24834,27 +23784,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1560</name>
-		<rightascension>19 49 40</rightascension>
-		<declination>+43 52 35</declination>
-		<distance>1058.01687284</distance>
-		<star>
-			<magV>15.042</magV>
-			<temperature>5620</temperature>
-			<radius>1.02</radius>
-			<planet>
-				<name>KOI 1560 b</name>
-				<mass>1.1519610531</mass>
-				<radius>1.6002428</radius>
-				<period>31.5691266</period>
-				<semimajoraxis>0.191</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1560</name>
 		</star>
 	</system>
 	<system>
@@ -25681,27 +24610,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1605</name>
-		<rightascension>19 24 57</rightascension>
-		<declination>+40 09 48</declination>
-		<distance>1096.53200857</distance>
-		<star>
-			<magV>14.832</magV>
-			<temperature>5680</temperature>
-			<radius>1.14</radius>
-			<planet>
-				<name>KOI 1605 b</name>
-				<mass>0.0212885252</mass>
-				<radius>0.2305589</radius>
-				<period>4.9392244</period>
-				<semimajoraxis>0.057</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1605</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1606</name>
 		<rightascension>19 20 12</rightascension>
 		<declination>+46 42 48</declination>
@@ -26074,27 +24982,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-1636</name>
-		<rightascension>19 56 16</rightascension>
-		<declination>+47 53 42</declination>
-		<distance>677.652168501</distance>
-		<star>
-			<magV>14.598</magV>
-			<temperature>5697</temperature>
-			<radius>0.78</radius>
-			<planet>
-				<name>KOI 1636 b</name>
-				<mass>0.00361616205188</mass>
-				<radius>0.0975091</radius>
-				<period>2.6183491</period>
-				<semimajoraxis>0.036</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1636</name>
 		</star>
 	</system>
 	<system>
@@ -30522,27 +29409,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-1947</name>
-		<rightascension>19 14 32</rightascension>
-		<declination>+50 54 44</declination>
-		<distance>328.657137113</distance>
-		<star>
-			<magV>12.335</magV>
-			<temperature>5842</temperature>
-			<radius>1.02</radius>
-			<planet>
-				<name>KOI 1947 b</name>
-				<mass>0.0073520730539</mass>
-				<radius>0.1376063</radius>
-				<period>6.4229574</period>
-				<semimajoraxis>0.068</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-1947</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-1950</name>
 		<rightascension>19 27 48</rightascension>
 		<declination>+38 15 06</declination>
@@ -34164,27 +33030,6 @@
 		</star>
 	</system>
 	<system>
-		<name>KOI-2157</name>
-		<rightascension>19 08 43</rightascension>
-		<declination>+38 24 50</declination>
-		<distance>1433.94833622</distance>
-		<star>
-			<magV>15.897</magV>
-			<temperature>5658</temperature>
-			<radius>0.92</radius>
-			<planet>
-				<name>KOI 2157 b</name>
-				<mass>0.00972953925877</mass>
-				<radius>0.1576549</radius>
-				<period>2.1155470</period>
-				<semimajoraxis>0.033</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-2157</name>
-		</star>
-	</system>
-	<system>
 		<name>KOI-2158</name>
 		<rightascension>19 50 36</rightascension>
 		<declination>+40 21 09</declination>
@@ -36888,27 +35733,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-2320</name>
-		<rightascension>19 43 21</rightascension>
-		<declination>+47 40 54</declination>
-		<distance>763.379903929</distance>
-		<star>
-			<magV>15.047</magV>
-			<temperature>5524</temperature>
-			<radius>0.76</radius>
-			<planet>
-				<name>KOI 2320 b</name>
-				<mass>0.00225071388055</mass>
-				<radius>0.0774605</radius>
-				<period>2.0373148</period>
-				<semimajoraxis>0.029</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-2320</name>
 		</star>
 	</system>
 	<system>
@@ -44337,27 +43161,6 @@
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
-		</star>
-	</system>
-	<system>
-		<name>KOI-2841</name>
-		<rightascension>19 34 33</rightascension>
-		<declination>+44 58 57</declination>
-		<distance>984.205903801</distance>
-		<star>
-			<magV>15.822</magV>
-			<temperature>5213</temperature>
-			<radius>0.77</radius>
-			<planet>
-				<name>KOI 2841 b</name>
-				<mass>0.0243403409022</mass>
-				<radius>0.246051</radius>
-				<period>159.3908703</period>
-				<semimajoraxis>0.550</semimajoraxis>
-				<list>Kepler Objects of Interest</list>
-				<description>This is a Kepler Object of Interest. It has been flagged as a possible transit event but might have not been confirmed to be a planet yet.</description>
-			</planet>
-			<name>KOI-2841</name>
 		</star>
 	</system>
 	<system>
