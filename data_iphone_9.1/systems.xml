@@ -1,4 +1,4 @@
-<systems name="systems" planets="874">
+<systems name="systems" planets="879">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1055,6 +1055,51 @@
 				<new>0</new>
 			</planet>
 			<name>BD+20 274</name>
+		</star>
+	</system>
+	<system>
+		<name>BD-061339</name>
+		<name>HIP 27803</name>
+		<distance>20</distance>
+		<star>
+			<name>BD-061339</name>
+			<name>HIP 27803</name>
+			<mass>0.7</mass>
+			<temperature>4324</temperature>
+			<magV>9.69</magV>
+			<age>4.4</age>
+			<metallicity>-0.14</metallicity>
+			<spectraltype>K7V/M0V</spectraltype>
+			<planet>
+				<name>BD-061339 b</name>
+				<name>HIP 27803 b</name>
+				<list>Confirmed planets</list>
+				<mass>0.027</mass>
+				<period>3.8728</period>
+				<semimajoraxis>0.0428</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<periastron>0.0</periastron>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/01/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<new>1</new>
+				<description>The star BD-061339 hosts two planets. The inner planet is a super-Earth (assuming sin(i)=1). It might be tidally locked due to its proximity to the host star. The planet was discovered with the European HARPS instrument.</description>
+			</planet>
+			<planet>
+				<name>BD-061339 c</name>
+				<name>HIP 27803 c</name>
+				<list>Confirmed planets</list>
+				<mass>0.17</mass>
+				<period>125.94</period>
+				<semimajoraxis>0.435</semimajoraxis>
+				<eccentricity>0.31</eccentricity>
+				<periastron>41</periastron>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/01/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<new>1</new>
+				<description>The star BD-061339 hosts two planets. The outer planet has about three Neptune masses and is located in the habitable zone. However, the planet has most likely no solid surface on which liquid water could exist. The planet was discovered with the European HARPS instrument.</description>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -4956,6 +5001,34 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 	</system>
 	<system>
+		<name>HD 103774</name>
+		<distance>55</distance>
+		<star>
+			<name>HD 103774</name>
+			<name>HIP 58263</name>
+			<mass>1.335</mass>
+			<temperature>6489</temperature>
+			<magV>7.12</magV>
+			<metallicity>0.28</metallicity>
+			<spectraltype>F5V</spectraltype>
+			<planet>
+				<name>HD 103774 b</name>
+				<name>HIP 58263 b</name>
+				<list>Confirmed planets</list>
+				<mass>0.367</mass>
+				<period>5.8881</period>
+				<semimajoraxis>0.070</semimajoraxis>
+				<eccentricity>0.09</eccentricity>
+				<periastron>-42</periastron>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/01/14</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 104067</name>
 		<rightascension>11 59 10</rightascension>
 		<declination>-20 21 14</declination>
@@ -5284,6 +5357,50 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<new>0</new>
 			</planet>
 			<name>HD 109246</name>
+		</star>
+	</system>
+	<system>
+		<name>HD 109271</name>
+		<distance>62</distance>
+		<star>
+			<name>HD 109271</name>
+			<name>HIP 61300</name>
+			<mass>1.047</mass>
+			<temperature>5783</temperature>
+			<magV>8.05</magV>
+			<metallicity>0.10</metallicity>
+			<spectraltype>G5V</spectraltype>
+			<age>7.3</age>
+			<planet>
+				<name>HD 109271 b</name>
+				<name>HIP 61300 b</name>
+				<list>Confirmed planets</list>
+				<mass>0.054</mass>
+				<period>7.8543</period>
+				<semimajoraxis>0.079</semimajoraxis>
+				<eccentricity>0.25</eccentricity>
+				<periastron>-64</periastron>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/01/14</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>HD 109271 c</name>
+				<name>HIP 61300 c</name>
+				<list>Confirmed planets</list>
+				<mass>0.076</mass>
+				<period>30.93</period>
+				<semimajoraxis>0.196</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+				<periastron>4</periastron>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/01/14</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -20345,24 +20462,26 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<rightascension>00 15 37</rightascension>
 		<declination>-11 56 17</declination>
 		<star>
-			<mass>0.951</mass>
-			<radius>0.927</radius>
+			<mass>0.917</mass>
+			<radius>0.865</radius>
 			<magV>12.9</magV>
 			<metallicity>0.06</metallicity>
 			<spectraltype>G8V</spectraltype>
+			<age>4.1</age>
 			<planet>
 				<name>WASP-44 b</name>
 				<name>2MASS J00153675-1156172 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.889</mass>
-				<radius>1.14</radius>
-				<period>2.4238039</period>
-				<semimajoraxis>0.03473</semimajoraxis>
+				<mass>0.869</mass>
+				<radius>1.002</radius>
+				<temperature>1304</temperature>
+				<period>2.4238133</period>
+				<semimajoraxis>0.03445</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>86.02</inclination>
-				<description>WASP-44 b is a sub-Jupiter mass planet in a 2.42 day orbit around a G8V star. It was discovered by the WASP collaboration and published in a paper by Anderson et al. (2011).</description>
+				<description>WASP-44 b is a sub-Jupiter mass planet in a 2.42 day orbit around a G8V star. It was discovered by the WASP collaboration and published in a paper by Anderson et al. (2012).</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/05/17</lastupdate>
+				<lastupdate>13/01/14</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
