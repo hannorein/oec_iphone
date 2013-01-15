@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>BD-061339 b</id_exoplaneteu>
+	<name>BD-061339 b</name>
+	<name>HIP 27803 b</name>
+	<id>BD-061339 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.027</mass>
+		<radius />
+		<orbit>
+			<period>3.8728</period>
+			<semimajoraxis>0.0428</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination />
+			<periastron>0.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K7V/M0V</spectraltype>
+		<mass>0.7</mass>
+		<radius />
+		<metallicity>-0.14</metallicity>
+		<distance>20</distance>
+		<temperature>4324</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV>9.69</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>13/01/14</lastupdate>
+	<description>The star BD-061339 hosts two planets. The inner planet is a super-Earth (assuming sin(i)=1). It might be tidally locked due to its proximity to the host star. The planet was discovered with the European HARPS instrument.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
