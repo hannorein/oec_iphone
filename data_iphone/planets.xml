@@ -3447,6 +3447,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>DH Tau b</id_exoplaneteu>
 		<name>DH Tau b</name>
+		<name>DH Tauri b</name>
 		<id>DH Tau b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -3467,7 +3468,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>0.4</mass>
 			<radius />
 			<metallicity />
-			<distance />
+			<distance>140.01</distance>
 			<temperature />
 			<rightascension>04 29 42</rightascension>
 			<declination>+26 32 58</declination>
@@ -5444,9 +5445,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<period>61.1166</period>
 				<semimajoraxis>0.208317</semimajoraxis>
 				<eccentricity>0.0324</eccentricity>
-				<inclination>84</inclination>
-				<periastron />
-				<longitude />
+				<inclination>59</inclination>
+				<periastron>50.3</periastron>
+				<longitude>325.7</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
@@ -5468,7 +5469,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>11/05/11</lastupdate>
+		<lastupdate>13/01/26</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new>0</new>
 		<image />
@@ -5488,11 +5489,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<radius />
 			<orbit>
 				<period>30.0881</period>
-				<semimajoraxis>0.12959</semimajoraxis>
+				<semimajoraxis>0.129590</semimajoraxis>
 				<eccentricity>0.25591</eccentricity>
-				<inclination>48.07</inclination>
-				<periastron />
-				<longitude />
+				<inclination>59</inclination>
+				<periastron>48.76</periastron>
+				<longitude>294.59</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
@@ -5514,7 +5515,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>10/12/14</lastupdate>
+		<lastupdate>13/01/26</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new>0</new>
 		<image />
@@ -5533,12 +5534,12 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<mass>0.021</mass>
 			<radius />
 			<orbit>
-				<period>1.93778</period>
+				<period>1.937780</period>
 				<semimajoraxis>0.02080665</semimajoraxis>
 				<eccentricity>0.207</eccentricity>
-				<inclination>50</inclination>
-				<periastron />
-				<longitude />
+				<inclination>59</inclination>
+				<periastron>234</periastron>
+				<longitude>355</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
@@ -5560,7 +5561,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>10/12/14</lastupdate>
+		<lastupdate>13/01/26</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new>0</new>
 		<image />
@@ -5582,9 +5583,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<period>124.26</period>
 				<semimajoraxis>0.3343</semimajoraxis>
 				<eccentricity>0.055</eccentricity>
-				<inclination>59.5</inclination>
-				<periastron />
-				<longitude />
+				<inclination>59</inclination>
+				<periastron>239</periastron>
+				<longitude>335</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
@@ -5606,7 +5607,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/06/23</lastupdate>
+		<lastupdate>13/01/26</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -32512,7 +32513,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<mass>0.419</mass>
 			<radius>0.190</radius>
 			<metallicity />
-			<distance />
+			<distance>570</distance>
 			<temperature />
 			<rightascension>20 20 00</rightascension>
 			<declination>+04 37 56</declination>
@@ -32556,7 +32557,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<mass>0.419</mass>
 			<radius>0.190</radius>
 			<metallicity />
-			<distance />
+			<distance>570</distance>
 			<temperature />
 			<rightascension>20 20 00</rightascension>
 			<declination>+04 37 56</declination>
