@@ -1,4 +1,4 @@
-<planets date="2013-01-25" name="data" planets="879">
+<planets date="2013-01-26" name="data" planets="879">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -17422,36 +17422,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HIP 75458 b</id_exoplaneteu>
-		<name>HIP 75458 b</name>
-		<id>HIP 75458 b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>8.82</mass>
-			<orbit>
-				<period>510.702</period>
-				<semimajoraxis>1.275</semimajoraxis>
-				<eccentricity>0.713</eccentricity>
-				<inclination>69.9</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K2 III</spectraltype>
-			<mass>1.4</mass>
-			<radius>12.8</radius>
-			<metallicity>0.15</metallicity>
-			<distance>31.5</distance>
-			<rightascension>15 24 55</rightascension>
-			<declination>+58 57 57</declination>
-			<magV>3.31</magV>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2002</discoveryyear>
-		<lastupdate>11/01/11</lastupdate>
-		<new>0</new>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>HIP 78530 b</id_exoplaneteu>
 		<name>HIP 78530 b</name>
 		<id>HIP 78530 b</id>
@@ -17752,6 +17722,39 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<new>0</new>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>iota Draconis b</id_exoplaneteu>
+		<name>iota Draconis b</name>
+		<name>HIP 75458 b</name>
+		<name>HD 137759 b</name>
+		<id>iota Draconis b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>8.82</mass>
+			<orbit>
+				<period>510.702</period>
+				<semimajoraxis>1.275</semimajoraxis>
+				<eccentricity>0.713</eccentricity>
+				<inclination>69.9</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2 III</spectraltype>
+			<mass>1.4</mass>
+			<radius>12.8</radius>
+			<metallicity>0.15</metallicity>
+			<distance>31.5</distance>
+			<rightascension>15 24 55</rightascension>
+			<declination>+58 57 57</declination>
+			<magV>3.31</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2002</discoveryyear>
+		<lastupdate>13/01/26</lastupdate>
+		<description>The planet iota Droconis b has a very eccentric orbit. Kanet et al (2010) report a transit probability that is higher than that of a typical Hot Jupiter in a 5 day orbit. However, the weakness of the transit signal requires space-based observations to achieve an unambiguous transit detection.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Jupiter</id_exoplaneteu>
