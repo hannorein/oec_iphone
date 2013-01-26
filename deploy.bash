@@ -5,5 +5,6 @@ cd /home/hanno/public_html/exoplanet.hanno-rein.de/data
 echo "Starting update on"
 hostname
 php update.php
+php updateAddVideoLink.php
 echo "Update done."
 ENDSSH
