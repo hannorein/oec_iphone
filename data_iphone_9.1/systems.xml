@@ -24,6 +24,7 @@
 			</planet>
 			<name>11 Com</name>
 		</star>
+		<videolink>http://youtu.be/qyJXJJDrEDo</videolink>
 	</system>
 	<system>
 		<name>11 UMi</name>
@@ -372,6 +373,7 @@
 			</planet>
 			<name>2M1207</name>
 		</star>
+		<videolink>http://youtu.be/w7Ktw1kytF0</videolink>
 	</system>
 	<system>
 		<name>30 Ari B</name>
@@ -1296,6 +1298,7 @@
 			</planet>
 			<name>beta Pic</name>
 		</star>
+		<videolink>http://youtu.be/rlGZhdXlBAM</videolink>
 	</system>
 	<system>
 		<name>CFBDS 1458</name>
@@ -1342,6 +1345,7 @@
 		
 ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium</imagedescription>
 		</planet>
+		<videolink>http://youtu.be/BRswuUjt35g</videolink>
 	</system>
 	<system>
 		<name>CHXR 73</name>
@@ -2030,12 +2034,14 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>DH Tau</name>
 		<rightascension>04 29 42</rightascension>
 		<declination>+26 32 58</declination>
+		<distance>140.01</distance>
 		<star>
 			<mass>0.4</mass>
 			<magV>13.71</magV>
 			<spectraltype>M0.5V</spectraltype>
 			<planet>
 				<name>DH Tau b</name>
+				<name>DH Tauri b</name>
 				<list>Confirmed planets</list>
 				<mass>37.5</mass>
 				<semimajoraxis>330</semimajoraxis>
@@ -2142,6 +2148,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</planet>
 			<name>eps Eridani</name>
 		</star>
+		<videolink>http://youtu.be/gUwIp4_smcY</videolink>
 	</system>
 	<system>
 		<name>eps Tau</name>
@@ -2283,6 +2290,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</planet>
 			<name>gamma Cephei</name>
 		</star>
+		<videolink>http://youtu.be/lJ3HMtDK4ms</videolink>
 	</system>
 	<system>
 		<name>Gliese 1214</name>
@@ -3176,10 +3184,12 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<period>61.1166</period>
 				<semimajoraxis>0.208317</semimajoraxis>
 				<eccentricity>0.0324</eccentricity>
-				<inclination>84</inclination>
+				<periastron>50.3</periastron>
+				<inclination>59</inclination>
+				<longitude>325.7</longitude>
 				<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/05/11</lastupdate>
+				<lastupdate>13/01/26</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -3191,12 +3201,14 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<list>Confirmed planets</list>
 				<mass>0.7142</mass>
 				<period>30.0881</period>
-				<semimajoraxis>0.12959</semimajoraxis>
+				<semimajoraxis>0.129590</semimajoraxis>
 				<eccentricity>0.25591</eccentricity>
-				<inclination>48.07</inclination>
+				<inclination>59</inclination>
+				<periastron>48.76</periastron>
+				<longitude>294.59</longitude>
 				<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/14</lastupdate>
+				<lastupdate>13/01/26</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -3207,13 +3219,15 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<name>Gl 876 d</name>
 				<list>Confirmed planets</list>
 				<mass>0.021</mass>
-				<period>1.93778</period>
+				<period>1.937780</period>
 				<semimajoraxis>0.02080665</semimajoraxis>
 				<eccentricity>0.207</eccentricity>
-				<inclination>50</inclination>
+				<inclination>59</inclination>
+				<periastron>234</periastron>
+				<longitude>355</longitude>
 				<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/14</lastupdate>
+				<lastupdate>13/01/26</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -3227,9 +3241,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<period>124.26</period>
 				<semimajoraxis>0.3343</semimajoraxis>
 				<eccentricity>0.055</eccentricity>
-				<inclination>59.5</inclination>
+				<inclination>59</inclination>
+				<periastron>239</periastron>
+				<longitude>335</longitude>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/06/23</lastupdate>
+				<lastupdate>13/01/26</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -4787,6 +4803,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</planet>
 			<name>HD 10180</name>
 		</star>
+		<videolink>http://youtu.be/8fLnxGRXcsI</videolink>
 	</system>
 	<system>
 		<name>HD 101930</name>
@@ -11540,6 +11557,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</planet>
 			<name>HD 40307</name>
 		</star>
+		<videolink>http://youtu.be/MNIllUKtjfI</videolink>
 	</system>
 	<system>
 		<name>HD 40979</name>
@@ -12074,6 +12092,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<new>0</new>
 			</planet>
 		</star>
+		<videolink>http://youtu.be/iPuHKvxb_Wg</videolink>
 	</system>
 	<system>
 		<name>HD 47536</name>
@@ -13130,6 +13149,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</planet>
 			<name>HD 7924</name>
 		</star>
+		<videolink>http://youtu.be/Zp5gMMGCMhg</videolink>
 	</system>
 	<system>
 		<name>HD 79498</name>
@@ -14684,6 +14704,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<name>HW Vir (AB) C</name>
 			</star>
 		</binary>
+		<videolink>http://youtu.be/YIUT9gGHzfo</videolink>
 	</system>
 	<system>
 		<name>Kappa Andromedae</name>
@@ -15526,6 +15547,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</planet>
 			<name>Kepler-26</name>
 		</star>
+		<videolink>http://youtu.be/vhx5kW-Zgiw</videolink>
 	</system>
 	<system>
 		<name>Kepler-27</name>
@@ -15904,6 +15926,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<list>Planets in binary systems, P-type</list>
 			</planet>
 		</binary>
+		<videolink>http://youtu.be/xqCDmrPBCAg</videolink>
 	</system>
 	<system>
 		<name>Kepler-35</name>
@@ -16037,6 +16060,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<list>Planets in binary systems, P-type</list>
 			</planet>
 		</binary>
+		<videolink>http://youtu.be/4ivxxwksL04</videolink>
 	</system>
 	<system>
 		<name>Kepler-4</name>
@@ -16068,6 +16092,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			</planet>
 			<name>Kepler-4</name>
 		</star>
+		<videolink>http://youtu.be/qJl9BeAPfhI</videolink>
 	</system>
 	<system>
 		<name>Kepler-47</name>
@@ -16914,6 +16939,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</planet>
 			<name>KOI-13</name>
 		</star>
+		<videolink>http://youtu.be/v26NOR1Ihuc</videolink>
 	</system>
 	<system>
 		<name>KOI-135</name>
@@ -17206,6 +17232,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</planet>
 			<name>KOI-55</name>
 		</star>
+		<videolink>http://youtu.be/R4wK-nt4Elk</videolink>
 	</system>
 	<system>
 		<name>KOI-680</name>
@@ -17907,6 +17934,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>2MASS J20200045+0437564</name>
 		<rightascension>20 20 00</rightascension>
 		<declination>+04 37 56</declination>
+		<distance>570</distance>
 		<binary>
 			<period>0.110341681</period>
 			<star>
@@ -18500,6 +18528,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</star>
 			</binary>
 		</binary>
+		<videolink>http://youtu.be/QSOdlfHwR6k</videolink>
 	</system>
 	<system>
 		<name>PH-2</name>
