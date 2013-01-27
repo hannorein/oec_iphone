@@ -1,4 +1,4 @@
-<planets date="2013-01-26" name="data" planets="879">
+<planets date="2013-01-27" name="data" planets="879">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -23546,11 +23546,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>TrES-1</id_exoplaneteu>
-		<name>TrES-1</name>
+		<id_exoplaneteu>TrES-1 b</id_exoplaneteu>
+		<name>TrES-1 b</name>
 		<name>TYC 2652-01324-1</name>
 		<name>2MASS J19040985+3637574</name>
-		<id>TrES-1</id>
+		<id>TrES-1 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.761</mass>
@@ -23572,21 +23572,23 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<declination>+36 37 57</declination>
 			<magV>11.79</magV>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
 		<lastupdate>11/02/09</lastupdate>
+		<description>TrES-1 b orbits an orange dwarf star in the constellation of Lyra. It belongs to the class of Hot Jupiters</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>TrES-2</id_exoplaneteu>
-		<name>TrES-2</name>
+		<id_exoplaneteu>TrES-2 A b</id_exoplaneteu>
+		<name>TrES-2 A b</name>
+		<name>TrES-2 b</name>
 		<name>TYC 3549-02811-1</name>
 		<name>2MASS J19071403+4918590</name>
 		<name>KIC 11446443</name>
 		<name>Kepler-1</name>
 		<name>KOI-1</name>
-		<id>TrES-2</id>
+		<id>TrES-2 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.253</mass>
@@ -23599,26 +23601,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.88</mass>
-			<radius>0.85</radius>
+			<spectraltype>G0</spectraltype>
+			<mass>1.18</mass>
+			<radius>1.169</radius>
 			<metallicity>0.001</metallicity>
-			<distance>157</distance>
-			<rightascension>19 04 09</rightascension>
-			<declination>+36 37 57</declination>
-			<magV>11.79</magV>
+			<distance>213</distance>
+			<rightascension>19 07 14</rightascension>
+			<declination>+49 18 59</declination>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>12/05/22</lastupdate>
+		<lastupdate>13/01/27</lastupdate>
+		<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>TrES-3</id_exoplaneteu>
-		<name>TrES-3</name>
+		<id_exoplaneteu>TrES-3 b</id_exoplaneteu>
+		<name>TrES-3 b</name>
 		<name>2MASS J17520702+3732461</name>
-		<id>TrES-3</id>
+		<id>TrES-3 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.91</mass>
@@ -23635,23 +23638,25 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.88</mass>
 			<radius>0.85</radius>
 			<metallicity>0.001</metallicity>
-			<distance>157</distance>
-			<rightascension>19 04 09</rightascension>
-			<declination>+36 37 57</declination>
+			<distance>400</distance>
+			<rightascension>17 52 07</rightascension>
+			<declination>+37 32 46</declination>
 			<magV>11.79</magV>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>10/12/13</lastupdate>
+		<description>The planet TrES-3 b has an orbital perdiod of just 31 hours and is undergoing orbital decay due to tidal effects.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>TrES-4</id_exoplaneteu>
-		<name>TrES-4</name>
+		<id_exoplaneteu>TrES-4 A b</id_exoplaneteu>
+		<name>TrES-4 A b</name>
+		<name>TrES-4 b</name>
 		<name>TYC 2620-00648-1</name>
 		<name>2MASS J17531304+3712426</name>
-		<id>TrES-4</id>
+		<id>TrES-4 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.917</mass>
@@ -23668,22 +23673,25 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.88</mass>
 			<radius>0.85</radius>
 			<metallicity>0.001</metallicity>
-			<distance>157</distance>
-			<rightascension>19 04 09</rightascension>
-			<declination>+36 37 57</declination>
+			<distance>485</distance>
+			<temperature>1782</temperature>
+			<rightascension>17 53 13</rightascension>
+			<declination>+37 12 42</declination>
 			<magV>11.79</magV>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>12/04/08</lastupdate>
+		<lastupdate>13/01/27</lastupdate>
+		<description>The planet TrES-4 b was discovered by the Trans-Atlantic Exoplanet Survey and is located in the constellation Hercules. The host star is a member of a binary system.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>TrES-5</id_exoplaneteu>
-		<name>TrES-5</name>
-		<name>2MASS J20205324+5926556</name>
-		<id>TrES-5</id>
+		<id_exoplaneteu>TrES-5 b</id_exoplaneteu>
+		<name>TrES-5 b</name>
+		<name>2MASS J20205324+5926556 b</name>
+		<id>TrES-5 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.778</mass>
@@ -23698,15 +23706,17 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>K0V</spectraltype>
 			<mass>0.88</mass>
 			<radius>0.85</radius>
-			<metallicity>0.001</metallicity>
-			<distance>157</distance>
-			<rightascension>19 04 09</rightascension>
-			<declination>+36 37 57</declination>
+			<metallicity>0.20</metallicity>
+			<distance>360</distance>
+			<temperature>5171</temperature>
+			<rightascension>20 20 53</rightascension>
+			<declination>+59 26 55</declination>
 			<magV>11.79</magV>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/05</lastupdate>
+		<description>TrES-5 b transits one of the faintest stars with known transiting planets.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -24338,10 +24348,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>WASP-2 b</id_exoplaneteu>
+		<id_exoplaneteu>WASP-2 A b</id_exoplaneteu>
+		<name>WASP-2 A b</name>
 		<name>WASP-2 b</name>
 		<name>2MASS J20305413+0625463 b</name>
-		<id>WASP-2 b</id>
+		<id>WASP-2 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.847</mass>
@@ -24355,19 +24366,21 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>K1V</spectraltype>
-			<mass>0.84</mass>
-			<radius>0.834</radius>
+			<mass>0.77</mass>
+			<radius>1.079</radius>
 			<metallicity>-0.08</metallicity>
-			<distance>144</distance>
+			<distance>147</distance>
 			<rightascension>20 30 54</rightascension>
 			<declination>+06 25 46</declination>
 			<magV>11.98</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>11/06/15</lastupdate>
+		<lastupdate>13/01/27</lastupdate>
+		<description>WASP-2 is an orange dwarf star that hosts the exoplanet WASP-2 b. It was discovered with the SuperWASP survey in 2006.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-20 b</id_exoplaneteu>
