@@ -1,18 +1,19 @@
 <planet>
 	<id_exoplaneteu>Gliese 3470 b</id_exoplaneteu>
 	<name>Gliese 3470 b</name>
+	<name>GJ 3470 b</name>
 	<name>LP 424-4</name>
 	<name>2MASS J07590587+1523294</name>
 	<id>Gliese 3470 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.04403980</mass>
-		<radius>0.38274724</radius>
+		<mass>0.04372523</mass>
+		<radius>0.440159</radius>
 		<orbit>
-			<period>3.3371</period>
-			<semimajoraxis>0.0348</semimajoraxis>
+			<period>3.33671</period>
+			<semimajoraxis>0.03557</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination />
+			<inclination>88.3</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -20,11 +21,11 @@
 	</properties>
 	<star>
 		<spectraltype>M1.5</spectraltype>
-		<mass>0.54</mass>
-		<radius>0.50</radius>
-		<metallicity>0</metallicity>
-		<distance>25.2</distance>
-		<temperature />
+		<mass>0.539</mass>
+		<radius>0.568</radius>
+		<metallicity>0.20</metallicity>
+		<distance>30.7</distance>
+		<temperature>3600</temperature>
 		<rightascension>07 59 06</rightascension>
 		<declination>+15 23 30</declination>
 		<angulardistance />
@@ -36,8 +37,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/07/16</lastupdate>
-	<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet.</description>
+	<lastupdate>13/01/28</lastupdate>
+	<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
