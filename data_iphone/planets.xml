@@ -1876,7 +1876,7 @@
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/01/14</lastupdate>
 		<description>The star BD-061339 hosts two planets. The inner planet is a super-Earth (assuming sin(i)=1). It might be tidally locked due to its proximity to the host star. The planet was discovered with the European HARPS instrument.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -1920,7 +1920,7 @@
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/01/14</lastupdate>
 		<description>The star BD-061339 hosts two planets. The outer planet has about three Neptune masses and is located in the habitable zone. However, the planet has most likely no solid surface on which liquid water could exist. The planet was discovered with the European HARPS instrument.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -4268,18 +4268,19 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	<planet>
 		<id_exoplaneteu>Gliese 3470 b</id_exoplaneteu>
 		<name>Gliese 3470 b</name>
+		<name>GJ 3470 b</name>
 		<name>LP 424-4</name>
 		<name>2MASS J07590587+1523294</name>
 		<id>Gliese 3470 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.04403980</mass>
-			<radius>0.38274724</radius>
+			<mass>0.04372523</mass>
+			<radius>0.440159</radius>
 			<orbit>
-				<period>3.3371</period>
-				<semimajoraxis>0.0348</semimajoraxis>
+				<period>3.33671</period>
+				<semimajoraxis>0.03557</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination />
+				<inclination>88.3</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -4287,11 +4288,11 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</properties>
 		<star>
 			<spectraltype>M1.5</spectraltype>
-			<mass>0.54</mass>
-			<radius>0.50</radius>
-			<metallicity>0</metallicity>
-			<distance>25.2</distance>
-			<temperature />
+			<mass>0.539</mass>
+			<radius>0.568</radius>
+			<metallicity>0.20</metallicity>
+			<distance>30.7</distance>
+			<temperature>3600</temperature>
 			<rightascension>07 59 06</rightascension>
 			<declination>+15 23 30</declination>
 			<angulardistance />
@@ -4303,8 +4304,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/07/16</lastupdate>
-		<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet.</description>
+		<lastupdate>13/01/28</lastupdate>
+		<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -8622,7 +8623,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/01/14</lastupdate>
 		<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -33581,7 +33582,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/01/06</lastupdate>
 		<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>PH2</image>
 		<imagedescription>Artistic rendition of a sunset view from the perspective of an imagined Earth-like moon orbiting the giant planet, PH2 b. 
 			
