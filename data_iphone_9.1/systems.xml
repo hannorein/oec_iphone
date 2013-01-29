@@ -1089,7 +1089,7 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>13/01/14</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 				<description>The star BD-061339 hosts two planets. The inner planet is a super-Earth (assuming sin(i)=1). It might be tidally locked due to its proximity to the host star. The planet was discovered with the European HARPS instrument.</description>
 			</planet>
 			<planet>
@@ -1104,7 +1104,7 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>13/01/14</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 				<description>The star BD-061339 hosts two planets. The outer planet has about three Neptune masses and is located in the habitable zone. However, the planet has most likely no solid surface on which liquid water could exist. The planet was discovered with the European HARPS instrument.</description>
 			</planet>
 		</star>
@@ -2537,32 +2537,37 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	</system>
 	<system>
 		<name>Gliese 3470</name>
+		<name>GJ 3470</name>
 		<rightascension>07 59 06</rightascension>
 		<declination>+15 23 30</declination>
-		<distance>25.2</distance>
+		<distance>30.7</distance>
 		<star>
-			<mass>0.54</mass>
-			<radius>0.50</radius>
+			<name>Gliese 3470</name>
+			<name>GJ 3470</name>
+			<mass>0.539</mass>
+			<radius>0.568</radius>
 			<magV>12.3</magV>
-			<metallicity>0</metallicity>
+			<metallicity>0.20</metallicity>
 			<spectraltype>M1.5</spectraltype>
+			<temperature>3600</temperature>
 			<planet>
 				<name>Gliese 3470 b</name>
+				<name>GJ 3470 b</name>
 				<name>LP 424-4</name>
 				<name>2MASS J07590587+1523294</name>
 				<list>Confirmed planets</list>
-				<mass>0.04403980</mass>
-				<radius>0.38274724</radius>
-				<period>3.3371</period>
-				<semimajoraxis>0.0348</semimajoraxis>
+				<inclination>88.3</inclination>
+				<mass>0.04372523</mass>
+				<radius>0.440159</radius>
+				<period>3.33671</period>
+				<semimajoraxis>0.03557</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet.</description>
+				<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/16</lastupdate>
+				<lastupdate>13/01/28</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>Gliese 3470</name>
 		</star>
 	</system>
 	<system>
@@ -5053,7 +5058,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<lastupdate>13/01/14</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
@@ -18571,7 +18576,7 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/01/06</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 		<videolink>http://youtu.be/qHvb9mewXJo</videolink>
