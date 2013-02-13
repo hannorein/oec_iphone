@@ -1,4 +1,4 @@
-<planets date="2013-01-30" name="data" planets="879">
+<planets date="2013-02-13" name="data" planets="882">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -20516,6 +20516,111 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-68 b</id_exoplaneteu>
+		<name>Kepler-68 b</name>
+		<name>KIC 11295426 b</name>
+		<name>2MASS J19240775+4902249 b</name>
+		<name>KOI 246.01</name>
+		<id>Kepler-68 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.02610931</mass>
+			<radius>0.2105109</radius>
+			<orbit>
+				<period>5.398763</period>
+				<semimajoraxis>0.06170</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.60</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.079</mass>
+			<radius>1.243</radius>
+			<metallicity>0.12</metallicity>
+			<distance>135</distance>
+			<temperature>5793</temperature>
+			<rightascension>19 24 08</rightascension>
+			<declination>+49 02 25</declination>
+			<magV>4.34</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/02/13</lastupdate>
+		<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 b has a density intermediate between that of ice giants and Earth.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-68 c</id_exoplaneteu>
+		<name>Kepler-68 c</name>
+		<name>KIC 11295426 c</name>
+		<name>2MASS J19240775+4902249 c</name>
+		<name>KOI 246.02</name>
+		<id>Kepler-68 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01509936</mass>
+			<radius>0.0868471</radius>
+			<orbit>
+				<period>9.605085</period>
+				<semimajoraxis>0.09059</semimajoraxis>
+				<inclination>86.93</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.079</mass>
+			<radius>1.243</radius>
+			<metallicity>0.12</metallicity>
+			<distance>135</distance>
+			<temperature>5793</temperature>
+			<rightascension>19 24 08</rightascension>
+			<declination>+49 02 25</declination>
+			<magV>4.34</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/02/13</lastupdate>
+		<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 c is Earth-sized.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-68 d</id_exoplaneteu>
+		<name>Kepler-68 d</name>
+		<name>KIC 11295426 d</name>
+		<name>2MASS J19240775+4902249 d</name>
+		<name>KOI 246.20</name>
+		<id>Kepler-68 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.947</mass>
+			<orbit>
+				<period>580</period>
+				<semimajoraxis>1.40</semimajoraxis>
+				<eccentricity>0.18</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.079</mass>
+			<radius>1.243</radius>
+			<metallicity>0.12</metallicity>
+			<distance>135</distance>
+			<temperature>5793</temperature>
+			<rightascension>19 24 08</rightascension>
+			<declination>+49 02 25</declination>
+			<magV>4.34</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/02/13</lastupdate>
+		<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefor a lower limit.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
