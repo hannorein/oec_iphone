@@ -2961,7 +2961,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</binary>
 	</system>
 	<system>
-		<name>HD 190360</name>
+		<name>Gliese 777</name>
 		<rightascension>20 03 37</rightascension>
 		<declination>+29 53 48</declination>
 		<distance>15.89</distance>
@@ -9377,8 +9377,8 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 	</system>
 	<system>
-		<name>HD 20781</name>
 		<name>HD 20782</name>
+		<name>HD 20781</name>
 		<rightascension>03 20 03</rightascension>
 		<declination>-28 51 14</declination>
 		<distance>36.02</distance>
@@ -14167,26 +14167,28 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<spectraltype>F2V</spectraltype>
 			<planet>
 				<name>HIP 11952 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>2.93</mass>
 				<period>290</period>
 				<semimajoraxis>0.81</semimajoraxis>
 				<eccentricity>0.27</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/03/16</lastupdate>
+				<lastupdate>13/02/14</lastupdate>
 				<discoveryyear>2012</discoveryyear>
+				<description>This planet was announced in 2012. But a new study in 2013 using the HARPS-N spectrograph did not find any evidence for giant planets in the system. The planet is therefore labeled as constroversial.</description>
 				<new>0</new>
 			</planet>
 			<planet>
 				<name>HIP 11952 c</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>0.78</mass>
 				<period>6.95</period>
 				<semimajoraxis>0.07</semimajoraxis>
 				<eccentricity>0.35</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/03/16</lastupdate>
+				<lastupdate>13/02/14</lastupdate>
 				<discoveryyear>2012</discoveryyear>
+				<description>This planet was announced in 2012. But a new study in 2013 using the HARPS-N spectrograph did not find any evidence for giant planets in the system. The planet is therefore labeled as constroversial.</description>
 				<new>0</new>
 			</planet>
 			<name>HIP 11952</name>
