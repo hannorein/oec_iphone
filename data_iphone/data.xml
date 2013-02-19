@@ -1,4 +1,4 @@
-<planets date="2013-02-17" name="data" planets="885">
+<planets date="2013-02-18" name="data" planets="885">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -15433,6 +15433,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	<planet>
 		<id_exoplaneteu>HD 62509 b</id_exoplaneteu>
 		<name>HD 62509 b</name>
+		<name>Pollux b</name>
+		<name>Beta Geminorum b</name>
+		<name>Beta Gem b</name>
 		<id>HD 62509 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -15449,7 +15452,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<radius>9.3</radius>
 			<metallicity>0.19</metallicity>
 			<distance>10.34</distance>
-			<temperature>482.6</temperature>
+			<temperature>4666.0</temperature>
 			<rightascension>07 45 18</rightascension>
 			<declination>+28 01 34</declination>
 			<magV>1.15</magV>
@@ -19693,8 +19696,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-30 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>9.1</mass>
-			<radius>1.31227</radius>
+			<mass>2.01</mass>
+			<radius>1.169</radius>
 			<orbit>
 				<period>60.32</period>
 				<semimajoraxis>0.30</semimajoraxis>
@@ -26661,7 +26664,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.43</radius>
 			<orbit>
 				<period>4.37809</period>
-				<semimajoraxis>0.574</semimajoraxis>
+				<semimajoraxis>0.0574</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>87.8</inclination>
 			</orbit>
