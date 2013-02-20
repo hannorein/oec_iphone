@@ -17056,9 +17056,13 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-37</name>
+		<rightascension>18 56 14</rightascension>
+		<declination>+44 31 05</declination>
 		<distance>66</distance>
 		<star>
 			<name>Kepler-37</name>
+			<name>KOI-245</name>
+			<name>KIC 8478994</name>
 			<mass>0.803</mass>
 			<radius>0.770</radius>
 			<metallicity>-0.32</metallicity>
@@ -17066,6 +17070,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<age>6</age>
 			<planet>
 				<name>Kepler-37 b</name>
+				<name>KOI-245 b</name>
+				<name>KIC 8478994 b</name>
 				<list>Confirmed planets</list>
 				<radius>0.02761247</radius>
 				<period>13.367308</period>
@@ -17080,6 +17086,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			</planet>
 			<planet>
 				<name>Kepler-37 c</name>
+				<name>KOI-245 c</name>
+				<name>KIC 8478994 c</name>
 				<list>Confirmed planets</list>
 				<radius>0.067618678</radius>
 				<period>21.301886</period>
@@ -17094,6 +17102,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			</planet>
 			<planet>
 				<name>Kepler-37 d</name>
+				<name>KOI-245 d</name>
+				<name>KIC 8478994 d</name>
 				<list>Confirmed planets</list>
 				<radius>0.181349</radius>
 				<period>39.792187</period>
