@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-37 d</id_exoplaneteu>
+	<name>Kepler-37 d</name>
+	<id>Kepler-37 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.181349</radius>
+		<orbit>
+			<period>39.792187</period>
+			<semimajoraxis>0.2076</semimajoraxis>
+			<eccentricity>0.1024</eccentricity>
+			<inclination>89.335</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.803</mass>
+		<radius>0.770</radius>
+		<metallicity>-0.32</metallicity>
+		<distance>66</distance>
+		<temperature>5417</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/02/20</lastupdate>
+	<description>Kepler-37 d is the outermost planet in a three planet system discovered by Kepler. It is twice as big as Earth and therefore the largest known planet in the system.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

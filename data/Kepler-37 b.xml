@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-37 b</id_exoplaneteu>
+	<name>Kepler-37 b</name>
+	<id>Kepler-37 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.02761247</radius>
+		<orbit>
+			<period>13.367308</period>
+			<semimajoraxis>0.1003</semimajoraxis>
+			<eccentricity>0.715</eccentricity>
+			<inclination>88.63</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.803</mass>
+		<radius>0.770</radius>
+		<metallicity>-0.32</metallicity>
+		<distance>66</distance>
+		<temperature>5417</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/02/20</lastupdate>
+	<description>Kepler-37 b is a tiny planet, about the size of our Moon. Due to the highly irradiates surface it is probably rocky with no atmosphere or water, similar than Mercury.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

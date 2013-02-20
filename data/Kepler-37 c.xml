@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-37 c</id_exoplaneteu>
+	<name>Kepler-37 c</name>
+	<id>Kepler-37 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.067618678</radius>
+		<orbit>
+			<period>21.301886</period>
+			<semimajoraxis>0.1368</semimajoraxis>
+			<eccentricity>0.098</eccentricity>
+			<inclination>89.07</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.803</mass>
+		<radius>0.770</radius>
+		<metallicity>-0.32</metallicity>
+		<distance>66</distance>
+		<temperature>5417</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/02/20</lastupdate>
+	<description>Kepler-37 is a three planet system discovered by Kepler. The planet Kepler-37 c is about three quaters the size of Earth.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
