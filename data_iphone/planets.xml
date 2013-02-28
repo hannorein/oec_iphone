@@ -7725,6 +7725,51 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 100546 b</id_exoplaneteu>
+		<name>HD 100546 b</name>
+		<id>HD 100546 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>17.5</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>68</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>B9Vne</spectraltype>
+			<mass>2.4</mass>
+			<radius />
+			<metallicity />
+			<distance>97</distance>
+			<temperature>10500</temperature>
+			<rightascension>11 33 25</rightascension>
+			<declination>-70 11 41</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/02/27</lastupdate>
+		<description>HD 100546 is a Herbig Ae/Be star. High contrast observations of the circumstellar disk reveal an emmision source at a distance of 68 astronomical units. The most likely explanation is a planet in the process of forming. If confirmed, HD100546 b would be a unique laboratory to study the formation process of a new planetary system, with one giant planet currently forming in the disk and a second planet possibly orbiting in the disk gap at a smaller separation.</description>
+		<new>1</new>
+		<image>HD100546</image>
+		<imagedescription>The HD100546 disk on different size scales. 
+			
+Source: Quanz et al. 2013.</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 100655 b</id_exoplaneteu>
 		<name>HD 100655 b</name>
 		<id>HD 100655 b</id>
