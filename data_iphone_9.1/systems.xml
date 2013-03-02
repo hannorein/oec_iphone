@@ -1,4 +1,4 @@
-<systems name="systems" planets="889">
+<systems name="systems" planets="890">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -23043,6 +23043,45 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</planet>
 			<name>WASP-8</name>
 			<temperature>5600.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>WASP-80</name>
+		<rightascension>20 12 40</rightascension>
+		<declination>-02 08 44</declination>
+		<distance>60</distance>
+		<star>
+			<name>WASP-80</name>
+			<name>2MASS J20124017-0208391</name>
+			<name>TYC 7038-834-1</name>
+			<name>BPM 80815</name>
+			<name>GSC 05165-00481</name>
+			<temperature>4145.0</temperature>
+			<mass>0.58</mass>
+			<radius>0.63</radius>
+			<magV>11.881</magV>
+			<metallicity>-0.14</metallicity>
+			<spectraltype>K7V</spectraltype>
+			<planet>
+				<name>WASP-80 b</name>
+				<name>2MASS J20124017-0208391 b</name>
+				<name>TYC 7038-834-1 b</name>
+				<name>BPM 80815 b</name>
+				<name>GSC 05165-00481 b</name>
+				<list>Confirmed planets</list>
+				<mass>0.554</mass>
+				<radius>0.952</radius>
+				<period>3.0678504</period>
+				<semimajoraxis>0.0346</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
+				<inclination>89.92</inclination>
+				<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/03/01</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>0</new>
+				<temperature>800</temperature>
+			</planet>
 		</star>
 	</system>
 	<system>
