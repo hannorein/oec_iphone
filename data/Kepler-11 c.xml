@@ -4,12 +4,12 @@
 	<id>Kepler-11 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.0425</mass>
-		<radius>0.28175</radius>
+		<mass>0.00912253</mass>
+		<radius>0.2615439</radius>
 		<orbit>
 			<period>13.02502</period>
-			<semimajoraxis>0.106</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<semimajoraxis>0.107</semimajoraxis>
+			<eccentricity>0.026</eccentricity>
 			<inclination>89</inclination>
 			<periastron />
 			<longitude />
@@ -18,11 +18,11 @@
 	</properties>
 	<star>
 		<spectraltype>G</spectraltype>
-		<mass>0.95</mass>
-		<radius>1.1</radius>
+		<mass>0.961</mass>
+		<radius>1.053</radius>
 		<metallicity />
 		<distance>613.20279</distance>
-		<temperature>870.7</temperature>
+		<temperature>5663</temperature>
 		<rightascension>19 48 28</rightascension>
 		<declination>+41 54 33</declination>
 		<angulardistance />
@@ -34,10 +34,12 @@
 	</star>
 	<multiplicity>6</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/02/02</lastupdate>
-	<description />
+	<lastupdate>13/03/04</lastupdate>
+	<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
 	<new>0</new>
-	<image />
-	<imagedescription />
+	<image>Kepler11</image>
+	<imagedescription>Kepler-11 is a Sun-like star around which six planets orbit. At times, two or more planets pass in front of the star at once, as shown in this artist's conception of a simultaneous transit of three planets observed by NASA's Kepler spacecraft on Aug. 26, 2010. 
+		
+Image credit: NASA/Tim Pyle</imagedescription>
 	<list>Confirmed planets</list>
 </planet>
