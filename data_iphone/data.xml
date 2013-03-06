@@ -1,4 +1,4 @@
-<planets date="2013-03-04" name="data" planets="890">
+<planets date="2013-03-06" name="data" planets="890">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -20372,6 +20372,39 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-41 b</id_exoplaneteu>
+		<name>Kepler-41 b</name>
+		<name>KOI-196 b</name>
+		<name>2MASS J19380317+4558539 b</name>
+		<id>Kepler-41 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.5978</mass>
+			<radius>0.9956</radius>
+			<orbit>
+				<period>1.8555577</period>
+				<semimajoraxis>0.02999</semimajoraxis>
+				<inclination>85.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6V</spectraltype>
+			<mass>1.044</mass>
+			<radius>1.065</radius>
+			<metallicity>0.036</metallicity>
+			<distance>771.43</distance>
+			<temperature>5617</temperature>
+			<rightascension>19 38 03</rightascension>
+			<declination>48 58 54</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/03/06</lastupdate>
+		<description>KOI-196 b, also known as Kepler-41 b, is transiting its host star and was tagged as a planet candidate by the Kepler spacecraft. Astronomers then used the SOPHIE spectrograph at the Observatoire de Haute-Provence in France to confirm the planet. The day side temperature on the planet is almost 1700 degree Celsius. In 2013, it was independently confirmed by a phase curve analysis.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-47(AB) b</id_exoplaneteu>
 		<name>Kepler-47(AB) b</name>
 		<name>KIC 10020423 b</name>
@@ -21783,40 +21816,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/10/26</lastupdate>
-		<new>0</new>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KOI-196 b</id_exoplaneteu>
-		<name>KOI-196 b</name>
-		<name>2MASS J19380317+4558539 b</name>
-		<name>KIC 9410930 b</name>
-		<id>KOI-196 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.49</mass>
-			<radius>0.841</radius>
-			<orbit>
-				<period>1.855558</period>
-				<semimajoraxis>0.029</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>88.3</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G2V</spectraltype>
-			<mass>0.94</mass>
-			<radius>0.966</radius>
-			<metallicity>-0.09</metallicity>
-			<distance>730</distance>
-			<rightascension>19 38 03</rightascension>
-			<declination>+45 58 54</declination>
-			<magV>14.5</magV>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/08/03</lastupdate>
-		<description>KOI-196 b is transiting its host star and was tagged as a planet candidate by the Kepler spacecraft. Astronomers then used the SOPHIE spectrograph at the Observatoire de Haute-Provence in France to confirm the planet. The day side temperature on the planet is almost 1700 degree Celsius.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
