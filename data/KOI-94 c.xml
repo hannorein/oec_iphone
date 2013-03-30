@@ -5,13 +5,13 @@
 	<id>KOI-94 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.407761</radius>
+		<mass>0.04907293</mass>
+		<radius>0.39368287</radius>
 		<orbit>
-			<period>10.423707</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<period>10.423648</period>
+			<semimajoraxis>0.1013</semimajoraxis>
+			<eccentricity>0.43</eccentricity>
+			<inclination>88.36</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -19,11 +19,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.25</mass>
-		<radius>1.61</radius>
-		<metallicity>-0.01</metallicity>
+		<mass>1.277</mass>
+		<radius>1.52</radius>
+		<metallicity>0.0228</metallicity>
 		<distance>426.2</distance>
-		<temperature>6116</temperature>
+		<temperature>6182</temperature>
 		<rightascension>19 49 20</rightascension>
 		<declination>+41 53 28</declination>
 		<angulardistance />
@@ -35,7 +35,7 @@
 	</star>
 	<multiplicity>4</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/11/12</lastupdate>
+	<lastupdate>13/03/15</lastupdate>
 	<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 	<new>0</new>
 	<image />
