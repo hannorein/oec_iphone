@@ -4097,24 +4097,26 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<declination>+05 56 50</declination>
 		<distance>204</distance>
 		<star>
-			<mass>0.945</mass>
-			<radius>0.898</radius>
+			<mass>0.92</mass>
+			<radius>0.87</radius>
 			<magV>12.21</magV>
-			<metallicity>0.29</metallicity>
+			<metallicity>0.14</metallicity>
 			<spectraltype>G8</spectraltype>
+			<age>3.60</age>
 			<planet>
 				<name>HAT-P-27 b</name>
 				<name>WASP-40 b</name>
 				<name>2MASS J14510418+0556505</name>
 				<list>Confirmed planets</list>
-				<mass>0.66</mass>
-				<radius>1.055</radius>
-				<period>3.0395721</period>
-				<semimajoraxis>0.0403</semimajoraxis>
-				<eccentricity>0.078</eccentricity>
-				<inclination>84.98</inclination>
+				<mass>0.62</mass>
+				<radius>1.02</radius>
+				<period>3.039577</period>
+				<semimajoraxis>0.0400</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<rossitermclaughlin>24.2</rossitermclaughlin>
+				<inclination>85.0</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/24</lastupdate>
+				<lastupdate>13/03/30</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1102.7</temperature>
@@ -18711,64 +18713,80 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<declination>+41 53 28</declination>
 		<distance>426.2</distance>
 		<star>
-			<mass>1.25</mass>
-			<radius>1.61</radius>
-			<temperature>6116</temperature>
-			<age>3.9</age>
-			<metallicity>-0.01</metallicity>
+			<name>KOI-94</name>
+			<mass>1.277</mass>
+			<radius>1.52</radius>
+			<temperature>6182</temperature>
+			<age>3.16</age>
+			<metallicity>0.0228</metallicity>
 			<planet>
 				<name>KOI-94 b</name>
 				<name>KOI-94.04</name>
 				<list>Confirmed planets</list>
-				<radius>0.167496</radius>
-				<period>3.7432</period>
+				<mass>0.0330298</mass>
+				<radius>0.1558328</radius>
+				<period>3.743208</period>
+				<semimajoraxis>0.05119</semimajoraxis>
+				<inclination>89.30</inclination>
+				<eccentricity>0.25</eccentricity>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/12</lastupdate>
+				<lastupdate>13/03/15</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
-				<temperature>1552.0</temperature>
+				<temperature>1486</temperature>
 			</planet>
 			<planet>
 				<name>KOI-94 c</name>
 				<name>KOI-94.02</name>
 				<list>Confirmed planets</list>
-				<radius>0.407761</radius>
-				<period>10.423707</period>
+				<radius>0.39368287</radius>
+				<mass>0.04907293</mass>
+				<period>10.423648</period>
+				<semimajoraxis>0.1013</semimajoraxis>
+				<inclination>88.36</inclination>
+				<eccentricity>0.43</eccentricity>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/12</lastupdate>
+				<lastupdate>13/03/15</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
-				<temperature>1102.9</temperature>
+				<temperature>1012</temperature>
 			</planet>
 			<planet>
 				<name>KOI-94 d</name>
 				<name>KOI-94.01</name>
 				<list>Confirmed planets</list>
-				<radius>1.098905</radius>
-				<period>22.343</period>
+				<radius>1.0270384</radius>
+				<mass>0.33344427</mass>
+				<semimajoraxis>0.1684</semimajoraxis>
+				<period>22.3429890</period>
+				<inclination>89.871</inclination>
+				<eccentricity>0.022</eccentricity>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/12</lastupdate>
+				<lastupdate>13/03/15</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
-				<temperature>854.3</temperature>
+				<temperature>806</temperature>
 			</planet>
 			<planet>
 				<name>KOI-94 e</name>
 				<name>KOI-94.03</name>
 				<list>Confirmed planets</list>
-				<radius>0.6504316</radius>
-				<period>54.31993</period>
+				<radius>0.59781473</radius>
+				<period>54.32031</period>
+				<semimajoraxis>0.3046</semimajoraxis>
+				<mass>0.11009952</mass>
+				<inclination>89.76</inclination>
+				<eccentricity>0.019</eccentricity>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/12</lastupdate>
+				<lastupdate>13/03/15</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
-				<temperature>635.7</temperature>
+				<temperature>584</temperature>
 			</planet>
-			<name>KOI-94</name>
 		</star>
 	</system>
 	<system>
@@ -21764,24 +21782,26 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<rightascension>00 15 51</rightascension>
 		<declination>+01 12 02</declination>
 		<star>
-			<mass>1.1</mass>
-			<radius>1.11</radius>
+			<mass>1.07</mass>
+			<radius>1.09</radius>
 			<magV>11.3</magV>
 			<metallicity>-0.13</metallicity>
 			<spectraltype>G</spectraltype>
+			<age>2.42</age>
 			<planet>
 				<name>WASP-32 b</name>
 				<name>TYC 002-01155-1 b</name>
 				<name>2MASS J00155080+0112016 b</name>
 				<list>Confirmed planets</list>
-				<mass>3.6</mass>
-				<radius>1.18</radius>
-				<period>2.71865</period>
-				<semimajoraxis>0.0394</semimajoraxis>
-				<eccentricity>0.018</eccentricity>
-				<inclination>85.3</inclination>
+				<mass>3.46</mass>
+				<radius>1.10</radius>
+				<period>2.718661</period>
+				<semimajoraxis>0.0390</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<rossitermclaughlin>10.5</rossitermclaughlin>
+				<inclination>85.1</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/10/11</lastupdate>
+				<lastupdate>13/03/30</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1427.6</temperature>
@@ -21948,11 +21968,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+10 01 57</declination>
 		<distance>110</distance>
 		<star>
-			<mass>1.216</mass>
-			<radius>1.365</radius>
+			<mass>1.23</mass>
+			<radius>1.35</radius>
 			<magV>9.42</magV>
 			<metallicity>-0.12</metallicity>
 			<spectraltype>F8</spectraltype>
+			<age>3.41</age>
 			<planet>
 				<name>WASP-38 b</name>
 				<name>HD 146389 b</name>
@@ -21960,15 +21981,17 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<name>2MASS J16155036+1001572 b</name>
 				<name>BD+10 2980 b</name>
 				<list>Confirmed planets</list>
-				<mass>2.712</mass>
-				<radius>1.079</radius>
-				<period>6.871815</period>
-				<semimajoraxis>0.07551</semimajoraxis>
-				<eccentricity>0.0321</eccentricity>
-				<inclination>88.69</inclination>
+				<mass>2.71</mass>
+				<radius>1.09</radius>
+				<period>6.87188</period>
+				<semimajoraxis>0.0758</semimajoraxis>
+				<eccentricity>0.028</eccentricity>
+				<inclination>89.5</inclination>
+				<periastron>-22.2</periastron>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/08</lastupdate>
+				<lastupdate>13/03/30</lastupdate>
 				<discoveryyear>2010</discoveryyear>
+				<rossitermclaughlin>7.5</rossitermclaughlin>
 				<new>0</new>
 				<temperature>1152.9</temperature>
 			</planet>
