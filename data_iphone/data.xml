@@ -1,4 +1,4 @@
-<planets date="2013-03-07" name="data" planets="891">
+<planets date="2013-03-30" name="data" planets="891">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4810,20 +4810,20 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>HAT-P-27 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.66</mass>
-			<radius>1.055</radius>
+			<mass>0.62</mass>
+			<radius>1.02</radius>
 			<orbit>
-				<period>3.0395721</period>
-				<semimajoraxis>0.0403</semimajoraxis>
-				<eccentricity>0.078</eccentricity>
-				<inclination>84.98</inclination>
+				<period>3.039577</period>
+				<semimajoraxis>0.0400</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.0</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G8</spectraltype>
-			<mass>0.945</mass>
-			<radius>0.898</radius>
-			<metallicity>0.29</metallicity>
+			<mass>0.92</mass>
+			<radius>0.87</radius>
+			<metallicity>0.14</metallicity>
 			<distance>204</distance>
 			<temperature>1102.7</temperature>
 			<rightascension>14 51 04</rightascension>
@@ -4832,7 +4832,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/11/24</lastupdate>
+		<lastupdate>13/03/30</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -22308,23 +22308,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>KOI-94 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.167496</radius>
+			<mass>0.0330298</mass>
+			<radius>0.1558328</radius>
 			<orbit>
-				<period>3.7432</period>
+				<period>3.743208</period>
+				<semimajoraxis>0.05119</semimajoraxis>
+				<eccentricity>0.25</eccentricity>
+				<inclination>89.30</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.25</mass>
-			<radius>1.61</radius>
-			<metallicity>-0.01</metallicity>
+			<mass>1.277</mass>
+			<radius>1.52</radius>
+			<metallicity>0.0228</metallicity>
 			<distance>426.2</distance>
-			<temperature>6116</temperature>
+			<temperature>6182</temperature>
 			<rightascension>19 49 20</rightascension>
 			<declination>+41 53 28</declination>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/12</lastupdate>
+		<lastupdate>13/03/15</lastupdate>
 		<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
@@ -22336,23 +22340,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>KOI-94 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.407761</radius>
+			<mass>0.04907293</mass>
+			<radius>0.39368287</radius>
 			<orbit>
-				<period>10.423707</period>
+				<period>10.423648</period>
+				<semimajoraxis>0.1013</semimajoraxis>
+				<eccentricity>0.43</eccentricity>
+				<inclination>88.36</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.25</mass>
-			<radius>1.61</radius>
-			<metallicity>-0.01</metallicity>
+			<mass>1.277</mass>
+			<radius>1.52</radius>
+			<metallicity>0.0228</metallicity>
 			<distance>426.2</distance>
-			<temperature>6116</temperature>
+			<temperature>6182</temperature>
 			<rightascension>19 49 20</rightascension>
 			<declination>+41 53 28</declination>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/12</lastupdate>
+		<lastupdate>13/03/15</lastupdate>
 		<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
@@ -22364,23 +22372,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>KOI-94 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>1.098905</radius>
+			<mass>0.33344427</mass>
+			<radius>1.0270384</radius>
 			<orbit>
-				<period>22.343</period>
+				<period>22.3429890</period>
+				<semimajoraxis>0.1684</semimajoraxis>
+				<eccentricity>0.022</eccentricity>
+				<inclination>89.871</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.25</mass>
-			<radius>1.61</radius>
-			<metallicity>-0.01</metallicity>
+			<mass>1.277</mass>
+			<radius>1.52</radius>
+			<metallicity>0.0228</metallicity>
 			<distance>426.2</distance>
-			<temperature>6116</temperature>
+			<temperature>6182</temperature>
 			<rightascension>19 49 20</rightascension>
 			<declination>+41 53 28</declination>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/12</lastupdate>
+		<lastupdate>13/03/15</lastupdate>
 		<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
@@ -22392,23 +22404,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>KOI-94 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.6504316</radius>
+			<mass>0.11009952</mass>
+			<radius>0.59781473</radius>
 			<orbit>
-				<period>54.31993</period>
+				<period>54.32031</period>
+				<semimajoraxis>0.3046</semimajoraxis>
+				<eccentricity>0.019</eccentricity>
+				<inclination>89.76</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.25</mass>
-			<radius>1.61</radius>
-			<metallicity>-0.01</metallicity>
+			<mass>1.277</mass>
+			<radius>1.52</radius>
+			<metallicity>0.0228</metallicity>
 			<distance>426.2</distance>
-			<temperature>6116</temperature>
+			<temperature>6182</temperature>
 			<rightascension>19 49 20</rightascension>
 			<declination>+41 53 28</declination>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/12</lastupdate>
+		<lastupdate>13/03/15</lastupdate>
 		<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
@@ -25851,19 +25867,19 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-32 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>3.6</mass>
-			<radius>1.18</radius>
+			<mass>3.46</mass>
+			<radius>1.10</radius>
 			<orbit>
-				<period>2.71865</period>
-				<semimajoraxis>0.0394</semimajoraxis>
-				<eccentricity>0.018</eccentricity>
-				<inclination>85.3</inclination>
+				<period>2.718661</period>
+				<semimajoraxis>0.0390</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.1</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>1.1</mass>
-			<radius>1.11</radius>
+			<mass>1.07</mass>
+			<radius>1.09</radius>
 			<metallicity>-0.13</metallicity>
 			<temperature>1427.6</temperature>
 			<rightascension>00 15 51</rightascension>
@@ -25872,7 +25888,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/10/11</lastupdate>
+		<lastupdate>13/03/30</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -26051,19 +26067,20 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-38 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.712</mass>
-			<radius>1.079</radius>
+			<mass>2.71</mass>
+			<radius>1.09</radius>
 			<orbit>
-				<period>6.871815</period>
-				<semimajoraxis>0.07551</semimajoraxis>
-				<eccentricity>0.0321</eccentricity>
-				<inclination>88.69</inclination>
+				<period>6.87188</period>
+				<semimajoraxis>0.0758</semimajoraxis>
+				<eccentricity>0.028</eccentricity>
+				<inclination>89.5</inclination>
+				<periastron>-22.2</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F8</spectraltype>
-			<mass>1.216</mass>
-			<radius>1.365</radius>
+			<mass>1.23</mass>
+			<radius>1.35</radius>
 			<metallicity>-0.12</metallicity>
 			<distance>110</distance>
 			<temperature>1152.9</temperature>
@@ -26073,7 +26090,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/04/08</lastupdate>
+		<lastupdate>13/03/30</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
