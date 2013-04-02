@@ -2,16 +2,17 @@
 	<id_exoplaneteu>Qatar-1 b</id_exoplaneteu>
 	<name>Qatar-1 b</name>
 	<name>2MASS J20133160+6509433 b</name>
+	<name>GSC 04240-00470 b</name>
 	<id>Qatar-1 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>1.09</mass>
+		<mass>1.33</mass>
 		<radius>1.164</radius>
 		<orbit>
-			<period>1.420033</period>
+			<period>1.42002504</period>
 			<semimajoraxis>0.02343</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>83.47</inclination>
+			<inclination>83.82</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -20,10 +21,10 @@
 	<star>
 		<spectraltype>K</spectraltype>
 		<mass>0.85</mass>
-		<radius>0.823</radius>
+		<radius>0.80</radius>
 		<metallicity>0.2</metallicity>
 		<distance />
-		<temperature>1270.3</temperature>
+		<temperature>4910</temperature>
 		<rightascension>20 13 32</rightascension>
 		<declination>+65 09 43</declination>
 		<angulardistance />
@@ -35,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/12/24</lastupdate>
-	<description />
+	<lastupdate>13/04/02</lastupdate>
+	<description>Quatar-1 b orbits a metal-rich K-dwarf, one of the faintest around which a planet has been discovered ground based surveys. Measurements of the Rossiter-McLaughlin effect show that the sky-projected obliquity between the orbital plane of the planet and the star's rotation axis is only a few degrees.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
