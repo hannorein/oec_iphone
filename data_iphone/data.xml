@@ -1,4 +1,4 @@
-<planets date="2013-04-02" name="data" planets="891">
+<planets date="2013-04-06" name="data" planets="891">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -22647,6 +22647,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2007-BLG-192-L b</id_exoplaneteu>
 		<name>MOA-2007-BLG-192-L b</name>
+		<name>MOA-192 b</name>
 		<id>MOA-2007-BLG-192-L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -22665,8 +22666,13 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>10/09/29</lastupdate>
+		<lastupdate>13/04/06</lastupdate>
+		<description>The exoplanet MOA-2007-BLG-192-L b is orbiting a low mass brown dwarf, roughly 6% the mass of our Sun. This makes the primary too small to sustain fusion.</description>
 		<new>0</new>
+		<image>MOA192</image>
+		<imagedescription>Artist's impression of the extrasolar planet MOA-2007-BLG-192-L b. 
+			
+Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
