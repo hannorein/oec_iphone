@@ -1,4 +1,4 @@
-<planets date="2013-04-06" name="data" planets="891">
+<planets date="2013-04-08" name="data" planets="892">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -5645,6 +5645,39 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<lastupdate>12/06/08</lastupdate>
 		<description>HATS-1 b is the first planet discovery of HATSouth, a global network of autonomous wide-field telescopes.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-2 b</id_exoplaneteu>
+		<name>HATS-2 b</name>
+		<name>GSC 665-00236 b</name>
+		<id>HATS-2 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.345</mass>
+			<radius>1.168</radius>
+			<orbit>
+				<period>1.354133</period>
+				<semimajoraxis>0.0230</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.88</mass>
+			<radius>0.89</radius>
+			<metallicity>0.15</metallicity>
+			<distance>360</distance>
+			<temperature>5227</temperature>
+			<rightascension>11 46 57</rightascension>
+			<declination>-22 21 46</declination>
+			<magV>13.6</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/08</lastupdate>
+		<description>HATS-2 b is the second planet discovered by HATSouth, a global network of autonomous wide-field telescopes. The transit light curves contain several anomalies, probably caused by starspots on the photosphere of the host star.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23511,7 +23544,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/03/07</lastupdate>
 		<description>The planet OGLE-2011-BLG-0251 b was discovered using gravitational microlensing. The host star is an M dwarf. It is located towards the Galactic Bulge. The planet lies beyond the snow-line, an important clue for planet formation models.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>OGLE-2011-BLG-0251</image>
 		<imagedescription>This plot shows the light curve of the OGLE-2011-BLG-0251 microlensing event. The main magnification is due to the host star, only the tiny perturbation near the peak is the signal caused by the planet.
 			
