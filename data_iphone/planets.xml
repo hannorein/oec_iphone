@@ -7763,7 +7763,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/08</lastupdate>
 		<description>HATS-2 b is the second planet discovered by HATSouth, a global network of autonomous wide-field telescopes. The transit light curves contain several anomalies, probably caused by starspots on the photosphere of the host star. The planet is on a 1.3 day orbit and only about 5 stellar radii away from the star.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -10184,6 +10184,50 @@ Credit: ESO/L. Calcada</imagedescription>
 		<lastupdate>10/12/29</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 120084 b</id_exoplaneteu>
+		<name>HD 120084 b</name>
+		<name>HR 5184 b</name>
+		<id>HD 120084 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>4.5</mass>
+			<radius />
+			<orbit>
+				<period>2082</period>
+				<semimajoraxis>4.3</semimajoraxis>
+				<eccentricity>0.66</eccentricity>
+				<inclination />
+				<periastron>117</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G7III</spectraltype>
+			<mass>2.4</mass>
+			<radius>9.12</radius>
+			<metallicity>0.09</metallicity>
+			<distance>98</distance>
+			<temperature>4892</temperature>
+			<rightascension>13 42 39</rightascension>
+			<declination>+78 03 51</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/17</lastupdate>
+		<description>The planet HD 120084 b is on an eccentric orbit around a G7 star. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -18914,6 +18958,50 @@ Credit: ESO/L. Calcada</imagedescription>
 		<lastupdate>10/09/08</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 2952 b</id_exoplaneteu>
+		<name>HD 2952 b</name>
+		<name>HR 135 b</name>
+		<id>HD 2952 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.6</mass>
+			<radius />
+			<orbit>
+				<period>311.6</period>
+				<semimajoraxis>1.2</semimajoraxis>
+				<eccentricity>0.129</eccentricity>
+				<inclination />
+				<periastron>64</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0III</spectraltype>
+			<mass>2.5</mass>
+			<radius>12.02</radius>
+			<metallicity>0.00</metallicity>
+			<distance>115</distance>
+			<temperature>4844</temperature>
+			<rightascension>00 33 10</rightascension>
+			<declination>+54 53 41</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/17</lastupdate>
+		<description>The planer HD 2952 b is orbiting an evolved intermediate-mass star. The radial velocity measurements were taken at the Okaya Astrophysical Observatory.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -30954,6 +31042,92 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-142 b</id_exoplaneteu>
+		<name>KOI-142 b</name>
+		<id>KOI-142 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.0553643</mass>
+			<radius>0.3854811</radius>
+			<orbit>
+				<period>10.9542</period>
+				<semimajoraxis />
+				<eccentricity>0.05611</eccentricity>
+				<inclination>0.962</inclination>
+				<periastron>90.7</periastron>
+				<longitude>6.425</longitude>
+				<ascendingnode>270</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.022</mass>
+			<radius>0.961</radius>
+			<metallicity>0.37</metallicity>
+			<distance>385</distance>
+			<temperature>5513</temperature>
+			<rightascension>19 24 35</rightascension>
+			<declination>+40 40 09</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/17</lastupdate>
+		<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems. Note that the mass of the inner planet KOI-142 b is an upper limit.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-142 c</id_exoplaneteu>
+		<name>KOI-142 c</name>
+		<id>KOI-142 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.67915677</mass>
+			<radius />
+			<orbit>
+				<period>22.3383</period>
+				<semimajoraxis />
+				<eccentricity>0.05628</eccentricity>
+				<inclination>3.7</inclination>
+				<periastron>271.1</periastron>
+				<longitude>253.0</longitude>
+				<ascendingnode>259</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.022</mass>
+			<radius>0.961</radius>
+			<metallicity>0.37</metallicity>
+			<distance>385</distance>
+			<temperature>5513</temperature>
+			<rightascension>19 24 35</rightascension>
+			<declination>+40 40 09</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/17</lastupdate>
+		<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-200 b</id_exoplaneteu>
 		<name>KOI-200 b</name>
 		<id>KOI-200 b</id>
@@ -34006,6 +34180,54 @@ Credit: Kains et al (2013).</imagedescription>
 		<lastupdate>06/06/10</lastupdate>
 		<description />
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Omicron Serpentis b</id_exoplaneteu>
+		<name>Omicron Serpentis b</name>
+		<name>o Ser b</name>
+		<name>o Serpentis b</name>
+		<name>HR 6581 b</name>
+		<name>HD 160613 b</name>
+		<name>HIP 86565 b</name>
+		<id>Omicron Serpentis b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.7</mass>
+			<radius />
+			<orbit>
+				<period>277.02</period>
+				<semimajoraxis>1.1</semimajoraxis>
+				<eccentricity>0.106</eccentricity>
+				<inclination />
+				<periastron>132</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8III</spectraltype>
+			<mass>2.17</mass>
+			<radius>12.30</radius>
+			<metallicity>-0.24</metallicity>
+			<distance>52</distance>
+			<temperature>4770</temperature>
+			<rightascension>17 41 25</rightascension>
+			<declination>-12 52 31</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/17</lastupdate>
+		<description>The exoplanet Omicron Serpentis b is orbiting a star in the northern constellation Serpens. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
