@@ -1,4 +1,4 @@
-<planets date="2013-04-18" name="data" planets="902">
+<planets date="2013-04-18" name="data" planets="904">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -21803,6 +21803,70 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<lastupdate>13/02/13</lastupdate>
 		<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefor a lower limit.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-69 b</id_exoplaneteu>
+		<name>Kepler-69 b</name>
+		<name>KOI-172 b</name>
+		<id>Kepler-69 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.2041318</radius>
+			<orbit>
+				<period>13.722341</period>
+				<semimajoraxis>0.094</semimajoraxis>
+				<eccentricity>0.16</eccentricity>
+				<inclination>89.62</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.81</mass>
+			<radius>0.93</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>591.74</distance>
+			<temperature>5638</temperature>
+			<rightascension>19 33 02</rightascension>
+			<declination>+44 52 08</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-69 c</id_exoplaneteu>
+		<name>Kepler-69 c</name>
+		<name>KOI-172 c</name>
+		<id>Kepler-69 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.1558328</radius>
+			<orbit>
+				<period>242.4613</period>
+				<semimajoraxis>0.64</semimajoraxis>
+				<eccentricity>0.14</eccentricity>
+				<inclination>89.85</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.81</mass>
+			<radius>0.93</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>591.74</distance>
+			<temperature>5638</temperature>
+			<rightascension>19 33 02</rightascension>
+			<declination>+44 52 08</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
+		<image>Kepler69c</image>
+		<imagedescription>Artist's concept of planet Kepler-69c, a super-Earth-size planet (70% larger than Earth). It is the smallest yet found orbiting in the habitable zone of a sun-like star. Its orbit of 242 days resembles that of our neighboring planet Venus. 
+			
+Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
