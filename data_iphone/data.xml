@@ -1,4 +1,4 @@
-<planets date="2013-04-18" name="data" planets="897">
+<planets date="2013-04-18" name="data" planets="902">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -21434,6 +21434,136 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-62 b</id_exoplaneteu>
+		<name>Kepler-62 b</name>
+		<name>KIC-9002278 b</name>
+		<name>KOI-701 b</name>
+		<id>Kepler-62 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.1193806</radius>
+			<orbit>
+				<period>5.714932</period>
+				<semimajoraxis>0.0553</semimajoraxis>
+				<inclination>89.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.69</mass>
+			<radius>0.63</radius>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-62 c</id_exoplaneteu>
+		<name>Kepler-62 c</name>
+		<name>KIC-9002278 c</name>
+		<name>KOI-701 c</name>
+		<id>Kepler-62 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.049210359</radius>
+			<orbit>
+				<period>12.4417</period>
+				<semimajoraxis>0.0929</semimajoraxis>
+				<inclination>89.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.69</mass>
+			<radius>0.63</radius>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-62 d</id_exoplaneteu>
+		<name>Kepler-62 d</name>
+		<name>KIC-9002278 d</name>
+		<name>KOI-701 d</name>
+		<id>Kepler-62 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.1777040</radius>
+			<orbit>
+				<period>18.16406</period>
+				<semimajoraxis>0.120</semimajoraxis>
+				<inclination>89.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.69</mass>
+			<radius>0.63</radius>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-62 e</id_exoplaneteu>
+		<name>Kepler-62 e</name>
+		<name>KIC-9002278 e</name>
+		<name>KOI-701 e</name>
+		<id>Kepler-62 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.14671977</radius>
+			<orbit>
+				<period>122.3874</period>
+				<semimajoraxis>0.427</semimajoraxis>
+				<inclination>89.98</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.69</mass>
+			<radius>0.63</radius>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-62 f</id_exoplaneteu>
+		<name>Kepler-62 f</name>
+		<name>KIC-9002278 f</name>
+		<name>KOI-701 f</name>
+		<id>Kepler-62 f</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.12849371</radius>
+			<orbit>
+				<period>267.291</period>
+				<semimajoraxis>0.718</semimajoraxis>
+				<inclination>89.90</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.69</mass>
+			<radius>0.63</radius>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/18</lastupdate>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
