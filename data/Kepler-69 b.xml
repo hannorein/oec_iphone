@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>Kepler-69 b</id_exoplaneteu>
+	<name>Kepler-69 b</name>
+	<name>KOI-172 b</name>
+	<id>Kepler-69 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.2041318</radius>
+		<orbit>
+			<period>13.722341</period>
+			<semimajoraxis>0.094</semimajoraxis>
+			<eccentricity>0.16</eccentricity>
+			<inclination>89.62</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.81</mass>
+		<radius>0.93</radius>
+		<metallicity>-0.29</metallicity>
+		<distance>591.74</distance>
+		<temperature>5638</temperature>
+		<rightascension>19 33 02</rightascension>
+		<declination>+44 52 08</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/04/18</lastupdate>
+	<description />
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
