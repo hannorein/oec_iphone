@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-62 e</id_exoplaneteu>
+	<name>Kepler-62 e</name>
+	<name>KIC-9002278 e</name>
+	<name>KOI-701 e</name>
+	<id>Kepler-62 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.14671977</radius>
+		<orbit>
+			<period>122.3874</period>
+			<semimajoraxis>0.427</semimajoraxis>
+			<eccentricity />
+			<inclination>89.98</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2V</spectraltype>
+		<mass>0.69</mass>
+		<radius>0.63</radius>
+		<metallicity />
+		<distance />
+		<temperature />
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/04/18</lastupdate>
+	<description />
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
