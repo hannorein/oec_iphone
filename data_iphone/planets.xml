@@ -30405,7 +30405,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -30450,7 +30450,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -30495,7 +30495,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -30540,7 +30540,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Kepler-62 e is one of them.  Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>Kepler62e</image>
 		<imagedescription>Artist's impression of Kepler-62 e. 
 
@@ -30587,7 +30587,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Kepler-62 f is one of them. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>Kepler62f</image>
 		<imagedescription>Artist's impression of Kepler-62 f. 
 
@@ -30906,7 +30906,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>Kepler-69 is a two planet system which was discovered by Kepler. Kepler-69 b is a planet in a 14 day orbit and too hot to sustain liquid water on the surface. However, the outer planet, Kepler-69 c, might be in the habitable zone.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -30950,7 +30950,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/18</lastupdate>
 		<description>Kepler-69 is a two planet system discovered by Kepler. Kepler-69 c, the outer planet, is orbiting the star every 242 days and might be in the habitable zone. It is 70 percent larger than Earth. Not much is known about its composition.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>Kepler69c</image>
 		<imagedescription>Artist's concept of planet Kepler-69c, a super-Earth-size planet (70% larger than Earth). It is the smallest yet found orbiting in the habitable zone of a sun-like star. Its orbit of 242 days resembles that of our neighboring planet Venus. 
 			
@@ -31452,28 +31452,30 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-200 b</id_exoplaneteu>
 		<name>KOI-200 b</name>
+		<name>KIC-6046540 b</name>
+		<name>2MASS 19322220+4121198 b</name>
 		<id>KOI-200 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.44</mass>
-			<radius>0.79</radius>
+			<mass>0.68</mass>
+			<radius>1.32</radius>
 			<orbit>
-				<period>7.34</period>
-				<semimajoraxis>0.075</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
+				<period>7.340718</period>
+				<semimajoraxis>0.084</semimajoraxis>
+				<eccentricity>0.287</eccentricity>
+				<inclination>85.55</inclination>
+				<periastron>64</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>0.44</mass>
-			<radius>0.76</radius>
-			<metallicity>0.15</metallicity>
-			<distance />
-			<temperature>810.4</temperature>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.40</mass>
+			<radius>1.51</radius>
+			<metallicity>0.34</metallicity>
+			<distance>1330</distance>
+			<temperature>6050</temperature>
 			<rightascension>19 32 22</rightascension>
 			<declination>+41 21 20</declination>
 			<angulardistance />
@@ -31485,8 +31487,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/06/05</lastupdate>
-		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
+		<lastupdate>13/04/22</lastupdate>
+		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on an eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -32142,6 +32144,51 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<lastupdate>12/05/12</lastupdate>
 		<description>The planetary system orbiting the star KOI-872 consists of at least 2 planets. The outer planet is not transiting itself but has been detected by transit timing variations of the inner planet. The planets are close to a 5:3 mean motion resonance.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-889 b</id_exoplaneteu>
+		<name>KOI-889 b</name>
+		<name>KIC-757450 b</name>
+		<name>2MASS 19243302+3634385 b</name>
+		<id>KOI-889 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>9.9</mass>
+			<radius>1.03</radius>
+			<orbit>
+				<period>8.884924</period>
+				<semimajoraxis>0.080</semimajoraxis>
+				<eccentricity>0.569</eccentricity>
+				<inclination>89.1</inclination>
+				<periastron>63.6</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.88</radius>
+			<metallicity>-0.07</metallicity>
+			<distance>1140</distance>
+			<temperature>5330</temperature>
+			<rightascension>19 24 33</rightascension>
+			<declination>+36 34 39</declination>
+			<angulardistance />
+			<magV>15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/22</lastupdate>
+		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
