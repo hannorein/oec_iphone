@@ -1,4 +1,4 @@
-<systems name="systems" planets="905">
+<systems name="systems" planets="909">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1017,6 +1017,10 @@
 	</system>
 	<system>
 		<name>Alpha Centauri</name>
+		<name>Rigil Kentaurus</name>
+		<name>Rigil Kent</name>
+		<name>Toliman</name>
+		<name>Bungula</name>
 		<rightascension>14 39 35</rightascension>
 		<declination>-60 50 14</declination>
 		<distance>1.339</distance>
@@ -1027,6 +1031,10 @@
 			<period>79.01</period>
 			<star>
 				<name>Alpha Centauri A</name>
+				<name>GJ 559 A</name>
+				<name>HR 5459</name>
+				<name>HD 128620</name>
+				<name>HIP 71683</name>
 				<spectraltype>G2 V</spectraltype>
 				<mass>1.105</mass>
 				<radius>1.227</radius>
@@ -1034,12 +1042,21 @@
 			</star>
 			<star>
 				<name>Alpha Centauri B</name>
+				<name>GJ 559 B</name>
+				<name>HR 5460</name>
+				<name>HD 128621</name>
+				<name>HIP 71681</name>
 				<spectraltype>K1 V</spectraltype>
 				<mass>0.934</mass>
 				<radius>0.865</radius>
 				<temperature>5260</temperature>
 				<planet>
 					<name>Alpha Centauri B b</name>
+					<name>GJ 559 B b</name>
+					<name>HR 5460 b</name>
+					<name>HD 128621 b</name>
+					<name>HIP 71681 b</name>
+					<name>Albertus Alauda</name>
 					<mass>0.0035546417</mass>
 					<period>3.235</period>
 					<semimajoraxis>0.04</semimajoraxis>
@@ -1047,7 +1064,7 @@
 					<discoverymethod>RV</discoverymethod>
 					<list>Confirmed planets</list>
 					<discoveryyear>2012</discoveryyear>
-					<lastupdate>12/10/16</lastupdate>
+					<lastupdate>13/04/24</lastupdate>
 					<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). European astronomers have discovered a planet with about the mass of the Earth orbiting Alpha Centauri B. It is the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The planet was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.</description>
 					<image>AlphaCentauriB</image>
 					<imagedescription>This artist's impression shows the planet orbiting the star Alpha Centauri B, a member of the triple star system that is the closest to Earth. Alpha Centauri B is the most brilliant object in the sky and the other dazzling object is Alpha Centauri A. Our own Sun is visible to the upper right. The tiny signal of the planet was found with the HARPS spectrograph on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.
@@ -1084,6 +1101,39 @@
 			</planet>
 			<name>BD +48 738</name>
 			<temperature>4414.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>BD+15 2940</name>
+		<name>HIC 78407</name>
+		<rightascension>16 00 23</rightascension>
+		<declination>+15 32 49</declination>
+		<distance>585</distance>
+		<star>
+			<name>BD+15 2940</name>
+			<name>HIC 78407</name>
+			<mass errorminus="0.2" errorplus="0.2">1.1</mass>
+			<radius errorminus="2.8" errorplus="2.8">14.7</radius>
+			<temperature errorminus="117" errorplus="117">4796</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.28</metallicity>
+			<age errorminus="4.2" errorplus="4.2">7.1</age>
+			<spectraltype>K0</spectraltype>
+			<planet>
+				<name>BD+15 2940 b</name>
+				<name>HIC 78407 b</name>
+				<list>Confirmed planets</list>
+				<mass>1.11</mass>
+				<period errorminus="0.34" errorplus="0.34">137.48</period>
+				<transittime errorminus="16" errorplus="16" unit="MJD">53464</transittime>
+				<semimajoraxis>0.539</semimajoraxis>
+				<eccentricity errorminus="0.10" errorplus="0.10">0.26</eccentricity>
+				<periastron errorminus="33" errorplus="33">302</periastron>
+				<description>The planet BD+15 2940 b was discovered by the Penn State - Torun Planet Search (PTPS) using ground based spectrometer. It is the closest-in planet around a giant star. It might soon be swallowed by the star as a consequence of stellar evolution.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/04/26</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -1451,10 +1501,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>-03 06 08</declination>
 		<distance>460</distance>
 		<star>
-			<mass>0.95</mass>
-			<radius>1.11</radius>
+			<mass errorminus="0.15" errorplus="0.15">0.95</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.11</radius>
 			<magV>13.6</magV>
-			<metallicity>-0.3</metallicity>
+			<metallicity errorminus="0.25" errorplus="0.25">-0.3</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<planet>
 				<name>CoRoT-1 b</name>
@@ -1462,21 +1512,22 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>2MASS J06481917-0306077 b</name>
 				<name>CoRoTID 102890318 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.03</mass>
-				<radius>1.49</radius>
-				<period>1.5089557</period>
+				<mass errorminus="0.12" errorplus="0.12">1.03</mass>
+				<radius errorminus="0.08" errorplus="0.08">1.49</radius>
+				<period errorminus="0.0000064" errorplus="0.0000064">1.5089557</period>
 				<semimajoraxis>0.0254</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>85.1</inclination>
+				<inclination errorminus="0.5" errorplus="0.5">85.1</inclination>
 				<description>The star CoRoT-1 is a sun-like star in the constellation of Monoceros. The planet CoRoT-1b is the first planet discovered by the European space mission CoRoT (COnvection, ROtation and planetary Tansits).</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/04/05</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
-				<temperature>1835.8</temperature>
+				<temperature errorminus="50" errorplus="50">1898</temperature>
+				<transittime errorminus="0.0001" errorplus="0.0001" unit="JD">2454159.4532</transittime>
 			</planet>
 			<name>CoRoT-1</name>
-			<temperature>6298.0</temperature>
+			<temperature errorminus="150" errorplus="150">6298.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -1766,8 +1817,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>+01 23 02</declination>
 		<distance>300</distance>
 		<star>
-			<mass>0.97</mass>
-			<radius>0.902</radius>
+			<mass errorminus="0.06" errorplus="0.06">0.97</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.902</radius>
 			<magV>12.57</magV>
 			<spectraltype>G7V</spectraltype>
 			<planet>
@@ -1776,17 +1827,18 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>2MASS J19270649+0123013 b</name>
 				<name>CoRoTID 101206560 b</name>
 				<list>Confirmed planets</list>
-				<mass>3.31</mass>
-				<radius>1.465</radius>
-				<period>1.7429964</period>
+				<mass errorminus="0.16" errorplus="0.16">3.31</mass>
+				<radius errorminus="0.029" errorplus="0.029">1.465</radius>
+				<period errorminus="0.0000017" errorplus="0.0000017">1.7429964</period>
 				<semimajoraxis>0.0281</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>87.84</inclination>
+				<inclination errorminus="0.10" errorplus="0.10">87.84</inclination>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/04/05</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1392.7</temperature>
+				<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2454237.53562</transittime>
 			</planet>
 			<name>CoRoT-2</name>
 			<temperature>5575.0</temperature>
@@ -1884,10 +1936,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>+00 07 19</declination>
 		<distance>680</distance>
 		<star>
-			<mass>1.37</mass>
-			<radius>1.56</radius>
+			<mass errorminus="0.09" errorplus="0.09">1.37</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.56</radius>
 			<magV>13.3</magV>
-			<metallicity>-0.02</metallicity>
+			<metallicity errorminus="0.06" errorplus="0.06">-0.02</metallicity>
 			<spectraltype>F3V</spectraltype>
 			<planet>
 				<name>CoRoT-3 b</name>
@@ -1895,20 +1947,21 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>2MASS J19281326+0007185 b</name>
 				<name>CoRoTID 101368192 b</name>
 				<list>Confirmed planets</list>
-				<mass>21.66</mass>
-				<radius>1.01</radius>
-				<period>4.2568</period>
+				<mass errorminus="1.0" errorplus="1.0">21.66</mass>
+				<radius errorminus="0.07" errorplus="0.07">1.01</radius>
+				<period errorminus="0.000005" errorplus="0.000005">4.25680</period>
 				<semimajoraxis>0.057</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>85.9</inclination>
+				<inclination errorminus="0.8" errorplus="0.8">85.9</inclination>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/04/05</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<new>0</new>
 				<temperature>1554.7</temperature>
+				<transittime errorminus="0.0003" errorplus="0.0003">2454283.1383</transittime>
 			</planet>
 			<name>CoRoT-3</name>
-			<temperature>6740.0</temperature>
+			<temperature errorminus="140" errorplus="140">6740</temperature>
 		</star>
 	</system>
 	<system>
@@ -1949,28 +2002,29 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>+00 48 55</declination>
 		<distance>400</distance>
 		<star>
-			<mass>1</mass>
-			<radius>1.186</radius>
+			<mass errorminus="0.02" errorplus="0.02">1.00</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.186</radius>
 			<magV>14</magV>
-			<metallicity>-0.25</metallicity>
+			<metallicity errorminus="0.06" errorplus="0.06">-0.25</metallicity>
 			<spectraltype>F9V</spectraltype>
 			<planet>
 				<name>CoRoT-5 b</name>
 				<name>CoRoT-Exo-5 b</name>
 				<name>CoRoTID 102764809 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.467</mass>
-				<radius>1.388</radius>
-				<period>4.0378962</period>
-				<semimajoraxis>0.04947</semimajoraxis>
-				<eccentricity>0.09</eccentricity>
-				<inclination>85.83</inclination>
+				<mass errorminus="0.024" errorplus="0.047">0.467</mass>
+				<radius errorminus="0.047" errorplus="0.046">1.388</radius>
+				<period errorminus="0.0000019" errorplus="0.0000019">4.0378962</period>
+				<semimajoraxis errorminus="0.00029" errorplus="0.00026">0.04947</semimajoraxis>
+				<eccentricity errorminus="0.04" errorplus="0.09">0.09</eccentricity>
+				<inclination errorminus="1.38" errorplus="0.99">85.83</inclination>
 				<description>CoRoT 6 is an F-type star in the constellation Monoceros.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>09/07/18</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<new>0</new>
 				<temperature>1316.3</temperature>
+				<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2454400.19885</transittime>
 			</planet>
 			<name>CoRoT-5</name>
 			<temperature>6100.0</temperature>
@@ -1981,8 +2035,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<rightascension>18 44 18</rightascension>
 		<declination>+06 39 48</declination>
 		<star>
-			<mass>1.055</mass>
-			<radius>1.025</radius>
+			<mass errorminus="0.05" errorplus="0.05">1.05</mass>
+			<radius errorminus="0.026" errorplus="0.026">1.025</radius>
 			<magV>13.9</magV>
 			<metallicity>-0.2</metallicity>
 			<spectraltype>F9V</spectraltype>
@@ -1991,17 +2045,17 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>CoRoT-Exo-6 b</name>
 				<name>CoRoTID 106017681 b</name>
 				<list>Confirmed planets</list>
-				<mass>2.96</mass>
-				<radius>1.166</radius>
-				<period>8.886593</period>
-				<semimajoraxis>0.0855</semimajoraxis>
-				<eccentricity>0.1</eccentricity>
-				<inclination>89.07</inclination>
+				<mass errorminus="0.34" errorplus="0.34">2.96</mass>
+				<radius errorminus="0.035" errorplus="0.035">1.166</radius>
+				<period errorminus="0.000004" errorplus="0.000004">8.886593</period>
+				<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0855</semimajoraxis>
+				<inclination errorminus="0.30" errorplus="0.30">89.07</inclination>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/01/11</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>929.2</temperature>
+				<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454595.6144</transittime>
 			</planet>
 			<name>CoRoT-6</name>
 			<temperature>6090.0</temperature>
@@ -2011,13 +2065,13 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>CoRoT-7</name>
 		<rightascension>06 43 49</rightascension>
 		<declination>-01 03 46</declination>
-		<distance>150</distance>
+		<distance errorminus="20" errorplus="20">150</distance>
 		<star>
 			<mass>0.93</mass>
 			<radius>0.87</radius>
-			<magV>11.7</magV>
+			<magV>11.67</magV>
 			<metallicity>0.03</metallicity>
-			<spectraltype>K0V</spectraltype>
+			<spectraltype>G9V</spectraltype>
 			<planet>
 				<name>CoRoT-7 b</name>
 				<name>CoRoT-Exo-7 b</name>
@@ -2025,7 +2079,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<list>Confirmed planets</list>
 				<mass>0.0151</mass>
 				<radius>0.15</radius>
-				<period>0.853585</period>
+				<period errorminus="0.000024" errorplus="0.000024">0.853585</period>
 				<semimajoraxis>0.0172</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>80.1</inclination>
@@ -2035,6 +2089,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>1666.1</temperature>
+				<transittime errorminus="0.003" errorplus="0.003" unit="JD">2454446.731</transittime>
 			</planet>
 			<planet>
 				<name>CoRoT-7 c</name>
@@ -2042,7 +2097,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>CoRoTID 102708694 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.0264</mass>
-				<period>3.698</period>
+				<period errorminus="0.003" errorplus="0.003">3.698</period>
 				<semimajoraxis>0.046</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<description>The star CoRoT 7c is a G-type star in the constellation Monoceros. The planet is not transiting.</description>
@@ -2051,6 +2106,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>1018.8</temperature>
+				<transittime errorminus="0.7" errorplus="0.7" unit="JD">2454445.0</transittime>
 			</planet>
 			<name>CoRoT-7</name>
 			<temperature>5313.0</temperature>
@@ -2457,6 +2513,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	
 Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).</imagedescription>
 				<temperature>519.6</temperature>
+				<transittime errorminus="0.0000901" errorplus="0.0000901" unit="HJD">2454983.9087558</transittime>
 			</planet>
 			<name>Gliese 1214</name>
 			<temperature>3026.0</temperature>
@@ -3545,6 +3602,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>790.9</temperature>
+				<transittime errorminus="0.00032" errorplus="0.00032" unit="BJD">2454605.89132</transittime>
 			</planet>
 			<name>HAT-P-11</name>
 			<temperature>4780.0</temperature>
@@ -3608,6 +3666,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>1504.3</temperature>
+				<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2454779.92979</transittime>
 			</planet>
 			<planet>
 				<name>HAT-P-13 c</name>
@@ -3657,6 +3716,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1445.9</temperature>
+				<transittime errorminus="0.00048" errorplus="0.00048" unit="HJD">2455310.29018</transittime>
 			</planet>
 			<name>HAT-P-14</name>
 			<temperature>6600.0</temperature>
@@ -3688,6 +3748,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>819.9</temperature>
+				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">54638.56019</transittime>
 			</planet>
 			<name>HAT-P-15</name>
 			<temperature>5568.0</temperature>
@@ -3718,6 +3779,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1485.9</temperature>
+				<transittime errorminus="0.00031" errorplus="0.00031" unit="BJD">2455027.59293</transittime>
 			</planet>
 			<name>HAT-P-16</name>
 			<temperature>6158.0</temperature>
@@ -3749,6 +3811,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>707.1</temperature>
+				<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			</planet>
 			<planet>
 				<name>HAT-P-17 c</name>
@@ -3795,6 +3858,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>774.9</temperature>
+				<transittime errorminus="0.2174" errorplus="0.2174" unit="BJD">2454715.02174</transittime>
 			</planet>
 			<name>HAT-P-18</name>
 			<temperature>4803.0</temperature>
@@ -3826,6 +3890,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>922.7</temperature>
+				<transittime errorminus="0.00034" errorplus="0.00034" unit="BJD">455091.53417</transittime>
 			</planet>
 			<name>HAT-P-19</name>
 			<temperature>4990.0</temperature>
@@ -3863,6 +3928,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1343.6</temperature>
+				<transittime errorminus="0.0030" errorplus="0.0053" unit="HJD">2454213.4794</transittime>
 			</planet>
 			<name>HAT-P-2</name>
 			<temperature>6290.0</temperature>
@@ -3894,6 +3960,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>888.3</temperature>
+				<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455080.92661</transittime>
 			</planet>
 			<name>HAT-P-20</name>
 			<temperature>4595.0</temperature>
@@ -3926,6 +3993,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1161.5</temperature>
+				<transittime errorminus="0.00069" errorplus="0.00069" unit="BJD">2454996.41312</transittime>
 			</planet>
 			<name>HAT-P-21</name>
 			<temperature>5588.0</temperature>
@@ -3960,6 +4028,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1171.7</temperature>
+				<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454930.22001</transittime>
 			</planet>
 			<name>HAT-P-22</name>
 			<temperature>5302.0</temperature>
@@ -3992,6 +4061,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1873.6</temperature>
+				<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2454852.26464</transittime>
 			</planet>
 			<name>HAT-P-23</name>
 			<temperature>5905.0</temperature>
@@ -4024,6 +4094,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1495.0</temperature>
+				<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2455216.97669</transittime>
 			</planet>
 			<name>HAT-P-24</name>
 			<temperature>6373.0</temperature>
@@ -4055,6 +4126,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1100.1</temperature>
+				<transittime errorminus="0.00047" errorplus="0.00047" unit="BJD">2455176.85173</transittime>
 			</planet>
 			<name>HAT-P-25</name>
 			<temperature>5500.0</temperature>
@@ -4085,6 +4157,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>907.4</temperature>
+				<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455304.65122</transittime>
 			</planet>
 			<name>HAT-P-26</name>
 			<temperature>5079.0</temperature>
@@ -4119,6 +4192,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1102.7</temperature>
+				<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455186.01879</transittime>
 			</planet>
 			<name>HAT-P-27</name>
 			<temperature>5300.0</temperature>
@@ -4150,6 +4224,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1262.4</temperature>
+				<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455417.59832</transittime>
 			</planet>
 			<name>HAT-P-28</name>
 			<temperature>5680.0</temperature>
@@ -4181,6 +4256,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1149.1</temperature>
+				<transittime errorminus="0.00181" errorplus="0.00181" unit="BJD">2455197.57540</transittime>
 			</planet>
 			<name>HAT-P-29</name>
 			<temperature>6087.0</temperature>
@@ -4214,6 +4290,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1047.2</temperature>
+				<transittime errorminus="0.0001" errorplus="0.0001" unit="HJD">2454856.70118</transittime>
 			</planet>
 			<name>HAT-P-3</name>
 			<temperature>5224.0</temperature>
@@ -4250,6 +4327,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1552.5</temperature>
+				<transittime errorminus="0.00037" errorplus="0.00037" unit="BJD">2455456.46561</transittime>
 			</planet>
 			<name>HAT-P-30</name>
 		</star>
@@ -4280,6 +4358,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1324.7</temperature>
+				<transittime errorminus="-0.000092" errorplus="0.000091" unit="BJD">2454320.8866</transittime>
 			</planet>
 			<name>HAT-P-31</name>
 			<temperature>6065.0</temperature>
@@ -4312,6 +4391,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1677.4</temperature>
+				<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2454420.44637</transittime>
 			</planet>
 			<name>HAT-P-32</name>
 			<temperature>6001.0</temperature>
@@ -4344,6 +4424,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1675.2</temperature>
+				<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2455110.92595</transittime>
 			</planet>
 			<name>HAT-P-33</name>
 			<temperature>6401.0</temperature>
@@ -4375,6 +4456,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1335.3</temperature>
+				<transittime errorminus="0.00055" errorplus="0.00055" unit="BJD">55431.59629</transittime>
 			</planet>
 			<name>HAT-P-34</name>
 			<temperature>6442.0</temperature>
@@ -4406,6 +4488,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1442.8</temperature>
+				<transittime errorminus="0.00050" errorplus="0.00050" unit="BJD">2455578.66081</transittime>
 			</planet>
 			<name>HAT-P-35</name>
 			<temperature>6096.0</temperature>
@@ -4437,6 +4520,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1669.2</temperature>
+				<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">455565.18144</transittime>
 			</planet>
 			<name>HAT-P-36</name>
 			<temperature>5580.0</temperature>
@@ -4468,6 +4552,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1166.3</temperature>
+				<transittime errorminus="0.00029" errorplus="0.00029" unit="BJD">2455642.14318</transittime>
 			</planet>
 			<name>HAT-P-37</name>
 			<temperature>5500.0</temperature>
@@ -4496,6 +4581,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>987.0</temperature>
+				<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455863.11957</transittime>
 			</planet>
 			<name>HAT-P-38</name>
 			<temperature>5330.0</temperature>
@@ -4527,6 +4613,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1601.9</temperature>
+				<transittime errorminus="0.00041" errorplus="0.00041" unit="BJD">2455208.75049</transittime>
 			</planet>
 			<name>HAT-P-39</name>
 			<temperature>6430.0</temperature>
@@ -4593,6 +4680,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1614.8</temperature>
+				<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455813.17584</transittime>
 			</planet>
 			<name>HAT-P-40</name>
 			<temperature>6080.0</temperature>
@@ -4624,6 +4712,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1689.7</temperature>
+				<transittime errorminus="0.00107" errorplus="0.00107" unit="BJD">2454983.86167</transittime>
 			</planet>
 			<name>HAT-P-41</name>
 			<temperature>6390.0</temperature>
@@ -4823,6 +4912,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<lastupdate>12/12/17</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<new>0</new>
+				<transittime unit="HJD">2454417.9077</transittime>
 			</planet>
 			<name>HAT-P-8</name>
 			<temperature>6200.0</temperature>
@@ -4854,6 +4944,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2008</discoveryyear>
 				<new>0</new>
 				<temperature>1397.3</temperature>
+				<transittime unit="HJD">2454417.9077</transittime>
 			</planet>
 			<name>HAT-P-9</name>
 			<temperature>6350.0</temperature>
@@ -4886,6 +4977,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1250.3</temperature>
+				<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">55241.28722</transittime>
 			</planet>
 			<name>HATS-1</name>
 			<temperature>5870.0</temperature>
@@ -11237,6 +11329,32 @@ Credit: ESO/L. Calcada</imagedescription>
 			</planet>
 			<name>HD 231701</name>
 			<temperature>6208.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 233604</name>
+		<star>
+			<name>HD 233604</name>
+			<mass errorminus="0.30" errorplus="0.30">1.50</mass>
+			<radius errorminus="0.6" errorplus="0.6">10.9</radius>
+			<temperature errorminus="45" errorplus="45">4791</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">-0.36</metallicity>
+			<spectraltype>K5</spectraltype>
+			<age errorminus="1.8" errorplus="1.8">2.4</age>
+			<planet>
+				<name>HD 233604 b</name>
+				<list>Confirmed planets</list>
+				<mass>6.575</mass>
+				<period errorminus="0.22" errorplus="0.22">192.00</period>
+				<transittime errorminus="77" errorplus="77">53022</transittime>
+				<semimajoraxis>0.747</semimajoraxis>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.05</eccentricity>
+				<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abbundance which may be either be a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/04/26</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -18062,6 +18180,38 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>Kepler-61</name>
+		<name>KOI 1361</name>
+		<name>KIC 6960913</name>
+		<rightascension>19 41 13</rightascension>
+		<declination>+42 28 31</declination>
+		<distance>326.20</distance>
+		<star>
+			<name>Kepler-61</name>
+			<name>KOI 1361</name>
+			<name>KIC 6960913</name>
+			<mass errorminus="0.037" errorplus="0.037">0.35</mass>
+			<radius errorminus="0.05" errorplus="0.02">0.62</radius>
+			<temperature errorminus="150" errorplus="68">4017</temperature>
+			<metallicity errorminus="0.14" errorplus="0.14">0.03</metallicity>
+			<spectraltype>K7V</spectraltype>
+			<planet>
+				<name>Kepler-61 b</name>
+				<name>KOI 1361 b</name>
+				<name>KIC 6960913 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.01184693" errorplus="0.01184693">0.19593013</radius>
+				<temperature errorminus="13" errorplus="13">273</temperature>
+				<period errorminus="0.00020" errorplus="0.00020">59.87756</period>
+				<description>Kepler-61 b is a 2.15 Earth-radii transiting exoplanet. It was confirmed using a statistical argument: It is 30,000 times more likely that Kepler-61 b is a planet than a blend scenario.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/04/26</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>Kepler-62</name>
 		<name>KIC-9002278</name>
 		<name>KOI-701</name>
@@ -18502,6 +18652,33 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KIC 4570949</name>
+		<rightascension>19 36 46</rightascension>
+		<declination>+39 37 08</declination>
+		<star>
+			<name>KIC 4570949</name>
+			<mass errorminus="0.2" errorplus="0.2">1.2</mass>
+			<radius errorminus="0.08" errorplus="0.08">1.32</radius>
+			<temperature errorminus="95" errorplus="95">6409</temperature>
+			<metallicity errorminus="0.2" errorplus="0.2">-0.1</metallicity>
+			<spectraltype>G2V</spectraltype>
+			<planet>
+				<name>KIC 4570949 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.26" errorplus="0.26">2.00</mass>
+				<radius errorminus="0.08" errorplus="0.08">1.25</radius>
+				<period errorminus="0.00000027" errorplus="0.00000027">1.54492875</period>
+				<inclination errorminus="0.2" errorplus="0.2">78</inclination>
+				<transittime errorminus="0.00007" errorplus="0.00007" unit="BJD">2454966.54811</transittime>
+				<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/04/26</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>KIC 6185331</name>
 		<rightascension>18 57 06</rightascension>
 		<declination>+41 32 06</declination>
@@ -18640,36 +18817,36 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>2MASS 19322220+4121198</name>
 		<rightascension>19 32 22</rightascension>
 		<declination>+41 21 20</declination>
-		<distance>1330</distance>
+		<distance errorminus="170" errorplus="170">1330</distance>
 		<star>
 			<name>KOI-200</name>
 			<name>KIC-6046540</name>
 			<name>2MASS 19322220+4121198</name>
-			<temperature>6050</temperature>
-			<radius>1.51</radius>
-			<mass>1.40</mass>
+			<temperature errorminus="110" errorplus="110">6050</temperature>
+			<radius errorminus="0.14" errorplus="0.14">1.51</radius>
+			<mass errorminus="0.11" errorplus="0.14">1.40</mass>
 			<magV>15</magV>
-			<metallicity>0.34</metallicity>
-			<age>2.9</age>
+			<metallicity errorminus="0.14" errorplus="0.14">0.34</metallicity>
+			<age errorminus="0.8" errorplus="1.5">2.9</age>
 			<spectraltype>F8V</spectraltype>
 			<planet>
 				<name>KOI-200 b</name>
 				<name>KIC-6046540 b</name>
 				<name>2MASS 19322220+4121198 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.68</mass>
-				<radius>1.32</radius>
-				<period>7.340718</period>
-				<eccentricity>0.287</eccentricity>
-				<periastron>64</periastron>
-				<inclination>85.55</inclination>
-				<semimajoraxis>0.084</semimajoraxis>
+				<mass errorminus="0.09" errorplus="0.09">0.68</mass>
+				<radius errorminus="0.14" errorplus="0.14">1.32</radius>
+				<period errorminus="0.000001" errorplus="0.000001">7.340718</period>
+				<eccentricity errorminus="0.062" errorplus="0.062">0.287</eccentricity>
+				<periastron errorminus="21" errorplus="21">64</periastron>
+				<inclination errorminus="0.96" errorplus="0.96">85.55</inclination>
+				<semimajoraxis errorminus="0.014" errorplus="0.014">0.084</semimajoraxis>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on an eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible. The planet was first announced in 2012.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/22</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
-				<temperature>1250</temperature>
+				<temperature errorminus="120" errorplus="120">1250</temperature>
 			</planet>
 		</star>
 	</system>
@@ -19032,36 +19209,36 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>2MASS 19243302+3634385</name>
 		<rightascension>19 24 33</rightascension>
 		<declination>+36 34 39</declination>
-		<distance>1140</distance>
+		<distance errorminus="160" errorplus="250">1140</distance>
 		<star>
 			<name>KOI-889</name>
 			<name>KIC-757450</name>
 			<name>2MASS 19243302+3634385</name>
-			<temperature>5330</temperature>
-			<radius>0.88</radius>
-			<mass>0.88</mass>
+			<temperature errorminus="120" errorplus="120">5330</temperature>
+			<radius errorminus="0.04" errorplus="0.04">0.88</radius>
+			<mass errorminus="0.08" errorplus="0.08">0.88</mass>
 			<magV>15</magV>
-			<metallicity>-0.07</metallicity>
-			<age>6</age>
+			<metallicity errorminus="0.15" errorplus="0.15">-0.07</metallicity>
+			<age errorminus="3" errorplus="3">6</age>
 			<spectraltype>G8V</spectraltype>
 			<planet>
 				<name>KOI-889 b</name>
 				<name>KIC-757450 b</name>
 				<name>2MASS 19243302+3634385 b</name>
 				<list>Confirmed planets</list>
-				<mass>9.9</mass>
-				<radius>1.03</radius>
-				<period>8.884924</period>
-				<eccentricity>0.569</eccentricity>
-				<periastron>63.6</periastron>
-				<inclination>89.1</inclination>
-				<semimajoraxis>0.080</semimajoraxis>
+				<mass errorminus="0.5" errorplus="0.5">9.9</mass>
+				<radius errorminus="0.06" errorplus="0.06">1.03</radius>
+				<period errorminus="0.000002" errorplus="0.000002">8.884924</period>
+				<eccentricity errorminus="0.010" errorplus="0.010">0.569</eccentricity>
+				<periastron errorminus="1.4" errorplus="1.4">63.6</periastron>
+				<inclination errorminus="1" errorplus="0.6">89.1</inclination>
+				<semimajoraxis errorminus="0.005" errorplus="0.005">0.080</semimajoraxis>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/23</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
-				<temperature>850</temperature>
+				<new>0</new>
+				<temperature errorminus="40" errorplus="40">850</temperature>
 			</planet>
 		</star>
 	</system>
@@ -23543,18 +23720,18 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-80</name>
 		<rightascension>20 12 40</rightascension>
 		<declination>-02 08 44</declination>
-		<distance>60</distance>
+		<distance errorminus="20" errorplus="20">60</distance>
 		<star>
 			<name>WASP-80</name>
 			<name>2MASS J20124017-0208391</name>
 			<name>TYC 7038-834-1</name>
 			<name>BPM 80815</name>
 			<name>GSC 05165-00481</name>
-			<temperature>4145.0</temperature>
-			<mass>0.58</mass>
-			<radius>0.63</radius>
-			<magV>11.881</magV>
-			<metallicity>-0.14</metallicity>
+			<temperature errorminus="100" errorplus="100">4145</temperature>
+			<mass errorminus="0.05" errorplus="0.05">0.57</mass>
+			<radius errorminus="16" errorplus="16">0.571</radius>
+			<magV errorminus="0.228" errorplus="0.228">11.881</magV>
+			<metallicity errorminus="0.16" errorplus="0.16">-0.14</metallicity>
 			<spectraltype>K7V</spectraltype>
 			<planet>
 				<name>WASP-80 b</name>
@@ -23563,17 +23740,17 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<name>BPM 80815 b</name>
 				<name>GSC 05165-00481 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.554</mass>
-				<radius>0.952</radius>
-				<period>3.0678504</period>
-				<semimajoraxis>0.0346</semimajoraxis>
-				<eccentricity>0.07</eccentricity>
-				<inclination>89.92</inclination>
+				<mass errorminus="0.039" errorplus="0.030">0.554</mass>
+				<radius errorminus="0.027" errorplus="0.026">0.952</radius>
+				<period errorminus="0.0000027" errorplus="0.0000023">3.0678504</period>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.0346</semimajoraxis>
+				<inclination errorminus="0.12" errorplus="0.07">89.92</inclination>
 				<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/03/01</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<new>0</new>
+				<transittime errorminus="52" errorplus="67" unit="BJD">2456125.417512</transittime>
 				<temperature>800</temperature>
 			</planet>
 		</star>
