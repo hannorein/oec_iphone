@@ -1656,6 +1656,11 @@
 	<planet>
 		<id_exoplaneteu>Alpha Centauri B b</id_exoplaneteu>
 		<name>Alpha Centauri B b</name>
+		<name>GJ 559 B b</name>
+		<name>HR 5460 b</name>
+		<name>HD 128621 b</name>
+		<name>HIP 71681 b</name>
+		<name>Albertus Alauda</name>
 		<id>Alpha Centauri B b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -1689,7 +1694,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/10/16</lastupdate>
+		<lastupdate>13/04/24</lastupdate>
 		<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). European astronomers have discovered a planet with about the mass of the Earth orbiting Alpha Centauri B. It is the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The planet was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.</description>
 		<new>0</new>
 		<image>AlphaCentauriB</image>
@@ -1738,6 +1743,50 @@
 		<lastupdate>12/03/19</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>BD+15 2940 b</id_exoplaneteu>
+		<name>BD+15 2940 b</name>
+		<name>HIC 78407 b</name>
+		<id>BD+15 2940 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.11</mass>
+			<radius />
+			<orbit>
+				<period>137.48</period>
+				<semimajoraxis>0.539</semimajoraxis>
+				<eccentricity>0.26</eccentricity>
+				<inclination />
+				<periastron>302</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>1.1</mass>
+			<radius>14.7</radius>
+			<metallicity>0.28</metallicity>
+			<distance>585</distance>
+			<temperature>4796</temperature>
+			<rightascension>16 00 23</rightascension>
+			<declination>+15 32 49</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/26</lastupdate>
+		<description>The planet BD+15 2940 b was discovered by the Penn State - Torun Planet Search (PTPS) using ground based spectrometer. It is the closest-in planet around a giant star. It might soon be swallowed by the star as a consequence of stellar evolution.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -2436,7 +2485,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<radius>1.11</radius>
 			<metallicity>-0.3</metallicity>
 			<distance>460</distance>
-			<temperature>1835.8</temperature>
+			<temperature>1898</temperature>
 			<rightascension>06 48 19</rightascension>
 			<declination>-03 06 08</declination>
 			<angulardistance />
@@ -3049,7 +3098,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>21.66</mass>
 			<radius>1.01</radius>
 			<orbit>
-				<period>4.2568</period>
+				<period>4.25680</period>
 				<semimajoraxis>0.057</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>85.9</inclination>
@@ -3151,7 +3200,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>F9V</spectraltype>
-			<mass>1</mass>
+			<mass>1.00</mass>
 			<radius>1.186</radius>
 			<metallicity>-0.25</metallicity>
 			<distance>400</distance>
@@ -3187,7 +3236,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<orbit>
 				<period>8.886593</period>
 				<semimajoraxis>0.0855</semimajoraxis>
-				<eccentricity>0.1</eccentricity>
+				<eccentricity />
 				<inclination>89.07</inclination>
 				<periastron />
 				<longitude />
@@ -3196,7 +3245,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>F9V</spectraltype>
-			<mass>1.055</mass>
+			<mass>1.05</mass>
 			<radius>1.025</radius>
 			<metallicity>-0.2</metallicity>
 			<distance />
@@ -3240,7 +3289,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0V</spectraltype>
+			<spectraltype>G9V</spectraltype>
 			<mass>0.93</mass>
 			<radius>0.87</radius>
 			<metallicity>0.03</metallicity>
@@ -3249,7 +3298,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<rightascension>06 43 49</rightascension>
 			<declination>-01 03 46</declination>
 			<angulardistance />
-			<magV>11.7</magV>
+			<magV>11.67</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -3285,7 +3334,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0V</spectraltype>
+			<spectraltype>G9V</spectraltype>
 			<mass>0.93</mass>
 			<radius>0.87</radius>
 			<metallicity>0.03</metallicity>
@@ -3294,7 +3343,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<rightascension>06 43 49</rightascension>
 			<declination>-01 03 46</declination>
 			<angulardistance />
-			<magV>11.7</magV>
+			<magV>11.67</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -18402,6 +18451,49 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 233604 b</id_exoplaneteu>
+		<name>HD 233604 b</name>
+		<id>HD 233604 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>6.575</mass>
+			<radius />
+			<orbit>
+				<period>192.00</period>
+				<semimajoraxis>0.747</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5</spectraltype>
+			<mass>1.50</mass>
+			<radius>10.9</radius>
+			<metallicity>-0.36</metallicity>
+			<distance />
+			<temperature>4791</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/26</lastupdate>
+		<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abbundance which may be either be a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 23596 b</id_exoplaneteu>
 		<name>HD 23596 b</name>
 		<id>HD 23596 b</id>
@@ -30366,6 +30458,51 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-61 b</id_exoplaneteu>
+		<name>Kepler-61 b</name>
+		<name>KOI 1361 b</name>
+		<name>KIC 6960913 b</name>
+		<id>Kepler-61 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.19593013</radius>
+			<orbit>
+				<period>59.87756</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K7V</spectraltype>
+			<mass>0.35</mass>
+			<radius>0.62</radius>
+			<metallicity>0.03</metallicity>
+			<distance>326.20</distance>
+			<temperature>4017</temperature>
+			<rightascension>19 41 13</rightascension>
+			<declination>+42 28 31</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/26</lastupdate>
+		<description>Kepler-61 b is a 2.15 Earth-radii transiting exoplanet. It was confirmed using a statistical argument: It is 30,000 times more likely that Kepler-61 b is a planet than a blend scenario.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-62 b</id_exoplaneteu>
 		<name>Kepler-62 b</name>
 		<name>KIC-9002278 b</name>
@@ -31226,6 +31363,49 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<lastupdate>11/09/22</lastupdate>
 		<description>This planet was not flagged as a potential planet candidate by the Kepler data pipeline. Citizen scientists discovered the transit simply by looking at many light curves by eye using the online tool at planethunters.org.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KIC 4570949 b</id_exoplaneteu>
+		<name>KIC 4570949 b</name>
+		<id>KIC 4570949 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.00</mass>
+			<radius>1.25</radius>
+			<orbit>
+				<period>1.54492875</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination>78</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.2</mass>
+			<radius>1.32</radius>
+			<metallicity>-0.1</metallicity>
+			<distance />
+			<temperature>6409</temperature>
+			<rightascension>19 36 46</rightascension>
+			<declination>+39 37 08</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/26</lastupdate>
+		<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -32188,7 +32368,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/23</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -39517,7 +39697,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>3.0678504</period>
 				<semimajoraxis>0.0346</semimajoraxis>
-				<eccentricity>0.07</eccentricity>
+				<eccentricity />
 				<inclination>89.92</inclination>
 				<periastron />
 				<longitude />
@@ -39526,11 +39706,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>K7V</spectraltype>
-			<mass>0.58</mass>
-			<radius>0.63</radius>
+			<mass>0.57</mass>
+			<radius>0.571</radius>
 			<metallicity>-0.14</metallicity>
 			<distance>60</distance>
-			<temperature>4145.0</temperature>
+			<temperature>4145</temperature>
 			<rightascension>20 12 40</rightascension>
 			<declination>-02 08 44</declination>
 			<angulardistance />
