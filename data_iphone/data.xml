@@ -1,4 +1,4 @@
-<planets date="2013-04-29" name="data" planets="909">
+<planets date="2013-04-30" name="data" planets="911">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -14691,6 +14691,67 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>10/12/17</lastupdate>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 41248 b</id_exoplaneteu>
+		<name>HD 41248 b</name>
+		<id>HD 41248 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.03869211</mass>
+			<orbit>
+				<period>18.357</period>
+				<semimajoraxis>0.137</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.92</mass>
+			<radius>0.78</radius>
+			<metallicity>-0.43</metallicity>
+			<distance>52.38</distance>
+			<temperature>5713</temperature>
+			<rightascension>06 00 33</rightascension>
+			<declination>-56 09 43</declination>
+			<magV>8.82</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/30</lastupdate>
+		<description>The planetary system HD 41248 consists of at least two planets. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 41248 c</id_exoplaneteu>
+		<name>HD 41248 c</name>
+		<id>HD 41248 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.02705302</mass>
+			<orbit>
+				<period>25.648</period>
+				<semimajoraxis>0.172</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.92</mass>
+			<radius>0.78</radius>
+			<metallicity>-0.43</metallicity>
+			<distance>52.38</distance>
+			<temperature>5713</temperature>
+			<rightascension>06 00 33</rightascension>
+			<declination>-56 09 43</declination>
+			<magV>8.82</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/04/30</lastupdate>
+		<description>The planetary system HD 41248 consists of at least two planets. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
