@@ -1,4 +1,4 @@
-<planets date="2013-05-03" name="data" planets="911">
+<planets date="2013-05-06" name="data" planets="911">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4103,6 +4103,10 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>13/01/26</lastupdate>
 		<new>0</new>
+		<image>Gliese876e</image>
+		<imagedescription>Artist's impression of Gliese 876 e, a member of a multi-planetary system. The illustration shows the planet from the perspective of a hypothetical moon orbiting.
+
+Credit: Jonah Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -20648,7 +20652,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<orbit>
 				<period>49.514</period>
 				<semimajoraxis>0.2956</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
 				<inclination>89.59</inclination>
 			</orbit>
 		</properties>
@@ -20687,7 +20690,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<orbit>
 				<period>303.158</period>
 				<semimajoraxis>0.989</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>89.826</inclination>
 			</orbit>
 		</properties>
