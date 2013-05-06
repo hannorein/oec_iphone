@@ -3485,6 +3485,10 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>153.3</temperature>
+				<image>Gliese876e</image>
+				<imagedescription>Artist's impression of Gliese 876 e, a member of a multi-planetary system. The illustration shows the planet from the perspective of a hypothetical moon orbiting.
+
+Credit: Jonah Gallagher.</imagedescription>
 			</planet>
 			<name>Gliese 876</name>
 			<temperature>3350.0</temperature>
@@ -4847,6 +4851,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1529.9</temperature>
+				<transittime errorminus="0.00028" errorplus="0.00028" unit="HJD">2454035.67575</transittime>
 			</planet>
 			<name>HAT-P-6</name>
 			<temperature>6570.0</temperature>
@@ -4885,6 +4890,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<lastupdate>13/01/24</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<new>0</new>
+				<transittime errorminus="0.00064" errorplus="0.00064" unit="HJD">2454342.42616</transittime>
 			</planet>
 			<name>HAT-P-7</name>
 		</star>
@@ -7681,6 +7687,7 @@ Credit: ESO/L. Calcada</imagedescription>
 				<semimajoraxis>0.04288</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>85.3</inclination>
+				<transittime errorminus="0.003" errorplus="0.003" unit="JD">2453317.838</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/07/05</lastupdate>
 				<discoveryyear>2005</discoveryyear>
@@ -8793,6 +8800,7 @@ Credit: ESO/L. Calcada</imagedescription>
 				<semimajoraxis>0.1623</semimajoraxis>
 				<eccentricity>0.6768</eccentricity>
 				<inclination>87.21</inclination>
+				<transittime errorminus="0.000081" errorplus="0.000081" unit="HJD">2454777.946341</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/04/08</lastupdate>
 				<discoveryyear>2007</discoveryyear>
@@ -17582,11 +17590,11 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<name>2MASS J19411149+4655136 b</name>
 				<name>Kepler-47 b</name>
 				<list>Confirmed planets</list>
-				<radius>0.27156828</radius>
-				<period>49.514</period>
-				<semimajoraxis>0.2956</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>89.59</inclination>
+				<radius errorminus="0.010935635" errorplus="0.010935635">0.27156828</radius>
+				<period errorminus="0.040" errorplus="0.040">49.514</period>
+				<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.2956</semimajoraxis>
+				<eccentricity upperlimit="0.035" />
+				<inclination errorminus="0.50" errorplus="0.50">89.59</inclination>
 				<description>Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star, the other one is roughly one-third the size of the Sun. The orbital period of the binary is 7.45 days.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/28</lastupdate>
@@ -17606,11 +17614,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>2MASS J19411149+4655136 c</name>
 				<name>Kepler-47 c</name>
 				<list>Confirmed planets</list>
-				<radius>0.42011066</radius>
-				<period>303.158</period>
-				<semimajoraxis>0.989</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<inclination>89.826</inclination>
+				<radius errorminus="0.018226059" errorplus="0.018226059">0.42011066</radius>
+				<period errorminus="0.072" errorplus="0.072">303.158</period>
+				<semimajoraxis errorminus="0.016" errorplus="0.016">0.989</semimajoraxis>
+				<eccentricity upperlimit="0.411" />
+				<inclination errorminus="0.010" errorplus="0.010">89.826</inclination>
 				<description>Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star, the other one is roughly one-third the size of the Sun. The orbital period of the binary is 7.45 days. The outer planet Kepler-47(AB) c is located in the habitable zone where liquid water could exist.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/28</lastupdate>
@@ -18775,6 +18783,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<semimajoraxis>0.0367</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>85.9</inclination>
+				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2455138.7439</transittime>
 				<description>The exoplanet candidate KOI-13 b was discovered with the Kepler spacecraft. It has been independently confirmed by ellipsoidal variations in the lightcurve. The high temperature of the host star and the small semi-major axis make this planet one of the hottest exoplanets known. The equilibrium temperature is 2864K.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/07/24</lastupdate>
@@ -18809,6 +18818,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<semimajoraxis>0.0449</semimajoraxis>
 				<eccentricity>0.025</eccentricity>
 				<inclination>84.35</inclination>
+				<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2454965.4159</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/10/26</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18894,6 +18904,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<periastron errorminus="21" errorplus="21">64</periastron>
 				<inclination errorminus="0.96" errorplus="0.96">85.55</inclination>
 				<semimajoraxis errorminus="0.014" errorplus="0.014">0.084</semimajoraxis>
+				<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454967.3453</transittime>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on an eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible. The planet was first announced in 2012.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/22</lastupdate>
@@ -18951,6 +18962,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<semimajoraxis>0.0455</semimajoraxis>
 				<eccentricity>0.021</eccentricity>
 				<inclination>83.78</inclination>
+				<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454966.3781</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/10/26</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -19286,6 +19298,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<periastron errorminus="1.4" errorplus="1.4">63.6</periastron>
 				<inclination errorminus="1" errorplus="0.6">89.1</inclination>
 				<semimajoraxis errorminus="0.005" errorplus="0.005">0.080</semimajoraxis>
+				<transittime errorminus="0.0002" errorplus="0.002" unit="BJD">2455002.991</transittime>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/23</lastupdate>
