@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Gliese 221 b</id_exoplaneteu>
+	<name>Gliese 221 b</name>
+	<name>GJ 221 b</name>
+	<name>BD-061339 b</name>
+	<name>HIP 27803 b</name>
+	<id>Gliese 221 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.13</mass>
+		<radius />
+		<orbit>
+			<period>125.06</period>
+			<semimajoraxis>0.448</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron>118</periastron>
+			<longitude>131</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K7V</spectraltype>
+		<mass>0.637</mass>
+		<radius />
+		<metallicity>-0.07</metallicity>
+		<distance>20</distance>
+		<temperature>4040</temperature>
+		<rightascension>05 53 00</rightascension>
+		<declination>-05 59 41</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/05/13</lastupdate>
+	<description>The planets orbiting the K7 star GJ 221 were discovered using publicly available HARPS data. The dataset was complemented with high precision Doppler measurements from Magellan/PFS. The system hosts at least two planets, one hot Super-Earth and one sub-Saturn mass planet.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
