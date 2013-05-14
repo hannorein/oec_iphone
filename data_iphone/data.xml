@@ -1,4 +1,4 @@
-<planets date="2013-05-13" name="data" planets="913">
+<planets date="2013-05-14" name="data" planets="913">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -14798,7 +14798,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/30</lastupdate>
 		<description>The planetary system HD 41248 consists of at least two planets. Both planets are most likely Super-Earths. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -14828,7 +14828,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/30</lastupdate>
 		<description>The planetary system HD 41248 consists of at least two planets. Both planets are most likely Super-Earths. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -22138,6 +22138,36 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-76 b</id_exoplaneteu>
+		<name>Kepler-76 b</name>
+		<name>KIC 4570949 b</name>
+		<id>Kepler-76 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.00</mass>
+			<radius>1.25</radius>
+			<orbit>
+				<period>1.54492875</period>
+				<inclination>78</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.2</mass>
+			<radius>1.32</radius>
+			<metallicity>-0.1</metallicity>
+			<temperature>6409</temperature>
+			<rightascension>19 36 46</rightascension>
+			<declination>+39 37 08</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/05/14</lastupdate>
+		<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object.</description>
+		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-8 b</id_exoplaneteu>
 		<name>Kepler-8 b</name>
 		<name>2MASS J18450914+4227038 b</name>
@@ -22291,35 +22321,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/22</lastupdate>
 		<description>This planet was not flagged as a potential planet candidate by the Kepler data pipeline. Citizen scientists discovered the transit simply by looking at many light curves by eye using the online tool at planethunters.org.</description>
-		<new>0</new>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KIC 4570949 b</id_exoplaneteu>
-		<name>KIC 4570949 b</name>
-		<id>KIC 4570949 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>2.00</mass>
-			<radius>1.25</radius>
-			<orbit>
-				<period>1.54492875</period>
-				<inclination>78</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G2V</spectraltype>
-			<mass>1.2</mass>
-			<radius>1.32</radius>
-			<metallicity>-0.1</metallicity>
-			<temperature>6409</temperature>
-			<rightascension>19 36 46</rightascension>
-			<declination>+39 37 08</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/04/26</lastupdate>
-		<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
