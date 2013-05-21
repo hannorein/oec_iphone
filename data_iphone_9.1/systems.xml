@@ -1,4 +1,4 @@
-<systems name="systems" planets="914">
+<systems name="systems" planets="915">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -17178,6 +17178,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.118469</radius>
 				<period>9.61</period>
 				<semimajoraxis>0.09</semimajoraxis>
+				<transittime errorminus="0.006" errorplus="0.006" unit="BJD">2454992.141</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least two other unconfirmed planets in the system.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -17193,6 +17194,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.391860</radius>
 				<period>20.86</period>
 				<semimajoraxis>0.16</semimajoraxis>
+				<transittime errorminus="0.007" errorplus="0.007" unit="BJD">2454974.191</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. There are at least two other unconfirmed planets in the system.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -17220,6 +17222,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.136695</radius>
 				<period>0.7429</period>
 				<semimajoraxis>0.013</semimajoraxis>
+				<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2454974.902</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least three other unconfirmed planets in the system.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -17235,6 +17238,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.24605179</radius>
 				<period>2.8960</period>
 				<semimajoraxis>0.033</semimajoraxis>
+				<transittime errorminus="0.013" errorplus="0.013" unit="BJD">2454977.378</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least three other unconfirmed planets in the system.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -17437,6 +17441,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<radius>0.13778</radius>
 				<period>13.83988</period>
 				<semimajoraxis>0.1151</semimajoraxis>
+				<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
 				<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/06/22</lastupdate>
@@ -17458,6 +17463,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<radius>0.33526835</radius>
 				<period>16.23855</period>
 				<semimajoraxis>0.1283</semimajoraxis>
+				<transittime errorminus="0.0010" errorplus="0.0011" unit="BJD">2454955.9132</transittime>
 				<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/06/22</lastupdate>
@@ -17572,6 +17578,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<semimajoraxis>0.4644</semimajoraxis>
 				<eccentricity>0.032</eccentricity>
 				<inclination>90.182</inclination>
+				<transittime errorminus="0.000090" errorplus="0.000090" unit="BJD">2454952.872560</transittime>
 				<description>Kepler-38 (AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/24</lastupdate>
@@ -17605,6 +17612,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<semimajoraxis>0.0456</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>89.76</inclination>
+				<transittime errorminus="0.0015" errorplus="0.0015" unit="HJD">2454956.6127</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/01/06</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -17824,6 +17832,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<semimajoraxis>0.05064</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>86.3</inclination>
+				<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2454955.90122</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/04/23</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -18260,6 +18269,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<semimajoraxis>0.04567</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>86.8</inclination>
+				<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454954.48636</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/12/01</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -18389,6 +18399,7 @@ Credit: Joe Gallagher</imagedescription>
 				<period>5.714932</period>
 				<semimajoraxis>0.0553</semimajoraxis>
 				<inclination>89.2</inclination>
+				<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2455003.9189</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18405,6 +18416,7 @@ Credit: Joe Gallagher</imagedescription>
 				<period>12.4417</period>
 				<semimajoraxis>0.0929</semimajoraxis>
 				<inclination>89.7</inclination>
+				<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2454967.651</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18421,6 +18433,7 @@ Credit: Joe Gallagher</imagedescription>
 				<period>18.16406</period>
 				<semimajoraxis>0.120</semimajoraxis>
 				<inclination>89.7</inclination>
+				<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2455013.8117</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18437,6 +18450,7 @@ Credit: Joe Gallagher</imagedescription>
 				<period>122.3874</period>
 				<semimajoraxis>0.427</semimajoraxis>
 				<inclination>89.98</inclination>
+				<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454983.404</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18457,6 +18471,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<period>267.291</period>
 				<semimajoraxis>0.718</semimajoraxis>
 				<inclination>89.90</inclination>
+				<transittime errorminus="0.006" errorplus="0.006" unit="BJD">2455422.71</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18560,6 +18575,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<semimajoraxis>0.06170</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>87.60</inclination>
+				<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455006.85729</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/02/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18577,6 +18593,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<period>9.605085</period>
 				<semimajoraxis>0.09059</semimajoraxis>
 				<inclination>86.93</inclination>
+				<transittime errorminus="0.0041" errorplus="0.0041" unit="BJD">2454969.3805"</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/02/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -18624,6 +18641,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<semimajoraxis>0.094</semimajoraxis>
 				<eccentricity>0.16</eccentricity>
 				<inclination>89.62</inclination>
+				<transittime errorminus="0.00016" errorplus="0.00016" unit="BJD">2454970.8414</transittime>
 				<description>Kepler-69 is a two planet system which was discovered by Kepler. Kepler-69 b is a planet in a 14 day orbit and too hot to sustain liquid water on the surface. However, the outer planet, Kepler-69 c, might be in the habitable zone.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
@@ -18640,6 +18658,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<semimajoraxis>0.64</semimajoraxis>
 				<eccentricity>0.14</eccentricity>
 				<inclination>89.85</inclination>
+				<transittime errorminus="0.014" errorplus="0.016" unit="BJD">2454983.870</transittime>
 				<description>Kepler-69 is a two planet system discovered by Kepler. Kepler-69 c, the outer planet, is orbiting the star every 242 days and might be in the habitable zone. It is 70 percent larger than Earth. Not much is known about its composition.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/18</lastupdate>
@@ -18672,6 +18691,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<semimajoraxis>0.06246</semimajoraxis>
 				<eccentricity>0.1</eccentricity>
 				<inclination>85.18</inclination>
+				<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/05/27</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -18735,6 +18755,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<semimajoraxis>0.0483</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>84.07</inclination>
+				<transittime errorminus="0.0004" errorplus="0.0003" unit="BJD">2454954.1190</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/07/05</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -18856,6 +18877,40 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<new>0</new>
 			</planet>
 			<name>KIC 6185331</name>
+		</star>
+	</system>
+	<system>
+		<name>KIC 8435766</name>
+		<name>2MASS 19345800+4426539</name>
+		<name>TYC 3147-188-1</name>
+		<rightascension>19 34 58</rightascension>
+		<declination>+44 26 54</declination>
+		<star>
+			<name>KIC 8435766</name>
+			<name>2MASS 19345800+4426539</name>
+			<name>TYC 3147-188-1</name>
+			<mass errorminus="0.06" errorplus="0.06">0.84</mass>
+			<radius errorminus="0.12" errorplus="0.15">0.73</radius>
+			<temperature errorminus="70" errorplus="70">5143</temperature>
+			<metallicity errorminus="0.13" errorplus="0.13">-0.08</metallicity>
+			<spectraltype>G</spectraltype>
+			<age errorminus="0.15" errorplus="0.15">0.75</age>
+			<planet>
+				<name>KIC 8435766 b</name>
+				<name>2MASS 19345800+4426539 b</name>
+				<name>TYC 3147-188-1 b</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.0251" />
+				<radius errorminus="0.0173" errorplus="0.0218">0.10297723</radius>
+				<period errorminus="0.00000008" errorplus="0.00000008">0.35500745</period>
+				<inclination errorminus="9" errorplus="6">81</inclination>
+				<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD">2454953.95984</transittime>
+				<description>The Earth-sized planet KIC 8435766 b was identified in the Kepler database and confirmed to be a transiting planet (as apposed to an eclipsing binary) through the absence of ellipsoidal or radial velocity variations. The planet has a dayside temperature of 2300K-3100K.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/05/20</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
