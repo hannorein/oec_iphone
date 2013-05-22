@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-50 b</id_exoplaneteu>
+	<name>Kepler-50 b</name>
+	<name>KOI 262.01</name>
+	<name>KID 11807274</name>
+	<id>Kepler-50 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.015963</mass>
+		<radius>0.155832</radius>
+		<orbit>
+			<period>7.81254</period>
+			<semimajoraxis>0.077</semimajoraxis>
+			<eccentricity />
+			<inclination>82</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.24</mass>
+		<radius>1.58</radius>
+		<metallicity>0.03</metallicity>
+		<distance>269.79</distance>
+		<temperature>6225</temperature>
+		<rightascension>19 12 24</rightascension>
+		<declination>+50 02 01</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>13/02/17</lastupdate>
+	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.81 days for 4.2439 hours. Periodic transit timing variations confirm its planetary nature.</description>
+	<new>0</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

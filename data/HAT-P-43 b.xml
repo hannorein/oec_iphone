@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HAT-P-43 b</id_exoplaneteu>
+	<name>HAT-P-43 b</name>
+	<name>2MASS 08354217+1012239 b</name>
+	<id>HAT-P-43 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.660</mass>
+		<radius>1.283</radius>
+		<orbit>
+			<period>3.332688</period>
+			<semimajoraxis>0.0443</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.048</mass>
+		<radius>1.104</radius>
+		<metallicity>0.23</metallicity>
+		<distance>543</distance>
+		<temperature>1361</temperature>
+		<rightascension>08 35 42</rightascension>
+		<declination>+10 12 24</declination>
+		<angulardistance />
+		<magV>4.73</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/01/02</lastupdate>
+	<description>HAT-P-43 b is a typical Hot Jupiter on a circular orbit around a late F-type main sequence star. The planet is inflated compared to our own Jupiter. It was discovered by the HATNet collaboration.</description>
+	<new>0</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>NN Ser (AB) c</id_exoplaneteu>
+	<name>NN Ser (AB) c</name>
+	<name>NN Serpentis (AB) c</name>
+	<id>NN Ser (AB) c</id>
+	<discoverymethod>timing</discoverymethod>
+	<properties>
+		<mass>6.91</mass>
+		<radius />
+		<orbit>
+			<period>5660</period>
+			<semimajoraxis>5.38</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>DAO1</spectraltype>
+		<mass>0.535</mass>
+		<radius />
+		<metallicity />
+		<distance>500</distance>
+		<temperature>57000</temperature>
+		<rightascension>15 52 56</rightascension>
+		<declination>+12 54 47</declination>
+		<angulardistance />
+		<magV>16.6</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2010</discoveryyear>
+	<lastupdate>12/11/27</lastupdate>
+	<description>NN Ser AB is a short-period eclipsing binary.</description>
+	<new>0</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
+</planet>

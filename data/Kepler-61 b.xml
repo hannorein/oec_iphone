@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-61 b</id_exoplaneteu>
+	<name>Kepler-61 b</name>
+	<name>KOI 1361 b</name>
+	<name>KIC 6960913 b</name>
+	<id>Kepler-61 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.19593013</radius>
+		<orbit>
+			<period>59.87756</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K7V</spectraltype>
+		<mass>0.35</mass>
+		<radius>0.62</radius>
+		<metallicity>0.03</metallicity>
+		<distance>326.20</distance>
+		<temperature>4017</temperature>
+		<rightascension>19 41 13</rightascension>
+		<declination>+42 28 31</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/04/26</lastupdate>
+	<description>Kepler-61 b is a 2.15 Earth-radii transiting exoplanet. It was confirmed using a statistical argument: It is 30,000 times more likely that Kepler-61 b is a planet than a blend scenario.</description>
+	<new>0</new>
+	<image>Kepler61</image>
+	<imagedescription>Artist's impression of the exoplanet Kepler-61 b.
+			
+Credit: Joe Gallagher</imagedescription>
+	<list>Confirmed planets</list>
+</planet>
