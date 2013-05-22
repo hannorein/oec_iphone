@@ -210,7 +210,7 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1996</discoveryyear>
 		<lastupdate>12/12/08</lastupdate>
-		<description>16 Cygni is a hierachical triple system. The star is in the Kepler field of view. In an active search for extra-terrestrial intelligence a radio message has been sent to this system on May 24 1999. It will reach the system in 2069.</description>
+		<description>16 Cygni is a hierarchical triple system. The star is in the Kepler field of view. In an active search for extra-terrestrial intelligence a radio message has been sent to this system on May 24 1999. It will reach the system in 2069.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -1560,7 +1560,7 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2003</discoveryyear>
 		<lastupdate>12/12/08</lastupdate>
-		<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the nakes eye and is a host to at least one extrasolar planet.</description>
+		<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the naked eye and is host to at least one extrasolar planet.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -7729,7 +7729,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>13/01/24</lastupdate>
-		<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Meassurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
+		<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -31686,6 +31686,53 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-127 b</id_exoplaneteu>
+		<name>KOI-127 b</name>
+		<name>KIC 8359498 b</name>
+		<name>GSC2.3 N2K0000444</name>
+		<name>USNO-A2 1275-11111739 b</name>
+		<name>2MASS 19182590+4420435 b</name>
+		<id>KOI-127 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.430</mass>
+			<radius>0.960</radius>
+			<orbit>
+				<period>3.57878087</period>
+				<semimajoraxis>0.04501</semimajoraxis>
+				<eccentricity />
+				<inclination>88.00</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5V</spectraltype>
+			<mass>0.95</mass>
+			<radius>0.99</radius>
+			<metallicity>0.20</metallicity>
+			<distance>570</distance>
+			<temperature>5520</temperature>
+			<rightascension>19 18 26</rightascension>
+			<declination>44 20 44</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/05/17</lastupdate>
+		<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-13 b</id_exoplaneteu>
 		<name>KOI-13 b</name>
 		<name>KOI-13.01</name>
@@ -31857,53 +31904,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<lastupdate>13/04/17</lastupdate>
 		<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems.</description>
 		<new>0</new>
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KOI-172 b</id_exoplaneteu>
-		<name>KOI-172 b</name>
-		<name>KIC 8359498 b</name>
-		<name>GSC2.3 N2K0000444</name>
-		<name>USNO-A2 1275-11111739 b</name>
-		<name>2MASS 19182590+4420435 b</name>
-		<id>KOI-172 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.430</mass>
-			<radius>0.960</radius>
-			<orbit>
-				<period>3.57878087</period>
-				<semimajoraxis>0.04501</semimajoraxis>
-				<eccentricity />
-				<inclination>88.00</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G5V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.99</radius>
-			<metallicity>0.20</metallicity>
-			<distance>570</distance>
-			<temperature>5520</temperature>
-			<rightascension>19 18 26</rightascension>
-			<declination>44 20 44</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/05/17</lastupdate>
-		<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
-		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
