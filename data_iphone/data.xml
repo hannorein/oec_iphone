@@ -1,4 +1,4 @@
-<planets date="2013-05-22" name="data" planets="915">
+<planets date="2013-05-23" name="data" planets="915">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1088,26 +1088,28 @@
 		<id>91 Aquarii A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.9</mass>
+			<mass>3.2</mass>
 			<orbit>
-				<period>182</period>
-				<semimajoraxis>0.3</semimajoraxis>
+				<period>181.4</period>
+				<semimajoraxis>0.7</semimajoraxis>
+				<eccentricity>0.027</eccentricity>
+				<periastron>177.3</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0 III</spectraltype>
-			<mass>1.74</mass>
-			<radius>10.16</radius>
-			<metallicity>-0.085</metallicity>
-			<distance>45.5</distance>
-			<temperature>4603</temperature>
+			<mass>1.4</mass>
+			<radius>11.0</radius>
+			<metallicity>-0.03</metallicity>
+			<distance>45.9</distance>
+			<temperature>4665</temperature>
 			<rightascension>23 15 53</rightascension>
 			<declination>-09 05 15</declination>
-			<magV>4.21</magV>
+			<magV>4.24</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>13/05/23</lastupdate>
 		<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the naked eye and is host to at least one extrasolar planet.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
@@ -25439,23 +25441,28 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>tau Gem b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>18.1</mass>
+			<mass>20.6</mass>
 			<orbit>
-				<period>305</period>
+				<period>305.5</period>
+				<semimajoraxis>1.17</semimajoraxis>
+				<eccentricity>0.031</eccentricity>
+				<periastron>137.4</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K2III</spectraltype>
-			<mass>18.1</mass>
-			<distance>92.25</distance>
-			<temperature>5150.0</temperature>
+			<mass>2.3</mass>
+			<radius>26.8</radius>
+			<metallicity>0.14</metallicity>
+			<distance>98.4</distance>
+			<temperature>4388</temperature>
 			<rightascension>07 11 08</rightascension>
 			<declination>+30 14 43</declination>
-			<magV>4.4</magV>
+			<magV>4.41</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>11/01/03</lastupdate>
+		<lastupdate>13/05/23</lastupdate>
 		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
