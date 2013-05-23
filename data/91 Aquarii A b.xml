@@ -8,29 +8,29 @@
 	<id>91 Aquarii A b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2.9</mass>
+		<mass>3.2</mass>
 		<radius />
 		<orbit>
-			<period>182</period>
-			<semimajoraxis>0.3</semimajoraxis>
-			<eccentricity />
+			<period>181.4</period>
+			<semimajoraxis>0.7</semimajoraxis>
+			<eccentricity>0.027</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>177.3</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K0 III</spectraltype>
-		<mass>1.74</mass>
-		<radius>10.16</radius>
-		<metallicity>-0.085</metallicity>
-		<distance>45.5</distance>
-		<temperature>4603</temperature>
+		<mass>1.4</mass>
+		<radius>11.0</radius>
+		<metallicity>-0.03</metallicity>
+		<distance>45.9</distance>
+		<temperature>4665</temperature>
 		<rightascension>23 15 53</rightascension>
 		<declination>-09 05 15</declination>
 		<angulardistance />
-		<magV>4.21</magV>
+		<magV>4.24</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>12/12/08</lastupdate>
+	<lastupdate>13/05/23</lastupdate>
 	<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the naked eye and is host to at least one extrasolar planet.</description>
 	<new>0</new>
 	<image />
