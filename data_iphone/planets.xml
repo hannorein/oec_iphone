@@ -929,7 +929,7 @@
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
-			<distance>12.34</distance>
+			<distance>12.3</distance>
 			<temperature>660.7</temperature>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
@@ -973,7 +973,7 @@
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
-			<distance>12.34</distance>
+			<distance>12.3</distance>
 			<temperature>660.7</temperature>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
@@ -1017,7 +1017,7 @@
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
-			<distance>12.34</distance>
+			<distance>12.3</distance>
 			<temperature>660.7</temperature>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
@@ -1045,10 +1045,10 @@
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.027</mass>
-			<radius>0.194</radius>
+			<radius>0.1813</radius>
 			<orbit>
-				<period>0.7365449</period>
-				<semimajoraxis>0.0156</semimajoraxis>
+				<period>0.7365417</period>
+				<semimajoraxis>0.01545</semimajoraxis>
 				<eccentricity>0.06</eccentricity>
 				<inclination />
 				<periastron />
@@ -1061,7 +1061,7 @@
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
-			<distance>12.34</distance>
+			<distance>12.3</distance>
 			<temperature>660.7</temperature>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
@@ -1105,7 +1105,7 @@
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
-			<distance>12.34</distance>
+			<distance>12.3</distance>
 			<temperature>660.7</temperature>
 			<rightascension>08 52 37</rightascension>
 			<declination>+28 20 02</declination>
@@ -2845,8 +2845,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>-0.1</metallicity>
 			<distance>870</distance>
 			<temperature>1396.0</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>06 32 41</rightascension>
+			<declination>-00 01 54</declination>
 			<angulardistance />
 			<magV>14.99</magV>
 			<magI />
@@ -2889,8 +2889,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>-0.02</metallicity>
 			<distance>800</distance>
 			<temperature>1515.3</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>06 28 08</rightascension>
+			<declination>-00 10 15</declination>
 			<angulardistance />
 			<magV>14.78</magV>
 			<magI />
@@ -2981,8 +2981,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>0.14</metallicity>
 			<distance>1230</distance>
 			<temperature>810.2</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>06 30 53</rightascension>
+			<declination>00 13 37</declination>
 			<angulardistance />
 			<magV>14.66</magV>
 			<magI />
@@ -3068,8 +3068,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>0.05</metallicity>
 			<distance>600</distance>
 			<temperature>1508.9</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>18 39 08</rightascension>
+			<declination>04 21 28</declination>
 			<angulardistance />
 			<magV>15.63</magV>
 			<magI />
@@ -3296,7 +3296,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<distance>150</distance>
 			<temperature>1666.1</temperature>
 			<rightascension>06 43 49</rightascension>
-			<declination>-01 03 46</declination>
+			<declination>-01 03 47</declination>
 			<angulardistance />
 			<magV>11.67</magV>
 			<magI />
@@ -3319,7 +3319,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>CoRoT-Exo-7 c</name>
 		<name>CoRoTID 102708694 c</name>
 		<id>CoRoT-7 c</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.0264</mass>
 			<radius />
@@ -3341,7 +3341,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<distance>150</distance>
 			<temperature>1666.1</temperature>
 			<rightascension>06 43 49</rightascension>
-			<declination>-01 03 46</declination>
+			<declination>-01 03 47</declination>
 			<angulardistance />
 			<magV>11.67</magV>
 			<magI />
@@ -6037,7 +6037,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		<name>TYC 3416-00543-1 c</name>
 		<name>2MASS J08393180+4721073 c</name>
 		<id>HAT-P-13 c</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>14.5</mass>
 			<radius />
@@ -6259,7 +6259,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		<name>TYC 2717-00417-1 c</name>
 		<name>2MASS J21380873+3029193 c</name>
 		<id>HAT-P-17 c</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.4</mass>
 			<radius />
@@ -7311,8 +7311,8 @@ Credit: Jonah Gallagher.</imagedescription>
 			<metallicity>0.06</metallicity>
 			<distance>249</distance>
 			<temperature>987.0</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>02 21 32</rightascension>
+			<declination>+32 14 47</declination>
 			<angulardistance />
 			<magV>12.56</magV>
 			<magI />
@@ -26890,10 +26890,10 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<mass>1.166</mass>
 			<radius>1.483</radius>
 			<metallicity>0.07</metallicity>
-			<distance />
+			<distance>600</distance>
 			<temperature>1354.2</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>19 04 58</rightascension>
+			<declination>50 02 25</declination>
 			<angulardistance />
 			<magV>13.4</magV>
 			<magI />
@@ -28837,7 +28837,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.89</mass>
 			<radius>1.02</radius>
 			<metallicity />
-			<distance />
+			<distance>1645</distance>
 			<temperature />
 			<rightascension>19 37 59</rightascension>
 			<declination>+46 41 23</declination>
@@ -36301,11 +36301,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>G0</spectraltype>
-			<mass>1.18</mass>
-			<radius>1.169</radius>
+			<mass>0.983</mass>
+			<radius>1.003</radius>
 			<metallicity>0.001</metallicity>
 			<distance>213</distance>
-			<temperature />
+			<temperature>5850</temperature>
 			<rightascension>19 07 14</rightascension>
 			<declination>+49 18 59</declination>
 			<angulardistance />
@@ -36886,7 +36886,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1.24</mass>
 			<radius>1.382</radius>
 			<metallicity />
-			<distance />
+			<distance>408</distance>
 			<temperature>1644.3</temperature>
 			<rightascension>00 20 40</rightascension>
 			<declination>+31 59 24</declination>
@@ -37046,8 +37046,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-13 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.485</mass>
-			<radius>1.365</radius>
+			<mass>0.477</mass>
+			<radius>1.389</radius>
 			<orbit>
 				<period>4.353011</period>
 				<semimajoraxis>0.05379</semimajoraxis>
@@ -37060,10 +37060,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
-			<mass>0.485</mass>
-			<radius>1.365</radius>
-			<metallicity />
-			<distance>156</distance>
+			<mass>1.09</mass>
+			<radius>1.559</radius>
+			<metallicity>0.0</metallicity>
+			<distance>155</distance>
 			<temperature>1203.3</temperature>
 			<rightascension>09 20 25</rightascension>
 			<declination>+33 52 57</declination>
@@ -37243,7 +37243,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1.2</mass>
 			<radius>1.38</radius>
 			<metallicity>-0.19</metallicity>
-			<distance />
+			<distance>400</distance>
 			<temperature>1517.8</temperature>
 			<rightascension>15 59 51</rightascension>
 			<declination>-28 03 42</declination>
@@ -37337,7 +37337,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.97</mass>
 			<radius>0.99</radius>
 			<metallicity>0.02</metallicity>
-			<distance />
+			<distance>250</distance>
 			<temperature>1911.5</temperature>
 			<rightascension>09 53 40</rightascension>
 			<declination>-45 39 33</declination>
@@ -37365,8 +37365,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-2 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.847</mass>
-			<radius>1.079</radius>
+			<mass>0.914</mass>
+			<radius>1.117</radius>
 			<orbit>
 				<period>2.15222144</period>
 				<semimajoraxis>0.03138</semimajoraxis>
@@ -37379,10 +37379,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>K1V</spectraltype>
-			<mass>0.77</mass>
-			<radius>1.079</radius>
+			<mass>0.89</mass>
+			<radius>0.840</radius>
 			<metallicity>-0.08</metallicity>
-			<distance>147</distance>
+			<distance>165.8</distance>
 			<temperature>1170.7</temperature>
 			<rightascension>20 30 54</rightascension>
 			<declination>+06 25 46</declination>
@@ -38058,8 +38058,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity />
 			<distance />
 			<temperature>5700.0</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>05 04 20</rightascension>
+			<declination>-06 13 47</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -38326,8 +38326,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>-0.08</metallicity>
 			<distance>180</distance>
 			<temperature>1207.5</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>12 42 28</rightascension>
+			<declination>-30 38 24</declination>
 			<angulardistance />
 			<magV>11.6</magV>
 			<magI />
@@ -38367,10 +38367,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.5</mass>
 			<radius>1.08</radius>
 			<metallicity />
-			<distance />
+			<distance>160</distance>
 			<temperature>5700.0</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>12 51 56</rightascension>
+			<declination>-42 04 25</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -38411,7 +38411,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.717</mass>
 			<radius>0.667</radius>
 			<metallicity>-0.01</metallicity>
-			<distance />
+			<distance>80</distance>
 			<temperature>1317.6</temperature>
 			<rightascension>10 19 38</rightascension>
 			<declination>-09 48 23</declination>
@@ -38674,10 +38674,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.378</mass>
 			<radius>1.115</radius>
 			<metallicity />
-			<distance />
+			<distance>170</distance>
 			<temperature>5700.0</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>06 04 21</rightascension>
+			<declination>-16 57 55</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -38804,10 +38804,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.5</mass>
 			<radius>1.3</radius>
 			<metallicity />
-			<distance />
+			<distance>140</distance>
 			<temperature>1188.1</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>23 13 59</rightascension>
+			<declination>08 45 41</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -39045,13 +39045,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-58 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.1</mass>
-			<radius>1.3</radius>
+			<mass>0.89</mass>
+			<radius>1.37</radius>
 			<orbit>
-				<period>5</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<period>5.017180</period>
+				<semimajoraxis>0.0561</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.4</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -39059,13 +39059,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1</mass>
-			<radius>1.3</radius>
+			<mass>0.89</mass>
+			<radius>1.37</radius>
 			<metallicity />
-			<distance />
+			<distance>300</distance>
 			<temperature>1167.9</temperature>
-			<rightascension />
-			<declination />
+			<rightascension>18 18 48</rightascension>
+			<declination>45 10 19</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -39088,13 +39088,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-59 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.7</mass>
-			<radius>0.9</radius>
+			<mass>0.863</mass>
+			<radius>0.775</radius>
 			<orbit>
-				<period>7.9</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<period>7.919585</period>
+				<semimajoraxis>0.0697</semimajoraxis>
+				<eccentricity>0.100</eccentricity>
+				<inclination>89.27</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -39102,10 +39102,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.7</mass>
-			<radius>0.9</radius>
+			<mass>0.719</mass>
+			<radius>0.613</radius>
 			<metallicity />
-			<distance />
+			<distance>125</distance>
 			<temperature>4650.0</temperature>
 			<rightascension />
 			<declination />
@@ -39175,13 +39175,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-60 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.5</mass>
-			<radius>0.9</radius>
+			<mass>0.514</mass>
+			<radius>0.86</radius>
 			<orbit>
-				<period>4.3</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<period>4.3050011</period>
+				<semimajoraxis>0.0531</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.9</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -39189,11 +39189,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.5</mass>
-			<radius>0.9</radius>
+			<mass>0.514</mass>
+			<radius>0.86</radius>
 			<metallicity />
-			<distance />
-			<temperature>5900.0</temperature>
+			<distance>400</distance>
+			<temperature>5900</temperature>
 			<rightascension />
 			<declination />
 			<angulardistance />
@@ -39366,7 +39366,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.03</radius>
 			<metallicity>-0.08</metallicity>
 			<distance>350</distance>
-			<temperature>5550</temperature>
+			<temperature>5400</temperature>
 			<rightascension>06 44 28</rightascension>
 			<declination>-32 51 30</declination>
 			<angulardistance />
@@ -39757,7 +39757,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1.23</mass>
 			<radius>1.37</radius>
 			<metallicity>-0.06</metallicity>
-			<distance>250</distance>
+			<distance>340</distance>
 			<temperature>6250</temperature>
 			<rightascension>02 44 09</rightascension>
 			<declination>-30 10 08</declination>
