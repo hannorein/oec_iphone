@@ -4,13 +4,13 @@
 	<id>WASP-59 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.7</mass>
-		<radius>0.9</radius>
+		<mass>0.863</mass>
+		<radius>0.775</radius>
 		<orbit>
-			<period>7.9</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<period>7.919585</period>
+			<semimajoraxis>0.0697</semimajoraxis>
+			<eccentricity>0.100</eccentricity>
+			<inclination>89.27</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -18,10 +18,10 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.7</mass>
-		<radius>0.9</radius>
+		<mass>0.719</mass>
+		<radius>0.613</radius>
 		<metallicity />
-		<distance />
+		<distance>125</distance>
 		<temperature>4650.0</temperature>
 		<rightascension />
 		<declination />
