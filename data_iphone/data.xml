@@ -1,4 +1,4 @@
-<planets date="2013-05-26" name="data" planets="915">
+<planets date="2013-05-27" name="data" planets="915">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -5731,6 +5731,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>1397.3</temperature>
 			<rightascension>07 20 40</rightascension>
 			<declination>+37 08 26</declination>
+			<magV>12.34</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
@@ -19752,6 +19753,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1220.6</temperature>
 			<rightascension>19 21 39</rightascension>
 			<declination>+38 20 37</declination>
+			<magV>10.77</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -19781,6 +19783,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1220.6</temperature>
 			<rightascension>19 21 39</rightascension>
 			<declination>+38 20 37</declination>
+			<magV>10.77</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -21707,6 +21710,7 @@ Credit: Joe Gallagher</imagedescription>
 			<temperature>4925</temperature>
 			<rightascension>18 52 51</rightascension>
 			<declination>+45 20 59</declination>
+			<magV>13.8</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21739,6 +21743,7 @@ Credit: Joe Gallagher</imagedescription>
 			<temperature>4925</temperature>
 			<rightascension>18 52 51</rightascension>
 			<declination>+45 20 59</declination>
+			<magV>13.8</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21771,6 +21776,7 @@ Credit: Joe Gallagher</imagedescription>
 			<temperature>4925</temperature>
 			<rightascension>18 52 51</rightascension>
 			<declination>+45 20 59</declination>
+			<magV>13.8</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21803,6 +21809,7 @@ Credit: Joe Gallagher</imagedescription>
 			<temperature>4925</temperature>
 			<rightascension>18 52 51</rightascension>
 			<declination>+45 20 59</declination>
+			<magV>13.8</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21839,6 +21846,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<temperature>4925</temperature>
 			<rightascension>18 52 51</rightascension>
 			<declination>+45 20 59</declination>
+			<magV>13.8</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -24369,7 +24377,7 @@ Credit: Kains et al (2013).</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G or K</spectraltype>
+			<spectraltype>G2V</spectraltype>
 			<mass>1.18</mass>
 			<radius>1.16</radius>
 			<metallicity>0.28</metallicity>
@@ -24377,6 +24385,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<temperature>1414.1</temperature>
 			<rightascension>17 51 28</rightascension>
 			<declination>-29 52 34</declination>
+			<magV>15.780</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
@@ -24400,7 +24409,7 @@ Credit: Kains et al (2013).</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G or K</spectraltype>
+			<spectraltype>G</spectraltype>
 			<mass>0.82</mass>
 			<radius>0.831</radius>
 			<metallicity>0.12</metallicity>
@@ -24408,6 +24417,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<temperature>940.0</temperature>
 			<rightascension>10 53 18</rightascension>
 			<declination>-61 24 20</declination>
+			<magV>16.96</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
@@ -28009,6 +28019,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>6050</temperature>
 			<rightascension>01 57 03</rightascension>
 			<declination>+00 45 32</declination>
+			<magV>10.56</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
