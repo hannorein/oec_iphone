@@ -4480,9 +4480,18 @@ Credit: Jonah Gallagher.</imagedescription>
 		<declination>+46 41 16</declination>
 		<distance>320</distance>
 		<star>
+			<name>HAT-P-32</name>
+			<name>TYC 3281-800-1</name>
+			<name>2MASS J02041028+4641162</name>
+			<name>GSC 03281-00800</name>
+			<name>UCAC2 47486078</name>
+			<name>UCAC3 274-27296</name>
 			<mass>1.176</mass>
 			<radius>1.387</radius>
 			<magV>11.29</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.251</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.024</magH>
+			<magK errorminus="0.022" errorplus="0.022">9.990</magK>
 			<metallicity>-0.16</metallicity>
 			<spectraltype>F/G</spectraltype>
 			<planet>
@@ -4503,7 +4512,6 @@ Credit: Jonah Gallagher.</imagedescription>
 				<temperature>1677.4</temperature>
 				<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2454420.44637</transittime>
 			</planet>
-			<name>HAT-P-32</name>
 			<temperature>6001.0</temperature>
 		</star>
 	</system>
@@ -5041,10 +5049,21 @@ Credit: Jonah Gallagher.</imagedescription>
 		<declination>+37 08 26</declination>
 		<distance>480</distance>
 		<star>
+			<name>HAT-P-9</name>
+			<name>TYC 2463-281-1</name>
+			<name>GSC 02463-00281</name>
+			<name>2MASS J07204044+3708263</name>
+			<name>SDSS J072040.44+370826.3</name>
+			<name>UCAC2 44825174</name>
 			<mass>1.28</mass>
 			<radius>1.32</radius>
 			<metallicity>0.12</metallicity>
 			<spectraltype>F</spectraltype>
+			<magB errorminus="0.23" errorplus="0.23">12.35</magB>
+			<magV errorminus="0.27" errorplus="0.27">12.34</magV>
+			<magJ errorminus="0.022" errorplus="0.022">11.274</magJ>
+			<magH errorminus="0.03" errorplus="0.03">11.04</magH>
+			<magK errorminus="0.021" errorplus="0.021">11.015</magK>
 			<planet>
 				<name>HAT-P-9 b</name>
 				<name>2MASS J07204044+3708263 b</name>
@@ -5063,7 +5082,6 @@ Credit: Jonah Gallagher.</imagedescription>
 				<temperature>1397.3</temperature>
 				<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454417.9085</transittime>
 			</planet>
-			<name>HAT-P-9</name>
 			<temperature>6350.0</temperature>
 		</star>
 	</system>
@@ -16810,9 +16828,18 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<declination>+47 52 90</declination>
 		<distance>180</distance>
 		<star>
+			<name>Kepler-22</name>
+			<name>GSC 03546-02301</name>
+			<name>KIC 10593626</name>
+			<name>KOI-87</name>
+			<name>2MASS J19165219+4753040</name>
+			<name>UCAC3 276-148830</name>
 			<mass>0.97</mass>
 			<radius>0.979</radius>
 			<spectraltype>G5</spectraltype>
+			<magJ errorminus="0.021" errorplus="0.021">10.523</magJ>
+			<magH errorminus="0.017" errorplus="0.017">10.211</magH>
+			<magK errorminus="0.014" errorplus="0.014">10.152</magK>
 			<planet>
 				<name>Kepler-22 b</name>
 				<name>KIC10593626 b</name>
@@ -16834,7 +16861,6 @@ Scientists do not yet know if the planet has a predominantly rocky, gaseous or l
 Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<temperature>249.6</temperature>
 			</planet>
-			<name>Kepler-22</name>
 			<temperature>5510.0</temperature>
 		</star>
 	</system>
@@ -16844,9 +16870,23 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<declination>+49 28 45</declination>
 		<distance>1018</distance>
 		<star>
+			<name>Kepler-23</name>
+			<name>GSC 03564-01806</name>
+			<name>CMC14 J193652.5+492845</name>
+			<name>GSC2.3 N2HD003526</name>
+			<name>GSC2 N03021013526</name>
+			<name>KIC 11512246</name>
+			<name>KOI-168</name>
+			<name>2MASS J19365254+4928452</name>
+			<name>PPMX J193652.5+492845</name>
+			<name>UCAC3 279-152018</name>
+			<name>USNO-B1.0 1394-00316778</name>
 			<mass>1.11</mass>
 			<radius>1.52</radius>
 			<metallicity>-0.09</metallicity>
+			<magJ errorminus="0.021" errorplus="0.021">12.353</magJ>
+			<magH errorminus="0.017" errorplus="0.017">12.047</magH>
+			<magK errorminus="0.019" errorplus="0.019">11.998</magK>
 			<planet>
 				<name>Kepler-23 b</name>
 				<name>KOI 168.01</name>
@@ -16877,7 +16917,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<new>0</new>
 				<temperature>995.2</temperature>
 			</planet>
-			<name>Kepler-23</name>
 			<temperature>5760.0</temperature>
 		</star>
 	</system>
@@ -16887,9 +16926,16 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<declination>+38 20 37</declination>
 		<distance>1224</distance>
 		<star>
+			<name>Kepler-24</name>
+			<name>2MASS J19213918+3820375</name>
+			<name>KIC 3231341</name>
+			<name>KOI-1102</name>
 			<mass>1.03</mass>
 			<radius>1.07</radius>
 			<metallicity>-0.24</metallicity>
+			<magJ errorminus="0.023" errorplus="0.023">13.763</magJ>
+			<magH errorminus="0.03" errorplus="0.03">13.45</magH>
+			<magK errorminus="0.04" errorplus="0.04">13.37</magK>
 			<planet>
 				<name>Kepler-24 b</name>
 				<name>KOI 1102.02</name>
@@ -16918,7 +16964,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<new>0</new>
 				<temperature>812.5</temperature>
 			</planet>
-			<name>Kepler-24</name>
 			<temperature>5800.0</temperature>
 		</star>
 	</system>
@@ -16928,8 +16973,14 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<declination>+38 20 37</declination>
 		<distance>191</distance>
 		<star>
+			<name>Kepler-25</name>
 			<mass>1.22</mass>
 			<radius>1.36</radius>
+			<magB errorminus="0.07" errorplus="0.07">11.32</magB>
+			<magV errorminus="0.06" errorplus="0.06">10.77</magV>
+			<magJ errorminus="0.020" errorplus="0.020">9.764</magJ>
+			<magH errorminus="0.020" errorplus="0.020">9.532</magH>
+			<magK errorminus="0.017" errorplus="0.017">9.493</magK>
 			<planet>
 				<name>Kepler-25 b</name>
 				<name>KIC 3231341 b</name>
@@ -16960,7 +17011,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<new>0</new>
 				<temperature>959.7</temperature>
 			</planet>
-			<name>Kepler-25</name>
 			<temperature>6190.0</temperature>
 		</star>
 	</system>
@@ -16973,6 +17023,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.65</mass>
 			<radius>0.59</radius>
 			<metallicity>-0.21</metallicity>
+			<magJ errorminus="0.027" errorplus="0.027">13.408</magJ>
+			<magH errorminus="0.023" errorplus="0.023">12.746</magH>
+			<magK errorminus="0.026" errorplus="0.026">12.630</magK>
 			<planet>
 				<name>Kepler-26 b</name>
 				<name>KOI 250.01</name>
@@ -17017,6 +17070,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.65</mass>
 			<radius>0.59</radius>
 			<metallicity>0.41</metallicity>
+			<magJ errorminus="0.04" errorplus="0.04">14.48</magJ>
+			<magH errorminus="0.03" errorplus="0.03">14.03</magH>
+			<magK errorminus="0.07" errorplus="0.07">14.12</magK>
 			<planet>
 				<name>Kepler-27 b</name>
 				<name>KOI 841.01</name>
@@ -17060,6 +17116,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.75</mass>
 			<radius>0.70</radius>
 			<metallicity>0.34</metallicity>
+			<magJ errorminus="0.023" errorplus="0.023">13.334</magJ>
+			<magH errorminus="0.024" errorplus="0.024">12.767</magH>
+			<magK errorminus="0.028" errorplus="0.028">12.719</magK>
 			<planet>
 				<name>Kepler-28 b</name>
 				<name>KOI-870.01</name>
@@ -17102,6 +17161,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<star>
 			<mass>1.0</mass>
 			<radius>0.96</radius>
+			<magJ errorminus="0.03" errorplus="0.03">14.13</magJ>
+			<magH errorminus="0.03" errorplus="0.03">13.67</magH>
+			<magK errorminus="0.04" errorplus="0.04">13.66</magK>
 			<planet>
 				<name>Kepler-29 b</name>
 				<name>KOI 738.01</name>
@@ -17148,6 +17210,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.99</mass>
 			<radius>0.95</radius>
 			<metallicity>0.18</metallicity>
+			<magJ errorminus="0.03" errorplus="0.03">14.00</magJ>
+			<magH errorminus="0.04" errorplus="0.04">13.62</magH>
+			<magK errorminus="0.05" errorplus="0.05">13.58</magK>
 			<planet>
 				<name>Kepler-30 b</name>
 				<name>KOI 806.01</name>
@@ -17704,11 +17769,18 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<declination>+46 55 13</declination>
 		<distance>1189</distance>
 		<binary>
+			<name>Kepler-47</name>
+			<name>2MASS J19411149+4655136</name>
+			<name>KIC 10020423</name>
+			<name>KOI-3154</name>
 			<period>7.4483</period>
 			<semimajoraxis>0.0836</semimajoraxis>
 			<eccentricity>0.0234</eccentricity>
 			<periastron>232.3</periastron>
 			<inclination>89.34</inclination>
+			<magJ errorminus="0.028" errorplus="0.028">13.970</magJ>
+			<magH errorminus="0.04" errorplus="0.04">13.64</magH>
+			<magK errorminus="0.04" errorplus="0.04">13.54</magK>
 			<star>
 				<mass>1.043</mass>
 				<radius>0.964</radius>
@@ -18425,12 +18497,19 @@ Credit: Joe Gallagher</imagedescription>
 			<name>Kepler-62</name>
 			<name>KIC-9002278</name>
 			<name>KOI-701</name>
+			<name>2MASS J18525105+4520595</name>
+			<name>GPM 283.213142+45.350276</name>
 			<mass>0.69</mass>
 			<radius>0.63</radius>
 			<temperature>4925</temperature>
 			<age>7</age>
 			<metallicity>-0.37</metallicity>
 			<spectraltype>K2V</spectraltype>
+			<magB>14.4</magB>
+			<magV>13.8</magV>
+			<magJ errorminus="0.022" errorplus="0.022">12.256</magJ>
+			<magH errorminus="0.019" errorplus="0.019">11.739</magH>
+			<magK errorminus="0.021" errorplus="0.021">11.659</magK>
 			<planet>
 				<name>Kepler-62 b</name>
 				<name>KIC-9002278 b</name>
@@ -18976,6 +19055,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<temperature errorminus="60" errorplus="60">5520</temperature>
 			<metallicity errorminus="0.05" errorplus="0.05">0.20</metallicity>
 			<spectraltype>G5V</spectraltype>
+			<magJ errorminus="0.023" errorplus="0.023">12.758</magJ>
+			<magH errorminus="0.019" errorplus="0.019">12.444</magH>
+			<magK errorminus="0.018" errorplus="0.018">12.361</magK>
 			<planet>
 				<name>KOI-127 b</name>
 				<name>KIC 8359498 b</name>
@@ -20487,7 +20569,8 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>1.18</mass>
 			<radius>1.16</radius>
 			<metallicity>0.28</metallicity>
-			<spectraltype>G or K</spectraltype>
+			<spectraltype>G2V</spectraltype>
+			<magV>15.780</magV>
 			<planet>
 				<name>OGLE-TR-10 b</name>
 				<name>V5125 Sgr b</name>
@@ -20517,7 +20600,10 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>0.82</mass>
 			<radius>0.831</radius>
 			<metallicity>0.12</metallicity>
-			<spectraltype>G or K</spectraltype>
+			<spectraltype>G</spectraltype>
+			<magV>16.96</magV>
+			<magI>15.55</magI>
+			<magK>14.14</magK>
 			<planet>
 				<name>OGLE-TR-111 b</name>
 				<list>Confirmed planets</list>
@@ -20576,6 +20662,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<radius>1.34</radius>
 			<metallicity>0.37</metallicity>
 			<spectraltype>F</spectraltype>
+			<magI>15.72</magI>
 			<planet>
 				<name>OGLE-TR-132 b</name>
 				<list>Confirmed planets</list>
@@ -23929,10 +24016,19 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+00 45 32</declination>
 		<distance>200</distance>
 		<star>
+			<name>WASP-72</name>
+			<name>TYC 30-116-1</name>
+			<name>2MASS J01570320+0045318</name>
+			<name>PPM 700097</name>
 			<mass>1.21</mass>
 			<radius>1.27</radius>
 			<temperature>6050</temperature>
 			<spectraltype>F8</spectraltype>
+			<magB errorminus="0.11" errorplus="0.11">11.35</magB>
+			<magV errorminus="0.09" errorplus="0.09">10.56</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.636</magJ>
+			<magH errorminus="0.022" errorplus="0.022">9.416</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.320</magK>
 			<planet>
 				<name>WASP-71 b</name>
 				<name>TYC 30-116-1 b</name>
@@ -23952,7 +24048,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<new>0</new>
 				<temperature>1888.1</temperature>
 			</planet>
-			<name>WASP-72</name>
 		</star>
 	</system>
 	<system>
