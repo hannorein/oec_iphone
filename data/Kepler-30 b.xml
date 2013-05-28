@@ -6,16 +6,16 @@
 	<id>Kepler-30 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.2</mass>
-		<radius>0.33718</radius>
+		<mass>0.035546</mass>
+		<radius>0.355</radius>
 		<orbit>
-			<period>29.329</period>
+			<period>29.334</period>
 			<semimajoraxis>0.18</semimajoraxis>
-			<eccentricity />
-			<inclination />
-			<periastron />
+			<eccentricity>0.042</eccentricity>
+			<inclination>90.18</inclination>
+			<periastron>-31</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>0.031</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
@@ -24,7 +24,7 @@
 		<radius>0.95</radius>
 		<metallicity>0.18</metallicity>
 		<distance>924.9</distance>
-		<temperature>556.9</temperature>
+		<temperature>5498.0</temperature>
 		<rightascension>19 01 08</rightascension>
 		<declination>+38 56 50</declination>
 		<angulardistance />
@@ -37,7 +37,7 @@
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
 	<lastupdate>12/01/26</lastupdate>
-	<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit.</description>
+	<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
