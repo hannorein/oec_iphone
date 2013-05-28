@@ -17490,7 +17490,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<name>Kepler-35</name>
 		<rightascension>19 37 59</rightascension>
 		<declination>+46 41 23</declination>
-		<distance>1645</distance>
+		<distance errorminus="43" errorplus="43">1645</distance>
 		<binary>
 			<period>20.733</period>
 			<semimajoraxis>0.17617</semimajoraxis>
@@ -17931,8 +17931,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<rightascension>19 57 38</rightascension>
 		<declination>+44 02 06</declination>
 		<star>
-			<mass>1.374</mass>
-			<radius>1.793</radius>
+			<mass errorminus="0.059" errorplus="0.040">1.374</mass>
+			<radius errorminus="0.062" errorplus="0.043">1.793</radius>
 			<metallicity>0.04</metallicity>
 			<planet>
 				<name>Kepler-5 b</name>
@@ -17940,12 +17940,12 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>KIC 8191672 b</name>
 				<name>KOI-18 b</name>
 				<list>Confirmed planets</list>
-				<mass>2.114</mass>
-				<radius>1.431</radius>
-				<period>3.54846</period>
+				<mass errorminus="0.059" errorplus="0.056">2.114</mass>
+				<radius errorminus="0.052" errorplus="0.041">1.431</radius>
+				<period errorminus="0.000032" errorplus="0.000032">3.548460</period>
 				<semimajoraxis>0.05064</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>86.3</inclination>
+				<inclination errorminus="0.5" errorplus="0.5">86.3</inclination>
 				<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2454955.90122</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/04/23</lastupdate>
@@ -17954,7 +17954,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<temperature>1652.1</temperature>
 			</planet>
 			<name>Kepler-5</name>
-			<temperature>6297.0</temperature>
+			<temperature errorminus="60" errorplus="60">6297.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -18368,8 +18368,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<rightascension>19 47 21</rightascension>
 		<declination>+48 14 24</declination>
 		<star>
-			<mass>1.209</mass>
-			<radius>1.391</radius>
+			<mass errorminus="0.038" errorplus="0.044">1.209</mass>
+			<radius errorminus="0.034" errorplus="0.017">1.391</radius>
 			<metallicity>0.34</metallicity>
 			<planet>
 				<name>Kepler-6 b</name>
@@ -18378,11 +18378,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>KOI-17 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.669</mass>
-				<radius>1.323</radius>
-				<period>3.234723</period>
+				<radius errorminus="0.029" errorplus="0.026">1.323</radius>
+				<period errorminus="0.000017" errorplus="0.000017">3.234723</period>
 				<semimajoraxis>0.04567</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>86.8</inclination>
+				<inclination errorminus="0.3" errorplus="0.3">86.8</inclination>
 				<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454954.48636</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/12/01</lastupdate>
@@ -18891,6 +18891,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>Kepler-9</name>
 		<rightascension>19 02 18</rightascension>
 		<declination>+38 24 03</declination>
+		<distance>650</distance>
 		<star>
 			<mass>1</mass>
 			<radius>1.1</radius>
@@ -18938,8 +18939,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<list>Confirmed planets</list>
 				<mass>0.022</mass>
 				<radius>0.147</radius>
-				<period>1.592851</period>
+				<period errorminus="0.000045" errorplus="0.000045">1.592851</period>
 				<semimajoraxis>0.0273</semimajoraxis>
+				<transittime errorminus="0.0033" errorplus="0.0018" unit="BJD">2455015.0943</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/11/23</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -18955,8 +18957,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<rightascension>18 54 31</rightascension>
 		<declination>+48 23 28</declination>
 		<star>
-			<mass>0.578</mass>
-			<radius>0.548</radius>
+			<mass errorminus="0.032" errorplus="0.032">0.578</mass>
+			<radius errorminus="0.026" errorplus="0.026">0.548</radius>
 			<magV>13</magV>
 			<metallicity>-0.23</metallicity>
 			<planet>
@@ -18966,6 +18968,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<period>9.8844</period>
 				<semimajoraxis>0.0751</semimajoraxis>
 				<inclination>88.42</inclination>
+				<transittime errorminus="0.0102" errorplus="0.0102" unit="BJD">2454971.4045</transittime>
 				<description>This planet was not flagged as a potential planet candidate by the Kepler data pipeline. Citizen scientists discovered the transit simply by looking at many light curves by eye using the online tool at planethunters.org.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/22</lastupdate>
@@ -18980,8 +18983,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<rightascension>18 57 06</rightascension>
 		<declination>+41 32 06</declination>
 		<star>
-			<mass>1.027</mass>
-			<radius>1.27</radius>
+			<mass errorminus="0.042" errorplus="0.042">1.027</mass>
+			<radius errorminus="0.17" errorplus="0.17">1.27</radius>
 			<magV>15</magV>
 			<metallicity>0.11</metallicity>
 			<planet>
@@ -18991,6 +18994,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<period>49.76971</period>
 				<semimajoraxis>0.2672</semimajoraxis>
 				<inclination>89.2</inclination>
+				<transittime errorminus="0.0028" errorplus="0.0028" unit="BJD">2454992.9877</transittime>
 				<description>This planet was not flagged as a potential planet candidate by the Kepler data pipeline. Citizen scientists discovered the transit simply by looking at many light curves by eye using the online tool at planethunters.org.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/22</lastupdate>
