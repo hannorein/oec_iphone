@@ -578,9 +578,12 @@
 			<star>
 				<mass errorminus="0.015" errorplus="0.015">0.905</mass>
 				<radius errorminus="0.010" errorplus="0.010">0.943</radius>
-				<magV>5.95</magV>
+				<magV errorminus="0.05" errorplus="0.05">5.95</magV>
+				<magJ errorminus="0.244" errorplus="0.244">4.768</magJ>
+				<magH errorminus="0.234" errorplus="0.234">4.265</magH>
+				<magK errorminus="0.036" errorplus="0.036">4.015</magK>
 				<metallicity>0.31</metallicity>
-				<spectraltype>K0IV-V</spectraltype>
+				<spectraltype>G8V</spectraltype>
 				<planet>
 					<name>55 Cnc b</name>
 					<list>Confirmed planets</list>
@@ -662,8 +665,11 @@
 			</star>
 			<star>
 				<mass>0.2</mass>
+				<spectraltype>M4</spectraltype>
 				<magV>13</magV>
-				<spectraltype>M</spectraltype>
+				<magJ errorminus="0.027" errorplus="0.027">8.560</magJ>
+				<magH errorminus="0.040" errorplus="0.040">7.933</magH>
+				<magK errorminus="0.023" errorplus="0.023">7.666</magK>
 				<name>55 Cnc B</name>
 			</star>
 		</binary>
@@ -1508,6 +1514,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass errorminus="0.15" errorplus="0.15">0.95</mass>
 			<radius errorminus="0.05" errorplus="0.05">1.11</radius>
 			<magV>13.6</magV>
+			<magJ errorminus="0.029" errorplus="0.029">12.462</magJ>
+			<magH errorminus="0.026" errorplus="0.026">12.218</magH>
+			<magK errorminus="0.027" errorplus="0.027">12.149</magK>
 			<metallicity errorminus="0.25" errorplus="0.25">-0.3</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<planet>
@@ -1542,7 +1551,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>0.89</mass>
 			<radius>0.79</radius>
-			<magV>15.22</magV>
+			<magV>15.216</magV>
+			<magJ errorminus="0.025" errorplus="0.025">12.567</magJ>
+			<magH errorminus="0.028" errorplus="0.028">11.929</magH>
+			<magK errorminus="0.021" errorplus="0.021">11.782</magK>
 			<metallicity>0.26</metallicity>
 			<spectraltype>K1V</spectraltype>
 			<planet>
@@ -1576,7 +1588,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>1.27</mass>
 			<radius>1.37</radius>
-			<magV>12.94</magV>
+			<magV errorminus="0.38" errorplus="0.38">12.80</magV>
+			<magJ errorminus="0.021" errorplus="0.021">11.589</magJ>
+			<magH errorminus="0.029" errorplus="0.029">11.416</magH>
+			<magK errorminus="0.022" errorplus="0.022">11.248</magK>
 			<metallicity>-0.03</metallicity>
 			<spectraltype>F6V</spectraltype>
 			<planet>
@@ -1610,7 +1625,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>1.078</mass>
 			<radius>1.116</radius>
-			<magV>15.52</magV>
+			<magV errorminus="0.052" errorplus="0.052">15.515</magV>
+			<magJ errorminus="0.03" errorplus="0.03">14.02</magJ>
+			<magH errorminus="0.003" errorplus="0.03">13.63</magH>
+			<magK errorminus="0.04" errorplus="0.04">13.56</magK>
 			<metallicity>0.16</metallicity>
 			<spectraltype>G2V</spectraltype>
 			<planet>
@@ -1642,6 +1660,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>1.09</mass>
 			<radius>1.01</radius>
 			<magV>15.04</magV>
+			<magJ errorminus="0.024" errorplus="0.024">13.710</magJ>
+			<magH errorminus="0.029" errorplus="0.029">13.406</magH>
+			<magK errorminus="0.04" errorplus="0.04">13.38</magK>
 			<metallicity>0.01</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<planet>
@@ -1675,7 +1696,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>1.13</mass>
 			<radius>1.21</radius>
-			<magV>16.03</magV>
+			<magV errorminus="0.070" errorplus="0.070">16.03</magV>
+			<magJ errorminus="0.04" errorplus="0.04">14.32</magJ>
+			<magH errorminus="0.05" errorplus="0.05">14.01</magH>
+			<magK errorminus="0.05" errorplus="0.05">13.81</magK>
 			<metallicity>0.05</metallicity>
 			<spectraltype>F9V</spectraltype>
 			<planet>
@@ -1709,7 +1733,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>1.098</mass>
 			<radius>1.19</radius>
-			<magV>15.64</magV>
+			<magV errorminus="0.43" errorplus="0.43">16.03</magV>
+			<magJ errorminus="0.029" errorplus="0.029">13.496</magJ>
+			<magH errorminus="0.03" errorplus="0.03">12.98</magH>
+			<magK errorminus="0.04" errorplus="0.04">12.85</magK>
 			<metallicity>0.19</metallicity>
 			<spectraltype>G5V</spectraltype>
 			<planet>
@@ -1741,7 +1768,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>1.04</mass>
 			<radius>1.59</radius>
-			<magV>15.46</magV>
+			<magV errorminus="0.43" errorplus="0.43">15.88</magV>
+			<magJ errorminus="0.04" errorplus="0.04">13.17</magJ>
+			<magH errorminus="0.06" errorplus="0.06">12.62</magH>
+			<magK errorminus="0.05" errorplus="0.05">12.47</magK>
 			<spectraltype>G2V</spectraltype>
 			<planet>
 				<name>CoRoT-17 b</name>
@@ -1772,7 +1802,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>0.95</mass>
 			<radius>1</radius>
-			<magV>14.99</magV>
+			<magV errorminus="0.1" errorplus="0.1">15.00</magV>
+			<magJ errorminus="0.024" errorplus="0.024">13.441</magJ>
+			<magH errorminus="0.03" errorplus="0.03">13.08</magH>
+			<magK errorminus="0.03" errorplus="0.03">13.01</magK>
 			<metallicity>-0.1</metallicity>
 			<spectraltype>G9V</spectraltype>
 			<planet>
@@ -1804,7 +1837,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>1.21</mass>
 			<radius>1.65</radius>
-			<magV>14.78</magV>
+			<magV>14.007</magV>
+			<magJ errorminus="0.024" errorplus="0.024">12.324</magJ>
+			<magH errorminus="0.022" errorplus="0.022">11.961</magH>
+			<magK errorminus="0.024" errorplus="0.024">11.837</magK>
 			<metallicity>-0.02</metallicity>
 			<spectraltype>F9V</spectraltype>
 			<planet>
@@ -1836,7 +1872,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass errorminus="0.06" errorplus="0.06">0.97</mass>
 			<radius errorminus="0.018" errorplus="0.018">0.902</radius>
-			<magV>12.57</magV>
+			<magV>12.568</magV>
+			<magJ errorminus="0.028" errorplus="0.028">10.783</magJ>
+			<magH errorminus="0.04" errorplus="0.04">10.44</magH>
+			<magK errorminus="0.03" errorplus="0.03">10.31</magK>
 			<spectraltype>G7V</spectraltype>
 			<planet>
 				<name>CoRoT-2 b</name>
@@ -1870,6 +1909,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>1.14</mass>
 			<radius>0.92</radius>
 			<magV>14.66</magV>
+			<magJ errorminus="0.026" errorplus="0.026">12.991</magJ>
+			<magH errorminus="0.027" errorplus="0.027">12.652</magH>
+			<magK errorminus="0.029" errorplus="0.029">12.513</magK>
 			<metallicity>0.14</metallicity>
 			<spectraltype>G2V</spectraltype>
 			<planet>
@@ -1931,6 +1973,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>1.14</mass>
 			<radius>1.61</radius>
 			<magV>15.63</magV>
+			<magJ errorminus="0.026" errorplus="0.026">12.944</magJ>
+			<magH errorminus="0.029" errorplus="0.029">12.450</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.36</magK>
 			<metallicity>0.05</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<planet>
@@ -1962,7 +2007,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass errorminus="0.09" errorplus="0.09">1.37</mass>
 			<radius errorminus="0.09" errorplus="0.09">1.56</radius>
-			<magV>13.3</magV>
+			<magV>13.292</magV>
+			<magJ errorminus="0.03" errorplus="0.03">11.94</magJ>
+			<magH errorminus="0.04" errorplus="0.04">11.71</magH>
+			<magK errorminus="0.03" errorplus="0.03">11.62</magK>
 			<metallicity errorminus="0.06" errorplus="0.06">-0.02</metallicity>
 			<spectraltype>F3V</spectraltype>
 			<planet>
@@ -1996,6 +2044,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>1.1</mass>
 			<radius>1.15</radius>
 			<magV>13.7</magV>
+			<magJ errorminus="0.026" errorplus="0.026">12.619</magJ>
+			<magH errorminus="0.029" errorplus="0.029">12.359</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.29</magK>
 			<metallicity>0.05</metallicity>
 			<spectraltype>F8V</spectraltype>
 			<planet>
@@ -2030,6 +2081,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass errorminus="0.02" errorplus="0.02">1.00</mass>
 			<radius errorminus="0.04" errorplus="0.04">1.186</radius>
 			<magV>14</magV>
+			<magJ errorminus="0.024" errorplus="0.024">12.871</magJ>
+			<magH errorminus="0.03" errorplus="0.03">12.61</magH>
+			<magK errorminus="0.026" errorplus="0.026">12.546</magK>
 			<metallicity errorminus="0.06" errorplus="0.06">-0.25</metallicity>
 			<spectraltype>F9V</spectraltype>
 			<planet>
@@ -2062,9 +2116,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass errorminus="0.05" errorplus="0.05">1.05</mass>
 			<radius errorminus="0.026" errorplus="0.026">1.025</radius>
-			<magV>13.9</magV>
+			<magV errorminus="0.30" errorplus="0.30">13.80</magV>
+			<magJ errorminus="0.024" errorplus="0.024">12.518</magJ>
+			<magH errorminus="0.022" errorplus="0.022">12.228</magH>
+			<magK errorminus="0.024" errorplus="0.024">12.119</magK>
 			<metallicity>-0.2</metallicity>
-			<spectraltype>F9V</spectraltype>
+			<spectraltype>F5V</spectraltype>
 			<planet>
 				<name>CoRoT-6 b</name>
 				<name>CoRoT-Exo-6 b</name>
@@ -2095,9 +2152,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>0.93</mass>
 			<radius>0.87</radius>
-			<magV>11.67</magV>
+			<magV errorminus="0.15" errorplus="0.15">11.73</magV>
+			<magJ errorminus="0.024" errorplus="0.024">10.301</magJ>
+			<magH errorminus="0.022" errorplus="0.022">9.880</magH>
+			<magK errorminus="0.021" errorplus="0.021">9.806</magK>
 			<metallicity>0.03</metallicity>
-			<spectraltype>G9V</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<planet>
 				<name>CoRoT-7 b</name>
 				<name>CoRoT-Exo-7 b</name>
@@ -2146,7 +2206,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>0.88</mass>
 			<radius>0.77</radius>
-			<magV>14.8</magV>
+			<magV>14.797</magV>
+			<magJ errorminus="0.023" errorplus="0.023">12.154</magJ>
+			<magH errorminus="0.024" errorplus="0.024">11.641</magH>
+			<magK errorminus="0.021" errorplus="0.021">11.463</magK>
 			<metallicity>0.3</metallicity>
 			<spectraltype>K1V</spectraltype>
 			<planet>
@@ -2180,7 +2243,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<mass>0.99</mass>
 			<radius>0.94</radius>
-			<magV>13.7</magV>
+			<magV errorminus="0.31" errorplus="0.31">13.46</magV>
+			<magJ errorminus="0.028" errorplus="0.028">12.175</magJ>
+			<magH errorminus="0.021" errorplus="0.021">11.813</magH>
+			<magK errorminus="0.023" errorplus="0.023">11.688</magK>
 			<metallicity>-0.01</metallicity>
 			<spectraltype>G3V</spectraltype>
 			<planet>
@@ -2531,8 +2597,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>0.153</mass>
 			<radius>0.21</radius>
 			<magV>14.71</magV>
+			<magJ errorminus="0.024" errorplus="0.024">9.750</magJ>
+			<magH errorminus="0.024" errorplus="0.024">9.094</magH>
+			<magK errorminus="0.020" errorplus="0.020">8.782</magK>
 			<metallicity>0.39</metallicity>
-			<spectraltype>M</spectraltype>
+			<spectraltype>M4.5</spectraltype>
 			<planet>
 				<name>Gliese 1214 b</name>
 				<name>GJ 1214 b</name>
@@ -2840,6 +2909,9 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass>0.539</mass>
 			<radius>0.568</radius>
 			<magV>12.3</magV>
+			<magJ errorminus="0.026" errorplus="0.026">8.794</magJ>
+			<magH errorminus="0.023" errorplus="0.023">8.206</magH>
+			<magK errorminus="0.023" errorplus="0.023">7.989</magK>
 			<metallicity>0.20</metallicity>
 			<spectraltype>M1.5</spectraltype>
 			<temperature>3600</temperature>
@@ -2935,9 +3007,12 @@ Credit: Joe Gallagher.</imagedescription>
 		<star>
 			<mass>0.452</mass>
 			<radius>0.464</radius>
-			<magV>10.68</magV>
+			<magV errorminus="0.08" errorplus="0.08">10.59</magV>
+			<magJ errorminus="0.024" errorplus="0.024">6.900</magJ>
+			<magH errorminus="0.023" errorplus="0.023">6.319</magH>
+			<magK errorminus="0.016" errorplus="0.016">6.073</magK>
 			<metallicity>-0.32</metallicity>
-			<spectraltype>M2.5</spectraltype>
+			<spectraltype>M3.5</spectraltype>
 			<planet>
 				<name>Gliese 436 b</name>
 				<name>GJ 436 b</name>
@@ -3653,6 +3728,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>1.133</mass>
 			<radius>1.115</radius>
 			<magV>10.4</magV>
+			<magJ errorminus="0.026" errorplus="0.026">9.156</magJ>
+			<magH errorminus="0.030" errorplus="0.030">8.923</magH>
+			<magK errorminus="0.018" errorplus="0.018">8.858</magK>
 			<metallicity>0.13</metallicity>
 			<spectraltype>GOV</spectraltype>
 			<planet>
@@ -3685,7 +3763,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.81</mass>
 			<radius>0.75</radius>
-			<magV>9.59</magV>
+			<magV errorminus="0.02" errorplus="0.02">9.47</magV>
+			<magJ errorminus="0.029" errorplus="0.029">7.608</magJ>
+			<magH errorminus="0.021" errorplus="0.021">7.131</magH>
+			<magK errorminus="0.020" errorplus="0.020">7.009</magK>
 			<metallicity>0.31</metallicity>
 			<spectraltype>K4</spectraltype>
 			<planet>
@@ -3706,7 +3787,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>88.5</inclination>
 				<description>The star HAT-P-11b is located in the constellation Cygnus. The planetary companion HAT-P-11b is in the field of view of the Kepler spacecraft. The expected temperature is 878K. The planets orbit is highly inclined.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>09/05/09</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>790.9</temperature>
@@ -3725,6 +3806,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>0.73</mass>
 			<radius>0.7</radius>
 			<magV>12.84</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.794</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.236</magH>
+			<magK errorminus="0.016" errorplus="0.016">10.108</magK>
 			<metallicity>-0.29</metallicity>
 			<planet>
 				<name>HAT-P-12 b</name>
@@ -3755,7 +3839,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.22</mass>
 			<radius>1.56</radius>
-			<magV>10.62</magV>
+			<magV errorminus="0.06" errorplus="0.06">10.42</magV>
+			<magJ errorminus="0.018" errorplus="0.018">9.328</magJ>
+			<magH errorminus="0.017" errorplus="0.017">9.058</magH>
+			<magK errorminus="0.017" errorplus="0.017">8.975</magK>
 			<metallicity>0.43</metallicity>
 			<spectraltype>G4</spectraltype>
 			<planet>
@@ -3788,7 +3875,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.666</eccentricity>
 				<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/02/04</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<new>0</new>
 				<temperature>276.2</temperature>
@@ -3805,7 +3892,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.386</mass>
 			<radius>1.468</radius>
-			<magV>9.98</magV>
+			<magV errorminus="0.03" errorplus="0.03">9.99</magV>
+			<magJ errorminus="0.021" errorplus="0.021">9.094</magJ>
+			<magH errorminus="0.020" errorplus="0.020">8.927</magH>
+			<magK errorminus="0.019" errorplus="0.019">8.851</magK>
 			<metallicity>0.11</metallicity>
 			<spectraltype>F</spectraltype>
 			<planet>
@@ -3821,7 +3911,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>83.2</inclination>
 				<description>The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/08</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1445.9</temperature>
@@ -3839,7 +3929,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.013</mass>
 			<radius>1.08</radius>
-			<magV>12.16</magV>
+			<magV errorminus="0.024" errorplus="0.024">12.41</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.194</magJ>
+			<magH errorminus="0.029" errorplus="0.029">9.752</magH>
+			<magK errorminus="0.019" errorplus="0.019">9.641</magK>
 			<metallicity>0.22</metallicity>
 			<spectraltype>G5</spectraltype>
 			<planet>
@@ -3871,7 +3964,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.218</mass>
 			<radius>1.237</radius>
-			<magV>10.8</magV>
+			<magV errorminus="0.06" errorplus="0.06">10.91</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.850</magJ>
+			<magH errorminus="0.022" errorplus="0.022">9.623</magH>
+			<magK errorminus="0.020" errorplus="0.020">9.553</magK>
 			<metallicity>0.17</metallicity>
 			<spectraltype>F8</spectraltype>
 			<planet>
@@ -3902,7 +3998,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.857</mass>
 			<radius>0.837</radius>
-			<magV>10.54</magV>
+			<magV errorminus="0.03" errorplus="0.03">10.38</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.017</magJ>
+			<magH errorminus="0.029" errorplus="0.029">8.619</magH>
+			<magK errorminus="0.025" errorplus="0.025">8.544</magK>
 			<spectraltype>K</spectraltype>
 			<planet>
 				<name>HAT-P-17 b</name>
@@ -3951,6 +4050,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>0.77</mass>
 			<radius>0.749</radius>
 			<magV>12.76</magV>
+			<magJ errorminus="0.020" errorplus="0.020">10.822</magJ>
+			<magH errorminus="0.019" errorplus="0.019">10.340</magH>
+			<magK errorminus="0.017" errorplus="0.017">10.234</magK>
 			<metallicity>0.1</metallicity>
 			<spectraltype>K</spectraltype>
 			<planet>
@@ -3983,6 +4085,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>0.842</mass>
 			<radius>0.82</radius>
 			<magV>12.9</magV>
+			<magJ errorminus="0.020" errorplus="0.020">11.095</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.644</magH>
+			<magK errorminus="0.019" errorplus="0.019">10.546</magK>
 			<metallicity>0.23</metallicity>
 			<spectraltype>K</spectraltype>
 			<planet>
@@ -4014,7 +4119,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.36</mass>
 			<radius>1.64</radius>
-			<magV>8.71</magV>
+			<magV errorminus="0.01" errorplus="0.01">8.69</magV>
+			<magJ errorminus="0.027" errorplus="0.027">7.796</magJ>
+			<magH errorminus="0.038" errorplus="0.038">7.652</magH>
+			<magK errorminus="0.020" errorplus="0.020">7.603</magK>
 			<metallicity>0.14</metallicity>
 			<spectraltype>F8</spectraltype>
 			<planet>
@@ -4034,7 +4142,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>90</inclination>
 				<description>The star HAT-P-2 is located in the constellation Hercules and is between 2 and 3 billion years old.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/05</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1343.6</temperature>
@@ -4053,6 +4161,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>0.756</mass>
 			<radius>0.694</radius>
 			<magV>11.34</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.276</magJ>
+			<magH errorminus="0.021" errorplus="0.021">8.743</magH>
+			<magK errorminus="0.019" errorplus="0.019">8.601</magK>
 			<metallicity>0.35</metallicity>
 			<spectraltype>K7</spectraltype>
 			<planet>
@@ -4084,7 +4195,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.947</mass>
 			<radius>1.105</radius>
-			<magV>11.46</magV>
+			<magV errorminus="0.11" errorplus="0.11">11.46</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.503</magJ>
+			<magH errorminus="0.019" errorplus="0.019">10.154</magH>
+			<magK errorminus="0.018" errorplus="0.018">10.111</magK>
 			<metallicity>0.01</metallicity>
 			<spectraltype>G3</spectraltype>
 			<planet>
@@ -4099,7 +4213,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.228</eccentricity>
 				<inclination>87.2</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/12/11</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1161.5</temperature>
@@ -4117,7 +4231,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.916</mass>
 			<radius>1.04</radius>
-			<magV>9.73</magV>
+			<magV errorminus="0.02" errorplus="0.02">9.76</magV>
+			<magJ errorminus="0.023" errorplus="0.023">8.293</magJ>
+			<magH errorminus="0.029" errorplus="0.029">7.935</magH>
+			<magK errorminus="0.021" errorplus="0.021">7.837</magK>
 			<metallicity>0.24</metallicity>
 			<spectraltype>G5</spectraltype>
 			<planet>
@@ -4134,7 +4251,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.016</eccentricity>
 				<inclination>86.9</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/12/11</lastupdate>
+				<lastupdate>23/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1171.7</temperature>
@@ -4152,7 +4269,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.13</mass>
 			<radius>1.203</radius>
-			<magV>11.94</magV>
+			<magV errorminus="0.020" errorplus="0.020">11.94</magV>
+			<magJ errorminus="0.022" errorplus="0.022">11.103</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.846</magH>
+			<magK errorminus="0.020" errorplus="0.020">10.791</magK>
 			<metallicity>0.15</metallicity>
 			<spectraltype>G5</spectraltype>
 			<planet>
@@ -4167,7 +4287,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.106</eccentricity>
 				<inclination>85.1</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/05/20</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1873.6</temperature>
@@ -4185,7 +4305,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.191</mass>
 			<radius>1.317</radius>
-			<magV>11.82</magV>
+			<magV errorminus="0.016" errorplus="0.016">11.76</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.797</magJ>
+			<magH errorminus="0.024" errorplus="0.024">10.589</magH>
+			<magK errorminus="0.020" errorplus="0.020">10.543</magK>
 			<metallicity>-0.16</metallicity>
 			<spectraltype>F8</spectraltype>
 			<planet>
@@ -4200,7 +4323,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.067</eccentricity>
 				<inclination>88.6</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/05</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1495.0</temperature>
@@ -4218,7 +4341,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.01</mass>
 			<radius>0.959</radius>
-			<magV>13.19</magV>
+			<magV errorminus="0.25" errorplus="0.25">13.15</magV>
+			<magJ errorminus="0.018" errorplus="0.018">11.319</magJ>
+			<magH errorminus="0.021" errorplus="0.021">10.908</magH>
+			<magK errorminus="0.018" errorplus="0.018">10.815</magK>
 			<metallicity>0.31</metallicity>
 			<spectraltype>G5</spectraltype>
 			<planet>
@@ -4232,7 +4358,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.032</eccentricity>
 				<inclination>87.6</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/12/11</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1100.1</temperature>
@@ -4248,7 +4374,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.816</mass>
 			<radius>0.788</radius>
-			<magV>11.74</magV>
+			<magV errorminus="0.18" errorplus="0.18">11.76</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.080</magJ>
+			<magH errorminus="0.023" errorplus="0.023">9.685</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.581</magK>
 			<metallicity>-0.04</metallicity>
 			<spectraltype>K1</spectraltype>
 			<planet>
@@ -4263,7 +4392,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.124</eccentricity>
 				<inclination>88.6</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/10/07</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>907.4</temperature>
@@ -4281,7 +4410,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.92</mass>
 			<radius>0.87</radius>
-			<magV>12.21</magV>
+			<magV errorminus="0.13" errorplus="0.13">12.19</magV>
+			<magJ errorminus="0.026" errorplus="0.026">10.626</magJ>
+			<magH errorminus="0.023" errorplus="0.023">10.249</magH>
+			<magK errorminus="0.021" errorplus="0.021">10.109</magK>
 			<metallicity>0.14</metallicity>
 			<spectraltype>G8</spectraltype>
 			<age>3.60</age>
@@ -4298,7 +4430,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<rossitermclaughlin>24.2</rossitermclaughlin>
 				<inclination>85.0</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/03/30</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1102.7</temperature>
@@ -4317,6 +4449,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>1.025</mass>
 			<radius>1.103</radius>
 			<magV>13.03</magV>
+			<magJ errorminus="0.020" errorplus="0.020">11.561</magJ>
+			<magH errorminus="0.023" errorplus="0.023">11.206</magH>
+			<magK errorminus="0.018" errorplus="0.018">11.104</magK>
 			<metallicity>0.12</metallicity>
 			<spectraltype>G3</spectraltype>
 			<planet>
@@ -4348,7 +4483,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.207</mass>
 			<radius>1.224</radius>
-			<magV>11.9</magV>
+			<magV errorminus="0.16" errorplus="0.16">11.83</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.648</magJ>
+			<magH errorminus="0.023" errorplus="0.023">10.395</magH>
+			<magK errorminus="0.020" errorplus="0.020">10.297</magK>
 			<metallicity>0.21</metallicity>
 			<spectraltype>F8</spectraltype>
 			<planet>
@@ -4362,7 +4500,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.095</eccentricity>
 				<inclination>87.1</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/03/09</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1149.1</temperature>
@@ -4380,7 +4518,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.917</mass>
 			<radius>0.799</radius>
-			<magV>11.86</magV>
+			<magV errorminus="0.15" errorplus="0.15">11.86</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.936</magJ>
+			<magH errorminus="0.028" errorplus="0.028">9.542</magH>
+			<magK errorminus="0.025" errorplus="0.025">9.448</magK>
 			<metallicity>0.27</metallicity>
 			<spectraltype>K</spectraltype>
 			<planet>
@@ -4396,7 +4537,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>87.07</inclination>
 				<description>The young and metal rich star HAT-P-3 is located in the constellation Ursa Major. The planet HAT-P-3 b has about 75 Earth masses worth of heavy elemetns.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/03/26</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1047.2</temperature>
@@ -4415,7 +4556,10 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>1.24</mass>
 			<radius>0.898</radius>
 			<temperature>6304</temperature>
-			<magV>10.42</magV>
+			<magV errorminus="0.05" errorplus="0.05">10.35</magV>
+			<magJ errorminus="0.026" errorplus="0.026">9.442</magJ>
+			<magH errorminus="0.028" errorplus="0.028">9.220</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.151</magK>
 			<metallicity>0.13</metallicity>
 			<spectraltype>F</spectraltype>
 			<planet>
@@ -4450,7 +4594,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.218</mass>
 			<radius>1.36</radius>
-			<magV>11.66</magV>
+			<magV errorminus="0.11" errorplus="0.11">11.67</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.423</magJ>
+			<magH errorminus="0.027" errorplus="0.027">10.128</magH>
+			<magK errorminus="0.021" errorplus="0.021">10.083</magK>
 			<metallicity>0.15</metallicity>
 			<planet>
 				<name>HAT-P-31 b</name>
@@ -4464,7 +4611,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.245</eccentricity>
 				<inclination>87.1</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/06/08</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1324.7</temperature>
@@ -4488,7 +4635,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<name>UCAC3 274-27296</name>
 			<mass>1.176</mass>
 			<radius>1.387</radius>
-			<magV>11.29</magV>
+			<magV errorminus="0.12" errorplus="0.12">11.44</magV>
 			<magJ errorminus="0.022" errorplus="0.022">10.251</magJ>
 			<magH errorminus="0.022" errorplus="0.022">10.024</magH>
 			<magK errorminus="0.022" errorplus="0.022">9.990</magK>
@@ -4506,7 +4653,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.163</eccentricity>
 				<inclination>88.7</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/05</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1677.4</temperature>
@@ -4523,7 +4670,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.403</mass>
 			<radius>1.777</radius>
-			<magV>11.89</magV>
+			<magV errorminus="0.11" errorplus="0.11">11.03</magV>
+			<magJ errorminus="0.021" errorplus="0.021">10.263</magJ>
+			<magH errorminus="0.024" errorplus="0.024">10.061</magH>
+			<magK errorminus="0.018" errorplus="0.018">10.004</magK>
 			<metallicity>0.05</metallicity>
 			<spectraltype>F</spectraltype>
 			<planet>
@@ -4538,7 +4688,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.148</eccentricity>
 				<inclination>86.7</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/06/10</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 				<temperature>1675.2</temperature>
@@ -4556,7 +4706,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.392</mass>
 			<radius>1.535</radius>
-			<magV>10.162</magV>
+			<magV errorminus="0.05" errorplus="0.05">10.40</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.460</magJ>
+			<magH errorminus="0.03" errorplus="0.03">9.32</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.247</magK>
 			<metallicity>0.22</metallicity>
 			<planet>
 				<name>HAT-P-34 b</name>
@@ -4570,7 +4723,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>87.1</inclination>
 				<description>HAT-P-34 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/01/04</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1335.3</temperature>
@@ -4588,7 +4741,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.236</mass>
 			<radius>1.435</radius>
-			<magV>12.46</magV>
+			<magV errorminus="0.19" errorplus="0.19">11.59</magV>
+			<magJ errorminus="0.024" errorplus="0.024">11.358</magJ>
+			<magH errorminus="0.023" errorplus="0.023">11.072</magH>
+			<magK errorminus="0.021" errorplus="0.021">11.030</magK>
 			<metallicity>0.11</metallicity>
 			<planet>
 				<name>HAT-P-35 b</name>
@@ -4621,6 +4777,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>1.022</mass>
 			<radius>1.096</radius>
 			<magV>12.262</magV>
+			<magJ errorminus="0.16" errorplus="0.16">12.15</magJ>
+			<magH errorminus="0.03" errorplus="0.03">10.72</magH>
+			<magK errorminus="0.021" errorplus="0.021">10.603</magK>
 			<metallicity>0.26</metallicity>
 			<planet>
 				<name>HAT-P-36 b</name>
@@ -4634,7 +4793,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>86.0</inclination>
 				<description>HAT-P-36 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/01/04</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1669.2</temperature>
@@ -4652,7 +4811,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.929</mass>
 			<radius>0.877</radius>
-			<magV>13.23</magV>
+			<magV errorminus="0.32" errorplus="0.32">13.23</magV>
+			<magJ errorminus="0.32" errorplus="0.32">13.23</magJ>
+			<magH errorminus="0.03" errorplus="0.03">11.71</magH>
+			<magK errorminus="0.020" errorplus="0.020">11.667</magK>
 			<metallicity>0.03</metallicity>
 			<planet>
 				<name>HAT-P-37 b</name>
@@ -4684,7 +4846,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.886</mass>
 			<radius>0.923</radius>
-			<magV>12.56</magV>
+			<magV errorminus="0.094" errorplus="0.094">12.557</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.989</magJ>
+			<magH errorminus="0.021" errorplus="0.021">10.593</magH>
+			<magK errorminus="0.017" errorplus="0.017">10.501</magK>
 			<metallicity>0.06</metallicity>
 			<spectraltype>G</spectraltype>
 			<planet>
@@ -4697,7 +4862,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.067</eccentricity>
 				<inclination>88.3</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/01/25</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>987.0</temperature>
@@ -4716,6 +4881,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>1.404</mass>
 			<radius>1.625</radius>
 			<magV>12.422</magV>
+			<magJ errorminus="0.020" errorplus="0.020">11.424</magJ>
+			<magH errorminus="0.022" errorplus="0.022">11.184</magH>
+			<magK errorminus="0.020" errorplus="0.020">11.157</magK>
 			<metallicity>0.19</metallicity>
 			<planet>
 				<name>HAT-P-39 b</name>
@@ -4747,7 +4915,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.26</mass>
 			<radius>1.59</radius>
-			<magV>11.2</magV>
+			<magV errorminus="0.07" errorplus="0.07">11.12</magV>
 			<metallicity>0.24</metallicity>
 			<spectraltype>F</spectraltype>
 			<planet>
@@ -4766,7 +4934,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<transittime errorminus="0.00023" errorplus="0.00025" unit="BJD">2454365.91538</transittime>
 				<description>The star HAT-P-4 is located in the constellation Bootes.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/05</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<new>0</new>
 				<temperature>1550.7</temperature>
@@ -4783,7 +4951,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.512</mass>
 			<radius>2.206</radius>
-			<magV>11.699</magV>
+			<magV errorminus="0.08" errorplus="0.08">11.34</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.367</magJ>
+			<magH errorminus="0.020" errorplus="0.020">10.085</magH>
+			<magK errorminus="0.018" errorplus="0.018">10.009</magK>
 			<metallicity>0.22</metallicity>
 			<planet>
 				<name>HAT-P-40 b</name>
@@ -4797,7 +4968,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>88.3</inclination>
 				<description>HAT-P-40 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/16</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1614.8</temperature>
@@ -4815,7 +4986,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.418</mass>
 			<radius>1.683</radius>
-			<magV>11.087</magV>
+			<magV errorminus="0.15" errorplus="0.15">11.36</magV>
+			<magJ errorminus="0.027" errorplus="0.027">10.006</magJ>
+			<magH errorminus="0.032" errorplus="0.032">9.777</magH>
+			<magK errorminus="0.029" errorplus="0.029">9.728</magK>
 			<metallicity>0.21</metallicity>
 			<planet>
 				<name>HAT-P-41 b</name>
@@ -4829,7 +5003,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<inclination>87.7</inclination>
 				<description>HAT-P-41 b is a highly inflated hot Jupiter. The planet is less massive than Jupiter but has a much larger radius. It has been discovered by the HATNet collaboration.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/07/16</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1689.7</temperature>
@@ -4849,7 +5023,10 @@ Credit: Jonah Gallagher.</imagedescription>
 			<name>2MASS 09012265+0605500</name>
 			<mass>1.179</mass>
 			<radius>1.528</radius>
-			<magV>3.94</magV>
+			<magV errorminus="0.03" errorplus="0.03">12.17</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.960</magJ>
+			<magH errorminus="0.024" errorplus="0.024">10.677</magH>
+			<magK errorminus="0.026" errorplus="0.026">10.626</magK>
 			<age>5.1</age>
 			<metallicity>0.27</metallicity>
 			<spectraltype>G</spectraltype>
@@ -4867,7 +5044,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<transittime errorminus="0.00077" errorplus="0.00077" unit="BJD">2455952.52606</transittime>
 				<description>HAT-P-42 b is a typical Hot Jupiter on a circular orbit around an early G-type main sequence star. The planet is inflated compared to our own Jupiter. It was discovered by the HATNet collaboration.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/01/02</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<new>0</new>
 			</planet>
@@ -4883,7 +5060,10 @@ Credit: Jonah Gallagher.</imagedescription>
 			<name>2MASS 08354217+1012239</name>
 			<mass>1.048</mass>
 			<radius>1.104</radius>
-			<magV>4.73</magV>
+			<magV errorminus="0.03" errorplus="0.03">13.36</magV>
+			<magJ errorminus="0.021" errorplus="0.021">12.146</magJ>
+			<magH errorminus="0.029" errorplus="0.029">11.809</magH>
+			<magK errorminus="0.023" errorplus="0.023">11.764</magK>
 			<age>5.7</age>
 			<metallicity>0.23</metallicity>
 			<spectraltype>F</spectraltype>
@@ -4915,7 +5095,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.163</mass>
 			<radius>1.137</radius>
-			<magV>12</magV>
+			<magV errorminus="0.16" errorplus="0.16">11.95</magV>
+			<magJ errorminus="0.021" errorplus="0.021">10.844</magJ>
+			<magH errorminus="0.021" errorplus="0.021">10.522</magH>
+			<magK errorminus="0.018" errorplus="0.018">10.481</magK>
 			<metallicity>0.24</metallicity>
 			<planet>
 				<name>HAT-P-5 b</name>
@@ -4946,7 +5129,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.29</mass>
 			<radius>1.46</radius>
-			<magV>10.5</magV>
+			<magV errorminus="0.04" errorplus="0.04">10.47</magV>
+			<magJ errorminus="0.023" errorplus="0.023">9.558</magJ>
+			<magH errorminus="0.018" errorplus="0.018">9.440</magH>
+			<magK errorminus="0.019" errorplus="0.019">9.313</magK>
 			<metallicity>-0.13</metallicity>
 			<spectraltype>F</spectraltype>
 			<planet>
@@ -4979,7 +5165,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.4150</mass>
 			<radius>1.9276</radius>
-			<magV>10.5</magV>
+			<magV errorminus="0.05" errorplus="0.05">10.48</magV>
+			<magJ errorminus="0.0.030" errorplus="0.030">9.555</magJ>
+			<magH errorminus="0.029" errorplus="0.029">9.344</magH>
+			<magK errorminus="0.018" errorplus="0.018">9.334</magK>
 			<temperature>6350</temperature>
 			<age>2.2082</age>
 			<metallicity>0.26</metallicity>
@@ -5017,7 +5206,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>1.192</mass>
 			<radius>1.475</radius>
-			<magV>10.17</magV>
+			<magV errorminus="0.03" errorplus="0.03">10.36</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.214</magJ>
+			<magH errorminus="0.018" errorplus="0.018">9.004</magH>
+			<magK errorminus="0.013" errorplus="0.013">8.953</magK>
 			<age>4.3</age>
 			<metallicity>0.01</metallicity>
 			<planet>
@@ -5093,7 +5285,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<mass>0.986</mass>
 			<radius>1.038</radius>
-			<magV>12.05</magV>
+			<magV errorminus="0.017" errorplus="0.017">12.053</magV>
+			<magJ errorminus="0.024" errorplus="0.024">10.924</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.634</magH>
+			<magK errorminus="0.023" errorplus="0.023">10.58</magK>
 			<metallicity>-0.06</metallicity>
 			<planet>
 				<name>HATS-1 b</name>
@@ -5129,7 +5324,10 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>5227</temperature>
 			<mass>0.88</mass>
 			<radius>0.89</radius>
-			<magV>13.6</magV>
+			<magV errorminus="0.06" errorplus="0.06">13.62</magV>
+			<magJ errorminus="0.024" errorplus="0.024">11.906</magJ>
+			<magH errorminus="0.023" errorplus="0.023">11.475</magH>
+			<magK errorminus="0.023" errorplus="0.023">11.386</magK>
 			<metallicity>0.15</metallicity>
 			<age>9.7</age>
 			<spectraltype>K</spectraltype>
@@ -7799,7 +7997,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<star>
 			<mass>1.3</mass>
 			<radius>1.497</radius>
-			<magV>8.15</magV>
+			<magV errorminus="0.01" errorplus="0.01">8.14</magV>
 			<metallicity>0.36</metallicity>
 			<spectraltype>G0 IV</spectraltype>
 			<planet>
@@ -8912,7 +9110,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<star>
 			<mass>1.275</mass>
 			<radius>1.508</radius>
-			<magV>8.17</magV>
+			<magV errorminus="0.01" errorplus="0.01">8.16</magV>
 			<metallicity>0.24</metallicity>
 			<spectraltype>G0</spectraltype>
 			<planet>
@@ -9597,7 +9795,8 @@ Credit: ESO/L. Calcada</imagedescription>
 		<star>
 			<mass>0.8</mass>
 			<radius>0.788</radius>
-			<magV>7.67</magV>
+			<magV errorminus="0.05" errorplus="0.05">7.68</magV>
+			<magK errorminus="0.02" errorplus="0.02">5.54</magK>
 			<metallicity>-0.03</metallicity>
 			<spectraltype>K1-K2</spectraltype>
 			<planet>
@@ -10540,7 +10739,10 @@ Credit: ESO/L. Calcada</imagedescription>
 		<star>
 			<mass>1.148</mass>
 			<radius>1.146</radius>
-			<magV>7.65</magV>
+			<magV errorminus="0.01" errorplus="0.01">7.63</magV>
+			<magJ errorminus="0.020" errorplus="0.020">6.591</magJ>
+			<magH errorminus="0.04" errorplus="0.04">6.37</magH>
+			<magK errorminus="0.026" errorplus="0.026">6.308</magK>
 			<metallicity>0.02</metallicity>
 			<spectraltype>G0 V</spectraltype>
 			<planet>
@@ -14466,7 +14668,7 @@ Credit: ESO/L. Calcada</imagedescription>
 				<name>Struve 1341 B</name>
 				<mass>0.98</mass>
 				<radius>0.98</radius>
-				<magV>8.93</magV>
+				<magV errorminus="0.02" errorplus="0.02">9.00</magV>
 				<metallicity>0.43</metallicity>
 				<spectraltype>G5</spectraltype>
 				<temperature>5370</temperature>
@@ -15352,7 +15554,10 @@ Credit: ESO/L. Calcada</imagedescription>
 		<star>
 			<mass>0.85</mass>
 			<radius>0.73</radius>
-			<magV>6.27</magV>
+			<magV>7.714</magV>
+			<magJ errorminus="0.023" errorplus="0.023">6.203</magJ>
+			<magH errorminus="0.017" errorplus="0.017">5.821</magH>
+			<magK errorminus="0.018" errorplus="0.018">5.734</magK>
 			<metallicity>-0.23</metallicity>
 			<spectraltype>K1V</spectraltype>
 			<planet>
@@ -15364,7 +15569,7 @@ Credit: ESO/L. Calcada</imagedescription>
 				<semimajoraxis>0.0797</semimajoraxis>
 				<eccentricity>0.13</eccentricity>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>689.2</temperature>
@@ -16150,7 +16355,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<star>
 			<mass>1.31</mass>
 			<radius>1.842</radius>
-			<magV>8.7</magV>
+			<magV errorminus="0.02" errorplus="0.02">8.77</magV>
 			<metallicity>-0.015</metallicity>
 			<spectraltype>F7V</spectraltype>
 			<planet>
@@ -16188,8 +16393,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<mass>1.282</mass>
 			<radius>1.482</radius>
 			<metallicity>0.047</metallicity>
-			<spectraltype>F</spectraltype>
-			<magV>9.8</magV>
+			<spectraltype>F2</spectraltype>
+			<magV errorminus="0.03" errorplus="0.03">9.82</magV>
+			<magJ errorminus="0.019" errorplus="0.019">8.963</magJ>
+			<magH errorminus="0.019" errorplus="0.019">8.728</magH>
+			<magK errorminus="0.019" errorplus="0.019">8.662</magK>
 			<temperature>6304</temperature>
 			<planet>
 				<name>BD+30 1138 b</name>
@@ -16273,7 +16481,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<distance>613.20279</distance>
 		<star>
 			<name>Kepler-11</name>
-			<temperature>5663</temperature>
 			<mass errorminus="0.024" errorplus="0.027">0.961</mass>
 			<radius errorminus="0.015" errorplus="0.013">1.053</radius>
 			<temperature errorminus="67" errorplus="55">5663</temperature>
@@ -18972,6 +19179,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass errorminus="0.032" errorplus="0.032">0.578</mass>
 			<radius errorminus="0.026" errorplus="0.026">0.548</radius>
 			<magV>13</magV>
+			<magJ errorminus="0.03" errorplus="0.03">10.65</magJ>
 			<metallicity>-0.23</metallicity>
 			<planet>
 				<name>KIC 10905746 b</name>
@@ -18997,7 +19205,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<star>
 			<mass errorminus="0.042" errorplus="0.042">1.027</mass>
 			<radius errorminus="0.17" errorplus="0.17">1.27</radius>
-			<magV>15</magV>
+			<magV errorminus="0.25" errorplus="0.25">15.64</magV>
+			<magJ errorminus="0.029" errorplus="0.029">14.467</magJ>
+			<magH errorminus="0.04" errorplus="0.04">14.10</magH>
+			<magK errorminus="0.05" errorplus="0.05">13.97</magK>
 			<metallicity>0.11</metallicity>
 			<planet>
 				<name>KIC 6185331 b</name>
@@ -19030,6 +19241,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<radius errorminus="0.12" errorplus="0.15">0.73</radius>
 			<temperature errorminus="70" errorplus="70">5143</temperature>
 			<metallicity errorminus="0.13" errorplus="0.13">-0.08</metallicity>
+			<magV errorminus="0.32" errorplus="0.32">11.72</magV>
 			<spectraltype>G</spectraltype>
 			<age errorminus="0.15" errorplus="0.15">0.75</age>
 			<planet>
@@ -19104,6 +19316,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<star>
 			<mass>2.05</mass>
 			<radius>2.55</radius>
+			<magJ errorminus="0.022" errorplus="0.022">9.466</magJ>
+			<magH errorminus="0.019" errorplus="0.019">9.455</magH>
+			<magK errorminus="0.014" errorplus="0.014">8.425</magK>
 			<spectraltype>A5-7V</spectraltype>
 			<planet>
 				<name>KOI-13 b</name>
@@ -19136,6 +19351,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.32</mass>
 			<radius>1.2</radius>
 			<magV>14</magV>
+			<magJ errorminus="0.022" errorplus="0.022">12.858</magJ>
+			<magH errorminus="0.020" errorplus="0.020">12.605</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.55</magK>
 			<metallicity>0.33</metallicity>
 			<spectraltype>G0V/G0IV</spectraltype>
 			<planet>
@@ -19170,6 +19388,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<age>2.45</age>
 			<radius>0.961</radius>
 			<temperature>5513</temperature>
+			<magJ errorminus="0.020" errorplus="0.020">11.882</magJ>
+			<magH errorminus="0.019" errorplus="0.019">11.517</magH>
+			<magK errorminus="0.019" errorplus="0.019">11.454</magK>
 			<metallicity>0.37</metallicity>
 			<planet>
 				<name>KOI-142 b</name>
@@ -19220,7 +19441,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<temperature errorminus="110" errorplus="110">6050</temperature>
 			<radius errorminus="0.14" errorplus="0.14">1.51</radius>
 			<mass errorminus="0.11" errorplus="0.14">1.40</mass>
-			<magV>15</magV>
+			<magV errorminus="0.17" errorplus="0.17">15</magV>
+			<magJ errorminus="0.024" errorplus="0.024">13.306</magJ>
+			<magH errorminus="0.025" errorplus="0.025">13.008</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.96</magK>
 			<metallicity errorminus="0.14" errorplus="0.14">0.34</metallicity>
 			<age errorminus="0.8" errorplus="1.5">2.9</age>
 			<spectraltype>F8V</spectraltype>
@@ -19252,7 +19476,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<declination>+43 40 52</declination>
 		<star>
 			<radius>1.04</radius>
-			<magV>14.5</magV>
+			<magV errorminus="0.24" errorplus="0.24">13.73</magV>
+			<magJ errorminus="0.027" errorplus="0.027">13.190</magJ>
+			<magH errorminus="0.03" errorplus="0.03">12.93</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.84</magK>
 			<metallicity>0.12</metallicity>
 			<planet>
 				<name>KOI-202 b</name>
@@ -19281,6 +19508,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.19</mass>
 			<radius>1.52</radius>
 			<magV>15</magV>
+			<magJ errorminus="0.026" errorplus="0.026">13.340</magJ>
+			<magH errorminus="0.025" errorplus="0.025">12.969</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.88</magK>
 			<metallicity>0.26</metallicity>
 			<spectraltype>G2IV</spectraltype>
 			<planet>
@@ -19309,7 +19539,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<declination>+40 58 38</declination>
 		<star>
 			<radius>1.16</radius>
-			<magV>14.5</magV>
+			<magV errorminus="0.34" errorplus="0.34">14.35</magV>
+			<magJ errorminus="0.020" errorplus="0.020">13.201</magJ>
+			<magH errorminus="0.024" errorplus="0.024">12.948</magH>
+			<magK errorminus="0.026" errorplus="0.026">12.826</magK>
 			<metallicity>-0.13</metallicity>
 			<planet>
 				<name>KOI-206 b</name>
@@ -19337,7 +19570,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<star>
 			<mass>0.59</mass>
 			<radius>0.55</radius>
-			<magV>16.88</magV>
+			<magV errorminus="0.05" errorplus="0.05">16.88</magV>
+			<magJ errorminus="0.024" errorplus="0.024">13.749</magJ>
+			<magH errorminus="0.025" errorplus="0.025">13.077</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.89</magK>
 			<metallicity>0.13</metallicity>
 			<spectraltype>M</spectraltype>
 			<planet>
@@ -19367,6 +19603,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.1</mass>
 			<radius>1.39</radius>
 			<magV>14.3</magV>
+			<magJ errorminus="0.025" errorplus="0.025">13.236</magJ>
+			<magH errorminus="0.023" errorplus="0.023">12.999</magH>
+			<magK errorminus="0.028" errorplus="0.028">12.918</magK>
 			<metallicity>-0.29</metallicity>
 			<spectraltype>F7IV</spectraltype>
 			<planet>
@@ -19398,6 +19637,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.48</mass>
 			<radius>2.13</radius>
 			<magV>14.76</magV>
+			<magJ errorminus="0.021" errorplus="0.021">13.536</magJ>
+			<magH errorminus="0.022" errorplus="0.022">13.294</magH>
+			<magK errorminus="0.03" errorplus="0.03">13.27</magK>
 			<metallicity>0.1</metallicity>
 			<spectraltype>F5IV</spectraltype>
 			<planet>
@@ -19469,7 +19711,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<declination>+43 11 50</declination>
 		<star>
 			<radius>1.16</radius>
-			<magV>14</magV>
+			<magV errorminus="0.26" errorplus="0.26">13.91</magV>
+			<magJ errorminus="0.020" errorplus="0.020">12.593</magJ>
+			<magH errorminus="0.019" errorplus="0.019">12.345</magH>
+			<magK errorminus="0.022" errorplus="0.022">12.291</magK>
 			<metallicity>-0.46</metallicity>
 			<planet>
 				<name>KOI-680 b</name>
@@ -19497,6 +19742,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.07</mass>
 			<radius>1.1</radius>
 			<magV>15</magV>
+			<magJ errorminus="0.03" errorplus="0.03">14.10</magJ>
+			<magH errorminus="0.03" errorplus="0.03">13.73</magH>
+			<magK errorminus="0.05" errorplus="0.05">13.63</magK>
 			<planet>
 				<name>KOI-730 b</name>
 				<list>Confirmed planets</list>
@@ -19617,6 +19865,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<radius errorminus="0.04" errorplus="0.04">0.88</radius>
 			<mass errorminus="0.08" errorplus="0.08">0.88</mass>
 			<magV>15</magV>
+			<magJ errorminus="0.021" errorplus="0.021">13.665</magJ>
+			<magH errorminus="0.025" errorplus="0.025">13.262</magH>
+			<magK errorminus="0.029" errorplus="0.029">13.118</magK>
 			<metallicity errorminus="0.15" errorplus="0.15">-0.07</metallicity>
 			<age errorminus="3" errorplus="3">6</age>
 			<spectraltype>G8V</spectraltype>
@@ -19651,6 +19902,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<name>KOI-94</name>
 			<mass>1.277</mass>
 			<radius>1.52</radius>
+			<magJ errorminus="0.022" errorplus="0.022">11.218</magJ>
+			<magH errorminus="0.018" errorplus="0.018">10.957</magH>
+			<magK errorminus="0.019" errorplus="0.019">10.926</magK>
 			<temperature>6182</temperature>
 			<age>3.16</age>
 			<metallicity>0.0228</metallicity>
@@ -19733,7 +19987,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>0.13</mass>
 			<radius>0.17</radius>
 			<metallicity>-0.3</metallicity>
-			<spectraltype>M</spectraltype>
+			<magJ errorminus="0.021" errorplus="0.021">12.177</magJ>
+			<magH errorminus="0.018" errorplus="0.018">11.685</magH>
+			<magK errorminus="0.018" errorplus="0.018">11.465</magK>
+			<spectraltype>M3V</spectraltype>
 			<planet>
 				<name>KOI-961 b</name>
 				<name>KOI-961.01</name>
