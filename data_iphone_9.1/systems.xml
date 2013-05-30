@@ -4251,7 +4251,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<eccentricity>0.016</eccentricity>
 				<inclination>86.9</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>23/05/29</lastupdate>
+				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<new>0</new>
 				<temperature>1171.7</temperature>
@@ -23761,19 +23761,26 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<star>
 			<mass>1.15</mass>
 			<radius>1.40</radius>
-			<temperature>6100</temperature>
-			<magV>10.42</magV>
+			<temperature errorminus="100" errorplus="100">6100</temperature>
+			<magB errorminus="0.07" errorplus="0.07">10.98</magB>
+			<magV errorminus="0.06" errorplus="0.06">10.42</magV>
+			<magR errorminus="0.3" errorplus="0.3">10.0</magR>
+			<magI errorminus="0.053" errorplus="0.053">9.773</magI>
+			<magJ errorminus="0.022" errorplus="0.022">9.365</magJ>
+			<magH errorminus="0.027" errorplus="0.027">9.135</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.035</magK>
 			<spectraltype>F9</spectraltype>
 			<planet>
 				<name>WASP-54 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.636</mass>
 				<radius>1.653</radius>
-				<period>3.6936</period>
+				<period>3.6936411</period>
 				<semimajoraxis>0.04987</semimajoraxis>
 				<eccentricity>0.067</eccentricity>
 				<inclination>84.97</inclination>
 				<transittime errorminus="0.00056" errorplus="0.00049" unit="BJD">2455518.35087</transittime>
+				<temperature errorminus="46" errorplus="46">1759</temperature>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/10/08</lastupdate>
@@ -23818,23 +23825,30 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-56</name>
 		<rightascension>12 13 27</rightascension>
 		<declination>+23 03 20</declination>
-		<distance>255</distance>
+		<distance errorminus="40" errorplus="40">255</distance>
 		<star>
 			<mass>1.03</mass>
 			<radius>0.99</radius>
-			<temperature>5600</temperature>
-			<magV>11.48</magV>
+			<temperature errorminus="100" errorplus="100">5600</temperature>
+			<magB errorminus="0.28" errorplus="0.28">12.74</magB>
+			<magV errorminus="0.115" errorplus="0.115">11.484</magV>
+			<magR errorminus="0.3" errorplus="0.3">10.7</magR>
+			<magI errorminus="0.087" errorplus="0.087">11.388</magI>
+			<magJ errorminus="0.021" errorplus="0.021">10.874</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.603</magH>
+			<magK errorminus="0.019" errorplus="0.019">10.532</magK>
 			<spectraltype>G6</spectraltype>
 			<planet>
 				<name>WASP-56 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.571</mass>
 				<radius>1.092</radius>
-				<period>4.617</period>
+				<period>4.617101</period>
 				<semimajoraxis>0.05458</semimajoraxis>
 				<eccentricity>0</eccentricity>
 				<inclination>88.5</inclination>
 				<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455730.799</transittime>
+				<temperature errorminus="24" errorplus="25">1216</temperature>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/10/08</lastupdate>
@@ -23848,12 +23862,18 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-57</name>
 		<rightascension>14 55 16</rightascension>
 		<declination>-02 03 27</declination>
-		<distance>455</distance>
+		<distance errorminus="80" errorplus="80">455</distance>
 		<star>
 			<mass>1.01</mass>
 			<radius>1.32</radius>
-			<temperature>5600</temperature>
-			<magV>13.04</magV>
+			<temperature errorminus="100" errorplus="100">5600</temperature>
+			<magB errorminus="0.5" errorplus="0.5">13.6</magB>
+			<magV errorminus="0.25" errorplus="0.25">13.04</magV>
+			<magR errorminus="0.3" errorplus="0.3">12.7</magR>
+			<magI errorminus="0.107" errorplus="0.107">12.243</magI>
+			<magJ errorminus="0.024" errorplus="0.024">11.625</magJ>
+			<magH errorminus="0.024" errorplus="0.024">11.292</magH>
+			<magK errorminus="0.026" errorplus="0.026">11.244</magK>
 			<spectraltype>G6</spectraltype>
 			<planet>
 				<name>WASP-57 b</name>
@@ -23865,6 +23885,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<eccentricity>0</eccentricity>
 				<inclination>88.0</inclination>
 				<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455717.87811</transittime>
+				<temperature errorminus="22" errorplus="21">1251</temperature>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/10/08</lastupdate>
@@ -24089,7 +24110,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.03</radius>
 			<temperature errorminus="100" errorplus="100">5400</temperature>
 			<magV>12.29</magV>
-			<metallicity>-0.08</metallicity>
+			<metallicity errorminus="0.11" errorplus="0.11">-0.08</metallicity>
 			<spectraltype>G7</spectraltype>
 			<planet>
 				<name>WASP-64 b</name>
@@ -24101,6 +24122,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<semimajoraxis>0.02648</semimajoraxis>
 				<eccentricity>0</eccentricity>
 				<inclination>86.57</inclination>
+				<transittime errorminus="0.00027" errorplus="0.00027" unit="HJD">2455582.60169</transittime>
+				<temperature errorminus="49" errorplus="49">1689</temperature>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/10/17</lastupdate>
@@ -24345,6 +24368,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<semimajoraxis>0.03655</semimajoraxis>
 				<eccentricity>0</eccentricity>
 				<inclination>86.8</inclination>
+				<transittime errorminus="0.0021" errorplus="0.0021" unit="HJD">2455583.6529</transittime>
+				<temperature errorminus="130" errorplus="120">2210</temperature>
 				<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/10/17</lastupdate>
