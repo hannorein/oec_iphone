@@ -1,4 +1,4 @@
-<planets date="2013-05-30" name="data" planets="915">
+<planets date="2013-06-03" name="data" planets="916">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -17527,6 +17527,43 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 95086 b</id_exoplaneteu>
+		<name>HD 95086 b</name>
+		<name>HIP 53524 b</name>
+		<name>2MASS J10570301-6840023 b</name>
+		<name>TYC 9212-4675-1 b</name>
+		<id>HD 95086 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>4.5</mass>
+			<orbit>
+				<semimajoraxis>56.4</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A8III</spectraltype>
+			<mass>1.6</mass>
+			<distance>90.27</distance>
+			<temperature>1000</temperature>
+			<rightascension>10 57 03</rightascension>
+			<declination>-68 40 02</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/06/03</lastupdate>
+		<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 4-5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 10-17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
+		<new>1</new>
+		<image>HD95086</image>
+		<imagedescription>This image from ESO's Very Large Telescope (VLT) shows the newly discovered planet HD95086 b, next to its parent star. The observations were made using NACO, the adaptative optics instrument for the VLT in infrared light, and using a technique called differential imaging, which improves the contrast between the planet and its dazzling host star. The star itself has been removed from the picture during processing to enhance the view of the faint exoplanet and its position is marked. The exoplanet appears at the lower left.
+			
+The blue circle is the size of the orbit of Neptune in the Solar System.
+			
+The star HD 95086 has similar properties to Beta Pictoris and HR 8799 around which giant planets have previously been imaged at separations between 8 and 68 astronomical units. These stars are all young, more massive than the Sun, and surrounded by a debris disc.
+			
+Credit: ESO/J. Rameau</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 95089 b</id_exoplaneteu>
 		<name>HD 95089 b</name>
 		<id>HD 95089 b</id>
@@ -20270,6 +20307,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1349.8</temperature>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
+			<magV>13.74</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20299,6 +20337,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1349.8</temperature>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
+			<magV>13.74</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20328,6 +20367,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1349.8</temperature>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
+			<magV>13.74</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20357,6 +20397,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1349.8</temperature>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
+			<magV>13.74</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20386,6 +20427,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>1349.8</temperature>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
+			<magV>13.74</magV>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20485,6 +20527,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<temperature>978.8</temperature>
 			<rightascension>19 25 00</rightascension>
 			<declination>+49 13 54</declination>
+			<magV>11.94</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20520,6 +20563,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<temperature>978.8</temperature>
 			<rightascension>19 25 00</rightascension>
 			<declination>+49 13 54</declination>
+			<magV>11.94</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -20557,6 +20601,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<temperature>5417</temperature>
 			<rightascension>18 56 14</rightascension>
 			<declination>+44 31 05</declination>
+			<magV>9.77</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -20590,6 +20635,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<temperature>5417</temperature>
 			<rightascension>18 56 14</rightascension>
 			<declination>+44 31 05</declination>
+			<magV>9.77</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -20623,6 +20669,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<temperature>5417</temperature>
 			<rightascension>18 56 14</rightascension>
 			<declination>+44 31 05</declination>
+			<magV>9.77</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -20980,6 +21027,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<temperature>6225</temperature>
 			<rightascension>19 12 24</rightascension>
 			<declination>+50 02 01</declination>
+			<magV>10.54</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -21012,6 +21060,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<temperature>6225</temperature>
 			<rightascension>19 12 24</rightascension>
 			<declination>+50 02 01</declination>
+			<magV>10.54</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -21892,6 +21941,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<temperature>6211</temperature>
 			<rightascension>19 14 45</rightascension>
 			<declination>+41 09 04</declination>
+			<magV>10.92</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21924,6 +21974,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<temperature>6211</temperature>
 			<rightascension>19 14 45</rightascension>
 			<declination>+41 09 04</declination>
+			<magV>10.92</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21956,6 +22007,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<temperature>6211</temperature>
 			<rightascension>19 14 45</rightascension>
 			<declination>+41 09 04</declination>
+			<magV>10.92</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -22476,6 +22528,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<temperature>8500.0</temperature>
 			<rightascension>19 07 53</rightascension>
 			<declination>+46 52 06</declination>
+			<magV>9.95</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -24462,6 +24515,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<temperature>1211.0</temperature>
 			<rightascension>10 52 24</rightascension>
 			<declination>-61 26 48</declination>
+			<magV>16.08</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
@@ -26849,6 +26903,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>5700.0</temperature>
 			<rightascension>05 04 20</rightascension>
 			<declination>-06 13 47</declination>
+			<magV>10.94</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -27400,6 +27455,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>1188.1</temperature>
 			<rightascension>23 13 59</rightascension>
 			<declination>08 45 41</declination>
+			<magV>12.0</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -27582,6 +27638,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>1167.9</temperature>
 			<rightascension>18 18 48</rightascension>
 			<declination>45 10 19</declination>
+			<magV>11.66</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -27610,6 +27667,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.613</radius>
 			<distance>125</distance>
 			<temperature>4650.0</temperature>
+			<magV>13.00</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -27671,6 +27729,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.86</radius>
 			<distance>400</distance>
 			<temperature>5900</temperature>
+			<magV>12.18</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -28099,6 +28158,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>5500</temperature>
 			<rightascension>02 28 37</rightascension>
 			<declination>-07 03 38</declination>
+			<magV>10.30</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>

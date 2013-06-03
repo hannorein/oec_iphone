@@ -24726,6 +24726,58 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 95086 b</id_exoplaneteu>
+		<name>HD 95086 b</name>
+		<name>HIP 53524 b</name>
+		<name>2MASS J10570301-6840023 b</name>
+		<name>TYC 9212-4675-1 b</name>
+		<id>HD 95086 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>4.5</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>56.4</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A8III</spectraltype>
+			<mass>1.6</mass>
+			<radius />
+			<metallicity />
+			<distance>90.27</distance>
+			<temperature>1000</temperature>
+			<rightascension>10 57 03</rightascension>
+			<declination>-68 40 02</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/06/03</lastupdate>
+		<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 4-5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 10-17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
+		<new>1</new>
+		<image>HD95086</image>
+		<imagedescription>This image from ESO's Very Large Telescope (VLT) shows the newly discovered planet HD95086 b, next to its parent star. The observations were made using NACO, the adaptative optics instrument for the VLT in infrared light, and using a technique called differential imaging, which improves the contrast between the planet and its dazzling host star. The star itself has been removed from the picture during processing to enhance the view of the faint exoplanet and its position is marked. The exoplanet appears at the lower left.
+			
+The blue circle is the size of the orbit of Neptune in the Solar System.
+			
+The star HD 95086 has similar properties to Beta Pictoris and HR 8799 around which giant planets have previously been imaged at separations between 8 and 68 astronomical units. These stars are all young, more massive than the Sun, and surrounded by a debris disc.
+			
+Credit: ESO/J. Rameau</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 95089 b</id_exoplaneteu>
 		<name>HD 95089 b</name>
 		<id>HD 95089 b</id>
@@ -28571,7 +28623,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28616,7 +28668,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28661,7 +28713,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28706,7 +28758,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28751,7 +28803,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 16 18</rightascension>
 			<declination>+46 00 18</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28891,7 +28943,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 25 00</rightascension>
 			<declination>+49 13 54</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.94</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28939,7 +28991,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 25 00</rightascension>
 			<declination>+49 13 54</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.94</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -28987,7 +29039,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>18 56 14</rightascension>
 			<declination>+44 31 05</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.77</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29033,7 +29085,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>18 56 14</rightascension>
 			<declination>+44 31 05</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.77</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29079,7 +29131,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>18 56 14</rightascension>
 			<declination>+44 31 05</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.77</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29589,7 +29641,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 12 24</rightascension>
 			<declination>+50 02 01</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.54</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29634,7 +29686,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 12 24</rightascension>
 			<declination>+50 02 01</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.54</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -30946,7 +30998,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 14 45</rightascension>
 			<declination>+41 09 04</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.92</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -30991,7 +31043,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 14 45</rightascension>
 			<declination>+41 09 04</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.92</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31036,7 +31088,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 14 45</rightascension>
 			<declination>+41 09 04</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.92</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31761,7 +31813,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<rightascension>19 07 53</rightascension>
 			<declination>+46 52 06</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.95</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34734,7 +34786,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<rightascension>10 52 24</rightascension>
 			<declination>-61 26 48</declination>
 			<angulardistance />
-			<magV />
+			<magV>16.08</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -38061,7 +38113,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>05 04 20</rightascension>
 			<declination>-06 13 47</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.94</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -38809,7 +38861,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>23 13 59</rightascension>
 			<declination>08 45 41</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.0</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -39067,7 +39119,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>18 18 48</rightascension>
 			<declination>45 10 19</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.66</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -39110,7 +39162,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension />
 			<declination />
 			<angulardistance />
-			<magV />
+			<magV>13.00</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -39197,7 +39249,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension />
 			<declination />
 			<angulardistance />
-			<magV />
+			<magV>12.18</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -39806,7 +39858,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>02 28 37</rightascension>
 			<declination>-07 03 38</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.30</magV>
 			<magI />
 			<magH />
 			<magJ />
