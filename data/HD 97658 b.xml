@@ -4,25 +4,25 @@
 	<id>HD 97658 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.02</mass>
-		<radius>0.262</radius>
+		<mass>0.024731</mass>
+		<radius>0.213245</radius>
 		<orbit>
-			<period>9.4957</period>
-			<semimajoraxis>0.0797</semimajoraxis>
-			<eccentricity>0.13</eccentricity>
-			<inclination />
-			<periastron />
+			<period>9.4909</period>
+			<semimajoraxis>0.0796</semimajoraxis>
+			<eccentricity>0.064</eccentricity>
+			<inclination>89.45</inclination>
+			<periastron>351</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K1V</spectraltype>
-		<mass>0.85</mass>
-		<radius>0.73</radius>
-		<metallicity>-0.23</metallicity>
+		<mass>0.748</mass>
+		<radius>0.703</radius>
+		<metallicity>-0.30</metallicity>
 		<distance>21.1</distance>
-		<temperature>689.2</temperature>
+		<temperature>5119.0</temperature>
 		<rightascension>11 14 33</rightascension>
 		<declination>+25 42 37</declination>
 		<angulardistance />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>13/05/29</lastupdate>
-	<description />
+	<lastupdate>13/06/03</lastupdate>
+	<description>Models suggest that HD 97658 b has a rocky core that is enveloped in an atmosphere composed of lighter elements. The planet's host star is the second brightest known to host a transiting super-Earth which facilitates folllow-up observations.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
