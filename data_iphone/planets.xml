@@ -4207,7 +4207,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>05 53 00</rightascension>
 			<declination>-05 59 41</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.693</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -4253,7 +4253,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>05 53 00</rightascension>
 			<declination>-05 59 41</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.693</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -5459,7 +5459,7 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>M1</spectraltype>
 			<mass>0.45</mass>
 			<radius />
 			<metallicity>-0.31</metallicity>
@@ -5962,7 +5962,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K5</spectraltype>
 			<mass>0.73</mass>
 			<radius>0.7</radius>
 			<metallicity>-0.29</metallicity>
@@ -7130,7 +7130,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F8</spectraltype>
 			<mass>1.392</mass>
 			<radius>1.535</radius>
 			<metallicity>0.22</metallicity>
@@ -7617,7 +7617,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>1.163</mass>
 			<radius>1.137</radius>
 			<metallicity>0.24</metallicity>
@@ -7711,7 +7711,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F6</spectraltype>
 			<mass>1.4150</mass>
 			<radius>1.9276</radius>
 			<metallicity>0.26</metallicity>
@@ -7756,7 +7756,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.192</mass>
 			<radius>1.475</radius>
 			<metallicity>0.01</metallicity>
@@ -7942,7 +7942,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<rightascension>11 33 25</rightascension>
 			<declination>-70 11 41</declination>
 			<angulardistance />
-			<magV />
+			<magV>6.70</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -10363,7 +10363,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			<rightascension>13 42 39</rightascension>
 			<declination>+78 03 51</declination>
 			<angulardistance />
-			<magV />
+			<magV>5.910</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -14237,7 +14237,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K0III</spectraltype>
 			<mass>2.3</mass>
 			<radius />
 			<metallicity>0.18</metallicity>
@@ -14538,7 +14538,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G0V</spectraltype>
 			<mass>1.5</mass>
 			<radius />
 			<metallicity />
@@ -16443,7 +16443,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K2V</spectraltype>
 			<mass>0.74</mass>
 			<radius>0.72</radius>
 			<metallicity>-0.19</metallicity>
@@ -18575,7 +18575,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			<rightascension />
 			<declination />
 			<angulardistance />
-			<magV />
+			<magV>10.29</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -19180,7 +19180,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			<rightascension>00 33 10</rightascension>
 			<declination>+54 53 41</declination>
 			<angulardistance />
-			<magV />
+			<magV>5.930</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -25084,25 +25084,25 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HD 97658 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.02</mass>
-			<radius>0.262</radius>
+			<mass>0.024731</mass>
+			<radius>0.213245</radius>
 			<orbit>
-				<period>9.4957</period>
-				<semimajoraxis>0.0797</semimajoraxis>
-				<eccentricity>0.13</eccentricity>
-				<inclination />
-				<periastron />
+				<period>9.4909</period>
+				<semimajoraxis>0.0796</semimajoraxis>
+				<eccentricity>0.064</eccentricity>
+				<inclination>89.45</inclination>
+				<periastron>351</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K1V</spectraltype>
-			<mass>0.85</mass>
-			<radius>0.73</radius>
-			<metallicity>-0.23</metallicity>
+			<mass>0.748</mass>
+			<radius>0.703</radius>
+			<metallicity>-0.30</metallicity>
 			<distance>21.1</distance>
-			<temperature>689.2</temperature>
+			<temperature>5119.0</temperature>
 			<rightascension>11 14 33</rightascension>
 			<declination>+25 42 37</declination>
 			<angulardistance />
@@ -25114,8 +25114,8 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>13/05/29</lastupdate>
-		<description />
+		<lastupdate>13/06/03</lastupdate>
+		<description>Models suggest that HD 97658 b has a rocky core that is enveloped in an atmosphere composed of lighter elements. The planet's host star is the second brightest known to host a transiting super-Earth which facilitates folllow-up observations.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -30082,7 +30082,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K5</spectraltype>
 			<mass>0.62</mass>
 			<radius>0.58</radius>
 			<metallicity />
@@ -30127,7 +30127,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K5</spectraltype>
 			<mass>0.62</mass>
 			<radius>0.58</radius>
 			<metallicity />
@@ -31353,7 +31353,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G0</spectraltype>
 			<mass>1.36</mass>
 			<radius>2.02</radius>
 			<metallicity>0.11</metallicity>
@@ -31490,7 +31490,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G2</spectraltype>
 			<mass>1</mass>
 			<radius>1.1</radius>
 			<metallicity>0.17</metallicity>
@@ -31536,7 +31536,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G2</spectraltype>
 			<mass>1</mass>
 			<radius>1.1</radius>
 			<metallicity>0.17</metallicity>
@@ -31582,7 +31582,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G2</spectraltype>
 			<mass>1</mass>
 			<radius>1.1</radius>
 			<metallicity>0.17</metallicity>
@@ -31732,7 +31732,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/05/20</lastupdate>
 		<description>The Earth-sized planet KIC 8435766 b was identified in the Kepler database and confirmed to be a transiting planet (as opposed to an eclipsing binary) through the absence of ellipsoidal or radial velocity variations. The planet has a dayside temperature of 2300K-3100K.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -31779,7 +31779,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/05/17</lastupdate>
 		<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -33300,7 +33300,7 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>GV</spectraltype>
 			<mass>0.67</mass>
 			<radius />
 			<metallicity />
@@ -33905,7 +33905,7 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>GIV/V</spectraltype>
 			<mass>2.4</mass>
 			<radius />
 			<metallicity>0.14</metallicity>
@@ -35097,7 +35097,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<rightascension>17 41 25</rightascension>
 			<declination>-12 52 31</declination>
 			<angulardistance />
-			<magV />
+			<magV>4.244</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35327,7 +35327,7 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 			<rightascension>8 41 43</rightascension>
 			<declination>20 13 36</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.33</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35373,7 +35373,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<rightascension>8 42 11</rightascension>
 			<declination>19 16 37</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.15</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36038,7 +36038,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<rightascension>01 44 04</rightascension>
 			<declination>-15 56 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>3.50</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36084,7 +36084,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>01 44 04</rightascension>
 			<declination>-15 56 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>3.50</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36130,7 +36130,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>01 44 04</rightascension>
 			<declination>-15 56 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>3.50</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36176,7 +36176,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>01 44 04</rightascension>
 			<declination>-15 56 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>3.50</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36222,7 +36222,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<rightascension>01 44 04</rightascension>
 			<declination>-15 56 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>3.50</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -37563,7 +37563,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>1.1</mass>
 			<radius>1.13</radius>
 			<metallicity>-0.05</metallicity>
@@ -38852,7 +38852,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K2V</spectraltype>
 			<mass>0.5</mass>
 			<radius>1.3</radius>
 			<metallicity />
@@ -38981,7 +38981,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G1</spectraltype>
 			<mass>1.01</mass>
 			<radius>1.06</radius>
 			<metallicity>-0.2</metallicity>
@@ -39110,7 +39110,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G2V</spectraltype>
 			<mass>0.89</mass>
 			<radius>1.37</radius>
 			<metallicity />
@@ -39153,7 +39153,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>K5V</spectraltype>
 			<mass>0.719</mass>
 			<radius>0.613</radius>
 			<metallicity />
@@ -39240,7 +39240,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G1V</spectraltype>
 			<mass>0.514</mass>
 			<radius>0.86</radius>
 			<metallicity />
