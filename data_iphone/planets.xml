@@ -451,7 +451,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>L0/L1.5</spectraltype>
 			<mass>0.12</mass>
 			<radius>0.089</radius>
 			<metallicity />
@@ -494,7 +494,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>M8.5/L2</spectraltype>
 			<mass>0.08</mass>
 			<radius>0.1</radius>
 			<metallicity />
@@ -537,7 +537,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>M8</spectraltype>
 			<mass>0.13</mass>
 			<radius>0.11</radius>
 			<metallicity />
@@ -925,7 +925,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8V</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
@@ -969,7 +969,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8V</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
@@ -1013,7 +1013,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8V</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
@@ -1057,7 +1057,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8V</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
@@ -1101,7 +1101,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8V</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.905</mass>
 			<radius>0.943</radius>
 			<metallicity>0.31</metallicity>
@@ -4569,7 +4569,7 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5</spectraltype>
+			<spectraltype>M3.5V</spectraltype>
 			<mass>0.452</mass>
 			<radius>0.464</radius>
 			<metallicity>-0.32</metallicity>
@@ -4616,7 +4616,7 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5</spectraltype>
+			<spectraltype>M3.5V</spectraltype>
 			<mass>0.452</mass>
 			<radius>0.464</radius>
 			<metallicity>-0.32</metallicity>
@@ -6996,7 +6996,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.218</mass>
 			<radius>1.36</radius>
 			<metallicity>0.15</metallicity>
@@ -7174,7 +7174,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.236</mass>
 			<radius>1.435</radius>
 			<metallicity>0.11</metallicity>
@@ -7218,7 +7218,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>1.022</mass>
 			<radius>1.096</radius>
 			<metallicity>0.26</metallicity>
@@ -7262,7 +7262,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>0.929</mass>
 			<radius>0.877</radius>
 			<metallicity>0.03</metallicity>
@@ -7349,7 +7349,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.404</mass>
 			<radius>1.625</radius>
 			<metallicity>0.19</metallicity>
@@ -7440,7 +7440,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.512</mass>
 			<radius>2.206</radius>
 			<metallicity>0.22</metallicity>
@@ -7484,7 +7484,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.418</mass>
 			<radius>1.683</radius>
 			<metallicity>0.21</metallicity>
@@ -7846,7 +7846,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G2V</spectraltype>
 			<mass>0.986</mass>
 			<radius>1.038</radius>
 			<metallicity>-0.06</metallicity>
@@ -7910,6 +7910,51 @@ Credit: Jonah Gallagher.</imagedescription>
 		<lastupdate>13/04/08</lastupdate>
 		<description>HATS-2 b is the second planet discovered by HATSouth, a global network of autonomous wide-field telescopes. The transit light curves contain several anomalies, probably caused by starspots on the photosphere of the host star. The planet is on a 1.3 day orbit and only about 5 stellar radii away from the star.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-3 b</id_exoplaneteu>
+		<name>HATS-3 b</name>
+		<name>2MASS 20494978-2425436 b</name>
+		<name>GSC 6926-00454 b</name>
+		<id>HATS-3 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.138</mass>
+			<radius>1.697</radius>
+			<orbit>
+				<period>3.547849</period>
+				<semimajoraxis>0.0497</semimajoraxis>
+				<eccentricity>0.253</eccentricity>
+				<inclination>84.3</inclination>
+				<periastron>134</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.300</mass>
+			<radius>1.725</radius>
+			<metallicity>-0.157</metallicity>
+			<distance>556</distance>
+			<temperature>6351</temperature>
+			<rightascension>20 49 59</rightascension>
+			<declination>-24 25 44</declination>
+			<angulardistance />
+			<magV>12.44</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/06/04</lastupdate>
+		<description>HATS-3 b is a transiting exoplanet, discovered by HATSouth and confirmed with reconnaissance spectroscopy. HATSouth is a network of automated telescopes that is capable of year-round 24-hour monitoring of stars over the entire southern hemisphere of the sky. Because of the brightness of the host star, HATS-3 b is an interesting target for future observations to measure the Rossiter-McLaughlin effect and determine the spin-orbit alignment of the system.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -12555,7 +12600,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0 IV</spectraltype>
+			<spectraltype>G0IV</spectraltype>
 			<mass>1.3</mass>
 			<radius>1.497</radius>
 			<metallicity>0.36</metallicity>
@@ -14366,7 +14411,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.275</mass>
 			<radius>1.508</radius>
 			<metallicity>0.24</metallicity>
@@ -15488,7 +15533,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K1-K2</spectraltype>
+			<spectraltype>K2V</spectraltype>
 			<mass>0.8</mass>
 			<radius>0.788</radius>
 			<metallicity>-0.03</metallicity>
@@ -17048,7 +17093,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0 V</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.148</mass>
 			<radius>1.146</radius>
 			<metallicity>0.02</metallicity>
@@ -23785,22 +23830,22 @@ Credit: ESO/L. Calcada</imagedescription>
 			<mass>1.75</mass>
 			<radius />
 			<orbit>
-				<period>441.2</period>
-				<semimajoraxis>1.19</semimajoraxis>
-				<eccentricity>0.219</eccentricity>
-				<inclination />
-				<periastron />
-				<longitude />
+				<period>442.4</period>
+				<semimajoraxis>1.1866</semimajoraxis>
+				<eccentricity>0.203</eccentricity>
+				<inclination>19.41</inclination>
+				<periastron>107</periastron>
+				<longitude>333</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G0</spectraltype>
-			<mass>1.18</mass>
+			<mass>1.13</mass>
 			<radius>1.12</radius>
 			<metallicity>0.32</metallicity>
 			<distance>27.46</distance>
-			<temperature>250.5</temperature>
+			<temperature>5874.0</temperature>
 			<rightascension>09 34 50</rightascension>
 			<declination>-12 07 46</declination>
 			<angulardistance />
@@ -23812,8 +23857,8 @@ Credit: ESO/L. Calcada</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>10/12/23</lastupdate>
-		<description />
+		<lastupdate>13/06/05</lastupdate>
+		<description>The planetary system HD 82943 consists of two planets in a 2:1 mean motion resonance. Both resonant angles are librating around zero. The orbital parameters are based on 10 years of radial velocity measurements with the Keck telescope.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -23828,22 +23873,22 @@ Credit: ESO/L. Calcada</imagedescription>
 			<mass>2.01</mass>
 			<radius />
 			<orbit>
-				<period>219</period>
-				<semimajoraxis>0.746</semimajoraxis>
-				<eccentricity>0.359</eccentricity>
-				<inclination />
-				<periastron />
-				<longitude />
+				<period>219.3</period>
+				<semimajoraxis>0.7423</semimajoraxis>
+				<eccentricity>0.425</eccentricity>
+				<inclination>19.41</inclination>
+				<periastron>133</periastron>
+				<longitude>256</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G0</spectraltype>
-			<mass>1.18</mass>
+			<mass>1.13</mass>
 			<radius>1.12</radius>
 			<metallicity>0.32</metallicity>
 			<distance>27.46</distance>
-			<temperature>250.5</temperature>
+			<temperature>5874.0</temperature>
 			<rightascension>09 34 50</rightascension>
 			<declination>-12 07 46</declination>
 			<angulardistance />
@@ -23855,8 +23900,8 @@ Credit: ESO/L. Calcada</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>10/12/23</lastupdate>
-		<description />
+		<lastupdate>13/06/05</lastupdate>
+		<description>The planetary system HD 82943 consists of two planets in a 2:1 mean motion resonance. Both resonant angles are librating around zero. The orbital parameters are based on 10 years of radial velocity measurements with the Keck telescope.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -24766,7 +24811,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/06/03</lastupdate>
 		<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 4-5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 10-17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>HD95086</image>
 		<imagedescription>This image from ESO's Very Large Telescope (VLT) shows the newly discovered planet HD95086 b, next to its parent star. The observations were made using NACO, the adaptative optics instrument for the VLT in infrared light, and using a technique called differential imaging, which improves the contrast between the planet and its dazzling host star. The star itself has been removed from the picture during processing to enhance the view of the faint exoplanet and its position is marked. The exoplanet appears at the lower left.
 			
@@ -28299,7 +28344,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>0.99</mass>
 			<radius>0.95</radius>
 			<metallicity>0.18</metallicity>
@@ -28344,7 +28389,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>0.99</mass>
 			<radius>0.95</radius>
 			<metallicity>0.18</metallicity>
@@ -28389,7 +28434,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>G</spectraltype>
 			<mass>0.99</mass>
 			<radius>0.95</radius>
 			<metallicity>0.18</metallicity>
@@ -31444,7 +31489,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.213</mass>
 			<radius>1.486</radius>
 			<metallicity>-0.055</metallicity>
@@ -31461,7 +31506,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/07/05</lastupdate>
+		<lastupdate>13/06/04</lastupdate>
 		<description />
 		<new>0</new>
 		<image />
@@ -32724,7 +32769,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.277</mass>
 			<radius>1.52</radius>
 			<metallicity>0.0228</metallicity>
@@ -32768,7 +32813,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.277</mass>
 			<radius>1.52</radius>
 			<metallicity>0.0228</metallicity>
@@ -32812,7 +32857,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.277</mass>
 			<radius>1.52</radius>
 			<metallicity>0.0228</metallicity>
@@ -32856,7 +32901,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
+			<spectraltype>F</spectraltype>
 			<mass>1.277</mass>
 			<radius>1.52</radius>
 			<metallicity>0.0228</metallicity>
@@ -39931,13 +39976,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-79 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.89</mass>
-			<radius>1.7</radius>
+			<mass>0.90</mass>
+			<radius>1.70</radius>
 			<orbit>
-				<period>2.17517632</period>
+				<period>3.6623817</period>
 				<semimajoraxis>0.0362</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>83.2</inclination>
+				<inclination>85.4</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -39949,7 +39994,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.64</radius>
 			<metallicity>0.03</metallicity>
 			<distance>240</distance>
-			<temperature>1958.7</temperature>
+			<temperature>6600.0</temperature>
 			<rightascension>04 25 29</rightascension>
 			<declination>-30 36 02</declination>
 			<angulardistance />
@@ -39961,7 +40006,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/06/07</lastupdate>
+		<lastupdate>13/06/04</lastupdate>
 		<description>WASP-79b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. WASP-79b is about twice as big as Jupiter, but its mass is smaller than that of Jupiter.</description>
 		<new>0</new>
 		<image />
