@@ -7,22 +7,22 @@
 		<mass>1.75</mass>
 		<radius />
 		<orbit>
-			<period>441.2</period>
-			<semimajoraxis>1.19</semimajoraxis>
-			<eccentricity>0.219</eccentricity>
-			<inclination />
-			<periastron />
-			<longitude />
+			<period>442.4</period>
+			<semimajoraxis>1.1866</semimajoraxis>
+			<eccentricity>0.203</eccentricity>
+			<inclination>19.41</inclination>
+			<periastron>107</periastron>
+			<longitude>333</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G0</spectraltype>
-		<mass>1.18</mass>
+		<mass>1.13</mass>
 		<radius>1.12</radius>
 		<metallicity>0.32</metallicity>
 		<distance>27.46</distance>
-		<temperature>250.5</temperature>
+		<temperature>5874.0</temperature>
 		<rightascension>09 34 50</rightascension>
 		<declination>-12 07 46</declination>
 		<angulardistance />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>10/12/23</lastupdate>
-	<description />
+	<lastupdate>13/06/05</lastupdate>
+	<description>The planetary system HD 82943 consists of two planets in a 2:1 mean motion resonance. Both resonant angles are librating around zero. The orbital parameters are based on 10 years of radial velocity measurements with the Keck telescope.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />

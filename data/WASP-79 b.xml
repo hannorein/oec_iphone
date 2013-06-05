@@ -9,13 +9,13 @@
 	<id>WASP-79 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.89</mass>
-		<radius>1.7</radius>
+		<mass>0.90</mass>
+		<radius>1.70</radius>
 		<orbit>
-			<period>2.17517632</period>
+			<period>3.6623817</period>
 			<semimajoraxis>0.0362</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>83.2</inclination>
+			<inclination>85.4</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -27,7 +27,7 @@
 		<radius>1.64</radius>
 		<metallicity>0.03</metallicity>
 		<distance>240</distance>
-		<temperature>1958.7</temperature>
+		<temperature>6600.0</temperature>
 		<rightascension>04 25 29</rightascension>
 		<declination>-30 36 02</declination>
 		<angulardistance />
@@ -39,7 +39,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/06/07</lastupdate>
+	<lastupdate>13/06/04</lastupdate>
 	<description>WASP-79b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. WASP-79b is about twice as big as Jupiter, but its mass is smaller than that of Jupiter.</description>
 	<new>0</new>
 	<image />
