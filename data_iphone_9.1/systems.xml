@@ -40,7 +40,7 @@
 		<star>
 			<mass>1.8</mass>
 			<radius>24.08</radius>
-			<magV>5.02</magV>
+			<magV>5.024</magV>
 			<magB>6.415</magB>
 			<magJ errorminus="0.230" errorplus="0.230">2.876</magJ>
 			<magH errorminus="0.194" errorplus="0.194">2.091</magH>
@@ -3314,6 +3314,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.0185</semimajoraxis>
 				<eccentricity>0</eccentricity>
 				<inclination>85.1</inclination>
+				<transittime errorminus="0.0018" errorplus="0.0018" unit="HJD">2454600.69795</transittime>
 				<description>The star Gliese 436 is located in the constellation Leo. While observing the already known planet Gliese 436 b with the Spitzer Space Telescope, astronomers have discovered an additional transiting planet Gliese 436 c. The planet is also known as UCF-1.01. There might be even more planets in the system.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/07/20</lastupdate>
@@ -5328,6 +5329,9 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius>1.59</radius>
 			<magV errorminus="0.07" errorplus="0.07">11.12</magV>
 			<magB errorminus="0.10" errorplus="0.10">11.83</magB>
+			<magJ errorminus="0.018" errorplus="0.018">10.100</magJ>
+			<magH errorminus="0.018" errorplus="0.018">9.837</magH>
+			<magK errorminus="0.018" errorplus="0.018">9.770</magK>
 			<metallicity>0.24</metallicity>
 			<spectraltype>F</spectraltype>
 			<planet>
@@ -8774,6 +8778,9 @@ Credit: ESO/L. Calcada</imagedescription>
 			<radius>1.497</radius>
 			<magV errorminus="0.01" errorplus="0.01">8.14</magV>
 			<magB errorminus="0.02" errorplus="0.02">8.75</magB>
+			<magJ errorminus="0.017" errorplus="0.017">7.118</magJ>
+			<magH errorminus="0.011" errorplus="0.011">6.899</magH>
+			<magK errorminus="0.009" errorplus="0.009">6.819</magK>
 			<metallicity>0.36</metallicity>
 			<spectraltype>G0IV</spectraltype>
 			<planet>
@@ -10038,6 +10045,9 @@ Credit: ESO/L. Calcada</imagedescription>
 			<radius>1.508</radius>
 			<magV errorminus="0.01" errorplus="0.01">8.16</magV>
 			<magB errorminus="0.02" errorplus="0.02">8.78</magB>
+			<magJ errorminus="0.007" errorplus="0.007">7.080</magJ>
+			<magH errorminus="0.023" errorplus="0.023">6.857</magH>
+			<magK errorminus="0.024" errorplus="0.024">6.807</magK>
 			<metallicity>0.24</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<planet>
@@ -10806,6 +10816,8 @@ Credit: ESO/L. Calcada</imagedescription>
 			<mass>0.8</mass>
 			<radius>0.788</radius>
 			<magV errorminus="0.05" errorplus="0.05">7.68</magV>
+			<magJ errorminus="0.027" errorplus="0.027">6.073</magJ>
+			<magH errorminus="0.027" errorplus="0.027">5.587</magH>
 			<magK errorminus="0.02" errorplus="0.02">5.54</magK>
 			<metallicity>-0.03</metallicity>
 			<spectraltype>K2V</spectraltype>
@@ -16216,6 +16228,9 @@ Credit: ESO/L. Calcada</imagedescription>
 				<radius>0.98</radius>
 				<magV errorminus="0.02" errorplus="0.02">9.00</magV>
 				<magB errorminus="0.03" errorplus="0.03">9.78</magB>
+				<magJ errorminus="0.025" errorplus="0.025">7.702</magJ>
+				<magH errorminus="0.031" errorplus="0.031">7.400</magH>
+				<magK errorminus="0.013" errorplus="0.013">7.316</magK>
 				<metallicity>0.43</metallicity>
 				<spectraltype>G5</spectraltype>
 				<temperature>5370</temperature>
@@ -18335,6 +18350,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<semimajoraxis errorminus="0.001" errorplus="0.001">0.091</semimajoraxis>
 				<eccentricity errorminus="0.042" errorplus="0.068">0.045</eccentricity>
 				<inclination errorminus="0.12" errorplus="0.12">89.55</inclination>
+				<transittime errorminus="0.0077" errorplus="0.0077" unit="BJD">2454971.5052</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/28</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18355,6 +18371,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<semimajoraxis>0.107</semimajoraxis>
 				<eccentricity errorminus="0.013" errorplus="0.063">0.026</eccentricity>
 				<inclination errorminus="0.13" errorplus="0.35">89.65</inclination>
+				<transittime errorminus="0.0031" errorplus="0.0031" unit="BJD">2454971.1748</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/28</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18375,6 +18392,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<semimajoraxis>0.155</semimajoraxis>
 				<eccentricity errorminus="0.002" errorplus="0.007">0.004</eccentricity>
 				<inclination errorminus="0.07" errorplus="0.07">89.76</inclination>
+				<transittime errorminus="0.0044" errorplus="0.0044" unit="BJD">2454981.4550</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/28</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18395,6 +18413,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<semimajoraxis>0.195</semimajoraxis>
 				<eccentricity errorminus="0.006" errorplus="0.006">0.012</eccentricity>
 				<inclination errorminus="0.01" errorplus="0.01">88.91</inclination>
+				<transittime errorminus="0.0037" errorplus="0.0037" unit="BJD">2454987.1590</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/28</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18415,6 +18434,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<semimajoraxis>0.250</semimajoraxis>
 				<eccentricity errorminus="0.009" errorplus="0.013">0.013</eccentricity>
 				<inclination errorminus="0.03" errorplus="0.03">89.50</inclination>
+				<transittime errorminus="0.0059" errorplus="0.0059" unit="BJD">2454964.6487</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/28</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18435,6 +18455,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<semimajoraxis>0.466</semimajoraxis>
 				<eccentricity upperlimit="0.15" />
 				<inclination errorminus="0.023" errorplus="0.01">89.89</inclination>
+				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455120.2901</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/28</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -18598,6 +18619,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<semimajoraxis>0.7048</semimajoraxis>
 				<eccentricity>0.00685</eccentricity>
 				<inclination>90.0322</inclination>
+				<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2455425.2038</transittime>
 				<description>Kepler-16 (AB) b is a circum-binary planet. It is orbiting two stars. The orbit of the binary stars and the planet are perfectly alligned within half a degree. This suggests that the planet formed in a circumbinary disc.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/11/27</lastupdate>
@@ -18993,6 +19015,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<semimajoraxis>0.075</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime unit="BJD">2454971.3022</transittime>
 				<lastupdate>12/08/06</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
@@ -19008,6 +19031,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<semimajoraxis>0.099</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime unit="BJD">2454966.2926</transittime>
 				<lastupdate>12/01/26</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
@@ -19041,6 +19065,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<semimajoraxis>0.08</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime unit="BJD">2454973.5689</transittime>
 				<lastupdate>12/08/06</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
@@ -19055,6 +19080,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<semimajoraxis>0.106</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime unit="BJD">2454970.586</transittime>
 				<lastupdate>12/08/06</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
@@ -19086,6 +19112,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.2369387</radius>
 				<period>6.238</period>
 				<semimajoraxis>0.068</semimajoraxis>
+				<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2454973.5126</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19101,6 +19128,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.410086</radius>
 				<period>12.72</period>
 				<semimajoraxis>0.110</semimajoraxis>
+				<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2454986.0871</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19131,6 +19159,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.32806</radius>
 				<period>12.28</period>
 				<semimajoraxis>0.085</semimajoraxis>
+				<transittime errorminus="0.0030" errorplus="0.0030" unit="BJD">2454978.8321</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19146,6 +19175,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.32806</radius>
 				<period>17.25</period>
 				<semimajoraxis>0.107</semimajoraxis>
+				<transittime errorminus="0.0040" errorplus="0.0040" unit="BJD">2454982.8854</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-26 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19178,6 +19208,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.364521</radius>
 				<period>15.33</period>
 				<semimajoraxis>0.118</semimajoraxis>
+				<transittime errorminus="0.0048" errorplus="0.0048" unit="BJD">2454991.6726</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19193,6 +19224,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.44653</radius>
 				<period>31.33</period>
 				<semimajoraxis>0.191</semimajoraxis>
+				<transittime errorminus="0.0032" errorplus="0.0032" unit="BJD">2454986.4274</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19224,6 +19256,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.32806906</radius>
 				<period>5.91</period>
 				<semimajoraxis>0.062</semimajoraxis>
+				<transittime errorminus="0.0083" errorplus="0.0083" unit="BJD">2454975.6227</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/26</lastupdate>
@@ -19239,6 +19272,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<radius>0.30984</radius>
 				<period>8.98</period>
 				<semimajoraxis>0.081</semimajoraxis>
+				<transittime errorminus="0.0081" errorplus="0.0081" unit="BJD">2454981.7277</transittime>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/06</lastupdate>
@@ -19488,22 +19522,26 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magJ errorminus="0.020" errorplus="0.020">12.871</magJ>
 			<magH errorminus="0.021" errorplus="0.021">12.620</magH>
 			<magK errorminus="0.022" errorplus="0.022">12.591</magK>
-			<mass>1.291</mass>
-			<radius>1.82</radius>
+			<mass errorminus="0.121" errorplus="0.063">1.291</mass>
+			<metallicity errorminus="0.0019" errorplus="0.0019">0.0250</metallicity>
+			<radius errorminus="0.18" errorplus="0.14">1.82</radius>
+			<age errorminus="1.03" errorplus="0.74">4.27</age>
 			<planet>
 				<name>Kepler-33 b</name>
 				<name>KOI 707.01</name>
 				<name>KIC 9458613 b</name>
 				<list>Confirmed planets</list>
 				<radius>0.158566</radius>
-				<period>5.66</period>
+				<period errorminus="0.00012" errorplus="0.00012">5.66793</period>
 				<semimajoraxis>0.0677</semimajoraxis>
+				<inclination errorminus="1.62" errorplus="0.96">86.39</inclination>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/26</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1349.8</temperature>
+				<transittime errorminus="0.0075" errorplus="0.0075" unit="BJD">2454964.8981</transittime>
 			</planet>
 			<planet>
 				<name>Kepler-33 c</name>
@@ -19511,14 +19549,16 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KIC 9458613 c</name>
 				<list>Confirmed planets</list>
 				<radius>0.2916</radius>
-				<period>13.17</period>
+				<period errorminus="0.00014" errorplus="0.00014">13.17562</period>
 				<semimajoraxis>0.1189</semimajoraxis>
+				<inclination errorminus="1.06" errorplus="0.58">88.19</inclination>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/26</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>1018.5</temperature>
+				<transittime errorminus="0.0042" errorplus="0.0042" unit="BJD">2454976.6764</transittime>
 			</planet>
 			<planet>
 				<name>Kepler-33 d</name>
@@ -19526,14 +19566,16 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KIC 9458613 d</name>
 				<list>Confirmed planets</list>
 				<radius>0.487547</radius>
-				<period>21.77</period>
+				<period errorminus="0.00011" errorplus="0.00011">21.77596</period>
 				<semimajoraxis>0.166</semimajoraxis>
+				<inclination errorminus="0.48" errorplus="0.61">88.71</inclination>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/26</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>861.5</temperature>
+				<transittime errorminus="0.0018" errorplus="0.0018" unit="BJD">2455022.6342</transittime>
 			</planet>
 			<planet>
 				<name>Kepler-33 e</name>
@@ -19541,7 +19583,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KIC 9458613 e</name>
 				<list>Confirmed planets</list>
 				<radius>0.366343</radius>
-				<period>31.78</period>
+				<period errorminus="0.00039" errorplus="0.00039">31.78440</period>
 				<semimajoraxis>0.2138</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -19549,6 +19591,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>759.5</temperature>
+				<transittime errorminus="0.0048" errorplus="0.0048" unit="BJD">2454968.8715</transittime>
 			</planet>
 			<planet>
 				<name>Kepler-33 f</name>
@@ -19556,17 +19599,18 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KIC 9458613 f</name>
 				<list>Confirmed planets</list>
 				<radius>0.406441</radius>
-				<period>105.5763</period>
-				<semimajoraxis>0.2535</semimajoraxis>
+				<period errorminus="0.00042" errorplus="0.00042">41.02902</period>
+				<semimajoraxis errorminus="0.0054" errorplus="0.0054">0.2535</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/26</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<new>0</new>
 				<temperature>697.5</temperature>
+				<transittime errorminus="0.0040" errorplus="0.0040" unit="BJD">2455005.5763</transittime>
 			</planet>
 			<name>Kepler-33</name>
-			<temperature>5904.0</temperature>
+			<temperature errorminus="47" errorplus="47">5904.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -19604,6 +19648,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<semimajoraxis>1.0896</semimajoraxis>
 				<eccentricity>0.182</eccentricity>
 				<inclination>90.355</inclination>
+				<transittime>2454969.20000</transittime>
 				<description>Kepler-34(AB) b is a Saturn-sized planet orbiting two Sun-like stars which are in a binary (therefore the name with AB). The Kepler team estimates that approximately 1% of all close binary stars have planets. This yields a galactic population of at least several million.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/11</lastupdate>
@@ -19648,6 +19693,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<semimajoraxis>0.60347</semimajoraxis>
 				<eccentricity>0.042</eccentricity>
 				<inclination>90.76</inclination>
+				<transittime>2454965.85000</transittime>
 				<description>Kepler-35(AB) b is a planet orbiting two sub solar-mass stars which are in a binary (therefore the name with AB). The Kepler team estimates that approximately 1% of all close binary stars have planets. This yields a galactic population of at least several million.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/11</lastupdate>
@@ -21265,6 +21311,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<metallicity errorminus="0.13" errorplus="0.13">-0.08</metallicity>
 			<magV errorminus="0.32" errorplus="0.32">11.72</magV>
 			<magB errorminus="0.32" errorplus="0.32">12.87</magB>
+			<magJ errorminus="0.021" errorplus="0.021">10.184</magJ>
+			<magH errorminus="0.015" errorplus="0.015">9.675</magH>
+			<magK errorminus="0.012" errorplus="0.012">9.586</magK>
 			<spectraltype>G</spectraltype>
 			<age errorminus="0.15" errorplus="0.15">0.75</age>
 			<planet>
@@ -22948,6 +22997,9 @@ Credit: Kains et al (2013).</imagedescription>
 			<spectraltype>G2V</spectraltype>
 			<magV>15.780</magV>
 			<magI>14.92</magI>
+			<magJ>13.962</magJ>
+			<magH>13.314</magH>
+			<magK>12.856</magK>
 			<planet>
 				<name>OGLE-TR-10 b</name>
 				<name>V5125 Sgr b</name>
@@ -23045,6 +23097,9 @@ Credit: Kains et al (2013).</imagedescription>
 			<metallicity>0.37</metallicity>
 			<spectraltype>F</spectraltype>
 			<magI>15.72</magI>
+			<magJ errorminus="0.049" errorplus="0.049">15.252</magJ>
+			<magH errorminus="0.067" errorplus="0.067">14.861</magH>
+			<magK errorminus="0.146" errorplus="0.146">14.990</magK>
 			<planet>
 				<name>OGLE-TR-132 b</name>
 				<list>Confirmed planets</list>
@@ -24153,9 +24208,14 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<name>TrES-1</name>
 			<mass>0.88</mass>
 			<radius>0.85</radius>
-			<magV>11.79</magV>
+			<magB errorminus="0.21" errorplus="0.21">12.35</magB>
+			<magV errorminus="0.10" errorplus="0.10">11.42</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.294</magJ>
+			<magH errorminus="0.021" errorplus="0.021">9.887</magH>
+			<magK errorminus="0.019" errorplus="0.019">9.819</magK>
 			<metallicity>0.001</metallicity>
 			<spectraltype>K0V</spectraltype>
+			<temperature errorminus="200" errorplus="200">5250</temperature>
 			<planet>
 				<name>TrES-1 b</name>
 				<name>TYC 2652-01324-1</name>
@@ -24189,6 +24249,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<mass errorminus="0.063" errorplus="0.063">0.983</mass>
 				<radius errorminus="0.033" errorplus="0.033">1.003</radius>
 				<metallicity>0.001</metallicity>
+				<magB errorminus="0.10" errorplus="0.10">11.85</magB>
+				<magV errorminus="0.08" errorplus="0.08">11.25</magV>
+				<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
+				<magH errorminus="0.026" errorplus="0.026">9.920</magH>
+				<magK errorminus="0.022" errorplus="0.022">9.846</magK>
 				<spectraltype>G0</spectraltype>
 				<temperature errorminus="50" errorplus="50">5850</temperature>
 				<planet>
@@ -24231,7 +24296,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<name>TrES-3</name>
 			<mass>0.88</mass>
 			<radius>0.85</radius>
-			<magV>11.79</magV>
+			<magB errorminus="0.009" errorplus="0.009">13.114</magB>
+			<magV errorminus="0.006" errorplus="0.006">12.402</magV>
+			<magR>12.06</magR>
+			<magI errorminus="0.010" errorplus="0.010">11.603</magI>
+			<magJ errorminus="0.022" errorplus="0.022">11.015</magJ>
+			<magH errorminus="0.030" errorplus="0.030">10.655</magH>
+			<magK errorminus="0.028" errorplus="0.028">10.608</magK>
 			<metallicity>0.001</metallicity>
 			<spectraltype>K0V</spectraltype>
 			<planet>
@@ -24265,7 +24336,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<name>TrES-4 A</name>
 				<mass>0.88</mass>
 				<radius>0.85</radius>
-				<magV>11.79</magV>
+				<magB errorminus="0.007" errorplus="0.007">12.112</magB>
+				<magV errorminus="0.004" errorplus="0.004">11.592</magV>
+				<magJ errorminus="0.018" errorplus="0.018">10.583</magJ>
+				<magH errorminus="0.015" errorplus="0.015">10.350</magH>
+				<magK errorminus="0.019" errorplus="0.019">10.330</magK>
 				<metallicity>0.001</metallicity>
 				<spectraltype>K0V</spectraltype>
 				<planet>
@@ -24306,7 +24381,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<name>TrES-5</name>
 			<mass>0.88</mass>
 			<radius>0.85</radius>
-			<magV>11.79</magV>
+			<magB errorminus="0.41" errorplus="0.41">14.45</magB>
+			<magV errorminus="0.26" errorplus="0.26">13.58</magV>
+			<magR errorminus="0.07" errorplus="0.07">13.77</magR>
+			<magI errorminus="0.075" errorplus="0.075">12.780</magI>
+			<magJ errorminus="0.027" errorplus="0.027">12.111</magJ>
+			<magH errorminus="0.023" errorplus="0.023">11.673</magH>
+			<magK errorminus="0.019" errorplus="0.019">11.591</magK>
 			<metallicity>0.20</metallicity>
 			<spectraltype>K0V</spectraltype>
 			<temperature>5171</temperature>
@@ -26332,6 +26413,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>K5V</spectraltype>
 			<magB>13.92</magB>
 			<magV>13.00</magV>
+			<magJ errorminus="0.016" errorplus="0.016">10.440</magJ>
+			<magH errorminus="0.021" errorplus="0.021">9.878</magH>
+			<magK errorminus="0.016" errorplus="0.016">9.723</magK>
 			<mass errorminus="0.035" errorplus="0.035">0.719</mass>
 			<radius errorminus="0.044" errorplus="0.044">0.613</radius>
 			<planet>
@@ -26397,6 +26481,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>G1V</spectraltype>
 			<magB>12.86</magB>
 			<magV>12.18</magV>
+			<magJ errorminus="0.019" errorplus="0.019">10.964</magJ>
+			<magH errorminus="0.028" errorplus="0.028">10.656</magH>
+			<magK errorminus="0.019" errorplus="0.019">10.585</magK>
 			<mass errorminus="0.034" errorplus="0.034">0.514</mass>
 			<radius errorminus="0.12" errorplus="0.12">0.86</radius>
 			<planet>
@@ -26593,6 +26680,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.75</radius>
 			<magV>11.6</magV>
 			<magB errorminus="0.10" errorplus="0.10">12.00</magB>
+			<magJ errorminus="0.018" errorplus="0.018">10.719</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.496</magH>
+			<magK errorminus="0.021" errorplus="0.021">10.452</magK>
 			<metallicity>-0.31</metallicity>
 			<spectraltype>F4</spectraltype>
 			<planet>
@@ -26613,7 +26703,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature>1647.5</temperature>
 			</planet>
 			<name>WASP-66</name>
-			<temperature>6600.0</temperature>
+			<temperature errorminus="150" errorplus="150">6600.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -26626,6 +26716,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.87</radius>
 			<magV>12.5</magV>
 			<magB errorminus="0.29" errorplus="0.29">12.90</magB>
+			<magJ errorminus="0.023" errorplus="0.023">10.608</magJ>
+			<magH errorminus="0.022" errorplus="0.022">20.214</magH>
+			<magK errorminus="0.019" errorplus="0.019">10.129</magK>
 			<metallicity>-0.07</metallicity>
 			<spectraltype>kov</spectraltype>
 			<planet>
@@ -26835,6 +26928,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature>5500</temperature>
 				<metallicity>0.00</metallicity>
 				<magV errorminus="0.05" errorplus="0.05">10.30</magV>
+				<magJ errorminus="0.011" errorplus="0.011">8.766</magJ>
+				<magH errorminus="0.037" errorplus="0.037">8.374</magH>
+				<magK errorminus="0.030" errorplus="0.030">8.408</magK>
 				<spectraltype>G8 V</spectraltype>
 				<planet>
 					<name>WASP-77 A b</name>
