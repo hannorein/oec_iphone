@@ -8,8 +8,8 @@
 		<mass />
 		<radius>0.08202</radius>
 		<orbit>
-			<period>1.916990</period>
-			<semimajoraxis>0.028</semimajoraxis>
+			<period>1.916992000000</period>
+			<semimajoraxis>0.0280000</semimajoraxis>
 			<eccentricity />
 			<inclination />
 		</orbit>
@@ -17,13 +17,13 @@
 	<star>
 		<spectraltype />
 		<mass />
-		<radius>0.72</radius>
+		<radius>0.7230</radius>
 		<metallicity />
 		<temperature>5220.00</temperature>
 		<rightascension>19 39 33</rightascension>
 		<declination>+49 22 47</declination>
 		<angulardistance />
-		<distance>437.64</distance>
+		<distance>439.46</distance>
 		<magV />
 		<magI />
 		<magH />
@@ -33,7 +33,7 @@
 	<multiplicity>1</multiplicity>
 	<discoveryyear />
 	<lastupdate />
-	<description>This is a Kepler Object of Interest from the Q1-Q8 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+	<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 	<new />
 	<image />
 	<imagedescription />
