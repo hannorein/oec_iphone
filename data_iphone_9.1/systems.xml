@@ -21495,7 +21495,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-142</name>
 		<rightascension>19 24 35</rightascension>
 		<declination>+40 40 09</declination>
-		<distance>385</distance>
+		<distance errorminus="20" errorplus="16">385</distance>
 		<star>
 			<name>KOI-142</name>
 			<mass>1.022</mass>
@@ -21517,7 +21517,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<periastron>90.7</periastron>
 				<longitude>6.425</longitude>
 				<ascendingnode>270</ascendingnode>
-				<transittime>2454954.62702</transittime>
+				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2454966.08938</transittime>
 				<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems. Note that the mass of the inner planet KOI-142 b is an upper limit.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/04/17</lastupdate>
@@ -21535,7 +21535,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<longitude>253.0</longitude>
 				<ascendingnode>259</ascendingnode>
 				<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems.</description>
-				<discoverymethod>transit</discoverymethod>
+				<discoverymethod>timing</discoverymethod>
 				<lastupdate>13/04/17</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<new>0</new>
@@ -21608,6 +21608,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>1.02</radius>
 				<period>1.72</period>
 				<semimajoraxis>0.029</semimajoraxis>
+				<transittime errorminus="0.00008" errorplus="0.00008" unit="BJD">2454966.02029</transittime>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/06/05</lastupdate>
@@ -21676,6 +21677,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>0.7</radius>
 				<period>5.33</period>
 				<semimajoraxis>0.059</semimajoraxis>
+				<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2454964.98094</transittime>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/06/05</lastupdate>
@@ -21864,6 +21866,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>0.65</radius>
 				<period>8.6</period>
 				<semimajoraxis>0.08</semimajoraxis>
+				<transittime errorminus="0.00045" errorplus="0.00045" unit="BJD">2455010.64238</transittime>
 				<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/06/05</lastupdate>
@@ -21893,6 +21896,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>0.31</radius>
 				<period>14.7903</period>
 				<semimajoraxis>0.12</semimajoraxis>
+				<transittime errorminus="0.0062" errorplus="0.0062" unit="BJD">2455009.796</transittime>
 				<description>The planetary system KOI-730 has been discovered by Kepler. The planet masses have not been confirmed. However, a dynamical study by Fabrycky et al suggests that this system is real.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/07</lastupdate>
@@ -21906,6 +21910,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>0.23</radius>
 				<period>9.8499</period>
 				<semimajoraxis>0.092</semimajoraxis>
+				<transittime errorminus="0.011" errorplus="0.011" unit="BJD">2454971.36</transittime>
 				<description>The planetary system KOI-730 has been discovered by Kepler. The planet masses have not been confirmed. However, a dynamical study by Fabrycky et al suggests that this system is real.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/07</lastupdate>
@@ -21919,6 +21924,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>0.25</radius>
 				<period>19.7216</period>
 				<semimajoraxis>0.145</semimajoraxis>
+				<transittime errorminus="0.011" errorplus="0.011" unit="BJD">2454968.131</transittime>
 				<description>The planetary system KOI-730 has been discovered by Kepler. The planet masses have not been confirmed. However, a dynamical study by Fabrycky et al suggests that this system is real.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/08</lastupdate>
@@ -21932,6 +21938,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>0.18</radius>
 				<period>7.3831</period>
 				<semimajoraxis>0.076</semimajoraxis>
+				<transittime errorminus="0.014" errorplus="0.014" unit="BJD">2454970.475</transittime>
 				<description>The planetary system KOI-730 has been discovered by Kepler. The planet masses have not been confirmed. However, a dynamical study by Fabrycky et al suggests that this system is real.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/07</lastupdate>
@@ -22061,10 +22068,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<list>Confirmed planets</list>
 				<mass>0.0330298</mass>
 				<radius>0.1558328</radius>
-				<period>3.743208</period>
+				<period errorminus="0.0000015" errorplus="0.0000015">3.743208</period>
 				<semimajoraxis>0.05119</semimajoraxis>
-				<inclination>89.30</inclination>
-				<eccentricity>0.25</eccentricity>
+				<inclination errorminus="0.57" errorplus="0.57">89.30</inclination>
+				<eccentricity errorminus="0.17" errorplus="0.17">0.25</eccentricity>
 				<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2455211.51363</transittime>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -22079,10 +22086,11 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<list>Confirmed planets</list>
 				<radius>0.39368287</radius>
 				<mass>0.04907293</mass>
-				<period>10.423648</period>
+				<period errorminus="0.000016" errorplus="0.000016">10.423648</period>
 				<semimajoraxis>0.1013</semimajoraxis>
-				<inclination>88.36</inclination>
-				<eccentricity>0.43</eccentricity>
+				<inclination errorminus="0.75" errorplus="0.75">88.36</inclination>
+				<eccentricity errorminus="0.23" errorplus="0.23">0.43</eccentricity>
+				<transittime errorminus="0.0051" errorplus="0.0051" unit="BJD">2454971.0084</transittime>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/03/15</lastupdate>
@@ -22097,9 +22105,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<radius>1.0270384</radius>
 				<mass>0.33344427</mass>
 				<semimajoraxis>0.1684</semimajoraxis>
-				<period>22.3429890</period>
-				<inclination>89.871</inclination>
-				<eccentricity>0.022</eccentricity>
+				<period errorminus="0.0000067" errorplus="0.0000067">22.3429890</period>
+				<inclination errorminus="0.123" errorplus="0.123">89.871</inclination>
+				<eccentricity errorminus="0.038" errorplus="0.038">0.022</eccentricity>
 				<transittime errorminus="0.00062" errorplus="0.00062" unit="BJD">2455211.51790</transittime>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -22113,11 +22121,12 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<name>KOI-94.03</name>
 				<list>Confirmed planets</list>
 				<radius>0.59781473</radius>
-				<period>54.32031</period>
+				<period errorminus="0.00012" errorplus="0.00012">54.32031</period>
 				<semimajoraxis>0.3046</semimajoraxis>
 				<mass>0.11009952</mass>
 				<inclination>89.76</inclination>
 				<eccentricity>0.019</eccentricity>
+				<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454994.2379</transittime>
 				<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/03/15</lastupdate>
@@ -23492,6 +23501,7 @@ Credit: Kains et al (2013).</imagedescription>
 				<semimajoraxis>0.828</semimajoraxis>
 				<radius>0.922238</radius>
 				<temperature>281</temperature>
+				<transittime unit="MJD">2455195.570</transittime>
 				<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
 				<image>PH2</image>
 				<imagedescription>Artistic rendition of a sunset view from the perspective of an imagined Earth-like moon orbiting the giant planet, PH2 b. 
@@ -26481,6 +26491,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000010" errorplus="0.0000010">7.919585</period>
 				<inclination errorminus="0.52" errorplus="0.52">89.27</inclination>
 				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0697</semimajoraxis>
+				<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455830.95559</transittime>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/13</lastupdate>
@@ -26549,6 +26560,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<eccentricity>0</eccentricity>
 				<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0531</semimajoraxis>
 				<inclination errorminus="1.6" errorplus="1.6">87.9</inclination>
+				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455747.0295</transittime>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/13</lastupdate>
