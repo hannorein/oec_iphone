@@ -1,4 +1,4 @@
-<planets date="2013-06-10" name="data" planets="917">
+<planets date="2013-06-12" name="data" planets="917">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2602,6 +2602,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<lastupdate>12/01/01</lastupdate>
@@ -18784,6 +18785,7 @@ Credit: ESO/J. Rameau</imagedescription>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<lastupdate>12/01/01</lastupdate>
@@ -19263,6 +19265,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G</spectraltype>
 			<mass>1.018</mass>
 			<radius>0.992</radius>
 			<metallicity>0.36</metallicity>
@@ -19463,6 +19466,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G8V</spectraltype>
 			<mass>0.936</mass>
 			<radius>0.85</radius>
 			<metallicity>-0.13</metallicity>
@@ -19796,6 +19800,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G</spectraltype>
 			<mass>1.03</mass>
 			<radius>1.07</radius>
 			<metallicity>-0.24</metallicity>
@@ -19825,6 +19830,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G</spectraltype>
 			<mass>1.03</mass>
 			<radius>1.07</radius>
 			<metallicity>-0.24</metallicity>
@@ -19855,6 +19861,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>F</spectraltype>
 			<mass>1.22</mass>
 			<radius>1.36</radius>
 			<distance>191</distance>
@@ -19885,6 +19892,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>F</spectraltype>
 			<mass>1.22</mass>
 			<radius>1.36</radius>
 			<distance>191</distance>
@@ -19915,6 +19923,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>K</spectraltype>
 			<mass>0.65</mass>
 			<radius>0.59</radius>
 			<metallicity>-0.21</metallicity>
@@ -19945,6 +19954,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>K</spectraltype>
 			<mass>0.65</mass>
 			<radius>0.59</radius>
 			<metallicity>-0.21</metallicity>
@@ -20035,6 +20045,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>K4V</spectraltype>
 			<mass>0.75</mass>
 			<radius>0.70</radius>
 			<metallicity>0.34</metallicity>
@@ -20065,6 +20076,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>K4V</spectraltype>
 			<mass>0.75</mass>
 			<radius>0.70</radius>
 			<metallicity>0.34</metallicity>
@@ -20095,6 +20107,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G5V</spectraltype>
 			<mass>1.0</mass>
 			<radius>0.96</radius>
 			<distance>1246</distance>
@@ -20125,6 +20138,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G5V</spectraltype>
 			<mass>1.0</mass>
 			<radius>0.96</radius>
 			<distance>1246</distance>
@@ -22223,6 +22237,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G4V</spectraltype>
 			<mass>0.81</mass>
 			<radius>0.93</radius>
 			<metallicity>-0.29</metallicity>
@@ -22254,6 +22269,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>G4V</spectraltype>
 			<mass>0.81</mass>
 			<radius>0.93</radius>
 			<metallicity>-0.29</metallicity>
@@ -23567,6 +23583,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<lastupdate>12/01/01</lastupdate>
@@ -23596,6 +23613,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<lastupdate>12/01/01</lastupdate>
@@ -24028,6 +24046,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>1846</discoveryyear>
@@ -24965,6 +24984,7 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>1930</discoveryyear>
@@ -25327,6 +25347,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<lastupdate>12/01/01</lastupdate>
@@ -26002,6 +26023,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>1781</discoveryyear>
@@ -26116,6 +26138,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
+			<temperature>5778</temperature>
 		</star>
 		<multiplicity>9</multiplicity>
 		<lastupdate>12/01/01</lastupdate>
