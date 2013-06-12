@@ -18560,6 +18560,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magH errorminus="0.03" errorplus="0.03">12.28</magH>
 			<magK errorminus="0.028" errorplus="0.028">12.216</magK>
 			<metallicity>0.36</metallicity>
+			<spectraltype>G</spectraltype>
 			<planet>
 				<name>Kepler-15 b</name>
 				<name>2MASS J19444814+4908244 b</name>
@@ -18757,6 +18758,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magH errorminus="0.016" errorplus="0.016">10.375</magH>
 			<magK errorminus="0.019" errorplus="0.019">10.318</magK>
 			<metallicity>-0.13</metallicity>
+			<spectraltype>G8V</spectraltype>
 			<planet>
 				<name>Kepler-19 b</name>
 				<name>TYC 3134-1549-1 b</name>
@@ -19056,6 +19058,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magJ errorminus="0.023" errorplus="0.023">13.763</magJ>
 			<magH errorminus="0.03" errorplus="0.03">13.45</magH>
 			<magK errorminus="0.04" errorplus="0.04">13.37</magK>
+			<spectraltype>G</spectraltype>
 			<planet>
 				<name>Kepler-24 b</name>
 				<name>KOI 1102.02</name>
@@ -19104,6 +19107,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magJ errorminus="0.020" errorplus="0.020">9.764</magJ>
 			<magH errorminus="0.020" errorplus="0.020">9.532</magH>
 			<magK errorminus="0.017" errorplus="0.017">9.493</magK>
+			<spectraltype>F</spectraltype>
 			<planet>
 				<name>Kepler-25 b</name>
 				<name>KIC 3231341 b</name>
@@ -19151,6 +19155,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magJ errorminus="0.027" errorplus="0.027">13.408</magJ>
 			<magH errorminus="0.023" errorplus="0.023">12.746</magH>
 			<magK errorminus="0.026" errorplus="0.026">12.630</magK>
+			<spectraltype>K</spectraltype>
 			<planet>
 				<name>Kepler-26 b</name>
 				<name>KOI 250.01</name>
@@ -19248,6 +19253,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magJ errorminus="0.023" errorplus="0.023">13.334</magJ>
 			<magH errorminus="0.024" errorplus="0.024">12.767</magH>
 			<magK errorminus="0.028" errorplus="0.028">12.719</magK>
+			<spectraltype>K4V</spectraltype>
 			<planet>
 				<name>Kepler-28 b</name>
 				<name>KOI-870.01</name>
@@ -19295,6 +19301,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magJ errorminus="0.03" errorplus="0.03">14.13</magJ>
 			<magH errorminus="0.03" errorplus="0.03">13.67</magH>
 			<magK errorminus="0.04" errorplus="0.04">13.66</magK>
+			<spectraltype>G5V</spectraltype>
 			<planet>
 				<name>Kepler-29 b</name>
 				<name>KOI 738.01</name>
@@ -21053,6 +21060,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<radius>0.93</radius>
 			<temperature>5638</temperature>
 			<metallicity>-0.29</metallicity>
+			<spectraltype>G4V</spectraltype>
 			<planet>
 				<name>Kepler-69 b</name>
 				<name>KOI-172 b</name>
@@ -23867,10 +23875,13 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<system>
 		<name>Sun</name>
 		<star>
+			<name>Sun</name>
 			<mass>1</mass>
 			<radius>1</radius>
 			<metallicity>0.00000001</metallicity>
 			<spectraltype>G2V</spectraltype>
+			<age errorminus="0.11" errorplus="0.11">4.57</age>
+			<temperature>5778</temperature>
 			<planet>
 				<name>Mercury</name>
 				<name>Sun b</name>
@@ -24018,7 +24029,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>12/01/01</lastupdate>
 				<discoveryyear>1930</discoveryyear>
 			</planet>
-			<name>Sun</name>
 		</star>
 	</system>
 	<system>
