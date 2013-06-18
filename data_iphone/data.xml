@@ -1,4 +1,4 @@
-<planets date="2013-06-17" name="data" planets="917">
+<planets date="2013-06-18" name="data" planets="918">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -18388,6 +18388,37 @@ Credit: ESO/J. Rameau</imagedescription>
 		<lastupdate>11/09/15</lastupdate>
 		<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 63242 b</id_exoplaneteu>
+		<name>HIP 63242 b</name>
+		<id>HIP 63242 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>9.18</mass>
+			<orbit>
+				<period>124.6</period>
+				<semimajoraxis>0.565</semimajoraxis>
+				<eccentricity>0.23</eccentricity>
+				<periastron>118.2</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8III</spectraltype>
+			<mass>1.54</mass>
+			<metallicity>-0.31</metallicity>
+			<distance>135</distance>
+			<temperature>4839</temperature>
+			<rightascension>12 57 32</rightascension>
+			<declination>-65 38 47</declination>
+			<magV>6.86</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/06/18</lastupdate>
+		<description>The planet HIP 63242 b is the innermost planet deteted around any intermediate-mass giant star. The lack of other close-in planets suggests that these planets might be destroyed by the large envelope of the host star during the red giant phase.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
