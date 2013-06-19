@@ -1,4 +1,4 @@
-<planets date="2013-06-18" name="data" planets="918">
+<planets date="2013-06-19" name="data" planets="918">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -20300,15 +20300,16 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-31 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.118469</radius>
+			<radius>0.55</radius>
 			<orbit>
-				<period>9.61</period>
-				<semimajoraxis>0.09</semimajoraxis>
+				<period>20.8613</period>
+				<semimajoraxis>0.16</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>1.21</mass>
 			<radius>1.22</radius>
+			<metallicity>-0.076</metallicity>
 			<distance>1113</distance>
 			<temperature>771.9</temperature>
 			<rightascension>19 36 05</rightascension>
@@ -20329,15 +20330,17 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-31 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.391860</radius>
+			<mass>4.7</mass>
+			<radius>0.53</radius>
 			<orbit>
-				<period>20.86</period>
-				<semimajoraxis>0.16</semimajoraxis>
+				<period>42.6318</period>
+				<semimajoraxis>0.26</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>1.21</mass>
 			<radius>1.22</radius>
+			<metallicity>-0.076</metallicity>
 			<distance>1113</distance>
 			<temperature>771.9</temperature>
 			<rightascension>19 36 05</rightascension>
