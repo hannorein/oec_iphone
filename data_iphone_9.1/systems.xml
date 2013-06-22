@@ -17772,6 +17772,10 @@ Credit: ESO/J. Rameau</imagedescription>
 			<mass errorminus="0.05" errorplus="0.05">1.54</mass>
 			<temperature errorminus="100" errorplus="100">4839</temperature>
 			<magV errorminus="0.01" errorplus="0.01">6.86</magV>
+			<magB errorminus="0.02" errorplus="0.02">7.90</magB>
+			<magJ errorminus="0.023" errorplus="0.023">5.045</magJ>
+			<magH errorminus="0.027" errorplus="0.027">4.581</magH>
+			<magK errorminus="0.016" errorplus="0.016">4.406</magK>
 			<metallicity errorminus="0.09" errorplus="0.09">-0.31</metallicity>
 			<spectraltype>G8III</spectraltype>
 			<planet>
@@ -19462,6 +19466,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass errorminus="0.17" errorplus="0.17">1.21</mass>
 			<radius errorminus="0.24" errorplus="0.24">1.22</radius>
 			<metallicity errorminus="0.400" errorplus="0.400">-0.076</metallicity>
+			<spectraltype>F</spectraltype>
 			<planet>
 				<name>Kepler-31 b</name>
 				<name>KOI 935.01</name>
@@ -23190,8 +23195,8 @@ Credit: Kains et al (2013).</imagedescription>
 		<declination>-61 57 25</declination>
 		<distance>1500</distance>
 		<star>
-			<mass>1.26</mass>
-			<radius>1.34</radius>
+			<mass errorminus="0.13" errorplus="0.13">1.19</mass>
+			<radius errorminus="0.10" errorplus="0.10">1.35</radius>
 			<metallicity>0.37</metallicity>
 			<spectraltype>F</spectraltype>
 			<magI>15.72</magI>
@@ -23202,9 +23207,9 @@ Credit: Kains et al (2013).</imagedescription>
 				<name>OGLE-TR-132 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.17</mass>
-				<radius>1.23</radius>
+				<radius errorminus="0.074" errorplus="0.074">1.227</radius>
 				<period>1.689868</period>
-				<semimajoraxis>0.0306</semimajoraxis>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.030</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>83.4</inclination>
 				<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2453142.59199</transittime>
