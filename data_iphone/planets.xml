@@ -31433,6 +31433,92 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-66 b</id_exoplaneteu>
+		<name>Kepler-66 b</name>
+		<id>Kepler-66 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>2.8</radius>
+			<orbit>
+				<period>17.815815</period>
+				<semimajoraxis>0.1352</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.038</mass>
+			<radius>0.966</radius>
+			<metallicity>0.012</metallicity>
+			<distance>1107</distance>
+			<temperature>5962</temperature>
+			<rightascension>19 35 56</rightascension>
+			<declination>46 41 16</declination>
+			<angulardistance />
+			<magV>15.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/06/26</lastupdate>
+		<description>Kepler-66b is orbiting a Sun-like star in the billion-year-old open cluster NGC6811. It demonstrates that small planets can form and survive in a dense cluster environment. The frequency of planet around stars in open cluster and field stars in the Milky Way are approximately the same.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-67 b</id_exoplaneteu>
+		<name>Kepler-67 b</name>
+		<id>Kepler-67 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>2.94</radius>
+			<orbit>
+				<period>15.72590</period>
+				<semimajoraxis>0.1171</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9V</spectraltype>
+			<mass>0.865</mass>
+			<radius>0.778</radius>
+			<metallicity>0.012</metallicity>
+			<distance>1107</distance>
+			<temperature>5331</temperature>
+			<rightascension>19 36 37</rightascension>
+			<declination>46 09 59</declination>
+			<angulardistance />
+			<magV>16.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/06/26</lastupdate>
+		<description>Kepler-66b is orbiting a Sun-like star in the billion-year-old open cluster NGC6811. It demonstrates that small planets can form and survive in a dense cluster environment. The frequency of planet around stars in open cluster and field stars in the Milky Way are approximately the same.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-68 b</id_exoplaneteu>
 		<name>Kepler-68 b</name>
 		<name>KIC 11295426 b</name>
