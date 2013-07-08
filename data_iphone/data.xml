@@ -1,4 +1,4 @@
-<planets date="2013-07-01" name="data" planets="925">
+<planets date="2013-07-07" name="data" planets="925">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2809,9 +2809,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>gamma Cephei b</id_exoplaneteu>
-		<name>gamma Cephei b</name>
-		<id>gamma Cephei b</id>
+		<id_exoplaneteu>Gamma Cephei b</id_exoplaneteu>
+		<name>Gamma Cephei b</name>
+		<name>Gamma Cephei Ab</name>
+		<name>HD 222404b</name>
+		<id>Gamma Cephei b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.85</mass>
@@ -2823,12 +2825,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K1III-IV</spectraltype>
+			<spectraltype>K1 III-IV</spectraltype>
 			<mass>1.4</mass>
 			<radius>4.9</radius>
 			<metallicity>0.18</metallicity>
 			<distance>13.79</distance>
-			<temperature>327.2</temperature>
+			<temperature>4800.0</temperature>
 			<rightascension>23 39 20</rightascension>
 			<declination>+77 37 56</declination>
 			<magV>3.22</magV>
