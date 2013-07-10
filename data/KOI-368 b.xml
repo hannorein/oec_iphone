@@ -5,7 +5,7 @@
 	<name>KOI-0368 b</name>
 	<name>KOI-0368 01</name>
 	<id>KOI-368 b</id>
-	<discoverymethod />
+	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
 		<radius>2.1</radius>
@@ -36,10 +36,10 @@
 		<magK />
 	</star>
 	<multiplicity>1</multiplicity>
-	<discoveryyear />
-	<lastupdate />
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/07/10</lastupdate>
 	<description>The planet KOI-368 b was flagged by the Kepler team as a planet canidate. A new study by Zhou and Huang has now excluded blend scenarios and argues that the object has to be of substellar nature. The planet has a very high obliquity of 64 degrees. KOI-368 is the hottest host star to date for systems with spin-orbit measurements.</description>
-	<new />
+	<new>1</new>
 	<image />
 	<imagedescription />
 </planet>
