@@ -1,4 +1,4 @@
-<planets date="2013-07-07" name="data" planets="925">
+<planets date="2013-07-10" name="data" planets="926">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -23197,6 +23197,35 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
 		<new>0</new>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-368 b</id_exoplaneteu>
+		<name>KOI-368 b</name>
+		<name>KOI-368.01</name>
+		<name>KOI-0368 b</name>
+		<name>KOI-0368 01</name>
+		<id>KOI-368 b</id>
+		<properties>
+			<radius>2.1</radius>
+			<orbit>
+				<period>11.321611</period>
+				<semimajoraxis>0.6</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
+				<inclination>89.215</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>2.5</mass>
+			<radius>2.5</radius>
+			<metallicity>0.4</metallicity>
+			<distance>1200</distance>
+			<temperature>9257.00</temperature>
+			<rightascension>19 23 25</rightascension>
+			<declination>+42 05 12</declination>
+			<magV>11.02</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<description>The planet KOI-368 b was flagged by the Kepler team as a planet canidate. A new study by Zhou and Huang has now excluded blend scenarios and argues that the object has to be of substellar nature. The planet has a very high obliquity of 64 degrees. KOI-368 is the hottest host star to date for systems with spin-orbit measurements.</description>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-423 b</id_exoplaneteu>

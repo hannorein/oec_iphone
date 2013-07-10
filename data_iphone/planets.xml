@@ -32597,6 +32597,51 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-368 b</id_exoplaneteu>
+		<name>KOI-368 b</name>
+		<name>KOI-368.01</name>
+		<name>KOI-0368 b</name>
+		<name>KOI-0368 01</name>
+		<id>KOI-368 b</id>
+		<discoverymethod />
+		<properties>
+			<mass />
+			<radius>2.1</radius>
+			<orbit>
+				<period>11.321611</period>
+				<semimajoraxis>0.6</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
+				<inclination>89.215</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>2.5</mass>
+			<radius>2.5</radius>
+			<metallicity>0.4</metallicity>
+			<distance>1200</distance>
+			<temperature>9257.00</temperature>
+			<rightascension>19 23 25</rightascension>
+			<declination>+42 05 12</declination>
+			<angulardistance />
+			<magV>11.02</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear />
+		<lastupdate />
+		<description>The planet KOI-368 b was flagged by the Kepler team as a planet canidate. A new study by Zhou and Huang has now excluded blend scenarios and argues that the object has to be of substellar nature. The planet has a very high obliquity of 64 degrees. KOI-368 is the hottest host star to date for systems with spin-orbit measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-423 b</id_exoplaneteu>
 		<name>KOI-423 b</name>
 		<name>KIC 9478990 b</name>
