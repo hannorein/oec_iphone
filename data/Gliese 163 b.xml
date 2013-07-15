@@ -7,15 +7,15 @@
 	<id>Gliese 163 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.03491727</mass>
+		<mass>0.033344</mass>
 		<radius />
 		<orbit>
-			<period>8.62928</period>
+			<period>8.63182</period>
 			<semimajoraxis>0.0607</semimajoraxis>
-			<eccentricity>0.084</eccentricity>
+			<eccentricity>0.073</eccentricity>
 			<inclination />
-			<periastron>112.12</periastron>
-			<longitude>340.336</longitude>
+			<periastron>70.702992</periastron>
+			<longitude>6.359832</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
@@ -25,7 +25,7 @@
 		<radius />
 		<metallicity />
 		<distance>15</distance>
-		<temperature>299</temperature>
+		<temperature>302</temperature>
 		<rightascension>04 09 16</rightascension>
 		<declination>-53 22 23</declination>
 		<angulardistance />
@@ -35,9 +35,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
+	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/11/30</lastupdate>
+	<lastupdate>13/07/14</lastupdate>
 	<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. The outer planet lies within the habitable zone.</description>
 	<new>0</new>
 	<image />
