@@ -4002,15 +4002,15 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>Gliese 163 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.03491727</mass>
+			<mass>0.033344</mass>
 			<radius />
 			<orbit>
-				<period>8.62928</period>
+				<period>8.63182</period>
 				<semimajoraxis>0.0607</semimajoraxis>
-				<eccentricity>0.084</eccentricity>
+				<eccentricity>0.073</eccentricity>
 				<inclination />
-				<periastron>112.12</periastron>
-				<longitude>340.336</longitude>
+				<periastron>70.702992</periastron>
+				<longitude>6.359832</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
@@ -4020,7 +4020,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<radius />
 			<metallicity />
 			<distance>15</distance>
-			<temperature>299</temperature>
+			<temperature>302</temperature>
 			<rightascension>04 09 16</rightascension>
 			<declination>-53 22 23</declination>
 			<angulardistance />
@@ -4030,9 +4030,9 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/30</lastupdate>
+		<lastupdate>13/07/14</lastupdate>
 		<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. The outer planet lies within the habitable zone.</description>
 		<new>0</new>
 		<image />
@@ -4047,15 +4047,15 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>Gliese 163 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.021705334</mass>
+			<mass>0.021391</mass>
 			<radius />
 			<orbit>
-				<period>25.63226</period>
+				<period>25.63058</period>
 				<semimajoraxis>0.1254</semimajoraxis>
-				<eccentricity>0.102</eccentricity>
+				<eccentricity>0.099</eccentricity>
 				<inclination />
-				<periastron>281.035</periastron>
-				<longitude>40.049749</longitude>
+				<periastron>227.005878</periastron>
+				<longitude>24.522594</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
@@ -4065,7 +4065,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<radius />
 			<metallicity />
 			<distance>15</distance>
-			<temperature>299</temperature>
+			<temperature>302</temperature>
 			<rightascension>04 09 16</rightascension>
 			<declination>-53 22 23</declination>
 			<angulardistance />
@@ -4075,15 +4075,60 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>13/05/03</lastupdate>
+		<lastupdate>13/07/14</lastupdate>
 		<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. Gliese 163 c lies within the habitable zone for a wide range of albedo values and has an equilibrium temperature of 60C (140F).</description>
 		<new>0</new>
 		<image>Gliese163c</image>
 		<imagedescription>Artist's impression of the exoplanet Gliese 163 showing a thick water vapour atmosphere.
 			
 Credit: Joe Gallagher.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 163 d</id_exoplaneteu>
+		<name>Gliese 163 d</name>
+		<name>HIP 19394 d</name>
+		<name>LHS 188 d</name>
+		<id>Gliese 163 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.092484</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>1.0304</semimajoraxis>
+				<eccentricity>0.373</eccentricity>
+				<inclination />
+				<periastron>118.258489</periastron>
+				<longitude>144.958322</longitude>
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3.5V</spectraltype>
+			<mass>0.40</mass>
+			<radius />
+			<metallicity />
+			<distance>15</distance>
+			<temperature>302</temperature>
+			<rightascension>04 09 16</rightascension>
+			<declination>-53 22 23</declination>
+			<angulardistance />
+			<magV>10.93</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/14</lastupdate>
+		<description>The HARPS team announced the discovery of the third planet arounf the M dwarf GJ 163 in a paper posted on June 4th 2013. The systems contains further periodig signals which could me caused by additional planets. However, more data is required to confirm the planetary nature of the signal.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -32641,7 +32686,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/10</lastupdate>
 		<description>The planet KOI-368 b was flagged by the Kepler team as a planet candidate. A new study by Zhou and Huang has now excluded blend scenarios and argues that the object has to be of substellar nature. The planet has a very high obliquity of 64 degrees. KOI-368 is the hottest host star to date for systems with spin-orbit measurements.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
