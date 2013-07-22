@@ -2738,7 +2738,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id>CoRoT-16 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.535</mass>
+			<mass>0.53</mass>
 			<radius>1.17</radius>
 			<orbit>
 				<period>5.35227</period>
@@ -4687,6 +4687,54 @@ Credit: Joe Gallagher.</imagedescription>
 		<imagedescription>This artist's concept shows what astronomers believe is an alien world just two-thirds the size of Earth. It was identified by NASA's Spitzer Space Telescope. UCF-1.01 might be the nearest world to our solar system that is smaller than our home planet. 
 	
 	Credit: NASA/JPL-Caltech</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 504 b</id_exoplaneteu>
+		<name>Gliese 504 b</name>
+		<name>GJ 504 b</name>
+		<name>HIP 64792 b</name>
+		<name>HD 115383 b</name>
+		<id>Gliese 504 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>4</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>43.5</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.22</mass>
+			<radius />
+			<metallicity>0.28</metallicity>
+			<distance>17.56</distance>
+			<temperature>6234</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/22</lastupdate>
+		<description>Gliese 504 b is the first directly imaged planet on a wide orbit around a G-type main-sequence star with a mass similar to that of our Sun. The planet is a gas giant, about 4 times more massive than Jupiter. It was discovered by the SEEDS survey.</description>
+		<new>1</new>
+		<image>GJ504</image>
+		<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
+			
+Credit: Kuzuhara et al. (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23944,7 +23992,7 @@ Credit: NASA, ESA, M. Kornmesser</imagedescription>
 		<name>HD 80606 b</name>
 		<name>Struve 1341 B b</name>
 		<id>HD 80606 b</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>3.94</mass>
 			<radius>0.921</radius>
@@ -35179,6 +35227,49 @@ Credit: Kains et al (2013).</imagedescription>
 		<lastupdate>12/10/17</lastupdate>
 		<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2012-BLG-0406L b</id_exoplaneteu>
+		<name>OGLE-2012-BLG-0406L b</name>
+		<id>OGLE-2012-BLG-0406L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>3.9</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>3.9</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.59</mass>
+			<radius />
+			<metallicity />
+			<distance>5100</distance>
+			<temperature />
+			<rightascension>17 53 18</rightascension>
+			<declination>-30 28 16</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/22</lastupdate>
+		<description>This planetary system was discovered during a high-magnification gravitational microlensing event. It is the first microlensing planet found by analyzing data from only a single telescope. The planet is located beyond the snow-line, where . Some core accretion theories favor the formation of massive planets inside the snow-line. However, planetary migration in the protoplanetary disk might explain why the planet has moved outwards.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
