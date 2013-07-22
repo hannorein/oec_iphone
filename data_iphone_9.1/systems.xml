@@ -1,4 +1,4 @@
-<systems name="systems" planets="927">
+<systems name="systems" planets="929">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1887,11 +1887,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>CoRoT-16 b</name>
 				<name>2MASS J18340592-0600093 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.535</mass>
+				<mass errorminus="0.8" errorplus="0.8">0.53</mass>
 				<radius>1.17</radius>
 				<period>5.35227</period>
 				<semimajoraxis>0.0618</semimajoraxis>
-				<eccentricity>0.33</eccentricity>
+				<eccentricity errorminus="0.1" errorplus="0.3">0.33</eccentricity>
 				<inclination>85.01</inclination>
 				<transittime errorminus="0.0022" errorplus="0.0021" unit="BJD">2454923.9145</transittime>
 				<discoverymethod>transit</discoverymethod>
@@ -3366,6 +3366,40 @@ Credit: Joe Gallagher.</imagedescription>
 			<temperature>3684.0</temperature>
 		</star>
 		<videolink>http://youtu.be/csx-hif97mw</videolink>
+	</system>
+	<system>
+		<name>Gliese 504</name>
+		<distance errorminus="0.08" errorplus="0.08">17.56</distance>
+		<star>
+			<name>Gliese 504</name>
+			<name>GJ 504</name>
+			<name>HIP 64792</name>
+			<name>HD 115383</name>
+			<mass errorminus="0.08" errorplus="0.08">1.22</mass>
+			<temperature errorminus="25" errorplus="25">6234</temperature>
+			<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
+			<spectraltype>G0V</spectraltype>
+			<age errorminus="0.06" errorplus="0.35">0.16</age>
+			<planet>
+				<name>Gliese 504 b</name>
+				<name>GJ 504 b</name>
+				<name>HIP 64792 b</name>
+				<name>HD 115383 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="1.0" errorplus="4.5">4</mass>
+				<temperature errorminus="20" errorplus="30">510</temperature>
+				<semimajoraxis>43.5</semimajoraxis>
+				<description>Gliese 504 b is the first directly imaged planet on a wide orbit around a G-type main-sequence star with a mass similar to that of our Sun. The planet is a gas giant, about 4 times more massive than Jupiter. It was discovered by the SEEDS survey.</description>
+				<discoverymethod>imaging</discoverymethod>
+				<lastupdate>13/07/22</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+				<image>GJ504</image>
+				<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
+			
+Credit: Kuzuhara et al. (2013).</imagedescription>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>Gliese 581</name>
@@ -16438,7 +16472,7 @@ Credit: NASA, ESA, M. Kornmesser</imagedescription>
 					<inclination>89.285</inclination>
 					<transittime errorminus="0.011" errorplus="0.011" unit="HJD">2454876.344</transittime>
 					<description>The star HD 80606 (also known as Struve 1341 B) is part of a binary star system with a separation of 1200 astronomical units. It hosts an extrasolar planet on a highly elliptical orbit. Because of the high eccentricity the temperature of the planet's surface can rise from 800K to 1500K in just 6 hours.</description>
-					<discoverymethod>transit</discoverymethod>
+					<discoverymethod>RV</discoverymethod>
 					<lastupdate>12/12/08</lastupdate>
 					<discoveryyear>2001</discoveryyear>
 					<new>0</new>
@@ -23367,6 +23401,27 @@ Credit: Kains et al (2013).</imagedescription>
 				<new>0</new>
 			</planet>
 			<name>OGLE-2012-BLG-0026L</name>
+		</star>
+	</system>
+	<system>
+		<name>OGLE-2012-BLG-0406L</name>
+		<rightascension>17 53 18</rightascension>
+		<declination>-30 28 16</declination>
+		<distance errorminus="1200" errorplus="1200">5100</distance>
+		<star>
+			<name>OGLE-2012-BLG-0026L</name>
+			<mass errorminus="0.17" errorplus="0.17">0.59</mass>
+			<planet>
+				<name>OGLE-2012-BLG-0406L b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="1.2" errorplus="1.2">3.9</mass>
+				<semimajoraxis errorminus="1.0" errorplus="1.0">3.9</semimajoraxis>
+				<description>This planetary system was discovered during a high-magnification gravitational microlensing event. It is the first microlensing planet found by analyzing data from only a single telescope. The planet is located beyond the snow-line, where . Some core accretion theories favor the formation of massive planets inside the snow-line. However, planetary migration in the protoplanetary disk might explain why the planet has moved outwards.</description>
+				<discoverymethod>microlensing</discoverymethod>
+				<lastupdate>13/07/22</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
