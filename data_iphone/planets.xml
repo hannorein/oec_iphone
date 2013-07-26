@@ -4730,7 +4730,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/22</lastupdate>
 		<description>Gliese 504 b is the first directly imaged planet on a wide orbit around a G-type main-sequence star with a mass similar to that of our Sun. The planet is a gas giant, about 4 times more massive than Jupiter. It was discovered by the SEEDS survey.</description>
-		<new>1</new>
+		<new>0</new>
 		<image>Gliese504</image>
 		<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
 			
@@ -35232,6 +35232,49 @@ Credit: Kains et al (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2012-BLG-0358L b</id_exoplaneteu>
+		<name>OGLE-2012-BLG-0358L b</name>
+		<id>OGLE-2012-BLG-0358L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>1.85</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>0.87</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.022</mass>
+			<radius />
+			<metallicity />
+			<distance>1760</distance>
+			<temperature />
+			<rightascension>17 42 47</rightascension>
+			<declination>-24 15 40</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/25</lastupdate>
+		<description>OGLE-2012-BLG-0358L b is a planetary mass object which is orbiting a brown dwarf. The discovery of this system suggests that planets can form around brown dwarf hosts, probably in a protoplanetary disk analogous to those around main sequence stars.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0406L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0406L b</name>
 		<id>OGLE-2012-BLG-0406L b</id>
@@ -35269,7 +35312,7 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/22</lastupdate>
 		<description>This planetary system was discovered during a high-magnification gravitational microlensing event. It is the first microlensing planet found by analyzing data from only a single telescope. The planet is located beyond the snow-line. Some core accretion theories favor the formation of massive planets inside the snow-line. However, planetary migration in the protoplanetary disk might explain why the planet has moved outwards.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -40043,30 +40086,31 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-65 b</id_exoplaneteu>
 		<name>WASP-65 b</name>
+		<name>1SWASP J085317.82+083122.8 b</name>
 		<id>WASP-65 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.6</mass>
-			<radius>1.3</radius>
+			<mass>1.55</mass>
+			<radius>1.112</radius>
 			<orbit>
-				<period>2.3</period>
-				<semimajoraxis />
+				<period>2.3114243</period>
+				<semimajoraxis>0.0334</semimajoraxis>
 				<eccentricity />
-				<inclination />
+				<inclination>88.8</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>1.6</mass>
-			<radius>1.3</radius>
-			<metallicity />
-			<distance />
-			<temperature>5700.0</temperature>
+			<spectraltype>G6</spectraltype>
+			<mass>0.93</mass>
+			<radius>1.112</radius>
+			<metallicity>-0.07</metallicity>
+			<distance>310</distance>
+			<temperature>5600.0</temperature>
 			<rightascension />
-			<declination />
+			<declination>+08 31 23</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -40076,8 +40120,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
-		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<lastupdate>13/07/25</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -40428,6 +40472,50 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<lastupdate>12/10/17</lastupdate>
 		<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-75 b</id_exoplaneteu>
+		<name>WASP-75 b</name>
+		<name>1SWASP J224932.56-104031.8 b</name>
+		<id>WASP-75 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.07</mass>
+			<radius>1.270</radius>
+			<orbit>
+				<period>2.484193</period>
+				<semimajoraxis>0.0375</semimajoraxis>
+				<eccentricity />
+				<inclination>82.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.26</radius>
+			<metallicity>0.07</metallicity>
+			<distance>260</distance>
+			<temperature>6100</temperature>
+			<rightascension>22 49 33</rightascension>
+			<declination>-10 40 32</declination>
+			<angulardistance />
+			<magV>11.45</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/25</lastupdate>
+		<description />
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
