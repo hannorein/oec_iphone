@@ -1,4 +1,4 @@
-<systems name="systems" planets="929">
+<systems name="systems" planets="931">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3395,7 +3395,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>13/07/22</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 				<image>Gliese504</image>
 				<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
 			
@@ -23406,6 +23406,27 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>OGLE-2012-BLG-0358L</name>
+		<rightascension>17 42 47</rightascension>
+		<declination>-24 15 40</declination>
+		<distance errorminus="130" errorplus="130">1760</distance>
+		<star>
+			<name>OGLE-2012-BLG-0358L</name>
+			<mass errorminus="0.002" errorplus="0.002">0.022</mass>
+			<planet>
+				<name>OGLE-2012-BLG-0358L b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.19" errorplus="0.19">1.85</mass>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">0.87</semimajoraxis>
+				<discoverymethod>microlensing</discoverymethod>
+				<lastupdate>13/07/25</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>OGLE-2012-BLG-0358L b is a planetary mass object which is orbiting a brown dwarf. The discovery of this system suggests that planets can form around brown dwarf hosts, probably in a protoplanetary disk analogous to those around main sequence stars.</description>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>OGLE-2012-BLG-0406L</name>
 		<rightascension>17 53 18</rightascension>
 		<declination>-30 28 16</declination>
@@ -23422,7 +23443,7 @@ Credit: Kains et al (2013).</imagedescription>
 				<discoverymethod>microlensing</discoverymethod>
 				<lastupdate>13/07/22</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
@@ -27108,21 +27129,33 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-65</name>
+		<rightascention>08 53 28</rightascention>
+		<declination>+08 31 23</declination>
+		<distance error="50">310</distance>
 		<star>
+			<name>WASP-65</name>
+			<name>1SWASP J085317.82+083122.8</name>
+			<temperature error="100">5600.0</temperature>
+			<spectraltype>G6</spectraltype>
+			<metallicity error="0.07">-0.07</metallicity>
+			<mass errorminus="0.16" errorplus="0.12">0.93</mass>
 			<planet>
 				<name>WASP-65 b</name>
+				<name>1SWASP J085317.82+083122.8 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.6</mass>
-				<radius>1.3</radius>
-				<period>2.3</period>
-				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+				<mass error="0.16">1.55</mass>
+				<radius error="0.059">1.112</radius>
+				<semimajoraxis errorminus="0.0017" errorplus="0.0016">0.0334</semimajoraxis>
+				<temperature error="10">1480</temperature>
+				<period error="0.0000015">2.3114243</period>
+				<transittime error="0.000015">2456110.68772</transittime>
+				<inclination errorminus="0.7" errorplus="0.8">88.8</inclination>
+				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>13/07/25</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<new>0</new>
 			</planet>
-			<name>WASP-65</name>
-			<temperature>5700.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -27368,6 +27401,39 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<new>0</new>
 			</planet>
 			<name>WASP-72</name>
+		</star>
+	</system>
+	<system>
+		<name>WASP-75</name>
+		<rightascension>22 49 33</rightascension>
+		<declination>-10 40 32</declination>
+		<distance error="70">260</distance>
+		<star>
+			<name>WASP-75</name>
+			<name>1SWASP J224932.56-104031.8</name>
+			<mass errorminus="0.06" errorplus="0.07">1.14</mass>
+			<radius error="0.04">1.26</radius>
+			<temperature error="100">6100</temperature>
+			<magV error="0.01">11.45</magV>
+			<metallicity error="0.09">0.07</metallicity>
+			<spectraltype>F9</spectraltype>
+			<planet>
+				<name>WASP-75 b</name>
+				<name>1SWASP J224932.56-104031.8 b</name>
+				<list>Confirmed planets</list>
+				<mass error="0.05">1.07</mass>
+				<radius error="0.048">1.270</radius>
+				<temperature error="20">1710</temperature>
+				<period error="0.000003">2.484193</period>
+				<transittime error="0.0003">2456016.2669</transittime>
+				<semimajoraxis errorminus="0.0008" errorplus="0.0007">0.0375</semimajoraxis>
+				<inclination errorminus="0.2" errorplus="0.3">82.0</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/07/25</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>WASP-75 b is a transiting Hot Jupiter. Its radius is slightly inflated as compared to theoretical planet models with no core.</description>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
