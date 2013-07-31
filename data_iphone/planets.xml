@@ -4457,6 +4457,50 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Gliese 328 b</id_exoplaneteu>
+		<name>Gliese 328 b</name>
+		<name>GJ 328 b</name>
+		<id>Gliese 328 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.3</mass>
+			<radius />
+			<orbit>
+				<period>4100</period>
+				<semimajoraxis>4.5</semimajoraxis>
+				<eccentricity>0.37</eccentricity>
+				<inclination />
+				<periastron>290</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1</spectraltype>
+			<mass>0.69</mass>
+			<radius />
+			<metallicity>0.00</metallicity>
+			<distance>19.8</distance>
+			<temperature>3900</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/31</lastupdate>
+		<description>Gliese 328 b is an eccentric two Jupiter-mass planet with an orbital period of eleven years. The discovery is based on ten years' worth of radial velocity data from the Hobby-Eberly and Harlan J. Smith telescopes at McDonald Observatory, and from the Keck Telescope at Mauna Kea. It is currently the most massive, longest-period planet discovered around a low-mass dwarf.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Gliese 3470 b</id_exoplaneteu>
 		<name>Gliese 3470 b</name>
 		<name>GJ 3470 b</name>
@@ -7768,7 +7812,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<orbit>
 				<period>4.457243</period>
 				<semimajoraxis>0.0608</semimajoraxis>
-				<eccentricity>0</eccentricity>
+				<eccentricity>0.095</eccentricity>
 				<inclination>88.3</inclination>
 				<periastron />
 				<longitude />
@@ -8074,6 +8118,7 @@ Credit: Jonah Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-8 b</id_exoplaneteu>
 		<name>HAT-P-8 b</name>
+		<name>HAT-P-8 A b</name>
 		<name>2MASS J22520985+3526495 b</name>
 		<name>TYC 2757-1152-1 b</name>
 		<id>HAT-P-8 b</id>
@@ -8092,12 +8137,12 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>F</spectraltype>
-			<mass>1.192</mass>
-			<radius>1.475</radius>
-			<metallicity>0.01</metallicity>
+			<spectraltype>M5V</spectraltype>
+			<mass>0.22</mass>
+			<radius />
+			<metallicity />
 			<distance>230</distance>
-			<temperature>1713</temperature>
+			<temperature />
 			<rightascension>22 52 10</rightascension>
 			<declination>+35 26 50</declination>
 			<angulardistance />
@@ -8109,8 +8154,8 @@ Credit: Jonah Gallagher.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>12/12/17</lastupdate>
-		<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project. Variations in the optical bands may indicate the presence of strong absorbers such as TiO or VO gases.</description>
+		<lastupdate>13/07/31</lastupdate>
+		<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project. Variations in the optical bands may indicate the presence of strong absorbers such as TiO or VO gases. The host star is part of a hierarchical triple system.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -35269,7 +35314,7 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/25</lastupdate>
 		<description>OGLE-2012-BLG-0358L b is a planetary mass object which is orbiting a brown dwarf. The discovery of this system suggests that planets can form around brown dwarf hosts, probably in a protoplanetary disk analogous to those around main sequence stars.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -35328,7 +35373,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<radius>1.72</radius>
 			<orbit>
 				<period>3.10129</period>
-				<semimajoraxis>0.04162</semimajoraxis>
+				<semimajoraxis>0.04516</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>84.5</inclination>
 				<periastron />
@@ -35338,11 +35383,11 @@ Credit: Kains et al (2013).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G2V</spectraltype>
-			<mass>1.18</mass>
-			<radius>1.16</radius>
+			<mass>1.277</mass>
+			<radius>1.52</radius>
 			<metallicity>0.28</metallicity>
 			<distance>1500</distance>
-			<temperature>1414.1</temperature>
+			<temperature>1702</temperature>
 			<rightascension>17 51 28</rightascension>
 			<declination>-29 52 34</declination>
 			<angulardistance />
@@ -37696,6 +37741,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-12 b</id_exoplaneteu>
 		<name>WASP-12 b</name>
+		<name>WASP-12 A b</name>
 		<name>2MASS J06303279+2940202 b</name>
 		<id>WASP-12 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -37713,12 +37759,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0</spectraltype>
-			<mass>1.35</mass>
-			<radius>1.599</radius>
-			<metallicity>0.3</metallicity>
-			<distance>427</distance>
-			<temperature>2319.7</temperature>
+			<spectraltype>M3V</spectraltype>
+			<mass>0.38</mass>
+			<radius />
+			<metallicity />
+			<distance>250</distance>
+			<temperature />
 			<rightascension>06 30 33</rightascension>
 			<declination>+29 40 20</declination>
 			<angulardistance />
@@ -37730,8 +37776,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>12/07/05</lastupdate>
-		<description />
+		<lastupdate>13/07/31</lastupdate>
+		<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
 		<new>0</new>
 		<image />
 		<imagedescription />
@@ -37938,8 +37984,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>F4</spectraltype>
-			<mass>1.2</mass>
-			<radius>1.38</radius>
+			<mass>1.306</mass>
+			<radius>1.572</radius>
 			<metallicity>-0.19</metallicity>
 			<distance>400</distance>
 			<temperature>1517.8</temperature>
@@ -39587,7 +39633,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>F9</spectraltype>
 			<mass>1.15</mass>
 			<radius>1.40</radius>
-			<metallicity />
+			<metallicity>-0.27</metallicity>
 			<distance>200</distance>
 			<temperature>6100</temperature>
 			<rightascension>13 41 49</rightascension>
@@ -40515,7 +40561,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/25</lastupdate>
 		<description>WASP-75 b is a transiting Hot Jupiter. Its radius is slightly inflated as compared to theoretical planet models with no core.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
