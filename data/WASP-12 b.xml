@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>WASP-12 b</id_exoplaneteu>
 	<name>WASP-12 b</name>
+	<name>WASP-12 A b</name>
 	<name>2MASS J06303279+2940202 b</name>
 	<id>WASP-12 b</id>
 	<discoverymethod>transit</discoverymethod>
@@ -18,12 +19,12 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G0</spectraltype>
-		<mass>1.35</mass>
-		<radius>1.599</radius>
-		<metallicity>0.3</metallicity>
-		<distance>427</distance>
-		<temperature>2319.7</temperature>
+		<spectraltype>M3V</spectraltype>
+		<mass>0.38</mass>
+		<radius />
+		<metallicity />
+		<distance>250</distance>
+		<temperature />
 		<rightascension>06 30 33</rightascension>
 		<declination>+29 40 20</declination>
 		<angulardistance />
@@ -35,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2008</discoveryyear>
-	<lastupdate>12/07/05</lastupdate>
-	<description />
+	<lastupdate>13/07/31</lastupdate>
+	<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
 	<new>0</new>
 	<image />
 	<imagedescription />
