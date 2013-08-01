@@ -1,4 +1,4 @@
-<planets date="2013-07-31" name="data" planets="932">
+<planets date="2013-08-01" name="data" planets="933">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -22353,6 +22353,38 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<imagedescription>Artist's impression of Kepler-62 f. 
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-63 b</id_exoplaneteu>
+		<name>Kepler-63 b</name>
+		<name>KIC 11554435 b</name>
+		<name>KOI 63 b</name>
+		<name>KOI 63.01</name>
+		<id>Kepler-63 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.556806</radius>
+			<orbit>
+				<period>9.4341505</period>
+				<semimajoraxis>0.080</semimajoraxis>
+				<inclination>87.806</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.984</mass>
+			<radius>0.901</radius>
+			<metallicity>0.05</metallicity>
+			<distance>200</distance>
+			<temperature>5576</temperature>
+			<rightascension>19 16 54</rightascension>
+			<declination>+49 32 54</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/01</lastupdate>
+		<description>Kepler-63 b orbits a Sun-like star ever 9.43 days. The host star has a large and persistant polar starspot and a high sky-projected obliquity of 104 degrees. Polar star spots have been predicted in simulations of magnetic activity of young Sun-like stars.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>

@@ -31442,6 +31442,52 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-63 b</id_exoplaneteu>
+		<name>Kepler-63 b</name>
+		<name>KIC 11554435 b</name>
+		<name>KOI 63 b</name>
+		<name>KOI 63.01</name>
+		<id>Kepler-63 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.556806</radius>
+			<orbit>
+				<period>9.4341505</period>
+				<semimajoraxis>0.080</semimajoraxis>
+				<eccentricity />
+				<inclination>87.806</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.984</mass>
+			<radius>0.901</radius>
+			<metallicity>0.05</metallicity>
+			<distance>200</distance>
+			<temperature>5576</temperature>
+			<rightascension>19 16 54</rightascension>
+			<declination>+49 32 54</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/01</lastupdate>
+		<description>Kepler-63 b orbits a Sun-like star ever 9.43 days. The host star has a large and persistant polar starspot and a high sky-projected obliquity of 104 degrees. Polar star spots have been predicted in simulations of magnetic activity of young Sun-like stars.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-65 b</id_exoplaneteu>
 		<name>Kepler-65 b</name>
 		<name>KOI-85 b</name>
