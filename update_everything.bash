@@ -10,6 +10,7 @@ commit "before automatic update"
 
 pushd open_exoplanet_catalogue
 git pull
+git checkout master
 popd
 commit "automatic update: pulling new open_exoplanet_catalogue"
 
@@ -28,4 +29,11 @@ python create_data_iphone_9.1.python
 popd
 commit "automatic update: create_data_iphone_91"
 
+pushd open_exoplanet_catalogue
+git checkout satellites
+popd
+pushd scripts
+python create_data_iphone_11.python
+popd
+commit "automatic update: create_data_iphone_11"
 #git push
