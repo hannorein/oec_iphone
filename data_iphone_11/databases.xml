@@ -1,0 +1,22 @@
+<databases>
+	<database>
+		<name>systems</name>
+		<description>Confirmed, controversial and retracted exoplanets</description>
+		<num>933</num>
+		<systems>708</systems>
+		<date>2013-08-05</date>
+		<size>1030752</size>
+		<sizecompressed>140953</sizecompressed>
+		<hash>85c91199d7b1e1f8e5c707b4ed2a9bc3</hash>
+	</database>
+	<database>
+		<name>systemskepler</name>
+		<description>Kepler Objects of Interest (unconfirmed)</description>
+		<num>3277</num>
+		<systems>2485</systems>
+		<date>2013-08-05</date>
+		<size>3238928</size>
+		<sizecompressed>288142</sizecompressed>
+		<hash>5b0cd227425b81d313b6247054af0db8</hash>
+	</database>
+</databases>
