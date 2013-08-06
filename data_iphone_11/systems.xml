@@ -24606,6 +24606,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>12/01/01</lastupdate>
 				<satellite>
 					<name>Moon</name>
+					<mass>0.000039</mass>
 					<radius>0.024847</radius>
 					<semimajoraxis>0.002570</semimajoraxis>
 					<eccentricity>0.0554</eccentricity>
@@ -24635,6 +24636,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>12/01/01</lastupdate>
 				<satellite>
 					<name>Deimos</name>
+					<mass>7.7928507e-13</mass>
 					<radius>0.000089</radius>
 					<semimajoraxis>0.000157</semimajoraxis>
 					<eccentricity>0.0002</eccentricity>
@@ -24647,6 +24649,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Phobos</name>
+					<mass>5.6340204e-12</mass>
 					<radius>0.000159</radius>
 					<semimajoraxis>0.000063</semimajoraxis>
 					<eccentricity>0.0151</eccentricity>
@@ -24676,6 +24679,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>12/01/01</lastupdate>
 				<satellite>
 					<name>Callisto</name>
+					<mass>0.000057</mass>
 					<radius>0.034477</radius>
 					<semimajoraxis>0.012585</semimajoraxis>
 					<eccentricity>0.0074</eccentricity>
@@ -24688,6 +24692,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Europa</name>
+					<mass>0.000025</mass>
 					<radius>0.022328</radius>
 					<semimajoraxis>0.004486</semimajoraxis>
 					<eccentricity>0.0094</eccentricity>
@@ -24700,6 +24705,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Ganymede</name>
+					<mass>0.000078</mass>
 					<radius>0.037636</radius>
 					<semimajoraxis>0.007155</semimajoraxis>
 					<eccentricity>0.0013</eccentricity>
@@ -24712,6 +24718,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Io</name>
+					<mass>0.000047</mass>
 					<radius>0.026055</radius>
 					<semimajoraxis>0.002820</semimajoraxis>
 					<eccentricity>0.0041</eccentricity>
@@ -24741,6 +24748,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>12/01/01</lastupdate>
 				<satellite>
 					<name>Dione</name>
+					<mass>5.7566322e-07</mass>
 					<radius>0.008033</radius>
 					<semimajoraxis>0.002523</semimajoraxis>
 					<eccentricity>0.0022</eccentricity>
@@ -24753,6 +24761,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Enceladus</name>
+					<mass>5.6937182e-08</mass>
 					<radius>0.003606</radius>
 					<semimajoraxis>0.001591</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
@@ -24765,6 +24774,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Iapetus</name>
+					<mass>1.0380812e-06</mass>
 					<radius>0.010522</radius>
 					<semimajoraxis>0.023803</semimajoraxis>
 					<eccentricity>0.0293</eccentricity>
@@ -24777,6 +24787,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Rhea</name>
+					<mass>1.2268233e-06</mass>
 					<radius>0.010930</radius>
 					<semimajoraxis>0.003523</semimajoraxis>
 					<eccentricity>0.0002</eccentricity>
@@ -24789,6 +24800,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Tethys</name>
+					<mass>3.2400717e-07</mass>
 					<radius>0.007624</radius>
 					<semimajoraxis>0.001970</semimajoraxis>
 					<eccentricity>0.0001</eccentricity>
@@ -24801,6 +24813,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Titan</name>
+					<mass>0.000071</mass>
 					<radius>0.036847</radius>
 					<semimajoraxis>0.008168</semimajoraxis>
 					<eccentricity>0.0288</eccentricity>
@@ -24831,6 +24844,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<discoveryyear>1781</discoveryyear>
 				<satellite>
 					<name>Ariel</name>
+					<mass>6.9205414e-07</mass>
 					<radius>0.008281</radius>
 					<semimajoraxis>0.001276</semimajoraxis>
 					<eccentricity>0.0012</eccentricity>
@@ -24842,6 +24856,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Miranda</name>
+					<mass>3.4602707e-08</mass>
 					<radius>0.003373</radius>
 					<semimajoraxis>0.000868</semimajoraxis>
 					<eccentricity>0.0013</eccentricity>
@@ -24853,6 +24868,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Oberon</name>
+					<mass>1.5728503e-06</mass>
 					<radius>0.010891</radius>
 					<semimajoraxis>0.003900</semimajoraxis>
 					<eccentricity>0.0014</eccentricity>
@@ -24864,6 +24880,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Titania</name>
+					<mass>1.8559634e-06</mass>
 					<radius>0.011284</radius>
 					<semimajoraxis>0.002916</semimajoraxis>
 					<eccentricity>0.0011</eccentricity>
@@ -24876,6 +24893,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				</satellite>
 				<satellite>
 					<name>Umbriel</name>
+					<mass>6.2914013e-07</mass>
 					<radius>0.008363</radius>
 					<semimajoraxis>0.001778</semimajoraxis>
 					<eccentricity>0.0039</eccentricity>
@@ -24905,6 +24923,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<discoveryyear>1846</discoveryyear>
 				<satellite>
 					<name>Triton</name>
+					<mass>0.000011</mass>
 					<radius>0.019359</radius>
 					<semimajoraxis>0.002371</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
@@ -24935,6 +24954,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<discoveryyear>1930</discoveryyear>
 				<satellite>
 					<name>Charon</name>
+					<mass>7.8642516e-07</mass>
 					<radius>0.008632</radius>
 					<semimajoraxis>0.000117</semimajoraxis>
 					<eccentricity>0.0022</eccentricity>
