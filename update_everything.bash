@@ -35,5 +35,8 @@ popd
 pushd scripts
 python create_data_iphone_11.python
 popd
+pushd open_exoplanet_catalogue
+git checkout master
+popd
 commit "automatic update: create_data_iphone_11"
 #git push
