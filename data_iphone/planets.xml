@@ -31484,7 +31484,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/08/01</lastupdate>
 		<description>Kepler-63 b orbits a Sun-like star every 9.43 days. The host star has a large and persistant polar starspot and a high sky-projected obliquity of 104 degrees. Polar star spots have been predicted in simulations of magnetic activity of young Sun-like stars.</description>
-		<new>1</new>
+		<new>0</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -32345,6 +32345,96 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1236 b</id_exoplaneteu>
+		<name>KOI-1236 b</name>
+		<name>KOI-1236.01</name>
+		<name>KIC 6677841 b</name>
+		<id>KOI-1236 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.391860</radius>
+			<orbit>
+				<period>35.741130</period>
+				<semimajoraxis>0.232</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.31</mass>
+			<radius>1.27</radius>
+			<metallicity />
+			<distance>1062.62</distance>
+			<temperature>6779</temperature>
+			<rightascension>19 09 33</rightascension>
+			<declination>42 11 41</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-1236 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1236 c</id_exoplaneteu>
+		<name>KOI-1236 c</name>
+		<name>KOI-1236.03</name>
+		<name>KIC 6677841 c</name>
+		<id>KOI-1236 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.282504</radius>
+			<orbit>
+				<period>54.399500</period>
+				<semimajoraxis>0.307</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.31</mass>
+			<radius>1.27</radius>
+			<metallicity />
+			<distance>1062.62</distance>
+			<temperature>6779</temperature>
+			<rightascension>19 09 33</rightascension>
+			<declination>42 11 41</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-1236 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-127 b</id_exoplaneteu>
 		<name>KOI-127 b</name>
 		<name>KIC 8359498 b</name>
@@ -32568,6 +32658,96 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1563 b</id_exoplaneteu>
+		<name>KOI-1563 b</name>
+		<name>KOI-1563.01</name>
+		<name>KIC 5219234 b</name>
+		<id>KOI-1563 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.328069</radius>
+			<orbit>
+				<period>5.487006</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.89</mass>
+			<radius>0.89</radius>
+			<metallicity />
+			<distance>1032.62</distance>
+			<temperature>4918</temperature>
+			<rightascension>19 56 53</rightascension>
+			<declination>40 20 35</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-1563 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1563 c</id_exoplaneteu>
+		<name>KOI-1563 c</name>
+		<name>KOI-1563.02</name>
+		<name>KIC 5219234 c</name>
+		<id>KOI-1563 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.300730</radius>
+			<orbit>
+				<period>8.291130</period>
+				<semimajoraxis>0.077</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.89</mass>
+			<radius>0.89</radius>
+			<metallicity />
+			<distance>1032.62</distance>
+			<temperature>4918</temperature>
+			<rightascension>19 56 53</rightascension>
+			<declination>40 20 35</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-1563 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-200 b</id_exoplaneteu>
 		<name>KOI-200 b</name>
 		<name>KIC-6046540 b</name>
@@ -32651,6 +32831,96 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2038 b</id_exoplaneteu>
+		<name>KOI-2038 b</name>
+		<name>KOI-2038.01</name>
+		<name>KIC 8950568 b</name>
+		<id>KOI-2038 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.181349</radius>
+			<orbit>
+				<period>8.305992</period>
+				<semimajoraxis>0.079</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.95</mass>
+			<radius>0.84</radius>
+			<metallicity />
+			<distance>822.39</distance>
+			<temperature>5666</temperature>
+			<rightascension>19 23 53</rightascension>
+			<declination>45 17 25</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-2038 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2038 c</id_exoplaneteu>
+		<name>KOI-2038 c</name>
+		<name>KOI-2038.02</name>
+		<name>KIC 8950568 c</name>
+		<id>KOI-2038 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.200487</radius>
+			<orbit>
+				<period>12.512170</period>
+				<semimajoraxis>0.103</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.95</mass>
+			<radius>0.84</radius>
+			<metallicity />
+			<distance>822.39</distance>
+			<temperature>5666</temperature>
+			<rightascension>19 23 53</rightascension>
+			<declination>45 17 25</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-2038 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -32782,6 +33052,96 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<lastupdate>11/12/03</lastupdate>
 		<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
 		<new>0</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2672 b</id_exoplaneteu>
+		<name>KOI-2672 b</name>
+		<name>KOI-2672.01</name>
+		<name>KIC 11253827 b</name>
+		<id>KOI-2672 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.482991</radius>
+			<orbit>
+				<period>88.516580</period>
+				<semimajoraxis>0.369</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.95</mass>
+			<radius>1.04</radius>
+			<metallicity />
+			<distance>263.40</distance>
+			<temperature>5565</temperature>
+			<rightascension>19 23 53</rightascension>
+			<declination>48 58 38</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2672 c</id_exoplaneteu>
+		<name>KOI-2672 c</name>
+		<name>KOI-2672.02</name>
+		<name>KIC 11253827 c</name>
+		<id>KOI-2672 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.318956</radius>
+			<orbit>
+				<period>42.990660</period>
+				<semimajoraxis>0.228</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.95</mass>
+			<radius>1.04</radius>
+			<metallicity />
+			<distance>263.40</distance>
+			<temperature>5565</temperature>
+			<rightascension>19 23 53</rightascension>
+			<declination>48 58 38</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
