@@ -1,4 +1,4 @@
-<systems name="systems" planets="933">
+<systems name="systems" planets="941">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -21240,7 +21240,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/08/01</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
@@ -21785,6 +21785,53 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KOI-1236</name>
+		<rightascension>19 09 33</rightascension>
+		<declination>42 11 41</declination>
+		<distance>1062.62</distance>
+		<star>
+			<name>KOI-1236</name>
+			<name>KIC 6677841</name>
+			<mass>1.31</mass>
+			<radius>1.27</radius>
+			<temperature>6779</temperature>
+			<planet>
+				<name>KOI-1236 b</name>
+				<name>KOI-1236.01</name>
+				<name>KIC 6677841 b</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.193986" />
+				<radius>0.391860</radius>
+				<temperature>699</temperature>
+				<period>35.741130</period>
+				<transittime>2454984.06120</transittime>
+				<semimajoraxis>0.232</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-1236 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>KOI-1236 c</name>
+				<name>KOI-1236.03</name>
+				<name>KIC 6677841 c</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.152872" />
+				<radius>0.282504</radius>
+				<temperature>607</temperature>
+				<period>54.399500</period>
+				<transittime>2454981.87990</transittime>
+				<semimajoraxis>0.307</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-1236 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>KOI-127</name>
 		<name>KIC 8359498</name>
 		<name>GSC2.3 N2K0000444</name>
@@ -21955,6 +22002,53 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KOI-1563</name>
+		<rightascension>19 56 53</rightascension>
+		<declination>40 20 35</declination>
+		<distance>1032.62</distance>
+		<star>
+			<name>KOI-1563</name>
+			<name>KIC 5219234</name>
+			<mass>0.89</mass>
+			<radius>0.89</radius>
+			<temperature>4918</temperature>
+			<planet>
+				<name>KOI-1563 b</name>
+				<name>KOI-1563.01</name>
+				<name>KIC 5219234 b</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.028195" />
+				<radius>0.328069</radius>
+				<temperature>833</temperature>
+				<period>5.487006</period>
+				<transittime>2455189.07960</transittime>
+				<semimajoraxis>0.059</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-1563 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>KOI-1563 c</name>
+				<name>KOI-1563.02</name>
+				<name>KIC 5219234 c</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.024109" />
+				<radius>0.300730</radius>
+				<temperature>729</temperature>
+				<period>8.291130</period>
+				<transittime>2455192.62760</transittime>
+				<semimajoraxis>0.077</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-1563 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>KOI-200</name>
 		<name>KIC-6046540</name>
 		<name>2MASS 19322220+4121198</name>
@@ -22030,6 +22124,53 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			</planet>
 			<name>KOI-202</name>
 			<temperature>5912.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>KOI-2038</name>
+		<rightascension>19 23 53</rightascension>
+		<declination>45 17 25</declination>
+		<distance>822.39</distance>
+		<star>
+			<name>KOI-2038</name>
+			<name>KIC 8950568</name>
+			<mass>0.95</mass>
+			<radius>0.84</radius>
+			<temperature>5666</temperature>
+			<planet>
+				<name>KOI-2038 b</name>
+				<name>KOI-2038.01</name>
+				<name>KIC 8950568 b</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.046522" />
+				<radius>0.181349</radius>
+				<temperature>814</temperature>
+				<period>8.305992</period>
+				<transittime>2454972.71660</transittime>
+				<semimajoraxis>0.079</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-2038 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>KOI-2038 c</name>
+				<name>KOI-2038.02</name>
+				<name>KIC 8950568 c</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.059422" />
+				<radius>0.200487</radius>
+				<temperature>712</temperature>
+				<period>12.512170</period>
+				<transittime>2454972.45610</transittime>
+				<semimajoraxis>0.103</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-2038 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -22133,6 +22274,53 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<new>0</new>
 			</planet>
 			<name>KOI-254</name>
+		</star>
+	</system>
+	<system>
+		<name>KOI-2672</name>
+		<rightascension>19 23 53</rightascension>
+		<declination>48 58 38</declination>
+		<distance>263.40</distance>
+		<star>
+			<name>KOI-2672</name>
+			<name>KIC 11253827</name>
+			<mass>0.95</mass>
+			<radius>1.04</radius>
+			<temperature>5565</temperature>
+			<planet>
+				<name>KOI-2672 b</name>
+				<name>KOI-2672.01</name>
+				<name>KIC 11253827 b</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.053747" />
+				<radius>0.482991</radius>
+				<temperature>413</temperature>
+				<period>88.516580</period>
+				<transittime>2455015.65259</transittime>
+				<semimajoraxis>0.369</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>KOI-2672 c</name>
+				<name>KOI-2672.02</name>
+				<name>KIC 11253827 c</name>
+				<list>Confirmed planets</list>
+				<mass upperlimit="0.252074" />
+				<radius>0.318956</radius>
+				<temperature>525</temperature>
+				<period>42.990660</period>
+				<transittime>2454995.51176</transittime>
+				<semimajoraxis>0.228</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
