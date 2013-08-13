@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>KOI-1236 c</id_exoplaneteu>
+	<name>KOI-1236 c</name>
+	<name>KOI-1236.03</name>
+	<name>KIC 6677841 c</name>
+	<id>KOI-1236 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.282504</radius>
+		<orbit>
+			<period>54.399500</period>
+			<semimajoraxis>0.307</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.31</mass>
+		<radius>1.27</radius>
+		<metallicity />
+		<distance>1062.62</distance>
+		<temperature>6779</temperature>
+		<rightascension>19 09 33</rightascension>
+		<declination>42 11 41</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/08/06</lastupdate>
+	<description>The system KOI-1236 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
