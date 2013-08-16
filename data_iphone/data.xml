@@ -1,4 +1,4 @@
-<planets date="2013-08-13" name="data" planets="942">
+<planets date="2013-08-16" name="data" planets="945">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -5876,6 +5876,106 @@ Credit: Jonah Gallagher.</imagedescription>
 		<lastupdate>13/01/02</lastupdate>
 		<description>HAT-P-43 b is a typical Hot Jupiter on a circular orbit around a late F-type main sequence star. The planet is inflated compared to our own Jupiter. It was discovered by the HATNet collaboration.</description>
 		<new>0</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-44 b</id_exoplaneteu>
+		<name>HAT-P-44 b</name>
+		<name>GSC 3465-00123 b</name>
+		<name>2MASS 14123457+4700528 b</name>
+		<id>HAT-P-44 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.6</mass>
+			<orbit>
+				<period>219.9</period>
+				<semimajoraxis>0.699</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.939</mass>
+			<radius>0.979</radius>
+			<metallicity>0.33</metallicity>
+			<distance>374</distance>
+			<temperature>5295</temperature>
+			<rightascension>14 12 35</rightascension>
+			<declination>+47 00 53</declination>
+			<magV>5.34</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/16</lastupdate>
+		<description>This planet was disocerved by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature. However, due to aliasing one cannot rule out an alternative solution for the outer planet having a period of 438 days and a minimum mass of 3.7 Jupiter masses.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-45 b</id_exoplaneteu>
+		<name>HAT-P-45 b</name>
+		<name>GSC 5102-00262 b</name>
+		<name>2MASS 18172957-0322517 b</name>
+		<id>HAT-P-45 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.892</mass>
+			<radius>1.426</radius>
+			<orbit>
+				<period>3.128992</period>
+				<semimajoraxis>0.0452</semimajoraxis>
+				<eccentricity>0.049</eccentricity>
+				<inclination>87.8</inclination>
+				<periastron>146</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.259</mass>
+			<radius>1.319</radius>
+			<metallicity>0.07"</metallicity>
+			<distance>305</distance>
+			<temperature>6330</temperature>
+			<rightascension>18 17 29</rightascension>
+			<declination>-03 22 52</declination>
+			<magV>3.75</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/16</lastupdate>
+		<description>This planet was disocerved by the HATNet transit survey. The RV data suggest there might be a second planet in the system. However, the data currently preferres a single planet solution.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-46 b</id_exoplaneteu>
+		<name>HAT-P-46 b</name>
+		<name>GSC 5100-00045 b</name>
+		<name>2MASS 18014660-0258154 b</name>
+		<id>HAT-P-46 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.493</mass>
+			<radius>1.284</radius>
+			<orbit>
+				<semimajoraxis>0.0577</semimajoraxis>
+				<eccentricity>0.123</eccentricity>
+				<inclination>85.5</inclination>
+				<periastron>70</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.284</mass>
+			<radius>1.396</radius>
+			<metallicity>0.3</metallicity>
+			<distance>296</distance>
+			<temperature>6120</temperature>
+			<rightascension>18 01 47</rightascension>
+			<declination>-02 58 15</declination>
+			<magV>3.79</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/16</lastupdate>
+		<description>This planet was disocerved by the HATNet transit survey. The RV data suggest there might be a second planet with an orbital period of 78 days in the system. However, more data is required to confirm its existance.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -19260,7 +19360,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/08/13</lastupdate>
 		<description>KELT-6b is a Saturn-mass planet transiting a metal-poor host star. The planet candidate was originally discovered by the KELT-North survey. Follow up observations confirmed the planetary nature of the candidate using a combination of photometry, high-resolution imaging, high resolution spectroscopy and radial velocity measurements.</description>
-		<new>1</new>
+		<new>0</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
