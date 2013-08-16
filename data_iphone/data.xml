@@ -1,4 +1,4 @@
-<planets date="2013-08-16" name="data" planets="945">
+<planets date="2013-08-16" name="data" planets="946">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -5884,6 +5884,40 @@ Credit: Jonah Gallagher.</imagedescription>
 		<name>GSC 3465-00123 b</name>
 		<name>2MASS 14123457+4700528 b</name>
 		<id>HAT-P-44 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.347</mass>
+			<radius>1.28</radius>
+			<orbit>
+				<semimajoraxis>0.0507</semimajoraxis>
+				<eccentricity>0.072</eccentricity>
+				<inclination>89</inclination>
+				<periastron>98</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.939</mass>
+			<radius>0.979</radius>
+			<metallicity>0.33</metallicity>
+			<distance>374</distance>
+			<temperature>5295</temperature>
+			<rightascension>14 12 35</rightascension>
+			<declination>+47 00 53</declination>
+			<magV>5.34</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/16</lastupdate>
+		<description>This planet was disocerved by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-44 c</id_exoplaneteu>
+		<name>HAT-P-44 c</name>
+		<name>GSC 3465-00123 c</name>
+		<name>2MASS 14123457+4700528 c</name>
+		<id>HAT-P-44 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.6</mass>
