@@ -1,4 +1,4 @@
-<systems name="systems" planets="942">
+<systems name="systems" planets="946">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -5756,6 +5756,128 @@ Credit: Jonah Gallagher.</imagedescription>
 				<lastupdate>13/01/02</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<new>0</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HAT-P-44</name>
+		<rightascension>14 12 35</rightascension>
+		<declination>+47 00 53</declination>
+		<distance errorminus="23" errorplus="42">374</distance>
+		<star>
+			<name>HAT-P-44</name>
+			<name>GSC 3465-00123</name>
+			<name>2MASS 14123457+4700528</name>
+			<mass errorminus="0.041" errorplus="0.041">0.939</mass>
+			<radius errorminus="0.055" errorplus="0.110">0.979</radius>
+			<temperature errorminus="100" errorplus="100">5295</temperature>
+			<magV errorminus="0.23" errorplus="0.23">5.34</magV>
+			<metallicity errorminus="0.10" errorplus="0.10">0.33</metallicity>
+			<age errorminus="3.9" errorplus="3.9">8.9</age>
+			<planet>
+				<name>HAT-P-44 b</name>
+				<name>GSC 3465-00123 b</name>
+				<name>2MASS 14123457+4700528 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.077" errorplus="0.077">0.347</mass>
+				<radius errorminus="0.074" errorplus="0.145">1.28</radius>
+				<temperature errorminus="42" errorplus="67">1126</temperature>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0507</semimajoraxis>
+				<eccentricity errorminus="0.071" errorplus="0.071">0.072</eccentricity>
+				<inclination errorminus="0.5" errorplus="0.5">89</inclination>
+				<periastron errorminus="84" errorplus="84">98</periastron>
+				<description>This planet was disocerved by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/16</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>HAT-P-44 b</name>
+				<name>GSC 3465-00123 b</name>
+				<name>2MASS 14123457+4700528 b</name>
+				<list>Confirmed planets</list>
+				<period errorminus="4.5" errorplus="4.5">219.9</period>
+				<mass errorminus="0.2" errorplus="0.2">1.6</mass>
+				<transittime errorminus="4.1" errorplus="4.1">2455686.2</transittime>
+				<discoverymethod>transit</discoverymethod>
+				<semimajoraxis errorminus="0.014" errorplus="0.014">0.699</semimajoraxis>
+				<description>This planet was disocerved by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature. However, due to aliasing one cannot rule out an alternative solution for the outer planet having a period of 438 days and a minimum mass of 3.7 Jupiter masses.</description>
+				<lastupdate>13/08/16</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HAT-P-45</name>
+		<rightascension>18 17 29</rightascension>
+		<declination>-03 22 52</declination>
+		<distance errorminus="17" errorplus="35">305</distance>
+		<star>
+			<name>HAT-P-45</name>
+			<name>GSC 5102-00262</name>
+			<name>2MASS 18172957-0322517</name>
+			<mass errorminus="0.058" errorplus="0.058">1.259</mass>
+			<radius errorminus="0.072" errorplus="0.155">1.319</radius>
+			<temperature errorminus="100" errorplus="100">6330</temperature>
+			<magV errorminus="0.21" errorplus="0.21">3.75</magV>
+			<metallicity errorminus="0.1" errorplus="0.1">0.07"</metallicity>
+			<age errorminus="0.8" errorplus="0.8">2</age>
+			<planet>
+				<name>HAT-P-45 b</name>
+				<name>GSC 5102-00262 b</name>
+				<name>2MASS 18172957-0322517 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.099" errorplus="0.137">0.892</mass>
+				<radius errorminus="0.087" errorplus="0.175">1.426</radius>
+				<temperature errorminus="52" errorplus="90">1652</temperature>
+				<period errorminus="0.000021" errorplus="0.000021">3.128992</period>
+				<transittime errorminus="0.00041" errorplus="0.00041">2455729.98612</transittime>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0452</semimajoraxis>
+				<eccentricity errorminus="0.063" errorplus="0.063">0.049</eccentricity>
+				<inclination errorminus="0.9" errorplus="0.9">87.8</inclination>
+				<periastron errorminus="98" errorplus="98">146</periastron>
+				<description>This planet was disocerved by the HATNet transit survey. The RV data suggest there might be a second planet in the system. However, the data currently preferres a single planet solution.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/16</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HAT-P-46</name>
+		<rightascension>18 01 47</rightascension>
+		<declination>-02 58 15</declination>
+		<distance errorminus="29" errorplus="61">296</distance>
+		<star>
+			<name>HAT-P-46</name>
+			<name>GSC 5100-00045</name>
+			<name>2MASS 18014660-0258154</name>
+			<mass errorminus="0.060" errorplus="0.095">1.284</mass>
+			<radius errorminus="0.136" errorplus="0.293">1.396</radius>
+			<temperature errorminus="100" errorplus="100">6120</temperature>
+			<magV errorminus="0.34" errorplus="0.34">3.79</magV>
+			<age errorminus="1" errorplus="0.7">2.5</age>
+			<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
+			<planet>
+				<name>HAT-P-46 b</name>
+				<name>GSC 5100-00045 b</name>
+				<name>2MASS 18014660-0258154 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.052" errorplus="0.082">0.493</mass>
+				<radius errorminus="0.133" errorplus="0.271">1.284</radius>
+				<temperature errorminus="75" errorplus="140">1458</temperature>
+				<semimajoraxis errorminus="0.0009" errorplus="0.0014">0.0577</semimajoraxis>
+				<eccentricity errorminus="0.120" errorplus="0.120">0.123</eccentricity>
+				<inclination errorminus="2.3" errorplus="0.8">85.5</inclination>
+				<periastron errorminus="87" errorplus="87">70</periastron>
+				<description>This planet was disocerved by the HATNet transit survey. The RV data suggest there might be a second planet with an orbital period of 78 days in the system. However, more data is required to confirm its existance.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/08/16</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -18608,7 +18730,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/08/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
+				<new>0</new>
 			</planet>
 		</star>
 	</system>
