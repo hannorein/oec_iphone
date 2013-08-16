@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HAT-P-45 b</id_exoplaneteu>
+	<name>HAT-P-45 b</name>
+	<name>GSC 5102-00262 b</name>
+	<name>2MASS 18172957-0322517 b</name>
+	<id>HAT-P-45 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.892</mass>
+		<radius>1.426</radius>
+		<orbit>
+			<period>3.128992</period>
+			<semimajoraxis>0.0452</semimajoraxis>
+			<eccentricity>0.049</eccentricity>
+			<inclination>87.8</inclination>
+			<periastron>146</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.259</mass>
+		<radius>1.319</radius>
+		<metallicity>0.07"</metallicity>
+		<distance>305</distance>
+		<temperature>6330</temperature>
+		<rightascension>18 17 29</rightascension>
+		<declination>-03 22 52</declination>
+		<angulardistance />
+		<magV>3.75</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/08/16</lastupdate>
+	<description>This planet was disocerved by the HATNet transit survey. The RV data suggest there might be a second planet in the system. However, the data currently preferres a single planet solution.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

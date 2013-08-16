@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HAT-P-46 b</id_exoplaneteu>
+	<name>HAT-P-46 b</name>
+	<name>GSC 5100-00045 b</name>
+	<name>2MASS 18014660-0258154 b</name>
+	<id>HAT-P-46 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.493</mass>
+		<radius>1.284</radius>
+		<orbit>
+			<period />
+			<semimajoraxis>0.0577</semimajoraxis>
+			<eccentricity>0.123</eccentricity>
+			<inclination>85.5</inclination>
+			<periastron>70</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.284</mass>
+		<radius>1.396</radius>
+		<metallicity>0.3</metallicity>
+		<distance>296</distance>
+		<temperature>6120</temperature>
+		<rightascension>18 01 47</rightascension>
+		<declination>-02 58 15</declination>
+		<angulardistance />
+		<magV>3.79</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/08/16</lastupdate>
+	<description>This planet was disocerved by the HATNet transit survey. The RV data suggest there might be a second planet with an orbital period of 78 days in the system. However, more data is required to confirm its existance.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
