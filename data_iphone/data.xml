@@ -11557,9 +11557,11 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 189733 b</id_exoplaneteu>
+		<id_exoplaneteu>HD 189733 A b</id_exoplaneteu>
+		<name>HD 189733 A b</name>
 		<name>HD 189733 b</name>
-		<id>HD 189733 b</id>
+		<name>V452 Vulpeculae A b</name>
+		<id>HD 189733 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.138</mass>
@@ -11572,27 +11574,24 @@ Credit: ESO/L. Calcada</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K2V</spectraltype>
-			<mass>0.8</mass>
-			<radius>0.788</radius>
-			<metallicity>-0.03</metallicity>
+			<spectraltype>M4</spectraltype>
+			<mass>0.4</mass>
 			<distance>19.3</distance>
-			<temperature>1099.7</temperature>
 			<rightascension>20 00 43</rightascension>
 			<declination>+22 42 39</declination>
 			<magV>7.68</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>13/07/11</lastupdate>
+		<lastupdate>13/08/18</lastupdate>
 		<description>The planet HD 189733 b is a transiting hot Jupiter on a 2 day orbit. Astronomers have observed the secondary eclipse with the Hubble Space Telescope. They found evidence for optically thick reflective clouds on the dayside hemisphere. According to the best-fit albedo values, the planet would appear deep blue at visible wavelengths.</description>
 		<new>0</new>
 		<image>HD189733</image>
 		<imagedescription>This illustration shows HD 189733b, a huge gas giant that orbits very close to its host star HD 189733. The planet's atmosphere is scorching with a temperature of over 1000 degrees Celsius, and it rains glass, sideways, in howling 7000 kilometre-per-hour winds.
-			
-At a distance of 63 light-years from us, this turbulent alien world is one of the nearest exoplanets to Earth that can be seen crossing the face of its star. By observing this planet before, during, and after it disappeared behind its host star during orbit, astronomers were able to deduce that HD 189733b is a deep, azure blue - reminiscent of Earth's colour as seen from space.
-			
-Credit: NASA, ESA, M. Kornmesser</imagedescription>
+				
+	At a distance of 63 light-years from us, this turbulent alien world is one of the nearest exoplanets to Earth that can be seen crossing the face of its star. By observing this planet before, during, and after it disappeared behind its host star during orbit, astronomers were able to deduce that HD 189733b is a deep, azure blue - reminiscent of Earth's colour as seen from space.
+				
+	Credit: NASA, ESA, M. Kornmesser</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
