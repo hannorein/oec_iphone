@@ -25,6 +25,10 @@ def traverse(node):  #remove empty elements
 	deleted = 0
 	for c in children:
 		text = c.text
+		if c.tag == "satellite":
+			node.remove(c)
+			print "Removing satellite"
+			continue
 		if text == None and len(c.attrib)==0:
 			#print "#############"
 			#print c #.text
