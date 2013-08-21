@@ -21,12 +21,10 @@ def indent(elem, level=0):
 
 ## delete all previous planet files
 for filename in glob.glob("../data/*.xml"):
-	print "deleting "+filename
 	os.remove(filename)
 
 ## recreate old data
 for filename in glob.glob("../open_exoplanet_catalogue/systems/*.xml"):
-	print "Working on: "+filename
 	newfile = open(filename, 'rt')
 	newroot = ElementTree.parse(newfile).getroot()
 	newtree = ElementTree.ElementTree(newroot) 
@@ -41,7 +39,6 @@ for filename in glob.glob("../open_exoplanet_catalogue/systems/*.xml"):
 		names = planet.findall(".//name")
 		ElementTree.SubElement(root,"id_exoplaneteu").text		= oldfilename 
 		for name in names:
-			print name.text
 			ElementTree.SubElement(root,"name").text = name.text
 		ElementTree.SubElement(root,"id").text		= oldfilename 
 		ElementTree.SubElement(root,"discoverymethod").text		= planet.findtext(".//discoverymethod") 
@@ -93,7 +90,6 @@ for filename in glob.glob("../open_exoplanet_catalogue/systems/*.xml"):
 		ElementTree.SubElement(root,"imagedescription").text	= planet.findtext(".//imagedescription") 
 		lists = planet.findall(".//list")
 		for l in lists:
-			print l.text
 			ElementTree.SubElement(root,"list").text = l.text
 
 
@@ -101,6 +97,5 @@ for filename in glob.glob("../open_exoplanet_catalogue/systems/*.xml"):
 
 		indent(root)
 		tree.write("../data/"+oldfilename+".xml")
-		print "saving: "+"../data/"+oldfilename+".xml"
 
 
