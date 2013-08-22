@@ -2685,7 +2685,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<system>
 		<name>gamma Cephei</name>
 		<name>Gamma Cephei</name>
-		<name>&#947; Cephei</name>
 		<name>Errai</name>
 		<name>Alrai</name>
 		<name>GJ 903</name>
@@ -2701,7 +2700,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<period errorminus="1.4" errorplus="1.4">67.5</period>
 			<star>
 				<name>Gamma Cephei A</name>
-				<name>&#947; Cephei A</name>
 				<mass errorminus="0.12" errorplus="0.12">1.4</mass>
 				<radius>4.9</radius>
 				<magV>3.22</magV>
@@ -21197,12 +21195,14 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	</system>
 	<system>
 		<name>KIC 8435766</name>
+		<name>Kepler-78</name>
 		<name>2MASS 19345800+4426539</name>
 		<name>TYC 3147-188-1</name>
 		<rightascension>19 34 58</rightascension>
 		<declination>+44 26 54</declination>
 		<star>
 			<name>KIC 8435766</name>
+			<name>Kepler-78</name>
 			<name>2MASS 19345800+4426539</name>
 			<name>TYC 3147-188-1</name>
 			<mass errorminus="0.06" errorplus="0.06">0.84</mass>
@@ -21218,6 +21218,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<age errorminus="0.15" errorplus="0.15">0.75</age>
 			<planet>
 				<name>KIC 8435766 b</name>
+				<name>Kepler-78 b</name>
 				<name>2MASS 19345800+4426539 b</name>
 				<name>TYC 3147-188-1 b</name>
 				<list>Confirmed planets</list>
