@@ -36,4 +36,8 @@ pushd scripts
 python create_data_iphone_11.python
 popd
 commit "automatic update: create_data_iphone_11"
-#git push
+
+
+
+git push
+./deploy.bash
