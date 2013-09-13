@@ -1,4 +1,4 @@
-<planets date="2013-09-07" name="data" planets="947">
+<planets date="2013-09-13" name="data" planets="969">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -22456,6 +22456,118 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1203 b</id_exoplaneteu>
+		<name>KOI-1203 b</name>
+		<name>KOI-1203 1</name>
+		<id>KOI-1203 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.04530</mass>
+			<radius>0.26428</radius>
+			<orbit>
+				<period>31.884</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.96</mass>
+			<radius>0.95</radius>
+			<distance>1394.07</distance>
+			<temperature>6057.00</temperature>
+			<rightascension>19 34 16</rightascension>
+			<declination>+39 02 10</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1203 d</id_exoplaneteu>
+		<name>KOI-1203 d</name>
+		<name>KOI-1203 3</name>
+		<id>KOI-1203 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.04404</mass>
+			<radius>0.25516</radius>
+			<orbit>
+				<period>48.648</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.96</mass>
+			<radius>0.95</radius>
+			<distance>1394.07</distance>
+			<temperature>6057.00</temperature>
+			<rightascension>19 34 16</rightascension>
+			<declination>+39 02 10</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1215 1</id_exoplaneteu>
+		<name>KOI-1215 1</name>
+		<name>KOI-1215 b</name>
+		<id>KOI-1215 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.27619</mass>
+			<radius>0.26610</radius>
+			<orbit>
+				<period>17.324</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.19</mass>
+			<radius>1.65</radius>
+			<distance>951.43</distance>
+			<temperature>5946.00</temperature>
+			<rightascension>19 06 19</rightascension>
+			<declination>+39 04 37</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1215 2</id_exoplaneteu>
+		<name>KOI-1215 2</name>
+		<name>KOI-1215 c</name>
+		<id>KOI-1215 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.20856</mass>
+			<radius>0.30620</radius>
+			<orbit>
+				<period>33.006</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.19</mass>
+			<radius>1.65</radius>
+			<distance>951.43</distance>
+			<temperature>5946.00</temperature>
+			<rightascension>19 06 19</rightascension>
+			<declination>+39 04 37</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-1236 b</id_exoplaneteu>
 		<name>KOI-1236 b</name>
 		<name>KOI-1236.01</name>
@@ -22543,6 +22655,62 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/05/17</lastupdate>
 		<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1278 1</id_exoplaneteu>
+		<name>KOI-1278 1</name>
+		<name>KOI-1278 b</name>
+		<id>KOI-1278 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.21076</mass>
+			<radius>0.22418</radius>
+			<orbit>
+				<period>24.806</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.09</mass>
+			<radius>1.01</radius>
+			<distance>1386.06</distance>
+			<temperature>6144.00</temperature>
+			<rightascension>18 58 42</rightascension>
+			<declination>+44 47 51</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1278 2</id_exoplaneteu>
+		<name>KOI-1278 2</name>
+		<name>KOI-1278 c</name>
+		<id>KOI-1278 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.19378</mass>
+			<radius>0.28250</radius>
+			<orbit>
+				<period>44.347</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.09</mass>
+			<radius>1.01</radius>
+			<distance>1386.06</distance>
+			<temperature>6144.00</temperature>
+			<rightascension>18 58 42</rightascension>
+			<declination>+44 47 51</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -22674,6 +22842,62 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-156 1</id_exoplaneteu>
+		<name>KOI-156 1</name>
+		<name>KOI-156 b</name>
+		<id>KOI-156 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01070</mass>
+			<radius>0.14581</radius>
+			<orbit>
+				<period>8.041</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.71</mass>
+			<radius>0.65</radius>
+			<distance>263.46</distance>
+			<temperature>4619.00</temperature>
+			<rightascension>19 36 29</rightascension>
+			<declination>+48 20 58</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-156 3</id_exoplaneteu>
+		<name>KOI-156 3</name>
+		<name>KOI-156 c</name>
+		<id>KOI-156 3</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01510</mass>
+			<radius>0.23056</radius>
+			<orbit>
+				<period>11.776</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.71</mass>
+			<radius>0.65</radius>
+			<distance>263.46</distance>
+			<temperature>4619.00</temperature>
+			<rightascension>19 36 29</rightascension>
+			<declination>+48 20 58</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-1563 b</id_exoplaneteu>
 		<name>KOI-1563 b</name>
 		<name>KOI-1563.01</name>
@@ -22727,6 +22951,90 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/08/06</lastupdate>
 		<description>The system KOI-1563 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1576 1</id_exoplaneteu>
+		<name>KOI-1576 1</name>
+		<name>KOI-1576 b</name>
+		<id>KOI-1576 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.00786</mass>
+			<radius>0.29162</radius>
+			<orbit>
+				<period>10.416</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.78</mass>
+			<radius>1.03</radius>
+			<distance>705.48</distance>
+			<temperature>5577.00</temperature>
+			<rightascension>19 51 10</rightascension>
+			<declination>+40 25 03</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1576 2</id_exoplaneteu>
+		<name>KOI-1576 2</name>
+		<name>KOI-1576 c</name>
+		<id>KOI-1576 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.00377</mass>
+			<radius>0.25516</radius>
+			<orbit>
+				<period>13.084</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.78</mass>
+			<radius>1.03</radius>
+			<distance>705.48</distance>
+			<temperature>5577.00</temperature>
+			<rightascension>19 51 10</rightascension>
+			<declination>+40 25 03</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1873 2</id_exoplaneteu>
+		<name>KOI-1873 2</name>
+		<name>KOI-1873 c</name>
+		<id>KOI-1873 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.10286</mass>
+			<radius>0.49210</radius>
+			<orbit>
+				<period>71.312</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.98</mass>
+			<radius>0.9700</radius>
+			<distance>1680.75</distance>
+			<temperature>6134.00</temperature>
+			<rightascension>19 43 14</rightascension>
+			<declination>+40 00 30</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -22790,6 +23098,62 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2025 1</id_exoplaneteu>
+		<name>KOI-2025 1</name>
+		<name>KOI-2025 b</name>
+		<id>KOI-2025 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01762</mass>
+			<radius>0.28250</radius>
+			<orbit>
+				<period>17.849</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.03</mass>
+			<radius>1.33</radius>
+			<distance>995.47</distance>
+			<temperature>6234.00</temperature>
+			<rightascension>19 01 40</rightascension>
+			<declination>+39 42 21</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2025 2</id_exoplaneteu>
+		<name>KOI-2025 2</name>
+		<name>KOI-2025 c</name>
+		<id>KOI-2025 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.04687</mass>
+			<radius>0.25516</radius>
+			<orbit>
+				<period>26.136</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.03</mass>
+			<radius>1.33</radius>
+			<distance>995.47</distance>
+			<temperature>6234.00</temperature>
+			<rightascension>19 01 40</rightascension>
+			<declination>+39 42 21</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -22996,6 +23360,122 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-274 1</id_exoplaneteu>
+		<name>KOI-274 1</name>
+		<name>KOI-274 b</name>
+		<id>KOI-274 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.09406</mass>
+			<radius>0.10298</radius>
+			<orbit>
+				<period>15.090</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.17</mass>
+			<radius>1.55</radius>
+			<distance>368.14</distance>
+			<temperature>6090.00</temperature>
+			<rightascension>18 49 58</rightascension>
+			<declination>+43 58 48</declination>
+			<magV>11.69</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-274 2</id_exoplaneteu>
+		<name>KOI-274 2</name>
+		<name>KOI-274 c</name>
+		<id>KOI-274 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.10318</mass>
+			<radius>0.10298</radius>
+			<orbit>
+				<period>22.804</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.17</mass>
+			<radius>1.55</radius>
+			<distance>368.14</distance>
+			<temperature>6090.00</temperature>
+			<rightascension>18 49 58</rightascension>
+			<declination>+43 58 48</declination>
+			<magV>11.69</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-285 1</id_exoplaneteu>
+		<name>KOI-285 1</name>
+		<name>KOI-285 b</name>
+		<id>KOI-285 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.18969</mass>
+			<radius>0.31987</radius>
+			<orbit>
+				<period>13.749</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.17</mass>
+			<radius>1.53</radius>
+			<distance>367.56</distance>
+			<temperature>5883.00</temperature>
+			<rightascension>19 16 20</rightascension>
+			<declination>+41 33 46</declination>
+			<magV>11.67</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-285 2</id_exoplaneteu>
+		<name>KOI-285 2</name>
+		<name>KOI-285 c</name>
+		<id>KOI-285 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01825</mass>
+			<radius>0.23694</radius>
+			<orbit>
+				<period>26.723</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.17</mass>
+			<radius>1.53</radius>
+			<distance>367.56</distance>
+			<temperature>5883.00</temperature>
+			<rightascension>19 16 20</rightascension>
+			<declination>+41 33 46</declination>
+			<magV>11.67</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-368 b</id_exoplaneteu>
 		<name>KOI-368 b</name>
 		<name>KOI-368.01</name>
@@ -23026,6 +23506,62 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/10</lastupdate>
 		<description>The planet KOI-368 b was flagged by the Kepler team as a planet candidate. A new study by Zhou and Huang has now excluded blend scenarios and argues that the object has to be of substellar nature. The planet has a very high obliquity of 64 degrees. KOI-368 is the hottest host star to date for systems with spin-orbit measurements.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-370 1</id_exoplaneteu>
+		<name>KOI-370 1</name>
+		<name>KOI-370 b</name>
+		<id>KOI-370 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.23624</mass>
+			<radius>0.39368</radius>
+			<orbit>
+				<period>42.882</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.26</mass>
+			<radius>1.98</radius>
+			<distance>589.92</distance>
+			<temperature>6022.00</temperature>
+			<rightascension>19 25 33</rightascension>
+			<declination>+44 31 44</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-370 2</id_exoplaneteu>
+		<name>KOI-370 2</name>
+		<name>KOI-370 c</name>
+		<id>KOI-370 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.10821</mass>
+			<radius>0.24150</radius>
+			<orbit>
+				<period>22.951</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.26</mass>
+			<radius>1.98</radius>
+			<distance>589.92</distance>
+			<temperature>6022.00</temperature>
+			<rightascension>19 25 33</rightascension>
+			<declination>+44 31 44</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23090,6 +23626,34 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/01/01</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-523 2</id_exoplaneteu>
+		<name>KOI-523 2</name>
+		<name>KOI-523 c</name>
+		<id>KOI-523 2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01982</mass>
+			<radius>0.64703</radius>
+			<orbit>
+				<period>49.412</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.93</mass>
+			<radius>0.98</radius>
+			<distance>1387.37</distance>
+			<temperature>6197.00</temperature>
+			<rightascension>19 04 11</rightascension>
+			<declination>+45 03 11</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23280,6 +23844,62 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/07</lastupdate>
 		<description>The planetary system KOI-730 has been discovered by Kepler. The planet masses have not been confirmed. However, a dynamical study by Fabrycky et al suggests that this system is real.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-834 1</id_exoplaneteu>
+		<name>KOI-834 1</name>
+		<name>KOI-834 b</name>
+		<id>KOI-834 1</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.65525</mass>
+			<radius>0.51033</radius>
+			<orbit>
+				<period>23.654</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.43</mass>
+			<radius>0.90</radius>
+			<distance>1054.86</distance>
+			<temperature>5779.00</temperature>
+			<rightascension>19 11 35</rightascension>
+			<declination>+40 38 16</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-834 5</id_exoplaneteu>
+		<name>KOI-834 5</name>
+		<name>KOI-834 f</name>
+		<id>KOI-834 5</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.05882</mass>
+			<radius>0.18226</radius>
+			<orbit>
+				<period>50.447</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.43</mass>
+			<radius>0.90</radius>
+			<distance>1054.86</distance>
+			<temperature>5779.00</temperature>
+			<rightascension>19 11 35</rightascension>
+			<declination>+40 38 16</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
