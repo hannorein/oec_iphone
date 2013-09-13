@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>KOI-1203 d</id_exoplaneteu>
+	<name>KOI-1203 d</name>
+	<name>KOI-1203 3</name>
+	<id>KOI-1203 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.04404</mass>
+		<radius>0.25516</radius>
+		<orbit>
+			<period>48.648</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.96</mass>
+		<radius>0.95</radius>
+		<metallicity />
+		<distance>1394.07</distance>
+		<temperature>6057.00</temperature>
+		<rightascension>19 34 16</rightascension>
+		<declination>+39 02 10</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/13</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

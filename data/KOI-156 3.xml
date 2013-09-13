@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>KOI-156 3</id_exoplaneteu>
+	<name>KOI-156 3</name>
+	<name>KOI-156 c</name>
+	<id>KOI-156 3</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.01510</mass>
+		<radius>0.23056</radius>
+		<orbit>
+			<period>11.776</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.71</mass>
+		<radius>0.65</radius>
+		<metallicity />
+		<distance>263.46</distance>
+		<temperature>4619.00</temperature>
+		<rightascension>19 36 29</rightascension>
+		<declination>+48 20 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/13</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

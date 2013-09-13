@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>KOI-2025 2</id_exoplaneteu>
+	<name>KOI-2025 2</name>
+	<name>KOI-2025 c</name>
+	<id>KOI-2025 2</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.04687</mass>
+		<radius>0.25516</radius>
+		<orbit>
+			<period>26.136</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.03</mass>
+		<radius>1.33</radius>
+		<metallicity />
+		<distance>995.47</distance>
+		<temperature>6234.00</temperature>
+		<rightascension>19 01 40</rightascension>
+		<declination>+39 42 21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/13</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. It's planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
