@@ -1,4 +1,4 @@
-<systems name="systems" planets="971">
+<systems name="systems" planets="981">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -21265,6 +21265,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoveryyear>2013</discoveryyear>
 			</planet>
 			<planet>
+				<name>KOI-1203 c</name>
+				<name>KOI-1203 02</name>
+				<radius errorminus="0.11847" errorplus="0.11847">0.21871</radius>
+				<period errorminus="2.10000e-04" errorplus="2.10000e-04">14.128430000000</period>
+				<transittime errorminus="0.0055000" errorplus="0.0055000">2454975.8974000</transittime>
+				<semimajoraxis>0.1160000</semimajoraxis>
+				<temperature>767.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+			</planet>
+			<planet>
 				<name>KOI-1203 d</name>
 				<name>KOI-1203 3</name>
 				<radius errorminus="0.01367" errorplus="0.01367">0.25516</radius>
@@ -21451,6 +21462,28 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<lastupdate>13/09/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 			</planet>
+			<planet>
+				<name>KOI-1278 d</name>
+				<name>KOI-1278 03</name>
+				<radius errorminus="0.04557" errorplus="0.04557">0.11756</radius>
+				<period errorminus="2.10000e-04" errorplus="2.10000e-04">9.221230000000</period>
+				<transittime errorminus="0.0110000" errorplus="0.0110000">2454971.0010000</transittime>
+				<semimajoraxis>0.0880000</semimajoraxis>
+				<temperature>910.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+			</planet>
+			<planet>
+				<name>KOI-1278 e</name>
+				<name>KOI-1278 04</name>
+				<radius errorminus="0.04648" errorplus="0.04648">0.12120</radius>
+				<period errorminus="3.50000e-04" errorplus="3.50000e-04">13.638940000000</period>
+				<transittime errorminus="0.0130000" errorplus="0.0130000">2454974.7650000</transittime>
+				<semimajoraxis>0.1150000</semimajoraxis>
+				<temperature>796.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -21601,7 +21634,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoveryyear>2013</discoveryyear>
 			</planet>
 			<planet>
-				<name>KOI-156 c</name>
+				<name>KOI-156 d</name>
 				<name>KOI-156 3</name>
 				<radius errorminus="0.00729" errorplus="0.00729">0.23056</radius>
 				<mass errorminus="0.00189" errorplus="0.02328">0.01510</mass>
@@ -21612,6 +21645,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+			<planet>
+				<name>KOI-0156 c</name>
+				<name>KOI-0156 02</name>
+				<radius errorminus="0.00729" errorplus="0.00729">0.10753</radius>
+				<period errorminus="2.90000e-05" errorplus="2.90000e-05">5.188548000000</period>
+				<transittime errorminus="0.0019000" errorplus="0.0019000">2454978.3635000</transittime>
+				<semimajoraxis>0.0520000</semimajoraxis>
+				<temperature>722.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
 		</star>
 	</system>
@@ -21699,6 +21743,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+			<planet>
+				<name>KOI-1576 d</name>
+				<name>KOI-1576 03</name>
+				<radius errorminus="0.06197" errorplus="0.06197">0.14854</radius>
+				<period errorminus="5.20000e-04" errorplus="5.20000e-04">23.340320000000</period>
+				<transittime errorminus="0.0083000" errorplus="0.0083000">2454979.3439000</transittime>
+				<semimajoraxis>0.1520000</semimajoraxis>
+				<temperature>640.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
 		</star>
 	</system>
@@ -21853,6 +21908,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+			<planet>
+				<name>KOI-2025 d</name>
+				<name>KOI-2025 03</name>
+				<radius errorminus="0.05468" errorplus="0.05468">0.14945</radius>
+				<period errorminus="2.90000e-04" errorplus="2.90000e-04">11.189690000000</period>
+				<transittime errorminus="0.0095000" errorplus="0.0095000">2454973.6296000</transittime>
+				<semimajoraxis>0.1020000</semimajoraxis>
+				<temperature>993.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
 		</star>
 	</system>
@@ -22131,6 +22197,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+			<planet>
+				<name>KOI-0285 d</name>
+				<name>KOI-0285 03</name>
+				<radius errorminus="0.02187" errorplus="0.02187">0.16768</radius>
+				<period errorminus="7.40000e-04" errorplus="7.40000e-04">49.358990000000</period>
+				<transittime errorminus="0.0073000" errorplus="0.0073000">2454967.2716000</transittime>
+				<semimajoraxis>0.2780000</semimajoraxis>
+				<temperature>608.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
 		</star>
 	</system>
@@ -22511,6 +22588,39 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/13</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+			<planet>
+				<name>KOI-0834 c</name>
+				<name>KOI-0834 02</name>
+				<radius errorminus="0.30984" errorplus="0.30984">0.20960</radius>
+				<period errorminus="1.10000e-04" errorplus="1.10000e-04">13.235800000000</period>
+				<transittime errorminus="0.0042000" errorplus="0.0042000">2454973.2198000</transittime>
+				<semimajoraxis>0.1080000</semimajoraxis>
+				<temperature>722.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+			</planet>
+			<planet>
+				<name>KOI-0834 d</name>
+				<name>KOI-0834 03</name>
+				<radius errorminus="0.22783" errorplus="0.22783">0.15492</radius>
+				<period errorminus="6.30000e-05" errorplus="6.30000e-05">6.155541000000</period>
+				<transittime errorminus="0.0047000" errorplus="0.0047000">2454967.8249000</transittime>
+				<semimajoraxis>0.0650000</semimajoraxis>
+				<temperature>931.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+			</planet>
+			<planet>
+				<name>KOI-0834 e</name>
+				<name>KOI-0834 04</name>
+				<radius errorminus="0.14581" errorplus="0.14581">0.10024</radius>
+				<period errorminus="2.90000e-05" errorplus="2.90000e-05">2.090879000000</period>
+				<transittime errorminus="0.0047000" errorplus="0.0047000">2454967.1583000</transittime>
+				<semimajoraxis>0.0320000</semimajoraxis>
+				<temperature>1327.0</temperature>
+				<list>Kepler Objects of Interest</list>
+				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			</planet>
 		</star>
 	</system>
