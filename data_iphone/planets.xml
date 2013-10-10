@@ -10247,6 +10247,51 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 113337 b</id_exoplaneteu>
+		<name>HD 113337 b</name>
+		<name>HIP 63584 b</name>
+		<name>HR 4934 b</name>
+		<id>HD 113337 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.83</mass>
+			<radius />
+			<orbit>
+				<period>324</period>
+				<semimajoraxis>0.92</semimajoraxis>
+				<eccentricity>0.46</eccentricity>
+				<inclination />
+				<periastron>-140.8</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6V</spectraltype>
+			<mass>1.4</mass>
+			<radius>1.5</radius>
+			<metallicity>0.07</metallicity>
+			<distance>36.9</distance>
+			<temperature />
+			<rightascension>13 01 47</rightascension>
+			<declination>+63 36 37</declination>
+			<angulardistance />
+			<magV>6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/10</lastupdate>
+		<description>The planet HD 113337 b is orbiting a bright young F-type star. An IR excess has been attributed to a cold debris disk around the star. The planet has been found with the SOPHIE spectrograph on the 1.9m telescope at Observatoire de Haute-Provence.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 113538 b</id_exoplaneteu>
 		<name>HD 113538 b</name>
 		<id>HD 113538 b</id>
@@ -32308,6 +32353,96 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-87 b</id_exoplaneteu>
+		<name>Kepler-87 b</name>
+		<name>KOI-1574 b</name>
+		<name>KOI-1574 01</name>
+		<id>Kepler-87 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.019836</mass>
+			<radius>1.229348</radius>
+			<orbit>
+				<period>114.7309</period>
+				<semimajoraxis>0.471</semimajoraxis>
+				<eccentricity>0.036</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.05</mass>
+			<radius>1.82</radius>
+			<metallicity>-0.17</metallicity>
+			<distance>781.83</distance>
+			<temperature>5600</temperature>
+			<rightascension>19 51 40</rightascension>
+			<declination>+46 57 54</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/10</lastupdate>
+		<description>The Kepler-87 system consists of at least two planets which have been confirmed using transit timing variations (TTV). There might be two more planets in the system which have not been confirmed yet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-87 c</id_exoplaneteu>
+		<name>Kepler-87 c</name>
+		<name>KOI-1574 c</name>
+		<name>KOI-1574 02</name>
+		<id>Kepler-87 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.020132</mass>
+			<radius>0.559540</radius>
+			<orbit>
+				<period>192.363</period>
+				<semimajoraxis>0.664</semimajoraxis>
+				<eccentricity>0.039</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.05</mass>
+			<radius>1.82</radius>
+			<metallicity>-0.17</metallicity>
+			<distance>781.83</distance>
+			<temperature>5600</temperature>
+			<rightascension>19 51 40</rightascension>
+			<declination>+46 57 54</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/10</lastupdate>
+		<description>The Kepler-87 system consists of at least two planets. The planets have been confirmed using transit timing variations (TTV). Kepler-87 c is the lowest density planet in the super-Earth range.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-9 b</id_exoplaneteu>
 		<name>Kepler-9 b</name>
 		<name>2MASS J19021775+3824032 b</name>
@@ -38352,7 +38487,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/03</lastupdate>
 		<description>PSO J318-22 is a free floating planetary mass object. It was discovered using the Pan-STARRS1 survey and is part of the beta Pictoris moving group. Evolutionary models give the object a temperature of 1160K and a mass about 6 times that of Jupiter, making PSO J318-22 one of the lowest mass free-floating objects in the solar neighborhood.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
