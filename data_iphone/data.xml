@@ -1,4 +1,4 @@
-<planets date="2013-10-10" name="data" planets="986">
+<planets date="2013-10-10" name="data" planets="987">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -24889,6 +24889,29 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/11/19</lastupdate>
 		<description>The planet MOA-2010-BLG-073L b was discovered by the Microlensing Observations in Astrophysics (MOA) survey. In a microlensing event like this, the light from a source star is bent and magnified by a foreground star and a planet. In this case the source star was previously known to be photometrically variable.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-2010-BLG-328L b</id_exoplaneteu>
+		<name>MOA-2010-BLG-328L b</name>
+		<id>MOA-2010-BLG-328L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.028940</mass>
+			<orbit>
+				<semimajoraxis>0.92</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.11</mass>
+			<distance>810</distance>
+			<rightascension>17 57 59</rightascension>
+			<declination>-30 43 55</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/30</lastupdate>
+		<description>MOA-2010-BLG-328 is a planetary microlensing event. Multiple fits (including one with source orbital motion, xallarap) can explain the system. The mass of the companion might therefore change. However, all fits clearly show the presence of a planery mass object: MOA-2010-BLG-328L b.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
