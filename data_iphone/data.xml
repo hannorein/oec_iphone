@@ -620,7 +620,7 @@
 		<id_exoplaneteu>55 Cnc b</id_exoplaneteu>
 		<name>55 Cnc b</name>
 		<id>55 Cnc b</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.824</mass>
 			<orbit>
@@ -651,7 +651,7 @@
 		<id_exoplaneteu>55 Cnc c</id_exoplaneteu>
 		<name>55 Cnc c</name>
 		<id>55 Cnc c</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.169</mass>
 			<orbit>
@@ -682,7 +682,7 @@
 		<id_exoplaneteu>55 Cnc d</id_exoplaneteu>
 		<name>55 Cnc d</name>
 		<id>55 Cnc d</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>3.835</mass>
 			<orbit>
@@ -745,7 +745,7 @@
 		<id_exoplaneteu>55 Cnc f</id_exoplaneteu>
 		<name>55 Cnc f</name>
 		<id>55 Cnc f</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.144</mass>
 			<orbit>
@@ -22368,7 +22368,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<description>The Kepler-87 system consists of at least two planets. The planets have been confirmed using transit timing variations (TTV). Kepler-87 c is the lowest density planet in the super-Earth range.</description>
 		<new>1</new>
 		<image>Kepler87</image>
-		<imagedescription>Arist's impression of Kepler-87 c.
+		<imagedescription>Artist's impression of Kepler-87 c.
 			
 Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
@@ -24950,21 +24950,24 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>MOA-2011-BLG-293L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>2.4</mass>
+			<mass>4.8</mass>
 			<orbit>
-				<semimajoraxis>1</semimajoraxis>
+				<semimajoraxis>1.1</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.44</mass>
-			<distance>7150</distance>
-			<temperature>112.1</temperature>
+			<spectraltype>G</spectraltype>
+			<mass>0.86</mass>
+			<radius>0.82</radius>
+			<distance>7700</distance>
+			<temperature>5180.0</temperature>
 			<rightascension>17 55 39</rightascension>
 			<declination>-28 28 37</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/01/23</lastupdate>
+		<lastupdate>13/10/15</lastupdate>
+		<description>MOA-2011-BLG-293L b is a planet discovered by gravitational microlensing. Using follow-up observations on Keck, astronomer have identified the planet to lie in or near the habitable zone. It could in principle have habitable moons. It is also the first planet to be identified as being in the Galactic bulge with goof confidence.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
