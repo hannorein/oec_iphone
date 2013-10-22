@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-84 b</id_exoplaneteu>
+	<name>WASP-84 b</name>
+	<id>WASP-84 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.694</mass>
+		<radius>0.942</radius>
+		<orbit>
+			<period>8.5234865</period>
+			<semimajoraxis>0.0771</semimajoraxis>
+			<eccentricity />
+			<inclination>88.368</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0</spectraltype>
+		<mass>0.842</mass>
+		<radius>0.748</radius>
+		<metallicity>0.0</metallicity>
+		<distance>125</distance>
+		<temperature>5314</temperature>
+		<rightascension>08 44 26</rightascension>
+		<declination>+01 51 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/10/22</lastupdate>
+	<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. From the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

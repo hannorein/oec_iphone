@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-82 b</id_exoplaneteu>
+	<name>WASP-82 b</name>
+	<name>1SWASP J045038.56+015338.1 b</name>
+	<name>2MASS 04503856+0153381 b</name>
+	<id>WASP-82 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.24</mass>
+		<radius>1.67</radius>
+		<orbit>
+			<period>2.705782</period>
+			<semimajoraxis>0.0447</semimajoraxis>
+			<eccentricity />
+			<inclination>87.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F5</spectraltype>
+		<mass>1.63</mass>
+		<radius>2.18</radius>
+		<metallicity>0.12</metallicity>
+		<distance>200</distance>
+		<temperature>6490</temperature>
+		<rightascension>04 50 39</rightascension>
+		<declination>+01 53 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/10/22</lastupdate>
+	<description>This hot Jupiter has been discovered by the WASP tranit survey and confirmed by radial velocity measurements. It is one of the most irradiayed planets known. The host star is evolved and has a post main sequence radius.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
