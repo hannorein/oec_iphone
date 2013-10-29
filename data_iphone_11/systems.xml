@@ -2741,8 +2741,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>+04 57 50</declination>
 		<distance>13</distance>
 		<star>
-			<mass>0.153</mass>
-			<radius>0.21</radius>
+			<mass errorminus="0.011" errorplus="0.011">0.150</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.216</radius>
 			<magV>14.71</magV>
 			<magB>16.40</magB>
 			<magR>13.8</magR>
@@ -2758,12 +2758,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>Gj 1214 b</name>
 				<name>Gl 1214 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.02</mass>
-				<radius>0.245</radius>
-				<period>1.58040482</period>
-				<semimajoraxis>0.014</semimajoraxis>
-				<eccentricity>0.27</eccentricity>
-				<inclination>88.8</inclination>
+				<mass errorminus="0.0027" errorplus="0.0027">0.0197</mass>
+				<radius errorminus="0.018" errorplus="0.018">0.254</radius>
+				<period errorminus="0.000015" errorplus="0.000015">1.580405</period>
+				<semimajoraxis errorminus="0.00032" errorplus="0.00032">0.01411</semimajoraxis>
+				<eccentricity upperlimit="0.27" />
+				<inclination errorminus="0.54" errorplus="0.54">88.17</inclination>
 				<description>Gliese 1214 is a red dwarf in the constellation Ophiuchus only 40 light years away. The planet was found with a 40cm telescope and commercially available cameras. New observations from NASA's Hubble Space Telescope show that it is a waterworld enshrouded by a thick, steamy atmosphere. GJ1214b represents a new type of planet, like nothing seen in our solar system or any other planetary system currently known.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/05</lastupdate>
@@ -16935,17 +16935,17 @@ Credit: ESO/L. Calcada</imagedescription>
 			<name>TYC 9212-4675-1</name>
 			<mass>1.6</mass>
 			<spectraltype>A8III</spectraltype>
-			<age errorminus="0.0035" errorplus="0.0035">0.0135</age>
+			<age errorminus="0.004" errorplus="0.0035">0.017</age>
 			<planet>
 				<name>HD 95086 b</name>
 				<name>HIP 53524 b</name>
 				<name>2MASS J10570301-6840023 b</name>
 				<name>TYC 9212-4675-1 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="1.5" errorplus="1.5">4.5</mass>
+				<mass errorminus="2" errorplus="2">5</mass>
 				<temperature errorminus="200" errorplus="200">1000</temperature>
 				<semimajoraxis errorminus="0.7" errorplus="0.7">56.4</semimajoraxis>
-				<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 4-5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 10-17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
+				<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
 				<image>HD95086</image>
 				<imagedescription>This image from ESO's Very Large Telescope (VLT) shows the newly discovered planet HD95086 b, next to its parent star. The observations were made using NACO, the adaptative optics instrument for the VLT in infrared light, and using a technique called differential imaging, which improves the contrast between the planet and its dazzling host star. The star itself has been removed from the picture during processing to enhance the view of the faint exoplanet and its position is marked. The exoplanet appears at the lower left.
 			
@@ -16955,7 +16955,7 @@ The star HD 95086 has similar properties to Beta Pictoris and HR 8799 around whi
 			
 Credit: ESO/J. Rameau</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
-				<lastupdate>13/06/03</lastupdate>
+				<lastupdate>13/10/28</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 			</planet>
 		</star>
