@@ -1,4 +1,4 @@
-<planets date="2013-10-30" name="data" planets="1006">
+<planets date="2013-10-31" name="data" planets="1006">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -22563,26 +22563,31 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>KIC 8435766 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.10297723</radius>
+			<mass>0.005285</mass>
+			<radius>0.109356</radius>
 			<orbit>
-				<period>0.35500745</period>
+				<period>0.35500744</period>
 				<inclination>81</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.84</mass>
-			<radius>0.73</radius>
+			<mass>0.83</mass>
+			<radius>0.74</radius>
 			<metallicity>-0.08</metallicity>
-			<temperature>5143</temperature>
+			<temperature>5121</temperature>
 			<rightascension>19 34 58</rightascension>
 			<declination>+44 26 54</declination>
 			<magV>11.72</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/05/20</lastupdate>
-		<description>The Earth-sized planet KIC 8435766 b was identified in the Kepler database and confirmed to be a transiting planet (as opposed to an eclipsing binary) through the absence of ellipsoidal or radial velocity variations. The planet has a dayside temperature of 2300K-3100K.</description>
+		<lastupdate>13/10/31</lastupdate>
+		<description>The Earth-sized planet KIC 8435766 b, also known as Kepler-78 b, was identified in the Kepler database and confirmed to be a transiting planet (as opposed to an eclipsing binary) through the absence of ellipsoidal or radial velocity variations. The planet has a dayside temperature of 2300K-3100K. The planet's density is similar to that of Earth, suggesting a composition of rock and iron.</description>
+		<image>Kepler78</image>
+		<imagedescription>Artist's impression of the Earth-sized planer Kepler-78 b. 
+			
+Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
