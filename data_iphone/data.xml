@@ -1,4 +1,4 @@
-<planets date="2013-10-31" name="data" planets="1006">
+<planets date="2013-11-11" name="data" planets="1006">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -23864,17 +23864,18 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-351 b</id_exoplaneteu>
 		<name>KOI-351 b</name>
-		<name>KOI-351.01</name>
+		<name>KOI-351.06</name>
+		<name>Kepler-90 b</name>
 		<name>KIC 11442793 b</name>
 		<name>2MASS 18574403+4918185 b</name>
 		<id>KOI-351 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>1.029772</radius>
+			<radius>0.119381</radius>
 			<orbit>
-				<period>331.60059</period>
-				<semimajoraxis>1.01</semimajoraxis>
-				<inclination>89.6</inclination>
+				<period>7.008151</period>
+				<semimajoraxis>0.074</semimajoraxis>
+				<inclination>89.4</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23895,17 +23896,18 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-351 c</id_exoplaneteu>
 		<name>KOI-351 c</name>
-		<name>KOI-351.02</name>
+		<name>KOI-351.05</name>
+		<name>Kepler-90 c</name>
 		<name>KIC 11442793 c</name>
 		<name>2MASS 18574403+4918185 c</name>
 		<id>KOI-351 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.738155</radius>
+			<radius>0.108445</radius>
 			<orbit>
-				<period>210.60697</period>
-				<semimajoraxis>0.71</semimajoraxis>
-				<inclination>89.8</inclination>
+				<period>8.719375</period>
+				<semimajoraxis>0.089</semimajoraxis>
+				<inclination>89.68</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23927,6 +23929,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-351 d</id_exoplaneteu>
 		<name>KOI-351 d</name>
 		<name>KOI-351.03</name>
+		<name>Kepler-90 d</name>
 		<name>KIC 11442793 d</name>
 		<name>2MASS 18574403+4918185 d</name>
 		<id>KOI-351 d</id>
@@ -23958,6 +23961,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-351 e</id_exoplaneteu>
 		<name>KOI-351 e</name>
 		<name>KOI-351.04</name>
+		<name>Kepler-90 e</name>
 		<name>KIC 11442793 e</name>
 		<name>2MASS 18574403+4918185 e</name>
 		<id>KOI-351 e</id>
@@ -23989,6 +23993,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-351 f</id_exoplaneteu>
 		<name>KOI-351 f</name>
 		<name>KOI-351.07</name>
+		<name>Kepler-90 f</name>
 		<name>KIC 11442793 f</name>
 		<name>2MASS 18574403+4918185 f</name>
 		<id>KOI-351 f</id>
@@ -24019,17 +24024,18 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-351 g</id_exoplaneteu>
 		<name>KOI-351 g</name>
-		<name>KOI-351.05</name>
+		<name>KOI-351.02</name>
+		<name>Kepler-90 g</name>
 		<name>KIC 11442793 g</name>
 		<name>2MASS 18574403+4918185 g</name>
 		<id>KOI-351 g</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.108445</radius>
+			<radius>0.738155</radius>
 			<orbit>
-				<period>8.719375</period>
-				<semimajoraxis>0.089</semimajoraxis>
-				<inclination>89.68</inclination>
+				<period>210.60697</period>
+				<semimajoraxis>0.71</semimajoraxis>
+				<inclination>89.8</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -24050,17 +24056,18 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-351 h</id_exoplaneteu>
 		<name>KOI-351 h</name>
-		<name>KOI-351.06</name>
+		<name>KOI-351.01</name>
+		<name>Kepler-90 h</name>
 		<name>KIC 11442793 h</name>
 		<name>2MASS 18574403+4918185 h</name>
 		<id>KOI-351 h</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.119381</radius>
+			<radius>1.029772</radius>
 			<orbit>
-				<period>7.008151</period>
-				<semimajoraxis>0.074</semimajoraxis>
-				<inclination>89.4</inclination>
+				<period>331.60059</period>
+				<semimajoraxis>1.01</semimajoraxis>
+				<inclination>89.6</inclination>
 			</orbit>
 		</properties>
 		<star>
