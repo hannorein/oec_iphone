@@ -1,4 +1,4 @@
-<planets date="2013-11-11" name="data" planets="1006">
+<planets date="2013-11-15" name="data" planets="1007">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -3165,10 +3165,10 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass>0.04372523</mass>
 			<radius>0.440159</radius>
 			<orbit>
-				<period>3.33671</period>
+				<period>3.336649</period>
 				<semimajoraxis>0.03557</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>88.3</inclination>
+				<inclination>88.12</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -13700,7 +13700,6 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/29</lastupdate>
 		<description>HD 285507b is a Hot Jupiter that joins the small but growing list of planets in open clusters. HD 285507b orbits a star in the Hyades cluster.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -25052,6 +25051,30 @@ Credit: Joe Gallagher.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>09/08/10</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-2008-BLG-379L b</id_exoplaneteu>
+		<name>MOA-2008-BLG-379L b</name>
+		<id>MOA-2008-BLG-379L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>4.8</mass>
+			<orbit>
+				<semimajoraxis>4.1</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.66</mass>
+			<distance>3.6</distance>
+			<rightascension>17 58 49</rightascension>
+			<declination>-30 11 49</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/11/15</lastupdate>
+		<description>MOA-2008-BLG-379Lb is a planetary mass object discovered by gravitational microlensing. Because a faint source star crossed a large resonant caustic, the planetary signal dominates the light curve. A statistical model has been used to determine the physical system parameters.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
