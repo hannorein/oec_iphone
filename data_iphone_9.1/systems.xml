@@ -1,4 +1,4 @@
-<systems name="systems" planets="1006">
+<systems name="systems" planets="1007">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3142,13 +3142,13 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>LP 424-4</name>
 				<name>2MASS J07590587+1523294</name>
 				<list>Confirmed planets</list>
-				<inclination>88.3</inclination>
+				<inclination errorminus="0.30" errorplus="0.34">88.12</inclination>
 				<mass>0.04372523</mass>
 				<radius>0.440159</radius>
-				<period>3.33671</period>
+				<period errorminus="0.000002" errorplus="0.000002">3.336649</period>
 				<semimajoraxis>0.03557</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2456090.47705</transittime>
+				<transittime errorminus="+0.00011" errorplus="0.00009" unit="BJD">2456340.72559</transittime>
 				<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/01/28</lastupdate>
@@ -13316,7 +13316,6 @@ Credit: ESO/L. Calcada</imagedescription>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>13/10/29</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -23236,6 +23235,27 @@ Credit: Joe Gallagher.</imagedescription>
 			</planet>
 			<name>MOA-2008-BLG-310-L</name>
 			<temperature>5700.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>MOA-2008-BLG-379L</name>
+		<rightascension>17 58 49</rightascension>
+		<declination>-30 11 49</declination>
+		<distance errorminus="1.3" errorplus="1.3">3.6</distance>
+		<star>
+			<name>MOA-2008-BLG-379L</name>
+			<mass errorminus="0.33" errorplus="0.29">0.66</mass>
+			<planet>
+				<name>MOA-2008-BLG-379L b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="2.4" errorplus="2.1">4.8</mass>
+				<semimajoraxis errorminus="1.5" errorplus="1.9">4.1</semimajoraxis>
+				<description>MOA-2008-BLG-379Lb is a planetary mass object discovered by gravitational microlensing. Because a faint source star crossed a large resonant caustic, the planetary signal dominates the light curve. A statistical model has been used to determine the physical system parameters.</description>
+				<discoverymethod>microlensing</discoverymethod>
+				<lastupdate>13/11/15</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
