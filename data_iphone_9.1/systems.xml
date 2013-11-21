@@ -3093,6 +3093,13 @@ Credit: Joe Gallagher.</imagedescription>
 		<declination>+01 32 56</declination>
 		<distance errorminus="0.8" errorplus="0.8">19.8</distance>
 		<star>
+			<magB errorminus="0.09" errorplus="0.09">11.30</magB>
+			<magV errorminus="0.04" errorplus="0.04">9.98</magV>
+			<magR>9.072</magR>
+			<magI>8.204</magI>
+			<magJ errorminus="0.027" errorplus="0.027">7.191</magJ>
+			<magH errorminus="0.018" errorplus="0.018">6.523</magH>
+			<magK errorminus="0.026" errorplus="0.026">6.352</magK>
 			<name>Gliese 328</name>
 			<name>GJ 328 b</name>
 			<mass errorminus="0.05" errorplus="0.05">0.69</mass>
@@ -3298,6 +3305,13 @@ Credit: Joe Gallagher.</imagedescription>
 		<declination>+09 25 27</declination>
 		<distance errorminus="0.08" errorplus="0.08">17.56</distance>
 		<star>
+			<magB>5.81</magB>
+			<magV>5.22</magV>
+			<magR>4.8</magR>
+			<magI>4.5</magI>
+			<magJ errorminus="0.284" errorplus="0.284">4.392</magJ>
+			<magH errorminus="0.208" errorplus="0.208">4.107</magH>
+			<magK errorminus="0.238" errorplus="0.238">4.033</magK>
 			<name>Gliese 504</name>
 			<name>GJ 504</name>
 			<name>HIP 64792</name>
@@ -4028,6 +4042,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<mass errorminus="0.03" errorplus="0.03">0.32</mass>
 			<radius>0.3</radius>
 			<magV>10.17</magV>
+			<magR errorminus="0.0017" errorplus="0.0017">9.013</magR>
+			<magI errorminus="0.0017" errorplus="0.0017">7.462</magI>
 			<magB errorminus="0.0017" errorplus="0.0017">10.192</magB>
 			<magJ errorminus="0.019" errorplus="0.019">5.934</magJ>
 			<magH errorminus="0.049" errorplus="0.049">5.349</magH>
@@ -5028,18 +5044,19 @@ Credit: Jonah Gallagher.</imagedescription>
 		<name>HAT-P-30</name>
 		<rightascension>08 15 48</rightascension>
 		<declination>+05 50 12</declination>
-		<distance>192</distance>
+		<distance errorminus="8" errorplus="8">193</distance>
 		<star>
-			<mass>1.24</mass>
-			<radius>0.898</radius>
-			<temperature>6304</temperature>
+			<mass errorminus="0.041" errorplus="0.041">1.242</mass>
+			<radius errorminus="0.051" errorplus="0.051">1.215</radius>
+			<temperature errorminus="88" errorplus="88">6304</temperature>
 			<magV errorminus="0.05" errorplus="0.05">10.35</magV>
 			<magB errorminus="0.06" errorplus="0.06">10.95</magB>
 			<magJ errorminus="0.026" errorplus="0.026">9.442</magJ>
 			<magH errorminus="0.028" errorplus="0.028">9.220</magH>
 			<magK errorminus="0.023" errorplus="0.023">9.151</magK>
-			<metallicity>0.13</metallicity>
+			<metallicity errorminus="0.08" errorplus="0.08">0.13</metallicity>
 			<spectraltype>F</spectraltype>
+			<age errorminus="0.5" errorplus="0.8">1.0</age>
 			<planet>
 				<name>HAT-P-30 b</name>
 				<name>WASP-51 b</name>
@@ -5047,12 +5064,12 @@ Credit: Jonah Gallagher.</imagedescription>
 				<name>GSC 0208-00722 b</name>
 				<name>2MASS J08154797+0550121</name>
 				<list>Confirmed planets</list>
-				<mass>0.711</mass>
-				<radius>1.34</radius>
-				<period>2.810595</period>
-				<semimajoraxis>0.0419</semimajoraxis>
-				<eccentricity>0.035</eccentricity>
-				<inclination>83.6</inclination>
+				<mass errorminus="0.028" errorplus="0.028">0.711</mass>
+				<radius errorminus="0.065" errorplus="0.065">1.340</radius>
+				<period errorminus="0.000005" errorplus="0.000005">2.810595</period>
+				<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0419</semimajoraxis>
+				<eccentricity errorminus="0.002 " errorplus="0.002 ">0.035</eccentricity>
+				<inclination errorminus="0.4" errorplus="0.4">83.6</inclination>
 				<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection of the planet's orbit normal and the star's spin axis is 73.5 degrees.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/11/24</lastupdate>
@@ -5596,6 +5613,11 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius errorminus="0.055" errorplus="0.110">0.979</radius>
 			<temperature errorminus="100" errorplus="100">5295</temperature>
 			<magV errorminus="0.23" errorplus="0.23">5.34</magV>
+			<magB>13.2</magB>
+			<magR>12.83</magR>
+			<magJ errorminus="0.021" errorplus="0.021">11.729</magJ>
+			<magH errorminus="0.019" errorplus="0.019">11.360</magH>
+			<magK errorminus="0.018" errorplus="0.018">11.275</magK>
 			<metallicity errorminus="0.10" errorplus="0.10">0.33</metallicity>
 			<age errorminus="3.9" errorplus="3.9">8.9</age>
 			<planet>
@@ -5681,6 +5703,11 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius errorminus="0.136" errorplus="0.293">1.396</radius>
 			<temperature errorminus="100" errorplus="100">6120</temperature>
 			<magV errorminus="0.34" errorplus="0.34">3.79</magV>
+			<magB>12.9</magB>
+			<magR>11.62</magR>
+			<magJ errorminus="0.024" errorplus="0.024">10.330</magJ>
+			<magH errorminus="0.022" errorplus="0.022">9.972</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.924</magK>
 			<age errorminus="1" errorplus="0.7">2.5</age>
 			<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
 			<planet>
@@ -6010,6 +6037,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature errorminus="76" errorplus="76">6351</temperature>
 			<metallicity errorminus="0.07" errorplus="0.07">-0.157</metallicity>
 			<magV errorminus="0.2" errorplus="0.2">12.44</magV>
+			<magK errorminus="0.021" errorplus="0.021">10.694</magK>
 			<magB errorminus="0.18" errorplus="0.18">12.46</magB>
 			<magJ errorminus="0.021" errorplus="0.021">10.980</magJ>
 			<magH errorminus="0.024" errorplus="0.024">10.719</magH>
@@ -7103,6 +7131,12 @@ Credit: ESO/L. Calcada</imagedescription>
 			<mass errorminus="0.14" errorplus="0.14">1.4</mass>
 			<radius errorminus="0.15" errorplus="0.15">1.5</radius>
 			<magV>6</magV>
+			<magB>6.397</magB>
+			<magR>5.8</magR>
+			<magI>5.6</magI>
+			<magJ errorminus="0.019" errorplus="0.019">5.187</magJ>
+			<magH errorminus="0.018" errorplus="0.018">5.053</magH>
+			<magK errorminus="0.017" errorplus="0.017">5.005</magK>
 			<metallicity>0.07</metallicity>
 			<spectraltype>F6V</spectraltype>
 			<age errorminus="0.050" errorplus="0.100">0.150</age>
@@ -10901,6 +10935,9 @@ Credit: ESO/L. Calcada</imagedescription>
 				<mass>0.8</mass>
 				<radius>0.788</radius>
 				<magV errorminus="0.05" errorplus="0.05">7.68</magV>
+				<magB>8.578</magB>
+				<magR>7.126</magR>
+				<magI>6.68</magI>
 				<magJ errorminus="0.027" errorplus="0.027">6.073</magJ>
 				<magH errorminus="0.027" errorplus="0.027">5.587</magH>
 				<magK errorminus="0.02" errorplus="0.02">5.54</magK>
@@ -13292,6 +13329,11 @@ Credit: ESO/L. Calcada</imagedescription>
 		<declination>+15 20 06</declination>
 		<distance>41.339</distance>
 		<star>
+			<magB>11.8</magB>
+			<magV>10.5</magV>
+			<magJ errorminus="0.026" errorplus="0.026">8.365</magJ>
+			<magH errorminus="0.049" errorplus="0.049">7.811</magH>
+			<magK errorminus="0.026" errorplus="0.026">7.665</magK>
 			<name>HD 285507</name>
 			<name>HIP 19207</name>
 			<name>2MASS J04070122+1520062</name>
@@ -16962,6 +17004,11 @@ Credit: ESO/L. Calcada</imagedescription>
 		<declination>-68 40 02</declination>
 		<distance>90.27</distance>
 		<star>
+			<magB errorminus="0.01" errorplus="0.01">7.60</magB>
+			<magV errorminus="0.01" errorplus="0.01">7.36</magV>
+			<magJ errorminus="0.019" errorplus="0.019">6.906</magJ>
+			<magH errorminus="0.047" errorplus="0.047">6.867</magH>
+			<magK errorminus="0.021" errorplus="0.021">6.789</magK>
 			<name>HD 95086</name>
 			<name>HIP 53524</name>
 			<name>2MASS J10570301-6840023</name>
@@ -18184,6 +18231,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius errorminus="0.09" errorplus="0.16">1.58</radius>
 			<temperature errorminus="43" errorplus="43">6102</temperature>
 			<magV errorminus="0.054" errorplus="0.054">10.337</magV>
+			<magB>10.81</magB>
+			<magJ>9.30</magJ>
+			<magK>9.08</magK>
 			<metallicity errorminus="0.04" errorplus="0.04">-0.28</metallicity>
 			<spectraltype>F8</spectraltype>
 			<age errorminus="0.2" errorplus="0.2">6.1</age>
@@ -20595,6 +20645,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<declination>+42 28 31</declination>
 		<distance>326.20</distance>
 		<star>
+			<magV errorminus="0.27" errorplus="0.27">15.17</magV>
+			<magR errorminus="0.06" errorplus="0.06">15.06</magR>
+			<magI errorminus="0.18" errorplus="0.18">13.95</magI>
 			<name>Kepler-61</name>
 			<name>KOI 1361</name>
 			<name>KIC 6960913</name>
@@ -20748,6 +20801,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<declination>+49 32 54</declination>
 		<distance errorminus="15" errorplus="15">200</distance>
 		<star>
+			<magB errorminus="0.18" errorplus="0.18">12.36</magB>
+			<magV errorminus="0.18" errorplus="0.18">12.02</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.399</magJ>
+			<magH errorminus="0.027" errorplus="0.027">10.096</magH>
+			<magK errorminus="0.022" errorplus="0.022">9.997</magK>
 			<name>Kepler-63</name>
 			<name>KIC 11554435</name>
 			<name>KOI 63</name>
@@ -20856,6 +20914,10 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<radius errorminus="0.042" errorplus="0.042">0.966</radius>
 			<temperature errorminus="79" errorplus="79">5962</temperature>
 			<magV>15.3</magV>
+			<magR errorminus="0.10" errorplus="0.10">15.29</magR>
+			<magJ errorminus="0.026" errorplus="0.026">14.021</magJ>
+			<magH errorminus="0.029" errorplus="0.029">13.689</magH>
+			<magK errorminus="0.04" errorplus="0.04">13.62</magK>
 			<metallicity errorminus="0.003" errorplus="0.003">0.012</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<age errorminus="0.17" errorplus="0.17">1</age>
@@ -20884,6 +20946,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<radius errorminus="0.031" errorplus="0.031">0.778</radius>
 			<temperature errorminus="63" errorplus="63">5331</temperature>
 			<magV>16.4</magV>
+			<magJ errorminus="0.03" errorplus="0.03">14.74</magJ>
+			<magH errorminus="0.05" errorplus="0.05">14.34</magH>
+			<magK errorminus="0.065" errorplus="0.065">14.155</magK>
 			<metallicity errorminus="0.003" errorplus="0.003">0.012</metallicity>
 			<spectraltype>G9V</spectraltype>
 			<age errorminus="0.17" errorplus="0.17">1</age>
@@ -21319,14 +21384,14 @@ Credit: Joe Gallagher.</imagedescription>
 	</system>
 	<system>
 		<name>KIC 8435766</name>
-		<name>Kepler-78</name>
+		<name type="pri">Kepler-78</name>
 		<name>2MASS 19345800+4426539</name>
 		<name>TYC 3147-188-1</name>
 		<rightascension>19 34 58</rightascension>
 		<declination>+44 26 54</declination>
 		<star>
 			<name>KIC 8435766</name>
-			<name>Kepler-78</name>
+			<name type="pri">Kepler-78</name>
 			<name>2MASS 19345800+4426539</name>
 			<name>TYC 3147-188-1</name>
 			<mass errorminus="0.05" errorplus="0.05">0.83</mass>
@@ -21342,7 +21407,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<age errorminus="0.15" errorplus="0.15">0.625</age>
 			<planet>
 				<name>KIC 8435766 b</name>
-				<name>Kepler-78 b</name>
+				<name type="pri">Kepler-78 b</name>
 				<name>2MASS 19345800+4426539 b</name>
 				<name>TYC 3147-188-1 b</name>
 				<list>Confirmed planets</list>
@@ -21459,6 +21524,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<declination>42 11 41</declination>
 		<distance>1062.62</distance>
 		<star>
+			<magJ errorminus="0.021" errorplus="0.021">12.724</magJ>
+			<magH errorminus="0.020" errorplus="0.020">12.509</magH>
+			<magK errorminus="0.019" errorplus="0.019">12.509</magK>
 			<name>KOI-1236</name>
 			<name>KIC 6677841</name>
 			<mass>1.31</mass>
@@ -21508,6 +21576,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<declination>44 20 44</declination>
 		<distance errorminus="70" errorplus="70">570</distance>
 		<star>
+			<magB errorminus="0.04" errorplus="0.04">15.03</magB>
+			<magV errorminus="0.03" errorplus="0.03">14.10</magV>
+			<magR errorminus="0.07" errorplus="0.07">13.91</magR>
 			<name>KOI-127</name>
 			<name>KIC 8359498</name>
 			<name>GSC2.3 N2K0000444</name>
@@ -21924,6 +21995,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius errorminus="0.14" errorplus="0.14">1.51</radius>
 			<mass errorminus="0.11" errorplus="0.14">1.40</mass>
 			<magV errorminus="0.17" errorplus="0.17">15</magV>
+			<magB>14.5</magB>
 			<magR errorminus="0.11" errorplus="0.11">14.60</magR>
 			<magI errorminus="0.24" errorplus="0.24">13.49</magI>
 			<magJ errorminus="0.024" errorplus="0.024">13.306</magJ>
@@ -22039,6 +22111,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<declination>45 17 25</declination>
 		<distance>822.39</distance>
 		<star>
+			<magJ errorminus="0.023" errorplus="0.023">13.552</magJ>
+			<magH errorminus="0.024" errorplus="0.024">13.192</magH>
+			<magK errorminus="0.023" errorplus="0.023">13.083</magK>
 			<name>KOI-2038</name>
 			<name>KIC 8950568</name>
 			<mass>0.95</mass>
@@ -22923,6 +22998,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius errorminus="0.04" errorplus="0.04">0.88</radius>
 			<mass errorminus="0.08" errorplus="0.08">0.88</mass>
 			<magV>15</magV>
+			<magB>16.2</magB>
+			<magR>14.9</magR>
 			<magJ errorminus="0.021" errorplus="0.021">13.665</magJ>
 			<magH errorminus="0.025" errorplus="0.025">13.262</magH>
 			<magK errorminus="0.029" errorplus="0.029">13.118</magK>
@@ -24483,6 +24560,9 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		<declination>-66 34 52</declination>
 		<distance errorminus="600" errorplus="600">1200</distance>
 		<star>
+			<magJ errorminus="0.06" errorplus="0.06">15.17</magJ>
+			<magH errorminus="0.04" errorplus="0.04">14.38</magH>
+			<magK errorminus="0.08" errorplus="0.08">14.24</magK>
 			<name>POTS-1</name>
 			<name>2MASS 13342613-6634520</name>
 			<mass errorminus="0.05" errorplus="0.05">0.695</mass>
@@ -25818,6 +25898,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature errorminus="120" errorplus="120">6900</temperature>
 			<metallicity errorminus="0.1" errorplus="0.1">-0.03</metallicity>
 			<spectraltype>F2</spectraltype>
+			<magV>10.8</magV>
 			<planet>
 				<name>WASP-100 b</name>
 				<name>1SWASP J043550.32-640137.3 b</name>
@@ -25852,6 +25933,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.12" errorplus="0.12">0.2</metallicity>
 			<age>0.9</age>
 			<spectraltype>F6</spectraltype>
+			<magV>10.3</magV>
 			<planet>
 				<name>WASP-101 b</name>
 				<name>1SWASP J063324.26-232910.2 b</name>
@@ -26781,23 +26863,28 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magJ errorminus="0.030" errorplus="0.030">9.887</magJ>
 			<magH errorminus="0.023" errorplus="0.023">9.598</magH>
 			<magK errorminus="0.021" errorplus="0.021">9.525</magK>
+			<spectraltype>G0</spectraltype>
+			<metallicity errorminus="0.09" errorplus="0.09">-0.15</metallicity>
+			<mass errorminus="0.03" errorplus="0.03">1.07</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.09</radius>
 			<planet>
 				<name>WASP-35 b</name>
 				<name>2MASS J05041962-0613473 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.72</mass>
-				<radius>1.32</radius>
-				<period>3.161575</period>
-				<semimajoraxis>0.04317</semimajoraxis>
+				<mass errorminus="0.06" errorplus="0.06">0.72</mass>
+				<radius errorminus="0.05" errorplus="0.05">1.32</radius>
+				<period errorminus="0.000002" errorplus="0.000002">3.161575</period>
+				<semimajoraxis errorminus="0.00033" errorplus="0.00033">0.04317</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>87.96</inclination>
+				<inclination errorminus="0.49" errorplus="0.62">87.96</inclination>
 				<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD">2455531.47984</transittime>
+				<temperature errorminus="30" errorplus="30">1450</temperature>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/04/15</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
 			<name>WASP-35</name>
-			<temperature>5700.0</temperature>
+			<temperature errorminus="90" errorplus="90">5990</temperature>
 		</star>
 	</system>
 	<system>
@@ -27032,26 +27119,32 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>-42 04 25</declination>
 		<distance errorminus="40" errorplus="40">160</distance>
 		<star>
+			<mass errorminus="0.080" errorplus="0.086">0.884</mass>
+			<radius errorminus="0.034" errorplus="0.041">0.863</radius>
+			<magV>12.57</magV>
 			<magJ errorminus="0.025" errorplus="0.025">10.542</magJ>
 			<magH errorminus="0.022" errorplus="0.022">10.103</magH>
 			<magK errorminus="0.022" errorplus="0.022">10.033</magK>
+			<spectraltype>K1</spectraltype>
+			<metallicity errorminus="0.13" errorplus="0.13">0.05</metallicity>
 			<planet>
 				<name>WASP-42 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.5</mass>
-				<radius>1.08</radius>
-				<period>4.9816872</period>
-				<semimajoraxis>0.0458</semimajoraxis>
-				<eccentricity>0.06</eccentricity>
-				<inclination>88.25</inclination>
+				<mass errorminus="0.035" errorplus="0.035">0.500</mass>
+				<radius errorminus="0.057" errorplus="0.057">1.080</radius>
+				<period errorminus="0.0000073" errorplus="0.0000073">4.9816872</period>
+				<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.0548</semimajoraxis>
+				<eccentricity errorminus="0.013" errorplus="0.013">0.060</eccentricity>
+				<inclination errorminus="0.23" errorplus="0.27">88.25</inclination>
 				<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2455650.56801</transittime>
+				<temperature errorminus="34" errorplus="34">995</temperature>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/05/15</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
 			<name>WASP-42</name>
-			<temperature>5700.0</temperature>
+			<temperature errorminus="150" errorplus="150">5200</temperature>
 		</star>
 	</system>
 	<system>
@@ -27242,33 +27335,33 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<rightascension>19 24 39</rightascension>
 		<declination>+55 28 23</declination>
 		<star>
-			<mass>1.19</mass>
-			<radius>1.75</radius>
+			<mass errorminus="0.05" errorplus="0.05">1.19</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.75</radius>
 			<magV>11.06</magV>
 			<magB errorminus="0.18" errorplus="0.18">12.31</magB>
 			<magR errorminus="0.05" errorplus="0.05">11.61</magR>
 			<magJ errorminus="0.025" errorplus="0.025">10.627</magJ>
 			<magH errorminus="0.03" errorplus="0.03">10.44</magH>
 			<magK errorminus="0.022" errorplus="0.022">10.372</magK>
-			<metallicity>-0.12</metallicity>
+			<metallicity errorminus="0.12" errorplus="0.12">-0.12</metallicity>
 			<planet>
 				<name>WASP-48 b</name>
 				<name>2MASS J19243895+5528233 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.98</mass>
-				<radius>1.67</radius>
-				<period>2.143634</period>
-				<semimajoraxis>0.03444</semimajoraxis>
+				<mass errorminus="0.09" errorplus="0.09">0.98</mass>
+				<radius errorminus="0.10" errorplus="0.10">1.67</radius>
+				<period errorminus="0.000003" errorplus="0.000003">2.143634</period>
+				<semimajoraxis errorminus="0.00045" errorplus="0.00045">0.03444</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>80.09</inclination>
+				<inclination errorminus="0.79" errorplus="0.88">80.09</inclination>
 				<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455364.55119</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/04/15</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<temperature>1882.7</temperature>
+				<temperature errorminus="70" errorplus="70">2030</temperature>
 			</planet>
 			<name>WASP-48</name>
-			<temperature>5990.0</temperature>
+			<temperature errorminus="150" errorplus="150">5920</temperature>
 		</star>
 	</system>
 	<system>
@@ -27277,25 +27370,32 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>-16 57 55</declination>
 		<distance errorminus="20" errorplus="20">170</distance>
 		<star>
+			<mass errorminus="0.076" errorplus="0.080">0.938</mass>
+			<radius errorminus="0.034" errorplus="0.034">0.976</radius>
+			<magV>11.36</magV>
 			<magJ errorminus="0.024" errorplus="0.024">10.146</magJ>
 			<magH errorminus="0.027" errorplus="0.027">9.812</magH>
 			<magK errorminus="0.021" errorplus="0.021">9.749</magK>
+			<spectraltype>G6</spectraltype>
+			<metallicity errorminus="0.07" errorplus="0.07">-0.23</metallicity>
 			<planet>
 				<name>WASP-49 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.378</mass>
-				<radius>1.115</radius>
-				<period>2.7817387</period>
-				<semimajoraxis>0.0378</semimajoraxis>
-				<inclination>84.89</inclination>
+				<mass errorminus="0.027" errorplus="0.027">0.378</mass>
+				<radius errorminus="0.047" errorplus="0.047">1.115</radius>
+				<period errorminus="0.0000056 " errorplus="0.0000056 ">2.7817387</period>
+				<eccentricity>0</eccentricity>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0379</semimajoraxis>
+				<inclination errorminus="0.19" errorplus="0.19">84.89</inclination>
 				<transittime errorminus="0.00029" errorplus="0.00029" unit="BJD">2455580.59513</transittime>
+				<temperature errorminus="39" errorplus="39">1369</temperature>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/05/15</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
 			<name>WASP-49</name>
-			<temperature>5700.0</temperature>
+			<temperature errorminus="150" errorplus="150">5600</temperature>
 		</star>
 	</system>
 	<system>
@@ -27377,24 +27477,29 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>08 45 41</declination>
 		<distance errorminus="20" errorplus="20">140</distance>
 		<star>
+			<mass errorminus="0.03" errorplus="0.03">0.87</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.79</radius>
 			<spectraltype>K2V</spectraltype>
 			<magB>12.9</magB>
 			<magV>12.0</magV>
+			<metallicity errorminus="0.12" errorplus="0.12">0.03</metallicity>
 			<planet>
 				<name>WASP-52 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.5</mass>
-				<radius>1.3</radius>
-				<period>1.7</period>
+				<mass errorminus="0.02" errorplus="0.02">0.46</mass>
+				<radius errorminus="0.03" errorplus="0.03">1.27</radius>
+				<period errorminus="0.0000012" errorplus="0.0000012">1.7497798</period>
 				<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2455793.68218</transittime>
+				<inclination errorminus="0.20" errorplus="0.20">85.35</inclination>
+				<eccentricity>0</eccentricity>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/13</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<temperature>1188.1</temperature>
+				<temperature errorminus="35" errorplus="35">1315</temperature>
 			</planet>
 			<name>WASP-52</name>
-			<temperature>5000.0</temperature>
+			<temperature errorminus="100" errorplus="100">5000.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -27568,6 +27673,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>G2V</spectraltype>
 			<magB>12.33</magB>
 			<magV>11.66</magV>
+			<mass errorminus="0.10" errorplus="0.10">0.94</mass>
+			<radius errorminus="0.13" errorplus="0.13">1.17</radius>
+			<metallicity errorminus="0.09" errorplus="0.09">-0.45</metallicity>
 			<planet>
 				<name>WASP-58 b</name>
 				<list>Confirmed planets</list>
@@ -27582,7 +27690,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/09/13</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<temperature>1167.9</temperature>
+				<temperature errorminus="80" errorplus="80">1270</temperature>
 			</planet>
 			<name>WASP-58</name>
 			<temperature errorminus="150" errorplus="150">5800</temperature>
@@ -27600,6 +27708,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magK errorminus="0.016" errorplus="0.016">9.723</magK>
 			<mass errorminus="0.035" errorplus="0.035">0.719</mass>
 			<radius errorminus="0.044" errorplus="0.044">0.613</radius>
+			<metallicity errorminus="0.11" errorplus="0.11">-0.15</metallicity>
 			<planet>
 				<name>WASP-59 b</name>
 				<list>Confirmed planets</list>
@@ -27616,7 +27725,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoveryyear>2011</discoveryyear>
 			</planet>
 			<name>WASP-59</name>
-			<temperature errorminus="150" errorplus="150">4650.0</temperature>
+			<temperature errorminus="150" errorplus="150">4650</temperature>
 		</star>
 	</system>
 	<system>
@@ -27667,6 +27776,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magK errorminus="0.019" errorplus="0.019">10.585</magK>
 			<mass errorminus="0.034" errorplus="0.034">0.514</mass>
 			<radius errorminus="0.12" errorplus="0.12">0.86</radius>
+			<metallicity errorminus="0.09" errorplus="0.09">-0.04</metallicity>
 			<planet>
 				<name>WASP-60 b</name>
 				<list>Confirmed planets</list>
@@ -27836,10 +27946,16 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<star>
 			<name>WASP-65</name>
 			<name>1SWASP J085317.82+083122.8</name>
-			<temperature errorminus="100" errorplus="100">5600.0</temperature>
+			<magB errorminus="0.01" errorplus="0.01">12.57</magB>
+			<magV errorminus="0.04" errorplus="0.04">11.90</magV>
+			<magJ errorminus="0.02" errorplus="0.02">10.67</magJ>
+			<magH errorminus="0.03" errorplus="0.03">10.44</magH>
+			<magK errorminus="0.02" errorplus="0.02">10.35</magK>
+			<temperature errorminus="100" errorplus="100">5600</temperature>
 			<spectraltype>G6</spectraltype>
 			<metallicity errorminus="0.07" errorplus="0.07">-0.07</metallicity>
-			<mass errorminus="0.16" errorplus="0.12">0.93</mass>
+			<mass errorminus="0.14" errorplus="0.14">0.93</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.01</radius>
 			<planet>
 				<name>WASP-65 b</name>
 				<name>1SWASP J085317.82+083122.8 b</name>
@@ -27851,6 +27967,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000015" errorplus="0.0000015">2.3114243</period>
 				<transittime errorminus="0.000015" errorplus="0.000015">2456110.68772</transittime>
 				<inclination errorminus="0.7" errorplus="0.8">88.8</inclination>
+				<eccentricity>0</eccentricity>
 				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/07/25</lastupdate>
@@ -27948,19 +28065,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-69</name>
+		<name>2MASS 21000618&#8722;0505398</name>
 		<rightascension>21 00 06</rightascension>
 		<declination>-05 05 40</declination>
 		<distance errorminus="10" errorplus="10">50</distance>
 		<star>
 			<name>WASP-69</name>
+			<name>2MASS 21000618&#8722;0505398</name>
 			<metallicity errorminus="0.08" errorplus="0.08">0.15</metallicity>
 			<spectraltype>K5</spectraltype>
 			<age>2</age>
 			<mass errorminus="0.029" errorplus="0.029">0.826</mass>
 			<radius errorminus="0.028" errorplus="0.028">0.813</radius>
 			<temperature errorminus="50" errorplus="50">4715</temperature>
+			<magB errorminus="0.06" errorplus="0.06">10.93</magB>
+			<magV errorminus="0.03" errorplus="0.03">9.87</magV>
+			<magJ errorminus="0.02" errorplus="0.02">8.03</magJ>
+			<magH errorminus="0.02" errorplus="0.02">7.54</magH>
+			<magK errorminus="0.02" errorplus="0.02">7.46</magK>
 			<planet>
 				<name>WASP-69 b</name>
+				<name>2MASS 21000618&#8722;0505398 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.017" errorplus="0.017">0.26</mass>
 				<radius errorminus="0.047" errorplus="0.047">1.057</radius>
@@ -28014,10 +28139,17 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-70</name>
+		<name>2MASS 21015446-1325595</name>
 		<rightascension>21 01 54</rightascension>
 		<declination>-13 25 60</declination>
 		<distance errorminus="20" errorplus="20">245</distance>
 		<binary>
+			<name>2MASS 21015446-1325595</name>
+			<magV errorminus="0.13" errorplus="0.13">11.75</magV>
+			<magB errorminus="0.08" errorplus="0.08">10.79</magB>
+			<magJ errorminus="0.03" errorplus="0.03">10.00</magJ>
+			<magH errorminus="0.04" errorplus="0.04">9.71</magH>
+			<magK errorminus="0.03" errorplus="0.03">9.58</magK>
 			<semimajoraxis>800</semimajoraxis>
 			<star>
 				<name>WASP-70 B</name>
@@ -28141,6 +28273,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius errorminus="0.04" errorplus="0.04">1.26</radius>
 			<temperature errorminus="100" errorplus="100">6100</temperature>
 			<magV errorminus="0.01" errorplus="0.01">11.45</magV>
+			<magB errorminus="0.03" errorplus="0.03">12.05</magB>
+			<magJ errorminus="0.024" errorplus="0.024">10.362</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.097</magH>
+			<magK errorminus="0.025" errorplus="0.025">10.062</magK>
 			<metallicity errorminus="0.09" errorplus="0.09">0.07</metallicity>
 			<spectraltype>F9</spectraltype>
 			<planet>
@@ -28154,6 +28290,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<transittime errorminus="0.0003" errorplus="0.0003">2456016.2669</transittime>
 				<semimajoraxis errorminus="0.0008" errorplus="0.0007">0.0375</semimajoraxis>
 				<inclination errorminus="0.2" errorplus="0.3">82.0</inclination>
+				<eccentricity>0</eccentricity>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/07/25</lastupdate>
 				<discoveryyear>2013</discoveryyear>
@@ -28176,6 +28313,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature errorminus="100" errorplus="100">6250</temperature>
 			<metallicity errorminus="0.1" errorplus="0.1">0.23</metallicity>
 			<spectraltype>F7</spectraltype>
+			<magV errorminus="0.03" errorplus="0.03">9.52</magV>
+			<magB errorminus="0.04" errorplus="0.04">10.13</magB>
+			<magJ errorminus="0.024" errorplus="0.024">8.541</magJ>
+			<magH errorminus="0.038" errorplus="0.038">8.331</magH>
+			<magK errorminus="0.031" errorplus="0.031">8.243</magK>
 			<planet>
 				<name>WASP-76 b</name>
 				<name>BD+01 316 b</name>
@@ -28199,6 +28341,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-77</name>
+		<name>BD-07 436</name>
+		<name>1SWASP J022837.22-070338.4</name>
 		<rightascension>02 28 37</rightascension>
 		<declination>-07 03 38</declination>
 		<distance errorminus="5" errorplus="5">93</distance>
@@ -28420,6 +28564,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature errorminus="100" errorplus="100">6490</temperature>
 			<metallicity errorminus="0.11" errorplus="0.11">0.12</metallicity>
 			<spectraltype>F5</spectraltype>
+			<magV>10.1</magV>
 			<planet>
 				<name>WASP-82 b</name>
 				<name>1SWASP J045038.56+015338.1 b</name>
@@ -28442,19 +28587,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-84</name>
+		<name>2MASS 08442570+0151361</name>
 		<rightascension>08 44 26</rightascension>
 		<declination>+01 51 36</declination>
 		<distance errorminus="20" errorplus="20">125</distance>
 		<star>
 			<name>WASP-84</name>
+			<name>2MASS 08442570+0151361</name>
 			<mass errorminus="0.037" errorplus="0.037">0.842</mass>
 			<radius errorminus="0.015" errorplus="0.015">0.748</radius>
 			<temperature errorminus="88" errorplus="88">5314</temperature>
 			<metallicity errorminus="0.1" errorplus="0.1">0.0</metallicity>
 			<spectraltype>K0</spectraltype>
 			<age>1</age>
+			<magV errorminus="0.10" errorplus="0.10">11.64</magV>
+			<magB errorminus="0.08" errorplus="0.08">10.83</magB>
+			<magJ errorminus="0.03" errorplus="0.03">9.35</magJ>
+			<magH errorminus="0.02" errorplus="0.02">8.96</magH>
+			<magK errorminus="0.02" errorplus="0.02">8.86</magK>
 			<planet>
 				<name>WASP-84 b</name>
+				<name>2MASS 08442570+0151361 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.028" errorplus="0.028">0.694</mass>
 				<radius errorminus="0.022" errorplus="0.022">0.942</radius>
@@ -28485,6 +28638,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature errorminus="130" errorplus="130">6430</temperature>
 			<metallicity errorminus="0.14" errorplus="0.14">0.11</metallicity>
 			<spectraltype>F6</spectraltype>
+			<magV>11.7</magV>
 			<planet>
 				<name>WASP-90 b</name>
 				<name>1SWASP J210207.70+070323.7 b</name>
@@ -28519,6 +28673,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.16" errorplus="0.16">0.14</metallicity>
 			<age>3</age>
 			<spectraltype>G2</spectraltype>
+			<magV>10.1</magV>
 			<planet>
 				<name>WASP-95 b</name>
 				<name>1SWASP J222949.73-480011.0 b</name>
@@ -28553,6 +28708,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.19" errorplus="0.19">0.14</metallicity>
 			<spectraltype>G8</spectraltype>
 			<age>8</age>
+			<magV>12.2</magV>
 			<planet>
 				<name>WASP-96 b</name>
 				<name>1SWASP J000411.14-472138.2 b</name>
@@ -28587,6 +28743,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.11" errorplus="0.11">0.23</metallicity>
 			<age>11.9</age>
 			<spectraltype>G5</spectraltype>
+			<magV>10.6</magV>
 			<planet>
 				<name>WASP-97 b</name>
 				<name>1SWASP J013825.04-554619.4 b</name>
@@ -28621,6 +28778,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.19" errorplus="0.19">-0.60</metallicity>
 			<age lowerlimit="3" />
 			<spectraltype>G7</spectraltype>
+			<magV>13.0</magV>
 			<planet>
 				<name>WASP-98 b</name>
 				<name>1SWASP J035342.90-341941.7 b</name>
@@ -28655,6 +28813,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.15" errorplus="0.15">0.21</metallicity>
 			<age>1.4</age>
 			<spectraltype>F8</spectraltype>
+			<magV>9.5</magV>
 			<planet>
 				<name>WASP-99 b</name>
 				<name>1SWASP J023935.44-500028.8 b</name>
@@ -28706,6 +28865,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.15</radius>
 			<temperature>6250</temperature>
 			<magV>16.13</magV>
+			<magB errorminus="0.1" errorplus="0.1">17.0</magB>
+			<magR errorminus="0.1" errorplus="0.1">16.1</magR>
+			<magJ errorminus="0.052" errorplus="0.052">15.375</magJ>
+			<magH errorminus="0.081" errorplus="0.081">15.187</magH>
+			<magK errorminus="0.199" errorplus="0.199">15.271</magK>
 			<spectraltype>F</spectraltype>
 			<planet>
 				<name>WTS-1 b</name>
