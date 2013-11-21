@@ -4,13 +4,13 @@
 	<id>WASP-52 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.5</mass>
-		<radius>1.3</radius>
+		<mass>0.46</mass>
+		<radius>1.27</radius>
 		<orbit>
-			<period>1.7</period>
+			<period>1.7497798</period>
 			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<eccentricity>0</eccentricity>
+			<inclination>85.35</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -18,11 +18,11 @@
 	</properties>
 	<star>
 		<spectraltype>K2V</spectraltype>
-		<mass>0.5</mass>
-		<radius>1.3</radius>
-		<metallicity />
+		<mass>0.87</mass>
+		<radius>0.79</radius>
+		<metallicity>0.03</metallicity>
 		<distance>140</distance>
-		<temperature>1188.1</temperature>
+		<temperature>1315</temperature>
 		<rightascension>23 13 59</rightascension>
 		<declination>08 45 41</declination>
 		<angulardistance />

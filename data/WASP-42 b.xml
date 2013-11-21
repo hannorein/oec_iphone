@@ -4,12 +4,12 @@
 	<id>WASP-42 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.5</mass>
-		<radius>1.08</radius>
+		<mass>0.500</mass>
+		<radius>1.080</radius>
 		<orbit>
 			<period>4.9816872</period>
-			<semimajoraxis>0.0458</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
+			<semimajoraxis>0.0548</semimajoraxis>
+			<eccentricity>0.060</eccentricity>
 			<inclination>88.25</inclination>
 			<periastron />
 			<longitude />
@@ -17,16 +17,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.5</mass>
-		<radius>1.08</radius>
-		<metallicity />
+		<spectraltype>K1</spectraltype>
+		<mass>0.884</mass>
+		<radius>0.863</radius>
+		<metallicity>0.05</metallicity>
 		<distance>160</distance>
-		<temperature>5700.0</temperature>
+		<temperature>995</temperature>
 		<rightascension>12 51 56</rightascension>
 		<declination>-42 04 25</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.57</magV>
 		<magI />
 		<magH />
 		<magJ />

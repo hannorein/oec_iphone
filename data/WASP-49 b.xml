@@ -8,8 +8,8 @@
 		<radius>1.115</radius>
 		<orbit>
 			<period>2.7817387</period>
-			<semimajoraxis>0.0378</semimajoraxis>
-			<eccentricity />
+			<semimajoraxis>0.0379</semimajoraxis>
+			<eccentricity>0</eccentricity>
 			<inclination>84.89</inclination>
 			<periastron />
 			<longitude />
@@ -17,16 +17,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.378</mass>
-		<radius>1.115</radius>
-		<metallicity />
+		<spectraltype>G6</spectraltype>
+		<mass>0.938</mass>
+		<radius>0.976</radius>
+		<metallicity>-0.23</metallicity>
 		<distance>170</distance>
-		<temperature>5700.0</temperature>
+		<temperature>1369</temperature>
 		<rightascension>06 04 21</rightascension>
 		<declination>-16 57 55</declination>
 		<angulardistance />
-		<magV />
+		<magV>11.36</magV>
 		<magI />
 		<magH />
 		<magJ />
