@@ -1,4 +1,4 @@
-<planets date="2013-11-22" name="data" planets="1011">
+<planets date="2013-11-22" name="data" planets="1012">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -9877,6 +9877,37 @@ Credit: ESO/L. Calcada</imagedescription>
 		<id_exoplaneteu>HD 159243 b</id_exoplaneteu>
 		<name>HD 159243 b</name>
 		<id>HD 159243 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.13</mass>
+			<orbit>
+				<period>12.620</period>
+				<semimajoraxis>0.11</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<periastron>223</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.125</mass>
+			<radius>1.12</radius>
+			<metallicity>0.05</metallicity>
+			<distance>69.2</distance>
+			<temperature>6123</temperature>
+			<rightascension>17 33 22</rightascension>
+			<declination>+05 42 03</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/11/22</lastupdate>
+		<description>The HD 159243 system contains two planets, one of which (HD 159243 b) is a hot Jupiter with an orbital period of 12.6 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 159243 c</id_exoplaneteu>
+		<name>HD 159243 c</name>
+		<id>HD 159243 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.9</mass>
@@ -25378,7 +25409,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>13/10/15</lastupdate>
-		<description>MOA-2011-BLG-293L b is a planet discovered by gravitational microlensing. Using follow-up observations on Keck, astronomer have identified the planet to lie in or near the habitable zone. It could in principle have habitable moons. It is also the first planet to be identified as being in the Galactic bulge with good confidence.</description>
+		<description>MOA-2011-BLG-293L b is a planet discovered by gravitational microlensing. Using follow-up observations on Keck, astronomers have identified the planet to lie in or near the habitable zone. It could in principle have habitable moons. It is also the first planet to be identified as being in the Galactic bulge with good confidence.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -29979,7 +30010,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/22</lastupdate>
-		<description>This hot Jupiter has been discovered by the WASP tranit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+		<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -30185,7 +30216,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/22</lastupdate>
-		<description>This hot Jupiter has been discovered by the WASP tranit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+		<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -30217,7 +30248,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/22</lastupdate>
-		<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. From the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
+		<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -30250,7 +30281,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/22</lastupdate>
-		<description>This hot Jupiter has been discovered by the WASP tranit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+		<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
