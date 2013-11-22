@@ -12407,6 +12407,92 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 13908 b</id_exoplaneteu>
+		<name>HD 13908 b</name>
+		<id>HD 13908 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.865</mass>
+			<radius />
+			<orbit>
+				<period>19.382</period>
+				<semimajoraxis>0.154</semimajoraxis>
+				<eccentricity>0.046</eccentricity>
+				<inclination />
+				<periastron>185</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.29</mass>
+			<radius>1.67</radius>
+			<metallicity>0.01</metallicity>
+			<distance>71.3</distance>
+			<temperature>6255</temperature>
+			<rightascension>02 18 15</rightascension>
+			<declination>+65 35 40</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/11/22</lastupdate>
+		<description>HD 13908 b is a Hot Jupiter with an orbital period of 19 days. There is another planet in the system with a perdio of over 900 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 13908 c</id_exoplaneteu>
+		<name>HD 13908 c</name>
+		<id>HD 13908 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.13</mass>
+			<radius />
+			<orbit>
+				<period>931</period>
+				<semimajoraxis>2.03</semimajoraxis>
+				<eccentricity>0.12</eccentricity>
+				<inclination />
+				<periastron>185</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.29</mass>
+			<radius>1.67</radius>
+			<metallicity>0.01</metallicity>
+			<distance>71.3</distance>
+			<temperature>6255</temperature>
+			<rightascension>02 18 15</rightascension>
+			<declination>+65 35 40</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/11/22</lastupdate>
+		<description>HD 13908 c is a planet with 5 times the mass of our Jupiter. The system HD 13908 also hosts a hot Jupiter with an orbital period of 19 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 13931 b</id_exoplaneteu>
 		<name>HD 13931 b</name>
 		<id>HD 13931 b</id>
@@ -14001,6 +14087,49 @@ Credit: ESO/L. Calcada</imagedescription>
 		<lastupdate>12/07/24</lastupdate>
 		<description>The star HD 158038 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 159243 b</id_exoplaneteu>
+		<name>HD 159243 b</name>
+		<id>HD 159243 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.9</mass>
+			<radius />
+			<orbit>
+				<period>248.4</period>
+				<semimajoraxis>0.8</semimajoraxis>
+				<eccentricity>0.075</eccentricity>
+				<inclination />
+				<periastron>69</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.125</mass>
+			<radius>1.12</radius>
+			<metallicity>0.05</metallicity>
+			<distance>69.2</distance>
+			<temperature>6123</temperature>
+			<rightascension>17 33 22</rightascension>
+			<declination>+05 42 03</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/11/22</lastupdate>
+		<description>The HD 159243 system contains two planets, one of which (HD 159243 b) is a hot Jupiter with an orbital period of 12.6 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -26729,6 +26858,49 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HIP 91258 b</id_exoplaneteu>
+		<name>HIP 91258 b</name>
+		<id>HIP 91258 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.068</mass>
+			<radius />
+			<orbit>
+				<period>5.0505</period>
+				<semimajoraxis>0.057</semimajoraxis>
+				<eccentricity>0.024</eccentricity>
+				<inclination />
+				<periastron>276</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5V</spectraltype>
+			<mass>0.95</mass>
+			<radius>1</radius>
+			<metallicity>0.23</metallicity>
+			<distance>44.9</distance>
+			<temperature>5519</temperature>
+			<rightascension>18 36 53</rightascension>
+			<declination>+61 42 09</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/11/22</lastupdate>
+		<description>HIP 91258 is a Hot Jupiter with an orbital period of only 5 days. There is another planet in the system. However, currently only a quadratic trend is seen in the data which is insufficient to determine the second planet's properties. The planet was discovered with the SOPHIE spectrograph in France.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HN Peg b</id_exoplaneteu>
 		<name>HN Peg b</name>
 		<id>HN Peg b</id>
@@ -36618,7 +36790,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/11/15</lastupdate>
 		<description>MOA-2008-BLG-379Lb is a planetary mass object discovered by gravitational microlensing. Because a faint source star crossed a large resonant caustic, the planetary signal dominates the light curve. A statistical model has been used to determine the physical system parameters.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
