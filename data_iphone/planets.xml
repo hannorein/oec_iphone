@@ -3859,6 +3859,49 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>FW Tau b</id_exoplaneteu>
+		<name>FW Tau b</name>
+		<id>FW Tau b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>10</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>330</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M4</spectraltype>
+			<mass>0.28</mass>
+			<radius />
+			<metallicity />
+			<distance>145</distance>
+			<temperature>3270</temperature>
+			<rightascension>04 29 30</rightascension>
+			<declination>+26 16 53</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/02</lastupdate>
+		<description>ROXs 12 b is a wide separation planetary mass companion to the star ROXs 12. The object was discovered over 10 years ago in a bianry survey program, but follow-up observations only confirmed its planetary nature in 2013.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>gamma 1 Leo b</id_exoplaneteu>
 		<name>gamma 1 Leo b</name>
 		<id>gamma 1 Leo b</id>
@@ -39522,6 +39565,94 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<new />
 		<image />
 		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>ROXs 12 b</id_exoplaneteu>
+		<name>ROXs 12 b</name>
+		<id>ROXs 12 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>16</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>210</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0</spectraltype>
+			<mass>0.87</mass>
+			<radius />
+			<metallicity />
+			<distance>120</distance>
+			<temperature>3850</temperature>
+			<rightascension>16 26 28</rightascension>
+			<declination>-25 27 24</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/02</lastupdate>
+		<description>ROXs 12 b is a wide separation planetary mass companion to the star ROXs 12. The object was discovered over 10 years ago in a bianry survey program, but follow-up observations only confirmed its planetary nature in 2013.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>ROXs 42 B b</id_exoplaneteu>
+		<name>ROXs 42 B b</name>
+		<id>ROXs 42 B b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>10</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>140</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0</spectraltype>
+			<mass>0.89</mass>
+			<radius />
+			<metallicity />
+			<distance>120</distance>
+			<temperature>3850</temperature>
+			<rightascension>16 31 15</rightascension>
+			<declination>-24 32 24</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/02</lastupdate>
+		<description>The substellar object ROXs 42B b is orbiting the binar M star ROXs 42B. It is most likely a planet and was disocvered in 2013 by Thayne Currie.</description>
+		<new />
+		<image>ROXs42</image>
+		<imagedescription>This is the discovery image of ROX 42 B b.
+			
+Credit: Thayne Currie.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>

@@ -1,4 +1,4 @@
-<planets date="2013-11-22" name="data" planets="1012">
+<planets date="2013-12-02" name="data" planets="1015">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2691,6 +2691,31 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>11/09/19</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>FW Tau b</id_exoplaneteu>
+		<name>FW Tau b</name>
+		<id>FW Tau b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>10</mass>
+			<orbit>
+				<semimajoraxis>330</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M4</spectraltype>
+			<mass>0.28</mass>
+			<distance>145</distance>
+			<temperature>3270</temperature>
+			<rightascension>04 29 30</rightascension>
+			<declination>+26 16 53</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/02</lastupdate>
+		<description>ROXs 12 b is a wide separation planetary mass companion to the star ROXs 12. The object was discovered over 10 years ago in a bianry survey program, but follow-up observations only confirmed its planetary nature in 2013.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -26939,6 +26964,60 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/08/11</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>ROXs 12 b</id_exoplaneteu>
+		<name>ROXs 12 b</name>
+		<id>ROXs 12 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>16</mass>
+			<orbit>
+				<semimajoraxis>210</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0</spectraltype>
+			<mass>0.87</mass>
+			<distance>120</distance>
+			<temperature>3850</temperature>
+			<rightascension>16 26 28</rightascension>
+			<declination>-25 27 24</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/02</lastupdate>
+		<description>ROXs 12 b is a wide separation planetary mass companion to the star ROXs 12. The object was discovered over 10 years ago in a bianry survey program, but follow-up observations only confirmed its planetary nature in 2013.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>ROXs 42 B b</id_exoplaneteu>
+		<name>ROXs 42 B b</name>
+		<id>ROXs 42 B b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>10</mass>
+			<orbit>
+				<semimajoraxis>140</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0</spectraltype>
+			<mass>0.89</mass>
+			<distance>120</distance>
+			<temperature>3850</temperature>
+			<rightascension>16 31 15</rightascension>
+			<declination>-24 32 24</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/02</lastupdate>
+		<description>The substellar object ROXs 42B b is orbiting the binar M star ROXs 42B. It is most likely a planet and was disocvered in 2013 by Thayne Currie.</description>
+		<image>ROXs42</image>
+		<imagedescription>This is the discovery image of ROX 42 B b.
+			
+Credit: Thayne Currie.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
