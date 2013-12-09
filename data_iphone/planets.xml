@@ -9809,7 +9809,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/12/06</lastupdate>
 		<description>The star HD 106906 hosts a massive debris disk with an inner edge at 15-20 AU and an outer edge at 120 AU. New adaptive optics images from the Magellan telescope revealed a planetary mass companion far beyond the debris disk at 650 AU. Explaining the formation of such a wide companion is challenging.</description>
-		<new>1</new>
+		<new />
 		<image>HD106906</image>
 		<imagedescription>Discovery image of HD 106906 b in thermal infrared light from MagAO/Clio2. The images has been processed to remove the bright light from the host star. 
 
@@ -43634,27 +43634,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-68 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.8</mass>
-			<radius>0.9</radius>
+			<mass>0.95</mass>
+			<radius>1.24</radius>
 			<orbit>
-				<period>5.1</period>
-				<semimajoraxis />
+				<period>5.084298</period>
+				<semimajoraxis>0.06206</semimajoraxis>
 				<eccentricity />
-				<inclination />
+				<inclination>88.1</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>0.8</mass>
-			<radius>0.9</radius>
-			<metallicity />
+			<spectraltype>G0</spectraltype>
+			<mass>1.24</mass>
+			<radius>1.69</radius>
+			<metallicity>0.22</metallicity>
 			<distance />
-			<temperature>5700.0</temperature>
-			<rightascension />
-			<declination />
+			<temperature>5911</temperature>
+			<rightascension>20 20 23</rightascension>
+			<declination>-19 18 52</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -43664,8 +43664,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
-		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<lastupdate>13/12/09</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published in December 2013.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -43888,6 +43888,49 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<lastupdate>12/10/17</lastupdate>
 		<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-73 b</id_exoplaneteu>
+		<name>WASP-73 b</name>
+		<id>WASP-73 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.88</mass>
+			<radius>1.16</radius>
+			<orbit>
+				<period>4.08722</period>
+				<semimajoraxis>0.05512</semimajoraxis>
+				<eccentricity />
+				<inclination>87.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.34</mass>
+			<radius>2.07</radius>
+			<metallicity>0.14</metallicity>
+			<distance />
+			<temperature>6036</temperature>
+			<rightascension>21 19 48</rightascension>
+			<declination>-58 08 56</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/09</lastupdate>
+		<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -44298,6 +44341,49 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<lastupdate>13/10/22</lastupdate>
 		<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-88 b</id_exoplaneteu>
+		<name>WASP-88 b</name>
+		<id>WASP-88 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.56</mass>
+			<radius>1.7</radius>
+			<orbit>
+				<period>4.954000</period>
+				<semimajoraxis>0.06431</semimajoraxis>
+				<eccentricity />
+				<inclination>88</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6</spectraltype>
+			<mass>1.45</mass>
+			<radius>2.08</radius>
+			<metallicity>-0.08</metallicity>
+			<distance />
+			<temperature>6431</temperature>
+			<rightascension>20 38 03</rightascension>
+			<declination>-48 27 43</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/09</lastupdate>
+		<description>WASP-88 b is a Hot Jupiter discovered by the WASP transit survey. The planet joins a handful of planets with super-inflated radii.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
