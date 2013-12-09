@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-73 b</id_exoplaneteu>
+	<name>WASP-73 b</name>
+	<id>WASP-73 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.88</mass>
+		<radius>1.16</radius>
+		<orbit>
+			<period>4.08722</period>
+			<semimajoraxis>0.05512</semimajoraxis>
+			<eccentricity />
+			<inclination>87.4</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F9</spectraltype>
+		<mass>1.34</mass>
+		<radius>2.07</radius>
+		<metallicity>0.14</metallicity>
+		<distance />
+		<temperature>6036</temperature>
+		<rightascension>21 19 48</rightascension>
+		<declination>-58 08 56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/12/09</lastupdate>
+	<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
