@@ -1,4 +1,4 @@
-<systems name="systems" planets="1016">
+<systems name="systems" planets="1018">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -6830,7 +6830,6 @@ Credit: ESO/L. Calcada</imagedescription>
 				<imagedescription>Discovery image of HD 106906 b in thermal infrared light from MagAO/Clio2. The images has been processed to remove the bright light from the host star. 
 
 Image credit: Vanessa Bailey</imagedescription>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -28394,20 +28393,29 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-68</name>
+		<rightascension>20 20 23</rightascension>
+		<declination>-19 18 52</declination>
 		<star>
+			<name>WASP-68</name>
+			<temperature errorminus="60" errorplus="59">5911</temperature>
+			<metallicity errorminus="0.08" errorplus="0.08">0.22</metallicity>
+			<spectraltype>G0</spectraltype>
+			<mass errorminus="0.03" errorplus="0.03">1.24</mass>
+			<radius errorminus="0.06" errorplus="0.11">1.69</radius>
 			<planet>
 				<name>WASP-68 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.8</mass>
-				<radius>0.9</radius>
-				<period>5.1</period>
-				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+				<mass errorminus="0.03" errorplus="0.03">0.95</mass>
+				<radius errorminus="0.06" errorplus="0.1">1.24</radius>
+				<temperature errorminus="29" errorplus="44">1490</temperature>
+				<period errorminus="0.000015" errorplus="0.000015">5.084298</period>
+				<semimajoraxis errorminus="0.0004" errorplus="0.00045">0.06206</semimajoraxis>
+				<inclination errorminus="1.3" errorplus="1.3">88.1</inclination>
+				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published in December 2013.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>13/12/09</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
-			<name>WASP-68</name>
-			<temperature>5700.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -28606,6 +28614,34 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoveryyear>2012</discoveryyear>
 			</planet>
 			<name>WASP-72</name>
+		</star>
+	</system>
+	<system>
+		<name>WASP-73</name>
+		<rightascension>21 19 48</rightascension>
+		<declination>-58 08 56</declination>
+		<star>
+			<name>WASP-73</name>
+			<mass errorminus="0.04" errorplus="0.05">1.34</mass>
+			<radius errorminus="0.08" errorplus="0.19">2.07</radius>
+			<temperature errorminus="120" errorplus="120">6036</temperature>
+			<metallicity errorminus="0.14" errorplus="0.14">0.14</metallicity>
+			<spectraltype>F9</spectraltype>
+			<planet>
+				<name>WASP-73 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.06" errorplus="0.07">1.88</mass>
+				<radius errorminus="0.08" errorplus="0.12">1.16</radius>
+				<temperature errorminus="51" errorplus="75">1790</temperature>
+				<period errorminus="0.00022" errorplus="0.00022">4.08722</period>
+				<semimajoraxis errorminus="0.00053" errorplus="0.0006">0.05512</semimajoraxis>
+				<inclination errorminus="2.4" errorplus="1.8">87.4</inclination>
+				<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/12/09</lastupdate>
+				<new>1</new>
+				<discoveryyear>2013</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -28967,6 +29003,34 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>transit</discoverymethod>
 				<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
 				<lastupdate>13/10/22</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-88</name>
+		<rightascension>20 38 03</rightascension>
+		<declination>-48 27 43</declination>
+		<star>
+			<name>WASP-88</name>
+			<mass errorminus="0.05" errorplus="0.05">1.45</mass>
+			<radius errorminus="0.06" errorplus="0.12">2.08</radius>
+			<temperature errorminus="130" errorplus="130">6431</temperature>
+			<metallicity errorminus="0.12" errorplus="0.12">-0.08</metallicity>
+			<spectraltype>F6</spectraltype>
+			<planet>
+				<name>WASP-88 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.08" errorplus="0.08">0.56</mass>
+				<radius errorminus="0.07" errorplus="0.13">1.7</radius>
+				<temperature errorminus="45" errorplus="54">1772</temperature>
+				<period errorminus="0.000019" errorplus="0.000019">4.954000</period>
+				<semimajoraxis errorminus="0.00062" errorplus="0.00065">0.06431</semimajoraxis>
+				<inclination errorminus="1.5" errorplus="1.4">88</inclination>
+				<description>WASP-88 b is a Hot Jupiter discovered by the WASP transit survey. The planet joins a handful of planets with super-inflated radii.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/12/09</lastupdate>
+				<new>1</new>
 				<discoveryyear>2013</discoveryyear>
 			</planet>
 		</star>
