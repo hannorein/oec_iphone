@@ -1,4 +1,4 @@
-<planets date="2013-12-09" name="data" planets="1018">
+<planets date="2013-12-18" name="data" planets="1019">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -22710,6 +22710,39 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-91 b</id_exoplaneteu>
+		<name>Kepler-91 b</name>
+		<name>KIC 8219268 b</name>
+		<id>Kepler-91 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.88</mass>
+			<radius>1.384</radius>
+			<orbit>
+				<period>6.246580</period>
+				<semimajoraxis>0.072</semimajoraxis>
+				<eccentricity>0.066</eccentricity>
+				<inclination>68.5</inclination>
+				<periastron>316.8</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.31</mass>
+			<radius>6.3</radius>
+			<metallicity>0.11</metallicity>
+			<distance>1030</distance>
+			<temperature>4550</temperature>
+			<rightascension>19 02 41</rightascension>
+			<declination>+44 07 00</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/18</lastupdate>
+		<description>Kepler-91 b is a planet very close its host star. It might be destroyed within the next 55 million years. The planet was initially discovered by the Kepler telescope and later confirmed by a group of European researchers led by Jorge Lillo-Box.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KIC 10905746 b</id_exoplaneteu>
 		<name>KIC 10905746 b</name>
 		<id>KIC 10905746 b</id>
@@ -29851,7 +29884,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>kov</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.87</mass>
 			<radius>0.87</radius>
 			<metallicity>-0.07</metallicity>
@@ -29889,6 +29922,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>5911</temperature>
 			<rightascension>20 20 23</rightascension>
 			<declination>-19 18 52</declination>
+			<magV>10.7</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -30077,12 +30111,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>6036</temperature>
 			<rightascension>21 19 48</rightascension>
 			<declination>-58 08 56</declination>
+			<magV>10.5</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/12/09</lastupdate>
 		<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -30412,12 +30446,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>6431</temperature>
 			<rightascension>20 38 03</rightascension>
 			<declination>-48 27 43</declination>
+			<magV>11.4</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/12/09</lastupdate>
 		<description>WASP-88 b is a Hot Jupiter discovered by the WASP transit survey. The planet joins a handful of planets with super-inflated radii.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
