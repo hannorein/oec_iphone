@@ -2229,7 +2229,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<radius errorminus="0.035" errorplus="0.035">1.166</radius>
 				<period errorminus="0.000004" errorplus="0.000004">8.886593</period>
 				<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0855</semimajoraxis>
-				<eccentricity upperlimit="0.1" />
 				<inclination errorminus="0.30" errorplus="0.30">89.07</inclination>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/01/11</lastupdate>
@@ -2617,6 +2616,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	 Credit: NASA, ESA, and P. Kalas (University of California, Berkeley and SETI Institute).</imagedescription>
 					<lastupdate>13/05/12</lastupdate>
 					<discoveryyear>2008</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 			<star>
@@ -2748,6 +2748,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 					<lastupdate>11/01/14</lastupdate>
 					<discoveryyear>2003</discoveryyear>
 					<temperature>327.2</temperature>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 			<star>
@@ -2784,7 +2785,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<radius errorminus="0.018" errorplus="0.018">0.254</radius>
 				<period errorminus="0.000015" errorplus="0.000015">1.580405</period>
 				<semimajoraxis errorminus="0.00032" errorplus="0.00032">0.01411</semimajoraxis>
-				<eccentricity upperlimit="0.27" />
 				<inclination errorminus="0.54" errorplus="0.54">88.17</inclination>
 				<description>Gliese 1214 is a red dwarf in the constellation Ophiuchus only 40 light years away. The planet was found with a 40cm telescope and commercially available cameras. New observations from NASA's Hubble Space Telescope show that it is a waterworld enshrouded by a thick, steamy atmosphere. GJ1214b represents a new type of planet, like nothing seen in our solar system or any other planetary system currently known.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -2983,7 +2983,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<mass errorminus="0.0118" errorplus="0.0118">0.13</mass>
 				<period errorminus="1.1" errorplus="1.1">125.06</period>
 				<semimajoraxis errorminus="0.0039" errorplus="0.0039">0.448</semimajoraxis>
-				<eccentricity upperlimit="0.24" />
 				<periastron errorminus="44" errorplus="44">118</periastron>
 				<longitude errorminus="17.5" errorplus="17.5">131</longitude>
 				<description>The planets orbiting the K7 star GJ 221 were discovered using publicly available HARPS data. The dataset was complemented with high precision Doppler measurements from Magellan/PFS. The system hosts at least two planets, one hot Super-Earth and one sub-Saturn mass planet.</description>
@@ -3000,7 +2999,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<mass errorminus="0.00541" errorplus="0.00541">0.0196</mass>
 				<period errorminus="0.00066" errorplus="0.00066">3.8731</period>
 				<semimajoraxis>0.044</semimajoraxis>
-				<eccentricity upperlimit="0.48" />
 				<periastron>94</periastron>
 				<description>The planets orbiting the K7 star GJ 221 were discovered using publicly available HARPS data. The dataset was complemented with high precision Doppler measurements from Magellan/PFS. The system hosts at least two planets, one hot Super-Earth and one sub-Saturn mass planet.</description>
 				<discoverymethod>RV</discoverymethod>
@@ -3551,7 +3549,6 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>Gliese 667 C</name>
 				<name>HR 6426 C</name>
 				<temperature errorminus="50" errorplus="50">3350</temperature>
-				<age lowerlimit="2" />
 				<mass errorminus="0.02" errorplus="0.02">0.33</mass>
 				<radius>0.41</radius>
 				<magV>10.22</magV>
@@ -3581,6 +3578,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667 C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Gliese 667 C h</name>
@@ -3601,6 +3599,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Gliese 667 C c</name>
@@ -3621,6 +3620,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667 C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Gliese 667 C f</name>
@@ -3641,6 +3641,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Gliese 667 C e</name>
@@ -3661,6 +3662,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667 C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Gliese 667 C d</name>
@@ -3681,6 +3683,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667 C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Gliese 667 C g</name>
@@ -3701,6 +3704,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<imagedescription>This artist's impression shows the view from the exoplanet Gliese 667 C d looking towards the planet's parent star (Gliese 667 C). In the background to the right the more distant stars in this triple system (Gliese 667 A and Gliese 667 B) are visible and to the left in the sky one of the other planets, the newly discovered Gliese 667 Ce, can be seen as a crescent. A record-breaking three planets in this system are super-Earths lying in the zone around the star where liquid water could exist, making them possible candidates for the presence of life. This is the first system found with a fully packed habitable zone.
 
 	Credit: ESO/M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 		</binary>
@@ -4040,6 +4044,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<lastupdate>09/10/07</lastupdate>
 					<discoveryyear>2000</discoveryyear>
 					<temperature>657.6</temperature>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<temperature errorminus="50" errorplus="50">5188</temperature>
 				<age>2.5</age>
@@ -5918,6 +5923,7 @@ Credit: Jonah Gallagher.</imagedescription>
 					<discoverymethod>transit</discoverymethod>
 					<lastupdate>13/07/31</lastupdate>
 					<discoveryyear>2008</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<temperature>6200.0</temperature>
 			</star>
@@ -7105,6 +7111,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<lastupdate>10/12/23</lastupdate>
 					<discoveryyear>2005</discoveryyear>
 					<temperature>1161.9</temperature>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<temperature>5610.0</temperature>
 			</star>
@@ -11098,6 +11105,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	At a distance of 63 light-years from us, this turbulent alien world is one of the nearest exoplanets to Earth that can be seen crossing the face of its star. By observing this planet before, during, and after it disappeared behind its host star during orbit, astronomers were able to deduce that HD 189733b is a deep, azure blue - reminiscent of Earth's colour as seen from space.
 				
 	Credit: NASA, ESA, M. Kornmesser</imagedescription>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<temperature>4980.0</temperature>
 			</star>
@@ -14598,7 +14606,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass errorminus="0.01572850" errorplus="0.02044705">0.02705302</mass>
 				<period errorminus="0.130" errorplus="0.120">25.648</period>
 				<semimajoraxis errorminus="0.014" errorplus="0.020">0.172</semimajoraxis>
-				<eccentricity upperlimit="0.18" />
 				<description>The planetary system HD 41248 consists of at least two planets. Both planets are most likely Super-Earths. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>13/04/30</lastupdate>
@@ -18456,7 +18463,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 11904151 c</name>
 				<name>2MASS J19024305+5014286 c</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.062914013" />
 				<radius errorminus="0.0052" errorplus="0.0047">0.2029471</radius>
 				<period errorminus="0.00076" errorplus="0.00065">42.29485</period>
 				<semimajoraxis errorminus="0.0053" errorplus="0.0044">0.2407</semimajoraxis>
@@ -18590,11 +18596,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<planet>
 				<name>Kepler-11 g</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.078643" />
 				<radius errorminus="0.001823" errorplus="0.001823">0.303464</radius>
 				<period errorminus="0.0006" errorplus="0.0010">118.3807</period>
 				<semimajoraxis>0.466</semimajoraxis>
-				<eccentricity upperlimit="0.15" />
 				<inclination errorminus="0.023" errorplus="0.01">89.89</inclination>
 				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455120.2901</transittime>
 				<discoverymethod>transit</discoverymethod>
@@ -20068,34 +20072,41 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<rightascension>18 52 36</rightascension>
 		<declination>+45 08 23</declination>
 		<distance errorminus="6.9" errorplus="6.9">132</distance>
-		<star>
-			<name>Kepler-410</name>
-			<name>Kepler-410 A</name>
-			<name>HD 175289</name>
-			<name>KIC 8866102</name>
-			<mass errorminus="0.033" errorplus="0.033">1.214</mass>
-			<radius errorminus="0.010" errorplus="0.010">1.352</radius>
-			<age errorminus="0.54" errorplus="0.54">2.76</age>
-			<planet>
-				<name>Kepler-410 b</name>
-				<name>Kepler-410 A b</name>
-				<name>HD 175289 b</name>
-				<name>KIC 8866102 b</name>
-				<name>KOI-0042 b</name>
-				<name>KOI-0042 01</name>
-				<list>Confirmed planets</list>
-				<period errorminus="0.000054" errorplus="0.000054">17.833648</period>
-				<radius errorminus="0.004921" errorplus="0.004921">0.258628</radius>
-				<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.1226</semimajoraxis>
-				<eccentricity errorminus="0.06" errorplus="0.07">0.17</eccentricity>
-				<inclination errorminus="0.15" errorplus="0.13">87.72</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/12/20</lastupdate>
-				<discoveryyear>2013</discoveryyear>
-				<new>1</new>
-				<description>Kepler-410 b is a Neptune sized exoplanet aroud the bright star Kepler-410. The host star is in fact one of the brightest hosts of all currently known transiting exoplanets. The confirmation was difficult because there is a second, fainter star nearby. Transit timing variations indicate the presence of another planet in the system.</description>
-			</planet>
-		</star>
+		<binary>
+			<semimajoraxis>211</semimajoraxis>
+			<star>
+				<name>Kepler-410 A</name>
+				<name>HD 175289</name>
+				<name>KIC 8866102</name>
+				<mass errorminus="0.033" errorplus="0.033">1.214</mass>
+				<radius errorminus="0.010" errorplus="0.010">1.352</radius>
+				<age errorminus="0.54" errorplus="0.54">2.76</age>
+				<planet>
+					<name>Kepler-410 A b</name>
+					<name>Kepler-410 b</name>
+					<name>HD 175289 b</name>
+					<name>KIC 8866102 b</name>
+					<name>KOI-0042 b</name>
+					<name>KOI-0042 01</name>
+					<list>Confirmed planets</list>
+					<period errorminus="0.000054" errorplus="0.000054">17.833648</period>
+					<radius errorminus="0.004921" errorplus="0.004921">0.258628</radius>
+					<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.1226</semimajoraxis>
+					<eccentricity errorminus="0.06" errorplus="0.07">0.17</eccentricity>
+					<inclination errorminus="0.15" errorplus="0.13">87.72</inclination>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/12/20</lastupdate>
+					<discoveryyear>2013</discoveryyear>
+					<new>1</new>
+					<description>Kepler-410 b is a Neptune sized exoplanet aroud the bright star Kepler-410. The host star is in fact one of the brightest hosts of all currently known transiting exoplanets. The confirmation was difficult because there is a second, fainter star nearby. Transit timing variations indicate the presence of another planet in the system.</description>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>Kepler-410 B</name>
+				<temperature>4850</temperature>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>Kepler-47</name>
@@ -20139,7 +20150,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<radius errorminus="0.010935635" errorplus="0.010935635">0.27156828</radius>
 				<period errorminus="0.040" errorplus="0.040">49.514</period>
 				<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.2956</semimajoraxis>
-				<eccentricity upperlimit="0.035" />
 				<inclination errorminus="0.50" errorplus="0.50">89.59</inclination>
 				<transittime errorminus="0.010" errorplus="0.010">2454968.633</transittime>
 				<description>Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star, the other one is roughly one-third the size of the Sun. The orbital period of the binary is 7.45 days.</description>
@@ -20163,7 +20173,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<radius errorminus="0.018226059" errorplus="0.018226059">0.42011066</radius>
 				<period errorminus="0.072" errorplus="0.072">303.158</period>
 				<semimajoraxis errorminus="0.016" errorplus="0.016">0.989</semimajoraxis>
-				<eccentricity upperlimit="0.411" />
 				<inclination errorminus="0.010" errorplus="0.010">89.826</inclination>
 				<transittime errorminus="0.012" errorplus="0.012">2454753.015</transittime>
 				<description>Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star, the other one is roughly one-third the size of the Sun. The orbital period of the binary is 7.45 days. The outer planet Kepler-47(AB) c is located in the habitable zone where liquid water could exist.</description>
@@ -20861,8 +20870,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<radius errorminus="0.01184693" errorplus="0.01184693">0.19593013</radius>
 				<temperature errorminus="13" errorplus="13">273</temperature>
 				<period errorminus="0.00020" errorplus="0.00020">59.87756</period>
-				<eccentricity upperlimit="0.25" />
-				<inclination lowerlimit="89.80" />
 				<transittime errorminus="0.0024" errorplus="0.0029" unit="BJD">2454984.1880</transittime>
 				<description>Kepler-61 b is a 2.15 Earth-radii transiting exoplanet. It was confirmed using a statistical argument: It is 30,000 times more likely that Kepler-61 b is a planet than a blend scenario.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -21015,13 +21022,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>KOI-63 b</name>
 				<name>KOI-63.01</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.377484" />
 				<radius errorminus="0.018226" errorplus="0.018226">0.556806</radius>
 				<rossitermclaughlin errorminus="14" errorplus="22">-110</rossitermclaughlin>
 				<period errorminus="0.0000010" errorplus="0.0000010">9.4341505</period>
 				<transittime errorminus="0.00005" errorplus="0.00005">2455010.84307</transittime>
 				<semimajoraxis errorminus="0.002" errorplus="0.002">0.080</semimajoraxis>
-				<eccentricity upperlimit="0.45" />
 				<inclination errorminus="0.019" errorplus="0.018">87.806</inclination>
 				<description>Kepler-63 b orbits a Sun-like star every 9.43 days. The host star has a large and persistent polar starspot and a high sky-projected obliquity of 104 degrees. Polar star spots have been predicted in simulations of magnetic activity of young Sun-like stars.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -21762,7 +21767,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-1236.01</name>
 				<name>KIC 6677841 b</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.193986" />
 				<radius>0.391860</radius>
 				<temperature>699</temperature>
 				<period>35.741130</period>
@@ -21778,7 +21782,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-1236.03</name>
 				<name>KIC 6677841 c</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.152872" />
 				<radius>0.282504</radius>
 				<temperature>607</temperature>
 				<period>54.399500</period>
@@ -22088,7 +22091,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-1563.01</name>
 				<name>KIC 5219234 b</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.028195" />
 				<radius>0.328069</radius>
 				<temperature>833</temperature>
 				<period>5.487006</period>
@@ -22104,7 +22106,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-1563.02</name>
 				<name>KIC 5219234 c</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.024109" />
 				<radius>0.300730</radius>
 				<temperature>729</temperature>
 				<period>8.291130</period>
@@ -22349,7 +22350,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-2038.01</name>
 				<name>KIC 8950568 b</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.046522" />
 				<radius>0.181349</radius>
 				<temperature>814</temperature>
 				<period>8.305992</period>
@@ -22365,7 +22365,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-2038.02</name>
 				<name>KIC 8950568 c</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.059422" />
 				<radius>0.200487</radius>
 				<temperature>712</temperature>
 				<period>12.512170</period>
@@ -22494,7 +22493,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-2672.01</name>
 				<name>KIC 11253827 b</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.053747" />
 				<radius>0.482991</radius>
 				<temperature>413</temperature>
 				<period>88.516580</period>
@@ -22510,7 +22508,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KOI-2672.02</name>
 				<name>KIC 11253827 c</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.252074" />
 				<radius>0.318956</radius>
 				<temperature>525</temperature>
 				<period>42.990660</period>
@@ -26182,7 +26179,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.000008" errorplus="0.000008">2.849375</period>
 				<transittime errorminus="0.0009" errorplus="0.0009" unit="HJD">2456272.3395</transittime>
 				<semimajoraxis errorminus="0.0010" errorplus="0.0010">0.0457</semimajoraxis>
-				<eccentricity upperlimit="0.1" />
 				<inclination errorminus="1.7" errorplus="2.6">82.6</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -26217,7 +26213,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.000004" errorplus="0.000004">3.585722</period>
 				<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456164.6934</transittime>
 				<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0506</semimajoraxis>
-				<eccentricity upperlimit="0.03" />
 				<inclination errorminus="0.2" errorplus="0.2">85</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -26314,6 +26309,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
 					<discoveryyear>2008</discoveryyear>
 					<temperature>2319.7</temperature>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<temperature>6300.0</temperature>
 			</star>
@@ -28459,11 +28455,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<period errorminus="0.0000047" errorplus="0.0000047">3.7130203</period>
 					<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2455736.50348</transittime>
 					<inclination errorminus="0.65" errorplus="1.24">87.12</inclination>
-					<eccentricity upperlimit="0.067" />
 					<description>WASP-70A b is part of a binary system. The planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. It was published in a paper in October 2013.</description>
 					<discoverymethod>transit</discoverymethod>
 					<lastupdate>13/10/22</lastupdate>
 					<discoveryyear>2011</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 		</binary>
@@ -28644,7 +28640,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.000001" errorplus="0.000001">1.809886</period>
 				<transittime errorminus="0.00034" errorplus="0.00034" unit="HJD">2456107.85507</transittime>
 				<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0330</semimajoraxis>
-				<eccentricity upperlimit="0.05" />
 				<inclination errorminus="1.6" errorplus="1.3">88.0</inclination>
 				<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -28853,7 +28848,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<radius errorminus="0.027" errorplus="0.026">0.952</radius>
 				<period errorminus="0.0000027" errorplus="0.0000023">3.0678504</period>
 				<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.0346</semimajoraxis>
-				<eccentricity upperlimit="0.07" />
 				<inclination errorminus="0.12" errorplus="0.07">89.92</inclination>
 				<transittime errorminus="0.000052" errorplus="0.000067" unit="BJD">2456125.417512</transittime>
 				<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far.</description>
@@ -28890,7 +28884,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<transittime errorminus="0.0005" errorplus="0.0005" unit="HJD">2456157.9898</transittime>
 				<period errorminus="0.000003" errorplus="0.000003">2.705782</period>
 				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0447</semimajoraxis>
-				<eccentricity upperlimit="0.06" />
 				<inclination errorminus="1.9" errorplus="1.4">87.9</inclination>
 				<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -28929,7 +28922,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000070" errorplus="0.0000070">8.5234865</period>
 				<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2456286.10583</transittime>
 				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0771</semimajoraxis>
-				<eccentricity upperlimit="0.077" />
 				<inclination errorminus="0.05" errorplus="0.05">88.368</inclination>
 				<discoverymethod>transit</discoverymethod>
 				<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
@@ -28994,7 +28986,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.000003" errorplus="0.000003">3.916243</period>
 				<transittime errorminus="0.0005" errorplus="0.0005" unit="HJD">2456235.5639</transittime>
 				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0562</semimajoraxis>
-				<eccentricity upperlimit="0.5" />
 				<inclination errorminus="0.4" errorplus="0.4">82.1</inclination>
 				<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -29029,7 +29020,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000014" errorplus="0.0000014">2.1846730</period>
 				<transittime errorminus="0.00024" errorplus="0.00024" unit="HJD">2456338.45851</transittime>
 				<semimajoraxis errorminus="0.00083" errorplus="0.00083">0.03416</semimajoraxis>
-				<eccentricity upperlimit="0.04" />
 				<inclination errorminus="2.1" errorplus="1.2">88.4</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -29064,7 +29054,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000027" errorplus="0.0000027">3.4252602</period>
 				<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456258.0621</transittime>
 				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0453</semimajoraxis>
-				<eccentricity upperlimit="0.27" />
 				<inclination errorminus="0.2" errorplus="0.2">85.6</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -29099,7 +29088,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.000001" errorplus="0.000001">2.072760</period>
 				<transittime errorminus="0.00018" errorplus="0.00018" unit="HJD">2456438.18683</transittime>
 				<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.03303</semimajoraxis>
-				<eccentricity upperlimit="0.05" />
 				<inclination errorminus="1" errorplus="1.3">88</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -29120,7 +29108,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius errorminus="0.02" errorplus="0.02">0.7</radius>
 			<temperature errorminus="0.1" errorplus="0.1">5525</temperature>
 			<metallicity errorminus="0.19" errorplus="0.19">-0.60</metallicity>
-			<age lowerlimit="3" />
 			<spectraltype>G7</spectraltype>
 			<magV>13.0</magV>
 			<planet>
@@ -29134,7 +29121,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000013" errorplus="0.0000013">2.9626400</period>
 				<transittime errorminus="0.0001" errorplus="0.0001" unit="HJD">2456333.3913</transittime>
 				<semimajoraxis errorminus="0.001" errorplus="0.001">0.036</semimajoraxis>
-				<eccentricity upperlimit="0.24" />
 				<inclination errorminus="0.1" errorplus="0.1">86.3</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -29169,7 +29155,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.00004" errorplus="0.00004">5.75251</period>
 				<transittime errorminus="0.0014" errorplus="0.0014" unit="HJD">2456224.9824</transittime>
 				<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0717</semimajoraxis>
-				<eccentricity upperlimit="0.02" />
 				<inclination errorminus="1.1" errorplus="1.1">88.8</inclination>
 				<description>This is a hot Jupiter discovered by the WASP team.</description>
 				<discoverymethod>transit</discoverymethod>
