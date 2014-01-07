@@ -22701,8 +22701,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<planet>
 				<name>KOI-314 d</name>
 				<name>KOI-314 03</name>
-				<radius em="0.05" ep="0.062" unit="re">0.446</radius>
-				<period em="0.000061" ep="0.00006">10.312921</period>
+				<radius errorminus="0.05" errorplus="0.062">0.040644</radius>
+				<period errorminus="0.000061" errorplus="0.00006">10.312921</period>
 				<transittime errorminus="0.0036000" errorplus="0.0036000">2454966.5522000</transittime>
 				<semimajoraxis>0.0750000</semimajoraxis>
 				<temperature>491.0</temperature>
