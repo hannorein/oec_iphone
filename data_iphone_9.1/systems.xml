@@ -1,4 +1,4 @@
-<systems name="systems" planets="1024">
+<systems name="systems" planets="1025">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2120,7 +2120,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/07</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -6122,6 +6121,38 @@ Credit: Jonah Gallagher.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/06/04</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HATS-5</name>
+		<rightascension>04 28 53</rightascension>
+		<declination>-21 28 55</declination>
+		<distance errorminus="8" errorplus="8">257</distance>
+		<star>
+			<name>HATS-5</name>
+			<name>GSC 5897-00933</name>
+			<name>2MASS 04285348-2128548</name>
+			<mass errorminus="0.028" errorplus="0.028">0.936</mass>
+			<radius errorminus="0.023" errorplus="0.023">0.871</radius>
+			<temperature errorminus="50" errorplus="50">5304</temperature>
+			<age errorminus="1.9" errorplus="2.6">3.6</age>
+			<metallicity errorminus="0.08" errorplus="0.08">0.19</metallicity>
+			<planet>
+				<name>HATS-5</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.012" errorplus="0.012">0.237</mass>
+				<radius errorminus="0.025" errorplus="0.025">0.912</radius>
+				<temperature errorminus="17" errorplus="17">1025</temperature>
+				<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2456273.79068</transittime>
+				<period errorminus="0.00001" errorplus="0.00001">4.763387</period>
+				<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0542</semimajoraxis>
+				<inclination errorminus="0.3" errorplus="0.3">89.3</inclination>
+				<description>HATS-5 is a transiting Hot Saturn. It was discovered by the HAT-South survey. The bright and quiet G-type host star make this planet an ideal candidate for follow-up observations.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/01/09</lastupdate>
+				<new>1</new>
+				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
 	</system>
@@ -22678,7 +22709,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/07</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<new>1</new>
 				<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			</planet>
 			<planet>
@@ -22694,7 +22724,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<list>Confirmed planets</list>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/07</lastupdate>
-				<new>1</new>
 				<discoveryyear>2014</discoveryyear>
 				<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			</planet>
