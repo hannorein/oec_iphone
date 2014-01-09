@@ -1,4 +1,4 @@
-<planets date="2014-01-09" name="data" planets="1024">
+<planets date="2014-01-09" name="data" planets="1025">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2171,7 +2171,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/07</lastupdate>
 		<description>CoRoT-27b is a massive and dense planet on a short period orbit. It was discovered by the European space mission CoRoT.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -6171,6 +6170,36 @@ Credit: Jonah Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/06/04</lastupdate>
 		<description>HATS-3 b is a transiting exoplanet, discovered by HATSouth and confirmed with reconnaissance spectroscopy. HATSouth is a network of automated telescopes that is capable of year-round 24-hour monitoring of stars over the entire southern hemisphere of the sky. Because of the brightness of the host star, HATS-3 b is an interesting target for future observations to measure the Rossiter-McLaughlin effect and determine the spin-orbit alignment of the system.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-5</id_exoplaneteu>
+		<name>HATS-5</name>
+		<id>HATS-5</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.237</mass>
+			<radius>0.912</radius>
+			<orbit>
+				<period>4.763387</period>
+				<semimajoraxis>0.0542</semimajoraxis>
+				<inclination>89.3</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.936</mass>
+			<radius>0.871</radius>
+			<metallicity>0.19</metallicity>
+			<distance>257</distance>
+			<temperature>5304</temperature>
+			<rightascension>04 28 53</rightascension>
+			<declination>-21 28 55</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/01/09</lastupdate>
+		<description>HATS-5 is a transiting Hot Saturn. It was discovered by the HAT-South survey. The bright and quiet G-type host star make this planet an ideal candidate for follow-up observations.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -24210,7 +24239,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/07</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -24241,7 +24269,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/07</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
