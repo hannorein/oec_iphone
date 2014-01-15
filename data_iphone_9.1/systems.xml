@@ -1,4 +1,4 @@
-<systems name="systems" planets="1025">
+<systems name="systems" planets="1028">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -6153,7 +6153,6 @@ Credit: Jonah Gallagher.</imagedescription>
 				<description>HATS-5 is a transiting Hot Saturn. It was discovered by the HAT-South survey. The bright and quiet G-type host star make this planet an ideal candidate for follow-up observations.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/09</lastupdate>
-				<new>1</new>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
@@ -25324,6 +25323,37 @@ Credit: Thayne Currie.</imagedescription>
 		</binary>
 	</system>
 	<system>
+		<name>SAND364</name>
+		<rightascension>08 49 57</rightascension>
+		<declination>+11 41 33</declination>
+		<distance errorminus="50" errorplus="50">750</distance>
+		<star>
+			<name>SAND364</name>
+			<mass errorminus="0.05" errorplus="0.05">1.35</mass>
+			<radius errorminus="0.7" errorplus="0.7">21.8</radius>
+			<temperature errorminus="9" errorplus="9">4284</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">-0.02</metallicity>
+			<spectraltype>K3III</spectraltype>
+			<planet>
+				<name>SAND364 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.24" errorplus="0.24">1.54</mass>
+				<period errorminus="0.305" errorplus="0.305">121.710</period>
+				<eccentricity errorminus="0.08" errorplus="0.08">0.35</eccentricity>
+				<periastron errorminus="12.81" errorplus="12.81">273.51</periastron>
+				<description>The host star of SAND364 b is located in the old open star cluster Messier 67 (M67). There are few galactic clusters which are older and none of those are as close as M67. The survey conducted by European astronomers who found this planets leads to the conclusion that massive planets around stars of open clusters are as frequent as those around field stars.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/01/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<new>1</new>
+				<image>eso1402a</image>
+				<imagedescription>This artist's impression shows one of the three newly discovered planets in the star cluster Messier 67. In this cluster the stars are all about the same age and composition as the Sun. This makes it a perfect laboratory to study how many planets form in such a crowded environment. Very few planets in clusters are known and this one has the additional distinction of orbiting a solar twin - a star that is almost identical to the Sun in all respects.
+			
+Credit: ESO/L. Calcada</imagedescription>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>SR 12 AB</name>
 		<rightascension>16 27 20</rightascension>
 		<declination>-24 41 40</declination>
@@ -29527,6 +29557,60 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</planet>
 			<name>XO-5</name>
 			<temperature>5510.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>YBP1194</name>
+		<rightascension>08 51 01</rightascension>
+		<declination>+11 48 53</declination>
+		<distance errorminus="50" errorplus="50">850</distance>
+		<star>
+			<name>YBP1194</name>
+			<mass errorminus="0.01" errorplus="0.01">1.01</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.99</radius>
+			<temperature errorminus="27" errorplus="27">5780</temperature>
+			<metallicity errorminus="0.015" errorplus="0.015">0.023</metallicity>
+			<spectraltype>G5V</spectraltype>
+			<planet>
+				<name>YBP1194 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.05" errorplus="0.05">0.34</mass>
+				<period errorminus="0.001" errorplus="0.001">6.958</period>
+				<eccentricity errorminus="0.08" errorplus="0.08">0.24</eccentricity>
+				<periastron errorminus="25.68" errorplus="25.68">98.62</periastron>
+				<description>YBP1194 is one of the best solar twins identified so far. It is located the star cluster M67 and hosts a 0.34 Jupiter mass planet. The frequency of massive planets around stars of open clusters such as M67 turns out to be very similar to that of field stars.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/01/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>YBP1514</name>
+		<rightascension>08 51 01</rightascension>
+		<declination>+11 53 12</declination>
+		<distance errorminus="50" errorplus="50">750</distance>
+		<star>
+			<name>YBP1514</name>
+			<mass errorminus="0.01" errorplus="0.01">0.96</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.89</radius>
+			<temperature errorminus="45" errorplus="45">5725</temperature>
+			<metallicity errorminus="0.05" errorplus="0.05">0.03</metallicity>
+			<spectraltype>G5V</spectraltype>
+			<planet>
+				<name>YBP1514 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.11" errorplus="0.11">0.4</mass>
+				<period errorminus="0.001" errorplus="0.001">5.118</period>
+				<eccentricity errorminus="0.17" errorplus="0.17">0.39</eccentricity>
+				<periastron errorminus="16.05" errorplus="16.05">327.49</periastron>
+				<description>YBP1514 is a main sequence star in the open star cluster M67. It hosts a 0.4 Jupiter mass planet. The star cluster is between 3.2 and 5 billion years old and contains many stars with ages and compositions similar to that of our own Sun.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/01/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 </systems>
