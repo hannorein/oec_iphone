@@ -1,4 +1,4 @@
-<planets date="2014-01-15" name="data" planets="1028">
+<planets date="2014-01-22" name="data" planets="1029">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -5898,6 +5898,39 @@ Credit: Jonah Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/08/16</lastupdate>
 		<description>This planet was discovered by the HATNet transit survey. The RV data suggest there might be a second planet with an orbital period of 78 days in the system. However, more data is required to confirm its existance.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-49 b</id_exoplaneteu>
+		<name>HAT-P-49 b</name>
+		<name>GSC 2163-00549 b</name>
+		<name>2MASS 20214593+2641335 b</name>
+		<id>HAT-P-49 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.730</mass>
+			<radius>1.413</radius>
+			<orbit>
+				<semimajoraxis>0.0438</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.543</mass>
+			<radius>1.833</radius>
+			<metallicity>0.074</metallicity>
+			<distance>322</distance>
+			<temperature>6820</temperature>
+			<rightascension>20 21 46</rightascension>
+			<declination>-26 41 34</declination>
+			<magV>10.326</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/01/21</lastupdate>
+		<description>This planet was discovered by the HATNet transit survey. The planetary characteristics are consistent with that of a classical hot Jupiter. This system is an especially strong target for Rossiter-McLaughlin follow-up due to the host star's fast rotation.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -24735,7 +24768,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>KOI-55 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>0.014</mass>
+			<mass>0.0014</mass>
 			<radius>0.068</radius>
 			<orbit>
 				<period>0.2401</period>
@@ -27329,7 +27362,6 @@ Credit: Thayne Currie.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/14</lastupdate>
 		<description>The host star of SAND364 b is located in the old open star cluster Messier 67 (M67). There are few galactic clusters which are older and none of those are as close as M67. The survey was conducted by European astronomers. They found that massive planets around stars of open clusters are as frequent as those around field stars.</description>
-		<new>1</new>
 		<image>eso1402a</image>
 		<imagedescription>This artist's impression shows one of the three newly discovered planets in the star cluster Messier 67. In this cluster the stars are all about the same age and composition as the Sun. This makes it a perfect laboratory to study how many planets form in such a crowded environment. Very few planets in clusters are known and this one has the additional distinction of orbiting a solar twin - a star that is almost identical to the Sun in all respects.
 			
@@ -31124,7 +31156,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/14</lastupdate>
 		<description>The star YBP1194 is one of the best solar twins identified so far. Its composition and age is very similar to that of our own Sun. It is located in the star cluster M67 and hosts a 0.34 Jupiter mass planet. The frequency of massive planets around stars of open clusters such as M67 turns out to be very similar to that of field stars.</description>
-		<new>1</new>
 		<image>eso1402c</image>
 		<imagedescription>This wide-field image of the sky around the old open star cluster Messier 67 was created from images forming part of the Digitized Sky Survey 2. The cluster appears as a rich grouping of stars at the centre of the picture. Messier 67 contains stars that are all about the same age, and have the same chemical composition, as the Sun.
 			
@@ -31158,7 +31189,6 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/14</lastupdate>
 		<description>YBP1514 is a main sequence star in the open star cluster M67. It hosts a 0.4 Jupiter mass planet. The star cluster is between 3.2 and 5 billion years old and contains many stars with ages and compositions similar to that of our own Sun.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 </planets>
