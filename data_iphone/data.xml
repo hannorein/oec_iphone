@@ -1,4 +1,4 @@
-<planets date="2014-01-30" name="data" planets="1033">
+<planets date="2014-01-30" name="data" planets="1034">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4498,7 +4498,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>GOV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.133</mass>
 			<radius>1.115</radius>
 			<metallicity>0.13</metallicity>
@@ -5726,7 +5726,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius>1.528</radius>
 			<metallicity>0.27</metallicity>
 			<distance>447</distance>
-			<temperature>1427</temperature>
+			<temperature>5743</temperature>
 			<rightascension>09 01 22</rightascension>
 			<declination>+06 05 50</declination>
 			<magV>12.17</magV>
@@ -5759,7 +5759,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius>1.104</radius>
 			<metallicity>0.23</metallicity>
 			<distance>543</distance>
-			<temperature>1361</temperature>
+			<temperature>5645</temperature>
 			<rightascension>08 35 42</rightascension>
 			<declination>+10 12 24</declination>
 			<magV>13.36</magV>
@@ -7270,7 +7270,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>GOV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.01</mass>
 			<radius>1.02</radius>
 			<metallicity>0.1</metallicity>
@@ -11986,7 +11986,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KO</spectraltype>
+			<spectraltype>K0</spectraltype>
 			<mass>1.44</mass>
 			<radius>4.3</radius>
 			<metallicity>-0.15</metallicity>
@@ -12015,7 +12015,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KO</spectraltype>
+			<spectraltype>K0</spectraltype>
 			<mass>1.44</mass>
 			<radius>4.3</radius>
 			<metallicity>-0.15</metallicity>
@@ -16621,7 +16621,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KOIV/V</spectraltype>
+			<spectraltype>K0IV/V</spectraltype>
 			<mass>0.89</mass>
 			<radius>0.96</radius>
 			<metallicity>0.28</metallicity>
@@ -17061,7 +17061,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KOV</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.832</mass>
 			<radius>0.78</radius>
 			<metallicity>-0.15</metallicity>
@@ -19239,21 +19239,22 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>Kepler-10 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0143</mass>
-			<radius>0.127</radius>
+			<mass>0.0145</mass>
+			<radius>0.133</radius>
 			<orbit>
-				<period>0.837495</period>
-				<semimajoraxis>0.01684</semimajoraxis>
-				<inclination>84.4</inclination>
+				<period>0.8374912</period>
+				<semimajoraxis>0.01687</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.15</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.895</mass>
-			<radius>1.056</radius>
+			<mass>0.913</mass>
+			<radius>1.065</radius>
 			<metallicity>-0.15</metallicity>
 			<distance>173</distance>
-			<temperature>5627.0</temperature>
+			<temperature>5643</temperature>
 			<rightascension>19 02 43</rightascension>
 			<declination>+50 14 29</declination>
 			<magV>10.96</magV>
@@ -19271,20 +19272,20 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>Kepler-10 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.2029471</radius>
+			<radius>0.211422</radius>
 			<orbit>
-				<period>42.29485</period>
-				<semimajoraxis>0.2407</semimajoraxis>
-				<inclination>89.65</inclination>
+				<period>45.29427</period>
+				<semimajoraxis>0.2413</semimajoraxis>
+				<inclination>89.640</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.895</mass>
-			<radius>1.056</radius>
+			<mass>0.913</mass>
+			<radius>1.065</radius>
 			<metallicity>-0.15</metallicity>
 			<distance>173</distance>
-			<temperature>5627.0</temperature>
+			<temperature>5643</temperature>
 			<rightascension>19 02 43</rightascension>
 			<declination>+50 14 29</declination>
 			<magV>10.96</magV>
@@ -21181,6 +21182,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<mass>1.214</mass>
 			<radius>1.352</radius>
 			<distance>132</distance>
+			<temperature>6273</temperature>
 			<rightascension>18 52 36</rightascension>
 			<declination>+45 08 23</declination>
 		</star>
@@ -21223,7 +21225,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/29</lastupdate>
-		<description>Kepler-413 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
+		<description>Kepler-412 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
 		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -21827,27 +21829,29 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-56 b</id_exoplaneteu>
 		<name>Kepler-56 b</name>
 		<name>KOI 1241.02</name>
-		<name>KID 8150320</name>
+		<name>KID 8150320 b</name>
 		<id>Kepler-56 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.050285</mass>
-			<radius>0.349940</radius>
+			<mass>0.0695</mass>
+			<radius>0.593</radius>
 			<orbit>
-				<period>10.5034294</period>
+				<period>10.5016</period>
+				<semimajoraxis>0.1028</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.37</mass>
-			<radius>3.14</radius>
+			<mass>1.32</mass>
+			<radius>4.23</radius>
+			<metallicity>0.20</metallicity>
 			<distance>511.70</distance>
-			<temperature>4931.0</temperature>
+			<temperature>4840</temperature>
 			<rightascension>19 00 40</rightascension>
 			<declination>+44 01 35</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
+		<lastupdate>13/10/21</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -21855,28 +21859,58 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-56 c</id_exoplaneteu>
 		<name>Kepler-56 c</name>
 		<name>KOI 1241.01</name>
-		<name>KID 8150320</name>
+		<name>KID 8150320 c</name>
 		<id>Kepler-56 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.219356</mass>
-			<radius>0.715373</radius>
+			<mass>0.569</mass>
+			<radius>0.893</radius>
 			<orbit>
 				<period>21.4050484</period>
+				<semimajoraxis>0.1652</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.37</mass>
-			<radius>3.14</radius>
+			<mass>1.32</mass>
+			<radius>4.23</radius>
+			<metallicity>0.20</metallicity>
 			<distance>511.70</distance>
-			<temperature>4931.0</temperature>
+			<temperature>4840</temperature>
 			<rightascension>19 00 40</rightascension>
 			<declination>+44 01 35</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-56 d</id_exoplaneteu>
+		<name>Kepler-56 d</name>
+		<name>KOI 1241.01</name>
+		<name>KID 8150320 d</name>
+		<id>Kepler-56 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.3</mass>
+			<orbit>
+				<semimajoraxis>2.0</semimajoraxis>
+				<eccentricity>0.4</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.32</mass>
+			<radius>4.23</radius>
+			<metallicity>0.20</metallicity>
+			<distance>511.70</distance>
+			<temperature>4840</temperature>
+			<rightascension>19 00 40</rightascension>
+			<declination>+44 01 35</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/08/19</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23631,11 +23665,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.022</mass>
+			<mass>0.974</mass>
 			<radius>0.961</radius>
-			<metallicity>0.37</metallicity>
+			<metallicity>0.25</metallicity>
 			<distance>385</distance>
-			<temperature>5513</temperature>
+			<temperature>5460</temperature>
 			<rightascension>19 24 35</rightascension>
 			<declination>+40 40 09</declination>
 		</star>
@@ -23662,11 +23696,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.022</mass>
+			<mass>0.974</mass>
 			<radius>0.961</radius>
-			<metallicity>0.37</metallicity>
+			<metallicity>0.25</metallicity>
 			<distance>385</distance>
-			<temperature>5513</temperature>
+			<temperature>5460</temperature>
 			<rightascension>19 24 35</rightascension>
 			<declination>+40 40 09</declination>
 		</star>
@@ -24196,6 +24230,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius>0.55</radius>
 			<metallicity>0.13</metallicity>
 			<distance>333</distance>
+			<temperature>3820</temperature>
 			<rightascension>19 31 30</rightascension>
 			<declination>+41 03 51</declination>
 			<magV>16.88</magV>
@@ -27948,6 +27983,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.85</radius>
 			<metallicity>0.001</metallicity>
 			<distance>400</distance>
+			<temperature>5720</temperature>
 			<rightascension>17 52 07</rightascension>
 			<declination>+37 32 46</declination>
 			<magV>12.402</magV>

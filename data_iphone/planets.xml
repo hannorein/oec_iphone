@@ -6346,7 +6346,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>GOV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.133</mass>
 			<radius>1.115</radius>
 			<metallicity>0.13</metallicity>
@@ -8011,7 +8011,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius>1.528</radius>
 			<metallicity>0.27</metallicity>
 			<distance>447</distance>
-			<temperature>1427</temperature>
+			<temperature>5743</temperature>
 			<rightascension>09 01 22</rightascension>
 			<declination>+06 05 50</declination>
 			<angulardistance />
@@ -8055,7 +8055,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<radius>1.104</radius>
 			<metallicity>0.23</metallicity>
 			<distance>543</distance>
-			<temperature>1361</temperature>
+			<temperature>5645</temperature>
 			<rightascension>08 35 42</rightascension>
 			<declination>+10 12 24</declination>
 			<angulardistance />
@@ -10238,7 +10238,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>GOV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<mass>1.01</mass>
 			<radius>1.02</radius>
 			<metallicity>0.1</metallicity>
@@ -17207,7 +17207,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KO</spectraltype>
+			<spectraltype>K0</spectraltype>
 			<mass>1.44</mass>
 			<radius>4.3</radius>
 			<metallicity>-0.15</metallicity>
@@ -17250,7 +17250,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KO</spectraltype>
+			<spectraltype>K0</spectraltype>
 			<mass>1.44</mass>
 			<radius>4.3</radius>
 			<metallicity>-0.15</metallicity>
@@ -24086,7 +24086,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KOIV/V</spectraltype>
+			<spectraltype>K0IV/V</spectraltype>
 			<mass>0.89</mass>
 			<radius>0.96</radius>
 			<metallicity>0.28</metallicity>
@@ -24732,7 +24732,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>KOV</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<mass>0.832</mass>
 			<radius>0.78</radius>
 			<metallicity>-0.15</metallicity>
@@ -27895,13 +27895,13 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>Kepler-10 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0143</mass>
-			<radius>0.127</radius>
+			<mass>0.0145</mass>
+			<radius>0.133</radius>
 			<orbit>
-				<period>0.837495</period>
-				<semimajoraxis>0.01684</semimajoraxis>
-				<eccentricity />
-				<inclination>84.4</inclination>
+				<period>0.8374912</period>
+				<semimajoraxis>0.01687</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.15</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -27909,11 +27909,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.895</mass>
-			<radius>1.056</radius>
+			<mass>0.913</mass>
+			<radius>1.065</radius>
 			<metallicity>-0.15</metallicity>
 			<distance>173</distance>
-			<temperature>5627.0</temperature>
+			<temperature>5643</temperature>
 			<rightascension>19 02 43</rightascension>
 			<declination>+50 14 29</declination>
 			<angulardistance />
@@ -27941,12 +27941,12 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.2029471</radius>
+			<radius>0.211422</radius>
 			<orbit>
-				<period>42.29485</period>
-				<semimajoraxis>0.2407</semimajoraxis>
+				<period>45.29427</period>
+				<semimajoraxis>0.2413</semimajoraxis>
 				<eccentricity />
-				<inclination>89.65</inclination>
+				<inclination>89.640</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -27954,11 +27954,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.895</mass>
-			<radius>1.056</radius>
+			<mass>0.913</mass>
+			<radius>1.065</radius>
 			<metallicity>-0.15</metallicity>
 			<distance>173</distance>
-			<temperature>5627.0</temperature>
+			<temperature>5643</temperature>
 			<rightascension>19 02 43</rightascension>
 			<declination>+50 14 29</declination>
 			<angulardistance />
@@ -30646,7 +30646,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<radius>1.352</radius>
 			<metallicity />
 			<distance>132</distance>
-			<temperature />
+			<temperature>6273</temperature>
 			<rightascension>18 52 36</rightascension>
 			<declination>+45 08 23</declination>
 			<angulardistance />
@@ -30705,7 +30705,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/29</lastupdate>
-		<description>Kepler-413 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
+		<description>Kepler-412 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
 		<new>1</new>
 		<image />
 		<imagedescription />
@@ -31626,15 +31626,15 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-56 b</id_exoplaneteu>
 		<name>Kepler-56 b</name>
 		<name>KOI 1241.02</name>
-		<name>KID 8150320</name>
+		<name>KID 8150320 b</name>
 		<id>Kepler-56 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.050285</mass>
-			<radius>0.349940</radius>
+			<mass>0.0695</mass>
+			<radius>0.593</radius>
 			<orbit>
-				<period>10.5034294</period>
-				<semimajoraxis />
+				<period>10.5016</period>
+				<semimajoraxis>0.1028</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -31644,11 +31644,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.37</mass>
-			<radius>3.14</radius>
-			<metallicity />
+			<mass>1.32</mass>
+			<radius>4.23</radius>
+			<metallicity>0.20</metallicity>
 			<distance>511.70</distance>
-			<temperature>4931.0</temperature>
+			<temperature>4840</temperature>
 			<rightascension>19 00 40</rightascension>
 			<declination>+44 01 35</declination>
 			<angulardistance />
@@ -31658,9 +31658,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
+		<lastupdate>13/10/21</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature.</description>
 		<new />
 		<image />
@@ -31671,15 +31671,15 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-56 c</id_exoplaneteu>
 		<name>Kepler-56 c</name>
 		<name>KOI 1241.01</name>
-		<name>KID 8150320</name>
+		<name>KID 8150320 c</name>
 		<id>Kepler-56 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.219356</mass>
-			<radius>0.715373</radius>
+			<mass>0.569</mass>
+			<radius>0.893</radius>
 			<orbit>
 				<period>21.4050484</period>
-				<semimajoraxis />
+				<semimajoraxis>0.1652</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -31689,11 +31689,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.37</mass>
-			<radius>3.14</radius>
-			<metallicity />
+			<mass>1.32</mass>
+			<radius>4.23</radius>
+			<metallicity>0.20</metallicity>
 			<distance>511.70</distance>
-			<temperature>4931.0</temperature>
+			<temperature>4840</temperature>
 			<rightascension>19 00 40</rightascension>
 			<declination>+44 01 35</declination>
 			<angulardistance />
@@ -31703,10 +31703,55 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-56 d</id_exoplaneteu>
+		<name>Kepler-56 d</name>
+		<name>KOI 1241.01</name>
+		<name>KID 8150320 d</name>
+		<id>Kepler-56 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.3</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>2.0</semimajoraxis>
+				<eccentricity>0.4</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.32</mass>
+			<radius>4.23</radius>
+			<metallicity>0.20</metallicity>
+			<distance>511.70</distance>
+			<temperature>4840</temperature>
+			<rightascension>19 00 40</rightascension>
+			<declination>+44 01 35</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/08/19</lastupdate>
+		<description />
 		<new />
 		<image />
 		<imagedescription />
@@ -34344,11 +34389,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.022</mass>
+			<mass>0.974</mass>
 			<radius>0.961</radius>
-			<metallicity>0.37</metallicity>
+			<metallicity>0.25</metallicity>
 			<distance>385</distance>
-			<temperature>5513</temperature>
+			<temperature>5460</temperature>
 			<rightascension>19 24 35</rightascension>
 			<declination>+40 40 09</declination>
 			<angulardistance />
@@ -34387,11 +34432,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.022</mass>
+			<mass>0.974</mass>
 			<radius>0.961</radius>
-			<metallicity>0.37</metallicity>
+			<metallicity>0.25</metallicity>
 			<distance>385</distance>
-			<temperature>5513</temperature>
+			<temperature>5460</temperature>
 			<rightascension>19 24 35</rightascension>
 			<declination>+40 40 09</declination>
 			<angulardistance />
@@ -35230,7 +35275,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius>0.55</radius>
 			<metallicity>0.13</metallicity>
 			<distance>333</distance>
-			<temperature />
+			<temperature>3820</temperature>
 			<rightascension>19 31 30</rightascension>
 			<declination>+41 03 51</declination>
 			<angulardistance />
@@ -40960,7 +41005,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.85</radius>
 			<metallicity>0.001</metallicity>
 			<distance>400</distance>
-			<temperature />
+			<temperature>5720</temperature>
 			<rightascension>17 52 07</rightascension>
 			<declination>+37 32 46</declination>
 			<angulardistance />
