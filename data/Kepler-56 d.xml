@@ -1,17 +1,17 @@
 <planet>
-	<id_exoplaneteu>Kepler-56 c</id_exoplaneteu>
-	<name>Kepler-56 c</name>
+	<id_exoplaneteu>Kepler-56 d</id_exoplaneteu>
+	<name>Kepler-56 d</name>
 	<name>KOI 1241.01</name>
-	<name>KID 8150320 c</name>
-	<id>Kepler-56 c</id>
+	<name>KID 8150320 d</name>
+	<id>Kepler-56 d</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.569</mass>
-		<radius>0.893</radius>
+		<mass>3.3</mass>
+		<radius />
 		<orbit>
-			<period>21.4050484</period>
-			<semimajoraxis>0.1652</semimajoraxis>
-			<eccentricity />
+			<period />
+			<semimajoraxis>2.0</semimajoraxis>
+			<eccentricity>0.4</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -37,7 +37,7 @@
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
 	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
+	<description />
 	<new />
 	<image />
 	<imagedescription />
