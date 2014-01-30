@@ -1,4 +1,4 @@
-<systems name="systems" planets="1033">
+<systems name="systems" planets="1034">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -955,7 +955,7 @@
 				<mass>0.86</mass>
 				<radius>1.9</radius>
 				<temperature>5509</temperature>
-				<spectraltype>KOIV</spectraltype>
+				<spectraltype>K0IV</spectraltype>
 			</star>
 		</binary>
 	</system>
@@ -4267,7 +4267,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<magH errorminus="0.030" errorplus="0.030">8.923</magH>
 			<magK errorminus="0.018" errorplus="0.018">8.858</magK>
 			<metallicity>0.13</metallicity>
-			<spectraltype>GOV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<planet>
 				<name>HAT-P-1 b</name>
 				<name>BD+37 4734s b</name>
@@ -5602,6 +5602,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<age>5.1</age>
 			<metallicity>0.27</metallicity>
 			<spectraltype>G</spectraltype>
+			<temperature>5743</temperature>
 			<planet>
 				<name>HAT-P-42 b</name>
 				<name>2MASS 09012265+0605500 b</name>
@@ -5640,6 +5641,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<age>5.7</age>
 			<metallicity>0.23</metallicity>
 			<spectraltype>F</spectraltype>
+			<temperature>5645</temperature>
 			<planet>
 				<name>HAT-P-43 b</name>
 				<name>2MASS 08354217+1012239 b</name>
@@ -7123,7 +7125,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<magH errorminus="0.020" errorplus="0.020">7.296</magH>
 			<magK errorminus="0.023" errorplus="0.023">7.216</magK>
 			<metallicity>0.1</metallicity>
-			<spectraltype>GOV</spectraltype>
+			<spectraltype>G0V</spectraltype>
 			<planet>
 				<name>HD 109246 b</name>
 				<list>Confirmed planets</list>
@@ -11681,7 +11683,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<magH errorminus="0.036" errorplus="0.036">4.459</magH>
 			<magK errorminus="0.015" errorplus="0.015">4.286</magK>
 			<metallicity>-0.15</metallicity>
-			<spectraltype>KO</spectraltype>
+			<spectraltype>K0</spectraltype>
 			<planet>
 				<name>HD 200964 b</name>
 				<list>Confirmed planets</list>
@@ -16020,7 +16022,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<magH errorminus="0.029" errorplus="0.029">6.329</magH>
 			<magK errorminus="0.018" errorplus="0.018">6.229</magK>
 			<metallicity>0.28</metallicity>
-			<spectraltype>KOIV/V</spectraltype>
+			<spectraltype>K0IV/V</spectraltype>
 			<planet>
 				<name>HD 7199 b</name>
 				<list>Confirmed planets</list>
@@ -16428,7 +16430,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<magH errorminus="0.033" errorplus="0.033">5.231</magH>
 			<magK errorminus="0.020" errorplus="0.020">5.159</magK>
 			<metallicity>-0.15</metallicity>
-			<spectraltype>KOV</spectraltype>
+			<spectraltype>K0V</spectraltype>
 			<planet>
 				<name>HD 7924 b</name>
 				<list>Confirmed planets</list>
@@ -18577,27 +18579,28 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<distance errorminus="27" errorplus="27">173</distance>
 		<star>
 			<name>Kepler-10</name>
-			<temperature errorminus="44" errorplus="44">5627.0</temperature>
-			<mass errorminus="0.060" errorplus="0.060">0.895</mass>
-			<radius errorminus="0.021" errorplus="0.021">1.056</radius>
+			<temperature errorminus="75" errorplus="75">5643</temperature>
+			<mass errorminus="0.022" errorplus="0.022">0.913</mass>
+			<radius errorminus="0.009" errorplus="0.009">1.065</radius>
 			<magV>10.96</magV>
 			<magR errorminus="0.04" errorplus="0.04">11.00</magR>
 			<magJ errorminus="0.022" errorplus="0.022">9.889</magJ>
 			<magH errorminus="0.025" errorplus="0.025">9.563</magH>
 			<magK errorminus="0.021" errorplus="0.021">9.496</magK>
-			<metallicity errorminus="0.04" errorplus="0.04">-0.15</metallicity>
+			<metallicity errorminus="0.07" errorplus="0.07">-0.15</metallicity>
 			<spectraltype>G</spectraltype>
-			<age errorminus="4.5" errorplus="4.5">11.9</age>
+			<age errorminus="1.36" errorplus="1.36">10.41</age>
 			<planet>
 				<name>Kepler-10 b</name>
 				<name>KIC 11904151 b</name>
 				<name>2MASS J19024305+5014286 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.0143</mass>
-				<radius>0.127</radius>
-				<period>0.837495</period>
-				<semimajoraxis>0.01684</semimajoraxis>
-				<inclination>84.4</inclination>
+				<mass>0.0145</mass>
+				<radius>0.133</radius>
+				<period errorminus="0.0000003" errorplus="0.0000003">0.8374912</period>
+				<semimajoraxis errorminus="0.00014" errorplus="0.00014">0.01687</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="0.18" errorplus="0.17">84.15</inclination>
 				<transittime errorminus="0.00082" errorplus="0.00060" unit="BJD">2454964.57375</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/05/24</lastupdate>
@@ -18609,10 +18612,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 11904151 c</name>
 				<name>2MASS J19024305+5014286 c</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.0052" errorplus="0.0047">0.2029471</radius>
-				<period errorminus="0.00076" errorplus="0.00065">42.29485</period>
-				<semimajoraxis errorminus="0.0053" errorplus="0.0044">0.2407</semimajoraxis>
-				<inclination errorminus="0.12" errorplus="0.09">89.65</inclination>
+				<mass upperlimit="0.062914013" />
+				<radius errorminus="0.002734" errorplus="0.002734">0.211422</radius>
+				<period errorminus="0.00012" errorplus="0.00012">45.29427</period>
+				<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.2413</semimajoraxis>
+				<inclination errorminus="0.017" errorplus="0.023">89.640</inclination>
 				<transittime errorminus="0.0023" errorplus="0.0020" unit="HJD">2454971.6761</transittime>
 				<description>This planet was confirmed using infrared observations from Spitzer. It is highly unlikely (0.002%) that Kepler-10 c is a false positive. The planet is so close to its host star that it can not sustain liquid water on its surface. It is therefore most likely not habitable and a scorched, molten Earth.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -20227,6 +20231,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<mass errorminus="0.033" errorplus="0.033">1.214</mass>
 				<radius errorminus="0.010" errorplus="0.010">1.352</radius>
 				<age errorminus="0.54" errorplus="0.54">2.76</age>
+				<temperature errorminus="140" errorplus="140">6273</temperature>
 				<planet>
 					<name>Kepler-410 A b</name>
 					<name>Kepler-410 b</name>
@@ -20292,8 +20297,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/29</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<description>Kepler-413 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
 				<new>1</new>
+				<description>Kepler-412 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
 			</planet>
 		</star>
 	</system>
@@ -20818,38 +20823,54 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<magJ errorminus="0.020" errorplus="0.020">10.813</magJ>
 			<magH errorminus="0.020" errorplus="0.020">10.330</magH>
 			<magK errorminus="0.018" errorplus="0.018">10.227</magK>
-			<mass>1.37</mass>
-			<radius>3.14</radius>
+			<mass errorminus="0.13" errorplus="0.13">1.32</mass>
+			<radius errorminus="0.15" errorplus="0.15">4.23</radius>
+			<metallicity errorminus="0.16" errorplus="0.16">0.20</metallicity>
+			<age errorminus="1.3" errorplus="1.3">3.5</age>
+			<temperature errorminus="97" errorplus="97">4840</temperature>
 			<planet>
 				<name>Kepler-56 b</name>
 				<name>KOI 1241.02</name>
-				<name>KID 8150320</name>
+				<name>KID 8150320 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.050285</mass>
-				<radius>0.349940</radius>
-				<period>10.5034294</period>
-				<transittime errorminus="0.0088" errorplus="0.0088" unit="BJD">2455068.55893</transittime>
+				<mass>0.0695</mass>
+				<radius>0.593</radius>
+				<period errorminus="0.0010" errorplus="0.0011">10.5016</period>
+				<transittime errorminus="0.0057" errorplus="0.0056" unit="BJD">2454978.2556</transittime>
 				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature.</description>
+				<semimajoraxis errorminus="0.0037" errorplus="0.0037">0.1028</semimajoraxis>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/08/19</lastupdate>
+				<lastupdate>13/10/21</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
 			<planet>
 				<name>Kepler-56 c</name>
 				<name>KOI 1241.01</name>
-				<name>KID 8150320</name>
+				<name>KID 8150320 c</name>
 				<list>Confirmed planets</list>
-				<mass>0.219356</mass>
-				<radius>0.715373</radius>
-				<period>21.4050484</period>
-				<transittime errorminus="0.0061" errorplus="0.0061" unit="BJD">2455080.0928</transittime>
+				<mass>0.569</mass>
+				<radius>0.893</radius>
+				<period errorminus="0.00062" errorplus="0.00059">21.4050484</period>
+				<transittime errorminus="0.0055" errorplus="0.0057" unit="BJD">2454978.6560</transittime>
 				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
+				<semimajoraxis errorminus="0.0059" errorplus="0.0059">0.1652</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>12/08/19</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+			</planet>
+			<planet>
+				<name>Kepler-56 d</name>
+				<name>KOI 1241.01</name>
+				<name>KID 8150320 d</name>
+				<list>Confirmed planets</list>
+				<mass>3.3</mass>
+				<eccentricity>0.4</eccentricity>
+				<semimajoraxis>2.0</semimajoraxis>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/08/19</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
 			<name>Kepler-56</name>
-			<temperature>4931.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -22215,14 +22236,14 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<distance errorminus="20" errorplus="16">385</distance>
 		<star>
 			<name>KOI-142</name>
-			<mass>1.022</mass>
-			<age>2.45</age>
+			<mass errorminus="0.038" errorplus="0.038">0.974</mass>
+			<age errorminus="2.0" errorplus="3.2">3.0</age>
 			<radius>0.961</radius>
-			<temperature>5513</temperature>
+			<temperature errorminus="70" errorplus="70">5460</temperature>
 			<magJ errorminus="0.020" errorplus="0.020">11.882</magJ>
 			<magH errorminus="0.019" errorplus="0.019">11.517</magH>
 			<magK errorminus="0.019" errorplus="0.019">11.454</magK>
-			<metallicity>0.37</metallicity>
+			<metallicity errorminus="0.09" errorplus="0.09">0.25</metallicity>
 			<planet>
 				<name>KOI-142 b</name>
 				<list>Confirmed planets</list>
@@ -22683,26 +22704,28 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<declination>+41 03 51</declination>
 		<distance>333</distance>
 		<star>
-			<mass>0.59</mass>
-			<radius>0.55</radius>
+			<mass errorminus="0.06" errorplus="0.06">0.59</mass>
+			<radius errorminus="0.11" errorplus="0.11">0.55</radius>
 			<magV errorminus="0.05" errorplus="0.05">16.88</magV>
 			<magR>16.63</magR>
 			<magJ errorminus="0.024" errorplus="0.024">13.749</magJ>
 			<magH errorminus="0.025" errorplus="0.025">13.077</magH>
 			<magK errorminus="0.03" errorplus="0.03">12.89</magK>
-			<metallicity>0.13</metallicity>
+			<metallicity errorminus="0.13" errorplus="0.13">0.13</metallicity>
 			<spectraltype>M</spectraltype>
+			<temperature errorminus="90" errorplus="90">3820</temperature>
 			<planet>
 				<name>KOI-254 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.505</mass>
-				<radius>0.96</radius>
+				<mass errorminus="0.090" errorplus="0.090">0.505</mass>
+				<radius errorminus="0.11" errorplus="0.11">0.96</radius>
 				<period>2.455239</period>
 				<semimajoraxis>0.027</semimajoraxis>
 				<eccentricity>0.11</eccentricity>
 				<inclination>87</inclination>
 				<transittime errorminus="0.000031" errorplus="0.000031" unit="BJD">2455160.956396</transittime>
 				<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
+				<temperature errorminus="20" errorplus="20">1000</temperature>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/12/03</lastupdate>
 				<discoveryyear>2011</discoveryyear>
@@ -26273,6 +26296,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magK errorminus="0.028" errorplus="0.028">10.608</magK>
 			<metallicity>0.001</metallicity>
 			<spectraltype>K0V</spectraltype>
+			<temperature errorminus="150" errorplus="150">5720</temperature>
 			<planet>
 				<name>TrES-3 b</name>
 				<name>2MASS J17520702+3732461</name>
@@ -26280,9 +26304,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<mass>1.91</mass>
 				<radius>1.305</radius>
 				<period>1.30618608</period>
-				<semimajoraxis>0.0226</semimajoraxis>
+				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0226</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>82.15</inclination>
+				<inclination errorminus="0.21" errorplus="0.21">82.15</inclination>
 				<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455358.86636</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>10/12/13</lastupdate>
@@ -28909,6 +28933,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<radius errorminus="0.089" errorplus="0.064">1.215</radius>
 				<metallicity errorminus="0.063" errorplus="0.063">-0.006</metallicity>
 				<spectraltype>G4</spectraltype>
+				<temperature errorminus="80" errorplus="80">5700</temperature>
 				<age errorminus="0.5" errorplus="0.5">9.5</age>
 				<planet>
 					<name>WASP-70A b</name>
