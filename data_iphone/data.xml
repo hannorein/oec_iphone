@@ -1,4 +1,4 @@
-<planets date="2014-01-30" name="data" planets="1034">
+<planets date="2014-02-07" name="data" planets="1034">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4605,7 +4605,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<spectraltype>G4</spectraltype>
 			<mass>1.22</mass>
 			<radius>1.56</radius>
-			<metallicity>0.43</metallicity>
+			<metallicity>0.41</metallicity>
 			<distance>214</distance>
 			<temperature>1504.3</temperature>
 			<rightascension>08 39 32</rightascension>
@@ -4637,7 +4637,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<spectraltype>G4</spectraltype>
 			<mass>1.22</mass>
 			<radius>1.56</radius>
-			<metallicity>0.43</metallicity>
+			<metallicity>0.41</metallicity>
 			<distance>214</distance>
 			<temperature>1504.3</temperature>
 			<rightascension>08 39 32</rightascension>
@@ -4646,7 +4646,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>13/05/29</lastupdate>
+		<lastupdate>14/02/02</lastupdate>
 		<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -5795,7 +5795,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>5295</temperature>
 			<rightascension>14 12 35</rightascension>
 			<declination>+47 00 53</declination>
-			<magV>5.34</magV>
+			<magV>13.212</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -5825,7 +5825,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>5295</temperature>
 			<rightascension>14 12 35</rightascension>
 			<declination>+47 00 53</declination>
-			<magV>5.34</magV>
+			<magV>13.212</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -5859,7 +5859,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>6330</temperature>
 			<rightascension>18 17 29</rightascension>
 			<declination>-03 22 52</declination>
-			<magV>3.75</magV>
+			<magV>12.794</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -5892,7 +5892,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>6120</temperature>
 			<rightascension>18 01 47</rightascension>
 			<declination>-02 58 15</declination>
-			<magV>3.79</magV>
+			<magV>11.936</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
@@ -21258,7 +21258,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/29</lastupdate>
-		<description>The planet Kepler-413 b is a circumbinary planet. Because of orbital precission, the inclination of the planet with respect to the sky plane changes and the planet often fails to transit. There are periods of hundreds of days with no transits. The next transit will not occur until 2020. The planet is at the inner edge of the extended habitable zone. Because of the complex orbital dynamics, the planet might undergo strong obliquity fluctuations with implications for seasonal cycles.</description>
+		<description>The planet Kepler-413 b is a circumbinary planet. Because of orbital precession, the inclination of the planet with respect to the sky plane changes and the planet often fails to transit. There are periods of hundreds of days with no transits. The next transit will not occur until 2020. The planet is at the inner edge of the extended habitable zone. Because of the complex orbital dynamics, the planet might undergo strong obliquity fluctuations with implications for seasonal cycles.</description>
 		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
@@ -28806,24 +28806,34 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-20 b</id_exoplaneteu>
 		<name>WASP-20 b</name>
+		<name>CD-24 102 b</name>
+		<name>2MASS J00203853-2356086 b</name>
 		<id>WASP-20 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.3</mass>
-			<radius>0.9</radius>
+			<mass>0.313</mass>
+			<radius>1.458</radius>
 			<orbit>
-				<period>4</period>
+				<period>4.8996285</period>
+				<semimajoraxis>0.06003</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.57</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.3</mass>
-			<radius>0.9</radius>
-			<temperature>5700.0</temperature>
+			<spectraltype>F9</spectraltype>
+			<mass>1.202</mass>
+			<radius>1.392</radius>
+			<metallicity>-0.009</metallicity>
+			<distance>210</distance>
+			<temperature>5950</temperature>
+			<rightascension>00 20 39</rightascension>
+			<declination>-23 56 08</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
-		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<lastupdate>14/02/07</lastupdate>
+		<description>This planet has been announced in 2011 at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -29027,29 +29037,30 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-28 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.91</mass>
-			<radius>1.12</radius>
+			<mass>0.907</mass>
+			<radius>1.213</radius>
 			<orbit>
-				<period>3.408821</period>
-				<semimajoraxis>0.0455</semimajoraxis>
-				<eccentricity>0.046</eccentricity>
-				<inclination>89.1</inclination>
+				<period>3.4088300</period>
+				<semimajoraxis>0.04469</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.61</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>F8-G0</spectraltype>
-			<mass>1.08</mass>
-			<radius>1.05</radius>
+			<spectraltype>F8</spectraltype>
+			<mass>1.021</mass>
+			<radius>1.094</radius>
 			<metallicity>-0.29</metallicity>
-			<distance>334</distance>
-			<temperature>1291.9</temperature>
+			<distance>410</distance>
+			<temperature>6150</temperature>
 			<rightascension>23 34 28</rightascension>
-			<declination>-01 34 48</declination>
+			<declination>-01 34 57</declination>
 			<magV>12</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/04/20</lastupdate>
+		<lastupdate>14/02/07</lastupdate>
+		<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
