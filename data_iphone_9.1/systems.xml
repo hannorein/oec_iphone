@@ -4382,7 +4382,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<magJ errorminus="0.018" errorplus="0.018">9.328</magJ>
 			<magH errorminus="0.017" errorplus="0.017">9.058</magH>
 			<magK errorminus="0.017" errorplus="0.017">8.975</magK>
-			<metallicity>0.43</metallicity>
+			<metallicity errorminus="0.08" errorplus="0.08">0.41</metallicity>
 			<spectraltype>G4</spectraltype>
 			<planet>
 				<name>HAT-P-13 b</name>
@@ -4414,7 +4414,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<transittime errorminus="1.8" errorplus="1.8" unit="BJD">2454870.4</transittime>
 				<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
+				<lastupdate>14/02/02</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<temperature>276.2</temperature>
 			</planet>
@@ -5673,7 +5673,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass errorminus="0.041" errorplus="0.041">0.939</mass>
 			<radius errorminus="0.055" errorplus="0.110">0.979</radius>
 			<temperature errorminus="100" errorplus="100">5295</temperature>
-			<magV errorminus="0.23" errorplus="0.23">5.34</magV>
+			<magV>13.212</magV>
 			<magB>13.2</magB>
 			<magR>12.83</magR>
 			<magJ errorminus="0.021" errorplus="0.021">11.729</magJ>
@@ -5727,7 +5727,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass errorminus="0.058" errorplus="0.058">1.259</mass>
 			<radius errorminus="0.072" errorplus="0.155">1.319</radius>
 			<temperature errorminus="100" errorplus="100">6330</temperature>
-			<magV errorminus="0.21" errorplus="0.21">3.75</magV>
+			<magV>12.794</magV>
 			<metallicity errorminus="0.1" errorplus="0.1">0.07</metallicity>
 			<age errorminus="0.8" errorplus="0.8">2</age>
 			<planet>
@@ -5763,7 +5763,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass errorminus="0.060" errorplus="0.095">1.284</mass>
 			<radius errorminus="0.136" errorplus="0.293">1.396</radius>
 			<temperature errorminus="100" errorplus="100">6120</temperature>
-			<magV errorminus="0.34" errorplus="0.34">3.79</magV>
+			<magV>11.936</magV>
 			<magB>12.9</magB>
 			<magR>11.62</magR>
 			<magJ errorminus="0.024" errorplus="0.024">10.330</magJ>
@@ -20338,7 +20338,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<inclination errorminus="0.113" errorplus="0.113">4.073</inclination>
 				<periastron errorminus="2.2" errorplus="2.2">94.6</periastron>
 				<longitude errorminus="0.08" errorplus="0.08">3.139</longitude>
-				<description>The planet Kepler-413 b is a circumbinary planet. Because of orbital precission, the inclination of the planet with respect to the sky plane changes and the planet often fails to transit. There are periods of hundreds of days with no transits. The next transit will not occur until 2020. The planet is at the inner edge of the extended habitable zone. Because of the complex orbital dynamics, the planet might undergo strong obliquity fluctuations with implications for seasonal cycles.</description>
+				<description>The planet Kepler-413 b is a circumbinary planet. Because of orbital precession, the inclination of the planet with respect to the sky plane changes and the planet often fails to transit. There are periods of hundreds of days with no transits. The next transit will not occur until 2020. The planet is at the inner edge of the extended habitable zone. Because of the complex orbital dynamics, the planet might undergo strong obliquity fluctuations with implications for seasonal cycles.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/29</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -26973,20 +26973,38 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-20</name>
+		<rightascension>00 20 39</rightascension>
+		<declination>-23 56 08</declination>
+		<distance errorminus="20" errorplus="20">210</distance>
 		<star>
+			<name>WASP-20</name>
+			<name>CD-24 102</name>
+			<name>2MASS J00203853-2356086</name>
+			<spectraltype>F9</spectraltype>
+			<age errorminus="1" errorplus="2">7</age>
+			<temperature errorminus="100" errorplus="100">5950</temperature>
+			<metallicity errorminus="0.061" errorplus="0.061">-0.009</metallicity>
+			<mass errorminus="0.04" errorplus="0.04">1.202</mass>
+			<radius errorminus="0.044" errorplus="0.044">1.392</radius>
 			<planet>
 				<name>WASP-20 b</name>
+				<name>CD-24 102 b</name>
+				<name>2MASS J00203853-2356086 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.3</mass>
-				<radius>0.9</radius>
-				<period>4</period>
-				<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+				<mass errorminus="0.018" errorplus="0.018">0.313</mass>
+				<radius errorminus="0.057" errorplus="0.057">1.458</radius>
+				<semimajoraxis errorminus="0.00067" errorplus="0.00067">0.06003</semimajoraxis>
+				<period errorminus="0.0000034" errorplus="0.0000034">4.8996285</period>
+				<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2455715.65562</transittime>
+				<inclination errorminus="0.22" errorplus="0.22">85.57</inclination>
+				<eccentricity>0</eccentricity>
+				<rossitermclaughlin errorminus="3.6" errorplus="3.6">8.1</rossitermclaughlin>
+				<temperature errorminus="32" errorplus="32">1379</temperature>
+				<description>This planet has been announced in 2011 at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>14/02/07</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
-			<name>WASP-20</name>
-			<temperature>5700.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -27210,37 +27228,40 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<system>
 		<name>WASP-28</name>
 		<rightascension>23 34 28</rightascension>
-		<declination>-01 34 48</declination>
-		<distance>334</distance>
+		<declination>-01 34 57</declination>
+		<distance errorminus="70" errorplus="70">410</distance>
 		<star>
-			<mass>1.08</mass>
-			<radius>1.05</radius>
+			<name>WASP-28</name>
+			<temperature errorminus="140" errorplus="140">6150</temperature>
+			<mass errorminus="0.05" errorplus="0.05">1.021</mass>
+			<radius errorminus="0.031" errorplus="0.031">1.094</radius>
 			<magV>12</magV>
 			<magB errorminus="0.42" errorplus="0.42">12.61</magB>
 			<magI errorminus="0.02" errorplus="0.02">11.47</magI>
 			<magJ errorminus="0.026" errorplus="0.026">11.078</magJ>
 			<magH errorminus="0.023" errorplus="0.023">10.762</magH>
 			<magK errorminus="0.024" errorplus="0.024">10.732</magK>
-			<metallicity>-0.29</metallicity>
-			<spectraltype>F8-G0</spectraltype>
+			<metallicity errorminus="0.1" errorplus="0.1">-0.29</metallicity>
+			<spectraltype>F8</spectraltype>
+			<age errorminus="2" errorplus="3">5</age>
 			<planet>
 				<name>WASP-28 b</name>
 				<name>2MASS J23342787-0134482 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.91</mass>
-				<radius>1.12</radius>
-				<period>3.408821</period>
-				<semimajoraxis>0.0455</semimajoraxis>
-				<eccentricity>0.046</eccentricity>
-				<inclination>89.1</inclination>
-				<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2455116.5573</transittime>
+				<mass errorminus="0.043" errorplus="0.043">0.907</mass>
+				<radius errorminus="0.042" errorplus="0.042">1.213</radius>
+				<period errorminus="0.000006" errorplus="0.000006">3.4088300</period>
+				<transittime errorminus="0.00031" errorplus="0.00031" unit="BJD">2455290.40519</transittime>
+				<semimajoraxis errorminus="0.00076" errorplus="0.00076">0.04469</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<rossitermclaughlin errorminus="18" errorplus="18">8</rossitermclaughlin>
+				<inclination errorminus="0.67" errorplus="0.67">88.61</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/04/20</lastupdate>
+				<lastupdate>14/02/07</lastupdate>
 				<discoveryyear>2010</discoveryyear>
-				<temperature>1291.9</temperature>
+				<temperature errorminus="37" errorplus="37">1468</temperature>
+				<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>
 			</planet>
-			<name>WASP-28</name>
-			<temperature>6100.0</temperature>
 		</star>
 	</system>
 	<system>
