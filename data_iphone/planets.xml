@@ -2090,7 +2090,7 @@
 			<spectraltype>G4 V</spectraltype>
 			<mass>0.99</mass>
 			<radius>1.71</radius>
-			<metallicity>0.5</metallicity>
+			<metallicity>0.382</metallicity>
 			<distance>66</distance>
 			<temperature>1451.5</temperature>
 			<rightascension>10 58 28</rightascension>
@@ -9464,7 +9464,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			<spectraltype>K0</spectraltype>
 			<mass>1.95</mass>
 			<radius>6.3</radius>
-			<metallicity>2.01</metallicity>
+			<metallicity>0.3</metallicity>
 			<distance>158</distance>
 			<temperature>376.0</temperature>
 			<rightascension>11 46 46</rightascension>
@@ -28991,7 +28991,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-23 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.8</mass>
+			<mass />
 			<radius>0.1731475</radius>
 			<orbit>
 				<period>7.1073</period>
@@ -29035,7 +29035,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-23 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.7</mass>
+			<mass />
 			<radius>0.2916169</radius>
 			<orbit>
 				<period>10.7421</period>
@@ -44316,7 +44316,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-69 b</id_exoplaneteu>
 		<name>WASP-69 b</name>
-		<name>2MASS 21000618&#8722;0505398 b</name>
+		<name>2MASS 21000618-0505398 b</name>
 		<id>WASP-69 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
