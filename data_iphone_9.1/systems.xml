@@ -1343,6 +1343,7 @@
 	</system>
 	<system>
 		<name>BD-10 3166</name>
+		<name>BD-10&#176;3166</name>
 		<rightascension>10 58 28</rightascension>
 		<declination>-10 46 13</declination>
 		<distance>66</distance>
@@ -1355,7 +1356,7 @@
 			<magJ errorminus="0.03" errorplus="0.03">8.61</magJ>
 			<magH errorminus="0.04" errorplus="0.04">8.30</magH>
 			<magK errorminus="0.026" errorplus="0.026">8.124</magK>
-			<metallicity>0.5</metallicity>
+			<metallicity>0.382</metallicity>
 			<spectraltype>G4 V</spectraltype>
 			<planet>
 				<name>BD-10 3166 b</name>
@@ -6576,7 +6577,7 @@ Credit: ESO/L. Calcada</imagedescription>
 			<magJ errorminus="0.020" errorplus="0.020">6.049</magJ>
 			<magH errorminus="0.027" errorplus="0.027">5.526</magH>
 			<magK errorminus="0.018" errorplus="0.018">5.402</magK>
-			<metallicity>2.01</metallicity>
+			<metallicity errorminus="0.03" errorplus="0.03">0.3</metallicity>
 			<spectraltype>K0</spectraltype>
 			<planet>
 				<name>HD 102329 b</name>
@@ -19290,7 +19291,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KOI 168.01</name>
 				<list>Confirmed planets</list>
 				<radius>0.1731475</radius>
-				<mass>0.8</mass>
+				<mass upperlimit="0.8" />
 				<period>7.1073</period>
 				<semimajoraxis>0.075</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit.</description>
@@ -19305,7 +19306,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KOI 168.02</name>
 				<list>Confirmed planets</list>
 				<radius>0.2916169</radius>
-				<mass>2.7</mass>
+				<mass upperlimit="2.7" />
 				<period>10.7421</period>
 				<semimajoraxis>0.099</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-23 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and should be considered an upper limit.</description>
@@ -19340,6 +19341,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KOI 1102.02</name>
 				<list>Confirmed planets</list>
 				<radius>0.21871271</radius>
+				<mass upperlimit="1.6" />
 				<period>8.1453</period>
 				<semimajoraxis>0.08</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
@@ -19354,6 +19356,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KOI 1102.01</name>
 				<list>Confirmed planets</list>
 				<radius>0.25516482</radius>
+				<mass upperlimit="1.6" />
 				<period>12.333</period>
 				<semimajoraxis>0.106</semimajoraxis>
 				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-24 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
@@ -28717,13 +28720,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-69</name>
-		<name>2MASS 21000618&#8722;0505398</name>
+		<name>2MASS 21000618-0505398</name>
 		<rightascension>21 00 06</rightascension>
 		<declination>-05 05 40</declination>
 		<distance errorminus="10" errorplus="10">50</distance>
 		<star>
 			<name>WASP-69</name>
-			<name>2MASS 21000618&#8722;0505398</name>
+			<name>2MASS 2100061-80505398</name>
 			<metallicity errorminus="0.08" errorplus="0.08">0.15</metallicity>
 			<spectraltype>K5</spectraltype>
 			<age>2</age>
@@ -28737,7 +28740,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magK errorminus="0.02" errorplus="0.02">7.46</magK>
 			<planet>
 				<name>WASP-69 b</name>
-				<name>2MASS 21000618&#8722;0505398 b</name>
+				<name>2MASS 21000618-0505398 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.017" errorplus="0.017">0.26</mass>
 				<radius errorminus="0.047" errorplus="0.047">1.057</radius>
