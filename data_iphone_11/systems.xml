@@ -1,4 +1,4 @@
-<systems name="systems" planets="1034">
+<systems name="systems" planets="1072">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -18628,6 +18628,320 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>Kepler-100</name>
+		<name>KOI-41</name>
+		<name>KIC 6521045</name>
+		<rightascension>19 25 33</rightascension>
+		<declination>+41 59 24</declination>
+		<distance>296.6</distance>
+		<star>
+			<name>Kepler-100</name>
+			<name>KOI-41</name>
+			<name>KIC 6521045</name>
+			<temperature errorminus="75" errorplus="75">5825</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">0.02</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.08</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.49</radius>
+			<age>6.46</age>
+			<planet>
+				<name>Kepler-100 c</name>
+				<name>KOI-41.01</name>
+				<name>KIC 6521045 c</name>
+				<period>12.8159</period>
+				<radius errorminus="0.004557" errorplus="0.004557">0.200487</radius>
+				<mass upperlimit="0.022177" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-100 b</name>
+				<name>KOI-41.02</name>
+				<name>KIC 6521045 b</name>
+				<period>6.88705</period>
+				<radius errorminus="0.003645" errorplus="0.003645">0.120292</radius>
+				<mass upperlimit="0.031457" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-100 d</name>
+				<name>KOI-41.03</name>
+				<name>KIC 6521045 d</name>
+				<period>35.3331</period>
+				<radius errorminus="0.004557" errorplus="0.004557">0.146720</radius>
+				<mass upperlimit="0.009437" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-102</name>
+		<name>KOI-82</name>
+		<name>KIC 10187017</name>
+		<rightascension>18 45 56</rightascension>
+		<declination>+47 12 28</declination>
+		<distance>119.3</distance>
+		<star>
+			<name>Kepler-102</name>
+			<name>KOI-82</name>
+			<name>KIC 10187017</name>
+			<temperature errorminus="74" errorplus="74">4903</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.08</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.80</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.74</radius>
+			<age>1.41</age>
+			<planet>
+				<name>Kepler-102 e</name>
+				<name>KOI-82.01</name>
+				<name>KIC 10187017 e</name>
+				<period>16.1457</period>
+				<radius errorminus="0.006379" errorplus="0.006379">0.202309</radius>
+				<mass upperlimit="0.036805" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-102 d</name>
+				<name>KOI-82.02</name>
+				<name>KIC 10187017 d</name>
+				<period>10.3117</period>
+				<radius errorminus="0.003645" errorplus="0.003645">0.107534</radius>
+				<mass upperlimit="0.020762" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-102 f</name>
+				<name>KOI-82.03</name>
+				<name>KIC 10187017 f</name>
+				<period>27.4536</period>
+				<radius errorminus="0.002734" errorplus="0.002734">0.080195</radius>
+				<mass upperlimit="0.016358" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-102 c</name>
+				<name>KOI-82.04</name>
+				<name>KIC 10187017 c</name>
+				<period>7.07142</period>
+				<radius errorminus="0.001823" errorplus="0.001823">0.052856</radius>
+				<mass upperlimit="0.009437" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-102 b</name>
+				<name>KOI-82.05</name>
+				<name>KIC 10187017 b</name>
+				<period>5.28696</period>
+				<radius errorminus="0.001823" errorplus="0.001823">0.042831</radius>
+				<mass upperlimit="0.013527" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-103</name>
+		<name>KOI-108</name>
+		<name>KIC 4914423</name>
+		<rightascension>19 15 56</rightascension>
+		<declination>+40 03 52</declination>
+		<distance>476.8</distance>
+		<star>
+			<name>Kepler-103</name>
+			<name>KOI-108</name>
+			<name>KIC 4914423</name>
+			<temperature errorminus="88" errorplus="88">5845</temperature>
+			<metallicity errorminus="0.11" errorplus="0.11">0.07</metallicity>
+			<mass errorminus="0.07" errorplus="0.07">1.09</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.44</radius>
+			<age>5.70</age>
+			<planet>
+				<name>Kepler-103 b</name>
+				<name>KOI-108.01</name>
+				<name>KIC 4914423 b</name>
+				<period>15.9654</period>
+				<radius errorminus="0.008202" errorplus="0.008202">0.307109</radius>
+				<mass upperlimit="0.094371" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-103 c</name>
+				<name>KOI-108.02</name>
+				<name>KIC 4914423 c</name>
+				<period>179.612</period>
+				<radius errorminus="0.012758" errorplus="0.012758">0.468410</radius>
+				<mass upperlimit="0.298842" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-106</name>
+		<name>KOI-116</name>
+		<name>KIC 8395660</name>
+		<rightascension>20 03 27</rightascension>
+		<declination>+44 20 15</declination>
+		<distance>453.9</distance>
+		<star>
+			<name>Kepler-106</name>
+			<name>KOI-116</name>
+			<name>KIC 8395660</name>
+			<temperature errorminus="114" errorplus="114">5858</temperature>
+			<metallicity errorminus="0.11" errorplus="0.11">-0.12</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.00</mass>
+			<radius errorminus="0.17" errorplus="0.17">1.04</radius>
+			<age>4.83</age>
+			<planet>
+				<name>Kepler-106 c</name>
+				<name>KOI-116.01</name>
+				<name>KIC 8395660 c</name>
+				<period>13.5708</period>
+				<radius errorminus="0.029162" errorplus="0.029162">0.227826</radius>
+				<mass upperlimit="0.059139" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-106 e</name>
+				<name>KOI-116.02</name>
+				<name>KIC 8395660 e</name>
+				<period>43.8445</period>
+				<radius errorminus="0.030073" errorplus="0.030073">0.233294</radius>
+				<mass upperlimit="0.078013" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-106 b</name>
+				<name>KOI-116.03</name>
+				<name>KIC 8395660 b</name>
+				<period>6.16486</period>
+				<radius errorminus="0.010024" errorplus="0.010024">0.074727</radius>
+				<mass upperlimit="0.016672" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-106 d</name>
+				<name>KOI-116.04</name>
+				<name>KIC 8395660 d</name>
+				<period>23.9802</period>
+				<radius errorminus="0.011847" errorplus="0.011847">0.086574</radius>
+				<mass upperlimit="0.025480" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-109</name>
+		<name>KOI-123</name>
+		<name>KIC 5094751</name>
+		<rightascension>19 21 34</rightascension>
+		<declination>+40 17 5</declination>
+		<distance>468.1</distance>
+		<star>
+			<name>Kepler-109</name>
+			<name>KOI-123</name>
+			<name>KIC 5094751</name>
+			<temperature errorminus="75" errorplus="75">5952</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">-0.08</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.04</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.32</radius>
+			<age>5.73</age>
+			<planet>
+				<name>Kepler-109 b</name>
+				<name>KOI-123.01</name>
+				<name>KIC 5094751 b</name>
+				<period>6.48163</period>
+				<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
+				<mass upperlimit="0.022964" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-109 c</name>
+				<name>KOI-123.02</name>
+				<name>KIC 5094751 c</name>
+				<period>21.2227</period>
+				<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
+				<mass upperlimit="0.068576" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>Kepler-11</name>
 		<rightascension>19 48 28</rightascension>
 		<declination>+41 54 33</declination>
@@ -18765,6 +19079,52 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>Kepler-113</name>
+		<name>KOI-153</name>
+		<name>KIC 12252424</name>
+		<rightascension>19 11 59</rightascension>
+		<declination>+50 56 39</declination>
+		<distance>255.9</distance>
+		<star>
+			<name>Kepler-113</name>
+			<name>KOI-153</name>
+			<name>KIC 12252424</name>
+			<temperature errorminus="74" errorplus="74">4725</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.05</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.75</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.69</radius>
+			<age>6.89</age>
+			<planet>
+				<name>Kepler-113 c</name>
+				<name>KOI-153.01</name>
+				<name>KIC 12252424 c</name>
+				<period>8.92507</period>
+				<radius errorminus="0.005468" errorplus="0.005468">0.198664</radius>
+				<mass upperlimit="0.027368" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-113 b</name>
+				<name>KOI-153.02</name>
+				<name>KIC 12252424 b</name>
+				<period>4.75400</period>
+				<radius errorminus="0.004557" errorplus="0.004557">0.165857</radius>
+				<mass upperlimit="0.062914" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>Kepler-12</name>
 		<rightascension>19 04 58</rightascension>
 		<declination>50 02 25</declination>
@@ -18801,6 +19161,52 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			</planet>
 			<name>Kepler-12</name>
 			<temperature>5947.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-131</name>
+		<name>KOI-283</name>
+		<name>KIC 5695396</name>
+		<rightascension>19 14 7</rightascension>
+		<declination>+40 56 32</declination>
+		<distance>226.3</distance>
+		<star>
+			<name>Kepler-131</name>
+			<name>KOI-283</name>
+			<name>KIC 5695396</name>
+			<temperature errorminus="74" errorplus="74">5685</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.12</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.02</mass>
+			<radius errorminus="0.10" errorplus="0.10">1.03</radius>
+			<age>3.66</age>
+			<planet>
+				<name>Kepler-131 b</name>
+				<name>KOI-283.01</name>
+				<name>KIC 5695396 b</name>
+				<period>16.0920</period>
+				<radius errorminus="0.018226" errorplus="0.018226">0.219624</radius>
+				<mass upperlimit="0.061027" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<new>1</new>
+				<discoverymethod>transit</discoverymethod>
+			</planet>
+			<planet>
+				<name>Kepler-131 c</name>
+				<name>KOI-283.02</name>
+				<name>KIC 5695396 c</name>
+				<period>25.5169</period>
+				<radius errorminus="0.006379" errorplus="0.006379">0.076549</radius>
+				<mass upperlimit="0.062914" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -19385,6 +19791,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magH errorminus="0.020" errorplus="0.020">9.532</magH>
 			<magK errorminus="0.017" errorplus="0.017">9.493</magK>
 			<spectraltype>F</spectraltype>
+			<temperature>6190.0</temperature>
 			<planet>
 				<name>Kepler-25 b</name>
 				<name>KIC 3231341 b</name>
@@ -19415,7 +19822,19 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<discoveryyear>2012</discoveryyear>
 				<temperature>959.7</temperature>
 			</planet>
-			<temperature>6190.0</temperature>
+			<planet>
+				<name>Kepler-25 d</name>
+				<name>KOI-244.10</name>
+				<name>KIC 4349452 d</name>
+				<period errorminus="2" errorplus="2">123</period>
+				<mass errorminus="0.043096" errorplus="0.043096">0.282798</mass>
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -20186,6 +20605,129 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<videolink>http://youtu.be/qJl9BeAPfhI</videolink>
 	</system>
 	<system>
+		<name>Kepler-406</name>
+		<name>KOI-321</name>
+		<name>KIC 8753657</name>
+		<rightascension>19 27 24</rightascension>
+		<declination>+44 58 5</declination>
+		<distance>353.6</distance>
+		<star>
+			<name>Kepler-406</name>
+			<name>KOI-321</name>
+			<name>KIC 8753657</name>
+			<temperature errorminus="75" errorplus="75">5538</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.18</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.07</mass>
+			<radius errorminus="0.02" errorplus="0.02">1.07</radius>
+			<age>5.84</age>
+			<planet>
+				<name>Kepler-406 b</name>
+				<name>KOI-321.01</name>
+				<name>KIC 8753657 b</name>
+				<period>2.42629</period>
+				<radius errorminus="0.002734" errorplus="0.002734">0.130316</radius>
+				<mass upperlimit="0.025480" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-406 c</name>
+				<name>KOI-321.02</name>
+				<name>KIC 8753657 c</name>
+				<period>4.62332</period>
+				<radius errorminus="0.002734" errorplus="0.002734">0.077461</radius>
+				<mass upperlimit="0.018874" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-407</name>
+		<name>KOI-1442</name>
+		<name>KIC 11600889</name>
+		<rightascension>19 04 9</rightascension>
+		<declination>+49 36 52</declination>
+		<distance>326.4</distance>
+		<star>
+			<name>Kepler-407</name>
+			<name>KOI-1442</name>
+			<name>KIC 11600889</name>
+			<temperature errorminus="75" errorplus="75">5476</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.33</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.00</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.01</radius>
+			<age>7.47</age>
+			<planet>
+				<name>Kepler-407 b</name>
+				<name>KOI-1442.01</name>
+				<name>KIC 11600889 b</name>
+				<period>0.669310</period>
+				<radius errorminus="0.001823" errorplus="0.001823">0.097509</radius>
+				<mass upperlimit="0.010066" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-407 c</name>
+				<name>KOI-1442.10</name>
+				<name>KIC 11600889 c</name>
+				<period errorminus="500" errorplus="500">3000</period>
+				<mass errorminus="6.291401" errorplus="6.291401">12.582803</mass>
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-409</name>
+		<name>KOI-1925</name>
+		<name>KIC 9955598</name>
+		<rightascension>19 34 43</rightascension>
+		<declination>+46 51 9</declination>
+		<distance>69.2</distance>
+		<star>
+			<name>Kepler-409</name>
+			<name>KOI-1925</name>
+			<name>KIC 9955598</name>
+			<temperature errorminus="75" errorplus="75">5460</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">0.08</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.92</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.89</radius>
+			<age>6.80</age>
+			<planet>
+				<name>Kepler-409 b</name>
+				<name>KOI-1925.01</name>
+				<name>KIC 9955598 b</name>
+				<period>68.9584</period>
+				<radius errorminus="0.002734" errorplus="0.002734">0.108445</radius>
+				<mass upperlimit="0.069205" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>Kepler-41</name>
 		<rightascension>19 38 03</rightascension>
 		<declination>48 58 54</declination>
@@ -20300,7 +20842,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/29</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<new>1</new>
 				<description>Kepler-412 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
 			</planet>
 		</star>
@@ -20345,7 +20886,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/01/29</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<new>1</new>
 				<list>Planets in binary systems, P-type</list>
 			</planet>
 		</binary>
@@ -20437,6 +20977,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<declination>+40 56 56</declination>
 		<distance>313.14</distance>
 		<star>
+			<name>Kepler-48</name>
+			<temperature>5190.0</temperature>
 			<magJ errorminus="0.024" errorplus="0.024">11.702</magJ>
 			<magH errorminus="0.026" errorplus="0.026">11.292</magH>
 			<magK errorminus="0.023" errorplus="0.023">11.221</magK>
@@ -20470,8 +21012,33 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<lastupdate>12/08/19</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
-			<name>Kepler-48</name>
-			<temperature>5190.0</temperature>
+			<planet>
+				<name>Kepler-48 d</name>
+				<name>KOI-148.03</name>
+				<name>KIC 5735762 d</name>
+				<period>42.8961</period>
+				<radius errorminus="0.010024" errorplus="0.010024">0.185906</radius>
+				<mass upperlimit="0.078643" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-48 e</name>
+				<name>KOI-148.10</name>
+				<name>KIC 5735762 e</name>
+				<period errorminus="8" errorplus="8">982</period>
+				<mass errorminus="0.078643" errorplus="0.078643">2.066725</mass>
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -21811,6 +22378,269 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/12/18</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-93</name>
+		<name>KOI-69</name>
+		<name>KIC 3544595</name>
+		<rightascension>19 25 40</rightascension>
+		<declination>+38 40 20</declination>
+		<distance>96.7</distance>
+		<star>
+			<name>Kepler-93</name>
+			<name>KOI-69</name>
+			<name>KIC 3544595</name>
+			<temperature errorminus="75" errorplus="75">5669</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">-0.18</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.91</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.92</radius>
+			<age>5.05</age>
+			<planet>
+				<name>Kepler-93 b</name>
+				<name>KOI-69.01</name>
+				<name>KIC 3544595 b</name>
+				<period>4.72674</period>
+				<radius errorminus="0.002734" errorplus="0.002734">0.136695</radius>
+				<mass upperlimit="0.019189" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-93 c</name>
+				<name>KOI-69.10</name>
+				<name>KIC 3544595 c</name>
+				<period lowerlimit="1460" />
+				<mass lowerlimit="3.000998" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-94</name>
+		<name>KOI-104</name>
+		<name>KIC 10318874</name>
+		<rightascension>18 44 47</rightascension>
+		<declination>+47 29 49</declination>
+		<distance>223.0</distance>
+		<star>
+			<name>Kepler-94</name>
+			<name>KOI-104</name>
+			<name>KIC 10318874</name>
+			<temperature errorminus="98" errorplus="98">4781</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.34</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.81</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.76</radius>
+			<age>1.41</age>
+			<planet>
+				<name>Kepler-94 b</name>
+				<name>KOI-104.01</name>
+				<name>KIC 10318874 b</name>
+				<period>2.50806</period>
+				<radius errorminus="0.013670" errorplus="0.013670">0.319867</radius>
+				<mass upperlimit="0.051904" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-94 c</name>
+				<name>KOI-104.10</name>
+				<name>KIC 10318874 c</name>
+				<period errorminus="3" errorplus="3">820.3</period>
+				<mass errorminus="0.629140" errorplus="0.629140">9.833460</mass>
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-95</name>
+		<name>KOI-122</name>
+		<name>KIC 8349582</name>
+		<rightascension>18 57 56</rightascension>
+		<declination>+44 23 52</declination>
+		<distance>456.3</distance>
+		<star>
+			<name>Kepler-95</name>
+			<name>KOI-122</name>
+			<name>KIC 8349582</name>
+			<temperature errorminus="74" errorplus="74">5699</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">0.30</metallicity>
+			<mass errorminus="0.08" errorplus="0.08">1.08</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.41</radius>
+			<age>5.63</age>
+			<planet>
+				<name>Kepler-95 b</name>
+				<name>KOI-122.01</name>
+				<name>KIC 8349582 b</name>
+				<period>11.5231</period>
+				<radius errorminus="0.008202" errorplus="0.008202">0.311666</radius>
+				<mass upperlimit="0.052533" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-96</name>
+		<name>KOI-261</name>
+		<name>KIC 5383248</name>
+		<rightascension>19 48 17</rightascension>
+		<declination>+40 31 30</declination>
+		<distance>128.0</distance>
+		<star>
+			<name>Kepler-96</name>
+			<name>KOI-261</name>
+			<name>KIC 5383248</name>
+			<temperature errorminus="73" errorplus="73">5690</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.04</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">1.00</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.02</radius>
+			<age>2.34</age>
+			<planet>
+				<name>Kepler-96 b</name>
+				<name>KOI-261.01</name>
+				<name>KIC 5383248 b</name>
+				<period>16.2385</period>
+				<radius errorminus="0.020049" errorplus="0.020049">0.243318</radius>
+				<mass upperlimit="0.037748" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-97</name>
+		<name>KOI-292</name>
+		<name>KIC 11075737</name>
+		<rightascension>19 09 18</rightascension>
+		<declination>+48 40 24</declination>
+		<distance>414.4</distance>
+		<star>
+			<name>Kepler-97</name>
+			<name>KOI-292</name>
+			<name>KIC 11075737</name>
+			<temperature errorminus="74" errorplus="74">5779</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">-0.20</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.94</mass>
+			<radius errorminus="0.09" errorplus="0.09">0.98</radius>
+			<age>8.42</age>
+			<planet>
+				<name>Kepler-97 b</name>
+				<name>KOI-292.01</name>
+				<name>KIC 11075737 b</name>
+				<period>2.58664</period>
+				<radius errorminus="0.011847" errorplus="0.011847">0.134873</radius>
+				<mass upperlimit="0.028626" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>Kepler-97 c</name>
+				<name>KOI-292.10</name>
+				<name>KIC 11075737 c</name>
+				<period lowerlimit="789" />
+				<list>Confirmed planets</list>
+				<mass lowerlimit="1.082121" />
+				<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-98</name>
+		<name>KOI-299</name>
+		<name>KIC 2692377</name>
+		<rightascension>19 02 39</rightascension>
+		<declination>+37 57 52</declination>
+		<distance>437.2</distance>
+		<star>
+			<name>Kepler-98</name>
+			<name>KOI-299</name>
+			<name>KIC 2692377</name>
+			<temperature errorminus="73" errorplus="73">5539</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.18</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.99</mass>
+			<radius errorminus="0.12" errorplus="0.12">1.11</radius>
+			<age>2.79</age>
+			<planet>
+				<name>Kepler-98 b</name>
+				<name>KOI-299.01</name>
+				<name>KIC 2692377 b</name>
+				<period>1.54168</period>
+				<radius errorminus="0.020049" errorplus="0.020049">0.181349</radius>
+				<mass upperlimit="0.020132" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-99</name>
+		<name>KOI-305</name>
+		<name>KIC 6063220</name>
+		<rightascension>19 49 25</rightascension>
+		<declination>+41 18 0</declination>
+		<distance>221.3</distance>
+		<star>
+			<name>Kepler-99</name>
+			<name>KOI-305</name>
+			<name>KIC 6063220</name>
+			<temperature errorminus="129" errorplus="129">4782</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">0.18</metallicity>
+			<mass errorminus="0.06" errorplus="0.06">0.79</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.73</radius>
+			<age>1.47</age>
+			<planet>
+				<name>Kepler-99 b</name>
+				<name>KOI-305.01</name>
+				<name>KIC 6063220 b</name>
+				<period>4.60358</period>
+				<radius errorminus="0.007290" errorplus="0.007290">0.134873</radius>
+				<mass upperlimit="0.030513" />
+				<list>Confirmed planets</list>
+				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/24</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<new>1</new>
 			</planet>
 		</star>
 	</system>
