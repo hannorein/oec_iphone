@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-409 b</id_exoplaneteu>
+	<name>Kepler-409 b</name>
+	<name>KOI-1925.01</name>
+	<name>KIC 9955598 b</name>
+	<id>Kepler-409 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.108445</radius>
+		<orbit>
+			<period>68.9584</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.92</mass>
+		<radius>0.89</radius>
+		<metallicity>0.08</metallicity>
+		<distance>69.2</distance>
+		<temperature>5460</temperature>
+		<rightascension>19 34 43</rightascension>
+		<declination>+46 51 9</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

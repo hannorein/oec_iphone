@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-100 d</id_exoplaneteu>
+	<name>Kepler-100 d</name>
+	<name>KOI-41.03</name>
+	<name>KIC 6521045 d</name>
+	<id>Kepler-100 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.146720</radius>
+		<orbit>
+			<period>35.3331</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.08</mass>
+		<radius>1.49</radius>
+		<metallicity>0.02</metallicity>
+		<distance>296.6</distance>
+		<temperature>5825</temperature>
+		<rightascension>19 25 33</rightascension>
+		<declination>+41 59 24</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

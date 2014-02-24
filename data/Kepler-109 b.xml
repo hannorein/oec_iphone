@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-109 b</id_exoplaneteu>
+	<name>Kepler-109 b</name>
+	<name>KOI-123.01</name>
+	<name>KIC 5094751 b</name>
+	<id>Kepler-109 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.215979</radius>
+		<orbit>
+			<period>6.48163</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.04</mass>
+		<radius>1.32</radius>
+		<metallicity>-0.08</metallicity>
+		<distance>468.1</distance>
+		<temperature>5952</temperature>
+		<rightascension>19 21 34</rightascension>
+		<declination>+40 17 5</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

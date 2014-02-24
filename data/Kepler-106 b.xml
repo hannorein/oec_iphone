@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-106 b</id_exoplaneteu>
+	<name>Kepler-106 b</name>
+	<name>KOI-116.03</name>
+	<name>KIC 8395660 b</name>
+	<id>Kepler-106 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.074727</radius>
+		<orbit>
+			<period>6.16486</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.00</mass>
+		<radius>1.04</radius>
+		<metallicity>-0.12</metallicity>
+		<distance>453.9</distance>
+		<temperature>5858</temperature>
+		<rightascension>20 03 27</rightascension>
+		<declination>+44 20 15</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

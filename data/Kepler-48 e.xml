@@ -1,15 +1,15 @@
 <planet>
-	<id_exoplaneteu>Kepler-48 c</id_exoplaneteu>
-	<name>Kepler-48 c</name>
-	<name>KOI 148.02</name>
-	<name>KID 5735762</name>
-	<id>Kepler-48 c</id>
-	<discoverymethod>transit</discoverymethod>
+	<id_exoplaneteu>Kepler-48 e</id_exoplaneteu>
+	<name>Kepler-48 e</name>
+	<name>KOI-148.10</name>
+	<name>KIC 5735762 e</name>
+	<id>Kepler-48 e</id>
+	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.033219</mass>
-		<radius>0.286149</radius>
+		<mass>2.066725</mass>
+		<radius />
 		<orbit>
-			<period>9.6739283</period>
+			<period>982</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -35,10 +35,10 @@
 		<magK />
 	</star>
 	<multiplicity>4</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 9.67 days for 3.5027 hours. Periodic transit timing variations confirm its planetary nature.</description>
-	<new />
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-95 b</id_exoplaneteu>
+	<name>Kepler-95 b</name>
+	<name>KOI-122.01</name>
+	<name>KIC 8349582 b</name>
+	<id>Kepler-95 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.311666</radius>
+		<orbit>
+			<period>11.5231</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.08</mass>
+		<radius>1.41</radius>
+		<metallicity>0.30</metallicity>
+		<distance>456.3</distance>
+		<temperature>5699</temperature>
+		<rightascension>18 57 56</rightascension>
+		<declination>+44 23 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

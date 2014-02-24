@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-96 b</id_exoplaneteu>
+	<name>Kepler-96 b</name>
+	<name>KOI-261.01</name>
+	<name>KIC 5383248 b</name>
+	<id>Kepler-96 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.243318</radius>
+		<orbit>
+			<period>16.2385</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.00</mass>
+		<radius>1.02</radius>
+		<metallicity>0.04</metallicity>
+		<distance>128.0</distance>
+		<temperature>5690</temperature>
+		<rightascension>19 48 17</rightascension>
+		<declination>+40 31 30</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

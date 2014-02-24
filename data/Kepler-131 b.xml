@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-131 b</id_exoplaneteu>
+	<name>Kepler-131 b</name>
+	<name>KOI-283.01</name>
+	<name>KIC 5695396 b</name>
+	<id>Kepler-131 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.219624</radius>
+		<orbit>
+			<period>16.0920</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.02</mass>
+		<radius>1.03</radius>
+		<metallicity>0.12</metallicity>
+		<distance>226.3</distance>
+		<temperature>5685</temperature>
+		<rightascension>19 14 7</rightascension>
+		<declination>+40 56 32</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
