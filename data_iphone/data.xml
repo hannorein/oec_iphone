@@ -1,4 +1,4 @@
-<planets date="2014-02-24" name="data" planets="1072">
+<planets date="2014-02-25" name="data" planets="1073">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -32252,6 +32252,41 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/10/04</lastupdate>
 		<description>The Hot Jupiter WTS-1 b is the first extrasolar planet found by the WFCAM Transit Survey. The observations were made at the 3.8-m United Kingdom Infrared Telescope and the Hobby-Eberly Telescope. The planet has one of the largest radius anomalies among the known Hot Jupiters its mass range.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WTS-2 b</id_exoplaneteu>
+		<name>WTS-2 b</name>
+		<name>2MASS 19345587+3648557 b</name>
+		<name>SDSS J193455.87+364855.6 b</name>
+		<name>WISE J193455.86+364855.6 b</name>
+		<name>KIC 1173581 b</name>
+		<id>WTS-2 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.12</mass>
+			<radius>1.363</radius>
+			<orbit>
+				<period>1.0187068</period>
+				<semimajoraxis>0.01855</semimajoraxis>
+				<inclination>83.55</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.82</mass>
+			<radius>0.752</radius>
+			<metallicity>0.2</metallicity>
+			<distance>1000</distance>
+			<temperature>5000</temperature>
+			<rightascension>19 34 56</rightascension>
+			<declination>+36 48 56</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/02/25</lastupdate>
+		<description>WTS-2 b is an unusually close hot Jupiter on a 1.02-day orbit around a K2V star. The planet is close to the tidal destruction radius of the star and has a predicted remaining lifetime of only 40 million years.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
