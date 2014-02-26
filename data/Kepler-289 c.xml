@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-289 c</id_exoplaneteu>
+	<name>Kepler-289 c</name>
+	<name>KOI-1353 c</name>
+	<name>KOI-1353.01</name>
+	<name>KIC 7303287 c</name>
+	<name>KIC 7303287.01</name>
+	<id>Kepler-289 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>1.18834</radius>
+		<orbit>
+			<period>125.866438</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1700</mass>
+		<radius>1.162</radius>
+		<metallicity />
+		<distance>853.02</distance>
+		<temperature>5930</temperature>
+		<rightascension>01 19 19</rightascension>
+		<declination>+42 52 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

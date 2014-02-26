@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-191 c</id_exoplaneteu>
+	<name>Kepler-191 c</name>
+	<name>KOI-582 c</name>
+	<name>KOI-582.02</name>
+	<name>KIC 9020160 c</name>
+	<name>KIC 9020160.02</name>
+	<id>Kepler-191 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.16950</radius>
+		<orbit>
+			<period>17.738506</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8280</mass>
+		<radius>0.789</radius>
+		<metallicity />
+		<distance>680.33</distance>
+		<temperature>5282</temperature>
+		<rightascension>01 17 38</rightascension>
+		<declination>+45 19 23</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

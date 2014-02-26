@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-383 b</id_exoplaneteu>
+	<name>Kepler-383 b</name>
+	<name>KOI-2413 b</name>
+	<name>KOI-2413.01</name>
+	<name>KIC 3234598 b</name>
+	<name>KIC 3234598.01</name>
+	<id>Kepler-383 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.12029</radius>
+		<orbit>
+			<period>12.904532</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6690</mass>
+		<radius>0.672</radius>
+		<metallicity />
+		<distance>519.82</distance>
+		<temperature>4710</temperature>
+		<rightascension>01 17 41</rightascension>
+		<declination>+38 21 47</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

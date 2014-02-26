@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-157 c</id_exoplaneteu>
+	<name>Kepler-157 c</name>
+	<name>KOI-442 c</name>
+	<name>KOI-442.01</name>
+	<name>KIC 3745690 c</name>
+	<name>KIC 3745690.01</name>
+	<id>Kepler-157 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20413</radius>
+		<orbit>
+			<period>13.540500</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0280</mass>
+		<radius>1.044</radius>
+		<metallicity />
+		<distance>742.16</distance>
+		<temperature>5774</temperature>
+		<rightascension>01 17 37</rightascension>
+		<declination>+38 52 32</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

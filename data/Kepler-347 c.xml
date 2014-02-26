@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-347 c</id_exoplaneteu>
+	<name>Kepler-347 c</name>
+	<name>KOI-1992 c</name>
+	<name>KOI-1992.02</name>
+	<name>KIC 11450414 c</name>
+	<name>KIC 11450414.02</name>
+	<id>Kepler-347 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.15948</radius>
+		<orbit>
+			<period>27.320871</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.005</radius>
+		<metallicity />
+		<distance>1004.99</distance>
+		<temperature>6088</temperature>
+		<rightascension>01 17 07</rightascension>
+		<declination>+49 18 20</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-159 c</id_exoplaneteu>
+	<name>Kepler-159 c</name>
+	<name>KOI-448 c</name>
+	<name>KOI-448.02</name>
+	<name>KIC 5640085 c</name>
+	<name>KIC 5640085.02</name>
+	<id>Kepler-159 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.31075</radius>
+		<orbit>
+			<period>43.595792</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6280</mass>
+		<radius>0.663</radius>
+		<metallicity />
+		<distance>457.70</distance>
+		<temperature>4625</temperature>
+		<rightascension>01 19 13</rightascension>
+		<declination>+40 52 07</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

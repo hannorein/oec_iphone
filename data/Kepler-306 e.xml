@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-306 e</id_exoplaneteu>
+	<name>Kepler-306 e</name>
+	<name>KOI-1567 e</name>
+	<name>KOI-1567.04</name>
+	<name>KIC 5438099 e</name>
+	<name>KIC 5438099.04</name>
+	<id>Kepler-306 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20687</radius>
+		<orbit>
+			<period>44.840975</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9300</mass>
+		<radius>0.719</radius>
+		<metallicity />
+		<distance>772.83</distance>
+		<temperature>4954</temperature>
+		<rightascension>01 16 56</rightascension>
+		<declination>+40 36 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

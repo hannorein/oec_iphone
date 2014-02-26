@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-311 c</id_exoplaneteu>
+	<name>Kepler-311 c</name>
+	<name>KOI-1608 c</name>
+	<name>KOI-1608.02</name>
+	<name>KIC 10055126 c</name>
+	<name>KIC 10055126.02</name>
+	<id>Kepler-311 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.13032</radius>
+		<orbit>
+			<period>19.738286</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.188</radius>
+		<metallicity />
+		<distance>803.71</distance>
+		<temperature>5905</temperature>
+		<rightascension>01 15 12</rightascension>
+		<declination>+47 05 07</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

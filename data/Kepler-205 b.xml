@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-205 b</id_exoplaneteu>
+	<name>Kepler-205 b</name>
+	<name>KOI-663 b</name>
+	<name>KOI-663.01</name>
+	<name>KIC 6425957 b</name>
+	<name>KIC 6425957.01</name>
+	<id>Kepler-205 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.13761</radius>
+		<orbit>
+			<period>2.755640</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5920</mass>
+		<radius>0.546</radius>
+		<metallicity />
+		<distance>172.98</distance>
+		<temperature>4321</temperature>
+		<rightascension>01 16 04</rightascension>
+		<declination>+41 51 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

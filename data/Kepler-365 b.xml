@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-365 b</id_exoplaneteu>
+	<name>Kepler-365 b</name>
+	<name>KOI-2163 b</name>
+	<name>KOI-2163.01</name>
+	<name>KIC 11358389 b</name>
+	<name>KIC 11358389.01</name>
+	<id>Kepler-365 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.18591</radius>
+		<orbit>
+			<period>10.664903</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.048</radius>
+		<metallicity />
+		<distance>1089.04</distance>
+		<temperature>6012</temperature>
+		<rightascension>01 18 50</rightascension>
+		<declination>+49 07 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

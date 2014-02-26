@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-245 d</id_exoplaneteu>
+	<name>Kepler-245 d</name>
+	<name>KOI-869 d</name>
+	<name>KOI-869.02</name>
+	<name>KIC 6948054 d</name>
+	<name>KIC 6948054.02</name>
+	<id>Kepler-245 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.27612</radius>
+		<orbit>
+			<period>36.277108</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7770</mass>
+		<radius>0.795</radius>
+		<metallicity />
+		<distance>919.92</distance>
+		<temperature>5100</temperature>
+		<rightascension>01 17 46</rightascension>
+		<declination>+42 26 10</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

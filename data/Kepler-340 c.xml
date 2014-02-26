@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-340 c</id_exoplaneteu>
+	<name>Kepler-340 c</name>
+	<name>KOI-1932 c</name>
+	<name>KOI-1932.01</name>
+	<name>KIC 5202905 c</name>
+	<name>KIC 5202905.01</name>
+	<id>Kepler-340 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.30711</radius>
+		<orbit>
+			<period>22.824669</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.850</radius>
+		<metallicity />
+		<distance>806.00</distance>
+		<temperature>6620</temperature>
+		<rightascension>01 18 54</rightascension>
+		<declination>+40 18 02</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

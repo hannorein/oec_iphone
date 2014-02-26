@@ -1,16 +1,18 @@
 <planet>
 	<id_exoplaneteu>Kepler-32 b</id_exoplaneteu>
 	<name>Kepler-32 b</name>
-	<name>KOI 952.01</name>
+	<name>KOI-952 b</name>
+	<name>KOI-952.01</name>
 	<name>KIC 9787239 b</name>
+	<name>KIC 9787239.01</name>
 	<id>Kepler-32 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.136695</radius>
+		<radius>0.19137</radius>
 		<orbit>
-			<period>0.7429</period>
-			<semimajoraxis>0.013</semimajoraxis>
+			<period>5.901263</period>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -24,7 +26,7 @@
 		<radius>0.53</radius>
 		<metallicity />
 		<distance>399</distance>
-		<temperature>559.9</temperature>
+		<temperature>3900.0</temperature>
 		<rightascension>19 51 22</rightascension>
 		<declination>+46 34 27</declination>
 		<angulardistance />
@@ -34,10 +36,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
+	<multiplicity>5</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/06</lastupdate>
-	<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least three other unconfirmed planets in the system.</description>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-214 b</id_exoplaneteu>
+	<name>Kepler-214 b</name>
+	<name>KOI-693 b</name>
+	<name>KOI-693.02</name>
+	<name>KIC 8738735 b</name>
+	<name>KIC 8738735.02</name>
+	<id>Kepler-214 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.23785</radius>
+		<orbit>
+			<period>15.660544</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1500</mass>
+		<radius>1.352</radius>
+		<metallicity />
+		<distance>1070.66</distance>
+		<temperature>6169</temperature>
+		<rightascension>01 15 56</rightascension>
+		<declination>+44 57 21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

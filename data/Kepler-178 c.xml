@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-178 c</id_exoplaneteu>
+	<name>Kepler-178 c</name>
+	<name>KOI-528 c</name>
+	<name>KOI-528.03</name>
+	<name>KIC 9941859 c</name>
+	<name>KIC 9941859.03</name>
+	<id>Kepler-178 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.26246</radius>
+		<orbit>
+			<period>20.552802</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8900</mass>
+		<radius>1.066</radius>
+		<metallicity />
+		<distance>963.58</distance>
+		<temperature>5676</temperature>
+		<rightascension>01 16 33</rightascension>
+		<declination>+46 53 47</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-256 c</id_exoplaneteu>
+	<name>Kepler-256 c</name>
+	<name>KOI-939 c</name>
+	<name>KOI-939.01</name>
+	<name>KIC 9466668 c</name>
+	<name>KIC 9466668.01</name>
+	<id>Kepler-256 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.19593</radius>
+		<orbit>
+			<period>3.388020</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0000</mass>
+		<radius>1.301</radius>
+		<metallicity />
+		<distance>1394.65</distance>
+		<temperature>5551</temperature>
+		<rightascension>01 18 01</rightascension>
+		<declination>+46 05 50</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-336 c</id_exoplaneteu>
+	<name>Kepler-336 c</name>
+	<name>KOI-1916 c</name>
+	<name>KOI-1916.02</name>
+	<name>KIC 6037581 c</name>
+	<name>KIC 6037581.02</name>
+	<id>Kepler-336 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.19137</radius>
+		<orbit>
+			<period>9.600001</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0570</mass>
+		<radius>1.304</radius>
+		<metallicity />
+		<distance>794.61</distance>
+		<temperature>5867</temperature>
+		<rightascension>01 17 23</rightascension>
+		<declination>+41 19 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

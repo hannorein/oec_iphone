@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-128 b</id_exoplaneteu>
+	<name>Kepler-128 b</name>
+	<name>KOI-274 b</name>
+	<name>KOI-274.01</name>
+	<name>KIC 8077137 b</name>
+	<name>KIC 8077137.01</name>
+	<id>Kepler-128 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.09406</mass>
+		<radius>0.10298</radius>
+		<orbit>
+			<period>15.090</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.17</mass>
+		<radius>1.55</radius>
+		<metallicity />
+		<distance>368.14</distance>
+		<temperature>6090.00</temperature>
+		<rightascension>18 49 58</rightascension>
+		<declination>+43 58 48</declination>
+		<angulardistance />
+		<magV>11.69</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/13</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

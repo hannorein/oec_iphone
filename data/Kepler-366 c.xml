@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-366 c</id_exoplaneteu>
+	<name>Kepler-366 c</name>
+	<name>KOI-2168 c</name>
+	<name>KOI-2168.02</name>
+	<name>KIC 11308499 c</name>
+	<name>KIC 11308499.02</name>
+	<id>Kepler-366 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.16312</radius>
+		<orbit>
+			<period>12.516160</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1000</mass>
+		<radius>1.048</radius>
+		<metallicity />
+		<distance>1268.38</distance>
+		<temperature>6209</temperature>
+		<rightascension>01 19 09</rightascension>
+		<declination>+49 05 03</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

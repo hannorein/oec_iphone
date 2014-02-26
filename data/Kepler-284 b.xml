@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-284 b</id_exoplaneteu>
+	<name>Kepler-284 b</name>
+	<name>KOI-1301 b</name>
+	<name>KOI-1301.01</name>
+	<name>KIC 10538176 b</name>
+	<name>KIC 10538176.01</name>
+	<id>Kepler-284 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20413</radius>
+		<orbit>
+			<period>12.699149</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9230</mass>
+		<radius>0.814</radius>
+		<metallicity />
+		<distance>1266.39</distance>
+		<temperature>5615</temperature>
+		<rightascension>01 18 10</rightascension>
+		<declination>+47 43 46</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

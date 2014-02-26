@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-400 b</id_exoplaneteu>
+	<name>Kepler-400 b</name>
+	<name>KOI-2711 b</name>
+	<name>KOI-2711.01</name>
+	<name>KIC 5272233 b</name>
+	<name>KIC 5272233.01</name>
+	<id>Kepler-400 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.15036</radius>
+		<orbit>
+			<period>9.024389</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0300</mass>
+		<radius>1.145</radius>
+		<metallicity />
+		<distance>716.62</distance>
+		<temperature>5886</temperature>
+		<rightascension>01 17 35</rightascension>
+		<declination>+40 28 48</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

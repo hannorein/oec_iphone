@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-250 b</id_exoplaneteu>
+	<name>Kepler-250 b</name>
+	<name>KOI-906 b</name>
+	<name>KOI-906.03</name>
+	<name>KIC 8226994 b</name>
+	<name>KIC 8226994.03</name>
+	<id>Kepler-250 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.10298</radius>
+		<orbit>
+			<period>4.148141</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7530</mass>
+		<radius>0.805</radius>
+		<metallicity />
+		<distance>894.42</distance>
+		<temperature>5160</temperature>
+		<rightascension>01 17 13</rightascension>
+		<declination>+44 08 31</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

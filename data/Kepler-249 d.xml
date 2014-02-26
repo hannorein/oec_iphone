@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-249 d</id_exoplaneteu>
+	<name>Kepler-249 d</name>
+	<name>KOI-899 d</name>
+	<name>KOI-899.03</name>
+	<name>KIC 7907423 d</name>
+	<name>KIC 7907423.03</name>
+	<id>Kepler-249 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.14307</radius>
+		<orbit>
+			<period>15.368459</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5060</mass>
+		<radius>0.482</radius>
+		<metallicity />
+		<distance>230.75</distance>
+		<temperature>3568</temperature>
+		<rightascension>01 19 11</rightascension>
+		<declination>+43 39 30</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-292 b</id_exoplaneteu>
+	<name>Kepler-292 b</name>
+	<name>KOI-1364 b</name>
+	<name>KOI-1364.05</name>
+	<name>KIC 6962977 b</name>
+	<name>KIC 6962977.05</name>
+	<id>Kepler-292 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.12029</radius>
+		<orbit>
+			<period>2.580827</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8340</mass>
+		<radius>0.826</radius>
+		<metallicity />
+		<distance>1216.22</distance>
+		<temperature>5299</temperature>
+		<rightascension>01 18 52</rightascension>
+		<declination>+42 25 27</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

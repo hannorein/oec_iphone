@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-146 c</id_exoplaneteu>
+	<name>Kepler-146 c</name>
+	<name>KOI-386 c</name>
+	<name>KOI-386.02</name>
+	<name>KIC 3656121 c</name>
+	<name>KIC 3656121.02</name>
+	<id>Kepler-146 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.28524</radius>
+		<orbit>
+			<period>76.732171</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0900</mass>
+		<radius>1.208</radius>
+		<metallicity />
+		<distance>844.99</distance>
+		<temperature>5948</temperature>
+		<rightascension>01 18 25</rightascension>
+		<declination>+38 42 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

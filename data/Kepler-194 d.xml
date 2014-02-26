@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-194 d</id_exoplaneteu>
+	<name>Kepler-194 d</name>
+	<name>KOI-597 d</name>
+	<name>KOI-597.03</name>
+	<name>KIC 10600261 d</name>
+	<name>KIC 10600261.03</name>
+	<id>Kepler-194 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.21871</radius>
+		<orbit>
+			<period>52.814973</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0530</mass>
+		<radius>1.025</radius>
+		<metallicity />
+		<distance>1233.85</distance>
+		<temperature>6089</temperature>
+		<rightascension>01 17 51</rightascension>
+		<declination>+47 51 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

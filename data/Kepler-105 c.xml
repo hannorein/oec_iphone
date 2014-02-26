@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-105 c</id_exoplaneteu>
+	<name>Kepler-105 c</name>
+	<name>KOI-115 c</name>
+	<name>KOI-115.02</name>
+	<name>KIC 9579641 c</name>
+	<name>KIC 9579641.02</name>
+	<id>Kepler-105 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.14672</radius>
+		<orbit>
+			<period>7.125939</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1800</mass>
+		<radius>1.160</radius>
+		<metallicity />
+		<distance>488.45</distance>
+		<temperature>5873</temperature>
+		<rightascension>01 16 46</rightascension>
+		<declination>+46 16 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

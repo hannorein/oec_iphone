@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-264 b</id_exoplaneteu>
+	<name>Kepler-264 b</name>
+	<name>KOI-1001 b</name>
+	<name>KOI-1001.01</name>
+	<name>KIC 1871056 b</name>
+	<name>KIC 1871056.01</name>
+	<id>Kepler-264 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.30346</radius>
+		<orbit>
+			<period>40.806231</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.3700</mass>
+		<radius>1.550</radius>
+		<metallicity />
+		<distance>804.00</distance>
+		<temperature>6158</temperature>
+		<rightascension>01 17 52</rightascension>
+		<declination>+37 22 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

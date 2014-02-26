@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-296 d</id_exoplaneteu>
+	<name>Kepler-296 d</name>
+	<name>KOI-1422 d</name>
+	<name>KOI-1422.02</name>
+	<name>KIC 11497958 d</name>
+	<name>KIC 11497958.02</name>
+	<id>Kepler-296 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20778</radius>
+		<orbit>
+			<period>19.850242</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5160</mass>
+		<radius>0.557</radius>
+		<metallicity />
+		<distance>518.89</distance>
+		<temperature>4249</temperature>
+		<rightascension>01 16 24</rightascension>
+		<declination>+49 26 14</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

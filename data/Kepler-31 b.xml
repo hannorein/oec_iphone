@@ -1,16 +1,18 @@
 <planet>
 	<id_exoplaneteu>Kepler-31 b</id_exoplaneteu>
 	<name>Kepler-31 b</name>
-	<name>KOI 935.01</name>
+	<name>KOI-935 b</name>
+	<name>KOI-935.01</name>
 	<name>KIC 9347899 b</name>
+	<name>KIC 9347899.01</name>
 	<id>Kepler-31 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.55</radius>
+		<radius>0.57868</radius>
 		<orbit>
-			<period>20.8613</period>
-			<semimajoraxis>0.16</semimajoraxis>
+			<period>20.860674</period>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -19,13 +21,13 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>F</spectraltype>
-		<mass>1.21</mass>
-		<radius>1.22</radius>
-		<metallicity>-0.076</metallicity>
-		<distance>1113</distance>
-		<temperature>771.9</temperature>
-		<rightascension>19 36 05</rightascension>
+		<spectraltype />
+		<mass>1.2080</mass>
+		<radius>1.306</radius>
+		<metallicity />
+		<distance>1790.60</distance>
+		<temperature>6034</temperature>
+		<rightascension>01 18 24</rightascension>
 		<declination>+45 51 11</declination>
 		<angulardistance />
 		<magV />
@@ -34,11 +36,11 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/06</lastupdate>
-	<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. There are at least two other unconfirmed planets in the system.</description>
-	<new />
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

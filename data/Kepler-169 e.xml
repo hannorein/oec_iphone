@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-169 e</id_exoplaneteu>
+	<name>Kepler-169 e</name>
+	<name>KOI-505 e</name>
+	<name>KOI-505.01</name>
+	<name>KIC 5689351 e</name>
+	<name>KIC 5689351.01</name>
+	<id>Kepler-169 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20049</radius>
+		<orbit>
+			<period>13.767102</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9180</mass>
+		<radius>0.763</radius>
+		<metallicity />
+		<distance>443.80</distance>
+		<temperature>4997</temperature>
+		<rightascension>01 16 15</rightascension>
+		<declination>+40 55 09</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

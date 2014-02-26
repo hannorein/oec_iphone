@@ -1,15 +1,17 @@
 <planet>
 	<id_exoplaneteu>Kepler-49 c</id_exoplaneteu>
 	<name>Kepler-49 c</name>
-	<name>KOI 248.02</name>
-	<name>KID 5364071</name>
+	<name>KOI-248 c</name>
+	<name>KOI-248.02</name>
+	<name>KIC 5364071 c</name>
+	<name>KIC 5364071.02</name>
 	<id>Kepler-49 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.021637</mass>
-		<radius>0.232382</radius>
+		<mass />
+		<radius>0.18773</radius>
 		<orbit>
-			<period>10.9129343</period>
+			<period>10.912732</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -20,12 +22,12 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.55</mass>
-		<radius>0.53</radius>
+		<mass>0.5490</mass>
+		<radius>0.559</radius>
 		<metallicity />
-		<distance>304.47</distance>
-		<temperature>3974.0</temperature>
-		<rightascension>19 29 10</rightascension>
+		<distance>385.34</distance>
+		<temperature>4252</temperature>
+		<rightascension>01 17 56</rightascension>
 		<declination>+40 35 30</declination>
 		<angulardistance />
 		<magV />
@@ -34,11 +36,11 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.91 days for 2.8577 hours. Periodic transit timing variations confirm its planetary nature.</description>
-	<new />
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

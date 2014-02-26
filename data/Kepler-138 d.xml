@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-138 d</id_exoplaneteu>
+	<name>Kepler-138 d</name>
+	<name>KOI-314 d</name>
+	<name>KOI-314.02</name>
+	<name>KIC 7603200 d</name>
+	<name>KIC 7603200.02</name>
+	<id>Kepler-138 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.13123</radius>
+		<orbit>
+			<period>23.088713</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5260</mass>
+		<radius>0.528</radius>
+		<metallicity />
+		<distance>114.07</distance>
+		<temperature>4079</temperature>
+		<rightascension>01 17 26</rightascension>
+		<declination>+43 17 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

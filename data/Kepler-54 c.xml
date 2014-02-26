@@ -1,15 +1,17 @@
 <planet>
 	<id_exoplaneteu>Kepler-54 c</id_exoplaneteu>
 	<name>Kepler-54 c</name>
-	<name>KOI 886.02</name>
-	<name>KID 7455287</name>
+	<name>KOI-886 c</name>
+	<name>KOI-886.02</name>
+	<name>KIC 7455287 c</name>
+	<name>KIC 7455287.02</name>
 	<id>Kepler-54 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.004819</mass>
-		<radius>0.112090</radius>
+		<mass />
+		<radius>0.15948</radius>
 		<orbit>
-			<period>12.0717249</period>
+			<period>12.072389</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -20,12 +22,12 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.51</mass>
-		<radius>0.5</radius>
+		<mass>0.5140</mass>
+		<radius>0.554</radius>
 		<metallicity />
-		<distance>326.56</distance>
-		<temperature>3705.0</temperature>
-		<rightascension>19 39 05</rightascension>
+		<distance>499.51</distance>
+		<temperature>4252</temperature>
+		<rightascension>01 18 36</rightascension>
 		<declination>+43 03 22</declination>
 		<angulardistance />
 		<magV />
@@ -34,11 +36,11 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 12.07 days for 4.9738 hours. Periodic transit timing variations confirm its planetary nature.</description>
-	<new />
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

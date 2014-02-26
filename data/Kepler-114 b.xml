@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-114 b</id_exoplaneteu>
+	<name>Kepler-114 b</name>
+	<name>KOI-156 b</name>
+	<name>KOI-156.02</name>
+	<name>KIC 10925104 b</name>
+	<name>KIC 10925104.02</name>
+	<id>Kepler-114 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.11482</radius>
+		<orbit>
+			<period>5.188549</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7090</mass>
+		<radius>0.667</radius>
+		<metallicity />
+		<distance>267.07</distance>
+		<temperature>4605</temperature>
+		<rightascension>01 18 25</rightascension>
+		<declination>+48 20 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

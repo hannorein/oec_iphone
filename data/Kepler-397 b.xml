@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-397 b</id_exoplaneteu>
+	<name>Kepler-397 b</name>
+	<name>KOI-2681 b</name>
+	<name>KOI-2681.02</name>
+	<name>KIC 6878240 b</name>
+	<name>KIC 6878240.02</name>
+	<id>Kepler-397 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.22418</radius>
+		<orbit>
+			<period>22.250949</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8440</mass>
+		<radius>0.767</radius>
+		<metallicity />
+		<distance>1153.82</distance>
+		<temperature>5307</temperature>
+		<rightascension>01 18 54</rightascension>
+		<declination>+42 22 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

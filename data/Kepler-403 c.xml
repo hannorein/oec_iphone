@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-403 c</id_exoplaneteu>
+	<name>Kepler-403 c</name>
+	<name>KOI-2732 c</name>
+	<name>KOI-2732.03</name>
+	<name>KIC 9886361 c</name>
+	<name>KIC 9886361.03</name>
+	<id>Kepler-403 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.15948</radius>
+		<orbit>
+			<period>54.280749</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.329</radius>
+		<metallicity />
+		<distance>605.63</distance>
+		<temperature>6090</temperature>
+		<rightascension>01 17 18</rightascension>
+		<declination>+46 44 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

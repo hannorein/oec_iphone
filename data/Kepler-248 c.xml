@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-248 c</id_exoplaneteu>
+	<name>Kepler-248 c</name>
+	<name>KOI-896 c</name>
+	<name>KOI-896.01</name>
+	<name>KIC 7825899 c</name>
+	<name>KIC 7825899.01</name>
+	<id>Kepler-248 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.37090</radius>
+		<orbit>
+			<period>16.239494</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.831</radius>
+		<metallicity />
+		<distance>851.10</distance>
+		<temperature>5190</temperature>
+		<rightascension>01 18 08</rightascension>
+		<declination>+43 34 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

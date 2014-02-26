@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-381 b</id_exoplaneteu>
+	<name>Kepler-381 b</name>
+	<name>KOI-2352 b</name>
+	<name>KOI-2352.02</name>
+	<name>KIC 8013439 b</name>
+	<name>KIC 8013439.02</name>
+	<id>Kepler-381 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.09022</radius>
+		<orbit>
+			<period>5.629021</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.3780</mass>
+		<radius>1.568</radius>
+		<metallicity />
+		<distance>243.23</distance>
+		<temperature>6152</temperature>
+		<rightascension>01 16 02</rightascension>
+		<declination>+43 49 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

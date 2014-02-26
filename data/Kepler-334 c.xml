@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-334 c</id_exoplaneteu>
+	<name>Kepler-334 c</name>
+	<name>KOI-1909 c</name>
+	<name>KOI-1909.01</name>
+	<name>KIC 10130039 c</name>
+	<name>KIC 10130039.01</name>
+	<id>Kepler-334 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.13032</radius>
+		<orbit>
+			<period>12.758005</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0600</mass>
+		<radius>1.068</radius>
+		<metallicity />
+		<distance>439.80</distance>
+		<temperature>5828</temperature>
+		<rightascension>01 16 34</rightascension>
+		<declination>+47 06 54</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-288 d</id_exoplaneteu>
+	<name>Kepler-288 d</name>
+	<name>KOI-1332 d</name>
+	<name>KOI-1332.03</name>
+	<name>KIC 4455231 d</name>
+	<name>KIC 4455231.03</name>
+	<id>Kepler-288 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.24332</radius>
+		<orbit>
+			<period>56.633742</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0800</mass>
+		<radius>1.091</radius>
+		<metallicity />
+		<distance>1382.99</distance>
+		<temperature>5918</temperature>
+		<rightascension>01 17 02</rightascension>
+		<declination>+39 35 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

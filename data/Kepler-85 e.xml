@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-85 e</id_exoplaneteu>
+	<name>Kepler-85 e</name>
+	<name>KOI-2038 e</name>
+	<name>KOI-2038.04</name>
+	<name>KIC 8950568 e</name>
+	<name>KIC 8950568.04</name>
+	<id>Kepler-85 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.11574</radius>
+		<orbit>
+			<period>25.216751</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9410</mass>
+		<radius>0.893</radius>
+		<metallicity />
+		<distance>804.74</distance>
+		<temperature>5436</temperature>
+		<rightascension>01 17 35</rightascension>
+		<declination>+45 17 25</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

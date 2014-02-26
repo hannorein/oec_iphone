@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-261 c</id_exoplaneteu>
+	<name>Kepler-261 c</name>
+	<name>KOI-988 c</name>
+	<name>KOI-988.02</name>
+	<name>KIC 2302548 c</name>
+	<name>KIC 2302548.02</name>
+	<id>Kepler-261 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.18226</radius>
+		<orbit>
+			<period>24.570858</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8760</mass>
+		<radius>0.794</radius>
+		<metallicity />
+		<distance>359.31</distance>
+		<temperature>5098</temperature>
+		<rightascension>01 17 41</rightascension>
+		<declination>+37 36 33</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-351 b</id_exoplaneteu>
+	<name>Kepler-351 b</name>
+	<name>KOI-2028 b</name>
+	<name>KOI-2028.02</name>
+	<name>KIC 7102316 b</name>
+	<name>KIC 7102316.02</name>
+	<id>Kepler-351 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.27886</radius>
+		<orbit>
+			<period>37.054919</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.854</radius>
+		<metallicity />
+		<distance>1448.51</distance>
+		<temperature>5643</temperature>
+		<rightascension>01 16 23</rightascension>
+		<declination>+42 39 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-389 b</id_exoplaneteu>
+	<name>Kepler-389 b</name>
+	<name>KOI-2473 b</name>
+	<name>KOI-2473.01</name>
+	<name>KIC 8753896 b</name>
+	<name>KIC 8753896.01</name>
+	<id>Kepler-389 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.13761</radius>
+		<orbit>
+			<period>3.244107</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.792</radius>
+		<metallicity />
+		<distance>1101.76</distance>
+		<temperature>5376</temperature>
+		<rightascension>01 17 51</rightascension>
+		<declination>+44 54 00</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

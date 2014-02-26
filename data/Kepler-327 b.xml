@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-327 b</id_exoplaneteu>
+	<name>Kepler-327 b</name>
+	<name>KOI-1867 b</name>
+	<name>KOI-1867.01</name>
+	<name>KIC 8167996 b</name>
+	<name>KIC 8167996.01</name>
+	<id>Kepler-327 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.10115</radius>
+		<orbit>
+			<period>2.549575</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5470</mass>
+		<radius>0.492</radius>
+		<metallicity />
+		<distance>241.74</distance>
+		<temperature>3799</temperature>
+		<rightascension>01 18 02</rightascension>
+		<declination>+44 05 15</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

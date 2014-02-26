@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-295 c</id_exoplaneteu>
+	<name>Kepler-295 c</name>
+	<name>KOI-1413 c</name>
+	<name>KOI-1413.02</name>
+	<name>KIC 9006449 c</name>
+	<name>KIC 9006449.02</name>
+	<id>Kepler-295 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.10662</radius>
+		<orbit>
+			<period>21.526258</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8850</mass>
+		<radius>0.898</radius>
+		<metallicity />
+		<distance>737.84</distance>
+		<temperature>5603</temperature>
+		<rightascension>01 16 05</rightascension>
+		<declination>+45 22 04</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

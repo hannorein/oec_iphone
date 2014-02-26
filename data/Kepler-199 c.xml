@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-199 c</id_exoplaneteu>
+	<name>Kepler-199 c</name>
+	<name>KOI-638 c</name>
+	<name>KOI-638.02</name>
+	<name>KIC 5113822 c</name>
+	<name>KIC 5113822.02</name>
+	<id>Kepler-199 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.29617</radius>
+		<orbit>
+			<period>67.093408</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0030</mass>
+		<radius>0.967</radius>
+		<metallicity />
+		<distance>544.56</distance>
+		<temperature>5644</temperature>
+		<rightascension>01 18 48</rightascension>
+		<declination>+40 14 10</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

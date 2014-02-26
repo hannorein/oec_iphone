@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-393 c</id_exoplaneteu>
+	<name>Kepler-393 c</name>
+	<name>KOI-2595 c</name>
+	<name>KOI-2595.02</name>
+	<name>KIC 8883329 c</name>
+	<name>KIC 8883329.02</name>
+	<id>Kepler-393 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.12120</radius>
+		<orbit>
+			<period>14.613612</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.3800</mass>
+		<radius>1.382</radius>
+		<metallicity />
+		<distance>788.49</distance>
+		<temperature>6189</temperature>
+		<rightascension>01 17 35</rightascension>
+		<declination>+45 11 31</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

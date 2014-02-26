@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-111 c</id_exoplaneteu>
+	<name>Kepler-111 c</name>
+	<name>KOI-139 c</name>
+	<name>KOI-139.01</name>
+	<name>KIC 8559644 c</name>
+	<name>KIC 8559644.01</name>
+	<id>Kepler-111 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.66525</radius>
+		<orbit>
+			<period>224.784608</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1710</mass>
+		<radius>1.157</radius>
+		<metallicity />
+		<distance>691.04</distance>
+		<temperature>5952</temperature>
+		<rightascension>01 17 46</rightascension>
+		<declination>+44 41 17</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

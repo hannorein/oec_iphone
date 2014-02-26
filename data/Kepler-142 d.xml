@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-142 d</id_exoplaneteu>
+	<name>Kepler-142 d</name>
+	<name>KOI-343 d</name>
+	<name>KOI-343.03</name>
+	<name>KIC 10982872 d</name>
+	<name>KIC 10982872.03</name>
+	<id>Kepler-142 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.19684</radius>
+		<orbit>
+			<period>41.809118</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9880</mass>
+		<radius>1.269</radius>
+		<metallicity />
+		<distance>627.86</distance>
+		<temperature>5790</temperature>
+		<rightascension>01 18 41</rightascension>
+		<declination>+48 28 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

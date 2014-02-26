@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-140 c</id_exoplaneteu>
+	<name>Kepler-140 c</name>
+	<name>KOI-327 c</name>
+	<name>KOI-327.02</name>
+	<name>KIC 9881662 c</name>
+	<name>KIC 9881662.02</name>
+	<id>Kepler-140 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.16403</radius>
+		<orbit>
+			<period>91.353282</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.2070</mass>
+		<radius>1.288</radius>
+		<metallicity />
+		<distance>638.17</distance>
+		<temperature>6077</temperature>
+		<rightascension>01 16 37</rightascension>
+		<declination>+46 46 05</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

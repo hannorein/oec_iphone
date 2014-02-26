@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-181 c</id_exoplaneteu>
+	<name>Kepler-181 c</name>
+	<name>KOI-543 c</name>
+	<name>KOI-543.01</name>
+	<name>KIC 11823054 c</name>
+	<name>KIC 11823054.01</name>
+	<id>Kepler-181 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.18135</radius>
+		<orbit>
+			<period>4.302149</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8530</mass>
+		<radius>0.749</radius>
+		<metallicity />
+		<distance>628.45</distance>
+		<temperature>5333</temperature>
+		<rightascension>01 18 58</rightascension>
+		<declination>+50 05 44</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

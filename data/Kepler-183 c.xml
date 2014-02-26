@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-183 c</id_exoplaneteu>
+	<name>Kepler-183 c</name>
+	<name>KOI-551 c</name>
+	<name>KOI-551.01</name>
+	<name>KIC 4270253 c</name>
+	<name>KIC 4270253.01</name>
+	<id>Kepler-183 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20687</radius>
+		<orbit>
+			<period>11.637071</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9900</mass>
+		<radius>0.958</radius>
+		<metallicity />
+		<distance>1092.31</distance>
+		<temperature>5888</temperature>
+		<rightascension>01 18 16</rightascension>
+		<declination>+39 18 57</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

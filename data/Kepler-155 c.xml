@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-155 c</id_exoplaneteu>
+	<name>Kepler-155 c</name>
+	<name>KOI-438 c</name>
+	<name>KOI-438.02</name>
+	<name>KIC 12302530 c</name>
+	<name>KIC 12302530.02</name>
+	<id>Kepler-155 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20413</radius>
+		<orbit>
+			<period>52.661793</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6350</mass>
+		<radius>0.620</radius>
+		<metallicity />
+		<distance>302.28</distance>
+		<temperature>4508</temperature>
+		<rightascension>01 16 55</rightascension>
+		<declination>+51 04 54</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

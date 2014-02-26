@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-51 d</id_exoplaneteu>
+	<name>Kepler-51 d</name>
+	<name>KOI-620 d</name>
+	<name>KOI-620.02</name>
+	<name>KIC 11773022 d</name>
+	<name>KIC 11773022.02</name>
+	<id>Kepler-51 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.94958</radius>
+		<orbit>
+			<period>130.179811</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.00</mass>
+		<radius>0.91</radius>
+		<metallicity />
+		<distance>847.55</distance>
+		<temperature>5803.0</temperature>
+		<rightascension>19 45 55</rightascension>
+		<declination>+49 56 15</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

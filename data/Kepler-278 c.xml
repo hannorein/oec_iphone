@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-278 c</id_exoplaneteu>
+	<name>Kepler-278 c</name>
+	<name>KOI-1221 c</name>
+	<name>KOI-1221.02</name>
+	<name>KIC 3640905 c</name>
+	<name>KIC 3640905.02</name>
+	<id>Kepler-278 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.32716</radius>
+		<orbit>
+			<period>51.078775</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0790</mass>
+		<radius>2.935</radius>
+		<metallicity />
+		<distance>511.95</distance>
+		<temperature>4991</temperature>
+		<rightascension>01 17 21</rightascension>
+		<declination>+38 42 08</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

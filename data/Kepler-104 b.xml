@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-104 b</id_exoplaneteu>
+	<name>Kepler-104 b</name>
+	<name>KOI-111 b</name>
+	<name>KOI-111.01</name>
+	<name>KIC 6678383 b</name>
+	<name>KIC 6678383.01</name>
+	<id>Kepler-104 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.28250</radius>
+		<orbit>
+			<period>11.427548</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8070</mass>
+		<radius>1.349</radius>
+		<metallicity />
+		<distance>491.00</distance>
+		<temperature>5711</temperature>
+		<rightascension>01 16 41</rightascension>
+		<declination>+42 10 00</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-255 b</id_exoplaneteu>
+	<name>Kepler-255 b</name>
+	<name>KOI-938 b</name>
+	<name>KOI-938.03</name>
+	<name>KIC 9415172 b</name>
+	<name>KIC 9415172.03</name>
+	<id>Kepler-255 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.14125</radius>
+		<orbit>
+			<period>5.714606</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8780</mass>
+		<radius>0.933</radius>
+		<metallicity />
+		<distance>1287.37</distance>
+		<temperature>5573</temperature>
+		<rightascension>01 18 57</rightascension>
+		<declination>+45 58 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

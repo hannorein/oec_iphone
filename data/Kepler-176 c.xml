@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-176 c</id_exoplaneteu>
+	<name>Kepler-176 c</name>
+	<name>KOI-520 c</name>
+	<name>KOI-520.01</name>
+	<name>KIC 8037145 c</name>
+	<name>KIC 8037145.01</name>
+	<id>Kepler-176 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.23694</radius>
+		<orbit>
+			<period>12.759712</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.891</radius>
+		<metallicity />
+		<distance>669.36</distance>
+		<temperature>5232</temperature>
+		<rightascension>01 18 34</rightascension>
+		<declination>+43 51 11</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

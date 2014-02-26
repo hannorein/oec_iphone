@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-349 b</id_exoplaneteu>
+	<name>Kepler-349 b</name>
+	<name>KOI-2022 b</name>
+	<name>KOI-2022.01</name>
+	<name>KIC 8564674 b</name>
+	<name>KIC 8564674.01</name>
+	<id>Kepler-349 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.17315</radius>
+		<orbit>
+			<period>5.929778</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0170</mass>
+		<radius>0.927</radius>
+		<metallicity />
+		<distance>987.72</distance>
+		<temperature>5956</temperature>
+		<rightascension>01 18 18</rightascension>
+		<declination>+44 36 56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

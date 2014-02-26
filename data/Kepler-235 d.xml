@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-235 d</id_exoplaneteu>
+	<name>Kepler-235 d</name>
+	<name>KOI-812 d</name>
+	<name>KOI-812.02</name>
+	<name>KIC 4139816 d</name>
+	<name>KIC 4139816.02</name>
+	<id>Kepler-235 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.18682</radius>
+		<orbit>
+			<period>20.060548</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5810</mass>
+		<radius>0.554</radius>
+		<metallicity />
+		<distance>525.48</distance>
+		<temperature>4255</temperature>
+		<rightascension>01 16 17</rightascension>
+		<declination>+39 16 41</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-342 d</id_exoplaneteu>
+	<name>Kepler-342 d</name>
+	<name>KOI-1955 d</name>
+	<name>KOI-1955.02</name>
+	<name>KIC 9892816 d</name>
+	<name>KIC 9892816.02</name>
+	<id>Kepler-342 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.22691</radius>
+		<orbit>
+			<period>39.459357</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.472</radius>
+		<metallicity />
+		<distance>807.28</distance>
+		<temperature>6175</temperature>
+		<rightascension>01 18 02</rightascension>
+		<declination>+46 43 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-286 d</id_exoplaneteu>
+	<name>Kepler-286 d</name>
+	<name>KOI-1306 d</name>
+	<name>KOI-1306.03</name>
+	<name>KIC 10858691 d</name>
+	<name>KIC 10858691.03</name>
+	<id>Kepler-286 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.12120</radius>
+		<orbit>
+			<period>5.914323</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0300</mass>
+		<radius>0.863</radius>
+		<metallicity />
+		<distance>1188.84</distance>
+		<temperature>5580</temperature>
+		<rightascension>01 17 30</rightascension>
+		<declination>+48 17 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

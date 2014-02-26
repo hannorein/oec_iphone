@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-149 c</id_exoplaneteu>
+	<name>Kepler-149 c</name>
+	<name>KOI-401 c</name>
+	<name>KOI-401.03</name>
+	<name>KIC 3217264 c</name>
+	<name>KIC 3217264.03</name>
+	<id>Kepler-149 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.14672</radius>
+		<orbit>
+			<period>55.328328</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9090</mass>
+		<radius>0.953</radius>
+		<metallicity />
+		<distance>588.12</distance>
+		<temperature>5381</temperature>
+		<rightascension>01 16 13</rightascension>
+		<declination>+38 23 02</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

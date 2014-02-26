@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-219 c</id_exoplaneteu>
+	<name>Kepler-219 c</name>
+	<name>KOI-718 c</name>
+	<name>KOI-718.02</name>
+	<name>KIC 9884104 c</name>
+	<name>KIC 9884104.02</name>
+	<id>Kepler-219 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.32625</radius>
+		<orbit>
+			<period>22.714613</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1710</mass>
+		<radius>1.491</radius>
+		<metallicity />
+		<distance>953.85</distance>
+		<temperature>5786</temperature>
+		<rightascension>01 16 59</rightascension>
+		<declination>+46 45 45</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

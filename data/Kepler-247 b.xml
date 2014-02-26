@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-247 b</id_exoplaneteu>
+	<name>Kepler-247 b</name>
+	<name>KOI-884 b</name>
+	<name>KOI-884.03</name>
+	<name>KIC 7434875 b</name>
+	<name>KIC 7434875.03</name>
+	<id>Kepler-247 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.14945</radius>
+		<orbit>
+			<period>3.336160</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7730</mass>
+		<radius>0.768</radius>
+		<metallicity />
+		<distance>695.58</distance>
+		<temperature>5100</temperature>
+		<rightascension>01 16 58</rightascension>
+		<declination>+43 02 21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

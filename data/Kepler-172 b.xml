@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-172 b</id_exoplaneteu>
+	<name>Kepler-172 b</name>
+	<name>KOI-510 b</name>
+	<name>KOI-510.01</name>
+	<name>KIC 6422155 b</name>
+	<name>KIC 6422155.01</name>
+	<id>Kepler-172 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.21416</radius>
+		<orbit>
+			<period>2.940309</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8500</mass>
+		<radius>1.085</radius>
+		<metallicity />
+		<distance>901.77</distance>
+		<temperature>5526</temperature>
+		<rightascension>01 15 33</rightascension>
+		<declination>+41 49 18</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

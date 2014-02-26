@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-107 d</id_exoplaneteu>
+	<name>Kepler-107 d</name>
+	<name>KOI-117 d</name>
+	<name>KOI-117.04</name>
+	<name>KIC 10875245 d</name>
+	<name>KIC 10875245.04</name>
+	<id>Kepler-107 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.09751</radius>
+		<orbit>
+			<period>7.958203</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1830</mass>
+		<radius>1.411</radius>
+		<metallicity />
+		<distance>512.66</distance>
+		<temperature>5851</temperature>
+		<rightascension>01 19 12</rightascension>
+		<declination>+48 12 30</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

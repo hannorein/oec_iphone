@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-281 b</id_exoplaneteu>
+	<name>Kepler-281 b</name>
+	<name>KOI-1258 b</name>
+	<name>KOI-1258.02</name>
+	<name>KIC 8630788 b</name>
+	<name>KIC 8630788.02</name>
+	<id>Kepler-281 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.25699</radius>
+		<orbit>
+			<period>14.646008</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9430</mass>
+		<radius>0.899</radius>
+		<metallicity />
+		<distance>1419.23</distance>
+		<temperature>5723</temperature>
+		<rightascension>01 18 25</rightascension>
+		<declination>+44 46 14</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

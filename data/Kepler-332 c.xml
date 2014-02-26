@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-332 c</id_exoplaneteu>
+	<name>Kepler-332 c</name>
+	<name>KOI-1905 c</name>
+	<name>KOI-1905.02</name>
+	<name>KIC 10328393 c</name>
+	<name>KIC 10328393.02</name>
+	<id>Kepler-332 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.09933</radius>
+		<orbit>
+			<period>15.995622</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.720</radius>
+		<metallicity />
+		<distance>379.55</distance>
+		<temperature>4955</temperature>
+		<rightascension>01 16 26</rightascension>
+		<declination>+47 24 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

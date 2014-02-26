@@ -1,15 +1,17 @@
 <planet>
 	<id_exoplaneteu>Kepler-53 b</id_exoplaneteu>
 	<name>Kepler-53 b</name>
-	<name>KOI 829.01</name>
-	<name>KID 5358241</name>
+	<name>KOI-829 b</name>
+	<name>KOI-829.01</name>
+	<name>KIC 5358241 b</name>
+	<name>KIC 5358241.01</name>
 	<id>Kepler-53 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.028001</mass>
-		<radius>0.263367</radius>
+		<mass />
+		<radius>0.25608</radius>
 		<orbit>
-			<period>18.6489525</period>
+			<period>18.649113</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -20,12 +22,12 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.98</mass>
-		<radius>0.89</radius>
+		<mass>1.0650</mass>
+		<radius>0.958</radius>
 		<metallicity />
-		<distance>1175.19</distance>
-		<temperature>5858.0</temperature>
-		<rightascension>19 21 50</rightascension>
+		<distance>1430.64</distance>
+		<temperature>6085</temperature>
+		<rightascension>01 17 27</rightascension>
 		<declination>+40 33 44</declination>
 		<angulardistance />
 		<magV />
@@ -34,11 +36,11 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 18.65 days for 4.4815 hours. Periodic transit timing variations confirm its planetary nature.</description>
-	<new />
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

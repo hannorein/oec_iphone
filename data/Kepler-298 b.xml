@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-298 b</id_exoplaneteu>
+	<name>Kepler-298 b</name>
+	<name>KOI-1430 b</name>
+	<name>KOI-1430.01</name>
+	<name>KIC 11176127 b</name>
+	<name>KIC 11176127.01</name>
+	<id>Kepler-298 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.17862</radius>
+		<orbit>
+			<period>10.475464</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6600</mass>
+		<radius>0.582</radius>
+		<metallicity />
+		<distance>474.25</distance>
+		<temperature>4465</temperature>
+		<rightascension>01 15 28</rightascension>
+		<declination>+48 49 31</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

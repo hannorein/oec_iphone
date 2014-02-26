@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-233 c</id_exoplaneteu>
+	<name>Kepler-233 c</name>
+	<name>KOI-790 c</name>
+	<name>KOI-790.02</name>
+	<name>KIC 12470844 c</name>
+	<name>KIC 12470844.02</name>
+	<id>Kepler-233 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.24696</radius>
+		<orbit>
+			<period>60.418955</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8550</mass>
+		<radius>0.758</radius>
+		<metallicity />
+		<distance>859.50</distance>
+		<temperature>5360</temperature>
+		<rightascension>01 19 01</rightascension>
+		<declination>+51 19 10</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

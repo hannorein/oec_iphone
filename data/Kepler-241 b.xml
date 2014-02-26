@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-241 b</id_exoplaneteu>
+	<name>Kepler-241 b</name>
+	<name>KOI-842 b</name>
+	<name>KOI-842.01</name>
+	<name>KIC 5794379 b</name>
+	<name>KIC 5794379.01</name>
+	<id>Kepler-241 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.21233</radius>
+		<orbit>
+			<period>12.718092</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6710</mass>
+		<radius>0.668</radius>
+		<metallicity />
+		<distance>595.71</distance>
+		<temperature>4699</temperature>
+		<rightascension>01 18 06</rightascension>
+		<declination>+41 03 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-52 d</id_exoplaneteu>
+	<name>Kepler-52 d</name>
+	<name>KOI-775 d</name>
+	<name>KOI-775.03</name>
+	<name>KIC 11754553 d</name>
+	<name>KIC 11754553.03</name>
+	<id>Kepler-52 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.17770</radius>
+		<orbit>
+			<period>36.445171</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5770</mass>
+		<radius>0.556</radius>
+		<metallicity />
+		<distance>356.41</distance>
+		<temperature>4263</temperature>
+		<rightascension>01 16 27</rightascension>
+		<declination>+49 58 32</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

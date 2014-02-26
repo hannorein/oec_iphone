@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-277 b</id_exoplaneteu>
+	<name>Kepler-277 b</name>
+	<name>KOI-1215 b</name>
+	<name>KOI-1215.01</name>
+	<name>KIC 3939150 b</name>
+	<name>KIC 3939150.01</name>
+	<id>Kepler-277 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.27619</mass>
+		<radius>0.26610</radius>
+		<orbit>
+			<period>17.324</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.19</mass>
+		<radius>1.65</radius>
+		<metallicity />
+		<distance>951.43</distance>
+		<temperature>5946.00</temperature>
+		<rightascension>19 06 19</rightascension>
+		<declination>+39 04 37</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/13</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

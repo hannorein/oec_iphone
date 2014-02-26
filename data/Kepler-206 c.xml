@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-206 c</id_exoplaneteu>
+	<name>Kepler-206 c</name>
+	<name>KOI-664 c</name>
+	<name>KOI-664.01</name>
+	<name>KIC 6442340 c</name>
+	<name>KIC 6442340.01</name>
+	<id>Kepler-206 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.16130</radius>
+		<orbit>
+			<period>13.137471</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0210</mass>
+		<radius>1.185</radius>
+		<metallicity />
+		<distance>661.32</distance>
+		<temperature>5764</temperature>
+		<rightascension>01 17 46</rightascension>
+		<declination>+41 50 01</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

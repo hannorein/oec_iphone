@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-297 c</id_exoplaneteu>
+	<name>Kepler-297 c</name>
+	<name>KOI-1426 c</name>
+	<name>KOI-1426.02</name>
+	<name>KIC 11122894 c</name>
+	<name>KIC 11122894.02</name>
+	<id>Kepler-297 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.59599</radius>
+		<orbit>
+			<period>74.920137</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0700</mass>
+		<radius>0.915</radius>
+		<metallicity />
+		<distance>684.83</distance>
+		<temperature>5619</temperature>
+		<rightascension>01 15 31</rightascension>
+		<declination>+48 46 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,15 +1,17 @@
 <planet>
 	<id_exoplaneteu>Kepler-55 b</id_exoplaneteu>
 	<name>Kepler-55 b</name>
-	<name>KOI 904.02</name>
-	<name>KID 8150320</name>
+	<name>KOI-904 b</name>
+	<name>KOI-904.02</name>
+	<name>KIC 8150320 b</name>
+	<name>KIC 8150320.02</name>
 	<id>Kepler-55 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.019591</mass>
-		<radius>0.221447</radius>
+		<mass />
+		<radius>0.19684</radius>
 		<orbit>
-			<period>27.9481449</period>
+			<period>27.953314</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -19,13 +21,13 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K5</spectraltype>
-		<mass>0.62</mass>
-		<radius>0.58</radius>
+		<spectraltype />
+		<mass>0.6310</mass>
+		<radius>0.619</radius>
 		<metallicity />
-		<distance>511.70</distance>
-		<temperature>4362.0</temperature>
-		<rightascension>19 00 40</rightascension>
+		<distance>610.01</distance>
+		<temperature>4503</temperature>
+		<rightascension>01 16 02</rightascension>
 		<declination>+44 01 35</declination>
 		<angulardistance />
 		<magV />
@@ -34,11 +36,11 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 27.95 days for 3.4932 hours. Periodic transit timing variations confirm its planetary nature.</description>
-	<new />
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

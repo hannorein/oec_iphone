@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-170 c</id_exoplaneteu>
+	<name>Kepler-170 c</name>
+	<name>KOI-508 c</name>
+	<name>KOI-508.02</name>
+	<name>KIC 6266741 c</name>
+	<name>KIC 6266741.02</name>
+	<id>Kepler-170 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.26063</radius>
+		<orbit>
+			<period>16.665863</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0890</mass>
+		<radius>1.035</radius>
+		<metallicity />
+		<distance>849.82</distance>
+		<temperature>5679</temperature>
+		<rightascension>01 15 52</rightascension>
+		<declination>+41 37 46</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

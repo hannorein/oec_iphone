@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-117 b</id_exoplaneteu>
+	<name>Kepler-117 b</name>
+	<name>KOI-209 b</name>
+	<name>KOI-209.02</name>
+	<name>KIC 10723750 b</name>
+	<name>KIC 10723750.02</name>
+	<id>Kepler-117 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.71173</radius>
+		<orbit>
+			<period>18.795952</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1790</mass>
+		<radius>1.471</radius>
+		<metallicity />
+		<distance>1352.97</distance>
+		<temperature>6169</temperature>
+		<rightascension>01 17 00</rightascension>
+		<declination>+48 02 24</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

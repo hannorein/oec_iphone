@@ -1,16 +1,18 @@
 <planet>
 	<id_exoplaneteu>Kepler-31 c</id_exoplaneteu>
 	<name>Kepler-31 c</name>
-	<name>KOI 935.02</name>
+	<name>KOI-935 c</name>
+	<name>KOI-935.02</name>
 	<name>KIC 9347899 c</name>
+	<name>KIC 9347899.02</name>
 	<id>Kepler-31 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>4.7</mass>
-		<radius>0.53</radius>
+		<mass />
+		<radius>0.51489</radius>
 		<orbit>
-			<period>42.6318</period>
-			<semimajoraxis>0.26</semimajoraxis>
+			<period>42.632728</period>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -19,13 +21,13 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>F</spectraltype>
-		<mass>1.21</mass>
-		<radius>1.22</radius>
-		<metallicity>-0.076</metallicity>
-		<distance>1113</distance>
-		<temperature>771.9</temperature>
-		<rightascension>19 36 05</rightascension>
+		<spectraltype />
+		<mass>1.2080</mass>
+		<radius>1.306</radius>
+		<metallicity />
+		<distance>1790.60</distance>
+		<temperature>6034</temperature>
+		<rightascension>01 18 24</rightascension>
 		<declination>+45 51 11</declination>
 		<angulardistance />
 		<magV />
@@ -34,11 +36,11 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/06</lastupdate>
-	<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-31 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet and is just an upper limit. There are at least two other unconfirmed planets in the system.</description>
-	<new />
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

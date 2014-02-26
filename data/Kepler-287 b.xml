@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-287 b</id_exoplaneteu>
+	<name>Kepler-287 b</name>
+	<name>KOI-1307 b</name>
+	<name>KOI-1307.02</name>
+	<name>KIC 10973814 b</name>
+	<name>KIC 10973814.02</name>
+	<id>Kepler-287 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.21233</radius>
+		<orbit>
+			<period>20.342199</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9300</mass>
+		<radius>1.032</radius>
+		<metallicity />
+		<distance>1058.96</distance>
+		<temperature>5806</temperature>
+		<rightascension>01 17 34</rightascension>
+		<declination>+48 26 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

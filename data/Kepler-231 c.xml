@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-231 c</id_exoplaneteu>
+	<name>Kepler-231 c</name>
+	<name>KOI-784 c</name>
+	<name>KOI-784.01</name>
+	<name>KIC 12066335 c</name>
+	<name>KIC 12066335.01</name>
+	<id>Kepler-231 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.17588</radius>
+		<orbit>
+			<period>19.271566</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5800</mass>
+		<radius>0.490</radius>
+		<metallicity />
+		<distance>280.31</distance>
+		<temperature>3767</temperature>
+		<rightascension>01 18 23</rightascension>
+		<declination>+50 31 54</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-177 c</id_exoplaneteu>
+	<name>Kepler-177 c</name>
+	<name>KOI-523 b</name>
+	<name>KOI-523.01</name>
+	<name>KIC 8806123 c</name>
+	<name>KIC 8806123.01</name>
+	<id>Kepler-177 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.01982</mass>
+		<radius>0.64703</radius>
+		<orbit>
+			<period>49.412</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.93</mass>
+		<radius>0.98</radius>
+		<metallicity />
+		<distance>1387.37</distance>
+		<temperature>6197.00</temperature>
+		<rightascension>19 04 11</rightascension>
+		<declination>+45 03 11</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/13</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

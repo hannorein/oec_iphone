@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-360 b</id_exoplaneteu>
+	<name>Kepler-360 b</name>
+	<name>KOI-2111 b</name>
+	<name>KOI-2111.01</name>
+	<name>KIC 8612275 b</name>
+	<name>KIC 8612275.01</name>
+	<id>Kepler-360 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.15036</radius>
+		<orbit>
+			<period>3.289672</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0250</mass>
+		<radius>1.058</radius>
+		<metallicity />
+		<distance>1230.47</distance>
+		<temperature>6053</temperature>
+		<rightascension>01 16 20</rightascension>
+		<declination>+44 46 53</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

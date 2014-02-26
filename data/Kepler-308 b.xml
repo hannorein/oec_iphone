@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-308 b</id_exoplaneteu>
+	<name>Kepler-308 b</name>
+	<name>KOI-1593 b</name>
+	<name>KOI-1593.01</name>
+	<name>KIC 5289854 b</name>
+	<name>KIC 5289854.01</name>
+	<id>Kepler-308 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.19320</radius>
+		<orbit>
+			<period>9.694928</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9970</mass>
+		<radius>0.941</radius>
+		<metallicity />
+		<distance>1602.52</distance>
+		<temperature>5895</temperature>
+		<rightascension>01 18 52</rightascension>
+		<declination>+40 26 22</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

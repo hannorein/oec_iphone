@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-315 c</id_exoplaneteu>
+	<name>Kepler-315 c</name>
+	<name>KOI-1707 c</name>
+	<name>KOI-1707.02</name>
+	<name>KIC 7703955 c</name>
+	<name>KIC 7703955.02</name>
+	<id>Kepler-315 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.37819</radius>
+		<orbit>
+			<period>265.469335</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.037</radius>
+		<metallicity />
+		<distance>1363.58</distance>
+		<temperature>5796</temperature>
+		<rightascension>01 19 28</rightascension>
+		<declination>+43 21 48</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

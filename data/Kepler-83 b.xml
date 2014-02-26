@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-83 b</id_exoplaneteu>
+	<name>Kepler-83 b</name>
+	<name>KOI-898 b</name>
+	<name>KOI-898.01</name>
+	<name>KIC 7870390 b</name>
+	<name>KIC 7870390.01</name>
+	<id>Kepler-83 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.23056</radius>
+		<orbit>
+			<period>9.770469</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6640</mass>
+		<radius>0.594</radius>
+		<metallicity />
+		<distance>619.67</distance>
+		<temperature>4648</temperature>
+		<rightascension>01 15 15</rightascension>
+		<declination>+43 39 56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

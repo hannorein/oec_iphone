@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-193 b</id_exoplaneteu>
+	<name>Kepler-193 b</name>
+	<name>KOI-590 b</name>
+	<name>KOI-590.01</name>
+	<name>KIC 9782691 b</name>
+	<name>KIC 9782691.01</name>
+	<id>Kepler-193 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.21780</radius>
+		<orbit>
+			<period>11.388480</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1390</mass>
+		<radius>1.147</radius>
+		<metallicity />
+		<distance>1301.67</distance>
+		<temperature>6335</temperature>
+		<rightascension>01 19 03</rightascension>
+		<declination>+46 34 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

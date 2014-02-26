@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-79 c</id_exoplaneteu>
+	<name>Kepler-79 c</name>
+	<name>KOI-152 c</name>
+	<name>KOI-152.02</name>
+	<name>KIC 8394721 c</name>
+	<name>KIC 8394721.02</name>
+	<id>Kepler-79 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.35450</radius>
+		<orbit>
+			<period>27.401994</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1800</mass>
+		<radius>1.403</radius>
+		<metallicity />
+		<distance>1100.38</distance>
+		<temperature>6189</temperature>
+		<rightascension>01 20 08</rightascension>
+		<declination>+44 22 53</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

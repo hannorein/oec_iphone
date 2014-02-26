@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-279 c</id_exoplaneteu>
+	<name>Kepler-279 c</name>
+	<name>KOI-1236 c</name>
+	<name>KOI-1236.01</name>
+	<name>KIC 6677841 c</name>
+	<name>KIC 6677841.01</name>
+	<id>Kepler-279 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.48664</radius>
+		<orbit>
+			<period>35.740844</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.3100</mass>
+		<radius>1.746</radius>
+		<metallicity />
+		<distance>1287.10</distance>
+		<temperature>6363</temperature>
+		<rightascension>01 16 38</rightascension>
+		<declination>+42 11 41</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

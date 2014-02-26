@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-293 c</id_exoplaneteu>
+	<name>Kepler-293 c</name>
+	<name>KOI-1366 c</name>
+	<name>KOI-1366.02</name>
+	<name>KIC 6932987 c</name>
+	<name>KIC 6932987.02</name>
+	<id>Kepler-293 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.34903</radius>
+		<orbit>
+			<period>54.155743</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.9530</mass>
+		<radius>0.957</radius>
+		<metallicity />
+		<distance>1289.47</distance>
+		<temperature>5804</temperature>
+		<rightascension>01 16 21</rightascension>
+		<declination>+42 24 23</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

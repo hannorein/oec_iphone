@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-323 b</id_exoplaneteu>
+	<name>Kepler-323 b</name>
+	<name>KOI-1824 b</name>
+	<name>KOI-1824.02</name>
+	<name>KIC 2989404 b</name>
+	<name>KIC 2989404.02</name>
+	<id>Kepler-323 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.13032</radius>
+		<orbit>
+			<period>1.678327</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1600</mass>
+		<radius>1.178</radius>
+		<metallicity />
+		<distance>499.35</distance>
+		<temperature>5987</temperature>
+		<rightascension>01 17 42</rightascension>
+		<declination>+38 07 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

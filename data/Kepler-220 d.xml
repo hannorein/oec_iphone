@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-220 d</id_exoplaneteu>
+	<name>Kepler-220 d</name>
+	<name>KOI-719 d</name>
+	<name>KOI-719.02</name>
+	<name>KIC 9950612 d</name>
+	<name>KIC 9950612.02</name>
+	<id>Kepler-220 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.08931</radius>
+		<orbit>
+			<period>28.122397</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7170</mass>
+		<radius>0.666</radius>
+		<metallicity />
+		<distance>208.38</distance>
+		<temperature>4632</temperature>
+		<rightascension>01 17 44</rightascension>
+		<declination>+46 53 44</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

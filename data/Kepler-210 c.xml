@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-210 c</id_exoplaneteu>
+	<name>Kepler-210 c</name>
+	<name>KOI-676 c</name>
+	<name>KOI-676.01</name>
+	<name>KIC 7447200 c</name>
+	<name>KIC 7447200.01</name>
+	<id>Kepler-210 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.32989</radius>
+		<orbit>
+			<period>7.972513</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.6120</mass>
+		<radius>0.650</radius>
+		<metallicity />
+		<distance>265.15</distance>
+		<temperature>4559</temperature>
+		<rightascension>01 18 00</rightascension>
+		<declination>+43 04 59</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

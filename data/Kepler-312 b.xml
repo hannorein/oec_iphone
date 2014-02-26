@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-312 b</id_exoplaneteu>
+	<name>Kepler-312 b</name>
+	<name>KOI-1628 b</name>
+	<name>KOI-1628.02</name>
+	<name>KIC 6975129 b</name>
+	<name>KIC 6975129.02</name>
+	<id>Kepler-312 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.11756</radius>
+		<orbit>
+			<period>1.772419</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.467</radius>
+		<metallicity />
+		<distance>720.22</distance>
+		<temperature>6115</temperature>
+		<rightascension>01 19 34</rightascension>
+		<declination>+42 27 35</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

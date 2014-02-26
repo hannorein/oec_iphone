@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-282 e</id_exoplaneteu>
+	<name>Kepler-282 e</name>
+	<name>KOI-1278 e</name>
+	<name>KOI-1278.02</name>
+	<name>KIC 8609450 e</name>
+	<name>KIC 8609450.02</name>
+	<id>Kepler-282 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.23420</radius>
+		<orbit>
+			<period>44.346937</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0820</mass>
+		<radius>0.904</radius>
+		<metallicity />
+		<distance>1052.20</distance>
+		<temperature>5602</temperature>
+		<rightascension>01 15 54</rightascension>
+		<declination>+44 47 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

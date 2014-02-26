@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-121 c</id_exoplaneteu>
+	<name>Kepler-121 c</name>
+	<name>KOI-223 c</name>
+	<name>KOI-223.02</name>
+	<name>KIC 4545187 c</name>
+	<name>KIC 4545187.02</name>
+	<id>Kepler-121 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.20687</radius>
+		<orbit>
+			<period>41.008011</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8590</mass>
+		<radius>0.701</radius>
+		<metallicity />
+		<distance>583.60</distance>
+		<temperature>5311</temperature>
+		<rightascension>01 16 18</rightascension>
+		<declination>+39 40 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

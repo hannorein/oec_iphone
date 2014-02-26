@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-164 b</id_exoplaneteu>
+	<name>Kepler-164 b</name>
+	<name>KOI-474 b</name>
+	<name>KOI-474.04</name>
+	<name>KIC 10460984 b</name>
+	<name>KIC 10460984.04</name>
+	<id>Kepler-164 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.12849</radius>
+		<orbit>
+			<period>5.035030</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1500</mass>
+		<radius>1.148</radius>
+		<metallicity />
+		<distance>965.43</distance>
+		<temperature>5888</temperature>
+		<rightascension>01 16 44</rightascension>
+		<declination>+47 37 47</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

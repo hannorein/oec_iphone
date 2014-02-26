@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-257 d</id_exoplaneteu>
+	<name>Kepler-257 d</name>
+	<name>KOI-941 d</name>
+	<name>KOI-941.03</name>
+	<name>KIC 9480189 d</name>
+	<name>KIC 9480189.03</name>
+	<id>Kepler-257 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.45109</radius>
+		<orbit>
+			<period>24.664551</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7400</mass>
+		<radius>1.037</radius>
+		<metallicity />
+		<distance>1167.03</distance>
+		<temperature>5180</temperature>
+		<rightascension>01 19 17</rightascension>
+		<declination>+46 01 23</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>This planet has been discovered by the Kepler spacrcraft. It was confirmed in early 2014 using a statistical framework. The false positive rate is significantly less than 1 percent.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
