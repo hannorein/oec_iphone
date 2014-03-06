@@ -1,20 +1,16 @@
 <planet>
 	<id_exoplaneteu>Kepler-46 c</id_exoplaneteu>
 	<name>Kepler-46 c</name>
-	<name>KOI-872 c</name>
-	<name>KOI-872.02</name>
-	<name>KIC 7109675 c</name>
-	<name>KIC 7109675.02</name>
 	<id>Kepler-46 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.14945</radius>
+		<mass>0.376</mass>
+		<radius />
 		<orbit>
-			<period>6.766589</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<period>57.011</period>
+			<semimajoraxis>0.27990</semimajoraxis>
+			<eccentricity>0.015</eccentricity>
+			<inclination>87.400</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -24,8 +20,8 @@
 		<spectraltype />
 		<mass>0.8200</mass>
 		<radius>0.790</radius>
-		<metallicity />
-		<distance>848.20</distance>
+		<metallicity>0.410</metallicity>
+		<distance>855</distance>
 		<temperature>5309</temperature>
 		<rightascension>19 17 04</rightascension>
 		<declination>+42 36 15</declination>
@@ -36,10 +32,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
-	<description>Kepler-46 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 c are still unknown, the object is highly unlikely to be a false positive.</description>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>14/03/06</lastupdate>
+	<description />
 	<new />
 	<image />
 	<imagedescription />

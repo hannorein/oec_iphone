@@ -8,11 +8,11 @@
 	<id>Kepler-51 d</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.94958</radius>
+		<mass>0.0239121542963</mass>
+		<radius>0.91130</radius>
 		<orbit>
-			<period>130.179811</period>
-			<semimajoraxis />
+			<period>130.178058</period>
+			<semimajoraxis>0.509</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -22,11 +22,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.00</mass>
-		<radius>0.91</radius>
+		<mass>1.0400</mass>
+		<radius>0.9400</radius>
 		<metallicity />
-		<distance>847.55</distance>
-		<temperature>5803.0</temperature>
+		<distance>986.91</distance>
+		<temperature>6018.00</temperature>
 		<rightascension>19 45 55</rightascension>
 		<declination>+49 56 15</declination>
 		<angulardistance />
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
+	<lastupdate>14/03/05</lastupdate>
 	<description>Kepler-51 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-51 d are still unknown, the object is highly unlikely to be a false positive.</description>
 	<new />
 	<image />
