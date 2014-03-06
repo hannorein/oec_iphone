@@ -1,4 +1,4 @@
-<systems name="systems" planets="1793">
+<systems name="systems" planets="1794">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1995,10 +1995,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>CoRoT-20</name>
 		<rightascension>06 30 53</rightascension>
 		<declination>00 13 37</declination>
-		<distance>1230</distance>
+		<distance errorminus="120" errorplus="120">1230</distance>
 		<star>
-			<mass>1.14</mass>
-			<radius>0.92</radius>
+			<mass errorminus="0.14" errorplus="0.14">1.14</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.02</radius>
 			<magV>14.66</magV>
 			<magB errorminus="0.42" errorplus="0.42">15.41</magB>
 			<magR errorminus="0.12" errorplus="0.12">14.60</magR>
@@ -2006,7 +2006,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ errorminus="0.026" errorplus="0.026">12.991</magJ>
 			<magH errorminus="0.027" errorplus="0.027">12.652</magH>
 			<magK errorminus="0.029" errorplus="0.029">12.513</magK>
-			<metallicity>0.14</metallicity>
+			<metallicity errorminus="0.12" errorplus="0.12">0.14</metallicity>
+			<age errorminus="0.04" errorplus="0.8">0.1</age>
 			<spectraltype>G2V</spectraltype>
 			<planet>
 				<name>CoRoT-20 b</name>
@@ -2014,20 +2015,20 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>2MASS J06305289+0013369 b</name>
 				<name>USNO-A2.0 0900-03054387 b</name>
 				<list>Confirmed planets</list>
-				<mass>4.24</mass>
-				<radius>0.84</radius>
+				<mass errorminus="0.23" errorplus="0.23">4.24</mass>
+				<radius errorminus="0.04" errorplus="0.04">0.84</radius>
 				<period>9.2</period>
-				<semimajoraxis>0.0902</semimajoraxis>
-				<eccentricity>0.562</eccentricity>
-				<inclination>88.21</inclination>
+				<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.0902</semimajoraxis>
+				<eccentricity errorminus="0.013" errorplus="0.013">0.562</eccentricity>
+				<inclination errorminus="0.53" errorplus="0.53">88.21</inclination>
 				<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455266.0001</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/06/14</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<temperature>810.2</temperature>
+				<temperature errorminus="24" errorplus="24">1002</temperature>
 			</planet>
 			<name>CoRoT-20</name>
-			<temperature>5880.0</temperature>
+			<temperature errorminus="90" errorplus="90">5880.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -7405,10 +7406,11 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 114386</name>
 		<rightascension>13 10 39</rightascension>
 		<declination>-35 03 17</declination>
-		<distance>28</distance>
+		<distance>28.04</distance>
 		<star>
 			<mass>0.75</mass>
 			<radius>0.76</radius>
+			<age>2.19</age>
 			<magV>8.73</magV>
 			<magB errorminus="0.03" errorplus="0.03">9.80</magB>
 			<spectraltype>K3 V</spectraltype>
@@ -7416,11 +7418,11 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HD 114386 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.24</mass>
-				<period>937</period>
+				<period errorminus="15.6" errorplus="15.6">937</period>
 				<semimajoraxis>1.65</semimajoraxis>
-				<eccentricity>0.23</eccentricity>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.23</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/16</lastupdate>
+				<lastupdate>14/03/05</lastupdate>
 				<discoveryyear>2003</discoveryyear>
 				<temperature>182.8</temperature>
 			</planet>
@@ -16169,33 +16171,36 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-41 19 08</declination>
 		<distance>99</distance>
 		<star>
-			<mass>1.08</mass>
+			<mass errorminus="0.05" errorplus="0.05">1.08</mass>
 			<radius>1.49</radius>
 			<magV>9</magV>
 			<magB>9.69</magB>
-			<metallicity>0.25</metallicity>
+			<metallicity errorminus="0.05" errorplus="0.05">0.25</metallicity>
+			<age>5.59</age>
 			<spectraltype>G6 V</spectraltype>
 			<planet>
 				<name>HD 73526 b</name>
 				<list>Confirmed planets</list>
-				<mass>2.9</mass>
-				<period>188.3</period>
-				<semimajoraxis>0.66</semimajoraxis>
-				<eccentricity>0.19</eccentricity>
+				<mass errorminus="0.12" errorplus="0.12">2.35</mass>
+				<period errorminus="0.21" errorplus="0.21">189.65</period>
+				<semimajoraxis errorminus="0.01" errorplus="0.01">0.65</semimajoraxis>
+				<eccentricity errorminus="0.021" errorplus="0.021">0.265</eccentricity>
+				<description>The planetary system HD 73526 was discovered by the radial velocity method and consists of at least two planets. The orbital parameters have been obtained using a dynamical fit. The goodness-of-fit and long-term stability prefer the system in a configuration with 90 degrees inclination (face on).</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/22</lastupdate>
+				<lastupdate>14/03/03</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 				<temperature>369.5</temperature>
 			</planet>
 			<planet>
 				<name>HD 73526 c</name>
 				<list>Confirmed planets</list>
-				<mass>2.5</mass>
-				<period>377.8</period>
-				<semimajoraxis>1.05</semimajoraxis>
-				<eccentricity>0.14</eccentricity>
+				<mass errorminus="0.12" errorplus="0.12">2.19</mass>
+				<period errorminus="0.69" errorplus="0.69">376.93</period>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">1.03</semimajoraxis>
+				<eccentricity errorminus="0.029" errorplus="0.029">0.198</eccentricity>
+				<description>The planetary system HD 73526 was discovered by the radial velocity method and consists of at least two planets. The orbital parameters have been obtained using a dynamical fit. The goodness-of-fit and long-term stability prefer the system in a configuration with 90 degrees inclination (face on).</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/22</lastupdate>
+				<lastupdate>14/03/03</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 				<temperature>293.3</temperature>
 			</planet>
@@ -36598,14 +36603,15 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>KIC 7109675</name>
 		<rightascension>19 17 04</rightascension>
 		<declination>+42 36 15</declination>
-		<distance>848.20</distance>
+		<distance>855</distance>
 		<star>
 			<name>Kepler-46</name>
 			<name>KOI-872</name>
 			<name>KIC 7109675</name>
-			<temperature errorminus="00" errorplus="200">5309</temperature>
-			<radius errorminus=".441" errorplus="0.441">0.790</radius>
+			<temperature errorminus="200" errorplus="200">5309</temperature>
+			<radius errorminus="0.441" errorplus="0.441">0.790</radius>
 			<mass errorminus="0.1000" errorplus="0.1000">0.8200</mass>
+			<metallicity>0.410</metallicity>
 			<planet>
 				<name>Kepler-46 b</name>
 				<name>KOI-872 b</name>
@@ -36617,24 +36623,44 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<transittime errorminus="0.0004600" errorplus="0.0004600">2455019.6776800</transittime>
 				<list>Confirmed planets</list>
 				<description>Kepler-46 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 b are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+				<lastupdate>14/03/06</lastupdate>
 				<discoverymethod>transit</discoverymethod>
+				<temperature>543</temperature>
+				<inclination>89.038</inclination>
+				<eccentricity>0.010</eccentricity>
+				<semimajoraxis>0.19680</semimajoraxis>
 			</planet>
 			<planet>
 				<name>Kepler-46 c</name>
-				<name>KOI-872 c</name>
+				<mass errorminus="0.019" errorplus="0.021">0.376</mass>
+				<period errorminus="0.000030" errorplus="0.000030">57.011</period>
+				<list>Confirmed planets</list>
+				<discoveryyear>2012</discoveryyear>
+				<lastupdate>14/03/06</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<temperature>455</temperature>
+				<inclination>87.400</inclination>
+				<eccentricity>0.015</eccentricity>
+				<semimajoraxis>0.27990</semimajoraxis>
+			</planet>
+			<planet>
+				<name>Kepler-46 d</name>
+				<name>KOI-872 d</name>
 				<name>KOI-872.02</name>
-				<name>KIC 7109675 c</name>
+				<name>KIC 7109675 d</name>
 				<name>KIC 7109675.02</name>
 				<radius errorminus="0.08384" errorplus="0.08384">0.14945</radius>
-				<period errorminus=".000022" errorplus="0.000022">6.766589</period>
+				<period errorminus="0.000022" errorplus="0.000022">6.766589</period>
 				<transittime errorminus="0.0019200" errorplus="0.0019200">2454971.0589100</transittime>
 				<list>Confirmed planets</list>
-				<description>Kepler-46 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 c are still unknown, the object is highly unlikely to be a false positive.</description>
+				<description>Kepler-46 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>14/03/06</lastupdate>
 				<discoverymethod>transit</discoverymethod>
+				<temperature>793</temperature>
+				<inclination>88.240</inclination>
+				<semimajoraxis>0.06700</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -36951,17 +36977,20 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-51</name>
+		<name>KOI-620</name>
 		<rightascension>19 45 55</rightascension>
 		<declination>+49 56 15</declination>
-		<distance>847.55</distance>
+		<distance>986.91</distance>
 		<star>
 			<name>Kepler-51</name>
-			<temperature>5803.0</temperature>
+			<name>KOI-620</name>
 			<magJ errorminus="0.023" errorplus="0.023">13.562</magJ>
 			<magH errorminus="0.023" errorplus="0.023">13.219</magH>
-			<magK errorminus="0.04" errorplus="0.04">13.20</magK>
-			<mass>1.00</mass>
-			<radius>0.91</radius>
+			<magK errorminus="0.037" errorplus="0.037">13.197</magK>
+			<radius errorminus="0.5000" errorplus="0.5000">0.9400</radius>
+			<mass errorminus="0.1200" errorplus="0.1200">1.0400</mass>
+			<age errorminus="2.3000" errorplus="2.3000">0.3000</age>
+			<temperature errorminus="107.00" errorplus="107.00">6018.00</temperature>
 			<planet>
 				<name>Kepler-51 b</name>
 				<name>KOI-620.01</name>
@@ -36969,11 +36998,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<list>Confirmed planets</list>
 				<mass>0.175787</mass>
 				<radius>0.642469</radius>
-				<period>45.1555023</period>
+				<period errorminus="0.000019" errorplus="0.000019">45.155314</period>
 				<transittime errorminus="0.00062" errorplus="0.00062" unit="BJD">2455092.10435</transittime>
 				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/08/19</lastupdate>
+				<lastupdate>14/03/05</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
 			<planet>
@@ -36983,11 +37012,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<list>Confirmed planets</list>
 				<mass>0.113864</mass>
 				<radius>0.520354</radius>
-				<period>85.3128662</period>
+				<period errorminus="0.00022" errorplus="0.00022">85.31644</period>
 				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455228.32095</transittime>
 				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/08/19</lastupdate>
+				<lastupdate>14/03/05</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
 			<planet>
@@ -36996,13 +37025,16 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>KOI-620.02</name>
 				<name>KIC 11773022 d</name>
 				<name>KIC 11773022.02</name>
-				<radius errorminus="0.08840" errorplus="0.45292">0.94958</radius>
-				<period errorminus=".000142" errorplus="0.000142">130.179811</period>
-				<transittime errorminus="0.0005900" errorplus="0.0005900">2455045.0277600</transittime>
+				<radius errorminus="0.48299" errorplus="0.48299">0.91130</radius>
+				<period errorminus="0.000071" errorplus="0.000071">130.178058</period>
+				<transittime errorminus="0.0006200" errorplus="0.0006200">2455045.0234500</transittime>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">0.509</semimajoraxis>
+				<temperature>381.0</temperature>
+				<mass errorminus="0.00346096970078" errorplus="0.00346096970078">0.0239121542963</mass>
 				<list>Confirmed planets</list>
 				<description>Kepler-51 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-51 d are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>14/03/05</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 			</planet>
 		</star>
@@ -42232,7 +42264,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<name>tau Boo</name>
 		<rightascension>13 47 17</rightascension>
 		<declination>+17 27 22</declination>
-		<distance>15.6</distance>
+		<distance errorminus="0.05" errorplus="0.05">15.62</distance>
 		<binary>
 			<semimajoraxis>245</semimajoraxis>
 			<eccentricity>0.91</eccentricity>
@@ -42242,8 +42274,8 @@ Credit: ESO/L. Calcada</imagedescription>
 				<name>HD 120136 A</name>
 				<name>GJ 527 A</name>
 				<name>Gliese 527 A</name>
-				<mass>1.3</mass>
-				<radius>1.331</radius>
+				<mass errorminus="0.039" errorplus="0.054">1.341</mass>
+				<radius errorminus="0.027" errorplus="0.027">1.331</radius>
 				<magV>4.5</magV>
 				<magB>4.98</magB>
 				<magR>4.2</magR>
@@ -42251,7 +42283,9 @@ Credit: ESO/L. Calcada</imagedescription>
 				<magJ>3.62</magJ>
 				<magH>3.55</magH>
 				<magK errorminus="0.05" errorplus="0.05">3.36</magK>
-				<metallicity>0.28</metallicity>
+				<metallicity>0.25</metallicity>
+				<temperature>6375</temperature>
+				<age errorminus="0.35" errorplus="0.35">1.95</age>
 				<spectraltype>F7 V</spectraltype>
 				<planet>
 					<name>tau Boo A b</name>
@@ -42260,18 +42294,19 @@ Credit: ESO/L. Calcada</imagedescription>
 					<name>GJ 527 A b</name>
 					<name>Gliese 527 A b</name>
 					<list>Confirmed planets</list>
-					<mass>5.95</mass>
-					<period>3.3135</period>
+					<mass errorminus="0.2" errorplus="0.35">5.90</mass>
+					<period>3.312</period>
 					<semimajoraxis>0.046</semimajoraxis>
 					<eccentricity>0.023</eccentricity>
-					<inclination>44.5</inclination>
+					<inclination errorminus="4" errorplus="3">45</inclination>
 					<description>The planet Tau Bootis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time.</description>
+					<temperature>2000</temperature>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>12/07/05</lastupdate>
+					<lastupdate>14/03/04</lastupdate>
 					<discoveryyear>1996</discoveryyear>
 					<image>tauboo</image>
 					<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
-		
+
 		Credit: ESO/L. Calcada</imagedescription>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
@@ -42810,28 +42845,30 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+31 59 24</declination>
 		<distance errorminus="27" errorplus="27">408</distance>
 		<star>
-			<mass>1.24</mass>
-			<radius>1.382</radius>
+			<mass errorminus="0.07" errorplus="0.05">1.24</mass>
+			<radius errorminus="0.032" errorplus="0.022">1.470</radius>
+			<age errorminus="0.6" errorplus="1.2">3.4</age>
 			<magV>11.79</magV>
 			<magB errorminus="0.21" errorplus="0.21">12.06</magB>
 			<magJ errorminus="0.019" errorplus="0.019">10.586</magJ>
 			<magH errorminus="0.016" errorplus="0.016">10.364</magH>
 			<magK errorminus="0.018" errorplus="0.018">10.276</magK>
 			<spectraltype>F7V</spectraltype>
+			<metallicity errorminus="0.08" errorplus="0.08">0.23</metallicity>
 			<planet>
 				<name>WASP-1 b</name>
 				<name>TYC 2265-00107-1 b</name>
 				<name>2MASS J00204007+3159239 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.86</mass>
-				<radius>1.484</radius>
+				<mass errorminus="0.052" errorplus="0.057">0.854</mass>
+				<radius errorminus="0.034" errorplus="0.024">1.483</radius>
 				<period>2.5199464</period>
-				<semimajoraxis>0.0382</semimajoraxis>
+				<semimajoraxis errorminus="0.00073" errorplus="0.00053">0.03889</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>88.65</inclination>
+				<inclination errorminus="1.3" errorplus="1.3">90.0</inclination>
 				<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2454774.3502</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/06/15</lastupdate>
+				<lastupdate>14/03/05</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 				<temperature>1644.3</temperature>
 			</planet>
