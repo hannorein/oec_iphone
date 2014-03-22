@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Gliese 676 A b</id_exoplaneteu>
+	<name>Gliese 676 A b</name>
+	<name>GJ 676 A b</name>
+	<id>Gliese 676 A b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>4.95</mass>
+		<radius />
+		<orbit>
+			<period>1050.3</period>
+			<semimajoraxis>1.80</semimajoraxis>
+			<eccentricity>0.328</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M0V</spectraltype>
+		<mass>0.71</mass>
+		<radius />
+		<metallicity>0.23</metallicity>
+		<distance>16.5</distance>
+		<temperature />
+		<rightascension>17 30 11</rightascension>
+		<declination>-51 38 13</declination>
+		<angulardistance />
+		<magV>9.58</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2009</discoveryyear>
+	<lastupdate>12/12/05</lastupdate>
+	<description>This gas giant was found in 2009 and announced in 2011. At that time there were strong indications for more planets but more data was needed to confirm them.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

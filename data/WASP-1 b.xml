@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-1 b</id_exoplaneteu>
+	<name>WASP-1 b</name>
+	<name>TYC 2265-00107-1 b</name>
+	<name>2MASS J00204007+3159239 b</name>
+	<id>WASP-1 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.854</mass>
+		<radius>1.483</radius>
+		<orbit>
+			<period>2.5199464</period>
+			<semimajoraxis>0.03889</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>90.0</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F7V</spectraltype>
+		<mass>1.24</mass>
+		<radius>1.470</radius>
+		<metallicity>0.23</metallicity>
+		<distance>408</distance>
+		<temperature>1644.3</temperature>
+		<rightascension>00 20 40</rightascension>
+		<declination>+31 59 24</declination>
+		<angulardistance />
+		<magV>11.79</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2006</discoveryyear>
+	<lastupdate>14/03/05</lastupdate>
+	<description />
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-99 b</id_exoplaneteu>
+	<name>Kepler-99 b</name>
+	<name>KOI-305.01</name>
+	<name>KIC 6063220 b</name>
+	<id>Kepler-99 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.019346</mass>
+		<radius>0.134873</radius>
+		<orbit>
+			<period>4.60358</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.79</mass>
+		<radius>0.73</radius>
+		<metallicity>0.18</metallicity>
+		<distance>221.3</distance>
+		<temperature>4782</temperature>
+		<rightascension>19 49 25</rightascension>
+		<declination>+41 18 0</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

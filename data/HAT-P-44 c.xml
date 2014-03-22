@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HAT-P-44 c</id_exoplaneteu>
+	<name>HAT-P-44 c</name>
+	<name>GSC 3465-00123 c</name>
+	<name>2MASS 14123457+4700528 c</name>
+	<id>HAT-P-44 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.6</mass>
+		<radius />
+		<orbit>
+			<period>219.9</period>
+			<semimajoraxis>0.699</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.939</mass>
+		<radius>0.979</radius>
+		<metallicity>0.33</metallicity>
+		<distance>374</distance>
+		<temperature>5295</temperature>
+		<rightascension>14 12 35</rightascension>
+		<declination>+47 00 53</declination>
+		<angulardistance />
+		<magV>13.212</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/08/16</lastupdate>
+	<description>This planet was discovered by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature. However, due to aliasing one cannot rule out an alternative solution for the outer planet having a period of 438 days and a minimum mass of 3.7 Jupiter masses.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

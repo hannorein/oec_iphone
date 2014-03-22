@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-102 d</id_exoplaneteu>
+	<name>Kepler-102 d</name>
+	<name>KOI-82.02</name>
+	<name>KIC 10187017 d</name>
+	<id>Kepler-102 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.011954</mass>
+		<radius>0.107534</radius>
+		<orbit>
+			<period>10.3117</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.80</mass>
+		<radius>0.74</radius>
+		<metallicity>0.08</metallicity>
+		<distance>119.3</distance>
+		<temperature>4903</temperature>
+		<rightascension>18 45 55</rightascension>
+		<declination>+47 12 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

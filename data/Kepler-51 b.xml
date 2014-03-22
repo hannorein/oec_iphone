@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-51 b</id_exoplaneteu>
+	<name>Kepler-51 b</name>
+	<name>KOI-620.01</name>
+	<name>KID 11773022</name>
+	<id>Kepler-51 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.175787</mass>
+		<radius>0.642469</radius>
+		<orbit>
+			<period>45.155314</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0400</mass>
+		<radius>0.9400</radius>
+		<metallicity />
+		<distance>986.91</distance>
+		<temperature>6018.00</temperature>
+		<rightascension>19 45 55</rightascension>
+		<declination>+49 56 15</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>14/03/05</lastupdate>
+	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Earth</id_exoplaneteu>
+	<name>Earth</name>
+	<name>Sun d</name>
+	<name>Moon</name>
+	<id>Earth</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.0031457007</mass>
+		<radius>0.091130294</radius>
+		<orbit>
+			<period>365.2422</period>
+			<semimajoraxis>1.00000018</semimajoraxis>
+			<eccentricity>0.01673163</eccentricity>
+			<inclination>89.999457</inclination>
+			<periastron>102.93005885</periastron>
+			<longitude>100.46691572</longitude>
+			<ascendingnode>-5.11260389</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2V</spectraltype>
+		<mass>1</mass>
+		<radius>1</radius>
+		<metallicity>0.00000001</metallicity>
+		<distance />
+		<temperature>5778</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>9</multiplicity>
+	<discoveryyear />
+	<lastupdate>12/01/01</lastupdate>
+	<description>Earth is the only known planet able to sustain life.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Solar System</list>
+</planet>

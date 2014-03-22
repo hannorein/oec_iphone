@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-89 d</id_exoplaneteu>
+	<name>Kepler-89 d</name>
+	<name>KOI-94 d</name>
+	<name>KOI-94.01</name>
+	<name>KIC 6462863 d</name>
+	<name>KIC 6462863.01</name>
+	<id>Kepler-89 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.33344427</mass>
+		<radius>1.0270384</radius>
+		<orbit>
+			<period>22.3429890</period>
+			<semimajoraxis>0.1684</semimajoraxis>
+			<eccentricity>0.022</eccentricity>
+			<inclination>89.871</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.277</mass>
+		<radius>1.52</radius>
+		<metallicity>0.0228</metallicity>
+		<distance>426.2</distance>
+		<temperature>6182</temperature>
+		<rightascension>19 49 19</rightascension>
+		<declination>+41 53 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>13/03/15</lastupdate>
+	<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

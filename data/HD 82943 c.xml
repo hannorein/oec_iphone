@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 82943 c</id_exoplaneteu>
+	<name>HD 82943 c</name>
+	<id>HD 82943 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.01</mass>
+		<radius />
+		<orbit>
+			<period>219.3</period>
+			<semimajoraxis>0.7423</semimajoraxis>
+			<eccentricity>0.425</eccentricity>
+			<inclination>19.41</inclination>
+			<periastron>133</periastron>
+			<longitude>256</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0</spectraltype>
+		<mass>1.13</mass>
+		<radius>1.12</radius>
+		<metallicity>0.32</metallicity>
+		<distance>27.46</distance>
+		<temperature>5874.0</temperature>
+		<rightascension>09 34 50</rightascension>
+		<declination>-12 07 46</declination>
+		<angulardistance />
+		<magV>6.54</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2003</discoveryyear>
+	<lastupdate>13/06/05</lastupdate>
+	<description>The planetary system HD 82943 consists of two planets in a 2:1 mean motion resonance. Both resonant angles are librating around zero. The orbital parameters are based on 10 years of radial velocity measurements with the Keck telescope.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

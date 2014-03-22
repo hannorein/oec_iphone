@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>OGLE-2011-BLG-0251 b</id_exoplaneteu>
+	<name>OGLE-2011-BLG-0251 b</name>
+	<id>OGLE-2011-BLG-0251 b</id>
+	<discoverymethod>microlensing</discoverymethod>
+	<properties>
+		<mass>0.53</mass>
+		<radius />
+		<orbit>
+			<period />
+			<semimajoraxis>2.72</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M</spectraltype>
+		<mass>0.26</mass>
+		<radius />
+		<metallicity />
+		<distance>2570</distance>
+		<temperature />
+		<rightascension>17 38 14</rightascension>
+		<declination>-27 08 10</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/03/07</lastupdate>
+	<description>The planet OGLE-2011-BLG-0251 b was discovered using gravitational microlensing. The host star is an M dwarf. It is located towards the Galactic Bulge. The planet lies beyond the snow-line, an important clue for planet formation models.</description>
+	<new />
+	<image>OGLE-2011-BLG-0251</image>
+	<imagedescription>This plot shows the light curve of the OGLE-2011-BLG-0251 microlensing event. The main magnification is due to the host star, only the tiny perturbation near the peak is the signal caused by the planet.
+			
+Credit: Kains et al (2013).</imagedescription>
+	<list>Confirmed planets</list>
+</planet>

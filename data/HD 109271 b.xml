@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HD 109271 b</id_exoplaneteu>
+	<name>HD 109271 b</name>
+	<name>HIP 61300 b</name>
+	<id>HD 109271 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.054</mass>
+		<radius />
+		<orbit>
+			<period>7.8543</period>
+			<semimajoraxis>0.079</semimajoraxis>
+			<eccentricity>0.25</eccentricity>
+			<inclination />
+			<periastron>-64</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5V</spectraltype>
+		<mass>1.047</mass>
+		<radius />
+		<metallicity>0.10</metallicity>
+		<distance>62</distance>
+		<temperature>5783</temperature>
+		<rightascension>12 33 35</rightascension>
+		<declination>-11 37 18</declination>
+		<angulardistance />
+		<magV>8.05</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/01/14</lastupdate>
+	<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

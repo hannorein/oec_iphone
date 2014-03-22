@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 73526 c</id_exoplaneteu>
+	<name>HD 73526 c</name>
+	<id>HD 73526 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.19</mass>
+		<radius />
+		<orbit>
+			<period>376.93</period>
+			<semimajoraxis>1.03</semimajoraxis>
+			<eccentricity>0.198</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G6 V</spectraltype>
+		<mass>1.08</mass>
+		<radius>1.49</radius>
+		<metallicity>0.25</metallicity>
+		<distance>99</distance>
+		<temperature>369.5</temperature>
+		<rightascension>08 37 16</rightascension>
+		<declination>-41 19 08</declination>
+		<angulardistance />
+		<magV>9</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2006</discoveryyear>
+	<lastupdate>14/03/03</lastupdate>
+	<description>The planetary system HD 73526 was discovered by the radial velocity method and consists of at least two planets. The orbital parameters have been obtained using a dynamical fit. The goodness-of-fit and long-term stability prefer the system in a configuration with 90 degrees inclination (face on).</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

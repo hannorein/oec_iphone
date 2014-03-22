@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Kepler-138 b</id_exoplaneteu>
+	<name>Kepler-138 b</name>
+	<name>KOI-314.03</name>
+	<name>KIC 7603200 b</name>
+	<name>KIC 7603200.03</name>
+	<id>Kepler-138 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.05559</radius>
+		<orbit>
+			<period>10.312364</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M1V</spectraltype>
+		<mass>0.57</mass>
+		<radius>0.54</radius>
+		<metallicity />
+		<distance>114.07</distance>
+		<temperature>3871</temperature>
+		<rightascension>19 21 31</rightascension>
+		<declination>+43 17 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/26</lastupdate>
+	<description>Kepler-138 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-138 b are still unknown, the object is highly unlikely to be a false positive.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

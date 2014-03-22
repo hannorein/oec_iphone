@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-90 b</id_exoplaneteu>
+	<name>WASP-90 b</name>
+	<name>1SWASP J210207.70+070323.7 b</name>
+	<name>2MASS 01463185+0242019 b</name>
+	<id>WASP-90 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.63</mass>
+		<radius>1.63</radius>
+		<orbit>
+			<period>3.916243</period>
+			<semimajoraxis>0.0562</semimajoraxis>
+			<eccentricity />
+			<inclination>82.1</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F6</spectraltype>
+		<mass>1.55</mass>
+		<radius>1.98</radius>
+		<metallicity>0.11</metallicity>
+		<distance>340</distance>
+		<temperature>6430</temperature>
+		<rightascension>21 02 08</rightascension>
+		<declination>+07 03 24</declination>
+		<angulardistance />
+		<magV>11.7</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/10/22</lastupdate>
+	<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>Jupiter</id_exoplaneteu>
+	<name>Jupiter</name>
+	<name>Sun f</name>
+	<name>Callisto</name>
+	<name>Europa</name>
+	<name>Ganymede</name>
+	<name>Io</name>
+	<id>Jupiter</id>
+	<discoverymethod />
+	<properties>
+		<mass>1</mass>
+		<radius>1</radius>
+		<orbit>
+			<period>4332.82</period>
+			<semimajoraxis>5.20248019</semimajoraxis>
+			<eccentricity>0.04853590</eccentricity>
+			<inclination>91.298614</inclination>
+			<periastron>14.27495244</periastron>
+			<longitude>34.33479152</longitude>
+			<ascendingnode>100.29282654</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2V</spectraltype>
+		<mass>1</mass>
+		<radius>1</radius>
+		<metallicity>0.00000001</metallicity>
+		<distance />
+		<temperature>5778</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>9</multiplicity>
+	<discoveryyear />
+	<lastupdate>12/01/01</lastupdate>
+	<description>Jupiter is two and a half times the mass of all the other planets in the Solar System.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Solar System</list>
+</planet>

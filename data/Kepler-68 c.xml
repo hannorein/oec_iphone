@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Kepler-68 c</id_exoplaneteu>
+	<name>Kepler-68 c</name>
+	<name>KIC 11295426 c</name>
+	<name>2MASS J19240775+4902249 c</name>
+	<name>KOI-246.02</name>
+	<id>Kepler-68 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.01509936</mass>
+		<radius>0.0868471</radius>
+		<orbit>
+			<period>9.605085</period>
+			<semimajoraxis>0.09059</semimajoraxis>
+			<eccentricity />
+			<inclination>86.93</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>1.079</mass>
+		<radius>1.243</radius>
+		<metallicity>0.12</metallicity>
+		<distance>135</distance>
+		<temperature>5793</temperature>
+		<rightascension>19 24 07</rightascension>
+		<declination>+49 02 25</declination>
+		<angulardistance />
+		<magV>4.34</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/02/13</lastupdate>
+	<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 c is Earth-sized.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

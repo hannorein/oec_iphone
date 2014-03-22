@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>HD 97658 b</id_exoplaneteu>
+	<name>HD 97658 b</name>
+	<name>GJ 3651 b</name>
+	<name>BD +26 2184 b</name>
+	<name>HIP 54906 b</name>
+	<id>HD 97658 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.023754977</mass>
+		<radius>0.213245</radius>
+		<orbit>
+			<period>9.4903</period>
+			<semimajoraxis>0.08</semimajoraxis>
+			<eccentricity>0.078</eccentricity>
+			<inclination>89.14</inclination>
+			<periastron>351</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1V</spectraltype>
+		<mass>0.77</mass>
+		<radius>0.741</radius>
+		<metallicity>-0.23</metallicity>
+		<distance>21.11</distance>
+		<temperature>5119.0</temperature>
+		<rightascension>11 14 33</rightascension>
+		<declination>+25 42 37</declination>
+		<angulardistance />
+		<magV>7.714</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2010</discoveryyear>
+	<lastupdate>14/03/03</lastupdate>
+	<description>Models suggest that HD 97658 b has a rocky core that is enveloped in an atmosphere composed of lighter elements. The planet's host star is the second brightest known to host a transiting super-Earth which facilitates folllow-up observations.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-210 b</id_exoplaneteu>
+	<name>Kepler-210 b</name>
+	<name>KOI-676 b</name>
+	<name>KOI-676.02</name>
+	<name>KIC 7447200 b</name>
+	<name>KIC 7447200.02</name>
+	<id>Kepler-210 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.3419</radius>
+		<orbit>
+			<period>2.4532</period>
+			<semimajoraxis>0.01420769609</semimajoraxis>
+			<eccentricity />
+			<inclination>77.86</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K</spectraltype>
+		<mass>0.6120</mass>
+		<radius>0.650</radius>
+		<metallicity />
+		<distance>265.15</distance>
+		<temperature>4559</temperature>
+		<rightascension>19 30 00</rightascension>
+		<declination>+43 04 59</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/03/14</lastupdate>
+	<description>Kepler-210 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-210 b are still unknown, the object is highly unlikely to be a false positive.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

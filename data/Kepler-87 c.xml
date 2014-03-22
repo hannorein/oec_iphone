@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-87 c</id_exoplaneteu>
+	<name>Kepler-87 c</name>
+	<name>KOI-1574 c</name>
+	<name>KOI-1574 02</name>
+	<id>Kepler-87 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.020132</mass>
+		<radius>0.559540</radius>
+		<orbit>
+			<period>192.363</period>
+			<semimajoraxis>0.664</semimajoraxis>
+			<eccentricity>0.039</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.05</mass>
+		<radius>1.82</radius>
+		<metallicity>-0.17</metallicity>
+		<distance>781.83</distance>
+		<temperature>5600</temperature>
+		<rightascension>19 51 40</rightascension>
+		<declination>+46 57 54</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/10/14</lastupdate>
+	<description>The Kepler-87 system consists of at least two planets. The planets have been confirmed using transit timing variations (TTV). Kepler-87 c is the lowest density planet in the super-Earth range.</description>
+	<new />
+	<image>Kepler87</image>
+	<imagedescription>Artist's impression of Kepler-87 c.
+			
+Credit: Joe Gallagher.</imagedescription>
+	<list>Confirmed planets</list>
+</planet>

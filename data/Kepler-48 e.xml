@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-48 e</id_exoplaneteu>
+	<name>Kepler-48 e</name>
+	<name>KOI-148.10</name>
+	<name>KIC 5735762 e</name>
+	<id>Kepler-48 e</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.066725</mass>
+		<radius />
+		<orbit>
+			<period>982</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.89</mass>
+		<radius>0.89</radius>
+		<metallicity />
+		<distance>313.14</distance>
+		<temperature>5190.0</temperature>
+		<rightascension>19 56 33</rightascension>
+		<declination>+40 56 56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/02/24</lastupdate>
+	<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

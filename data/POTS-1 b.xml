@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>POTS-1 b</id_exoplaneteu>
+	<name>POTS-1 b</name>
+	<name>2MASS 13342613-6634520 b</name>
+	<id>POTS-1 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.31</mass>
+		<radius>0.941</radius>
+		<orbit>
+			<period>3.16062960</period>
+			<semimajoraxis>0.03734</semimajoraxis>
+			<eccentricity />
+			<inclination>88.6</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K5V</spectraltype>
+		<mass>0.695</mass>
+		<radius>0.588</radius>
+		<metallicity>-0.03</metallicity>
+		<distance>1200</distance>
+		<temperature>4400</temperature>
+		<rightascension>13 34 26</rightascension>
+		<declination>-66 34 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/09/01</lastupdate>
+	<description>POTS-1 b is a Hot Jupiter and the first planet discovered by the pre-OmegaTranS project survey. This survey is looking at the Carina region of the Galactic disc with the European Southern Observatory Wide Field Imager at La Silla Observatory.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

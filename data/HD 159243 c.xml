@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 159243 c</id_exoplaneteu>
+	<name>HD 159243 c</name>
+	<id>HD 159243 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.9</mass>
+		<radius />
+		<orbit>
+			<period>248.4</period>
+			<semimajoraxis>0.8</semimajoraxis>
+			<eccentricity>0.075</eccentricity>
+			<inclination />
+			<periastron>69</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0V</spectraltype>
+		<mass>1.125</mass>
+		<radius>1.12</radius>
+		<metallicity>0.05</metallicity>
+		<distance>69.2</distance>
+		<temperature>6123</temperature>
+		<rightascension>17 33 22</rightascension>
+		<declination>+05 42 03</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/11/22</lastupdate>
+	<description>The HD 159243 system contains two planets, one of which (HD 159243 b) is a hot Jupiter with an orbital period of 12.6 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

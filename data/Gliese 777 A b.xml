@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Gliese 777 A b</id_exoplaneteu>
+	<name>Gliese 777 A b</name>
+	<name>HD 190360 A b</name>
+	<name>HR 7670 A b</name>
+	<id>Gliese 777 A b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.502</mass>
+		<radius />
+		<orbit>
+			<period>2891</period>
+			<semimajoraxis>3.92</semimajoraxis>
+			<eccentricity>0.36</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G6 IV</spectraltype>
+		<mass>1.04</mass>
+		<radius>1.2</radius>
+		<metallicity>0.24</metallicity>
+		<distance>15.89</distance>
+		<temperature />
+		<rightascension>20 03 37</rightascension>
+		<declination>+29 53 48</declination>
+		<angulardistance />
+		<magV>5.71</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2003</discoveryyear>
+	<lastupdate>12/12/08</lastupdate>
+	<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
