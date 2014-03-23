@@ -1,4 +1,4 @@
-<planets date="2014-03-22" name="data" planets="1796">
+<planets date="2014-03-23" name="data" planets="1797">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -48087,6 +48087,29 @@ Image credit: Joe Gallagher</imagedescription>
 		<lastupdate>12/10/24</lastupdate>
 		<description>This object was observed in a gravitational mirolensing event. A good mass estimate could not be obtained although the object is most likely of planetary nature. Unfortunately microlensing events are not repeatable and the planet is therefore marked as controversial.</description>
 		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-2013-BLG-220L b</id_exoplaneteu>
+		<name>MOA-2013-BLG-220L b</name>
+		<id>MOA-2013-BLG-220L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.188780165497</mass>
+			<orbit>
+				<semimajoraxis>0.7</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.05</mass>
+			<distance>2000</distance>
+			<rightascension>18 03 57</rightascension>
+			<declination>-28 27 19</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/03/23</lastupdate>
+		<description>MOA-2013-BLG-220L is a microlensing event observed in 2013. The most likely candidate for the lens system is a planet orbiting a brown dwarf host star. Many of the parameters are uncertain and followup observations are required to further constrain the system. Observations will become possible in 2021 when the lens and source will have separated sufficiently to be resolved in high resolution images.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>MOA-bin-1 b</id_exoplaneteu>
