@@ -7,12 +7,12 @@
 	<id>Gliese 433 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.14</mass>
+		<mass>0.1416</mass>
 		<radius />
 		<orbit>
-			<period>3693</period>
+			<period>3400</period>
 			<semimajoraxis>3.6</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
+			<eccentricity>0.08</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -42,5 +42,5 @@
 	<new />
 	<image />
 	<imagedescription />
-	<list>Controversial</list>
+	<list>Confirmed planets</list>
 </planet>

@@ -5,13 +5,13 @@
 	<id>HAT-P-18 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.197</mass>
-		<radius>0.995</radius>
+		<mass>0.196</mass>
+		<radius>0.947</radius>
 		<orbit>
-			<period>5.508023</period>
+			<period>5.507978</period>
 			<semimajoraxis>0.0559</semimajoraxis>
-			<eccentricity>0.084</eccentricity>
-			<inclination>88.8</inclination>
+			<eccentricity>0.009</eccentricity>
+			<inclination>88.79</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -19,11 +19,11 @@
 	</properties>
 	<star>
 		<spectraltype>K</spectraltype>
-		<mass>0.77</mass>
-		<radius>0.749</radius>
+		<mass>0.770</mass>
+		<radius>0.717</radius>
 		<metallicity>0.1</metallicity>
 		<distance>166</distance>
-		<temperature>774.9</temperature>
+		<temperature>841</temperature>
 		<rightascension>17 05 24</rightascension>
 		<declination>+33 00 45</declination>
 		<angulardistance />
@@ -35,7 +35,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/07/29</lastupdate>
+	<lastupdate>14/03/31</lastupdate>
 	<description />
 	<new />
 	<image />

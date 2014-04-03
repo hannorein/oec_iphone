@@ -1,14 +1,15 @@
 <planet>
 	<id_exoplaneteu>KOI-142 c</id_exoplaneteu>
 	<name>KOI-142 c</name>
+	<name>Kepler-88 c</name>
 	<id>KOI-142 c</id>
 	<discoverymethod>timing</discoverymethod>
 	<properties>
-		<mass>0.67915677</mass>
+		<mass>0.76</mass>
 		<radius />
 		<orbit>
-			<period>22.3383</period>
-			<semimajoraxis />
+			<period>22.1</period>
+			<semimajoraxis>0.1529</semimajoraxis>
 			<eccentricity>0.05628</eccentricity>
 			<inclination>3.7</inclination>
 			<periastron>271.1</periastron>
@@ -17,12 +18,12 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.974</mass>
+		<spectraltype>B</spectraltype>
+		<mass>1.022</mass>
 		<radius>0.961</radius>
-		<metallicity>0.25</metallicity>
+		<metallicity>0.37</metallicity>
 		<distance>385</distance>
-		<temperature>5460</temperature>
+		<temperature>5513</temperature>
 		<rightascension>19 24 35</rightascension>
 		<declination>+40 40 09</declination>
 		<angulardistance />

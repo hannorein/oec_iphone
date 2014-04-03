@@ -1,9 +1,11 @@
 <planet>
-	<id_exoplaneteu>KOI-204 b</id_exoplaneteu>
+	<id_exoplaneteu>Kepler-44 b</id_exoplaneteu>
+	<name>Kepler-44 b</name>
 	<name>KOI-204 b</name>
+	<name>KOI-204.01</name>
 	<name>2MASS J20002456+4545437 b</name>
 	<name>KIC 9305831 b</name>
-	<id>KOI-204 b</id>
+	<id>Kepler-44 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>1.02</mass>
@@ -24,11 +26,11 @@
 		<radius>1.52</radius>
 		<metallicity>0.26</metallicity>
 		<distance>2250</distance>
-		<temperature />
+		<temperature>5757</temperature>
 		<rightascension>20 00 25</rightascension>
 		<declination>+45 45 44</declination>
 		<angulardistance />
-		<magV>15</magV>
+		<magV />
 		<magI />
 		<magH />
 		<magJ />
@@ -36,7 +38,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/10/26</lastupdate>
+	<lastupdate>13/03/25</lastupdate>
 	<description />
 	<new />
 	<image />

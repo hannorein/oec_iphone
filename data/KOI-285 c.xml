@@ -1,15 +1,16 @@
 <planet>
 	<id_exoplaneteu>KOI-285 c</id_exoplaneteu>
 	<name>KOI-285 c</name>
-	<name>KOI-285 2</name>
+	<name>KOI-285.02</name>
+	<name>Kepler-92 c</name>
 	<id>KOI-285 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.01825</mass>
-		<radius>0.23694</radius>
+		<mass>0.0191927629</mass>
+		<radius>0.233</radius>
 		<orbit>
 			<period>26.723</period>
-			<semimajoraxis />
+			<semimajoraxis>0.18400</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -24,8 +25,8 @@
 		<metallicity />
 		<distance>367.56</distance>
 		<temperature>5883.00</temperature>
-		<rightascension>19 16 20</rightascension>
-		<declination>+41 33 46</declination>
+		<rightascension>19 16 21</rightascension>
+		<declination>+41 33 47</declination>
 		<angulardistance />
 		<magV>11.67</magV>
 		<magI />
@@ -35,7 +36,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/09/13</lastupdate>
+	<lastupdate>14/03/26</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 	<new />
 	<image />

@@ -1,9 +1,11 @@
 <planet>
-	<id_exoplaneteu>KOI-200 b</id_exoplaneteu>
+	<id_exoplaneteu>Kepler-74 b</id_exoplaneteu>
+	<name>Kepler-74 b</name>
 	<name>KOI-200 b</name>
+	<name>KOI-200.01</name>
 	<name>KIC-6046540 b</name>
 	<name>2MASS 19322220+4121198 b</name>
-	<id>KOI-200 b</id>
+	<id>Kepler-74 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>0.68</mass>
@@ -13,14 +15,14 @@
 			<semimajoraxis>0.084</semimajoraxis>
 			<eccentricity>0.287</eccentricity>
 			<inclination>85.55</inclination>
-			<periastron>64</periastron>
+			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>F8V</spectraltype>
-		<mass>1.40</mass>
+		<mass>1.4</mass>
 		<radius>1.51</radius>
 		<metallicity>0.34</metallicity>
 		<distance>1330</distance>
@@ -28,7 +30,7 @@
 		<rightascension>19 32 22</rightascension>
 		<declination>+41 21 20</declination>
 		<angulardistance />
-		<magV>15</magV>
+		<magV>14.23</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -36,7 +38,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>13/04/22</lastupdate>
+	<lastupdate>13/03/26</lastupdate>
 	<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on an eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible. The planet was first announced in 2012.</description>
 	<new />
 	<image />

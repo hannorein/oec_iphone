@@ -1,28 +1,29 @@
 <planet>
 	<id_exoplaneteu>KOI-142 b</id_exoplaneteu>
 	<name>KOI-142 b</name>
+	<name>Kepler-88 b</name>
 	<id>KOI-142 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.0553643</mass>
-		<radius>0.3854811</radius>
+		<mass>0.0055264</mass>
+		<radius>0.37647</radius>
 		<orbit>
 			<period>10.9542</period>
-			<semimajoraxis />
-			<eccentricity>0.05611</eccentricity>
-			<inclination>0.962</inclination>
+			<semimajoraxis>0.098</semimajoraxis>
+			<eccentricity>0.0561</eccentricity>
+			<inclination>0.931</inclination>
 			<periastron>90.7</periastron>
 			<longitude>6.425</longitude>
 			<ascendingnode>270</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.974</mass>
+		<spectraltype>B</spectraltype>
+		<mass>1.022</mass>
 		<radius>0.961</radius>
-		<metallicity>0.25</metallicity>
+		<metallicity>0.37</metallicity>
 		<distance>385</distance>
-		<temperature>5460</temperature>
+		<temperature>5513</temperature>
 		<rightascension>19 24 35</rightascension>
 		<declination>+40 40 09</declination>
 		<angulardistance />
