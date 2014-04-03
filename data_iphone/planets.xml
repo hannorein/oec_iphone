@@ -2289,13 +2289,13 @@
 		<id>beta Pic b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>8</mass>
+			<mass>7</mass>
 			<radius />
 			<orbit>
-				<period>7300</period>
-				<semimajoraxis>8.5</semimajoraxis>
-				<eccentricity>0.17</eccentricity>
-				<inclination>88.5</inclination>
+				<period>7487.46508</period>
+				<semimajoraxis>9.04</semimajoraxis>
+				<eccentricity>0.06</eccentricity>
+				<inclination>90.69</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -2319,7 +2319,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>12/02/14</lastupdate>
+		<lastupdate>14/04/01</lastupdate>
 		<description />
 		<new />
 		<image>beta Pic</image>
@@ -4691,12 +4691,12 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Gliese 433 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0182</mass>
+			<mass>0.0167</mass>
 			<radius />
 			<orbit>
-				<period>7.3709</period>
-				<semimajoraxis>0.058</semimajoraxis>
-				<eccentricity>0.08</eccentricity>
+				<period>7.3697</period>
+				<semimajoraxis>0.060</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -4721,7 +4721,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>14/03/12</lastupdate>
+		<lastupdate>14/03/31</lastupdate>
 		<description>The star Gliese 433 is a red dwarf in the constellation Hydro. The radial velocity data shows an additional signal with a period of 10 years. However, due to a strong correlation with various activity indicators of the star, it is most likely due to a magnetic cycle and not a planet. The cycle is similar to the Sun's 11 year cycle.</description>
 		<new />
 		<image />
@@ -4737,12 +4737,12 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Gliese 433 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.14</mass>
+			<mass>0.1416</mass>
 			<radius />
 			<orbit>
-				<period>3693</period>
+				<period>3400</period>
 				<semimajoraxis>3.6</semimajoraxis>
-				<eccentricity>0.17</eccentricity>
+				<eccentricity>0.08</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -4772,7 +4772,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 436 b</id_exoplaneteu>
@@ -4783,11 +4783,11 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Gliese 436 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0737</mass>
-			<radius>0.365</radius>
+			<mass>0.0727</mass>
+			<radius>0.3767</radius>
 			<orbit>
-				<period>2.6438986</period>
-				<semimajoraxis>0.02887</semimajoraxis>
+				<period>2.643850</period>
+				<semimajoraxis>0.02872</semimajoraxis>
 				<eccentricity>0.15</eccentricity>
 				<inclination>85.8</inclination>
 				<periastron />
@@ -4796,11 +4796,11 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5V</spectraltype>
+			<spectraltype>M2V</spectraltype>
 			<mass>0.452</mass>
 			<radius>0.464</radius>
 			<metallicity>-0.32</metallicity>
-			<distance>10.2</distance>
+			<distance>10.14</distance>
 			<temperature>650.3</temperature>
 			<rightascension>11 42 11</rightascension>
 			<declination>+26 42 23</declination>
@@ -4813,7 +4813,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>12/07/20</lastupdate>
+		<lastupdate>14/03/31</lastupdate>
 		<description>The star Gliese 436 is located in the constellation Leo. Due to tidal forces the planet Gliese 436b is expected to circularise on short timescales. It might be perturbed by an additional planet in the system.</description>
 		<new />
 		<image />
@@ -4843,11 +4843,11 @@ Credit: Joe Gallagher.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5V</spectraltype>
+			<spectraltype>M2V</spectraltype>
 			<mass>0.452</mass>
 			<radius>0.464</radius>
 			<metallicity>-0.32</metallicity>
-			<distance>10.2</distance>
+			<distance>10.14</distance>
 			<temperature>650.3</temperature>
 			<rightascension>11 42 11</rightascension>
 			<declination>+26 42 23</declination>
@@ -6108,13 +6108,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.2756</mass>
+			<mass>1.927</mass>
 			<radius />
 			<orbit>
-				<period>61.1166</period>
+				<period>61.03</period>
 				<semimajoraxis>0.208317</semimajoraxis>
-				<eccentricity>0.0324</eccentricity>
-				<inclination>59</inclination>
+				<eccentricity>0</eccentricity>
+				<inclination>84</inclination>
 				<periastron>50.3</periastron>
 				<longitude>325.7</longitude>
 				<ascendingnode />
@@ -6122,8 +6122,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
+			<mass>0.334</mass>
+			<radius>0.36</radius>
 			<metallicity>0.05</metallicity>
 			<distance>4.7</distance>
 			<temperature>194.2</temperature>
@@ -6136,9 +6136,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>14/04/01</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new />
 		<image />
@@ -6154,13 +6154,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.7142</mass>
+			<mass>0.637</mass>
 			<radius />
 			<orbit>
-				<period>30.0881</period>
-				<semimajoraxis>0.129590</semimajoraxis>
-				<eccentricity>0.25591</eccentricity>
-				<inclination>59</inclination>
+				<period>30.23</period>
+				<semimajoraxis>0.12959</semimajoraxis>
+				<eccentricity>0.002</eccentricity>
+				<inclination>48.07</inclination>
 				<periastron>48.76</periastron>
 				<longitude>294.59</longitude>
 				<ascendingnode />
@@ -6168,8 +6168,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
+			<mass>0.334</mass>
+			<radius>0.36</radius>
 			<metallicity>0.05</metallicity>
 			<distance>4.7</distance>
 			<temperature>194.2</temperature>
@@ -6182,9 +6182,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>14/04/01</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new />
 		<image />
@@ -6200,13 +6200,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.021</mass>
+			<mass>0.017</mass>
 			<radius />
 			<orbit>
-				<period>1.937780</period>
+				<period>1.94</period>
 				<semimajoraxis>0.02080665</semimajoraxis>
-				<eccentricity>0.207</eccentricity>
-				<inclination>59</inclination>
+				<eccentricity>0.081</eccentricity>
+				<inclination>50</inclination>
 				<periastron>234</periastron>
 				<longitude>355</longitude>
 				<ascendingnode />
@@ -6214,8 +6214,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
+			<mass>0.334</mass>
+			<radius>0.36</radius>
 			<metallicity>0.05</metallicity>
 			<distance>4.7</distance>
 			<temperature>194.2</temperature>
@@ -6228,9 +6228,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>14/04/01</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new />
 		<image />
@@ -6246,22 +6246,22 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.046</mass>
+			<mass>0.017</mass>
 			<radius />
 			<orbit>
-				<period>124.26</period>
-				<semimajoraxis>0.3343</semimajoraxis>
-				<eccentricity>0.055</eccentricity>
-				<inclination>59</inclination>
-				<periastron>239</periastron>
-				<longitude>335</longitude>
+				<period>1.94</period>
+				<semimajoraxis />
+				<eccentricity>0.081</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
+			<mass>0.334</mass>
+			<radius>0.36</radius>
 			<metallicity>0.05</metallicity>
 			<distance>4.7</distance>
 			<temperature>194.2</temperature>
@@ -6274,13 +6274,105 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/01</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 876 f</id_exoplaneteu>
+		<name>Gliese 876 f</name>
+		<name>GJ 876 f</name>
+		<name>Gj 876 f</name>
+		<name>Gl 876 f</name>
+		<id>Gliese 876 f</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.025</mass>
+			<radius />
+			<orbit>
+				<period>10.01</period>
+				<semimajoraxis />
+				<eccentricity>0.090</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M4 V</spectraltype>
+			<mass>0.334</mass>
+			<radius>0.36</radius>
+			<metallicity>0.05</metallicity>
+			<distance>4.7</distance>
+			<temperature>194.2</temperature>
+			<rightascension>22 53 13</rightascension>
+			<declination>-14 15 13</declination>
+			<angulardistance />
+			<magV>10.17</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/01</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 876 g</id_exoplaneteu>
+		<name>Gliese 876 g</name>
+		<name>GJ 876 g</name>
+		<name>Gj 876 g</name>
+		<name>Gl 876 g</name>
+		<id>Gliese 876 g</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.039</mass>
+			<radius />
+			<orbit>
+				<period>124.69</period>
+				<semimajoraxis>0.3343</semimajoraxis>
+				<eccentricity>0.073</eccentricity>
+				<inclination>59.5</inclination>
+				<periastron>239</periastron>
+				<longitude>335</longitude>
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M4 V</spectraltype>
+			<mass>0.334</mass>
+			<radius>0.36</radius>
+			<metallicity>0.05</metallicity>
+			<distance>4.7</distance>
+			<temperature>194.2</temperature>
+			<rightascension>22 53 13</rightascension>
+			<declination>-14 15 13</declination>
+			<angulardistance />
+			<magV>10.17</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>14/04/01</lastupdate>
 		<description />
 		<new />
 		<image>Gliese876e</image>
-		<imagedescription>Artist's impression of Gliese 876 e, a member of a multi-planetary system. The illustration shows the planet from the perspective of a hypothetical moon orbiting.
+		<imagedescription>Artist's impression of Gliese 876 g, a member of a multi-planetary system. The illustration shows the planet from the perspective of a hypothetical moon orbiting.
 
 Credit: Jonah Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
@@ -6829,13 +6921,13 @@ Credit: Jonah Gallagher.</imagedescription>
 		<id>HAT-P-18 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.197</mass>
-			<radius>0.995</radius>
+			<mass>0.196</mass>
+			<radius>0.947</radius>
 			<orbit>
-				<period>5.508023</period>
+				<period>5.507978</period>
 				<semimajoraxis>0.0559</semimajoraxis>
-				<eccentricity>0.084</eccentricity>
-				<inclination>88.8</inclination>
+				<eccentricity>0.009</eccentricity>
+				<inclination>88.79</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -6843,11 +6935,11 @@ Credit: Jonah Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>K</spectraltype>
-			<mass>0.77</mass>
-			<radius>0.749</radius>
+			<mass>0.770</mass>
+			<radius>0.717</radius>
 			<metallicity>0.1</metallicity>
 			<distance>166</distance>
-			<temperature>774.9</temperature>
+			<temperature>841</temperature>
 			<rightascension>17 05 24</rightascension>
 			<declination>+33 00 45</declination>
 			<angulardistance />
@@ -6859,7 +6951,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/07/29</lastupdate>
+		<lastupdate>14/03/31</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -32907,6 +32999,51 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-139 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-139 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-13A b</id_exoplaneteu>
+		<name>Kepler-13A b</name>
+		<name>KOI-13 b</name>
+		<name>KOI-13.01</name>
+		<id>Kepler-13A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>6.515</mass>
+			<radius>1.406</radius>
+			<orbit>
+				<period>1.7637</period>
+				<semimajoraxis>0.0380000</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>2.2700</mass>
+			<radius>2.7000</radius>
+			<metallicity>-0.14</metallicity>
+			<distance>735.73</distance>
+			<temperature>9071.00</temperature>
+			<rightascension>19 07 53</rightascension>
+			<declination>+46 52 06</declination>
+			<angulardistance />
+			<magV>9.95</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/03/25</lastupdate>
+		<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -66328,6 +66465,98 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-44 b</id_exoplaneteu>
+		<name>Kepler-44 b</name>
+		<name>KOI-204 b</name>
+		<name>KOI-204.01</name>
+		<name>2MASS J20002456+4545437 b</name>
+		<name>KIC 9305831 b</name>
+		<id>Kepler-44 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.02</mass>
+			<radius>1.24</radius>
+			<orbit>
+				<period>3.24674</period>
+				<semimajoraxis>0.0455</semimajoraxis>
+				<eccentricity>0.021</eccentricity>
+				<inclination>83.78</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2IV</spectraltype>
+			<mass>1.19</mass>
+			<radius>1.52</radius>
+			<metallicity>0.26</metallicity>
+			<distance>2250</distance>
+			<temperature>5757</temperature>
+			<rightascension>20 00 25</rightascension>
+			<declination>+45 45 44</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/03/25</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-45 b</id_exoplaneteu>
+		<name>Kepler-45 b</name>
+		<name>KOI-254 b</name>
+		<name>KOI-254 01</name>
+		<id>Kepler-45 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.505</mass>
+			<radius>0.96</radius>
+			<orbit>
+				<period>2.455239</period>
+				<semimajoraxis>0.027</semimajoraxis>
+				<eccentricity>0.11</eccentricity>
+				<inclination>87</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M</spectraltype>
+			<mass>0.59</mass>
+			<radius>0.55</radius>
+			<metallicity>0.08</metallicity>
+			<distance>333</distance>
+			<temperature>3820</temperature>
+			<rightascension>19 31 30</rightascension>
+			<declination>+41 03 51</declination>
+			<angulardistance />
+			<magV>16.88</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/03/25</lastupdate>
+		<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-46 b</id_exoplaneteu>
 		<name>Kepler-46 b</name>
 		<name>KOI-872 b</name>
@@ -69320,6 +69549,145 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-71 b</id_exoplaneteu>
+		<name>Kepler-71 b</name>
+		<name>KOI-217 b</name>
+		<name>KOI-217.01</name>
+		<id>Kepler-71 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>1.06622</radius>
+			<orbit>
+				<period>3.9050814125</period>
+				<semimajoraxis>0.0484618</semimajoraxis>
+				<eccentricity />
+				<inclination>89.67</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.9230</mass>
+			<radius>0.8870</radius>
+			<metallicity />
+			<distance>918.88</distance>
+			<temperature>5543.00</temperature>
+			<rightascension>19 39 27</rightascension>
+			<declination>+46 17 09</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/03/25</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-74 b</id_exoplaneteu>
+		<name>Kepler-74 b</name>
+		<name>KOI-200 b</name>
+		<name>KOI-200.01</name>
+		<name>KIC-6046540 b</name>
+		<name>2MASS 19322220+4121198 b</name>
+		<id>Kepler-74 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.68</mass>
+			<radius>1.32</radius>
+			<orbit>
+				<period>7.340718</period>
+				<semimajoraxis>0.084</semimajoraxis>
+				<eccentricity>0.287</eccentricity>
+				<inclination>85.55</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.4</mass>
+			<radius>1.51</radius>
+			<metallicity>0.34</metallicity>
+			<distance>1330</distance>
+			<temperature>6050</temperature>
+			<rightascension>19 32 22</rightascension>
+			<declination>+41 21 20</declination>
+			<angulardistance />
+			<magV>14.23</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>13/03/26</lastupdate>
+		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on an eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible. The planet was first announced in 2012.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-75 b</id_exoplaneteu>
+		<name>Kepler-75 b</name>
+		<name>KOI-889 b</name>
+		<name>KOI-889.01</name>
+		<name>KIC-757450 b</name>
+		<name>2MASS 19243302+3634385 b</name>
+		<id>Kepler-75 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>9.9</mass>
+			<radius>1.03</radius>
+			<orbit>
+				<period>8.884924</period>
+				<semimajoraxis>0.08</semimajoraxis>
+				<eccentricity>0.569</eccentricity>
+				<inclination>89.1</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.88</radius>
+			<metallicity>-0.07</metallicity>
+			<distance>1140</distance>
+			<temperature>5330</temperature>
+			<rightascension>19 24 33</rightascension>
+			<declination>+36 34 39</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/03/26</lastupdate>
+		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-76 b</id_exoplaneteu>
 		<name>Kepler-76 b</name>
 		<name>KIC 4570949 b</name>
@@ -69359,6 +69727,55 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/05/14</lastupdate>
 		<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname "Einstein's Planet" because the confirmation method makes use of special relativity.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-77 b</id_exoplaneteu>
+		<name>Kepler-77 b</name>
+		<name>KOI-127 b</name>
+		<name>KOI-127.01</name>
+		<name>KIC 8359498 b</name>
+		<name>GSC2.3 N2K0000444</name>
+		<name>USNO-A2 1275-11111739 b</name>
+		<name>2MASS 19182590+4420435 b</name>
+		<id>Kepler-77 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.43</mass>
+			<radius>0.96</radius>
+			<orbit>
+				<period>3.5787087</period>
+				<semimajoraxis>0.04501</semimajoraxis>
+				<eccentricity />
+				<inclination>88.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5V</spectraltype>
+			<mass>0.95</mass>
+			<radius>0.99</radius>
+			<metallicity>0.2</metallicity>
+			<distance>570</distance>
+			<temperature>5520.00</temperature>
+			<rightascension>19 18 25</rightascension>
+			<declination>+44 20 44</declination>
+			<angulardistance />
+			<magV>14.10</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>14/04/03</lastupdate>
+		<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -72055,99 +72472,10 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-127 b</id_exoplaneteu>
-		<name>KOI-127 b</name>
-		<name>KIC 8359498 b</name>
-		<name>GSC2.3 N2K0000444</name>
-		<name>USNO-A2 1275-11111739 b</name>
-		<name>2MASS 19182590+4420435 b</name>
-		<id>KOI-127 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.430</mass>
-			<radius>0.960</radius>
-			<orbit>
-				<period>3.57878087</period>
-				<semimajoraxis>0.04501</semimajoraxis>
-				<eccentricity />
-				<inclination>88.00</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G5V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.99</radius>
-			<metallicity>0.20</metallicity>
-			<distance>570</distance>
-			<temperature>5520</temperature>
-			<rightascension>19 18 26</rightascension>
-			<declination>44 20 44</declination>
-			<angulardistance />
-			<magV>14.10</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/05/17</lastupdate>
-		<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KOI-13 b</id_exoplaneteu>
-		<name>KOI-13 b</name>
-		<name>KOI-13.01</name>
-		<id>KOI-13 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>8.3</mass>
-			<radius>1.4</radius>
-			<orbit>
-				<period>1.7635892</period>
-				<semimajoraxis>0.0367</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>85.9</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>A5-7V</spectraltype>
-			<mass>2.05</mass>
-			<radius>2.55</radius>
-			<metallicity />
-			<distance>604</distance>
-			<temperature>8500.0</temperature>
-			<rightascension>19 07 53</rightascension>
-			<declination>+46 52 06</declination>
-			<angulardistance />
-			<magV>9.95</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/07/24</lastupdate>
-		<description>The exoplanet candidate KOI-13 b was discovered with the Kepler spacecraft. It has been independently confirmed by ellipsoidal variations in the lightcurve. The high temperature of the host star and the small semi-major axis make this planet one of the hottest exoplanets known. The equilibrium temperature is 2864K.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>KOI-135 b</id_exoplaneteu>
 		<name>KOI-135 b</name>
+		<name>Kepler-43 b</name>
+		<name>KOI-135.01</name>
 		<name>GSC 03541-00075 b</name>
 		<name>KIC 9818381 b</name>
 		<name>2MASS J19005780+4640057 b</name>
@@ -72172,11 +72500,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius>1.2</radius>
 			<metallicity>0.33</metallicity>
 			<distance>1950</distance>
-			<temperature />
+			<temperature>6041</temperature>
 			<rightascension>19 00 58</rightascension>
 			<declination>+46 40 06</declination>
 			<angulardistance />
-			<magV>14</magV>
+			<magV />
 			<magI />
 			<magH />
 			<magJ />
@@ -72184,7 +72512,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/26</lastupdate>
+		<lastupdate>13/03/25</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -72194,28 +72522,29 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-142 b</id_exoplaneteu>
 		<name>KOI-142 b</name>
+		<name>Kepler-88 b</name>
 		<id>KOI-142 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0553643</mass>
-			<radius>0.3854811</radius>
+			<mass>0.0055264</mass>
+			<radius>0.37647</radius>
 			<orbit>
 				<period>10.9542</period>
-				<semimajoraxis />
-				<eccentricity>0.05611</eccentricity>
-				<inclination>0.962</inclination>
+				<semimajoraxis>0.098</semimajoraxis>
+				<eccentricity>0.0561</eccentricity>
+				<inclination>0.931</inclination>
 				<periastron>90.7</periastron>
 				<longitude>6.425</longitude>
 				<ascendingnode>270</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>0.974</mass>
+			<spectraltype>B</spectraltype>
+			<mass>1.022</mass>
 			<radius>0.961</radius>
-			<metallicity>0.25</metallicity>
+			<metallicity>0.37</metallicity>
 			<distance>385</distance>
-			<temperature>5460</temperature>
+			<temperature>5513</temperature>
 			<rightascension>19 24 35</rightascension>
 			<declination>+40 40 09</declination>
 			<angulardistance />
@@ -72237,14 +72566,15 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-142 c</id_exoplaneteu>
 		<name>KOI-142 c</name>
+		<name>Kepler-88 c</name>
 		<id>KOI-142 c</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>0.67915677</mass>
+			<mass>0.76</mass>
 			<radius />
 			<orbit>
-				<period>22.3383</period>
-				<semimajoraxis />
+				<period>22.1</period>
+				<semimajoraxis>0.1529</semimajoraxis>
 				<eccentricity>0.05628</eccentricity>
 				<inclination>3.7</inclination>
 				<periastron>271.1</periastron>
@@ -72253,12 +72583,12 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>0.974</mass>
+			<spectraltype>B</spectraltype>
+			<mass>1.022</mass>
 			<radius>0.961</radius>
-			<metallicity>0.25</metallicity>
+			<metallicity>0.37</metallicity>
 			<distance>385</distance>
-			<temperature>5460</temperature>
+			<temperature>5513</temperature>
 			<rightascension>19 24 35</rightascension>
 			<declination>+40 40 09</declination>
 			<angulardistance />
@@ -72322,51 +72652,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Kepler Objects of Interest</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-200 b</id_exoplaneteu>
-		<name>KOI-200 b</name>
-		<name>KIC-6046540 b</name>
-		<name>2MASS 19322220+4121198 b</name>
-		<id>KOI-200 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.68</mass>
-			<radius>1.32</radius>
-			<orbit>
-				<period>7.340718</period>
-				<semimajoraxis>0.084</semimajoraxis>
-				<eccentricity>0.287</eccentricity>
-				<inclination>85.55</inclination>
-				<periastron>64</periastron>
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>F8V</spectraltype>
-			<mass>1.40</mass>
-			<radius>1.51</radius>
-			<metallicity>0.34</metallicity>
-			<distance>1330</distance>
-			<temperature>6050</temperature>
-			<rightascension>19 32 22</rightascension>
-			<declination>+41 21 20</declination>
-			<angulardistance />
-			<magV>15</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>13/04/22</lastupdate>
-		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on an eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible. The planet was first announced in 2012.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>KOI-202 b</id_exoplaneteu>
 		<name>KOI-202 b</name>
 		<id>KOI-202 b</id>
@@ -72404,51 +72689,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KOI-204 b</id_exoplaneteu>
-		<name>KOI-204 b</name>
-		<name>2MASS J20002456+4545437 b</name>
-		<name>KIC 9305831 b</name>
-		<id>KOI-204 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>1.02</mass>
-			<radius>1.24</radius>
-			<orbit>
-				<period>3.24674</period>
-				<semimajoraxis>0.0455</semimajoraxis>
-				<eccentricity>0.021</eccentricity>
-				<inclination>83.78</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G2IV</spectraltype>
-			<mass>1.19</mass>
-			<radius>1.52</radius>
-			<metallicity>0.26</metallicity>
-			<distance>2250</distance>
-			<temperature />
-			<rightascension>20 00 25</rightascension>
-			<declination>+45 45 44</declination>
-			<angulardistance />
-			<magV>15</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/26</lastupdate>
-		<description />
 		<new />
 		<image />
 		<imagedescription />
@@ -72498,60 +72738,18 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-254 b</id_exoplaneteu>
-		<name>KOI-254 b</name>
-		<id>KOI-254 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.505</mass>
-			<radius>0.96</radius>
-			<orbit>
-				<period>2.455239</period>
-				<semimajoraxis>0.027</semimajoraxis>
-				<eccentricity>0.11</eccentricity>
-				<inclination>87</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M</spectraltype>
-			<mass>0.59</mass>
-			<radius>0.55</radius>
-			<metallicity>0.13</metallicity>
-			<distance>333</distance>
-			<temperature>3820</temperature>
-			<rightascension>19 31 30</rightascension>
-			<declination>+41 03 51</declination>
-			<angulardistance />
-			<magV>16.88</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/12/03</lastupdate>
-		<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>KOI-285 b</id_exoplaneteu>
 		<name>KOI-285 b</name>
-		<name>KOI-285 1</name>
+		<name>KOI-285.01</name>
+		<name>Kepler-92 b</name>
 		<id>KOI-285 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.18969</mass>
-			<radius>0.31987</radius>
+			<mass>0.202310599</mass>
+			<radius>0.314</radius>
 			<orbit>
 				<period>13.749</period>
-				<semimajoraxis />
+				<semimajoraxis>0.11800</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -72566,8 +72764,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<metallicity />
 			<distance>367.56</distance>
 			<temperature>5883.00</temperature>
-			<rightascension>19 16 20</rightascension>
-			<declination>+41 33 46</declination>
+			<rightascension>19 16 21</rightascension>
+			<declination>+41 33 47</declination>
 			<angulardistance />
 			<magV>11.67</magV>
 			<magI />
@@ -72577,7 +72775,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
+		<lastupdate>14/03/26</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 		<new />
 		<image />
@@ -72587,15 +72785,16 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-285 c</id_exoplaneteu>
 		<name>KOI-285 c</name>
-		<name>KOI-285 2</name>
+		<name>KOI-285.02</name>
+		<name>Kepler-92 c</name>
 		<id>KOI-285 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.01825</mass>
-			<radius>0.23694</radius>
+			<mass>0.0191927629</mass>
+			<radius>0.233</radius>
 			<orbit>
 				<period>26.723</period>
-				<semimajoraxis />
+				<semimajoraxis>0.18400</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -72610,8 +72809,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<metallicity />
 			<distance>367.56</distance>
 			<temperature>5883.00</temperature>
-			<rightascension>19 16 20</rightascension>
-			<declination>+41 33 46</declination>
+			<rightascension>19 16 21</rightascension>
+			<declination>+41 33 47</declination>
 			<angulardistance />
 			<magV>11.67</magV>
 			<magI />
@@ -72621,7 +72820,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
+		<lastupdate>14/03/26</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 		<new />
 		<image />
@@ -72631,7 +72830,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-285 d</id_exoplaneteu>
 		<name>KOI-285 d</name>
-		<name>KOI-285 03</name>
+		<name>KOI-285.03</name>
 		<id>KOI-285 d</id>
 		<discoverymethod />
 		<properties>
@@ -72654,8 +72853,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<metallicity />
 			<distance>367.56</distance>
 			<temperature>5883.00</temperature>
-			<rightascension>19 16 20</rightascension>
-			<declination>+41 33 46</declination>
+			<rightascension>19 16 21</rightascension>
+			<declination>+41 33 47</declination>
 			<angulardistance />
 			<magV>11.67</magV>
 			<magI />
@@ -73021,51 +73220,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KOI-889 b</id_exoplaneteu>
-		<name>KOI-889 b</name>
-		<name>KIC-757450 b</name>
-		<name>2MASS 19243302+3634385 b</name>
-		<id>KOI-889 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>9.9</mass>
-			<radius>1.03</radius>
-			<orbit>
-				<period>8.884924</period>
-				<semimajoraxis>0.080</semimajoraxis>
-				<eccentricity>0.569</eccentricity>
-				<inclination>89.1</inclination>
-				<periastron>63.6</periastron>
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G8V</spectraltype>
-			<mass>0.88</mass>
-			<radius>0.88</radius>
-			<metallicity>-0.07</metallicity>
-			<distance>1140</distance>
-			<temperature>5330</temperature>
-			<rightascension>19 24 33</rightascension>
-			<declination>+36 34 39</declination>
-			<angulardistance />
-			<magV>15</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/04/23</lastupdate>
-		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -74770,6 +74924,49 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2008-BLG-355L b</id_exoplaneteu>
+		<name>OGLE-2008-BLG-355L b</name>
+		<id>OGLE-2008-BLG-355L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>4.6</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>1.7</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.37</mass>
+			<radius />
+			<metallicity />
+			<distance>6800</distance>
+			<temperature />
+			<rightascension>17 59 09</rightascension>
+			<declination>-30 45 34</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>14/03/31</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>OGLE-2011-BLG-0251 b</id_exoplaneteu>
 		<name>OGLE-2011-BLG-0251 b</name>
 		<id>OGLE-2011-BLG-0251 b</id>
@@ -75526,6 +75723,7 @@ Credit: Kains et al (2013).</imagedescription>
 		<name>KIC 12735740 b</name>
 		<name>2MASS 19190326+5157453 b</name>
 		<name>Planet Hunters 2 b</name>
+		<name>Kepler-86 b</name>
 		<id>PH-2 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -75559,7 +75757,7 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/01/06</lastupdate>
+		<lastupdate>14/03/25</lastupdate>
 		<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
 		<new />
 		<image>PH2</image>
