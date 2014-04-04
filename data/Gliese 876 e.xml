@@ -7,22 +7,22 @@
 	<id>Gliese 876 e</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.017</mass>
+		<mass>0.046</mass>
 		<radius />
 		<orbit>
-			<period>1.94</period>
-			<semimajoraxis />
-			<eccentricity>0.081</eccentricity>
-			<inclination />
-			<periastron />
-			<longitude />
+			<period>124.26</period>
+			<semimajoraxis>0.3343</semimajoraxis>
+			<eccentricity>0.055</eccentricity>
+			<inclination>59</inclination>
+			<periastron>239</periastron>
+			<longitude>335</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>M4 V</spectraltype>
-		<mass>0.334</mass>
-		<radius>0.36</radius>
+		<mass>0.32</mass>
+		<radius>0.3</radius>
 		<metallicity>0.05</metallicity>
 		<distance>4.7</distance>
 		<temperature>194.2</temperature>
@@ -35,12 +35,14 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
-	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/04/01</lastupdate>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2010</discoveryyear>
+	<lastupdate>13/05/11</lastupdate>
 	<description />
 	<new />
-	<image />
-	<imagedescription />
+	<image>Gliese876e</image>
+	<imagedescription>Artist's impression of Gliese 876 e, a member of a multi-planetary system. The illustration shows the planet from the perspective of a hypothetical moon orbiting.
+
+Credit: Jonah Gallagher.</imagedescription>
 	<list>Confirmed planets</list>
 </planet>
