@@ -9,10 +9,10 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.12211</radius>
+		<radius>0.097509</radius>
 		<orbit>
-			<period>7.267277</period>
-			<semimajoraxis />
+			<period>7.267301</period>
+			<semimajoraxis>0.0343</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -22,11 +22,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.5460</mass>
-		<radius>0.524</radius>
-		<metallicity />
-		<distance>243.93</distance>
-		<temperature>4048</temperature>
+		<mass>0.478</mass>
+		<radius>0.472</radius>
+		<metallicity>-0.28</metallicity>
+		<distance>151</distance>
+		<temperature>3788</temperature>
 		<rightascension>19 54 36</rightascension>
 		<declination>+43 57 18</declination>
 		<angulardistance />
@@ -36,9 +36,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>4</multiplicity>
+	<multiplicity>5</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
+	<lastupdate>14/04/17</lastupdate>
 	<description>Kepler-186 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-186 c are still unknown, the object is highly unlikely to be a false positive.</description>
 	<new />
 	<image />
