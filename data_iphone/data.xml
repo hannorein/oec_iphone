@@ -1,4 +1,4 @@
-<planets date="2014-04-17" name="data" planets="1800">
+<planets date="2014-04-18" name="data" planets="1801">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -5994,6 +5994,38 @@ Credit: Jonah Gallagher.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>12/05/22</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-54 b</id_exoplaneteu>
+		<name>HAT-P-54 b</name>
+		<name>GSC 1884-00168 b</name>
+		<name>2MASS 06393552+2528571 b</name>
+		<id>HAT-P-54 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.760</mass>
+			<radius>0.944</radius>
+			<orbit>
+				<semimajoraxis>0.04117</semimajoraxis>
+				<inclination>87.040</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.645</mass>
+			<radius>0.617</radius>
+			<metallicity>&#8722;0.127</metallicity>
+			<distance>135.8</distance>
+			<temperature>4390</temperature>
+			<rightascension>06 39 36</rightascension>
+			<declination>-25 28 57</declination>
+			<magV>13.505</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/18</lastupdate>
+		<description>This planet was discovered by the HATNet transit survey. The star is located in field 0 of the NASA K2 mission. Follow-up high-precision photometric observations by the Kepler spacecraft could make this a well-studied planetary system.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -25935,7 +25967,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/04/17</lastupdate>
+		<lastupdate>14/04/18</lastupdate>
 		<description>Kepler-186 f is the first Earth-size planet in the habitable zone. The mass of the planet is not known, therefore one can only speculate about the planet's composition. If it is rocky, it could have liquid water on its surface. Kepler-186 orbits an M-dwarf, a star that is much cooler than the Sun. This is why the system's habitable zone is much closer to the star than in the Solar system.</description>
 		<new>1</new>
 		<image>Kepler186</image>
