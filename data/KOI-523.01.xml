@@ -1,17 +1,17 @@
 <planet>
-	<id_exoplaneteu>Kepler-145 c</id_exoplaneteu>
-	<name>Kepler-145 c</name>
-	<name>KOI-370 b</name>
-	<name>KOI-370.01</name>
-	<name>KIC 8494142 c</name>
-	<name>KIC 8494142.01</name>
-	<id>Kepler-145 c</id>
+	<id_exoplaneteu>KOI-523.01</id_exoplaneteu>
+	<name>KOI-523.01</name>
+	<name>KOI-523 b</name>
+	<name>Kepler-177 c</name>
+	<name>KIC 8806123 c</name>
+	<name>KIC 8806123.01</name>
+	<id>KOI-523.01</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.23624</mass>
-		<radius>0.39368</radius>
+		<mass>0.01982</mass>
+		<radius>0.64703</radius>
 		<orbit>
-			<period>42.882</period>
+			<period>49.412</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -22,13 +22,13 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.26</mass>
-		<radius>1.98</radius>
+		<mass>0.93</mass>
+		<radius>0.98</radius>
 		<metallicity />
-		<distance>589.92</distance>
-		<temperature>6022.00</temperature>
-		<rightascension>19 25 33</rightascension>
-		<declination>+44 31 44</declination>
+		<distance>1387.37</distance>
+		<temperature>6197.00</temperature>
+		<rightascension>19 04 11</rightascension>
+		<declination>+45 03 11</declination>
 		<angulardistance />
 		<magV />
 		<magI />
