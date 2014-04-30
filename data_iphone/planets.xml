@@ -8414,7 +8414,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<spectraltype />
 			<mass>0.645</mass>
 			<radius>0.617</radius>
-			<metallicity>&#8722;0.127</metallicity>
+			<metallicity>-0.127</metallicity>
 			<distance>135.8</distance>
 			<temperature>4390</temperature>
 			<rightascension>06 39 36</rightascension>
@@ -8430,7 +8430,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/04/18</lastupdate>
 		<description>This planet was discovered by the HATNet transit survey. The star is located in field 0 of the NASA K2 mission. Follow-up high-precision photometric observations by the Kepler spacecraft could make this a well-studied planetary system.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -12987,6 +12987,178 @@ Image credit: Vanessa Bailey</imagedescription>
 		<lastupdate>09/03/23</lastupdate>
 		<description />
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 141399 b</id_exoplaneteu>
+		<name>HD 141399 b</name>
+		<id>HD 141399 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.46</mass>
+			<radius />
+			<orbit>
+				<period>94.35</period>
+				<semimajoraxis>0.4225</semimajoraxis>
+				<eccentricity>0.04</eccentricity>
+				<inclination />
+				<periastron>191.37</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.46</radius>
+			<metallicity>0.18</metallicity>
+			<distance>36.17</distance>
+			<temperature />
+			<rightascension>15 46 53</rightascension>
+			<declination>46 59 10</declination>
+			<angulardistance />
+			<magV>7.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/29</lastupdate>
+		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 141399 c</id_exoplaneteu>
+		<name>HD 141399 c</name>
+		<id>HD 141399 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.36</mass>
+			<radius />
+			<orbit>
+				<period>202.08</period>
+				<semimajoraxis>0.7023</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<inclination />
+				<periastron>214.74</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.46</radius>
+			<metallicity>0.18</metallicity>
+			<distance>36.17</distance>
+			<temperature />
+			<rightascension>15 46 53</rightascension>
+			<declination>46 59 10</declination>
+			<angulardistance />
+			<magV>7.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/29</lastupdate>
+		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 141399 d</id_exoplaneteu>
+		<name>HD 141399 d</name>
+		<id>HD 141399 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.22</mass>
+			<radius />
+			<orbit>
+				<period>1070.35</period>
+				<semimajoraxis>2.1348</semimajoraxis>
+				<eccentricity>0.06</eccentricity>
+				<inclination />
+				<periastron>249.16</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.46</radius>
+			<metallicity>0.18</metallicity>
+			<distance>36.17</distance>
+			<temperature />
+			<rightascension>15 46 53</rightascension>
+			<declination>46 59 10</declination>
+			<angulardistance />
+			<magV>7.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/29</lastupdate>
+		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 141399 e</id_exoplaneteu>
+		<name>HD 141399 e</name>
+		<id>HD 141399 e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.69</mass>
+			<radius />
+			<orbit>
+				<period>3717.35</period>
+				<semimajoraxis>4.8968</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+				<periastron>0</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.46</radius>
+			<metallicity>0.18</metallicity>
+			<distance>36.17</distance>
+			<temperature />
+			<rightascension>15 46 53</rightascension>
+			<declination>46 59 10</declination>
+			<angulardistance />
+			<magV>7.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/04/29</lastupdate>
+		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -18340,7 +18512,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<radius>1.146</radius>
 			<metallicity>0.02</metallicity>
 			<distance>47</distance>
-			<temperature>1316.1</temperature>
+			<temperature>6075</temperature>
 			<rightascension>22 03 10</rightascension>
 			<declination>+18 53 04</declination>
 			<angulardistance />
@@ -18352,7 +18524,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>12/07/05</lastupdate>
+		<lastupdate>14/04/18</lastupdate>
 		<description>By studying the carbon monoxide gas in the upper atmosphere with great accuracy, astronomers found evidence for a wind, blowing at a speed of 5000 to 10000 km per hour.</description>
 		<new />
 		<image>HD209458</image>
@@ -22167,7 +22339,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 41248 c</id_exoplaneteu>
@@ -22210,7 +22382,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 4203 b</id_exoplaneteu>
@@ -33567,100 +33739,6 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-145 b</id_exoplaneteu>
-		<name>Kepler-145 b</name>
-		<name>KOI-370 c</name>
-		<name>KOI-370.02</name>
-		<name>KIC 8494142 b</name>
-		<name>KIC 8494142.02</name>
-		<id>Kepler-145 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.10821</mass>
-			<radius>0.24150</radius>
-			<orbit>
-				<period>22.951</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>1.26</mass>
-			<radius>1.98</radius>
-			<metallicity />
-			<distance>589.92</distance>
-			<temperature>6022.00</temperature>
-			<rightascension>19 25 33</rightascension>
-			<declination>+44 31 44</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-145 c</id_exoplaneteu>
-		<name>Kepler-145 c</name>
-		<name>KOI-370 b</name>
-		<name>KOI-370.01</name>
-		<name>KIC 8494142 c</name>
-		<name>KIC 8494142.01</name>
-		<id>Kepler-145 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.23624</mass>
-			<radius>0.39368</radius>
-			<orbit>
-				<period>42.882</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>1.26</mass>
-			<radius>1.98</radius>
-			<metallicity />
-			<distance>589.92</distance>
-			<temperature>6022.00</temperature>
-			<rightascension>19 25 33</rightascension>
-			<declination>+44 31 44</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-146 b</id_exoplaneteu>
 		<name>Kepler-146 b</name>
 		<name>KOI-386 b</name>
@@ -37275,100 +37353,6 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-177 b</id_exoplaneteu>
-		<name>Kepler-177 b</name>
-		<name>KOI-523 c</name>
-		<name>KOI-523.02</name>
-		<name>KIC 8806123 b</name>
-		<name>KIC 8806123.02</name>
-		<id>Kepler-177 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.00535</mass>
-			<radius>0.26428</radius>
-			<orbit>
-				<period>36.855</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.93</mass>
-			<radius>0.98</radius>
-			<metallicity />
-			<distance>1387.37</distance>
-			<temperature>6197.00</temperature>
-			<rightascension>19 04 11</rightascension>
-			<declination>+45 03 11</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-177 c</id_exoplaneteu>
-		<name>Kepler-177 c</name>
-		<name>KOI-523 b</name>
-		<name>KOI-523.01</name>
-		<name>KIC 8806123 c</name>
-		<name>KIC 8806123.01</name>
-		<id>Kepler-177 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.01982</mass>
-			<radius>0.64703</radius>
-			<orbit>
-				<period>49.412</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.93</mass>
-			<radius>0.98</radius>
-			<metallicity />
-			<distance>1387.37</distance>
-			<temperature>6197.00</temperature>
-			<rightascension>19 04 11</rightascension>
-			<declination>+45 03 11</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-178 b</id_exoplaneteu>
 		<name>Kepler-178 b</name>
 		<name>KOI-528 b</name>
@@ -38587,7 +38571,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/04/18</lastupdate>
 		<description>Kepler-186 f is the first Earth-size planet in the habitable zone. The mass of the planet is not known, therefore one can only speculate about the planet's composition. If it is rocky, it could have liquid water on its surface. Kepler-186 orbits an M-dwarf, a star that is much cooler than the Sun. This is why the system's habitable zone is much closer to the star than in the Solar system.</description>
-		<new>1</new>
+		<new />
 		<image>Kepler186</image>
 		<imagedescription>The artistic concept of Kepler-186f is the result of scientists and artists collaborating to imagine the appearance of these distant worlds.
 			
@@ -53425,141 +53409,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-30 b</id_exoplaneteu>
-		<name>Kepler-30 b</name>
-		<name>KOI-806.01</name>
-		<name>KIC 3832474 b</name>
-		<id>Kepler-30 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.035546</mass>
-			<radius>0.355</radius>
-			<orbit>
-				<period>29.334</period>
-				<semimajoraxis>0.18</semimajoraxis>
-				<eccentricity>0.042</eccentricity>
-				<inclination>90.18</inclination>
-				<periastron>-31</periastron>
-				<longitude />
-				<ascendingnode>0.031</ascendingnode>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G</spectraltype>
-			<mass>0.99</mass>
-			<radius>0.95</radius>
-			<metallicity>0.18</metallicity>
-			<distance>924.9</distance>
-			<temperature>5498.0</temperature>
-			<rightascension>19 01 08</rightascension>
-			<declination>+38 56 50</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/01/26</lastupdate>
-		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-30 c</id_exoplaneteu>
-		<name>Kepler-30 c</name>
-		<name>KOI-806.02</name>
-		<name>KIC 3832474 c</name>
-		<id>Kepler-30 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>2.013248</mass>
-			<radius>1.120903</radius>
-			<orbit>
-				<period>60.3251</period>
-				<semimajoraxis>0.30</semimajoraxis>
-				<eccentricity>0.0111</eccentricity>
-				<inclination>90.32</inclination>
-				<periastron>-49</periastron>
-				<longitude />
-				<ascendingnode>0</ascendingnode>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G</spectraltype>
-			<mass>0.99</mass>
-			<radius>0.95</radius>
-			<metallicity>0.18</metallicity>
-			<distance>924.9</distance>
-			<temperature>5498.0</temperature>
-			<rightascension>19 01 08</rightascension>
-			<declination>+38 56 50</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/01/26</lastupdate>
-		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-30 d</id_exoplaneteu>
-		<name>Kepler-30 d</name>
-		<name>KOI-806.03</name>
-		<name>KIC 3832474 d</name>
-		<id>Kepler-30 d</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.072666</mass>
-			<radius>0.801947</radius>
-			<orbit>
-				<period>143.213</period>
-				<semimajoraxis>0.5</semimajoraxis>
-				<eccentricity>0.022</eccentricity>
-				<inclination />
-				<periastron>-163</periastron>
-				<longitude />
-				<ascendingnode>1.3</ascendingnode>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G</spectraltype>
-			<mass>0.99</mass>
-			<radius>0.95</radius>
-			<metallicity>0.18</metallicity>
-			<distance>924.9</distance>
-			<temperature>5498.0</temperature>
-			<rightascension>19 01 08</rightascension>
-			<declination>+38 56 50</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/01/26</lastupdate>
-		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-300 b</id_exoplaneteu>
 		<name>Kepler-300 b</name>
 		<name>KOI-1435 b</name>
@@ -57032,100 +56881,6 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-327 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-327 d are still unknown, the object is highly unlikely to be a false positive.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-328 b</id_exoplaneteu>
-		<name>Kepler-328 b</name>
-		<name>KOI-1873 c</name>
-		<name>KOI-1873.02</name>
-		<name>KIC 4939346 b</name>
-		<name>KIC 4939346.02</name>
-		<id>Kepler-328 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.07046</mass>
-			<radius>0.20960</radius>
-			<orbit>
-				<period>34.921</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.98</mass>
-			<radius>0.9700</radius>
-			<metallicity />
-			<distance>1680.75</distance>
-			<temperature>6134.00</temperature>
-			<rightascension>19 43 14</rightascension>
-			<declination>+40 00 30</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-328 c</id_exoplaneteu>
-		<name>Kepler-328 c</name>
-		<name>KOI-1873 b</name>
-		<name>KOI-1873.01</name>
-		<name>KIC 4939346 c</name>
-		<name>KIC 4939346.01</name>
-		<id>Kepler-328 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.10286</mass>
-			<radius>0.49210</radius>
-			<orbit>
-				<period>71.312</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.98</mass>
-			<radius>0.9700</radius>
-			<metallicity />
-			<distance>1680.75</distance>
-			<temperature>6134.00</temperature>
-			<rightascension>19 43 14</rightascension>
-			<declination>+40 00 30</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/13</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -64777,100 +64532,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-395 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-395 c are still unknown, the object is highly unlikely to be a false positive.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-396 b</id_exoplaneteu>
-		<name>Kepler-396 b</name>
-		<name>KOI-2672 c</name>
-		<name>KOI-2672.02</name>
-		<name>KIC 11253827 b</name>
-		<name>KIC 11253827.02</name>
-		<id>Kepler-396 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass />
-			<radius>0.318956</radius>
-			<orbit>
-				<period>42.990660</period>
-				<semimajoraxis>0.228</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.95</mass>
-			<radius>1.04</radius>
-			<metallicity />
-			<distance>263.40</distance>
-			<temperature>5565</temperature>
-			<rightascension>19 44 31</rightascension>
-			<declination>48 58 38</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/08/06</lastupdate>
-		<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-396 c</id_exoplaneteu>
-		<name>Kepler-396 c</name>
-		<name>KOI-2672 b</name>
-		<name>KOI-2672.01</name>
-		<name>KIC 11253827 c</name>
-		<name>KIC 11253827.01</name>
-		<id>Kepler-396 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass />
-			<radius>0.482991</radius>
-			<orbit>
-				<period>88.516580</period>
-				<semimajoraxis>0.369</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.95</mass>
-			<radius>1.04</radius>
-			<metallicity />
-			<distance>263.40</distance>
-			<temperature>5565</temperature>
-			<rightascension>19 44 31</rightascension>
-			<declination>48 58 38</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/08/06</lastupdate>
-		<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -72654,6 +72315,100 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Kepler Objects of Interest</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1873.01</id_exoplaneteu>
+		<name>KOI-1873.01</name>
+		<name>KOI-1873 b</name>
+		<name>Kepler-328 c</name>
+		<name>KIC 4939346 c</name>
+		<name>KIC 4939346.01</name>
+		<id>KOI-1873.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.10286</mass>
+			<radius>0.49210</radius>
+			<orbit>
+				<period>71.312</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.98</mass>
+			<radius>0.9700</radius>
+			<metallicity />
+			<distance>1680.75</distance>
+			<temperature>6134.00</temperature>
+			<rightascension>19 43 14</rightascension>
+			<declination>+40 00 30</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1873.02</id_exoplaneteu>
+		<name>KOI-1873.02</name>
+		<name>KOI-1873 c</name>
+		<name>Kepler-328 b</name>
+		<name>KIC 4939346 b</name>
+		<name>KIC 4939346.02</name>
+		<id>KOI-1873.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.07046</mass>
+			<radius>0.20960</radius>
+			<orbit>
+				<period>34.921</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.98</mass>
+			<radius>0.9700</radius>
+			<metallicity />
+			<distance>1680.75</distance>
+			<temperature>6134.00</temperature>
+			<rightascension>19 43 14</rightascension>
+			<declination>+40 00 30</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-202 b</id_exoplaneteu>
 		<name>KOI-202 b</name>
 		<id>KOI-202 b</id>
@@ -72734,6 +72489,100 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2672.01</id_exoplaneteu>
+		<name>KOI-2672.01</name>
+		<name>KOI-2672 b</name>
+		<name>Kepler-396 c</name>
+		<name>KIC 11253827 c</name>
+		<name>KIC 11253827.01</name>
+		<id>KOI-2672.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.482991</radius>
+			<orbit>
+				<period>88.516580</period>
+				<semimajoraxis>0.369</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.95</mass>
+			<radius>1.04</radius>
+			<metallicity />
+			<distance>263.40</distance>
+			<temperature>5565</temperature>
+			<rightascension>19 44 31</rightascension>
+			<declination>48 58 38</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2672.02</id_exoplaneteu>
+		<name>KOI-2672.02</name>
+		<name>KOI-2672 c</name>
+		<name>Kepler-396 b</name>
+		<name>KIC 11253827 b</name>
+		<name>KIC 11253827.02</name>
+		<id>KOI-2672.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.318956</radius>
+			<orbit>
+				<period>42.990660</period>
+				<semimajoraxis>0.228</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.95</mass>
+			<radius>1.04</radius>
+			<metallicity />
+			<distance>263.40</distance>
+			<temperature>5565</temperature>
+			<rightascension>19 44 31</rightascension>
+			<declination>48 58 38</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/08/06</lastupdate>
+		<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -73010,6 +72859,100 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-370.01</id_exoplaneteu>
+		<name>KOI-370.01</name>
+		<name>KOI-370 b</name>
+		<name>Kepler-145 c</name>
+		<name>KIC 8494142 c</name>
+		<name>KIC 8494142.01</name>
+		<id>KOI-370.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.23624</mass>
+			<radius>0.39368</radius>
+			<orbit>
+				<period>42.882</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.26</mass>
+			<radius>1.98</radius>
+			<metallicity />
+			<distance>589.92</distance>
+			<temperature>6022.00</temperature>
+			<rightascension>19 25 33</rightascension>
+			<declination>+44 31 44</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-370.02</id_exoplaneteu>
+		<name>KOI-370.02</name>
+		<name>KOI-370 c</name>
+		<name>Kepler-145 b</name>
+		<name>KIC 8494142 b</name>
+		<name>KIC 8494142.02</name>
+		<id>KOI-370.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.10821</mass>
+			<radius>0.24150</radius>
+			<orbit>
+				<period>22.951</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.26</mass>
+			<radius>1.98</radius>
+			<metallicity />
+			<distance>589.92</distance>
+			<temperature>6022.00</temperature>
+			<rightascension>19 25 33</rightascension>
+			<declination>+44 31 44</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-423 b</id_exoplaneteu>
 		<name>KOI-423 b</name>
 		<name>KIC 9478990 b</name>
@@ -73093,6 +73036,100 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/01/01</lastupdate>
 		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-523.01</id_exoplaneteu>
+		<name>KOI-523.01</name>
+		<name>KOI-523 b</name>
+		<name>Kepler-177 c</name>
+		<name>KIC 8806123 c</name>
+		<name>KIC 8806123.01</name>
+		<id>KOI-523.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01982</mass>
+			<radius>0.64703</radius>
+			<orbit>
+				<period>49.412</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.93</mass>
+			<radius>0.98</radius>
+			<metallicity />
+			<distance>1387.37</distance>
+			<temperature>6197.00</temperature>
+			<rightascension>19 04 11</rightascension>
+			<declination>+45 03 11</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-523.02</id_exoplaneteu>
+		<name>KOI-523.02</name>
+		<name>KOI-523 c</name>
+		<name>Kepler-177 b</name>
+		<name>KIC 8806123 b</name>
+		<name>KIC 8806123.02</name>
+		<id>KOI-523.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.00535</mass>
+			<radius>0.26428</radius>
+			<orbit>
+				<period>36.855</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.93</mass>
+			<radius>0.98</radius>
+			<metallicity />
+			<distance>1387.37</distance>
+			<temperature>6197.00</temperature>
+			<rightascension>19 04 11</rightascension>
+			<declination>+45 03 11</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/09/13</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -73222,6 +73259,141 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/06/05</lastupdate>
 		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-806.01</id_exoplaneteu>
+		<name>KOI-806.01</name>
+		<name>Kepler-30 b</name>
+		<name>KIC 3832474 b</name>
+		<id>KOI-806.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.035546</mass>
+			<radius>0.355</radius>
+			<orbit>
+				<period>29.334</period>
+				<semimajoraxis>0.18</semimajoraxis>
+				<eccentricity>0.042</eccentricity>
+				<inclination>90.18</inclination>
+				<periastron>-31</periastron>
+				<longitude />
+				<ascendingnode>0.031</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.99</mass>
+			<radius>0.95</radius>
+			<metallicity>0.18</metallicity>
+			<distance>924.9</distance>
+			<temperature>5498.0</temperature>
+			<rightascension>19 01 08</rightascension>
+			<declination>+38 56 50</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-806.02</id_exoplaneteu>
+		<name>KOI-806.02</name>
+		<name>Kepler-30 c</name>
+		<name>KIC 3832474 c</name>
+		<id>KOI-806.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.013248</mass>
+			<radius>1.120903</radius>
+			<orbit>
+				<period>60.3251</period>
+				<semimajoraxis>0.30</semimajoraxis>
+				<eccentricity>0.0111</eccentricity>
+				<inclination>90.32</inclination>
+				<periastron>-49</periastron>
+				<longitude />
+				<ascendingnode>0</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.99</mass>
+			<radius>0.95</radius>
+			<metallicity>0.18</metallicity>
+			<distance>924.9</distance>
+			<temperature>5498.0</temperature>
+			<rightascension>19 01 08</rightascension>
+			<declination>+38 56 50</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-806.03</id_exoplaneteu>
+		<name>KOI-806.03</name>
+		<name>Kepler-30 d</name>
+		<name>KIC 3832474 d</name>
+		<id>KOI-806.03</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.072666</mass>
+			<radius>0.801947</radius>
+			<orbit>
+				<period>143.213</period>
+				<semimajoraxis>0.5</semimajoraxis>
+				<eccentricity>0.022</eccentricity>
+				<inclination />
+				<periastron>-163</periastron>
+				<longitude />
+				<ascendingnode>1.3</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.99</mass>
+			<radius>0.95</radius>
+			<metallicity>0.18</metallicity>
+			<distance>924.9</distance>
+			<temperature>5498.0</temperature>
+			<rightascension>19 01 08</rightascension>
+			<declination>+38 56 50</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/01/26</lastupdate>
+		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -73539,11 +73711,11 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>MOA-2008-BLG-379L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>4.8</mass>
+			<mass>4.1</mass>
 			<radius />
 			<orbit>
 				<period />
-				<semimajoraxis>4.1</semimajoraxis>
+				<semimajoraxis>3.3</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -73553,10 +73725,10 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.66</mass>
+			<mass>0.56</mass>
 			<radius />
 			<metallicity />
-			<distance>3.6</distance>
+			<distance>3300</distance>
 			<temperature />
 			<rightascension>17 58 49</rightascension>
 			<declination>-30 11 49</declination>
@@ -73569,7 +73741,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/11/15</lastupdate>
+		<lastupdate>14/04/18</lastupdate>
 		<description>MOA-2008-BLG-379Lb is a planetary mass object discovered by gravitational microlensing. Because a faint source star crossed a large resonant caustic, the planetary signal dominates the light curve. A statistical model has been used to determine the physical system parameters.</description>
 		<new />
 		<image />
