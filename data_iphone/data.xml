@@ -1,4 +1,4 @@
-<planets date="2014-05-01" name="data" planets="1805">
+<planets date="2014-05-13" name="data" planets="1809">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1581,6 +1581,39 @@
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>beta Cancri b</id_exoplaneteu>
+		<name>beta Cancri b</name>
+		<name>HD 69267 b</name>
+		<id>beta Cancri b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>7.8</mass>
+			<orbit>
+				<period>605.2</period>
+				<semimajoraxis>1.7</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<periastron>58.9</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K4III</spectraltype>
+			<mass>1.7</mass>
+			<radius>47.2</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>90</distance>
+			<temperature>4092.1</temperature>
+			<rightascension>08 16 31</rightascension>
+			<declination>+09 11 08</declination>
+			<magV>3.52</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/13</lastupdate>
+		<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once everry 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>beta Pic b</id_exoplaneteu>
 		<name>beta Pic b</name>
 		<id>beta Pic b</id>
@@ -1609,6 +1642,41 @@
 		<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours.</description>
 		<image>beta Pic</image>
 		<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>beta Ursae Minoris b</id_exoplaneteu>
+		<name>beta Ursae Minoris b</name>
+		<name>HD 131873 b</name>
+		<name>beta UMi b</name>
+		<name>Kochab b</name>
+		<id>beta Ursae Minoris b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>6.1</mass>
+			<orbit>
+				<period>522.3</period>
+				<semimajoraxis>1.4</semimajoraxis>
+				<eccentricity>0.19</eccentricity>
+				<periastron>307.4</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K4IIIvar</spectraltype>
+			<mass>1.4</mass>
+			<radius>38.3</radius>
+			<metallicity>-0.27</metallicity>
+			<distance>38.7</distance>
+			<temperature>4126</temperature>
+			<rightascension>14 50 42</rightascension>
+			<declination>+74 09 20</declination>
+			<magV>2.08</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/13</lastupdate>
+		<description>This planet is orbiting the brighest star in the bowl of the Little Dipper. The star is K giant, 130 times more luminous than the Sun and abou 130 light years away. The planet was found using data collected from the Bohyunsan Observatory.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -4510,6 +4578,36 @@ Credit: Jonah Gallagher.</imagedescription>
 		<lastupdate>11/12/14</lastupdate>
 		<image>GSC 06214-00210</image>
 		<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>GU Psc b</id_exoplaneteu>
+		<name>GU Psc b</name>
+		<id>GU Psc b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>11</mass>
+			<orbit>
+				<semimajoraxis>2000</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3</spectraltype>
+			<mass>0.325</mass>
+			<metallicity>0.1</metallicity>
+			<distance>48</distance>
+			<temperature>1050</temperature>
+			<rightascension>01 12 35</rightascension>
+			<declination>+17 03 56</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>13/05/14</lastupdate>
+		<description>GU Psc b is a comoving companion of planetary mass to the young M3 star GU Psc. The system is only 100 million years old and the wide separation of the planetary companion raising interesting questions about the system's formation history.</description>
+		<new>1</new>
+		<image>GUPsc</image>
+		<imagedescription>Image of the planet GU Psc b and its host star. 
+			</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -9159,7 +9257,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/04/29</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -9190,7 +9287,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/04/29</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -9221,7 +9317,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/04/29</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -9252,7 +9347,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/04/29</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -13123,7 +13217,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>38</distance>
 			<temperature>407.7</temperature>
 			<rightascension>22 46 08</rightascension>
-			<declination>-48 58 4</declination>
+			<declination>-48 58 04</declination>
 			<magV>6.63</magV>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -13151,7 +13245,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>38</distance>
 			<temperature>407.7</temperature>
 			<rightascension>22 46 08</rightascension>
-			<declination>-48 58 4</declination>
+			<declination>-48 58 04</declination>
 			<magV>6.63</magV>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -20353,7 +20447,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<distance>468.1</distance>
 			<temperature>5952</temperature>
 			<rightascension>19 21 34</rightascension>
-			<declination>+40 17 5</declination>
+			<declination>+40 17 05</declination>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -20381,7 +20475,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<distance>468.1</distance>
 			<temperature>5952</temperature>
 			<rightascension>19 21 34</rightascension>
-			<declination>+40 17 5</declination>
+			<declination>+40 17 05</declination>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -21232,7 +21326,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<distance>600</distance>
 			<temperature>1354.2</temperature>
 			<rightascension>19 04 58</rightascension>
-			<declination>50 02 25</declination>
+			<declination>+50 02 25</declination>
 			<magV>13.4</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -42710,7 +42804,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<distance>353.6</distance>
 			<temperature>5538</temperature>
 			<rightascension>19 27 24</rightascension>
-			<declination>+44 58 5</declination>
+			<declination>+44 58 05</declination>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -42739,7 +42833,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<distance>353.6</distance>
 			<temperature>5538</temperature>
 			<rightascension>19 27 24</rightascension>
-			<declination>+44 58 5</declination>
+			<declination>+44 58 05</declination>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -42766,7 +42860,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<metallicity>0.33</metallicity>
 			<distance>326.4</distance>
 			<temperature>5476</temperature>
-			<rightascension>19 04 9</rightascension>
+			<rightascension>19 04 09</rightascension>
 			<declination>+49 36 52</declination>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -42794,7 +42888,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<metallicity>0.33</metallicity>
 			<distance>326.4</distance>
 			<temperature>5476</temperature>
-			<rightascension>19 04 9</rightascension>
+			<rightascension>19 04 09</rightascension>
 			<declination>+49 36 52</declination>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -42823,7 +42917,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<distance>69.2</distance>
 			<temperature>5460</temperature>
 			<rightascension>19 34 43</rightascension>
-			<declination>+46 51 9</declination>
+			<declination>+46 51 09</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -42855,7 +42949,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<distance>771.43</distance>
 			<temperature>5617</temperature>
 			<rightascension>19 38 03</rightascension>
-			<declination>48 58 54</declination>
+			<declination>+48 58 54</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
@@ -44877,7 +44971,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<distance>1107</distance>
 			<temperature>5962</temperature>
 			<rightascension>19 35 56</rightascension>
-			<declination>46 41 16</declination>
+			<declination>+46 41 16</declination>
 			<magV>15.3</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -44906,7 +45000,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<distance>1107</distance>
 			<temperature>5331</temperature>
 			<rightascension>19 36 37</rightascension>
-			<declination>46 09 59</declination>
+			<declination>+46 09 59</declination>
 			<magV>16.4</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -46934,7 +47028,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<distance>221.3</distance>
 			<temperature>4782</temperature>
 			<rightascension>19 49 25</rightascension>
-			<declination>+41 18 0</declination>
+			<declination>+41 18 00</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -48494,6 +48588,42 @@ Image credit: Joe Gallagher</imagedescription>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2006</discoveryyear>
 		<lastupdate>09/04/02</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>mu Leo b</id_exoplaneteu>
+		<name>mu Leo b</name>
+		<name>HD 85503 b</name>
+		<name>mu Leonis b</name>
+		<name>Rasalas b</name>
+		<name>Alshemali b</name>
+		<id>mu Leo b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.4</mass>
+			<orbit>
+				<period>357.8</period>
+				<semimajoraxis>1.1</semimajoraxis>
+				<eccentricity>0.09</eccentricity>
+				<periastron>227.1</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2III</spectraltype>
+			<mass>1.5</mass>
+			<radius>11.4</radius>
+			<metallicity>0.36</metallicity>
+			<distance>40.9</distance>
+			<temperature>4538.2</temperature>
+			<rightascension>09 52 45</rightascension>
+			<declination>+26 00 23</declination>
+			<magV>3.88</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/13</lastupdate>
+		<description>The planet mu Leo b is orbiting the K giant mu Leonis, also known as Rasalas (the northern star of the lion's head). It was found using data from the Bohyunsan Observatory.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
