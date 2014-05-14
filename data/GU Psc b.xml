@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GU Psc b</id_exoplaneteu>
+	<name>GU Psc b</name>
+	<id>GU Psc b</id>
+	<discoverymethod>imaging</discoverymethod>
+	<properties>
+		<mass>11</mass>
+		<radius />
+		<orbit>
+			<period />
+			<semimajoraxis>2000</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3</spectraltype>
+		<mass>0.325</mass>
+		<radius />
+		<metallicity>0.1</metallicity>
+		<distance>48</distance>
+		<temperature>1050</temperature>
+		<rightascension>01 12 35</rightascension>
+		<declination>+17 03 56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>13/05/14</lastupdate>
+	<description>GU Psc b is a comoving companion of planetary mass to the young M3 star GU Psc. The system is only 100 million years old and the wide separation of the planetary companion raising interesting questions about the system's formation history.</description>
+	<new>1</new>
+	<image>GUPsc</image>
+	<imagedescription>Image of the planet GU Psc b and its host star. 
+			</imagedescription>
+	<list>Confirmed planets</list>
+</planet>
