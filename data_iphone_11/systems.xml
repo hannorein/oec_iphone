@@ -1,4 +1,4 @@
-<systems name="systems" planets="1809">
+<systems name="systems" planets="1814">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -220,11 +220,16 @@
 		<declination>-21 04 58</declination>
 		<distance>145</distance>
 		<star>
+			<name>1RXS1609</name>
+			<name>1RXS J160929.1-210524</name>
+			<name>GSC 6213-1358</name>
 			<mass>0.73</mass>
 			<radius>1.35</radius>
 			<spectraltype>K7V</spectraltype>
 			<planet>
 				<name>1RXS1609 b</name>
+				<name>1RXS J160929.1-210524 b</name>
+				<name>GSC 6213-1358 b</name>
 				<list>Confirmed planets</list>
 				<mass>14</mass>
 				<radius>1.7</radius>
@@ -236,7 +241,6 @@
 				<image>1RXS1609</image>
 				<imagedescription>This image of the host star and the planet was taken with the Gemini North telescope and released in September 2008. Credit: Gemini Observatory.</imagedescription>
 			</planet>
-			<name>1RXS1609</name>
 			<temperature>4060.0</temperature>
 		</star>
 		<videolink>http://youtu.be/xbowd4IY-Cg</videolink>
@@ -990,6 +994,7 @@
 					<name>HD 219449 A b</name>
 					<name>HIP 114855 A b</name>
 					<name>Gliese 893.2 A b</name>
+					<name>91 Aqr b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>3.2</mass>
@@ -1108,6 +1113,7 @@
 				<name>HR 5459</name>
 				<name>HD 128620</name>
 				<name>HIP 71683</name>
+				<name>alf Cen A</name>
 				<spectraltype>G2 V</spectraltype>
 				<mass>1.105</mass>
 				<radius>1.227</radius>
@@ -1119,6 +1125,7 @@
 				<name>HR 5460</name>
 				<name>HD 128621</name>
 				<name>HIP 71681</name>
+				<name>alf Cen B</name>
 				<spectraltype>K1 V</spectraltype>
 				<mass>0.934</mass>
 				<radius>0.865</radius>
@@ -1130,6 +1137,7 @@
 					<name>HD 128621 b</name>
 					<name>HIP 71681 b</name>
 					<name>Albertus Alauda</name>
+					<name>alf Cen B b</name>
 					<mass>0.0035546417</mass>
 					<period>3.235</period>
 					<semimajoraxis>0.04</semimajoraxis>
@@ -1415,12 +1423,15 @@
 		<declination>+14 41 22</declination>
 		<distance>50</distance>
 		<star>
+			<name>BD14 4559</name>
+			<name>BD+14 4559</name>
 			<mass>0.86</mass>
 			<magV>9.63</magV>
 			<metallicity>0.1</metallicity>
 			<spectraltype>K2V</spectraltype>
 			<planet>
 				<name>BD14 4559 b</name>
+				<name>BD+14 4559 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.47</mass>
 				<period>268.94</period>
@@ -1431,7 +1442,6 @@
 				<discoveryyear>2009</discoveryyear>
 				<temperature>204.6</temperature>
 			</planet>
-			<name>BD14 4559</name>
 			<temperature>4814.0</temperature>
 		</star>
 	</system>
@@ -1441,18 +1451,21 @@
 		<declination>+19 53 29</declination>
 		<distance>200</distance>
 		<star>
+			<name>BD20 2457</name>
+			<name>BD+20 2457</name>
 			<mass>2.8</mass>
 			<magV>9.75</magV>
 			<metallicity>-1</metallicity>
 			<spectraltype>K2II</spectraltype>
 			<planet>
 				<name>BD20 2457 b</name>
+				<name>BD+20 2457 b</name>
 				<list>Confirmed planets</list>
 				<mass>21.42</mass>
 				<period>379.63</period>
 				<semimajoraxis>1.45</semimajoraxis>
 				<eccentricity>0.15</eccentricity>
-				<description>The star BD+242457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun.yy</description>
+				<description>The star BD+20 2457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>09/06/11</lastupdate>
 				<discoveryyear>2009</discoveryyear>
@@ -1460,6 +1473,7 @@
 			</planet>
 			<planet>
 				<name>BD20 2457 c</name>
+				<name>BD+20 2457 c</name>
 				<list>Confirmed planets</list>
 				<mass>12.47</mass>
 				<period>621.99</period>
@@ -1470,7 +1484,6 @@
 				<discoveryyear>2009</discoveryyear>
 				<temperature>837.6</temperature>
 			</planet>
-			<name>BD20 2457</name>
 			<temperature>4127.0</temperature>
 		</star>
 	</system>
@@ -1492,6 +1505,8 @@
 			<spectraltype>K4III</spectraltype>
 			<planet>
 				<name>beta Cancri b</name>
+				<name>beta Cnc b</name>
+				<name>bet Cnc b</name>
 				<name>HD 69267 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.8" errorplus="0.8">7.8</mass>
@@ -1513,6 +1528,11 @@
 		<declination>-51 03 59</declination>
 		<distance errorminus="0.2" errorplus="0.2">19.3</distance>
 		<star>
+			<name>beta Pic</name>
+			<name>bet Pic</name>
+			<name>Beta Pictoris</name>
+			<name>HR 2020</name>
+			<name>HD 39060</name>
 			<mass>1.8</mass>
 			<magV>3.86</magV>
 			<magB>4.029</magB>
@@ -1523,6 +1543,10 @@
 			<spectraltype>A6V</spectraltype>
 			<planet>
 				<name>beta Pic b</name>
+				<name>bet Pic b</name>
+				<name>Beta Pictoris b</name>
+				<name>HR 2020 b</name>
+				<name>HD 39060 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="4" errorplus="3">7</mass>
 				<period errorminus="511.339078" errorplus="1059.20238">7487.46508</period>
@@ -1537,7 +1561,6 @@
 				<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
 				<temperature>154.0</temperature>
 			</planet>
-			<name>beta Pic</name>
 			<temperature>9790.0</temperature>
 		</star>
 		<videolink>http://youtu.be/rlGZhdXlBAM</videolink>
@@ -1564,6 +1587,7 @@
 				<name>beta Ursae Minoris b</name>
 				<name>HD 131873 b</name>
 				<name>beta UMi b</name>
+				<name>bet UMi b</name>
 				<name>Kochab b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="1.0" errorplus="1.0">6.1</mass>
@@ -1585,10 +1609,13 @@
 		<declination>+10 13 43</declination>
 		<distance>23.1</distance>
 		<star>
+			<name>CFBDS 1458</name>
+			<name>CFBDSIR J145829+101343</name>
 			<mass>0.02</mass>
 			<spectraltype>T9.5</spectraltype>
 			<planet>
 				<name>CFBDS 1458 b</name>
+				<name>CFBDSIR J145829+101343 b</name>
 				<list>Confirmed planets</list>
 				<mass>6.5</mass>
 				<period>9855</period>
@@ -1599,7 +1626,6 @@
 				<image>CFBDS 1458</image>
 				<imagedescription>This image shows the binary CFBDSIR J1458+1013AB. It was obtained with the Keck II Telescope in Hawaii. This is the coolest brown dwarf (or exoplanet, depending on the precise mass) found yet. Credit: Michael Liu (University of Hawaii).</imagedescription>
 			</planet>
-			<name>CFBDS 1458</name>
 			<temperature>540.0</temperature>
 		</star>
 	</system>
@@ -2079,7 +2105,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<system>
 		<name>CoRoT-20</name>
 		<rightascension>06 30 53</rightascension>
-		<declination>00 13 37</declination>
+		<declination>+00 13 37</declination>
 		<distance errorminus="120" errorplus="120">1230</distance>
 		<star>
 			<mass errorminus="0.14" errorplus="0.14">1.14</mass>
@@ -2147,7 +2173,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<system>
 		<name>CoRoT-23</name>
 		<rightascension>18 39 08</rightascension>
-		<declination>04 21 28</declination>
+		<declination>+04 21 28</declination>
 		<distance>600</distance>
 		<star>
 			<mass>1.14</mass>
@@ -2608,6 +2634,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>+26 52 40</declination>
 		<distance>67.9</distance>
 		<star>
+			<name>eps Corona Borealis</name>
+			<name>eps CrB</name>
 			<mass>1.7</mass>
 			<radius>21</radius>
 			<temperature>4406</temperature>
@@ -2623,6 +2651,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>HD 143107 b</name>
 				<name>HR 5947 b</name>
 				<name>HIP 78159 b</name>
+				<name>eps CrB b</name>
 				<list>Confirmed planets</list>
 				<mass>6.7</mass>
 				<period>417.9</period>
@@ -2633,7 +2662,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<lastupdate>12/09/08</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
-			<name>eps Corona Boreal</name>
 		</star>
 	</system>
 	<system>
@@ -2642,6 +2670,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>-09 27 29</declination>
 		<distance>3.2</distance>
 		<star>
+			<name>eps Eridani</name>
+			<name>eps Eri</name>
+			<name>HR 1084</name>
+			<name>HD 22049</name>
 			<mass>0.83</mass>
 			<radius>0.895</radius>
 			<magV>3.73</magV>
@@ -2653,6 +2685,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<spectraltype>K2 V</spectraltype>
 			<planet>
 				<name>eps Eridani b</name>
+				<name>eps Eri b</name>
+				<name>HR 1084 b</name>
+				<name>HD 22049 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.55</mass>
 				<period>2502</period>
@@ -2664,7 +2699,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2000</discoveryyear>
 				<temperature>111.8</temperature>
 			</planet>
-			<name>eps Eridani</name>
 			<temperature>5116.0</temperature>
 		</star>
 		<videolink>http://youtu.be/gUwIp4_smcY</videolink>
@@ -2808,35 +2842,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 	</system>
 	<system>
-		<name>gamma 1 Leo</name>
-		<rightascension>10 19 58</rightascension>
-		<declination>+19 50 29</declination>
-		<distance>38.5</distance>
-		<star>
-			<mass>1.23</mass>
-			<radius>31.88</radius>
-			<magV>2.01</magV>
-			<metallicity>-0.51</metallicity>
-			<spectraltype>K0III</spectraltype>
-			<planet>
-				<name>gamma 1 Leo b</name>
-				<list>Confirmed planets</list>
-				<mass>8.78</mass>
-				<period>428.5</period>
-				<semimajoraxis>1.19</semimajoraxis>
-				<eccentricity>0.144</eccentricity>
-				<inclination>172.1</inclination>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/01/11</lastupdate>
-				<discoveryyear>2009</discoveryyear>
-				<temperature>986.9</temperature>
-			</planet>
-			<name>gamma 1 Leo</name>
-			<temperature>4330.0</temperature>
-		</star>
-		<videolink>http://youtu.be/SmrgjErcQRc</videolink>
-	</system>
-	<system>
 		<name>gamma Cephei</name>
 		<name>Gamma Cephei</name>
 		<name>Errai</name>
@@ -2868,7 +2873,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<spectraltype>K1 III-IV</spectraltype>
 				<planet>
 					<name>Gamma Cephei b</name>
-					<name>Gamma Cephei Ab</name>
+					<name>Gamma Cephei A b</name>
+					<name>gam Cep b</name>
 					<name>HD 222404b</name>
 					<list>Confirmed planets</list>
 					<mass errorminus="0.16" errorplus="0.16">1.85</mass>
@@ -2889,6 +2895,43 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</star>
 		</binary>
 		<videolink>http://youtu.be/lJ3HMtDK4ms</videolink>
+	</system>
+	<system>
+		<name>Gamma Leonis</name>
+		<rightascension>10 19 58</rightascension>
+		<declination>+19 50 29</declination>
+		<distance>38.5</distance>
+		<star>
+			<name>Gamma Leonis</name>
+			<name>gamma 1 Leo</name>
+			<name>gam 1 Leo</name>
+			<name>Algieba</name>
+			<name>Al Gieba</name>
+			<mass>1.23</mass>
+			<radius>31.88</radius>
+			<magV>2.01</magV>
+			<metallicity>-0.51</metallicity>
+			<spectraltype>K0III</spectraltype>
+			<planet>
+				<name>Gamma Leonis b</name>
+				<name>gamma 1 Leo b</name>
+				<name>gam 1 Leo b</name>
+				<name>Algieba b</name>
+				<name>Al Gieba b</name>
+				<list>Confirmed planets</list>
+				<mass>8.78</mass>
+				<period>428.5</period>
+				<semimajoraxis>1.19</semimajoraxis>
+				<eccentricity>0.144</eccentricity>
+				<inclination>172.1</inclination>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>11/01/11</lastupdate>
+				<discoveryyear>2009</discoveryyear>
+				<temperature>986.9</temperature>
+			</planet>
+			<temperature>4330.0</temperature>
+		</star>
+		<videolink>http://youtu.be/SmrgjErcQRc</videolink>
 	</system>
 	<system>
 		<name>Gliese 1214</name>
@@ -2973,6 +3016,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			</planet>
 			<planet>
 				<name>Gliese 163 c</name>
+				<name>GJ 163 c</name>
 				<name>HIP 19394 c</name>
 				<name>LHS 188 c</name>
 				<list>Confirmed planets</list>
@@ -2994,6 +3038,7 @@ Credit: Joe Gallagher.</imagedescription>
 			</planet>
 			<planet>
 				<name>Gliese 163 d</name>
+				<name>GJ 163 d</name>
 				<name>HIP 19394 d</name>
 				<name>LHS 188 d</name>
 				<list>Confirmed planets</list>
@@ -3015,6 +3060,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<declination>+18 57 29</declination>
 		<distance>9.42</distance>
 		<star>
+			<name>Gliese 176</name>
+			<name>HD 285968</name>
 			<mass>0.49</mass>
 			<radius>0.53</radius>
 			<magV>9.97</magV>
@@ -3031,6 +3078,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>GJ 176 b</name>
 				<name>Gj 176 b</name>
 				<name>Gl 176 b</name>
+				<name>HD 285968 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.0265</mass>
 				<period>8.7836</period>
@@ -3042,7 +3090,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>439.8</temperature>
 			</planet>
-			<name>Gliese 176</name>
 			<temperature>3520.0</temperature>
 		</star>
 	</system>
@@ -3169,6 +3216,12 @@ Credit: Joe Gallagher.</imagedescription>
 					<name>Gl 3021 A b</name>
 					<name>HD 1237 A b</name>
 					<name>HIP 1291 A b</name>
+					<name>Gliese 3021 b</name>
+					<name>GJ 3021 b</name>
+					<name>Gj 3021 b</name>
+					<name>Gl 3021 b</name>
+					<name>HD 1237 b</name>
+					<name>HIP 1291 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>3.37</mass>
@@ -3978,6 +4031,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<planet>
 					<name>Gliese 777 A b</name>
 					<name>HD 190360 A b</name>
+					<name>HD 190360 b</name>
 					<name>HR 7670 A b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
@@ -3993,6 +4047,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<planet>
 					<name>Gliese 777 A c</name>
 					<name>HD 190360 A c</name>
+					<name>HD 190360 c</name>
 					<name>HR 7670 A c</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
@@ -4348,6 +4403,7 @@ Credit: Jonah Gallagher.</imagedescription>
 		<declination>-20 43 07</declination>
 		<distance>145</distance>
 		<star>
+			<name>GSC 06214-00210</name>
 			<magB>13.1</magB>
 			<magR errorminus="0.05" errorplus="0.05">12.11</magR>
 			<magI errorminus="0.03" errorplus="0.03">11.08</magI>
@@ -4358,6 +4414,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<spectraltype>M1</spectraltype>
 			<planet>
 				<name>GSC 06214-00210 b</name>
+				<name>GSC 6214-210 b</name>
 				<list>Confirmed planets</list>
 				<mass>17</mass>
 				<semimajoraxis>320</semimajoraxis>
@@ -4367,7 +4424,6 @@ Credit: Jonah Gallagher.</imagedescription>
 				<image>GSC 06214-00210</image>
 				<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
 			</planet>
-			<name>GSC 06214-00210</name>
 			<temperature>3840.0</temperature>
 		</star>
 	</system>
@@ -4614,7 +4670,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HAT-P-15</name>
-		<rightascension>04 24 60</rightascension>
+		<rightascension>04 25 00</rightascension>
 		<declination>+39 27 38</declination>
 		<distance>190</distance>
 		<star>
@@ -6141,7 +6197,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<radius>1.9276</radius>
 			<magV errorminus="0.05" errorplus="0.05">10.48</magV>
 			<magB errorminus="0.06" errorplus="0.06">10.97</magB>
-			<magJ errorminus="0.0.030" errorplus="0.030">9.555</magJ>
+			<magJ errorminus="0.030" errorplus="0.030">9.555</magJ>
 			<magH errorminus="0.029" errorplus="0.029">9.344</magH>
 			<magK errorminus="0.018" errorplus="0.018">9.334</magK>
 			<temperature>6350</temperature>
@@ -7478,6 +7534,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G3 IV</spectraltype>
 				<planet>
 					<name>HD 109749 A b</name>
+					<name>HD 109749 b</name>
 					<list>Confirmed planets</list>
 					<mass>0.28</mass>
 					<period>5.24</period>
@@ -7717,6 +7774,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G3 V</spectraltype>
 				<planet>
 					<name>HD 114729 A b</name>
+					<name>HD 114729 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>0.84</mass>
@@ -7983,6 +8041,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<name>HD 11964 A b</name>
 					<name>Gliese 81.1 A b</name>
 					<name>GJ 81.1 A b</name>
+					<name>HD 11964 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>0.622</mass>
@@ -7998,6 +8057,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<name>HD 11964 A c</name>
 					<name>Gliese 81.1 A c</name>
 					<name>GJ 81.1 A c</name>
+					<name>HD 11964 c</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>0.079</mass>
@@ -8533,11 +8593,12 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
-		<name>HD 132563B</name>
+		<name>HD 132563 B</name>
 		<rightascension>14 58 21</rightascension>
 		<declination>+44 02 36</declination>
 		<distance>96</distance>
 		<star>
+			<name>HD 132563 B</name>
 			<mass>1.01</mass>
 			<magV>9.47</magV>
 			<magB errorminus="0.04" errorplus="0.04">10.16</magB>
@@ -8547,7 +8608,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<spectraltype>G</spectraltype>
 			<metallicity>-0.19</metallicity>
 			<planet>
-				<name>HD 132563B b</name>
+				<name>HD 132563 B b</name>
+				<name>HD 132563 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.49</mass>
 				<period>1544</period>
@@ -8559,7 +8621,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<discoveryyear>2011</discoveryyear>
 				<temperature>158.5</temperature>
 			</planet>
-			<name>HD 132563B</name>
 			<temperature>5985.0</temperature>
 		</star>
 	</system>
@@ -8766,7 +8827,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<system>
 		<name>HD 136418</name>
 		<rightascension>15 19 07</rightascension>
-		<declination>+41 43 60</declination>
+		<declination>+41 44 00</declination>
 		<distance>98.2</distance>
 		<star>
 			<mass>1.33</mass>
@@ -8812,6 +8873,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<spectraltype>K0/K1V</spectraltype>
 			<planet>
 				<name>HD 137388 b</name>
+				<name>HD 137388 A b</name>
 				<list>Confirmed planets</list>
 				<mass>0.223</mass>
 				<period>330</period>
@@ -8978,7 +9040,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<system>
 		<name>HD 141399</name>
 		<rightascension>15 46 53</rightascension>
-		<declination>46 59 10</declination>
+		<declination>+46 59 11</declination>
 		<distance>36.17</distance>
 		<star>
 			<name>HD 141399</name>
@@ -9429,6 +9491,8 @@ Image credit: Vanessa Bailey</imagedescription>
 					<name>HD 147513 A b</name>
 					<name>62 G. Scorpii A b</name>
 					<name>HR 6094 A b</name>
+					<name>HD 147513 A</name>
+					<name>HD 147513 b</name>
 					<list>Confirmed planets</list>
 					<mass>1.21</mass>
 					<period>528.4</period>
@@ -10143,7 +10207,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 159868</name>
-		<rightascension>17 38 60</rightascension>
+		<rightascension>17 39 00</rightascension>
 		<declination>-43 08 44</declination>
 		<distance>52.7</distance>
 		<star>
@@ -10971,6 +11035,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>K0IV</spectraltype>
 				<planet>
 					<name>HD 177830 A b</name>
+					<name>HD 177830 b</name>
 					<list>Confirmed planets</list>
 					<mass>1.49</mass>
 					<period>406.6</period>
@@ -10984,6 +11049,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				</planet>
 				<planet>
 					<name>HD 177830 A c</name>
+					<name>HD 177830 c</name>
 					<list>Confirmed planets</list>
 					<mass>0.15</mass>
 					<period>110.9</period>
@@ -11494,6 +11560,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G5IV</spectraltype>
 				<planet>
 					<name>HD 188015 A b</name>
+					<name>HD 188015 b</name>
 					<list>Confirmed planets</list>
 					<mass>1.26</mass>
 					<period>456.46</period>
@@ -11739,6 +11806,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G3 IV-V</spectraltype>
 				<planet>
 					<name>HD 195019 A b</name>
+					<name>HD 195019 b</name>
 					<list>Confirmed planets</list>
 					<mass>3.7</mass>
 					<period>18.20163</period>
@@ -11863,6 +11931,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<age>0.5</age>
 				<planet>
 					<name>HD 196885 A b</name>
+					<name>HD 196885 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>2.98</mass>
@@ -11943,6 +12012,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<name>94 Ceti A b</name>
 					<name>Gliese 128 A b</name>
 					<name>GJ 128 A b</name>
+					<name>HD 19994 b</name>
 					<list>Confirmed planets</list>
 					<mass>1.68</mass>
 					<period>535.7</period>
@@ -12745,6 +12815,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G0V</spectraltype>
 				<planet>
 					<name>HD 213240 A b</name>
+					<name>HD 213240 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<description>The binary star system HD 213240 consists of the components A and C. The letter B was already used by the WDS survey from 1901 to describe another object. However, it turns out that the B component is not physically associated with the binary. The planet orbiting the A component was discovered in 2001 by Santos and collaborators.</description>
@@ -13407,6 +13478,8 @@ Image credit: Vanessa Bailey</imagedescription>
 				<planet>
 					<name>HD 222582 A b</name>
 					<name>HIP 116906 A b</name>
+					<name>HD 222582 b</name>
+					<name>HIP 116906 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>7.75</mass>
@@ -13812,6 +13885,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>K2 IV a</spectraltype>
 				<planet>
 					<name>HD 27442 A b</name>
+					<name>HD 27442 b</name>
 					<name>Epsilon Reticuli A b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
@@ -14645,6 +14719,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<planet>
 					<name>HD 38529 A b</name>
 					<name>138 G. Orionis A b</name>
+					<name>HD 38529 b</name>
 					<list>Confirmed planets</list>
 					<mass>0.78</mass>
 					<period>14.3104</period>
@@ -14659,6 +14734,8 @@ Image credit: Vanessa Bailey</imagedescription>
 				</planet>
 				<planet>
 					<name>HD 38529 A c</name>
+					<name>138 G. Orionis A c</name>
+					<name>HD 38529 c</name>
 					<list>Confirmed planets</list>
 					<mass>17.7</mass>
 					<period>2134.76</period>
@@ -14951,6 +15028,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<planet>
 					<name>HD 40979 A b</name>
 					<name>HIP 28767 A b</name>
+					<name>HD 40979 b</name>
 					<name>2MASS J06042993+4415379 A b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
@@ -16672,6 +16750,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G0 V</spectraltype>
 				<planet>
 					<name>HD 75289 A b</name>
+					<name>HD 75289 b</name>
 					<list>Confirmed planets</list>
 					<mass>0.42</mass>
 					<period>3.5098</period>
@@ -17448,6 +17527,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<name>HD 89744 A b</name>
 					<name>HR 4067 A b</name>
 					<name>GJ 9326 A b</name>
+					<name>HD 89744 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>7.2</mass>
@@ -18815,6 +18895,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<spectraltype>K1IVa</spectraltype>
 			<planet>
 				<name>kappa CrB b</name>
+				<name>kap CrB b</name>
 				<list>Confirmed planets</list>
 				<mass>1.8</mass>
 				<period>1191</period>
@@ -20856,7 +20937,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<declination>+46 52 06</declination>
 		<distance>735.73</distance>
 		<star>
-			<name>Kepler-13A</name>
+			<name>Kepler-13 A</name>
 			<name>KOI-13A</name>
 			<magB>10.16</magB>
 			<magV>9.95</magV>
@@ -20870,7 +20951,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity>-0.14</metallicity>
 			<spectraltype>A</spectraltype>
 			<planet>
-				<name>Kepler-13A b</name>
+				<name>Kepler-13 A b</name>
+				<name>Kepler-13 b</name>
 				<name>KOI-13 b</name>
 				<name>KOI-13.01</name>
 				<mass errorminus="1.575" errorplus="1.575">6.515</mass>
@@ -22428,6 +22510,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			</star>
 			<planet>
 				<name>Kepler-16 (AB) b</name>
+				<name>Kepler-16 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.333</mass>
 				<radius>0.7538</radius>
@@ -25312,7 +25395,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>KIC 7040629</name>
 			<temperature errorminus="00" errorplus="100">6092</temperature>
 			<radius errorminus=".243" errorplus="0.243">1.314</radius>
-			<mass errorminus="" errorplus="">0.9630</mass>
+			<mass>0.9630</mass>
 			<planet>
 				<name>Kepler-208 b</name>
 				<name>KOI-671 b</name>
@@ -25862,7 +25945,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>KIC 9590976</name>
 			<temperature errorminus="09" errorplus="109">6171</temperature>
 			<radius errorminus=".256" errorplus="0.256">1.799</radius>
-			<mass errorminus="" errorplus="">1.3830</mass>
+			<mass>1.3830</mass>
 			<planet>
 				<name>Kepler-217 b</name>
 				<name>KOI-710 b</name>
@@ -26011,8 +26094,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-22</name>
-		<rightascension>19 17 70</rightascension>
-		<declination>+47 52 90</declination>
+		<rightascension>19 16 52</rightascension>
+		<declination>+47 53 04</declination>
 		<distance>180</distance>
 		<star>
 			<magB>11.5</magB>
@@ -32445,7 +32528,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>KIC 8240797</name>
 			<temperature errorminus="00" errorplus="100">5740</temperature>
 			<radius errorminus=".230" errorplus="0.230">1.194</radius>
-			<mass errorminus="" errorplus="">0.8980</mass>
+			<mass>0.8980</mass>
 			<planet>
 				<name>Kepler-321 c</name>
 				<name>KOI-1809 c</name>
@@ -35945,7 +36028,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>KIC 8013439</name>
 			<temperature errorminus="00" errorplus="100">6152</temperature>
 			<radius errorminus=".350" errorplus="0.350">1.568</radius>
-			<mass errorminus="" errorplus="">1.3780</mass>
+			<mass>1.3780</mass>
 			<planet>
 				<name>Kepler-381 c</name>
 				<name>KOI-2352 c</name>
@@ -37383,7 +37466,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<magJ errorminus="0.027" errorplus="0.027">13.190</magJ>
 			<magH errorminus="0.03" errorplus="0.03">12.93</magH>
 			<magK errorminus="0.03" errorplus="0.03">12.84</magK>
-			<temperature errorminus="9-" errorplus="9-">5750</temperature>
+			<temperature errorminus="90" errorplus="90">5750</temperature>
 			<metallicity errorminus="0.12" errorplus="0.12">0.27</metallicity>
 			<spectraltype>G3V</spectraltype>
 			<mass errorminus="0.091" errorplus="0.091">1.167</mass>
@@ -37436,6 +37519,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			</star>
 			<planet>
 				<name>Kepler-413 AB b</name>
+				<name>Kepler-413 (AB) b</name>
 				<name>Kepler-413 b</name>
 				<name>KIC 12351927 AB b</name>
 				<list>Confirmed planets</list>
@@ -40964,7 +41048,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<system>
 		<name>KOI-2672</name>
 		<rightascension>19 44 31</rightascension>
-		<declination>48 58 38</declination>
+		<declination>+48 58 39</declination>
 		<distance>263.40</distance>
 		<star>
 			<name>KOI-2672</name>
@@ -41254,6 +41338,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<spectraltype>F7IV</spectraltype>
 			<planet>
 				<name>KOI-423 b</name>
+				<name>Kepler-39 b</name>
 				<name>KIC 9478990 b</name>
 				<list>Confirmed planets</list>
 				<mass>18</mass>
@@ -41292,6 +41377,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<planet>
 				<name>KOI-428 b</name>
 				<name>KIC 10418224 b</name>
+				<name>Kepler-40 b</name>
 				<name>2MASS J19471528+4731357 b</name>
 				<list>Confirmed planets</list>
 				<mass>2.2</mass>
@@ -41584,6 +41670,37 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>Lupus-TR 3</name>
+		<rightascension>15 30 18.7</rightascension>
+		<declination>-42 58 41.5</declination>
+		<distance>2000</distance>
+		<star>
+			<name>Lupus-TR 3</name>
+			<mass errorminus="0.04" errorplus="0.04">0.87</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.82</radius>
+			<temperature errorminus="150" errorplus="150">5000</temperature>
+			<magV errorminus="0.2" errorplus="0.2">17.40</magV>
+			<metallicity>0.02</metallicity>
+			<spectraltype>K1V</spectraltype>
+			<planet>
+				<name>Lupus-TR 3b</name>
+				<name>Lupus-TR 3 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.18" errorplus="0.18">0.81</mass>
+				<radius errorminus="0.07" errorplus="0.07">0.89</radius>
+				<period errorminus="0.00004" errorplus="0.00004">3.91405</period>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0464</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="0.8" errorplus="1.3">88.3</inclination>
+				<description>Lupus-TR 3b is the only planet in the system. The planet is a typical a hot Jupiter orbiting Lupus-TR 3, an early dwarf type star</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>14/05/23</lastupdate>
+				<discoveryyear>2007</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>MOA-2007-BLG-192-L</name>
 		<rightascension>18 08 04</rightascension>
 		<declination>-27 09 00</declination>
@@ -41595,6 +41712,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<temperature>3840.0</temperature>
 			<planet>
 				<name>MOA-2007-BLG-192-L b</name>
+				<name>MOA 2007-BLG-192L b</name>
 				<name>MOA-192 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.01</mass>
@@ -41619,6 +41737,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass>0.35</mass>
 			<planet>
 				<name>MOA-2007-BLG-400-L b</name>
+				<name>MOA 2007-BLG-400L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.9</mass>
 				<semimajoraxis>0.85</semimajoraxis>
@@ -41641,6 +41760,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass>0.67</mass>
 			<planet>
 				<name>MOA-2008-BLG-310-L b</name>
+				<name>MOA 2008-BLG-310L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.23</mass>
 				<semimajoraxis>1.25</semimajoraxis>
@@ -41663,6 +41783,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass errorminus="0.27" errorplus="0.24">0.56</mass>
 			<planet>
 				<name>MOA-2008-BLG-379L b</name>
+				<name>MOA 2008-BLG-379L b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="1.9" errorplus="1.7">4.1</mass>
 				<semimajoraxis errorminus="1.2" errorplus="1.7">3.3</semimajoraxis>
@@ -41682,6 +41803,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<mass>0.56</mass>
 			<planet>
 				<name>MOA-2009-BLG-266L b</name>
+				<name>MOA 2009-BLG-266 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.0327</mass>
 				<period>2780</period>
@@ -41704,6 +41826,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<spectraltype>K</spectraltype>
 			<planet>
 				<name>MOA-2009-BLG-319 b</name>
+				<name>MOA 2009-BLG-319L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.157</mass>
 				<semimajoraxis>2</semimajoraxis>
@@ -41844,6 +41967,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<spectraltype>G</spectraltype>
 			<planet>
 				<name>MOA-2011-BLG-322 b</name>
+				<name>MOA 2011-BLG-322L b</name>
 				<name>HJD 2455773 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="4.3" errorplus="8.6">7.8</mass>
@@ -41908,6 +42032,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<mass>0.75</mass>
 			<planet>
 				<name>MOA-bin-1 b</name>
+				<name>MOA-bin-1L b</name>
 				<list>Confirmed planets</list>
 				<mass>3.7</mass>
 				<semimajoraxis>8.3</semimajoraxis>
@@ -41921,11 +42046,15 @@ Image credit: Joe Gallagher</imagedescription>
 		</star>
 	</system>
 	<system>
-		<name>mu Ara</name>
+		<name>mu Arae</name>
 		<rightascension>17 44 08</rightascension>
 		<declination>-51 50 02</declination>
 		<distance>15.3</distance>
 		<star>
+			<name>mu Arae</name>
+			<name>mu Ara</name>
+			<name>HD 160691</name>
+			<name>HR 6585</name>
 			<mass>1.08</mass>
 			<radius>1.245</radius>
 			<magV>5.15</magV>
@@ -41936,7 +42065,10 @@ Image credit: Joe Gallagher</imagedescription>
 			<metallicity>0.28</metallicity>
 			<spectraltype>G3 IV-V</spectraltype>
 			<planet>
+				<name>mu Arae b</name>
 				<name>mu Ara b</name>
+				<name>HD 160691 b</name>
+				<name>HR 6585 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.676</mass>
 				<period>643.25</period>
@@ -41948,7 +42080,10 @@ Image credit: Joe Gallagher</imagedescription>
 				<temperature>228.7</temperature>
 			</planet>
 			<planet>
+				<name>mu Arae c</name>
 				<name>mu Ara c</name>
+				<name>HD 160691 c</name>
+				<name>HR 6585 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.03321</mass>
 				<period>9.6386</period>
@@ -41960,7 +42095,10 @@ Image credit: Joe Gallagher</imagedescription>
 				<temperature>928.2</temperature>
 			</planet>
 			<planet>
+				<name>mu Arae d</name>
 				<name>mu Ara d</name>
+				<name>HD 160691 d</name>
+				<name>HR 6585 d</name>
 				<list>Confirmed planets</list>
 				<mass>0.5219</mass>
 				<period>310.55</period>
@@ -41972,7 +42110,10 @@ Image credit: Joe Gallagher</imagedescription>
 				<temperature>292.1</temperature>
 			</planet>
 			<planet>
+				<name>mu Arae e</name>
 				<name>mu Ara e</name>
+				<name>HD 160691 e</name>
+				<name>HR 6585 e</name>
 				<list>Confirmed planets</list>
 				<mass>1.814</mass>
 				<period>4205.8</period>
@@ -41983,7 +42124,6 @@ Image credit: Joe Gallagher</imagedescription>
 				<discoveryyear>2006</discoveryyear>
 				<temperature>122.5</temperature>
 			</planet>
-			<name>mu Ara</name>
 			<temperature>5700.0</temperature>
 		</star>
 	</system>
@@ -42032,6 +42172,8 @@ Image credit: Joe Gallagher</imagedescription>
 		<declination>-13 54 24</declination>
 		<distance>766</distance>
 		<star>
+			<name>NGC 2423 3</name>
+			<name>BD-13 2130</name>
 			<spectraltype>GIV/V</spectraltype>
 			<mass>2.4</mass>
 			<magV>9.45</magV>
@@ -42042,6 +42184,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<metallicity>0.14</metallicity>
 			<planet>
 				<name>NGC 2423 3 b</name>
+				<name>BD-13 2130 b</name>
 				<list>Confirmed planets</list>
 				<mass>10.6</mass>
 				<period>714.3</period>
@@ -42052,7 +42195,6 @@ Image credit: Joe Gallagher</imagedescription>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>417.4</temperature>
 			</planet>
-			<name>NGC 2423 3</name>
 			<temperature>5700.0</temperature>
 		</star>
 	</system>
@@ -42062,10 +42204,12 @@ Image credit: Joe Gallagher</imagedescription>
 		<declination>-61 52 18</declination>
 		<distance>2176</distance>
 		<star>
+			<name>NGC 4349 No 127</name>
 			<mass>3.9</mass>
 			<magV>7.4</magV>
 			<planet>
 				<name>NGC 4349 No 127 b</name>
+				<name>NGC 4349 127 b</name>
 				<list>Confirmed planets</list>
 				<mass>19.8</mass>
 				<period>677.8</period>
@@ -42076,7 +42220,6 @@ Image credit: Joe Gallagher</imagedescription>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>599.9</temperature>
 			</planet>
-			<name>NGC 4349 No 127</name>
 			<temperature>5700.0</temperature>
 		</star>
 	</system>
@@ -42106,6 +42249,7 @@ Image credit: Joe Gallagher</imagedescription>
 			</star>
 			<planet>
 				<name>NN Ser (AB) c</name>
+				<name>NN Ser c</name>
 				<name>NN Serpentis (AB) c</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.12" errorplus="0.12">6.96</mass>
@@ -42121,6 +42265,7 @@ Image credit: Joe Gallagher</imagedescription>
 			</planet>
 			<planet>
 				<name>NN Ser (AB) d</name>
+				<name>NN Ser d</name>
 				<name>NN Serpentis (AB) d</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.09" errorplus="0.09">1.74</mass>
@@ -42262,6 +42407,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<planet>
 				<name>NY Virginis (AB) b</name>
 				<name>NY Vir (AB) b</name>
+				<name>NY Vir b</name>
 				<name>PG 1336-018 (AB) b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, P-type</list>
@@ -42284,6 +42430,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<mass>0.46</mass>
 			<planet>
 				<name>OGLE-05-071L b</name>
+				<name>OGLE 2005-BLG-71L b</name>
 				<list>Confirmed planets</list>
 				<mass>3.5</mass>
 				<period>3600</period>
@@ -42305,6 +42452,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<mass>0.49</mass>
 			<planet>
 				<name>OGLE-05-169L b</name>
+				<name>OGLE 2005-BLG-169L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.04</mass>
 				<period>3300</period>
@@ -42327,6 +42475,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<spectraltype>M</spectraltype>
 			<planet>
 				<name>OGLE-05-390L b</name>
+				<name>OGLE 2005-BLG-390L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.017</mass>
 				<period>3500</period>
@@ -42348,6 +42497,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<mass>0.51</mass>
 			<planet>
 				<name>OGLE-06-109L b</name>
+				<name>OGLE 2006-BLG-109L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.727</mass>
 				<period>1790</period>
@@ -42359,6 +42509,7 @@ Image credit: Joe Gallagher</imagedescription>
 			</planet>
 			<planet>
 				<name>OGLE-06-109L c</name>
+				<name>OGLE 2006-BLG-109L c</name>
 				<list>Confirmed planets</list>
 				<mass>0.271</mass>
 				<period>4931</period>
@@ -42423,6 +42574,7 @@ Image credit: Joe Gallagher</imagedescription>
 			<spectraltype>M</spectraltype>
 			<planet>
 				<name>OGLE-2011-BLG-0251 b</name>
+				<name>OGLE 2011-BLG-251L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.53</mass>
 				<semimajoraxis>2.72</semimajoraxis>
@@ -42446,6 +42598,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>0.82</mass>
 			<planet>
 				<name>OGLE-2012-BLG-0026L b</name>
+				<name>OGLE 2012-BLG-026L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.11</mass>
 				<semimajoraxis>3.82</semimajoraxis>
@@ -42456,6 +42609,7 @@ Credit: Kains et al (2013).</imagedescription>
 			</planet>
 			<planet>
 				<name>OGLE-2012-BLG-0026L c</name>
+				<name>OGLE 2012-BLG-026L c</name>
 				<list>Confirmed planets</list>
 				<mass>0.68</mass>
 				<semimajoraxis>4.63</semimajoraxis>
@@ -42477,6 +42631,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass errorminus="0.002" errorplus="0.002">0.022</mass>
 			<planet>
 				<name>OGLE-2012-BLG-0358L b</name>
+				<name>OGLE 2012-BLG-358L b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.19" errorplus="0.19">1.85</mass>
 				<semimajoraxis errorminus="0.03" errorplus="0.03">0.87</semimajoraxis>
@@ -42497,6 +42652,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass errorminus="0.17" errorplus="0.17">0.59</mass>
 			<planet>
 				<name>OGLE-2012-BLG-0406L b</name>
+				<name>OGLE 2012-BLG-406L b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="1.2" errorplus="1.2">3.9</mass>
 				<semimajoraxis errorminus="1.0" errorplus="1.0">3.9</semimajoraxis>
@@ -42803,6 +42959,82 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>omi CrB</name>
+		<rightascension>15 20 08</rightascension>
+		<declination>+29 36 58</declination>
+		<distance>84</distance>
+		<star>
+			<name>omi CrB</name>
+			<name>Omicron Coronae Borealis</name>
+			<name>o CrB</name>
+			<name>HD 136512</name>
+			<name>HR 5709</name>
+			<name>HIP 75049</name>
+			<mass errorminus="0.23" errorplus="0.01">2.13</mass>
+			<radius errorminus="0.7" errorplus="0.7">10.5</radius>
+			<temperature errorminus="20" errorplus="20">4749</temperature>
+			<magV>5.51</magV>
+			<metallicity errorminus="0.03" errorplus="0.03">-0.29</metallicity>
+			<spectraltype>K0 III</spectraltype>
+			<planet>
+				<name>omi CrB b</name>
+				<name>Omicron Coronae Borealis b</name>
+				<name>o CrB b</name>
+				<name>HD 136512 b</name>
+				<name>HR 5709 b</name>
+				<name>HIP 75049 b</name>
+				<list>Confirmed planets</list>
+				<mass>1.5</mass>
+				<period errorminus="0.54" errorplus="0.54">187.83</period>
+				<semimajoraxis>0.83</semimajoraxis>
+				<eccentricity errorminus="0.085" errorplus="0.085">0.191</eccentricity>
+				<periastron errorminus="36" errorplus="36">79</periastron>
+				<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/05/15</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>omi UMa</name>
+		<rightascension>08 30 15</rightascension>
+		<declination>+60 43 05</declination>
+		<distance>56</distance>
+		<star>
+			<name>omi UMa</name>
+			<name>Omicron Ursae Majoris</name>
+			<name>Muscida</name>
+			<name>o UMa</name>
+			<name>HD 71369</name>
+			<name>HIP 41704</name>
+			<mass errorminus="0.7" errorplus="0.7">3.09</mass>
+			<radius errorminus="0.9" errorplus="1.0">14.1</radius>
+			<temperature errorminus="10" errorplus="10">5242</temperature>
+			<magV>3.35</magV>
+			<metallicity errorminus="0.02" errorplus="0.02">-0.09</metallicity>
+			<spectraltype>G4 II-III</spectraltype>
+			<planet>
+				<name>omi UMa b</name>
+				<name>Omicron Ursae Majoris b</name>
+				<name>Muscida b</name>
+				<name>o UMa b</name>
+				<name>HD 71369 b</name>
+				<name>HIP 41704 b</name>
+				<list>Confirmed planets</list>
+				<mass>4.1</mass>
+				<period errorminus="35" errorplus="25">1630</period>
+				<semimajoraxis>3.9</semimajoraxis>
+				<eccentricity errorminus="0.065" errorplus="0.065">0.130</eccentricity>
+				<periastron errorminus="42" errorplus="42">58</periastron>
+				<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/04/15</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>Omicron Serpentis</name>
 		<name>o Ser</name>
 		<name>o Serpentis</name>
@@ -42832,6 +43064,7 @@ Credit: Kains et al (2013).</imagedescription>
 			<planet>
 				<name>Omicron Serpentis b</name>
 				<name>o Ser b</name>
+				<name>ome Ser b</name>
 				<name>o Serpentis b</name>
 				<name>HR 6581 b</name>
 				<name>HD 160613 b</name>
@@ -43016,8 +43249,8 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 	</system>
 	<system>
 		<name>Pr0201</name>
-		<rightascension>8 41 43</rightascension>
-		<declination>20 13 36</declination>
+		<rightascension>08 41 43</rightascension>
+		<declination>+20 13 36</declination>
 		<distance>177</distance>
 		<star>
 			<magB>11.1</magB>
@@ -43052,8 +43285,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	</system>
 	<system>
 		<name>Pr0211</name>
-		<rightascension>8 42 11</rightascension>
-		<declination>19 16 37</declination>
+		<rightascension>08 42 11</rightascension>
+		<declination>+19 16 37</declination>
 		<distance>177</distance>
 		<star>
 			<magB>13.02</magB>
@@ -43088,7 +43321,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<system>
 		<name>PSO J318.5-22</name>
 		<rightascension>21 14 08</rightascension>
-		<declination>22 51 36</declination>
+		<declination>+22 51 36</declination>
 		<distance errorminus="1.4" errorplus="1.4">24.6</distance>
 		<planet>
 			<name>PSO J318.5-22</name>
@@ -43115,6 +43348,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<star>
 			<planet>
 				<name>PSR 1257 12 b</name>
+				<name>PSR B1257+12 b</name>
 				<list>Confirmed planets</list>
 				<mass>7e-05</mass>
 				<period>25.262</period>
@@ -43126,6 +43360,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</planet>
 			<planet>
 				<name>PSR 1257 12 c</name>
+				<name>PSR B1257+12 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.013</mass>
 				<period>66.5419</period>
@@ -43138,6 +43373,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</planet>
 			<planet>
 				<name>PSR 1257 12 d</name>
+				<name>PSR B1257+12 d</name>
 				<list>Confirmed planets</list>
 				<mass>0.012</mass>
 				<period>98.2114</period>
@@ -43297,11 +43533,15 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<declination>+12 22 33</declination>
 		<distance>114</distance>
 		<star>
+			<name>Ross 458(AB)</name>
 			<mass>0.6</mass>
 			<magV>9.76</magV>
 			<spectraltype>M2V</spectraltype>
 			<planet>
 				<name>Ross 458(AB) c</name>
+				<name>Ross 458 AB c</name>
+				<name>DT Virginis c</name>
+				<name>HIP 63510 c</name>
 				<list>Confirmed planets</list>
 				<mass>8.5</mass>
 				<semimajoraxis>1168</semimajoraxis>
@@ -43309,7 +43549,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>11/08/11</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 			</planet>
-			<name>Ross 458(AB)</name>
 			<temperature>3840.0</temperature>
 		</star>
 	</system>
@@ -43388,6 +43627,8 @@ Credit: Thayne Currie.</imagedescription>
 			</star>
 			<planet>
 				<name>RR Cae (AB) b</name>
+				<name>RR Cae b</name>
+				<name>RR Caeli b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, P-type</list>
 				<mass>4.2</mass>
@@ -43849,42 +44090,59 @@ Credit: ESO/L. Calcada</imagedescription>
 		</star>
 	</system>
 	<system>
-		<name>SWEEPS-</name>
-		<rightascension>17 58 54</rightascension>
-		<declination>-29 11 21</declination>
+		<name>SWEEPS-11</name>
+		<rightascension>17 59 03</rightascension>
+		<declination>-29 11 54</declination>
 		<distance>8500</distance>
 		<star>
+			<name>SWEEPS-11</name>
+			<name>SWEEPS J175902.67-291153.5</name>
+			<radius>1.45</radius>
+			<mass>1.1</mass>
+			<planet>
+				<name>SWEEPS-11</name>
+				<name>SWEEPS-11 b</name>
+				<name>SWEEPS J175902.67-291153.5 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="5.6" errorplus="5.6">9.7</mass>
+				<radius errorminus="0.21" errorplus="0.21">1.13</radius>
+				<period>1.796</period>
+				<semimajoraxis>0.03</semimajoraxis>
+				<inclination>84</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/05/23</lastupdate>
+				<discoveryyear>2006</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>SWEEPS-4</name>
+		<rightascension>17 58 54</rightascension>
+		<declination>-29 11 21</declination>
+		<distance>6600</distance>
+		<star>
+			<name>SWEEPS-4</name>
+			<name>SWEEPS J175853.92-291120.6</name>
 			<mass>1.24</mass>
 			<radius>1.18</radius>
 			<magV>18.8</magV>
 			<planet>
-				<name>SWEEPS-04</name>
 				<name>SWEEPS-4</name>
+				<name>SWEEPS-04</name>
+				<name>SWEEPS-4 b</name>
+				<name>SWEEPS J175853.92-291120.6 b</name>
 				<list>Confirmed planets</list>
-				<mass>3.8</mass>
+				<mass upperlimit="3.8" />
 				<radius>0.81</radius>
 				<period>4.2</period>
 				<semimajoraxis>0.055</semimajoraxis>
 				<inclination>87</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>07/11/26</lastupdate>
+				<lastupdate>14/05/23</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
-			<planet>
-				<name>SWEEPS-11</name>
-				<list>Confirmed planets</list>
-				<mass>9.7</mass>
-				<radius>1.13</radius>
-				<period>1.796</period>
-				<semimajoraxis>0.03</semimajoraxis>
-				<inclination>84</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>07/11/26</lastupdate>
-				<discoveryyear>2006</discoveryyear>
-				<istransiting>1</istransiting>
-			</planet>
-			<name>SWEEPS-</name>
 		</star>
 	</system>
 	<system>
@@ -43920,6 +44178,7 @@ Credit: ESO/L. Calcada</imagedescription>
 					<name>HD 120136 A b</name>
 					<name>GJ 527 A b</name>
 					<name>Gliese 527 A b</name>
+					<name>tau Boo b</name>
 					<list>Confirmed planets</list>
 					<mass errorminus="0.2" errorplus="0.35">5.90</mass>
 					<period>3.312</period>
@@ -44107,6 +44366,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<name>TrES-1 b</name>
 				<name>TYC 2652-01324-1</name>
 				<name>2MASS J19040985+3637574</name>
+				<name>TrES-1</name>
 				<list>Confirmed planets</list>
 				<mass>0.761</mass>
 				<radius>1.099</radius>
@@ -44151,6 +44411,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<name>KIC 11446443</name>
 					<name>Kepler-1</name>
 					<name>KOI-1</name>
+					<name>TrES-2</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>1.253</mass>
@@ -44196,6 +44457,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<planet>
 				<name>TrES-3 b</name>
 				<name>2MASS J17520702+3732461</name>
+				<name>TrES-3</name>
 				<list>Confirmed planets</list>
 				<mass>1.91</mass>
 				<radius>1.305</radius>
@@ -44236,6 +44498,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<name>TrES-4 b</name>
 					<name>TYC 2620-00648-1</name>
 					<name>2MASS J17531304+3712426</name>
+					<name>TrES-4</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>0.917</mass>
@@ -44283,6 +44546,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<planet>
 				<name>TrES-5 b</name>
 				<name>2MASS J20205324+5926556 b</name>
+				<name>TrES-5</name>
 				<list>Confirmed planets</list>
 				<mass>1.778</mass>
 				<radius>1.209</radius>
@@ -44429,6 +44693,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>Catac. var.</spectraltype>
 			<planet>
 				<name>UZ For(ab) d</name>
+				<name>UZ For d</name>
+				<name>UZ Fornacis d</name>
 				<list>Confirmed planets</list>
 				<mass>7.7</mass>
 				<period>1900</period>
@@ -44457,6 +44723,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>sdB</spectraltype>
 			<planet>
 				<name>V391 Peg b</name>
+				<name>V0391 Peg b</name>
 				<list>Confirmed planets</list>
 				<mass>3.2</mass>
 				<period>1170</period>
@@ -44612,6 +44879,36 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>13/10/22</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-103</name>
+		<rightascension>16 37 15</rightascension>
+		<declination>+07 11 00</declination>
+		<distance errorminus="35" errorplus="35">470</distance>
+		<star>
+			<name>WASP-103</name>
+			<mass errorminus="0.036" errorplus="0.039">1.220</mass>
+			<radius errorminus="0.031" errorplus="0.052">1.436</radius>
+			<temperature errorminus="160" errorplus="160">6110</temperature>
+			<magV errorminus="0.01" errorplus="0.01">12.1</magV>
+			<metallicity errorminus="0.13" errorplus="0.13">0.06</metallicity>
+			<spectraltype>F8V</spectraltype>
+			<planet>
+				<name>WASP-103 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.088" errorplus="0.088">1.490</mass>
+				<radius errorminus="0.047" errorplus="0.073">1.528</radius>
+				<temperature errorminus="70" errorplus="75">2508</temperature>
+				<period errorminus="0.000019" errorplus="0.000019">0.925542</period>
+				<semimajoraxis errorminus="0.00021" errorplus="0.00021">0.01985</semimajoraxis>
+				<inclination errorminus="2.7" errorplus="2.7">86.3</inclination>
+				<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>14/05/15</lastupdate>
+				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
 	</system>
@@ -46198,7 +46495,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<system>
 		<name>WASP-52</name>
 		<rightascension>23 13 59</rightascension>
-		<declination>08 45 41</declination>
+		<declination>+08 45 41</declination>
 		<distance errorminus="20" errorplus="20">140</distance>
 		<star>
 			<mass errorminus="0.03" errorplus="0.03">0.87</mass>
@@ -46397,7 +46694,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<system>
 		<name>WASP-58</name>
 		<rightascension>18 18 48</rightascension>
-		<declination>45 10 19</declination>
+		<declination>+45 10 19</declination>
 		<distance errorminus="50" errorplus="50">300</distance>
 		<star>
 			<spectraltype>G2V</spectraltype>
@@ -46897,7 +47194,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-70</name>
 		<name>2MASS 21015446-1325595</name>
 		<rightascension>21 01 54</rightascension>
-		<declination>-13 25 60</declination>
+		<declination>-13 26 00</declination>
 		<distance errorminus="20" errorplus="20">245</distance>
 		<binary>
 			<name>2MASS 21015446-1325595</name>
@@ -46923,7 +47220,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature errorminus="80" errorplus="80">5700</temperature>
 				<age errorminus="0.5" errorplus="0.5">9.5</age>
 				<planet>
-					<name>WASP-70A b</name>
+					<name>WASP-70 A b</name>
+					<name>WASP-70 b</name>
 					<list>Confirmed planets</list>
 					<mass errorminus="0.022" errorplus="0.022">0.59</mass>
 					<radius errorminus="0.102" errorplus="0.073">1.164</radius>
@@ -47072,6 +47370,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>F9</spectraltype>
 			<planet>
 				<name>WASP-75 b</name>
+				<name>WASP-75</name>
 				<name>1SWASP J224932.56-104031.8 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.05" errorplus="0.05">1.07</mass>
@@ -47670,6 +47969,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>DQ D</spectraltype>
 			<planet>
 				<name>WD 0806-661B b</name>
+				<name>WD 0806-661 b</name>
 				<list>Confirmed planets</list>
 				<mass>8</mass>
 				<semimajoraxis>2500</semimajoraxis>
@@ -47753,6 +48053,40 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/02/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>xi Aql</name>
+		<rightascension>19 54 14</rightascension>
+		<declination>+08 27 41</declination>
+		<distance errorminus="4.0" errorplus="4.0">62.7</distance>
+		<star>
+			<name>xi Aql</name>
+			<name>HR7595</name>
+			<name>HD188310</name>
+			<name>HIP97938</name>
+			<mass>2.2</mass>
+			<radius>12</radius>
+			<temperature>4780</temperature>
+			<magV>4.71</magV>
+			<metallicity>-0.21</metallicity>
+			<spectraltype>K0 III</spectraltype>
+			<planet>
+				<name>xi Aql b</name>
+				<name>Xi Aquilae b</name>
+				<name>ksi Aql b</name>
+				<name>HR7595 b</name>
+				<name>HD188310 b</name>
+				<name>HIP97938 b</name>
+				<list>Confirmed planets</list>
+				<mass lowerlimit="2.8" />
+				<period>136.75</period>
+				<semimajoraxis>0.68</semimajoraxis>
+				<description>xi Aql is a giant star in the constellation of Aquila.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/05/15</lastupdate>
+				<discoveryyear>2008</discoveryyear>
 			</planet>
 		</star>
 	</system>
