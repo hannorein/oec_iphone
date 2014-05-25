@@ -263,6 +263,8 @@
 	<planet>
 		<id_exoplaneteu>1RXS1609 b</id_exoplaneteu>
 		<name>1RXS1609 b</name>
+		<name>1RXS J160929.1-210524 b</name>
+		<name>GSC 6213-1358 b</name>
 		<id>1RXS1609 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -1526,6 +1528,7 @@
 		<name>HD 219449 A b</name>
 		<name>HIP 114855 A b</name>
 		<name>Gliese 893.2 A b</name>
+		<name>91 Aqr b</name>
 		<id>91 Aquarii A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -1661,6 +1664,7 @@
 		<name>HD 128621 b</name>
 		<name>HIP 71681 b</name>
 		<name>Albertus Alauda</name>
+		<name>alf Cen B b</name>
 		<id>Alpha Centauri B b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -2157,6 +2161,7 @@
 	<planet>
 		<id_exoplaneteu>BD14 4559 b</id_exoplaneteu>
 		<name>BD14 4559 b</name>
+		<name>BD+14 4559 b</name>
 		<id>BD14 4559 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -2200,6 +2205,7 @@
 	<planet>
 		<id_exoplaneteu>BD20 2457 b</id_exoplaneteu>
 		<name>BD20 2457 b</name>
+		<name>BD+20 2457 b</name>
 		<id>BD20 2457 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -2234,7 +2240,7 @@
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>09/06/11</lastupdate>
-		<description>The star BD+242457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun.yy</description>
+		<description>The star BD+20 2457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -2243,6 +2249,7 @@
 	<planet>
 		<id_exoplaneteu>BD20 2457 c</id_exoplaneteu>
 		<name>BD20 2457 c</name>
+		<name>BD+20 2457 c</name>
 		<id>BD20 2457 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -2286,6 +2293,8 @@
 	<planet>
 		<id_exoplaneteu>beta Cancri b</id_exoplaneteu>
 		<name>beta Cancri b</name>
+		<name>beta Cnc b</name>
+		<name>bet Cnc b</name>
 		<name>HD 69267 b</name>
 		<id>beta Cancri b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -2330,6 +2339,10 @@
 	<planet>
 		<id_exoplaneteu>beta Pic b</id_exoplaneteu>
 		<name>beta Pic b</name>
+		<name>bet Pic b</name>
+		<name>Beta Pictoris b</name>
+		<name>HR 2020 b</name>
+		<name>HD 39060 b</name>
 		<id>beta Pic b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -2375,6 +2388,7 @@
 		<name>beta Ursae Minoris b</name>
 		<name>HD 131873 b</name>
 		<name>beta UMi b</name>
+		<name>bet UMi b</name>
 		<name>Kochab b</name>
 		<id>beta Ursae Minoris b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -2419,6 +2433,7 @@
 	<planet>
 		<id_exoplaneteu>CFBDS 1458 b</id_exoplaneteu>
 		<name>CFBDS 1458 b</name>
+		<name>CFBDSIR J145829+101343 b</name>
 		<id>CFBDS 1458 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -3072,7 +3087,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<distance>1230</distance>
 			<temperature>1002</temperature>
 			<rightascension>06 30 53</rightascension>
-			<declination>00 13 37</declination>
+			<declination>+00 13 37</declination>
 			<angulardistance />
 			<magV>14.66</magV>
 			<magI />
@@ -3159,7 +3174,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<distance>600</distance>
 			<temperature>1508.9</temperature>
 			<rightascension>18 39 08</rightascension>
-			<declination>04 21 28</declination>
+			<declination>+04 21 28</declination>
 			<angulardistance />
 			<magV>15.63</magV>
 			<magI />
@@ -3766,6 +3781,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>HD 143107 b</name>
 		<name>HR 5947 b</name>
 		<name>HIP 78159 b</name>
+		<name>eps CrB b</name>
 		<id>eps Corona Borealis b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -3809,6 +3825,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>eps Eridani b</id_exoplaneteu>
 		<name>eps Eridani b</name>
+		<name>eps Eri b</name>
+		<name>HR 1084 b</name>
+		<name>HD 22049 b</name>
 		<id>eps Eridani b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -4037,52 +4056,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>gamma 1 Leo b</id_exoplaneteu>
-		<name>gamma 1 Leo b</name>
-		<id>gamma 1 Leo b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>8.78</mass>
-			<radius />
-			<orbit>
-				<period>428.5</period>
-				<semimajoraxis>1.19</semimajoraxis>
-				<eccentricity>0.144</eccentricity>
-				<inclination>172.1</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K0III</spectraltype>
-			<mass>1.23</mass>
-			<radius>31.88</radius>
-			<metallicity>-0.51</metallicity>
-			<distance>38.5</distance>
-			<temperature>986.9</temperature>
-			<rightascension>10 19 58</rightascension>
-			<declination>+19 50 29</declination>
-			<angulardistance />
-			<magV>2.01</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2009</discoveryyear>
-		<lastupdate>11/01/11</lastupdate>
-		<description />
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Gamma Cephei b</id_exoplaneteu>
 		<name>Gamma Cephei b</name>
-		<name>Gamma Cephei Ab</name>
+		<name>Gamma Cephei A b</name>
+		<name>gam Cep b</name>
 		<name>HD 222404b</name>
 		<id>Gamma Cephei b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -4124,6 +4101,53 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<imagedescription />
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gamma Leonis b</id_exoplaneteu>
+		<name>Gamma Leonis b</name>
+		<name>gamma 1 Leo b</name>
+		<name>gam 1 Leo b</name>
+		<name>Algieba b</name>
+		<name>Al Gieba b</name>
+		<id>Gamma Leonis b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>8.78</mass>
+			<radius />
+			<orbit>
+				<period>428.5</period>
+				<semimajoraxis>1.19</semimajoraxis>
+				<eccentricity>0.144</eccentricity>
+				<inclination>172.1</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0III</spectraltype>
+			<mass>1.23</mass>
+			<radius>31.88</radius>
+			<metallicity>-0.51</metallicity>
+			<distance>38.5</distance>
+			<temperature>986.9</temperature>
+			<rightascension>10 19 58</rightascension>
+			<declination>+19 50 29</declination>
+			<angulardistance />
+			<magV>2.01</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>11/01/11</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 1214 b</id_exoplaneteu>
@@ -4222,6 +4246,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	<planet>
 		<id_exoplaneteu>Gliese 163 c</id_exoplaneteu>
 		<name>Gliese 163 c</name>
+		<name>GJ 163 c</name>
 		<name>HIP 19394 c</name>
 		<name>LHS 188 c</name>
 		<id>Gliese 163 c</id>
@@ -4269,6 +4294,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Gliese 163 d</id_exoplaneteu>
 		<name>Gliese 163 d</name>
+		<name>GJ 163 d</name>
 		<name>HIP 19394 d</name>
 		<name>LHS 188 d</name>
 		<id>Gliese 163 d</id>
@@ -4317,6 +4343,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>GJ 176 b</name>
 		<name>Gj 176 b</name>
 		<name>Gl 176 b</name>
+		<name>HD 285968 b</name>
 		<id>Gliese 176 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -4503,6 +4530,12 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Gl 3021 A b</name>
 		<name>HD 1237 A b</name>
 		<name>HIP 1291 A b</name>
+		<name>Gliese 3021 b</name>
+		<name>GJ 3021 b</name>
+		<name>Gj 3021 b</name>
+		<name>Gl 3021 b</name>
+		<name>HD 1237 b</name>
+		<name>HIP 1291 b</name>
 		<id>Gliese 3021 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -5850,6 +5883,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id_exoplaneteu>Gliese 777 A b</id_exoplaneteu>
 		<name>Gliese 777 A b</name>
 		<name>HD 190360 A b</name>
+		<name>HD 190360 b</name>
 		<name>HR 7670 A b</name>
 		<id>Gliese 777 A b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -5896,6 +5930,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id_exoplaneteu>Gliese 777 A c</id_exoplaneteu>
 		<name>Gliese 777 A c</name>
 		<name>HD 190360 A c</name>
+		<name>HD 190360 c</name>
 		<name>HR 7670 A c</name>
 		<id>Gliese 777 A c</id>
 		<discoverymethod>RV</discoverymethod>
@@ -6421,6 +6456,7 @@ Credit: Jonah Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>GSC 06214-00210 b</id_exoplaneteu>
 		<name>GSC 06214-00210 b</name>
+		<name>GSC 6214-210 b</name>
 		<id>GSC 06214-00210 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -6805,7 +6841,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<metallicity>0.22</metallicity>
 			<distance>190</distance>
 			<temperature>819.9</temperature>
-			<rightascension>04 24 60</rightascension>
+			<rightascension>04 25 00</rightascension>
 			<declination>+39 27 38</declination>
 			<angulardistance />
 			<magV>12.41</magV>
@@ -10623,6 +10659,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 109749 A b</id_exoplaneteu>
 		<name>HD 109749 A b</name>
+		<name>HD 109749 b</name>
 		<id>HD 109749 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -11013,6 +11050,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 114729 A b</id_exoplaneteu>
 		<name>HD 114729 A b</name>
+		<name>HD 114729 b</name>
 		<id>HD 114729 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -11403,6 +11441,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 11964 A b</name>
 		<name>Gliese 81.1 A b</name>
 		<name>GJ 81.1 A b</name>
+		<name>HD 11964 b</name>
 		<id>HD 11964 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -11449,6 +11488,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 11964 A c</name>
 		<name>Gliese 81.1 A c</name>
 		<name>GJ 81.1 A c</name>
+		<name>HD 11964 c</name>
 		<id>HD 11964 A c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -12309,9 +12349,10 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 132563B b</id_exoplaneteu>
-		<name>HD 132563B b</name>
-		<id>HD 132563B b</id>
+		<id_exoplaneteu>HD 132563 B b</id_exoplaneteu>
+		<name>HD 132563 B b</name>
+		<name>HD 132563 b</name>
+		<id>HD 132563 B b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.49</mass>
@@ -12807,7 +12848,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>98.2</distance>
 			<temperature>357.4</temperature>
 			<rightascension>15 19 07</rightascension>
-			<declination>+41 43 60</declination>
+			<declination>+41 44 00</declination>
 			<angulardistance />
 			<magV>7.88</magV>
 			<magI />
@@ -12827,6 +12868,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 137388 b</id_exoplaneteu>
 		<name>HD 137388 b</name>
+		<name>HD 137388 A b</name>
 		<id>HD 137388 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -13151,7 +13193,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>36.17</distance>
 			<temperature />
 			<rightascension>15 46 53</rightascension>
-			<declination>46 59 10</declination>
+			<declination>+46 59 11</declination>
 			<angulardistance />
 			<magV>7.2</magV>
 			<magI />
@@ -13194,7 +13236,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>36.17</distance>
 			<temperature />
 			<rightascension>15 46 53</rightascension>
-			<declination>46 59 10</declination>
+			<declination>+46 59 11</declination>
 			<angulardistance />
 			<magV>7.2</magV>
 			<magI />
@@ -13237,7 +13279,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>36.17</distance>
 			<temperature />
 			<rightascension>15 46 53</rightascension>
-			<declination>46 59 10</declination>
+			<declination>+46 59 11</declination>
 			<angulardistance />
 			<magV>7.2</magV>
 			<magI />
@@ -13280,7 +13322,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<distance>36.17</distance>
 			<temperature />
 			<rightascension>15 46 53</rightascension>
-			<declination>46 59 10</declination>
+			<declination>+46 59 11</declination>
 			<angulardistance />
 			<magV>7.2</magV>
 			<magI />
@@ -13866,6 +13908,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 147513 A b</name>
 		<name>62 G. Scorpii A b</name>
 		<name>HR 6094 A b</name>
+		<name>HD 147513 A</name>
+		<name>HD 147513 b</name>
 		<id>HD 147513 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -14964,7 +15008,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity />
 			<distance>52.7</distance>
 			<temperature>224.9</temperature>
-			<rightascension>17 38 60</rightascension>
+			<rightascension>17 39 00</rightascension>
 			<declination>-43 08 44</declination>
 			<angulardistance />
 			<magV>7.24</magV>
@@ -15007,7 +15051,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity />
 			<distance>52.7</distance>
 			<temperature>224.9</temperature>
-			<rightascension>17 38 60</rightascension>
+			<rightascension>17 39 00</rightascension>
 			<declination>-43 08 44</declination>
 			<angulardistance />
 			<magV>7.24</magV>
@@ -16151,6 +16195,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 177830 A b</id_exoplaneteu>
 		<name>HD 177830 A b</name>
+		<name>HD 177830 b</name>
 		<id>HD 177830 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -16195,6 +16240,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 177830 A c</id_exoplaneteu>
 		<name>HD 177830 A c</name>
+		<name>HD 177830 c</name>
 		<id>HD 177830 A c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -16971,6 +17017,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 188015 A b</id_exoplaneteu>
 		<name>HD 188015 A b</name>
+		<name>HD 188015 b</name>
 		<id>HD 188015 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -17280,6 +17327,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 195019 A b</id_exoplaneteu>
 		<name>HD 195019 A b</name>
+		<name>HD 195019 b</name>
 		<id>HD 195019 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -17413,6 +17461,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 196885 A b</id_exoplaneteu>
 		<name>HD 196885 A b</name>
+		<name>HD 196885 b</name>
 		<id>HD 196885 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -17503,6 +17552,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>94 Ceti A b</name>
 		<name>Gliese 128 A b</name>
 		<name>GJ 128 A b</name>
+		<name>HD 19994 b</name>
 		<id>HD 19994 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -18846,6 +18896,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 213240 A b</id_exoplaneteu>
 		<name>HD 213240 A b</name>
+		<name>HD 213240 b</name>
 		<id>HD 213240 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -19884,6 +19935,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id_exoplaneteu>HD 222582 A b</id_exoplaneteu>
 		<name>HD 222582 A b</name>
 		<name>HIP 116906 A b</name>
+		<name>HD 222582 b</name>
+		<name>HIP 116906 b</name>
 		<id>HD 222582 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -20444,6 +20497,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 27442 A b</id_exoplaneteu>
 		<name>HD 27442 A b</name>
+		<name>HD 27442 b</name>
 		<name>Epsilon Reticuli A b</name>
 		<id>HD 27442 A b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -21698,6 +21752,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id_exoplaneteu>HD 38529 A b</id_exoplaneteu>
 		<name>HD 38529 A b</name>
 		<name>138 G. Orionis A b</name>
+		<name>HD 38529 b</name>
 		<id>HD 38529 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -21742,6 +21797,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 38529 A c</id_exoplaneteu>
 		<name>HD 38529 A c</name>
+		<name>138 G. Orionis A c</name>
+		<name>HD 38529 c</name>
 		<id>HD 38529 A c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -22303,6 +22360,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id_exoplaneteu>HD 40979 A b</id_exoplaneteu>
 		<name>HD 40979 A b</name>
 		<name>HIP 28767 A b</name>
+		<name>HD 40979 b</name>
 		<name>2MASS J06042993+4415379 A b</name>
 		<id>HD 40979 A b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -25038,6 +25096,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 75289 A b</id_exoplaneteu>
 		<name>HD 75289 A b</name>
+		<name>HD 75289 b</name>
 		<id>HD 75289 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -26075,6 +26134,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 89744 A b</name>
 		<name>HR 4067 A b</name>
 		<name>GJ 9326 A b</name>
+		<name>HD 89744 b</name>
 		<id>HD 89744 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -28250,6 +28310,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 	<planet>
 		<id_exoplaneteu>kappa CrB b</id_exoplaneteu>
 		<name>kappa CrB b</name>
+		<name>kap CrB b</name>
 		<id>kappa CrB b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -32282,6 +32343,52 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-13 A b</id_exoplaneteu>
+		<name>Kepler-13 A b</name>
+		<name>Kepler-13 b</name>
+		<name>KOI-13 b</name>
+		<name>KOI-13.01</name>
+		<id>Kepler-13 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>6.515</mass>
+			<radius>1.406</radius>
+			<orbit>
+				<period>1.7637</period>
+				<semimajoraxis>0.0380000</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>2.2700</mass>
+			<radius>2.7000</radius>
+			<metallicity>-0.14</metallicity>
+			<distance>735.73</distance>
+			<temperature>9071.00</temperature>
+			<rightascension>19 07 53</rightascension>
+			<declination>+46 52 06</declination>
+			<angulardistance />
+			<magV>9.95</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/03/25</lastupdate>
+		<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-130 b</id_exoplaneteu>
 		<name>Kepler-130 b</name>
 		<name>KOI-282 b</name>
@@ -33258,51 +33365,6 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-139 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-139 c are still unknown, the object is highly unlikely to be a false positive.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>Kepler-13A b</id_exoplaneteu>
-		<name>Kepler-13A b</name>
-		<name>KOI-13 b</name>
-		<name>KOI-13.01</name>
-		<id>Kepler-13A b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>6.515</mass>
-			<radius>1.406</radius>
-			<orbit>
-				<period>1.7637</period>
-				<semimajoraxis>0.0380000</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>A</spectraltype>
-			<mass>2.2700</mass>
-			<radius>2.7000</radius>
-			<metallicity>-0.14</metallicity>
-			<distance>735.73</distance>
-			<temperature>9071.00</temperature>
-			<rightascension>19 07 53</rightascension>
-			<declination>+46 52 06</declination>
-			<angulardistance />
-			<magV>9.95</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>13/03/25</lastupdate>
-		<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -35378,6 +35440,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-16 (AB) b</id_exoplaneteu>
 		<name>Kepler-16 (AB) b</name>
+		<name>Kepler-16 b</name>
 		<id>Kepler-16 (AB) b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -42681,8 +42744,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity />
 			<distance>180</distance>
 			<temperature>249.6</temperature>
-			<rightascension>19 17 70</rightascension>
-			<declination>+47 52 90</declination>
+			<rightascension>19 16 52</rightascension>
+			<declination>+47 53 04</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -66071,6 +66134,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-413 AB b</id_exoplaneteu>
 		<name>Kepler-413 AB b</name>
+		<name>Kepler-413 (AB) b</name>
 		<name>Kepler-413 b</name>
 		<name>KIC 12351927 AB b</name>
 		<id>Kepler-413 AB b</id>
@@ -72658,7 +72722,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<distance>263.40</distance>
 			<temperature>5565</temperature>
 			<rightascension>19 44 31</rightascension>
-			<declination>48 58 38</declination>
+			<declination>+48 58 39</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -72705,7 +72769,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<distance>263.40</distance>
 			<temperature>5565</temperature>
 			<rightascension>19 44 31</rightascension>
-			<declination>48 58 38</declination>
+			<declination>+48 58 39</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -73089,6 +73153,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-423 b</id_exoplaneteu>
 		<name>KOI-423 b</name>
+		<name>Kepler-39 b</name>
 		<name>KIC 9478990 b</name>
 		<id>KOI-423 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -73134,6 +73199,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-428 b</id_exoplaneteu>
 		<name>KOI-428 b</name>
 		<name>KIC 10418224 b</name>
+		<name>Kepler-40 b</name>
 		<name>2MASS J19471528+4731357 b</name>
 		<id>KOI-428 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -73620,6 +73686,50 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Lupus-TR 3b</id_exoplaneteu>
+		<name>Lupus-TR 3b</name>
+		<name>Lupus-TR 3 b</name>
+		<id>Lupus-TR 3b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.81</mass>
+			<radius>0.89</radius>
+			<orbit>
+				<period>3.91405</period>
+				<semimajoraxis>0.0464</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.87</mass>
+			<radius>0.82</radius>
+			<metallicity>0.02</metallicity>
+			<distance>2000</distance>
+			<temperature>5000</temperature>
+			<rightascension>15 30 18.7</rightascension>
+			<declination>-42 58 41.5</declination>
+			<angulardistance />
+			<magV>17.40</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>14/05/23</lastupdate>
+		<description>Lupus-TR 3b is the only planet in the system. The planet is a typical a hot Jupiter orbiting Lupus-TR 3, an early dwarf type star</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Mars</id_exoplaneteu>
 		<name>Mars</name>
 		<name>Sun e</name>
@@ -73710,6 +73820,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2007-BLG-192-L b</id_exoplaneteu>
 		<name>MOA-2007-BLG-192-L b</name>
+		<name>MOA 2007-BLG-192L b</name>
 		<name>MOA-192 b</name>
 		<id>MOA-2007-BLG-192-L b</id>
 		<discoverymethod>microlensing</discoverymethod>
@@ -73756,6 +73867,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2007-BLG-400-L b</id_exoplaneteu>
 		<name>MOA-2007-BLG-400-L b</name>
+		<name>MOA 2007-BLG-400L b</name>
 		<id>MOA-2007-BLG-400-L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -73799,6 +73911,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2008-BLG-310-L b</id_exoplaneteu>
 		<name>MOA-2008-BLG-310-L b</name>
+		<name>MOA 2008-BLG-310L b</name>
 		<id>MOA-2008-BLG-310-L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -73842,6 +73955,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2008-BLG-379L b</id_exoplaneteu>
 		<name>MOA-2008-BLG-379L b</name>
+		<name>MOA 2008-BLG-379L b</name>
 		<id>MOA-2008-BLG-379L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -73885,6 +73999,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2009-BLG-266L b</id_exoplaneteu>
 		<name>MOA-2009-BLG-266L b</name>
+		<name>MOA 2009-BLG-266 b</name>
 		<id>MOA-2009-BLG-266L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -73928,6 +74043,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2009-BLG-319 b</id_exoplaneteu>
 		<name>MOA-2009-BLG-319 b</name>
+		<name>MOA 2009-BLG-319L b</name>
 		<id>MOA-2009-BLG-319 b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -74188,6 +74304,7 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2011-BLG-322 b</id_exoplaneteu>
 		<name>MOA-2011-BLG-322 b</name>
+		<name>MOA 2011-BLG-322L b</name>
 		<name>HJD 2455773 b</name>
 		<id>MOA-2011-BLG-322 b</id>
 		<discoverymethod>microlensing</discoverymethod>
@@ -74320,6 +74437,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-bin-1 b</id_exoplaneteu>
 		<name>MOA-bin-1 b</name>
+		<name>MOA-bin-1L b</name>
 		<id>MOA-bin-1 b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -74361,9 +74479,12 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>mu Ara b</id_exoplaneteu>
+		<id_exoplaneteu>mu Arae b</id_exoplaneteu>
+		<name>mu Arae b</name>
 		<name>mu Ara b</name>
-		<id>mu Ara b</id>
+		<name>HD 160691 b</name>
+		<name>HR 6585 b</name>
+		<id>mu Arae b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.676</mass>
@@ -74404,9 +74525,12 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>mu Ara c</id_exoplaneteu>
+		<id_exoplaneteu>mu Arae c</id_exoplaneteu>
+		<name>mu Arae c</name>
 		<name>mu Ara c</name>
-		<id>mu Ara c</id>
+		<name>HD 160691 c</name>
+		<name>HR 6585 c</name>
+		<id>mu Arae c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.03321</mass>
@@ -74447,9 +74571,12 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>mu Ara d</id_exoplaneteu>
+		<id_exoplaneteu>mu Arae d</id_exoplaneteu>
+		<name>mu Arae d</name>
 		<name>mu Ara d</name>
-		<id>mu Ara d</id>
+		<name>HD 160691 d</name>
+		<name>HR 6585 d</name>
+		<id>mu Arae d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.5219</mass>
@@ -74490,9 +74617,12 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>mu Ara e</id_exoplaneteu>
+		<id_exoplaneteu>mu Arae e</id_exoplaneteu>
+		<name>mu Arae e</name>
 		<name>mu Ara e</name>
-		<id>mu Ara e</id>
+		<name>HD 160691 e</name>
+		<name>HR 6585 e</name>
+		<id>mu Arae e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>1.814</mass>
@@ -74627,6 +74757,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>NGC 2423 3 b</id_exoplaneteu>
 		<name>NGC 2423 3 b</name>
+		<name>BD-13 2130 b</name>
 		<id>NGC 2423 3 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -74670,6 +74801,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>NGC 4349 No 127 b</id_exoplaneteu>
 		<name>NGC 4349 No 127 b</name>
+		<name>NGC 4349 127 b</name>
 		<id>NGC 4349 No 127 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -74713,6 +74845,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>NN Ser (AB) c</id_exoplaneteu>
 		<name>NN Ser (AB) c</name>
+		<name>NN Ser c</name>
 		<name>NN Serpentis (AB) c</name>
 		<id>NN Ser (AB) c</id>
 		<discoverymethod>timing</discoverymethod>
@@ -74758,6 +74891,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>NN Ser (AB) d</id_exoplaneteu>
 		<name>NN Ser (AB) d</name>
+		<name>NN Ser d</name>
 		<name>NN Serpentis (AB) d</name>
 		<id>NN Ser (AB) d</id>
 		<discoverymethod>timing</discoverymethod>
@@ -74978,6 +75112,7 @@ Image credit: Joe Gallagher</imagedescription>
 		<id_exoplaneteu>NY Virginis (AB) b</id_exoplaneteu>
 		<name>NY Virginis (AB) b</name>
 		<name>NY Vir (AB) b</name>
+		<name>NY Vir b</name>
 		<name>PG 1336-018 (AB) b</name>
 		<id>NY Virginis (AB) b</id>
 		<discoverymethod>timing</discoverymethod>
@@ -75023,6 +75158,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-05-071L b</id_exoplaneteu>
 		<name>OGLE-05-071L b</name>
+		<name>OGLE 2005-BLG-71L b</name>
 		<id>OGLE-05-071L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75066,6 +75202,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-05-169L b</id_exoplaneteu>
 		<name>OGLE-05-169L b</name>
+		<name>OGLE 2005-BLG-169L b</name>
 		<id>OGLE-05-169L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75109,6 +75246,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-05-390L b</id_exoplaneteu>
 		<name>OGLE-05-390L b</name>
+		<name>OGLE 2005-BLG-390L b</name>
 		<id>OGLE-05-390L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75152,6 +75290,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-06-109L b</id_exoplaneteu>
 		<name>OGLE-06-109L b</name>
+		<name>OGLE 2006-BLG-109L b</name>
 		<id>OGLE-06-109L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75195,6 +75334,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-06-109L c</id_exoplaneteu>
 		<name>OGLE-06-109L c</name>
+		<name>OGLE 2006-BLG-109L c</name>
 		<id>OGLE-06-109L c</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75324,6 +75464,7 @@ Image credit: Joe Gallagher</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2011-BLG-0251 b</id_exoplaneteu>
 		<name>OGLE-2011-BLG-0251 b</name>
+		<name>OGLE 2011-BLG-251L b</name>
 		<id>OGLE-2011-BLG-0251 b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75369,6 +75510,7 @@ Credit: Kains et al (2013).</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0026L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0026L b</name>
+		<name>OGLE 2012-BLG-026L b</name>
 		<id>OGLE-2012-BLG-0026L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75412,6 +75554,7 @@ Credit: Kains et al (2013).</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0026L c</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0026L c</name>
+		<name>OGLE 2012-BLG-026L c</name>
 		<id>OGLE-2012-BLG-0026L c</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75455,6 +75598,7 @@ Credit: Kains et al (2013).</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0358L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0358L b</name>
+		<name>OGLE 2012-BLG-358L b</name>
 		<id>OGLE-2012-BLG-0358L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75498,6 +75642,7 @@ Credit: Kains et al (2013).</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0406L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0406L b</name>
+		<name>OGLE 2012-BLG-406L b</name>
 		<id>OGLE-2012-BLG-0406L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -75932,9 +76077,106 @@ Credit: Kains et al (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>omi CrB b</id_exoplaneteu>
+		<name>omi CrB b</name>
+		<name>Omicron Coronae Borealis b</name>
+		<name>o CrB b</name>
+		<name>HD 136512 b</name>
+		<name>HR 5709 b</name>
+		<name>HIP 75049 b</name>
+		<id>omi CrB b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.5</mass>
+			<radius />
+			<orbit>
+				<period>187.83</period>
+				<semimajoraxis>0.83</semimajoraxis>
+				<eccentricity>0.191</eccentricity>
+				<inclination />
+				<periastron>79</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 III</spectraltype>
+			<mass>2.13</mass>
+			<radius>10.5</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>84</distance>
+			<temperature>4749</temperature>
+			<rightascension>15 20 08</rightascension>
+			<declination>+29 36 58</declination>
+			<angulardistance />
+			<magV>5.51</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/15</lastupdate>
+		<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>omi UMa b</id_exoplaneteu>
+		<name>omi UMa b</name>
+		<name>Omicron Ursae Majoris b</name>
+		<name>Muscida b</name>
+		<name>o UMa b</name>
+		<name>HD 71369 b</name>
+		<name>HIP 41704 b</name>
+		<id>omi UMa b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>4.1</mass>
+			<radius />
+			<orbit>
+				<period>1630</period>
+				<semimajoraxis>3.9</semimajoraxis>
+				<eccentricity>0.130</eccentricity>
+				<inclination />
+				<periastron>58</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G4 II-III</spectraltype>
+			<mass>3.09</mass>
+			<radius>14.1</radius>
+			<metallicity>-0.09</metallicity>
+			<distance>56</distance>
+			<temperature>5242</temperature>
+			<rightascension>08 30 15</rightascension>
+			<declination>+60 43 05</declination>
+			<angulardistance />
+			<magV>3.35</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>14/04/15</lastupdate>
+		<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Omicron Serpentis b</id_exoplaneteu>
 		<name>Omicron Serpentis b</name>
 		<name>o Ser b</name>
+		<name>ome Ser b</name>
 		<name>o Serpentis b</name>
 		<name>HR 6581 b</name>
 		<name>HD 160613 b</name>
@@ -76237,8 +76479,8 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 			<metallicity>0.187</metallicity>
 			<distance>177</distance>
 			<temperature>6174</temperature>
-			<rightascension>8 41 43</rightascension>
-			<declination>20 13 36</declination>
+			<rightascension>08 41 43</rightascension>
+			<declination>+20 13 36</declination>
 			<angulardistance />
 			<magV>10.33</magV>
 			<magI />
@@ -76283,8 +76525,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity>0.187</metallicity>
 			<distance>177</distance>
 			<temperature>5326</temperature>
-			<rightascension>8 42 11</rightascension>
-			<declination>19 16 37</declination>
+			<rightascension>08 42 11</rightascension>
+			<declination>+19 16 37</declination>
 			<angulardistance />
 			<magV>12.15</magV>
 			<magI />
@@ -76333,7 +76575,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<distance />
 			<temperature />
 			<rightascension>21 14 08</rightascension>
-			<declination>22 51 36</declination>
+			<declination>+22 51 36</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -76354,6 +76596,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>PSR 1257 12 b</id_exoplaneteu>
 		<name>PSR 1257 12 b</name>
+		<name>PSR B1257+12 b</name>
 		<id>PSR 1257 12 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -76397,6 +76640,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>PSR 1257 12 c</id_exoplaneteu>
 		<name>PSR 1257 12 c</name>
+		<name>PSR B1257+12 c</name>
 		<id>PSR 1257 12 c</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -76440,6 +76684,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>PSR 1257 12 d</id_exoplaneteu>
 		<name>PSR 1257 12 d</name>
+		<name>PSR B1257+12 d</name>
 		<id>PSR 1257 12 d</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -76662,6 +76907,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Ross 458(AB) c</id_exoplaneteu>
 		<name>Ross 458(AB) c</name>
+		<name>Ross 458 AB c</name>
+		<name>DT Virginis c</name>
+		<name>HIP 63510 c</name>
 		<id>Ross 458(AB) c</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -76793,6 +77041,8 @@ Credit: Thayne Currie.</imagedescription>
 	<planet>
 		<id_exoplaneteu>RR Cae (AB) b</id_exoplaneteu>
 		<name>RR Cae (AB) b</name>
+		<name>RR Cae b</name>
+		<name>RR Caeli b</name>
 		<id>RR Cae (AB) b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -76973,52 +77223,10 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>SWEEPS-04</id_exoplaneteu>
-		<name>SWEEPS-04</name>
-		<name>SWEEPS-4</name>
-		<id>SWEEPS-04</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>3.8</mass>
-			<radius>0.81</radius>
-			<orbit>
-				<period>4.2</period>
-				<semimajoraxis>0.055</semimajoraxis>
-				<eccentricity />
-				<inclination>87</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>1.24</mass>
-			<radius>1.18</radius>
-			<metallicity />
-			<distance>8500</distance>
-			<temperature />
-			<rightascension>17 58 54</rightascension>
-			<declination>-29 11 21</declination>
-			<angulardistance />
-			<magV>18.8</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2006</discoveryyear>
-		<lastupdate>07/11/26</lastupdate>
-		<description />
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>SWEEPS-11</id_exoplaneteu>
 		<name>SWEEPS-11</name>
+		<name>SWEEPS-11 b</name>
+		<name>SWEEPS J175902.67-291153.5 b</name>
 		<id>SWEEPS-11</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77036,10 +77244,56 @@ Credit: ESO/L. Calcada</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
+			<mass>1.1</mass>
+			<radius>1.45</radius>
+			<metallicity />
+			<distance>8500</distance>
+			<temperature />
+			<rightascension>17 59 03</rightascension>
+			<declination>-29 11 54</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>14/05/23</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>SWEEPS-4</id_exoplaneteu>
+		<name>SWEEPS-4</name>
+		<name>SWEEPS-04</name>
+		<name>SWEEPS-4 b</name>
+		<name>SWEEPS J175853.92-291120.6 b</name>
+		<id>SWEEPS-4</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.81</radius>
+			<orbit>
+				<period>4.2</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity />
+				<inclination>87</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
 			<mass>1.24</mass>
 			<radius>1.18</radius>
 			<metallicity />
-			<distance>8500</distance>
+			<distance>6600</distance>
 			<temperature />
 			<rightascension>17 58 54</rightascension>
 			<declination>-29 11 21</declination>
@@ -77050,9 +77304,9 @@ Credit: ESO/L. Calcada</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>07/11/26</lastupdate>
+		<lastupdate>14/05/23</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -77066,6 +77320,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<name>HD 120136 A b</name>
 		<name>GJ 527 A b</name>
 		<name>Gliese 527 A b</name>
+		<name>tau Boo b</name>
 		<id>tau Boo A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -77387,6 +77642,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>TrES-1 b</name>
 		<name>TYC 2652-01324-1</name>
 		<name>2MASS J19040985+3637574</name>
+		<name>TrES-1</name>
 		<id>TrES-1 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77436,6 +77692,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>KIC 11446443</name>
 		<name>Kepler-1</name>
 		<name>KOI-1</name>
+		<name>TrES-2</name>
 		<id>TrES-2 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77481,6 +77738,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id_exoplaneteu>TrES-3 b</id_exoplaneteu>
 		<name>TrES-3 b</name>
 		<name>2MASS J17520702+3732461</name>
+		<name>TrES-3</name>
 		<id>TrES-3 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77527,6 +77785,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>TrES-4 b</name>
 		<name>TYC 2620-00648-1</name>
 		<name>2MASS J17531304+3712426</name>
+		<name>TrES-4</name>
 		<id>TrES-4 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77572,6 +77831,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id_exoplaneteu>TrES-5 b</id_exoplaneteu>
 		<name>TrES-5 b</name>
 		<name>2MASS J20205324+5926556 b</name>
+		<name>TrES-5</name>
 		<id>TrES-5 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77891,6 +78151,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>UZ For(ab) d</id_exoplaneteu>
 		<name>UZ For(ab) d</name>
+		<name>UZ For d</name>
+		<name>UZ Fornacis d</name>
 		<id>UZ For(ab) d</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -77934,6 +78196,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>V391 Peg b</id_exoplaneteu>
 		<name>V391 Peg b</name>
+		<name>V0391 Peg b</name>
 		<id>V391 Peg b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -78192,6 +78455,49 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/10/22</lastupdate>
 		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-103 b</id_exoplaneteu>
+		<name>WASP-103 b</name>
+		<id>WASP-103 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.490</mass>
+			<radius>1.528</radius>
+			<orbit>
+				<period>0.925542</period>
+				<semimajoraxis>0.01985</semimajoraxis>
+				<eccentricity />
+				<inclination>86.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.220</mass>
+			<radius>1.436</radius>
+			<metallicity>0.06</metallicity>
+			<distance>470</distance>
+			<temperature>6110</temperature>
+			<rightascension>16 37 15</rightascension>
+			<declination>+07 11 00</declination>
+			<angulardistance />
+			<magV>12.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/15</lastupdate>
+		<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -80058,7 +80364,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<distance>140</distance>
 			<temperature>1315</temperature>
 			<rightascension>23 13 59</rightascension>
-			<declination>08 45 41</declination>
+			<declination>+08 45 41</declination>
 			<angulardistance />
 			<magV>12.0</magV>
 			<magI />
@@ -80316,7 +80622,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<distance>300</distance>
 			<temperature>1270</temperature>
 			<rightascension>18 18 48</rightascension>
-			<declination>45 10 19</declination>
+			<declination>+45 10 19</declination>
 			<angulardistance />
 			<magV>11.66</magV>
 			<magI />
@@ -80900,9 +81206,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>WASP-70A b</id_exoplaneteu>
-		<name>WASP-70A b</name>
-		<id>WASP-70A b</id>
+		<id_exoplaneteu>WASP-70 A b</id_exoplaneteu>
+		<name>WASP-70 A b</name>
+		<name>WASP-70 b</name>
+		<id>WASP-70 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.59</mass>
@@ -80925,7 +81232,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<distance>245</distance>
 			<temperature>4900</temperature>
 			<rightascension>21 01 54</rightascension>
-			<declination>-13 25 60</declination>
+			<declination>-13 26 00</declination>
 			<angulardistance />
 			<magV>11.75</magV>
 			<magI />
@@ -81077,6 +81384,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-75 b</id_exoplaneteu>
 		<name>WASP-75 b</name>
+		<name>WASP-75</name>
 		<name>1SWASP J224932.56-104031.8 b</name>
 		<id>WASP-75 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -81800,6 +82108,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WD 0806-661B b</id_exoplaneteu>
 		<name>WD 0806-661B b</name>
+		<name>WD 0806-661 b</name>
 		<id>WD 0806-661B b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -81925,6 +82234,54 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/25</lastupdate>
 		<description>WTS-2 b is an unusually close hot Jupiter on a 1.02-day orbit around a K2V star. The planet is close to the tidal destruction radius of the star and has a predicted remaining lifetime of only 40 million years.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>xi Aql b</id_exoplaneteu>
+		<name>xi Aql b</name>
+		<name>Xi Aquilae b</name>
+		<name>ksi Aql b</name>
+		<name>HR7595 b</name>
+		<name>HD188310 b</name>
+		<name>HIP97938 b</name>
+		<id>xi Aql b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass />
+			<radius />
+			<orbit>
+				<period>136.75</period>
+				<semimajoraxis>0.68</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 III</spectraltype>
+			<mass>2.2</mass>
+			<radius>12</radius>
+			<metallicity>-0.21</metallicity>
+			<distance>62.7</distance>
+			<temperature>4780</temperature>
+			<rightascension>19 54 14</rightascension>
+			<declination>+08 27 41</declination>
+			<angulardistance />
+			<magV>4.71</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>14/05/15</lastupdate>
+		<description>xi Aql is a giant star in the constellation of Aquila.</description>
 		<new />
 		<image />
 		<imagedescription />
