@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>Lupus-TR 3b</id_exoplaneteu>
+	<name>Lupus-TR 3b</name>
+	<name>Lupus-TR 3 b</name>
+	<id>Lupus-TR 3b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.81</mass>
+		<radius>0.89</radius>
+		<orbit>
+			<period>3.91405</period>
+			<semimajoraxis>0.0464</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.3</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1V</spectraltype>
+		<mass>0.87</mass>
+		<radius>0.82</radius>
+		<metallicity>0.02</metallicity>
+		<distance>2000</distance>
+		<temperature>5000</temperature>
+		<rightascension>15 30 18.7</rightascension>
+		<declination>-42 58 41.5</declination>
+		<angulardistance />
+		<magV>17.40</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2007</discoveryyear>
+	<lastupdate>14/05/23</lastupdate>
+	<description>Lupus-TR 3b is the only planet in the system. The planet is a typical a hot Jupiter orbiting Lupus-TR 3, an early dwarf type star</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

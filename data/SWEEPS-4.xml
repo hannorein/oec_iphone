@@ -1,11 +1,13 @@
 <planet>
-	<id_exoplaneteu>SWEEPS-04</id_exoplaneteu>
-	<name>SWEEPS-04</name>
+	<id_exoplaneteu>SWEEPS-4</id_exoplaneteu>
 	<name>SWEEPS-4</name>
-	<id>SWEEPS-04</id>
+	<name>SWEEPS-04</name>
+	<name>SWEEPS-4 b</name>
+	<name>SWEEPS J175853.92-291120.6 b</name>
+	<id>SWEEPS-4</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>3.8</mass>
+		<mass />
 		<radius>0.81</radius>
 		<orbit>
 			<period>4.2</period>
@@ -22,7 +24,7 @@
 		<mass>1.24</mass>
 		<radius>1.18</radius>
 		<metallicity />
-		<distance>8500</distance>
+		<distance>6600</distance>
 		<temperature />
 		<rightascension>17 58 54</rightascension>
 		<declination>-29 11 21</declination>
@@ -33,9 +35,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
+	<multiplicity>1</multiplicity>
 	<discoveryyear>2006</discoveryyear>
-	<lastupdate>07/11/26</lastupdate>
+	<lastupdate>14/05/23</lastupdate>
 	<description />
 	<new />
 	<image />
