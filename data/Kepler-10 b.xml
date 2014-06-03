@@ -6,13 +6,13 @@
 	<id>Kepler-10 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.0145</mass>
-		<radius>0.133</radius>
+		<mass>0.010475</mass>
+		<radius>0.133962</radius>
 		<orbit>
-			<period>0.8374912</period>
-			<semimajoraxis>0.01687</semimajoraxis>
+			<period>0.8374907</period>
+			<semimajoraxis>0.01685</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination>84.15</inclination>
+			<inclination>84.8</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -20,7 +20,7 @@
 	</properties>
 	<star>
 		<spectraltype>G</spectraltype>
-		<mass>0.913</mass>
+		<mass>0.91</mass>
 		<radius>1.065</radius>
 		<metallicity>-0.15</metallicity>
 		<distance>173</distance>
@@ -36,7 +36,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>13/05/24</lastupdate>
+	<lastupdate>14/06/03</lastupdate>
 	<description />
 	<new />
 	<image />

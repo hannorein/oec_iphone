@@ -6,13 +6,13 @@
 	<id>Kepler-10 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.211422</radius>
+		<mass>0.054106</mass>
+		<radius>0.214156</radius>
 		<orbit>
-			<period>45.29427</period>
-			<semimajoraxis>0.2413</semimajoraxis>
-			<eccentricity />
-			<inclination>89.640</inclination>
+			<period>45.294301</period>
+			<semimajoraxis>0.2410</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>89.59</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -20,7 +20,7 @@
 	</properties>
 	<star>
 		<spectraltype>G</spectraltype>
-		<mass>0.913</mass>
+		<mass>0.91</mass>
 		<radius>1.065</radius>
 		<metallicity>-0.15</metallicity>
 		<distance>173</distance>
@@ -36,7 +36,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>13/05/24</lastupdate>
+	<lastupdate>14/06/03</lastupdate>
 	<description>This planet was confirmed using infrared observations from Spitzer. It is highly unlikely (0.002%) that Kepler-10 c is a false positive. The planet is so close to its host star that it can not sustain liquid water on its surface. It is therefore most likely not habitable and a scorched, molten Earth.</description>
 	<new />
 	<image />
