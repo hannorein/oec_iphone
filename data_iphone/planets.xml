@@ -1891,94 +1891,6 @@
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>BD-061339 b</id_exoplaneteu>
-		<name>BD-061339 b</name>
-		<name>HIP 27803 b</name>
-		<id>BD-061339 b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.027</mass>
-			<radius />
-			<orbit>
-				<period>3.8728</period>
-				<semimajoraxis>0.0428</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination />
-				<periastron>0.0</periastron>
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K7V/M0V</spectraltype>
-			<mass>0.7</mass>
-			<radius />
-			<metallicity>-0.14</metallicity>
-			<distance>20</distance>
-			<temperature>4324</temperature>
-			<rightascension>05 53 00</rightascension>
-			<declination>-05 59 41</declination>
-			<angulardistance />
-			<magV>9.69</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/01/14</lastupdate>
-		<description>The star BD-061339 hosts two planets. The inner planet is a super-Earth (assuming sin(i)=1). It might be tidally locked due to its proximity to the host star. The planet was discovered with the European HARPS instrument.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>BD-061339 c</id_exoplaneteu>
-		<name>BD-061339 c</name>
-		<name>HIP 27803 c</name>
-		<id>BD-061339 c</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.17</mass>
-			<radius />
-			<orbit>
-				<period>125.94</period>
-				<semimajoraxis>0.435</semimajoraxis>
-				<eccentricity>0.31</eccentricity>
-				<inclination />
-				<periastron>41</periastron>
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K7V/M0V</spectraltype>
-			<mass>0.7</mass>
-			<radius />
-			<metallicity>-0.14</metallicity>
-			<distance>20</distance>
-			<temperature>4324</temperature>
-			<rightascension>05 53 00</rightascension>
-			<declination>-05 59 41</declination>
-			<angulardistance />
-			<magV>9.69</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/01/14</lastupdate>
-		<description>The star BD-061339 hosts two planets. The outer planet has about three Neptune masses and is located in the habitable zone. However, the planet has most likely no solid surface on which liquid water could exist. The planet was discovered with the European HARPS instrument.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>BD-082823 b</id_exoplaneteu>
 		<name>BD-082823 b</name>
 		<name>HIP 49067 b</name>
@@ -28454,13 +28366,13 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>Kepler-10 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0145</mass>
-			<radius>0.133</radius>
+			<mass>0.010475</mass>
+			<radius>0.133962</radius>
 			<orbit>
-				<period>0.8374912</period>
-				<semimajoraxis>0.01687</semimajoraxis>
+				<period>0.8374907</period>
+				<semimajoraxis>0.01685</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<inclination>84.15</inclination>
+				<inclination>84.8</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -28468,7 +28380,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.913</mass>
+			<mass>0.91</mass>
 			<radius>1.065</radius>
 			<metallicity>-0.15</metallicity>
 			<distance>173</distance>
@@ -28484,7 +28396,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>13/05/24</lastupdate>
+		<lastupdate>14/06/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -28499,13 +28411,13 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>Kepler-10 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.211422</radius>
+			<mass>0.054106</mass>
+			<radius>0.214156</radius>
 			<orbit>
-				<period>45.29427</period>
-				<semimajoraxis>0.2413</semimajoraxis>
-				<eccentricity />
-				<inclination>89.640</inclination>
+				<period>45.294301</period>
+				<semimajoraxis>0.2410</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>89.59</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -28513,7 +28425,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>0.913</mass>
+			<mass>0.91</mass>
 			<radius>1.065</radius>
 			<metallicity>-0.15</metallicity>
 			<distance>173</distance>
@@ -28529,7 +28441,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>13/05/24</lastupdate>
+		<lastupdate>14/06/03</lastupdate>
 		<description>This planet was confirmed using infrared observations from Spitzer. It is highly unlikely (0.002%) that Kepler-10 c is a false positive. The planet is so close to its host star that it can not sustain liquid water on its surface. It is therefore most likely not habitable and a scorched, molten Earth.</description>
 		<new />
 		<image />
@@ -66177,6 +66089,50 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<imagedescription />
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-418b</id_exoplaneteu>
+		<name>Kepler-418b</name>
+		<name>Kepler-418 b</name>
+		<id>Kepler-418b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.1</mass>
+			<radius>9.7</radius>
+			<orbit>
+				<period>86.67856</period>
+				<semimajoraxis>84.4</semimajoraxis>
+				<eccentricity>0.20</eccentricity>
+				<inclination>89.952</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.98</mass>
+			<radius>1.09</radius>
+			<metallicity>-0.05</metallicity>
+			<distance />
+			<temperature>5820</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/27</lastupdate>
+		<description>Kepler-418b is one of two proposed planets in system Kepler-418.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-42 b</id_exoplaneteu>
