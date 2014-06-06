@@ -1,4 +1,4 @@
-<planets date="2014-06-03" name="data" planets="1813">
+<planets date="2014-06-06" name="data" planets="1814">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1557,7 +1557,6 @@
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/05/13</lastupdate>
 		<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once every 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1628,7 +1627,6 @@
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/05/13</lastupdate>
 		<description>This planet is orbiting the brighest star in the bowl of the Little Dipper. The star is K giant, 130 times more luminous than the Sun and about 130 light years away. The planet was found using data collected from the Bohyunsan Observatory.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -4578,10 +4576,10 @@ Credit: Jonah Gallagher.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/05/14</lastupdate>
 		<description>GU Psc b is a comoving companion of planetary mass to the young M3 star GU Psc. The system is only 100 million years old and the wide separation of the planetary companion raising interesting questions about the system's formation history.</description>
-		<new>1</new>
 		<image>GUPsc</image>
 		<imagedescription>Image of the planet GU Psc b and its host star. 
-			</imagedescription>
+
+Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -19513,6 +19511,75 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>07/11/30</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kapteyn b</id_exoplaneteu>
+		<name>Kapteyn b</name>
+		<name>Kapteyn's Star b</name>
+		<name>Kapteyn's b</name>
+		<name>HD 33793 b</name>
+		<name>Gliese 191 b</name>
+		<id>Kapteyn b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.015099</mass>
+			<orbit>
+				<period>48.616</period>
+				<semimajoraxis>0.168</semimajoraxis>
+				<eccentricity>0.21</eccentricity>
+				<periastron>80.4</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1.0</spectraltype>
+			<mass>0.281</mass>
+			<radius>0.291</radius>
+			<metallicity>-0.86</metallicity>
+			<distance>3.91</distance>
+			<temperature>3550.0</temperature>
+			<rightascension>05 11 41</rightascension>
+			<declination>-45 58 54</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/06</lastupdate>
+		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kapteyn c</id_exoplaneteu>
+		<name>Kapteyn c</name>
+		<name>Kapteyn's Star c</name>
+		<name>Kapteyn's c</name>
+		<name>HD 33793 c</name>
+		<name>Gliese 191 c</name>
+		<id>Kapteyn c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.022020</mass>
+			<orbit>
+				<period>121.54</period>
+				<semimajoraxis>0.311</semimajoraxis>
+				<eccentricity>0.23</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1.0</spectraltype>
+			<mass>0.281</mass>
+			<radius>0.291</radius>
+			<metallicity>-0.86</metallicity>
+			<distance>3.91</distance>
+			<temperature>3550.0</temperature>
+			<rightascension>05 11 41</rightascension>
+			<declination>-45 58 54</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/06</lastupdate>
+		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. The planetary system is roughly 11 billion years old and contains at least one other planet, Kapteyn b, which is close to a 5:2 period commensurability.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48020,35 +48087,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>ksi Aql b</id_exoplaneteu>
-		<name>ksi Aql b</name>
-		<id>ksi Aql b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>2.8</mass>
-			<orbit>
-				<period>136.75</period>
-				<semimajoraxis>0.68</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G9IIIb</spectraltype>
-			<mass>2.2</mass>
-			<radius>12</radius>
-			<metallicity>-0.205</metallicity>
-			<distance>62.7</distance>
-			<temperature>885.4</temperature>
-			<rightascension>19 54 15</rightascension>
-			<declination>+08 27 41</declination>
-			<magV>4.72</magV>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/02/20</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>LKCA 15 b</id_exoplaneteu>
 		<name>LKCA 15 b</name>
 		<id>LKCA 15 b</id>
@@ -48710,7 +48748,6 @@ Image credit: Joe Gallagher</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/05/13</lastupdate>
 		<description>The planet mu Leo b is orbiting the K giant mu Leonis, also known as Rasalas (the northern star of the lion's head). It was found using data from the Bohyunsan Observatory.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -54001,7 +54038,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature>4780</temperature>
 			<rightascension>19 54 14</rightascension>
 			<declination>+08 27 41</declination>
-			<magV>4.71</magV>
+			<magV>4.72</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
