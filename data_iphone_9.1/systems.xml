@@ -1,4 +1,4 @@
-<systems name="systems" planets="1813">
+<systems name="systems" planets="1814">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1459,7 +1459,6 @@
 				<mass errorminus="0.8" errorplus="0.8">7.8</mass>
 				<period errorminus="4" errorplus="4">605.2</period>
 				<semimajoraxis errorminus="0.1" errorplus="0.1">1.7</semimajoraxis>
-				<new>1</new>
 				<eccentricity errorminus="0.02" errorplus="0.02">0.08</eccentricity>
 				<periastron errorminus="5.9" errorplus="5.9">58.9</periastron>
 				<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once every 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
@@ -1539,7 +1538,6 @@
 				<list>Confirmed planets</list>
 				<mass errorminus="1.0" errorplus="1.0">6.1</mass>
 				<period errorminus="2.7" errorplus="2.7">522.3</period>
-				<new>1</new>
 				<semimajoraxis errorminus="0.1" errorplus="0.1">1.4</semimajoraxis>
 				<eccentricity errorminus="0.02" errorplus="0.02">0.19</eccentricity>
 				<periastron errorminus="2.8" errorplus="2.8">307.4</periastron>
@@ -4394,7 +4392,6 @@ Credit: Jonah Gallagher.</imagedescription>
 				<description>GU Psc b is a comoving companion of planetary mass to the young M3 star GU Psc. The system is only 100 million years old and the wide separation of the planetary companion raising interesting questions about the system's formation history.</description>
 				<image>GUPsc</image>
 				<imagedescription>Image of the planet GU Psc b and its host star. 
-			<new>1</new>
 
 Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
@@ -18855,6 +18852,59 @@ Credit: J. Carson et al 2012.</imagedescription>
 			</planet>
 			<name>kappa CrB</name>
 			<temperature>4960.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>Kapteyn</name>
+		<rightascension>05 11 41</rightascension>
+		<declination>-45 58 54</declination>
+		<distance>3.91</distance>
+		<star>
+			<name>Kapteyn</name>
+			<name>Kapteyn's Star</name>
+			<name>HD 33793</name>
+			<name>Gliese 191</name>
+			<age errorminus="10.6" errorplus="4">11.0</age>
+			<radius errorminus="0.025" errorplus="0.025">0.291</radius>
+			<mass errorminus="0.014" errorplus="0.014">0.281</mass>
+			<spectraltype>M1.0</spectraltype>
+			<temperature errorminus="50" errorplus="50">3550.0</temperature>
+			<metallicity>-0.86</metallicity>
+			<planet>
+				<name>Kapteyn b</name>
+				<name>Kapteyn's Star b</name>
+				<name>Kapteyn's b</name>
+				<name>HD 33793 b</name>
+				<name>Gliese 191 b</name>
+				<semimajoraxis errorminus="0.008" errorplus="0.006">0.168</semimajoraxis>
+				<periastron errorminus="28.9" errorplus="30.7">80.4</periastron>
+				<eccentricity errorminus="0.10" errorplus="0.11">0.21</eccentricity>
+				<period errorminus="0.032" errorplus="0.036">48.616</period>
+				<mass errorminus="0.003146" errorplus="0.002831">0.015099</mass>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/06/06</lastupdate>
+				<list>Confirmed planets</list>
+				<new>1</new>
+				<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability.</description>
+			</planet>
+			<planet>
+				<name>Kapteyn c</name>
+				<name>Kapteyn's Star c</name>
+				<name>Kapteyn's c</name>
+				<name>HD 33793 c</name>
+				<name>Gliese 191 c</name>
+				<semimajoraxis errorminus="0.014" errorplus="0.038">0.311</semimajoraxis>
+				<eccentricity errorminus="0.12" errorplus="0.10">0.23</eccentricity>
+				<period errorminus="0.25" errorplus="0.25">121.54</period>
+				<mass errorminus="0.003146" errorplus="0.003775">0.022020</mass>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/06/06</lastupdate>
+				<list>Confirmed planets</list>
+				<new>1</new>
+				<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. The planetary system is roughly 11 billion years old and contains at least one other planet, Kapteyn b, which is close to a 5:2 period commensurability.</description>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -41586,37 +41636,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 	</system>
 	<system>
-		<name>ksi Aql</name>
-		<rightascension>19 54 15</rightascension>
-		<declination>+08 27 41</declination>
-		<distance>62.7</distance>
-		<star>
-			<mass>2.2</mass>
-			<radius>12</radius>
-			<magV>4.72</magV>
-			<magB>5.769</magB>
-			<magJ errorminus="0.220" errorplus="0.220">2.852</magJ>
-			<magH errorminus="0.174" errorplus="0.174">2.367</magH>
-			<magK errorminus="0.220" errorplus="0.220">2.171</magK>
-			<metallicity>-0.205</metallicity>
-			<spectraltype>G9IIIb</spectraltype>
-			<planet>
-				<name>ksi Aql b</name>
-				<list>Confirmed planets</list>
-				<mass>2.8</mass>
-				<period>136.75</period>
-				<semimajoraxis>0.68</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>08/02/20</lastupdate>
-				<discoveryyear>2008</discoveryyear>
-				<temperature>885.4</temperature>
-			</planet>
-			<name>ksi Aql</name>
-			<temperature>4780.0</temperature>
-		</star>
-	</system>
-	<system>
 		<name>LKCA 15</name>
 		<rightascension>04 39 18</rightascension>
 		<declination>+22 21 03</declination>
@@ -42128,7 +42147,6 @@ Image credit: Joe Gallagher</imagedescription>
 				<name>mu Leonis b</name>
 				<name>Rasalas b</name>
 				<name>Alshemali b</name>
-				<new>1</new>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.4" errorplus="0.4">2.4</mass>
 				<period errorminus="1.2" errorplus="1.2">357.8</period>
@@ -47906,9 +47924,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>2.2</mass>
 			<radius>12</radius>
 			<temperature>4780</temperature>
-			<magV>4.71</magV>
 			<metallicity>-0.21</metallicity>
 			<spectraltype>K0 III</spectraltype>
+			<magV>4.72</magV>
+			<magB>5.769</magB>
+			<magJ errorminus="0.220" errorplus="0.220">2.852</magJ>
+			<magH errorminus="0.174" errorplus="0.174">2.367</magH>
+			<magK errorminus="0.220" errorplus="0.220">2.171</magK>
 			<planet>
 				<name>xi Aql b</name>
 				<name>Xi Aquilae b</name>
