@@ -3104,6 +3104,94 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>CoRoT-24 b</id_exoplaneteu>
+		<name>CoRoT-24 b</name>
+		<name>2MASS 06474141-0343094 c</name>
+		<id>CoRoT-24 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.33</radius>
+			<orbit>
+				<period>5.1134</period>
+				<semimajoraxis>0.056</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.5</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.91</mass>
+			<radius>0.86</radius>
+			<metallicity>0.3</metallicity>
+			<distance>600</distance>
+			<temperature>4950</temperature>
+			<rightascension>06 47 41</rightascension>
+			<declination>-03 43 10</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/08</lastupdate>
+		<description>CoRoT-24 is the first multiplanetary system discovered by the CoRoT mission. The probability that the observations are caused by transiting Neptune-sized planets is 26 times more likely than a blend scenario.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>CoRoT-24 c</id_exoplaneteu>
+		<name>CoRoT-24 c</name>
+		<name>2MASS 06474141-0343094 c</name>
+		<id>CoRoT-24 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.088</mass>
+			<radius>0.44</radius>
+			<orbit>
+				<period>11.759</period>
+				<semimajoraxis>0.098</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>89</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.91</mass>
+			<radius>0.86</radius>
+			<metallicity>0.3</metallicity>
+			<distance>600</distance>
+			<temperature>4950</temperature>
+			<rightascension>06 47 41</rightascension>
+			<declination>-03 43 10</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/08</lastupdate>
+		<description>CoRoT-24 is the first multiplanetary system discovered by the CoRoT mission. The probability that the observations are caused by transiting Neptune-sized planets is 26 times more likely than a blend scenario.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>CoRoT-27 b</id_exoplaneteu>
 		<name>CoRoT-27 b</name>
 		<name>2MASS 1183241962 b</name>
@@ -28306,7 +28394,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/06/06</lastupdate>
 		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -28353,7 +28441,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/06/06</lastupdate>
 		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. The planetary system is roughly 11 billion years old and contains at least one other planet, Kapteyn b, which is close to a 5:2 period commensurability.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
