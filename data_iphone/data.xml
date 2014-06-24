@@ -1,4 +1,4 @@
-<planets date="2014-06-10" name="data" planets="1816">
+<planets date="2014-06-24" name="data" planets="1817">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2192,7 +2192,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/06/08</lastupdate>
 		<description>CoRoT-24 is the first multiplanetary system discovered by the CoRoT mission. The probability that the observations are caused by transiting Neptune-sized planets is 26 times more likely than a blend scenario.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -2225,7 +2224,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/06/08</lastupdate>
 		<description>CoRoT-24 is the first multiplanetary system discovered by the CoRoT mission. The probability that the observations are caused by transiting Neptune-sized planets is 26 times more likely than a blend scenario.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -4323,27 +4321,64 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 832 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.64</mass>
+			<mass>0.688908</mass>
 			<orbit>
-				<period>3416</period>
-				<semimajoraxis>3.4</semimajoraxis>
-				<eccentricity>0.12</eccentricity>
+				<period>3660</period>
+				<semimajoraxis>3.6</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<periastron>246</periastron>
+				<longitude>40</longitude>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M1</spectraltype>
+			<spectraltype>M1.5</spectraltype>
 			<mass>0.45</mass>
-			<metallicity>-0.31</metallicity>
+			<metallicity>-0.3</metallicity>
 			<distance>4.94</distance>
-			<temperature>5700.0</temperature>
+			<temperature>3472</temperature>
 			<rightascension>21 33 34</rightascension>
 			<declination>-49 00 32</declination>
 			<magV>8.67</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>10/11/13</lastupdate>
-		<description>The star Gliese 832 is a star located in the solar neighbourhood in the constallation Grus. Therefore the observed planet Gliese 832 b is a good candidate for astrometric observations.</description>
+		<lastupdate>14/06/24</lastupdate>
+		<description>The star Gliese 832 is a star located in the solar neighbourhood in the constallation Grus. Therefore the observed planet Gliese 832 b is a good candidate for astrometric observations. In 2014, an additional planet, Gliese 832 c has been discovered.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 832 c</id_exoplaneteu>
+		<name>Gliese 832 c</name>
+		<name>GJ 832 c</name>
+		<name>Gj 832 c</name>
+		<name>Gl 832 c</name>
+		<id>Gliese 832 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.015729</mass>
+			<orbit>
+				<period>35.67</period>
+				<semimajoraxis>0.162</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<periastron>80</periastron>
+				<longitude>246</longitude>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1.5</spectraltype>
+			<mass>0.45</mass>
+			<metallicity>-0.3</metallicity>
+			<distance>4.94</distance>
+			<temperature>3472</temperature>
+			<rightascension>21 33 34</rightascension>
+			<declination>-49 00 32</declination>
+			<magV>8.67</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/24</lastupdate>
+		<description>The star Gliese 832 is a star located in the solar neighbourhood in the constallation Grus. Therefore the observed planet Gliese 832 b is a good candidate for astrometric observations. In 2014, an additional planet, Gliese 832 c, was discovered. It's a Super-Earth, orbiting near the inner edge of the habitable zone. The large mass of the planet is likely to make the planet inhospitable. The discovered was possible with the combination of radial velocity measurements from three telescopes.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
