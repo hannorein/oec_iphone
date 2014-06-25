@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>KOI-1257 b</id_exoplaneteu>
+	<name>KOI-1257 b</name>
+	<name>KOI-1257 01</name>
+	<name>KOI-1257.01</name>
+	<name>KIC8751933 b</name>
+	<id>KOI-1257 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.45</mass>
+		<radius>0.94</radius>
+		<orbit>
+			<period>86.647661</period>
+			<semimajoraxis>0.382</semimajoraxis>
+			<eccentricity>0.772</eccentricity>
+			<inclination>89.66</inclination>
+			<periastron>141.3</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5V</spectraltype>
+		<mass>0.99</mass>
+		<radius>1.13</radius>
+		<metallicity>0.27</metallicity>
+		<distance>900</distance>
+		<temperature>5520</temperature>
+		<rightascension>19 24 54</rightascension>
+		<declination>+44 55 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/06/25</lastupdate>
+	<description>KOI-1257 b is a highly eccentric transiting exoplanet in an old, metal-rich binary system. The transits were initially spotted in the Kepler data. Follow-up observations consisting of a joint amateur and professional campaign confirmed the planetary nature of the transits.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
