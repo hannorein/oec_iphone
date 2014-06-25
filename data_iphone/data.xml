@@ -1,4 +1,4 @@
-<planets date="2014-06-24" name="data" planets="1817">
+<planets date="2014-06-25" name="data" planets="1818">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4378,7 +4378,6 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/06/24</lastupdate>
 		<description>The star Gliese 832 is a star located in the solar neighbourhood in the constallation Grus. In 2014, a second planet, Gliese 832 c, was discovered in the system. It's a Super-Earth or Super-Venus, orbiting near the inner edge of the habitable zone. The large mass of the planet is likely to make the planet inhospitable. The discovery was only possible using a combination of radial velocity measurements from three different telescopes.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -47326,6 +47325,43 @@ Credit: Joe Gallagher.</imagedescription>
 			
 Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1257 b</id_exoplaneteu>
+		<name>KOI-1257 b</name>
+		<name>KOI-1257 01</name>
+		<name>KOI-1257.01</name>
+		<name>KIC8751933 b</name>
+		<id>KOI-1257 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.45</mass>
+			<radius>0.94</radius>
+			<orbit>
+				<period>86.647661</period>
+				<semimajoraxis>0.382</semimajoraxis>
+				<eccentricity>0.772</eccentricity>
+				<inclination>89.66</inclination>
+				<periastron>141.3</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5V</spectraltype>
+			<mass>0.99</mass>
+			<radius>1.13</radius>
+			<metallicity>0.27</metallicity>
+			<distance>900</distance>
+			<temperature>5520</temperature>
+			<rightascension>19 24 54</rightascension>
+			<declination>+44 55 38</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/25</lastupdate>
+		<description>KOI-1257 b is a highly eccentric transiting exoplanet in an old, metal-rich binary system. The transits were initially spotted in the Kepler data. Follow-up observations consisting of a joint amateur and professional campaign confirmed the planetary nature of the transits.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-135 b</id_exoplaneteu>
