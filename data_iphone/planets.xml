@@ -78778,7 +78778,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/06/27</lastupdate>
 		<description>WASP-117b is a Hot Saturn on an eccentric and misaligned orbit. This is the first planet with a period beyond 10 days found by the WASP survey. Because of its large orbital separation tidal forces are weak and have had little impact on the evolution of the system.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -82569,11 +82569,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>XO-2 b</id_exoplaneteu>
-		<name>XO-2 b</name>
+		<id_exoplaneteu>XO-2N b</id_exoplaneteu>
+		<name>XO-2N b</name>
 		<name>2MASS J07480647+5013328 b</name>
 		<name>TYC 3413-00005-1 b</name>
-		<id>XO-2 b</id>
+		<id>XO-2N b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.62</mass>
@@ -82589,12 +82589,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.98</mass>
-			<radius>0.964</radius>
-			<metallicity>0.45</metallicity>
+			<spectraltype>K0</spectraltype>
+			<mass>0.982</mass>
+			<radius>1.02</radius>
+			<metallicity>0.39</metallicity>
 			<distance>149</distance>
-			<temperature>1203.3</temperature>
+			<temperature>5399</temperature>
 			<rightascension>07 48 07</rightascension>
 			<declination>+50 13 33</declination>
 			<angulardistance />
@@ -82604,7 +82604,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>11/10/28</lastupdate>
 		<description />
@@ -82612,6 +82612,97 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-2S b</id_exoplaneteu>
+		<name>XO-2S b</name>
+		<name>TYC 3413-210-1 b</name>
+		<id>XO-2S b</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.259</mass>
+			<radius />
+			<orbit>
+				<period>18.157</period>
+				<semimajoraxis>0.1344</semimajoraxis>
+				<eccentricity>0.18</eccentricity>
+				<inclination />
+				<periastron>311.0</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.982</mass>
+			<radius>1.02</radius>
+			<metallicity>0.39</metallicity>
+			<distance>149</distance>
+			<temperature>5399</temperature>
+			<rightascension>07 48 07</rightascension>
+			<declination>+50 13 33</declination>
+			<angulardistance />
+			<magV>11.18</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/07/02</lastupdate>
+		<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-2S c</id_exoplaneteu>
+		<name>XO-2S c</name>
+		<name>TYC 3413-210-1 c</name>
+		<id>XO-2S c</id>
+		<discoverymethod />
+		<properties>
+			<mass>1.370</mass>
+			<radius />
+			<orbit>
+				<period>120.8</period>
+				<semimajoraxis>0.4756</semimajoraxis>
+				<eccentricity>0.1528</eccentricity>
+				<inclination />
+				<periastron>264.5</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.982</mass>
+			<radius>1.02</radius>
+			<metallicity>0.39</metallicity>
+			<distance>149</distance>
+			<temperature>5399</temperature>
+			<rightascension>07 48 07</rightascension>
+			<declination>+50 13 33</declination>
+			<angulardistance />
+			<magV>11.18</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/07/02</lastupdate>
+		<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>XO-3 b</id_exoplaneteu>
