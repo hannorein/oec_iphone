@@ -1,4 +1,4 @@
-<planets date="2014-07-02" name="data" planets="1821">
+<planets date="2014-07-04" name="data" planets="1821">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -3560,11 +3560,10 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 581 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.05</mass>
+			<mass>0.049702</mass>
 			<orbit>
-				<period>5.36865</period>
-				<semimajoraxis>0.041</semimajoraxis>
-				<eccentricity>0.031</eccentricity>
+				<period>5.3686</period>
+				<semimajoraxis>0.04061</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -3580,7 +3579,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>6</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
+		<lastupdate>14/07/04</lastupdate>
 		<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -3593,11 +3592,10 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 581 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.017</mass>
+			<mass>0.017301</mass>
 			<orbit>
-				<period>12.9182</period>
-				<semimajoraxis>0.073</semimajoraxis>
-				<eccentricity>0.07</eccentricity>
+				<period>12.914</period>
+				<semimajoraxis>0.0721</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -3613,7 +3611,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>6</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
+		<lastupdate>14/07/04</lastupdate>
 		<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -3646,9 +3644,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>6</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
-		<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet (Gliese 581f) in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 d might be habitable according to a paper by Wordsworth et al. (2011) who studied the system using three dimensional climate simulations. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>14/07/04</lastupdate>
+		<description>A new analysis shows that there is no signal of the planet Gliese 581 d after stellar activity reduction.</description>
+		<list>Retracted planet candidate</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 581 e</id_exoplaneteu>
@@ -3661,9 +3659,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<properties>
 			<mass>0.0061</mass>
 			<orbit>
-				<period>3.14945</period>
-				<semimajoraxis>0.028</semimajoraxis>
-				<eccentricity>0.32</eccentricity>
+				<period>3.1490</period>
+				<semimajoraxis>0.02815</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -3679,7 +3676,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>6</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>11/09/13</lastupdate>
+		<lastupdate>14/07/04</lastupdate>
 		<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -3712,7 +3709,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>6</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/09/17</lastupdate>
+		<lastupdate>14/07/04</lastupdate>
 		<description>Gliese 581 f is an unconfirmed planet. Its discovery was announced in 2010 by the Lick-Carnegie Exoplanet Survey. However an analysis by the European HARPS team concluded that the system is unlikely to contain a planet with the quoted characteristic.</description>
 		<list>Controversial</list>
 	</planet>
@@ -3745,9 +3742,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>6</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/09/17</lastupdate>
-		<description>Gliese 581 g is an unconfirmed planet. Its discovery was announced in 2010 by the Lick-Carnegie Exoplanet Survey. However an analysis by the European HARPS team concluded that the system is unlikely to contain a planet with the quoted characteristic. The planet attracted a lot of attention because of its location near the middle of the habitable zone.</description>
-		<list>Controversial</list>
+		<lastupdate>14/07/04</lastupdate>
+		<description>A new analysis shows that there is no signal of the planet Gliese 581 d after stellar activity reduction.</description>
+		<list>Retracted planet candidate</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 649 b</id_exoplaneteu>
@@ -16657,7 +16654,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<orbit>
 				<period>2.818049</period>
 				<semimajoraxis>0.036</semimajoraxis>
-				<eccentricity>2e-05</eccentricity>
+				<eccentricity>0.00002</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -50119,7 +50116,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id>PSR 1257 12 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>7e-05</mass>
+			<mass>0.00007</mass>
 			<orbit>
 				<period>25.262</period>
 				<semimajoraxis>0.19</semimajoraxis>
@@ -50127,7 +50124,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<mass>7e-05</mass>
+			<mass>0.00007</mass>
 			<distance>500</distance>
 			<temperature>5700.0</temperature>
 			<rightascension>13 00 04</rightascension>
@@ -50154,7 +50151,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<mass>7e-05</mass>
+			<mass>0.00007</mass>
 			<distance>500</distance>
 			<temperature>5700.0</temperature>
 			<rightascension>13 00 04</rightascension>
@@ -50181,7 +50178,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<mass>7e-05</mass>
+			<mass>0.00007</mass>
 			<distance>500</distance>
 			<temperature>5700.0</temperature>
 			<rightascension>13 00 04</rightascension>
@@ -50236,7 +50233,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</properties>
 		<star>
 			<mass>1.4</mass>
-			<radius>2.8735632e-05</radius>
+			<radius>0.000028735632</radius>
 			<distance>1200</distance>
 			<temperature>5375.9</temperature>
 			<rightascension>17 19 10</rightascension>
