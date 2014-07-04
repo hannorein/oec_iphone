@@ -3359,7 +3359,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<period errorminus="0.000002" errorplus="0.000002">3.336649</period>
 				<semimajoraxis>0.03557</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<transittime errorminus="+0.00011" errorplus="0.00009" unit="BJD">2456340.72559</transittime>
+				<transittime errorminus="0.00011" errorplus="0.00009" unit="BJD">2456340.72559</transittime>
 				<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/01/28</lastupdate>
@@ -3478,7 +3478,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.0032" errorplus="0.0032">0.0727</mass>
 				<radius errorminus="0.0092" errorplus="0.0082">0.3767</radius>
-				<period errorminus="9E-5" errorplus="9E-5">2.643850</period>
+				<period errorminus="0.00009" errorplus="0.00009">2.643850</period>
 				<semimajoraxis errorminus="0.0048" errorplus="0.0048">0.02872</semimajoraxis>
 				<eccentricity errorminus="0.012" errorplus="0.012">0.15</eccentricity>
 				<inclination errorminus="0.25" errorplus="0.25">85.8</inclination>
@@ -3585,13 +3585,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>Gj 581 b</name>
 				<name>Gl 581 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.05</mass>
-				<period>5.36865</period>
-				<semimajoraxis>0.041</semimajoraxis>
-				<eccentricity>0.031</eccentricity>
+				<mass errorminus="0.000944" errorplus="0.000944">0.049702</mass>
+				<period errorminus="0.0001" errorplus="0.0001">5.3686</period>
+				<semimajoraxis errorminus="0.00003" errorplus="0.00003">0.04061</semimajoraxis>
+				<eccentricity upperlimit="0.03" />
 				<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>14/07/04</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 				<temperature>419.2</temperature>
 			</planet>
@@ -3601,13 +3601,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>Gj 581 c</name>
 				<name>Gl 581 c</name>
 				<list>Confirmed planets</list>
-				<mass>0.017</mass>
-				<period>12.9182</period>
-				<semimajoraxis>0.073</semimajoraxis>
-				<eccentricity>0.07</eccentricity>
+				<mass errorminus="0.000944" errorplus="0.000944">0.017301</mass>
+				<period errorminus="0.002" errorplus="0.002">12.914</period>
+				<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.0721</semimajoraxis>
+				<eccentricity upperlimit="0.06" />
 				<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>14/07/04</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>312.7</temperature>
 			</planet>
@@ -3616,14 +3616,14 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>GJ 581 d</name>
 				<name>Gj 581 d</name>
 				<name>Gl 581 d</name>
-				<list>Confirmed planets</list>
+				<list>Retracted planet candidate</list>
 				<mass>0.019</mass>
 				<period>66.64</period>
 				<semimajoraxis>0.22</semimajoraxis>
 				<eccentricity>0.25</eccentricity>
-				<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet (Gliese 581f) in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 d might be habitable according to a paper by Wordsworth et al. (2011) who studied the system using three dimensional climate simulations. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
+				<description>A new analysis shows that there is no signal of the planet Gliese 581 d after stellar activity reduction.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>14/07/04</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>181.0</temperature>
 			</planet>
@@ -3634,12 +3634,12 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>Gl 581 e</name>
 				<list>Confirmed planets</list>
 				<mass>0.0061</mass>
-				<period>3.14945</period>
-				<semimajoraxis>0.028</semimajoraxis>
-				<eccentricity>0.32</eccentricity>
+				<period errorminus="0.0002" errorplus="0.0002">3.1490</period>
+				<semimajoraxis errorminus="0.00006" errorplus="0.00006">0.02815</semimajoraxis>
+				<eccentricity upperlimit="0.06" />
 				<description>Gliese 581 is a red dwarf in the constellation Libra. It is the 89th closest star to the Solar System. In late 2010, US astronomers annoucent a planet in the habitable zone. This statement has been challenged by the European HARPS team. Gliese 581 c is likely to have a runaway greenhouse effect. A radio message has been sent to Gliese 581 in 2008 and will reach the star system in 2029.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/09/13</lastupdate>
+				<lastupdate>14/07/04</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<temperature>500.8</temperature>
 			</planet>
@@ -3655,7 +3655,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<eccentricity>0</eccentricity>
 				<description>Gliese 581 f is an unconfirmed planet. Its discovery was announced in 2010 by the Lick-Carnegie Exoplanet Survey. However an analysis by the European HARPS team concluded that the system is unlikely to contain a planet with the quoted characteristic.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/09/17</lastupdate>
+				<lastupdate>14/07/04</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 			</planet>
 			<planet>
@@ -3663,14 +3663,14 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>GJ 581 g</name>
 				<name>Gj 581 g</name>
 				<name>Gl 581 g</name>
-				<list>Controversial</list>
+				<list>Retracted planet candidate</list>
 				<mass>0.0097516</mass>
 				<period>36.5</period>
 				<semimajoraxis>0.146</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<description>Gliese 581 g is an unconfirmed planet. Its discovery was announced in 2010 by the Lick-Carnegie Exoplanet Survey. However an analysis by the European HARPS team concluded that the system is unlikely to contain a planet with the quoted characteristic. The planet attracted a lot of attention because of its location near the middle of the habitable zone.</description>
+				<description>A new analysis shows that there is no signal of the planet Gliese 581 d after stellar activity reduction.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/09/17</lastupdate>
+				<lastupdate>14/07/04</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>230.9</temperature>
 			</planet>
@@ -5370,7 +5370,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<radius errorminus="0.065" errorplus="0.065">1.340</radius>
 				<period errorminus="0.000005" errorplus="0.000005">2.810595</period>
 				<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0419</semimajoraxis>
-				<eccentricity errorminus="0.002 " errorplus="0.002 ">0.035</eccentricity>
+				<eccentricity errorminus="0.002" errorplus="0.002">0.035</eccentricity>
 				<inclination errorminus="0.4" errorplus="0.4">83.6</inclination>
 				<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection of the planet's orbit normal and the star's spin axis is 73.5 degrees.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -16117,7 +16117,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.38</mass>
 				<period>2.818049</period>
 				<semimajoraxis>0.036</semimajoraxis>
-				<eccentricity>2e-05</eccentricity>
+				<eccentricity>0.00002</eccentricity>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/06/01</lastupdate>
 				<discoveryyear>2005</discoveryyear>
@@ -19477,7 +19477,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<name>Kepler-105</name>
 			<name>KOI-115</name>
 			<name>KIC 9579641</name>
-			<temperature errorminus="00" errorplus="100">5873</temperature>
+			<temperature errorminus="100" errorplus="100">5873</temperature>
 			<radius errorminus=".245" errorplus="0.245">1.160</radius>
 			<mass errorminus="0.0930" errorplus="0.0930">1.1800</mass>
 			<planet>
@@ -20106,7 +20106,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-114</name>
 			<name>KOI-156</name>
 			<name>KIC 10925104</name>
-			<temperature errorminus="00" errorplus="100">4605</temperature>
+			<temperature errorminus="100" errorplus="100">4605</temperature>
 			<radius errorminus=".035" errorplus="0.035">0.667</radius>
 			<mass errorminus="0.0230" errorplus="0.0230">0.7090</mass>
 			<planet>
@@ -20218,7 +20218,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-116</name>
 			<name>KOI-171</name>
 			<name>KIC 7831264</name>
-			<temperature errorminus="00" errorplus="100">6142</temperature>
+			<temperature errorminus="100" errorplus="100">6142</temperature>
 			<radius errorminus=".273" errorplus="0.273">1.454</radius>
 			<mass errorminus="0.0680" errorplus="0.0680">1.2060</mass>
 			<planet>
@@ -20266,7 +20266,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-117</name>
 			<name>KOI-209</name>
 			<name>KIC 10723750</name>
-			<temperature errorminus="00" errorplus="100">6169</temperature>
+			<temperature errorminus="100" errorplus="100">6169</temperature>
 			<radius errorminus=".278" errorplus="0.278">1.471</radius>
 			<mass errorminus="0.0077" errorplus="0.0077">1.1790</mass>
 			<planet>
@@ -20314,7 +20314,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-118</name>
 			<name>KOI-216</name>
 			<name>KIC 6152974</name>
-			<temperature errorminus="00" errorplus="200">5274</temperature>
+			<temperature errorminus="200" errorplus="200">5274</temperature>
 			<radius errorminus=".489" errorplus="0.489">1.094</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">0.7700</mass>
 			<planet>
@@ -20362,7 +20362,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-119</name>
 			<name>KOI-220</name>
 			<name>KIC 7132798</name>
-			<temperature errorminus="00" errorplus="200">5595</temperature>
+			<temperature errorminus="200" errorplus="200">5595</temperature>
 			<radius errorminus=".319" errorplus="0.319">0.839</radius>
 			<mass errorminus="0.0340" errorplus="0.0340">0.9180</mass>
 			<planet>
@@ -20498,7 +20498,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-121</name>
 			<name>KOI-223</name>
 			<name>KIC 4545187</name>
-			<temperature errorminus="00" errorplus="200">5311</temperature>
+			<temperature errorminus="200" errorplus="200">5311</temperature>
 			<radius errorminus=".380" errorplus="0.380">0.701</radius>
 			<mass errorminus="0.0360" errorplus="0.0360">0.8590</mass>
 			<planet>
@@ -20673,7 +20673,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-124</name>
 			<name>KOI-241</name>
 			<name>KIC 11288051</name>
-			<temperature errorminus="00" errorplus="100">4984</temperature>
+			<temperature errorminus="100" errorplus="100">4984</temperature>
 			<radius errorminus=".030" errorplus="0.030">0.636</radius>
 			<mass errorminus="0.0270" errorplus="0.0270">0.8410</mass>
 			<planet>
@@ -21227,7 +21227,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-133</name>
 			<name>KOI-291</name>
 			<name>KIC 10933561</name>
-			<temperature errorminus="00" errorplus="100">5736</temperature>
+			<temperature errorminus="100" errorplus="100">5736</temperature>
 			<radius errorminus=".236" errorplus="0.236">1.425</radius>
 			<mass errorminus="0.0520" errorplus="0.0520">1.0200</mass>
 			<planet>
@@ -21371,7 +21371,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-136</name>
 			<name>KOI-312</name>
 			<name>KIC 7050989</name>
-			<temperature errorminus="00" errorplus="100">6165</temperature>
+			<temperature errorminus="100" errorplus="100">6165</temperature>
 			<radius errorminus=".248" errorplus="0.248">1.355</radius>
 			<mass errorminus="0.0430" errorplus="0.0430">1.2040</mass>
 			<planet>
@@ -21419,7 +21419,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-137</name>
 			<name>KOI-313</name>
 			<name>KIC 7419318</name>
-			<temperature errorminus="00" errorplus="100">5187</temperature>
+			<temperature errorminus="100" errorplus="100">5187</temperature>
 			<radius errorminus=".056" errorplus="0.056">0.802</radius>
 			<mass errorminus="0.0310" errorplus="0.0310">0.9080</mass>
 			<planet>
@@ -21467,7 +21467,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-139</name>
 			<name>KOI-316</name>
 			<name>KIC 8008067</name>
-			<temperature errorminus="00" errorplus="100">5594</temperature>
+			<temperature errorminus="100" errorplus="100">5594</temperature>
 			<radius errorminus=".251" errorplus="0.251">1.300</radius>
 			<mass errorminus="0.0480" errorplus="0.0480">1.0840</mass>
 			<planet>
@@ -21603,7 +21603,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-141</name>
 			<name>KOI-338</name>
 			<name>KIC 10552611</name>
-			<temperature errorminus="00" errorplus="100">4910</temperature>
+			<temperature errorminus="100" errorplus="100">4910</temperature>
 			<radius errorminus=".044" errorplus="0.044">0.787</radius>
 			<mass errorminus="0.0240" errorplus="0.0240">1.0010</mass>
 			<planet>
@@ -21651,7 +21651,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-142</name>
 			<name>KOI-343</name>
 			<name>KIC 10982872</name>
-			<temperature errorminus="00" errorplus="100">5790</temperature>
+			<temperature errorminus="100" errorplus="100">5790</temperature>
 			<radius errorminus=".245" errorplus="0.245">1.269</radius>
 			<mass errorminus="0.0400" errorplus="0.0400">0.9880</mass>
 			<planet>
@@ -21811,7 +21811,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-146</name>
 			<name>KOI-386</name>
 			<name>KIC 3656121</name>
-			<temperature errorminus="00" errorplus="100">5948</temperature>
+			<temperature errorminus="100" errorplus="100">5948</temperature>
 			<radius errorminus=".226" errorplus="0.226">1.208</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.0900</mass>
 			<planet>
@@ -21859,7 +21859,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-147</name>
 			<name>KOI-392</name>
 			<name>KIC 3942670</name>
-			<temperature errorminus="00" errorplus="100">6012</temperature>
+			<temperature errorminus="100" errorplus="100">6012</temperature>
 			<radius errorminus=".289" errorplus="0.289">1.468</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">0.9800</mass>
 			<planet>
@@ -21907,7 +21907,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-148</name>
 			<name>KOI-398</name>
 			<name>KIC 9946525</name>
-			<temperature errorminus="00" errorplus="200">5272</temperature>
+			<temperature errorminus="200" errorplus="200">5272</temperature>
 			<radius errorminus=".413" errorplus="0.413">0.851</radius>
 			<mass errorminus="0.0830" errorplus="0.0830">0.7770</mass>
 			<planet>
@@ -21955,7 +21955,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-149</name>
 			<name>KOI-401</name>
 			<name>KIC 3217264</name>
-			<temperature errorminus="00" errorplus="100">5381</temperature>
+			<temperature errorminus="100" errorplus="100">5381</temperature>
 			<radius errorminus=".136" errorplus="0.136">0.953</radius>
 			<mass errorminus="0.0540" errorplus="0.0540">0.9090</mass>
 			<planet>
@@ -22054,7 +22054,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-150</name>
 			<name>KOI-408</name>
 			<name>KIC 5351250</name>
-			<temperature errorminus="00" errorplus="100">5560</temperature>
+			<temperature errorminus="100" errorplus="100">5560</temperature>
 			<radius errorminus=".136" errorplus="0.136">0.939</radius>
 			<mass errorminus="0.0760" errorplus="0.0760">0.9700</mass>
 			<planet>
@@ -22134,7 +22134,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-151</name>
 			<name>KOI-413</name>
 			<name>KIC 5791986</name>
-			<temperature errorminus="00" errorplus="200">5460</temperature>
+			<temperature errorminus="200" errorplus="200">5460</temperature>
 			<radius errorminus=".411" errorplus="0.411">0.830</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.8600</mass>
 			<planet>
@@ -22182,7 +22182,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-152</name>
 			<name>KOI-416</name>
 			<name>KIC 6508221</name>
-			<temperature errorminus="00" errorplus="100">5088</temperature>
+			<temperature errorminus="100" errorplus="100">5088</temperature>
 			<radius errorminus=".044" errorplus="0.044">0.724</radius>
 			<planet>
 				<name>Kepler-152 b</name>
@@ -22229,7 +22229,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-153</name>
 			<name>KOI-431</name>
 			<name>KIC 10843590</name>
-			<temperature errorminus="00" errorplus="200">5404</temperature>
+			<temperature errorminus="200" errorplus="200">5404</temperature>
 			<radius errorminus=".537" errorplus="0.537">0.892</radius>
 			<mass errorminus="0.1000" errorplus="0.1000">0.8200</mass>
 			<planet>
@@ -22324,7 +22324,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-155</name>
 			<name>KOI-438</name>
 			<name>KIC 12302530</name>
-			<temperature errorminus="00" errorplus="100">4508</temperature>
+			<temperature errorminus="100" errorplus="100">4508</temperature>
 			<radius errorminus=".029" errorplus="0.029">0.620</radius>
 			<mass errorminus="0.0160" errorplus="0.0160">0.6350</mass>
 			<planet>
@@ -22372,7 +22372,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-156</name>
 			<name>KOI-440</name>
 			<name>KIC 2438264</name>
-			<temperature errorminus="00" errorplus="100">5094</temperature>
+			<temperature errorminus="100" errorplus="100">5094</temperature>
 			<radius errorminus=".053" errorplus="0.053">0.807</radius>
 			<mass errorminus="0.0680" errorplus="0.0680">0.7370</mass>
 			<planet>
@@ -22468,7 +22468,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-158</name>
 			<name>KOI-446</name>
 			<name>KIC 4633570</name>
-			<temperature errorminus="00" errorplus="200">4623</temperature>
+			<temperature errorminus="200" errorplus="200">4623</temperature>
 			<radius errorminus=".079" errorplus="0.079">0.624</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.6550</mass>
 			<planet>
@@ -22516,7 +22516,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-159</name>
 			<name>KOI-448</name>
 			<name>KIC 5640085</name>
-			<temperature errorminus="00" errorplus="100">4625</temperature>
+			<temperature errorminus="100" errorplus="100">4625</temperature>
 			<radius errorminus=".034" errorplus="0.034">0.663</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.6280</mass>
 			<planet>
@@ -22614,7 +22614,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-160</name>
 			<name>KOI-456</name>
 			<name>KIC 7269974</name>
-			<temperature errorminus="00" errorplus="200">5857</temperature>
+			<temperature errorminus="200" errorplus="200">5857</temperature>
 			<radius errorminus=".430" errorplus="0.430">0.884</radius>
 			<mass errorminus="0.0860" errorplus="0.0860">0.9930</mass>
 			<planet>
@@ -22662,7 +22662,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-161</name>
 			<name>KOI-457</name>
 			<name>KIC 7440748</name>
-			<temperature errorminus="00" errorplus="100">5078</temperature>
+			<temperature errorminus="100" errorplus="100">5078</temperature>
 			<radius errorminus=".052" errorplus="0.052">0.806</radius>
 			<mass errorminus="0.0550" errorplus="0.0550">0.7830</mass>
 			<planet>
@@ -22710,7 +22710,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-162</name>
 			<name>KOI-459</name>
 			<name>KIC 7977197</name>
-			<temperature errorminus="00" errorplus="200">5816</temperature>
+			<temperature errorminus="200" errorplus="200">5816</temperature>
 			<radius errorminus=".509" errorplus="0.509">0.958</radius>
 			<mass errorminus="0.0910" errorplus="0.0910">0.9530</mass>
 			<planet>
@@ -22758,7 +22758,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-163</name>
 			<name>KOI-471</name>
 			<name>KIC 10019643</name>
-			<temperature errorminus="00" errorplus="200">5776</temperature>
+			<temperature errorminus="200" errorplus="200">5776</temperature>
 			<radius errorminus=".380" errorplus="0.380">0.917</radius>
 			<mass errorminus="0.0760" errorplus="0.0760">0.9600</mass>
 			<planet>
@@ -22870,7 +22870,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-165</name>
 			<name>KOI-475</name>
 			<name>KIC 10577994</name>
-			<temperature errorminus="00" errorplus="200">5211</temperature>
+			<temperature errorminus="200" errorplus="200">5211</temperature>
 			<radius errorminus=".467" errorplus="0.467">0.770</radius>
 			<mass errorminus="0.0320" errorplus="0.0320">0.7900</mass>
 			<planet>
@@ -22918,7 +22918,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-166</name>
 			<name>KOI-481</name>
 			<name>KIC 11192998</name>
-			<temperature errorminus="00" errorplus="200">5413</temperature>
+			<temperature errorminus="200" errorplus="200">5413</temperature>
 			<radius errorminus=".382" errorplus="0.382">0.742</radius>
 			<mass errorminus="0.0780" errorplus="0.0780">0.8790</mass>
 			<planet>
@@ -22966,7 +22966,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-167</name>
 			<name>KOI-490</name>
 			<name>KIC 3239945</name>
-			<temperature errorminus="00" errorplus="100">4796</temperature>
+			<temperature errorminus="100" errorplus="100">4796</temperature>
 			<radius errorminus=".037" errorplus="0.037">0.696</radius>
 			<mass errorminus="0.0200" errorplus="0.0200">0.7130</mass>
 			<planet>
@@ -23014,7 +23014,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-168</name>
 			<name>KOI-497</name>
 			<name>KIC 4757437</name>
-			<temperature errorminus="00" errorplus="200">6282</temperature>
+			<temperature errorminus="200" errorplus="200">6282</temperature>
 			<radius errorminus=".496" errorplus="0.496">1.107</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.1200</mass>
 			<planet>
@@ -23062,7 +23062,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-169</name>
 			<name>KOI-505</name>
 			<name>KIC 5689351</name>
-			<temperature errorminus="00" errorplus="100">4997</temperature>
+			<temperature errorminus="100" errorplus="100">4997</temperature>
 			<radius errorminus=".046" errorplus="0.046">0.763</radius>
 			<mass errorminus="0.0520" errorplus="0.0520">0.9180</mass>
 			<planet>
@@ -23246,7 +23246,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-171</name>
 			<name>KOI-509</name>
 			<name>KIC 6381846</name>
-			<temperature errorminus="00" errorplus="200">5642</temperature>
+			<temperature errorminus="200" errorplus="200">5642</temperature>
 			<radius errorminus=".376" errorplus="0.376">0.839</radius>
 			<mass errorminus="0.0550" errorplus="0.0550">0.9310</mass>
 			<planet>
@@ -23310,7 +23310,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-172</name>
 			<name>KOI-510</name>
 			<name>KIC 6422155</name>
-			<temperature errorminus="00" errorplus="100">5526</temperature>
+			<temperature errorminus="100" errorplus="100">5526</temperature>
 			<radius errorminus=".191" errorplus="0.191">1.085</radius>
 			<mass errorminus="0.0760" errorplus="0.0760">0.8500</mass>
 			<planet>
@@ -23390,7 +23390,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-173</name>
 			<name>KOI-511</name>
 			<name>KIC 6451936</name>
-			<temperature errorminus="00" errorplus="200">6031</temperature>
+			<temperature errorminus="200" errorplus="200">6031</temperature>
 			<radius errorminus=".473" errorplus="0.473">0.949</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.0600</mass>
 			<planet>
@@ -23502,7 +23502,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-175</name>
 			<name>KOI-519</name>
 			<name>KIC 8022244</name>
-			<temperature errorminus="00" errorplus="200">6064</temperature>
+			<temperature errorminus="200" errorplus="200">6064</temperature>
 			<radius errorminus=".504" errorplus="0.504">1.010</radius>
 			<mass errorminus="0.0880" errorplus="0.0880">1.0450</mass>
 			<planet>
@@ -23550,7 +23550,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-176</name>
 			<name>KOI-520</name>
 			<name>KIC 8037145</name>
-			<temperature errorminus="00" errorplus="200">5232</temperature>
+			<temperature errorminus="200" errorplus="200">5232</temperature>
 			<radius errorminus=".456" errorplus="0.456">0.891</radius>
 			<planet>
 				<name>Kepler-176 c</name>
@@ -23613,7 +23613,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-178</name>
 			<name>KOI-528</name>
 			<name>KIC 9941859</name>
-			<temperature errorminus="00" errorplus="200">5676</temperature>
+			<temperature errorminus="200" errorplus="200">5676</temperature>
 			<radius errorminus=".454" errorplus="0.454">1.066</radius>
 			<mass errorminus="0.0950" errorplus="0.0950">0.8900</mass>
 			<planet>
@@ -23677,7 +23677,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-179</name>
 			<name>KOI-534</name>
 			<name>KIC 10554999</name>
-			<temperature errorminus="00" errorplus="200">5302</temperature>
+			<temperature errorminus="200" errorplus="200">5302</temperature>
 			<radius errorminus=".307" errorplus="0.307">0.759</radius>
 			<mass errorminus="0.0250" errorplus="0.0250">0.8420</mass>
 			<planet>
@@ -23804,7 +23804,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-180</name>
 			<name>KOI-542</name>
 			<name>KIC 11669239</name>
-			<temperature errorminus="00" errorplus="200">5731</temperature>
+			<temperature errorminus="200" errorplus="200">5731</temperature>
 			<radius errorminus=".471" errorplus="0.471">1.063</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9100</mass>
 			<planet>
@@ -23852,7 +23852,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-181</name>
 			<name>KOI-543</name>
 			<name>KIC 11823054</name>
-			<temperature errorminus="00" errorplus="200">5333</temperature>
+			<temperature errorminus="200" errorplus="200">5333</temperature>
 			<radius errorminus=".367" errorplus="0.367">0.749</radius>
 			<mass errorminus="0.0320" errorplus="0.0320">0.8530</mass>
 			<planet>
@@ -23900,7 +23900,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-182</name>
 			<name>KOI-546</name>
 			<name>KIC 12058931</name>
-			<temperature errorminus="00" errorplus="200">6250</temperature>
+			<temperature errorminus="200" errorplus="200">6250</temperature>
 			<radius errorminus=".512" errorplus="0.512">1.146</radius>
 			<mass errorminus="0.1500" errorplus="0.1500">1.1000</mass>
 			<planet>
@@ -23948,7 +23948,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-183</name>
 			<name>KOI-551</name>
 			<name>KIC 4270253</name>
-			<temperature errorminus="00" errorplus="200">5888</temperature>
+			<temperature errorminus="200" errorplus="200">5888</temperature>
 			<radius errorminus=".414" errorplus="0.414">0.958</radius>
 			<mass errorminus="0.0700" errorplus="0.0700">0.9900</mass>
 			<planet>
@@ -23996,7 +23996,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-184</name>
 			<name>KOI-567</name>
 			<name>KIC 7445445</name>
-			<temperature errorminus="00" errorplus="200">5788</temperature>
+			<temperature errorminus="200" errorplus="200">5788</temperature>
 			<radius errorminus=".490" errorplus="0.490">0.873</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">0.9700</mass>
 			<planet>
@@ -24060,7 +24060,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-185</name>
 			<name>KOI-569</name>
 			<name>KIC 8008206</name>
-			<temperature errorminus="00" errorplus="200">5208</temperature>
+			<temperature errorminus="200" errorplus="200">5208</temperature>
 			<radius errorminus=".460" errorplus="0.460">0.806</radius>
 			<mass errorminus="0.0780" errorplus="0.0780">0.7730</mass>
 			<planet>
@@ -24261,7 +24261,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-188</name>
 			<name>KOI-573</name>
 			<name>KIC 8344004</name>
-			<temperature errorminus="00" errorplus="200">6021</temperature>
+			<temperature errorminus="200" errorplus="200">6021</temperature>
 			<radius errorminus=".514" errorplus="0.514">1.141</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.0100</mass>
 			<planet>
@@ -24309,7 +24309,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-189</name>
 			<name>KOI-574</name>
 			<name>KIC 8355239</name>
-			<temperature errorminus="00" errorplus="200">5235</temperature>
+			<temperature errorminus="200" errorplus="200">5235</temperature>
 			<radius errorminus=".376" errorplus="0.376">0.750</radius>
 			<mass errorminus="0.0410" errorplus="0.0410">0.8240</mass>
 			<planet>
@@ -24397,7 +24397,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-190</name>
 			<name>KOI-579</name>
 			<name>KIC 8616637</name>
-			<temperature errorminus="00" errorplus="100">5106</temperature>
+			<temperature errorminus="100" errorplus="100">5106</temperature>
 			<radius errorminus=".049" errorplus="0.049">0.795</radius>
 			<mass errorminus="0.0480" errorplus="0.0480">0.8020</mass>
 			<planet>
@@ -24445,7 +24445,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-191</name>
 			<name>KOI-582</name>
 			<name>KIC 9020160</name>
-			<temperature errorminus="00" errorplus="200">5282</temperature>
+			<temperature errorminus="200" errorplus="200">5282</temperature>
 			<radius errorminus=".390" errorplus="0.390">0.789</radius>
 			<mass errorminus="0.0730" errorplus="0.0730">0.8280</mass>
 			<planet>
@@ -24493,7 +24493,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-192</name>
 			<name>KOI-584</name>
 			<name>KIC 9146018</name>
-			<temperature errorminus="00" errorplus="100">5479</temperature>
+			<temperature errorminus="100" errorplus="100">5479</temperature>
 			<radius errorminus=".164" errorplus="0.164">1.007</radius>
 			<mass errorminus="0.0350" errorplus="0.0350">0.9050</mass>
 			<planet>
@@ -24541,7 +24541,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-193</name>
 			<name>KOI-590</name>
 			<name>KIC 9782691</name>
-			<temperature errorminus="00" errorplus="200">6335</temperature>
+			<temperature errorminus="200" errorplus="200">6335</temperature>
 			<radius errorminus=".515" errorplus="0.515">1.147</radius>
 			<mass errorminus="0.0860" errorplus="0.0860">1.1390</mass>
 			<planet>
@@ -24589,7 +24589,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-194</name>
 			<name>KOI-597</name>
 			<name>KIC 10600261</name>
-			<temperature errorminus="00" errorplus="200">6089</temperature>
+			<temperature errorminus="200" errorplus="200">6089</temperature>
 			<radius errorminus=".537" errorplus="0.537">1.025</radius>
 			<mass errorminus="0.0920" errorplus="0.0920">1.0530</mass>
 			<planet>
@@ -24653,7 +24653,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-195</name>
 			<name>KOI-598</name>
 			<name>KIC 10656823</name>
-			<temperature errorminus="00" errorplus="200">5329</temperature>
+			<temperature errorminus="200" errorplus="200">5329</temperature>
 			<radius errorminus=".284" errorplus="0.284">0.775</radius>
 			<mass errorminus="0.0460" errorplus="0.0460">0.8430</mass>
 			<planet>
@@ -24701,7 +24701,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-196</name>
 			<name>KOI-612</name>
 			<name>KIC 6587002</name>
-			<temperature errorminus="00" errorplus="100">5128</temperature>
+			<temperature errorminus="100" errorplus="100">5128</temperature>
 			<radius errorminus=".056" errorplus="0.056">0.782</radius>
 			<planet>
 				<name>Kepler-196 b</name>
@@ -24828,7 +24828,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-198</name>
 			<name>KOI-624</name>
 			<name>KIC 3541946</name>
-			<temperature errorminus="00" errorplus="100">5574</temperature>
+			<temperature errorminus="100" errorplus="100">5574</temperature>
 			<radius errorminus=".139" errorplus="0.139">0.940</radius>
 			<mass errorminus="0.0450" errorplus="0.0450">0.9580</mass>
 			<planet>
@@ -25033,7 +25033,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-200</name>
 			<name>KOI-654</name>
 			<name>KIC 5941160</name>
-			<temperature errorminus="00" errorplus="100">5678</temperature>
+			<temperature errorminus="100" errorplus="100">5678</temperature>
 			<radius errorminus=".158" errorplus="0.158">0.944</radius>
 			<mass errorminus="0.0990" errorplus="0.0990">1.0420</mass>
 			<planet>
@@ -25129,7 +25129,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-202</name>
 			<name>KOI-657</name>
 			<name>KIC 6020753</name>
-			<temperature errorminus="00" errorplus="100">4668</temperature>
+			<temperature errorminus="100" errorplus="100">4668</temperature>
 			<radius errorminus=".034" errorplus="0.034">0.667</radius>
 			<mass errorminus="0.0180" errorplus="0.0180">0.6830</mass>
 			<planet>
@@ -25177,7 +25177,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-203</name>
 			<name>KOI-658</name>
 			<name>KIC 6062088</name>
-			<temperature errorminus="00" errorplus="100">5821</temperature>
+			<temperature errorminus="100" errorplus="100">5821</temperature>
 			<radius errorminus=".213" errorplus="0.213">1.114</radius>
 			<mass errorminus="0.1500" errorplus="0.1500">1.0100</mass>
 			<planet>
@@ -25241,7 +25241,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-204</name>
 			<name>KOI-661</name>
 			<name>KIC 6347299</name>
-			<temperature errorminus="00" errorplus="100">5812</temperature>
+			<temperature errorminus="100" errorplus="100">5812</temperature>
 			<radius errorminus=".263" errorplus="0.263">1.238</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">1.0500</mass>
 			<planet>
@@ -25289,7 +25289,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-205</name>
 			<name>KOI-663</name>
 			<name>KIC 6425957</name>
-			<temperature errorminus="00" errorplus="100">4321</temperature>
+			<temperature errorminus="100" errorplus="100">4321</temperature>
 			<radius errorminus=".022" errorplus="0.022">0.546</radius>
 			<mass errorminus="0.0140" errorplus="0.0140">0.5920</mass>
 			<planet>
@@ -25337,7 +25337,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-206</name>
 			<name>KOI-664</name>
 			<name>KIC 6442340</name>
-			<temperature errorminus="00" errorplus="100">5764</temperature>
+			<temperature errorminus="100" errorplus="100">5764</temperature>
 			<radius errorminus=".228" errorplus="0.228">1.185</radius>
 			<mass errorminus="0.0980" errorplus="0.0980">1.0210</mass>
 			<planet>
@@ -25465,7 +25465,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-208</name>
 			<name>KOI-671</name>
 			<name>KIC 7040629</name>
-			<temperature errorminus="00" errorplus="100">6092</temperature>
+			<temperature errorminus="100" errorplus="100">6092</temperature>
 			<radius errorminus=".243" errorplus="0.243">1.314</radius>
 			<mass>0.9630</mass>
 			<planet>
@@ -25545,7 +25545,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-209</name>
 			<name>KOI-672</name>
 			<name>KIC 7115785</name>
-			<temperature errorminus="00" errorplus="100">5513</temperature>
+			<temperature errorminus="100" errorplus="100">5513</temperature>
 			<radius errorminus=".138" errorplus="0.138">0.935</radius>
 			<mass errorminus="0.0320" errorplus="0.0320">0.9310</mass>
 			<planet>
@@ -25695,7 +25695,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-211</name>
 			<name>KOI-678</name>
 			<name>KIC 7509886</name>
-			<temperature errorminus="00" errorplus="100">5123</temperature>
+			<temperature errorminus="100" errorplus="100">5123</temperature>
 			<radius errorminus=".054" errorplus="0.054">0.816</radius>
 			<mass errorminus="0.0570" errorplus="0.0570">0.9140</mass>
 			<planet>
@@ -25743,7 +25743,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-212</name>
 			<name>KOI-679</name>
 			<name>KIC 7515212</name>
-			<temperature errorminus="00" errorplus="100">5852</temperature>
+			<temperature errorminus="100" errorplus="100">5852</temperature>
 			<radius errorminus=".272" errorplus="0.272">1.455</radius>
 			<mass errorminus="0.0370" errorplus="0.0370">1.1660</mass>
 			<planet>
@@ -25791,7 +25791,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-213</name>
 			<name>KOI-692</name>
 			<name>KIC 8557374</name>
-			<temperature errorminus="00" errorplus="100">5696</temperature>
+			<temperature errorminus="100" errorplus="100">5696</temperature>
 			<radius errorminus=".223" errorplus="0.223">1.195</radius>
 			<mass errorminus="0.0400" errorplus="0.0400">0.9760</mass>
 			<planet>
@@ -25839,7 +25839,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-214</name>
 			<name>KOI-693</name>
 			<name>KIC 8738735</name>
-			<temperature errorminus="00" errorplus="100">6169</temperature>
+			<temperature errorminus="100" errorplus="100">6169</temperature>
 			<radius errorminus=".252" errorplus="0.252">1.352</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.1500</mass>
 			<planet>
@@ -26111,7 +26111,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-219</name>
 			<name>KOI-718</name>
 			<name>KIC 9884104</name>
-			<temperature errorminus="00" errorplus="100">5786</temperature>
+			<temperature errorminus="100" errorplus="100">5786</temperature>
 			<radius errorminus=".249" errorplus="0.249">1.491</radius>
 			<mass errorminus="0.0610" errorplus="0.0610">1.1710</mass>
 			<planet>
@@ -26219,7 +26219,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-220</name>
 			<name>KOI-719</name>
 			<name>KIC 9950612</name>
-			<temperature errorminus="00" errorplus="100">4632</temperature>
+			<temperature errorminus="100" errorplus="100">4632</temperature>
 			<radius errorminus=".034" errorplus="0.034">0.666</radius>
 			<mass errorminus="0.0240" errorplus="0.0240">0.7170</mass>
 			<planet>
@@ -26299,7 +26299,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-221</name>
 			<name>KOI-720</name>
 			<name>KIC 9963524</name>
-			<temperature errorminus="00" errorplus="100">5243</temperature>
+			<temperature errorminus="100" errorplus="100">5243</temperature>
 			<radius errorminus=".075" errorplus="0.075">0.821</radius>
 			<mass errorminus="0.0330" errorplus="0.0330">0.8160</mass>
 			<planet>
@@ -26379,7 +26379,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-222</name>
 			<name>KOI-723</name>
 			<name>KIC 10002866</name>
-			<temperature errorminus="00" errorplus="200">5433</temperature>
+			<temperature errorminus="200" errorplus="200">5433</temperature>
 			<radius errorminus=".380" errorplus="0.380">0.869</radius>
 			<mass errorminus="0.0500" errorplus="0.0500">0.8570</mass>
 			<planet>
@@ -26443,7 +26443,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-223</name>
 			<name>KOI-730</name>
 			<name>KIC 10227020</name>
-			<temperature errorminus="00" errorplus="200">5829</temperature>
+			<temperature errorminus="200" errorplus="200">5829</temperature>
 			<radius errorminus=".438" errorplus="0.438">1.017</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9500</mass>
 			<planet>
@@ -26523,7 +26523,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-224</name>
 			<name>KOI-733</name>
 			<name>KIC 10271806</name>
-			<temperature errorminus="00" errorplus="100">5018</temperature>
+			<temperature errorminus="100" errorplus="100">5018</temperature>
 			<radius errorminus=".038" errorplus="0.038">0.676</radius>
 			<mass errorminus="0.0310" errorplus="0.0310">0.8250</mass>
 			<planet>
@@ -26650,7 +26650,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-226</name>
 			<name>KOI-749</name>
 			<name>KIC 10601284</name>
-			<temperature errorminus="00" errorplus="200">5571</temperature>
+			<temperature errorminus="200" errorplus="200">5571</temperature>
 			<radius errorminus=".318" errorplus="0.318">0.802</radius>
 			<mass errorminus="0.0370" errorplus="0.0370">0.9120</mass>
 			<planet>
@@ -26714,7 +26714,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-227</name>
 			<name>KOI-752</name>
 			<name>KIC 10797460</name>
-			<temperature errorminus="00" errorplus="200">5854</temperature>
+			<temperature errorminus="200" errorplus="200">5854</temperature>
 			<radius errorminus=".547" errorplus="0.547">1.091</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9200</mass>
 			<planet>
@@ -26762,7 +26762,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-228</name>
 			<name>KOI-756</name>
 			<name>KIC 10872983</name>
-			<temperature errorminus="00" errorplus="200">6043</temperature>
+			<temperature errorminus="200" errorplus="200">6043</temperature>
 			<radius errorminus=".465" errorplus="0.465">1.014</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.0400</mass>
 			<planet>
@@ -26826,7 +26826,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-229</name>
 			<name>KOI-757</name>
 			<name>KIC 10910878</name>
-			<temperature errorminus="00" errorplus="200">5120</temperature>
+			<temperature errorminus="200" errorplus="200">5120</temperature>
 			<radius errorminus=".257" errorplus="0.257">0.728</radius>
 			<mass errorminus="0.0880" errorplus="0.0880">0.7940</mass>
 			<planet>
@@ -26890,7 +26890,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-23</name>
 			<name>KOI-168</name>
 			<name>KIC 11512246</name>
-			<temperature errorminus="00" errorplus="100">5828</temperature>
+			<temperature errorminus="100" errorplus="100">5828</temperature>
 			<radius errorminus=".048" errorplus="0.048">1.548</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">1.1900</mass>
 			<planet>
@@ -26954,7 +26954,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-230</name>
 			<name>KOI-759</name>
 			<name>KIC 11018648</name>
-			<temperature errorminus="00" errorplus="200">5588</temperature>
+			<temperature errorminus="200" errorplus="200">5588</temperature>
 			<radius errorminus=".415" errorplus="0.415">0.817</radius>
 			<mass errorminus="0.0520" errorplus="0.0520">0.9180</mass>
 			<planet>
@@ -27050,7 +27050,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-232</name>
 			<name>KOI-787</name>
 			<name>KIC 12366084</name>
-			<temperature errorminus="00" errorplus="200">5847</temperature>
+			<temperature errorminus="200" errorplus="200">5847</temperature>
 			<radius errorminus=".460" errorplus="0.460">0.968</radius>
 			<mass errorminus="0.1000" errorplus="0.1000">0.9640</mass>
 			<planet>
@@ -27098,7 +27098,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-233</name>
 			<name>KOI-790</name>
 			<name>KIC 12470844</name>
-			<temperature errorminus="00" errorplus="200">5360</temperature>
+			<temperature errorminus="200" errorplus="200">5360</temperature>
 			<radius errorminus=".206" errorplus="0.206">0.758</radius>
 			<mass errorminus="0.0240" errorplus="0.0240">0.8550</mass>
 			<planet>
@@ -27146,7 +27146,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-234</name>
 			<name>KOI-800</name>
 			<name>KIC 3342970</name>
-			<temperature errorminus="00" errorplus="200">6224</temperature>
+			<temperature errorminus="200" errorplus="200">6224</temperature>
 			<radius errorminus=".495" errorplus="0.495">1.113</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.0900</mass>
 			<planet>
@@ -27194,7 +27194,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-235</name>
 			<name>KOI-812</name>
 			<name>KIC 4139816</name>
-			<temperature errorminus="00" errorplus="100">4255</temperature>
+			<temperature errorminus="100" errorplus="100">4255</temperature>
 			<radius errorminus=".021" errorplus="0.021">0.554</radius>
 			<mass errorminus="0.0180" errorplus="0.0180">0.5810</mass>
 			<planet>
@@ -27322,7 +27322,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-237</name>
 			<name>KOI-825</name>
 			<name>KIC 5252423</name>
-			<temperature errorminus="00" errorplus="200">4861</temperature>
+			<temperature errorminus="200" errorplus="200">4861</temperature>
 			<radius errorminus=".383" errorplus="0.383">0.725</radius>
 			<mass errorminus="0.0170" errorplus="0.0170">0.6960</mass>
 			<planet>
@@ -27370,7 +27370,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-238</name>
 			<name>KOI-834</name>
 			<name>KIC 5436502</name>
-			<temperature errorminus="00" errorplus="100">5751</temperature>
+			<temperature errorminus="100" errorplus="100">5751</temperature>
 			<radius errorminus=".264" errorplus="0.264">1.430</radius>
 			<mass errorminus="0.3300" errorplus="0.3300">0.9700</mass>
 			<planet>
@@ -27466,7 +27466,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-239</name>
 			<name>KOI-835</name>
 			<name>KIC 5456651</name>
-			<temperature errorminus="00" errorplus="100">4914</temperature>
+			<temperature errorminus="100" errorplus="100">4914</temperature>
 			<radius errorminus=".044" errorplus="0.044">0.763</radius>
 			<mass errorminus="0.0190" errorplus="0.0190">0.7570</mass>
 			<planet>
@@ -27594,7 +27594,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-240</name>
 			<name>KOI-837</name>
 			<name>KIC 5531576</name>
-			<temperature errorminus="00" errorplus="200">4985</temperature>
+			<temperature errorminus="200" errorplus="200">4985</temperature>
 			<radius errorminus=".299" errorplus="0.299">0.739</radius>
 			<mass errorminus="0.0220" errorplus="0.0220">0.7530</mass>
 			<planet>
@@ -27642,7 +27642,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-241</name>
 			<name>KOI-842</name>
 			<name>KIC 5794379</name>
-			<temperature errorminus="00" errorplus="200">4699</temperature>
+			<temperature errorminus="200" errorplus="200">4699</temperature>
 			<radius errorminus=".289" errorplus="0.289">0.668</radius>
 			<mass errorminus="0.0170" errorplus="0.0170">0.6710</mass>
 			<planet>
@@ -27690,7 +27690,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-242</name>
 			<name>KOI-853</name>
 			<name>KIC 6428700</name>
-			<temperature errorminus="00" errorplus="200">5020</temperature>
+			<temperature errorminus="200" errorplus="200">5020</temperature>
 			<radius errorminus=".522" errorplus="0.522">0.850</radius>
 			<mass errorminus="0.0860" errorplus="0.0860">0.7200</mass>
 			<planet>
@@ -27738,7 +27738,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-243</name>
 			<name>KOI-857</name>
 			<name>KIC 6587280</name>
-			<temperature errorminus="00" errorplus="200">5228</temperature>
+			<temperature errorminus="200" errorplus="200">5228</temperature>
 			<radius errorminus=".398" errorplus="0.398">0.842</radius>
 			<mass errorminus="0.0700" errorplus="0.0700">0.7890</mass>
 			<planet>
@@ -27786,7 +27786,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-244</name>
 			<name>KOI-864</name>
 			<name>KIC 6849310</name>
-			<temperature errorminus="00" errorplus="200">5554</temperature>
+			<temperature errorminus="200" errorplus="200">5554</temperature>
 			<radius errorminus=".338" errorplus="0.338">0.803</radius>
 			<mass errorminus="0.0900" errorplus="0.0900">0.9100</mass>
 			<planet>
@@ -27850,7 +27850,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-245</name>
 			<name>KOI-869</name>
 			<name>KIC 6948054</name>
-			<temperature errorminus="00" errorplus="100">5100</temperature>
+			<temperature errorminus="100" errorplus="100">5100</temperature>
 			<radius errorminus=".053" errorplus="0.053">0.795</radius>
 			<mass errorminus="0.0640" errorplus="0.0640">0.7770</mass>
 			<planet>
@@ -27914,7 +27914,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-246</name>
 			<name>KOI-874</name>
 			<name>KIC 7134976</name>
-			<temperature errorminus="00" errorplus="200">5206</temperature>
+			<temperature errorminus="200" errorplus="200">5206</temperature>
 			<radius errorminus=".422" errorplus="0.422">0.831</radius>
 			<mass errorminus="0.0660" errorplus="0.0660">0.7590</mass>
 			<planet>
@@ -27962,7 +27962,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-247</name>
 			<name>KOI-884</name>
 			<name>KIC 7434875</name>
-			<temperature errorminus="00" errorplus="200">5100</temperature>
+			<temperature errorminus="200" errorplus="200">5100</temperature>
 			<radius errorminus=".214" errorplus="0.214">0.768</radius>
 			<mass errorminus="0.0430" errorplus="0.0430">0.7730</mass>
 			<planet>
@@ -28200,7 +28200,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-250</name>
 			<name>KOI-906</name>
 			<name>KIC 8226994</name>
-			<temperature errorminus="00" errorplus="200">5160</temperature>
+			<temperature errorminus="200" errorplus="200">5160</temperature>
 			<radius errorminus=".462" errorplus="0.462">0.805</radius>
 			<mass errorminus="0.0850" errorplus="0.0850">0.7530</mass>
 			<planet>
@@ -28264,7 +28264,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-251</name>
 			<name>KOI-907</name>
 			<name>KIC 8247638</name>
-			<temperature errorminus="00" errorplus="100">5526</temperature>
+			<temperature errorminus="100" errorplus="100">5526</temperature>
 			<radius errorminus=".155" errorplus="0.155">0.890</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9600</mass>
 			<planet>
@@ -28392,7 +28392,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-253</name>
 			<name>KOI-921</name>
 			<name>KIC 8689373</name>
-			<temperature errorminus="00" errorplus="200">5208</temperature>
+			<temperature errorminus="200" errorplus="200">5208</temperature>
 			<radius errorminus=".322" errorplus="0.322">0.786</radius>
 			<mass errorminus="0.0910" errorplus="0.0910">0.8080</mass>
 			<planet>
@@ -28456,7 +28456,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-254</name>
 			<name>KOI-934</name>
 			<name>KIC 9334289</name>
-			<temperature errorminus="00" errorplus="200">5957</temperature>
+			<temperature errorminus="200" errorplus="200">5957</temperature>
 			<radius errorminus=".433" errorplus="0.433">0.910</radius>
 			<mass errorminus="0.0590" errorplus="0.0590">1.0210</mass>
 			<planet>
@@ -28520,7 +28520,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-255</name>
 			<name>KOI-938</name>
 			<name>KIC 9415172</name>
-			<temperature errorminus="00" errorplus="200">5573</temperature>
+			<temperature errorminus="200" errorplus="200">5573</temperature>
 			<radius errorminus=".368" errorplus="0.368">0.933</radius>
 			<mass errorminus="0.0650" errorplus="0.0650">0.8780</mass>
 			<planet>
@@ -28648,7 +28648,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-257</name>
 			<name>KOI-941</name>
 			<name>KIC 9480189</name>
-			<temperature errorminus="00" errorplus="200">5180</temperature>
+			<temperature errorminus="200" errorplus="200">5180</temperature>
 			<radius errorminus=".518" errorplus="0.518">1.037</radius>
 			<mass errorminus="0.1400" errorplus="0.1400">0.7400</mass>
 			<planet>
@@ -28712,7 +28712,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-258</name>
 			<name>KOI-951</name>
 			<name>KIC 9775938</name>
-			<temperature errorminus="00" errorplus="200">4942</temperature>
+			<temperature errorminus="200" errorplus="200">4942</temperature>
 			<radius errorminus=".611" errorplus="0.611">0.915</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.7000</mass>
 			<planet>
@@ -28760,7 +28760,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-259</name>
 			<name>KOI-954</name>
 			<name>KIC 9823457</name>
-			<temperature errorminus="00" errorplus="200">5938</temperature>
+			<temperature errorminus="200" errorplus="200">5938</temperature>
 			<radius errorminus=".435" errorplus="0.435">0.898</radius>
 			<mass errorminus="0.0690" errorplus="0.0690">1.0150</mass>
 			<planet>
@@ -28936,7 +28936,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-261</name>
 			<name>KOI-988</name>
 			<name>KIC 2302548</name>
-			<temperature errorminus="00" errorplus="100">5098</temperature>
+			<temperature errorminus="100" errorplus="100">5098</temperature>
 			<radius errorminus=".050" errorplus="0.050">0.794</radius>
 			<mass errorminus="0.0300" errorplus="0.0300">0.8760</mass>
 			<planet>
@@ -28984,7 +28984,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-262</name>
 			<name>KOI-993</name>
 			<name>KIC 1718189</name>
-			<temperature errorminus="00" errorplus="200">5841</temperature>
+			<temperature errorminus="200" errorplus="200">5841</temperature>
 			<radius errorminus=".361" errorplus="0.361">0.881</radius>
 			<planet>
 				<name>Kepler-262 c</name>
@@ -29031,7 +29031,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-263</name>
 			<name>KOI-999</name>
 			<name>KIC 2165002</name>
-			<temperature errorminus="00" errorplus="200">5265</temperature>
+			<temperature errorminus="200" errorplus="200">5265</temperature>
 			<radius errorminus=".427" errorplus="0.427">0.785</radius>
 			<mass errorminus="0.0370" errorplus="0.0370">0.8010</mass>
 			<planet>
@@ -29079,7 +29079,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-264</name>
 			<name>KOI-1001</name>
 			<name>KIC 1871056</name>
-			<temperature errorminus="00" errorplus="100">6158</temperature>
+			<temperature errorminus="100" errorplus="100">6158</temperature>
 			<radius errorminus=".314" errorplus="0.314">1.550</radius>
 			<mass errorminus="0.1500" errorplus="0.1500">1.3700</mass>
 			<planet>
@@ -29255,7 +29255,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-267</name>
 			<name>KOI-1078</name>
 			<name>KIC 10166274</name>
-			<temperature errorminus="00" errorplus="100">4258</temperature>
+			<temperature errorminus="100" errorplus="100">4258</temperature>
 			<radius errorminus=".021" errorplus="0.021">0.555</radius>
 			<mass errorminus="0.0380" errorplus="0.0380">0.5520</mass>
 			<planet>
@@ -29319,7 +29319,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-268</name>
 			<name>KOI-1113</name>
 			<name>KIC 2854914</name>
-			<temperature errorminus="00" errorplus="100">6081</temperature>
+			<temperature errorminus="100" errorplus="100">6081</temperature>
 			<radius errorminus=".234" errorplus="0.234">1.274</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
 			<planet>
@@ -29463,7 +29463,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-270</name>
 			<name>KOI-1148</name>
 			<name>KIC 8410727</name>
-			<temperature errorminus="00" errorplus="100">6067</temperature>
+			<temperature errorminus="100" errorplus="100">6067</temperature>
 			<radius errorminus=".284" errorplus="0.284">1.461</radius>
 			<mass errorminus="0.1400" errorplus="0.1400">1.1700</mass>
 			<planet>
@@ -29511,7 +29511,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-271</name>
 			<name>KOI-1151</name>
 			<name>KIC 8280511</name>
-			<temperature errorminus="00" errorplus="100">5524</temperature>
+			<temperature errorminus="100" errorplus="100">5524</temperature>
 			<radius errorminus=".158" errorplus="0.158">0.880</radius>
 			<planet>
 				<name>Kepler-271 b</name>
@@ -29558,7 +29558,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-272</name>
 			<name>KOI-1161</name>
 			<name>KIC 10426656</name>
-			<temperature errorminus="00" errorplus="200">5297</temperature>
+			<temperature errorminus="200" errorplus="200">5297</temperature>
 			<radius errorminus=".497" errorplus="0.497">0.929</radius>
 			<mass errorminus="0.1700" errorplus="0.1700">0.7900</mass>
 			<planet>
@@ -29622,7 +29622,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-273</name>
 			<name>KOI-1163</name>
 			<name>KIC 10468940</name>
-			<temperature errorminus="00" errorplus="200">5626</temperature>
+			<temperature errorminus="200" errorplus="200">5626</temperature>
 			<radius errorminus=".464" errorplus="0.464">0.815</radius>
 			<mass errorminus="0.0600" errorplus="0.0600">0.9160</mass>
 			<planet>
@@ -29670,7 +29670,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-274</name>
 			<name>KOI-1196</name>
 			<name>KIC 3348082</name>
-			<temperature errorminus="00" errorplus="200">6023</temperature>
+			<temperature errorminus="200" errorplus="200">6023</temperature>
 			<radius errorminus=".541" errorplus="0.541">1.007</radius>
 			<planet>
 				<name>Kepler-274 b</name>
@@ -29694,7 +29694,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<name>KOI-1196.03</name>
 				<name>KIC 3348082 c</name>
 				<name>KIC 3348082.03</name>
-				<radius errorminus="0.00000" errorplus="0.09113">0.16768</radius>
+				<radius errorminus="0.09113" errorplus="0.09113">0.16768</radius>
 				<period errorminus=".000894" errorplus="0.000894">33.197861</period>
 				<transittime errorminus="0.0176900" errorplus="0.0176900">2454975.1004400</transittime>
 				<list>Confirmed planets</list>
@@ -29717,7 +29717,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-275</name>
 			<name>KOI-1198</name>
 			<name>KIC 3447722</name>
-			<temperature errorminus="00" errorplus="100">6165</temperature>
+			<temperature errorminus="100" errorplus="100">6165</temperature>
 			<radius errorminus=".258" errorplus="0.258">1.383</radius>
 			<mass errorminus="0.0700" errorplus="0.0700">1.1980</mass>
 			<planet>
@@ -29781,7 +29781,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-276</name>
 			<name>KOI-1203</name>
 			<name>KIC 3962243</name>
-			<temperature errorminus="00" errorplus="200">6105</temperature>
+			<temperature errorminus="200" errorplus="200">6105</temperature>
 			<radius errorminus=".485" errorplus="0.485">1.046</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">1.0500</mass>
 			<planet>
@@ -30057,7 +30057,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-280</name>
 			<name>KOI-1240</name>
 			<name>KIC 6690082</name>
-			<temperature errorminus="00" errorplus="200">5744</temperature>
+			<temperature errorminus="200" errorplus="200">5744</temperature>
 			<radius errorminus=".426" errorplus="0.426">0.886</radius>
 			<mass errorminus="0.0560" errorplus="0.0560">0.9570</mass>
 			<planet>
@@ -30105,7 +30105,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-281</name>
 			<name>KOI-1258</name>
 			<name>KIC 8630788</name>
-			<temperature errorminus="00" errorplus="200">5723</temperature>
+			<temperature errorminus="200" errorplus="200">5723</temperature>
 			<radius errorminus=".347" errorplus="0.347">0.899</radius>
 			<mass errorminus="0.0920" errorplus="0.0920">0.9430</mass>
 			<planet>
@@ -30233,7 +30233,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-283</name>
 			<name>KOI-1298</name>
 			<name>KIC 10604335</name>
-			<temperature errorminus="00" errorplus="100">4351</temperature>
+			<temperature errorminus="100" errorplus="100">4351</temperature>
 			<radius errorminus=".024" errorplus="0.024">0.566</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.5960</mass>
 			<planet>
@@ -30281,7 +30281,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-284</name>
 			<name>KOI-1301</name>
 			<name>KIC 10538176</name>
-			<temperature errorminus="00" errorplus="200">5615</temperature>
+			<temperature errorminus="200" errorplus="200">5615</temperature>
 			<radius errorminus=".356" errorplus="0.356">0.814</radius>
 			<mass errorminus="0.0420" errorplus="0.0420">0.9230</mass>
 			<planet>
@@ -30329,7 +30329,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-285</name>
 			<name>KOI-1305</name>
 			<name>KIC 10730034</name>
-			<temperature errorminus="00" errorplus="200">5411</temperature>
+			<temperature errorminus="200" errorplus="200">5411</temperature>
 			<radius errorminus=".348" errorplus="0.348">0.808</radius>
 			<mass errorminus="0.0600" errorplus="0.0600">0.8650</mass>
 			<planet>
@@ -30457,7 +30457,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-287</name>
 			<name>KOI-1307</name>
 			<name>KIC 10973814</name>
-			<temperature errorminus="00" errorplus="200">5806</temperature>
+			<temperature errorminus="200" errorplus="200">5806</temperature>
 			<radius errorminus=".466" errorplus="0.466">1.032</radius>
 			<mass errorminus="0.0950" errorplus="0.0950">0.9300</mass>
 			<planet>
@@ -30666,7 +30666,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-290</name>
 			<name>KOI-1360</name>
 			<name>KIC 7102227</name>
-			<temperature errorminus="00" errorplus="200">5147</temperature>
+			<temperature errorminus="200" errorplus="200">5147</temperature>
 			<radius errorminus=".382" errorplus="0.382">0.743</radius>
 			<mass errorminus="0.0340" errorplus="0.0340">0.7980</mass>
 			<planet>
@@ -30714,7 +30714,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-291</name>
 			<name>KOI-1363</name>
 			<name>KIC 6936909</name>
-			<temperature errorminus="00" errorplus="200">6002</temperature>
+			<temperature errorminus="200" errorplus="200">6002</temperature>
 			<radius errorminus=".441" errorplus="0.441">1.016</radius>
 			<mass errorminus="0.1000" errorplus="0.1000">1.0100</mass>
 			<planet>
@@ -30762,7 +30762,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-292</name>
 			<name>KOI-1364</name>
 			<name>KIC 6962977</name>
-			<temperature errorminus="00" errorplus="100">5299</temperature>
+			<temperature errorminus="100" errorplus="100">5299</temperature>
 			<radius errorminus=".073" errorplus="0.073">0.826</radius>
 			<mass errorminus="0.0780" errorplus="0.0780">0.8340</mass>
 			<planet>
@@ -30858,7 +30858,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-293</name>
 			<name>KOI-1366</name>
 			<name>KIC 6932987</name>
-			<temperature errorminus="00" errorplus="200">5804</temperature>
+			<temperature errorminus="200" errorplus="200">5804</temperature>
 			<radius errorminus=".398" errorplus="0.398">0.957</radius>
 			<mass errorminus="0.0630" errorplus="0.0630">0.9530</mass>
 			<planet>
@@ -30906,7 +30906,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-294</name>
 			<name>KOI-1396</name>
 			<name>KIC 9455556</name>
-			<temperature errorminus="00" errorplus="200">5913</temperature>
+			<temperature errorminus="200" errorplus="200">5913</temperature>
 			<radius errorminus=".455" errorplus="0.455">0.976</radius>
 			<mass errorminus="0.0980" errorplus="0.0980">0.9940</mass>
 			<planet>
@@ -30954,7 +30954,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-295</name>
 			<name>KOI-1413</name>
 			<name>KIC 9006449</name>
-			<temperature errorminus="00" errorplus="200">5603</temperature>
+			<temperature errorminus="200" errorplus="200">5603</temperature>
 			<radius errorminus=".473" errorplus="0.473">0.898</radius>
 			<mass errorminus="0.0520" errorplus="0.0520">0.8850</mass>
 			<planet>
@@ -31018,7 +31018,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-296</name>
 			<name>KOI-1422</name>
 			<name>KIC 11497958</name>
-			<temperature errorminus="00" errorplus="100">4249</temperature>
+			<temperature errorminus="100" errorplus="100">4249</temperature>
 			<radius errorminus=".021" errorplus="0.021">0.557</radius>
 			<mass errorminus="0.0330" errorplus="0.0330">0.5160</mass>
 			<planet>
@@ -31114,7 +31114,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-297</name>
 			<name>KOI-1426</name>
 			<name>KIC 11122894</name>
-			<temperature errorminus="00" errorplus="100">5619</temperature>
+			<temperature errorminus="100" errorplus="100">5619</temperature>
 			<radius errorminus=".165" errorplus="0.165">0.915</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.0700</mass>
 			<planet>
@@ -31162,7 +31162,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-298</name>
 			<name>KOI-1430</name>
 			<name>KIC 11176127</name>
-			<temperature errorminus="00" errorplus="100">4465</temperature>
+			<temperature errorminus="100" errorplus="100">4465</temperature>
 			<radius errorminus=".025" errorplus="0.025">0.582</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.6600</mass>
 			<planet>
@@ -31306,7 +31306,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-300</name>
 			<name>KOI-1435</name>
 			<name>KIC 11037335</name>
-			<temperature errorminus="00" errorplus="200">5986</temperature>
+			<temperature errorminus="200" errorplus="200">5986</temperature>
 			<radius errorminus=".410" errorplus="0.410">0.900</radius>
 			<mass errorminus="0.0840" errorplus="0.0840">1.0350</mass>
 			<planet>
@@ -31354,7 +31354,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-301</name>
 			<name>KOI-1436</name>
 			<name>KIC 11389771</name>
-			<temperature errorminus="00" errorplus="200">5815</temperature>
+			<temperature errorminus="200" errorplus="200">5815</temperature>
 			<radius errorminus=".481" errorplus="0.481">0.900</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9700</mass>
 			<planet>
@@ -31514,7 +31514,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-304</name>
 			<name>KOI-1557</name>
 			<name>KIC 5371776</name>
-			<temperature errorminus="00" errorplus="100">4731</temperature>
+			<temperature errorminus="100" errorplus="100">4731</temperature>
 			<radius errorminus=".037" errorplus="0.037">0.687</radius>
 			<mass errorminus="0.0450" errorplus="0.0450">0.6870</mass>
 			<planet>
@@ -31578,7 +31578,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-305</name>
 			<name>KOI-1563</name>
 			<name>KIC 5219234</name>
-			<temperature errorminus="00" errorplus="100">5100</temperature>
+			<temperature errorminus="100" errorplus="100">5100</temperature>
 			<radius errorminus=".050" errorplus="0.050">0.794</radius>
 			<mass errorminus="0.3000" errorplus="0.3000">0.9000</mass>
 			<planet>
@@ -31642,7 +31642,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-306</name>
 			<name>KOI-1567</name>
 			<name>KIC 5438099</name>
-			<temperature errorminus="00" errorplus="100">4954</temperature>
+			<temperature errorminus="100" errorplus="100">4954</temperature>
 			<radius errorminus=".041" errorplus="0.041">0.719</radius>
 			<mass errorminus="0.3000" errorplus="0.3000">0.9300</mass>
 			<planet>
@@ -31785,7 +31785,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-308</name>
 			<name>KOI-1593</name>
 			<name>KIC 5289854</name>
-			<temperature errorminus="00" errorplus="200">5895</temperature>
+			<temperature errorminus="200" errorplus="200">5895</temperature>
 			<radius errorminus=".452" errorplus="0.452">0.941</radius>
 			<mass errorminus="0.0900" errorplus="0.0900">0.9970</mass>
 			<planet>
@@ -31833,7 +31833,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-309</name>
 			<name>KOI-1596</name>
 			<name>KIC 10027323</name>
-			<temperature errorminus="00" errorplus="100">4713</temperature>
+			<temperature errorminus="100" errorplus="100">4713</temperature>
 			<radius errorminus=".040" errorplus="0.040">0.721</radius>
 			<mass errorminus="0.0210" errorplus="0.0210">0.6660</mass>
 			<planet>
@@ -31945,7 +31945,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-310</name>
 			<name>KOI-1598</name>
 			<name>KIC 10004738</name>
-			<temperature errorminus="00" errorplus="200">5797</temperature>
+			<temperature errorminus="200" errorplus="200">5797</temperature>
 			<radius errorminus=".406" errorplus="0.406">0.876</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">0.9700</mass>
 			<planet>
@@ -32056,7 +32056,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-312</name>
 			<name>KOI-1628</name>
 			<name>KIC 6975129</name>
-			<temperature errorminus="00" errorplus="100">6115</temperature>
+			<temperature errorminus="100" errorplus="100">6115</temperature>
 			<radius errorminus=".283" errorplus="0.283">1.467</radius>
 			<planet>
 				<name>Kepler-312 c</name>
@@ -32103,7 +32103,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-313</name>
 			<name>KOI-1647</name>
 			<name>KIC 11153121</name>
-			<temperature errorminus="00" errorplus="100">5727</temperature>
+			<temperature errorminus="100" errorplus="100">5727</temperature>
 			<radius errorminus=".162" errorplus="0.162">1.536</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">0.9600</mass>
 			<planet>
@@ -32151,7 +32151,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-314</name>
 			<name>KOI-1692</name>
 			<name>KIC 6616218</name>
-			<temperature errorminus="00" errorplus="100">5378</temperature>
+			<temperature errorminus="100" errorplus="100">5378</temperature>
 			<radius errorminus=".135" errorplus="0.135">0.950</radius>
 			<mass errorminus="0.0210" errorplus="0.0210">1.0240</mass>
 			<planet>
@@ -32246,7 +32246,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-316</name>
 			<name>KOI-1713</name>
 			<name>KIC 8230616</name>
-			<temperature errorminus="00" errorplus="200">4204</temperature>
+			<temperature errorminus="200" errorplus="200">4204</temperature>
 			<radius errorminus=".052" errorplus="0.052">0.520</radius>
 			<mass errorminus="0.0140" errorplus="0.0140">0.5870</mass>
 			<planet>
@@ -32294,7 +32294,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-317</name>
 			<name>KOI-1760</name>
 			<name>KIC 3967760</name>
-			<temperature errorminus="00" errorplus="200">5497</temperature>
+			<temperature errorminus="200" errorplus="200">5497</temperature>
 			<radius errorminus=".429" errorplus="0.429">0.941</radius>
 			<mass errorminus="0.0810" errorplus="0.0810">0.8160</mass>
 			<planet>
@@ -32342,7 +32342,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-318</name>
 			<name>KOI-1779</name>
 			<name>KIC 9909735</name>
-			<temperature errorminus="00" errorplus="100">5746</temperature>
+			<temperature errorminus="100" errorplus="100">5746</temperature>
 			<radius errorminus=".210" errorplus="0.210">1.189</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">0.9800</mass>
 			<planet>
@@ -32390,7 +32390,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-319</name>
 			<name>KOI-1805</name>
 			<name>KIC 4644952</name>
-			<temperature errorminus="00" errorplus="100">5526</temperature>
+			<temperature errorminus="100" errorplus="100">5526</temperature>
 			<radius errorminus=".125" errorplus="0.125">0.903</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9600</mass>
 			<planet>
@@ -32550,7 +32550,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-320</name>
 			<name>KOI-1806</name>
 			<name>KIC 9529744</name>
-			<temperature errorminus="00" errorplus="200">6435</temperature>
+			<temperature errorminus="200" errorplus="200">6435</temperature>
 			<radius errorminus=".519" errorplus="0.519">1.108</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.1800</mass>
 			<planet>
@@ -32598,7 +32598,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-321</name>
 			<name>KOI-1809</name>
 			<name>KIC 8240797</name>
-			<temperature errorminus="00" errorplus="100">5740</temperature>
+			<temperature errorminus="100" errorplus="100">5740</temperature>
 			<radius errorminus=".230" errorplus="0.230">1.194</radius>
 			<mass>0.8980</mass>
 			<planet>
@@ -32646,7 +32646,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-322</name>
 			<name>KOI-1820</name>
 			<name>KIC 8277797</name>
-			<temperature errorminus="00" errorplus="100">5388</temperature>
+			<temperature errorminus="100" errorplus="100">5388</temperature>
 			<radius errorminus=".096" errorplus="0.096">0.890</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">0.9000</mass>
 			<planet>
@@ -32742,7 +32742,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-324</name>
 			<name>KOI-1831</name>
 			<name>KIC 11601584</name>
-			<temperature errorminus="00" errorplus="100">5194</temperature>
+			<temperature errorminus="100" errorplus="100">5194</temperature>
 			<radius errorminus=".072" errorplus="0.072">0.840</radius>
 			<mass errorminus="0.1500" errorplus="0.1500">0.8500</mass>
 			<planet>
@@ -32790,7 +32790,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-325</name>
 			<name>KOI-1832</name>
 			<name>KIC 11709244</name>
-			<temperature errorminus="00" errorplus="200">5752</temperature>
+			<temperature errorminus="200" errorplus="200">5752</temperature>
 			<radius errorminus=".497" errorplus="0.497">1.003</radius>
 			<mass errorminus="0.0650" errorplus="0.0650">0.9180</mass>
 			<planet>
@@ -32854,7 +32854,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-326</name>
 			<name>KOI-1835</name>
 			<name>KIC 9471268</name>
-			<temperature errorminus="00" errorplus="100">5105</temperature>
+			<temperature errorminus="100" errorplus="100">5105</temperature>
 			<radius errorminus=".052" errorplus="0.052">0.801</radius>
 			<mass errorminus="0.0680" errorplus="0.0680">0.9140</mass>
 			<planet>
@@ -32918,7 +32918,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-327</name>
 			<name>KOI-1867</name>
 			<name>KIC 8167996</name>
-			<temperature errorminus="00" errorplus="100">3799</temperature>
+			<temperature errorminus="100" errorplus="100">3799</temperature>
 			<radius errorminus=".016" errorplus="0.016">0.492</radius>
 			<mass errorminus="0.0350" errorplus="0.0350">0.5470</mass>
 			<planet>
@@ -32982,7 +32982,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-329</name>
 			<name>KOI-1874</name>
 			<name>KIC 8978528</name>
-			<temperature errorminus="00" errorplus="200">4257</temperature>
+			<temperature errorminus="200" errorplus="200">4257</temperature>
 			<radius errorminus=".052" errorplus="0.052">0.523</radius>
 			<mass errorminus="0.0140" errorplus="0.0140">0.6020</mass>
 			<planet>
@@ -33134,7 +33134,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-330</name>
 			<name>KOI-1891</name>
 			<name>KIC 8680979</name>
-			<temperature errorminus="00" errorplus="200">5117</temperature>
+			<temperature errorminus="200" errorplus="200">5117</temperature>
 			<radius errorminus=".267" errorplus="0.267">0.722</radius>
 			<mass errorminus="0.0310" errorplus="0.0310">0.7920</mass>
 			<planet>
@@ -33182,7 +33182,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-331</name>
 			<name>KOI-1895</name>
 			<name>KIC 4263293</name>
-			<temperature errorminus="00" errorplus="200">4347</temperature>
+			<temperature errorminus="200" errorplus="200">4347</temperature>
 			<radius errorminus=".047" errorplus="0.047">0.492</radius>
 			<mass errorminus="0.0140" errorplus="0.0140">0.6530</mass>
 			<planet>
@@ -33246,7 +33246,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-332</name>
 			<name>KOI-1905</name>
 			<name>KIC 10328393</name>
-			<temperature errorminus="00" errorplus="100">4955</temperature>
+			<temperature errorminus="100" errorplus="100">4955</temperature>
 			<radius errorminus=".041" errorplus="0.041">0.720</radius>
 			<planet>
 				<name>Kepler-332 b</name>
@@ -33309,7 +33309,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-333</name>
 			<name>KOI-1908</name>
 			<name>KIC 5706966</name>
-			<temperature errorminus="00" errorplus="200">4259</temperature>
+			<temperature errorminus="200" errorplus="200">4259</temperature>
 			<radius errorminus=".054" errorplus="0.054">0.534</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.6010</mass>
 			<planet>
@@ -33357,7 +33357,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-334</name>
 			<name>KOI-1909</name>
 			<name>KIC 10130039</name>
-			<temperature errorminus="00" errorplus="100">5828</temperature>
+			<temperature errorminus="100" errorplus="100">5828</temperature>
 			<radius errorminus=".194" errorplus="0.194">1.068</radius>
 			<mass errorminus="0.1500" errorplus="0.1500">1.0600</mass>
 			<planet>
@@ -33468,7 +33468,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-336</name>
 			<name>KOI-1916</name>
 			<name>KIC 6037581</name>
-			<temperature errorminus="00" errorplus="100">5867</temperature>
+			<temperature errorminus="100" errorplus="100">5867</temperature>
 			<radius errorminus=".230" errorplus="0.230">1.304</radius>
 			<mass errorminus="0.0600" errorplus="0.0600">1.0570</mass>
 			<planet>
@@ -33644,7 +33644,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-339</name>
 			<name>KOI-1931</name>
 			<name>KIC 10978763</name>
-			<temperature errorminus="00" errorplus="200">5631</temperature>
+			<temperature errorminus="200" errorplus="200">5631</temperature>
 			<radius errorminus=".362" errorplus="0.362">0.802</radius>
 			<mass errorminus="0.0370" errorplus="0.0370">0.9340</mass>
 			<planet>
@@ -33801,7 +33801,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-341</name>
 			<name>KOI-1952</name>
 			<name>KIC 7747425</name>
-			<temperature errorminus="00" errorplus="200">6012</temperature>
+			<temperature errorminus="200" errorplus="200">6012</temperature>
 			<radius errorminus=".519" errorplus="0.519">1.024</radius>
 			<mass errorminus="0.0830" errorplus="0.0830">1.0120</mass>
 			<planet>
@@ -33881,7 +33881,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-342</name>
 			<name>KOI-1955</name>
 			<name>KIC 9892816</name>
-			<temperature errorminus="00" errorplus="100">6175</temperature>
+			<temperature errorminus="100" errorplus="100">6175</temperature>
 			<radius errorminus=".257" errorplus="0.257">1.472</radius>
 			<planet>
 				<name>Kepler-342 b</name>
@@ -33944,7 +33944,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-343</name>
 			<name>KOI-1960</name>
 			<name>KIC 6949061</name>
-			<temperature errorminus="00" errorplus="100">5807</temperature>
+			<temperature errorminus="100" errorplus="100">5807</temperature>
 			<radius errorminus=".261" errorplus="0.261">1.433</radius>
 			<planet>
 				<name>Kepler-343 b</name>
@@ -33991,7 +33991,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-344</name>
 			<name>KOI-1970</name>
 			<name>KIC 9650808</name>
-			<temperature errorminus="00" errorplus="200">5774</temperature>
+			<temperature errorminus="200" errorplus="200">5774</temperature>
 			<radius errorminus=".454" errorplus="0.454">0.976</radius>
 			<mass errorminus="0.2000" errorplus="0.2000">0.9300</mass>
 			<planet>
@@ -34039,7 +34039,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-345</name>
 			<name>KOI-1977</name>
 			<name>KIC 9412760</name>
-			<temperature errorminus="00" errorplus="100">4504</temperature>
+			<temperature errorminus="100" errorplus="100">4504</temperature>
 			<radius errorminus=".029" errorplus="0.029">0.623</radius>
 			<mass errorminus="0.0140" errorplus="0.0140">0.6100</mass>
 			<planet>
@@ -34087,7 +34087,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-346</name>
 			<name>KOI-1978</name>
 			<name>KIC 9518318</name>
-			<temperature errorminus="00" errorplus="200">6033</temperature>
+			<temperature errorminus="200" errorplus="200">6033</temperature>
 			<radius errorminus=".476" errorplus="0.476">1.021</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.0200</mass>
 			<planet>
@@ -34135,7 +34135,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-347</name>
 			<name>KOI-1992</name>
 			<name>KIC 11450414</name>
-			<temperature errorminus="00" errorplus="200">6088</temperature>
+			<temperature errorminus="200" errorplus="200">6088</temperature>
 			<radius errorminus=".464" errorplus="0.464">1.005</radius>
 			<planet>
 				<name>Kepler-347 b</name>
@@ -34182,7 +34182,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-348</name>
 			<name>KOI-2011</name>
 			<name>KIC 5384079</name>
-			<temperature errorminus="00" errorplus="100">6177</temperature>
+			<temperature errorminus="100" errorplus="100">6177</temperature>
 			<radius errorminus=".251" errorplus="0.251">1.359</radius>
 			<planet>
 				<name>Kepler-348 b</name>
@@ -34229,7 +34229,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-349</name>
 			<name>KOI-2022</name>
 			<name>KIC 8564674</name>
-			<temperature errorminus="00" errorplus="200">5956</temperature>
+			<temperature errorminus="200" errorplus="200">5956</temperature>
 			<radius errorminus=".349" errorplus="0.349">0.927</radius>
 			<mass errorminus="0.0500" errorplus="0.0500">1.0170</mass>
 			<planet>
@@ -34325,7 +34325,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-350</name>
 			<name>KOI-2025</name>
 			<name>KIC 4636578</name>
-			<temperature errorminus="00" errorplus="100">6186</temperature>
+			<temperature errorminus="100" errorplus="100">6186</temperature>
 			<radius errorminus=".306" errorplus="0.306">1.534</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
 			<planet>
@@ -34389,7 +34389,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-351</name>
 			<name>KOI-2028</name>
 			<name>KIC 7102316</name>
-			<temperature errorminus="00" errorplus="200">5643</temperature>
+			<temperature errorminus="200" errorplus="200">5643</temperature>
 			<radius errorminus=".414" errorplus="0.414">0.854</radius>
 			<planet>
 				<name>Kepler-351 c</name>
@@ -34436,7 +34436,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-352</name>
 			<name>KOI-2029</name>
 			<name>KIC 9489524</name>
-			<temperature errorminus="00" errorplus="100">5212</temperature>
+			<temperature errorminus="100" errorplus="100">5212</temperature>
 			<radius errorminus=".053" errorplus="0.053">0.781</radius>
 			<planet>
 				<name>Kepler-352 c</name>
@@ -34483,7 +34483,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-353</name>
 			<name>KOI-2036</name>
 			<name>KIC 6382217</name>
-			<temperature errorminus="00" errorplus="100">3903</temperature>
+			<temperature errorminus="100" errorplus="100">3903</temperature>
 			<radius errorminus=".016" errorplus="0.016">0.504</radius>
 			<mass errorminus="0.0100" errorplus="0.0100">0.5530</mass>
 			<planet>
@@ -34531,7 +34531,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-354</name>
 			<name>KOI-2045</name>
 			<name>KIC 6026438</name>
-			<temperature errorminus="00" errorplus="200">4648</temperature>
+			<temperature errorminus="200" errorplus="200">4648</temperature>
 			<radius errorminus=".210" errorplus="0.210">0.674</radius>
 			<planet>
 				<name>Kepler-354 b</name>
@@ -34642,7 +34642,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-356</name>
 			<name>KOI-2053</name>
 			<name>KIC 2307415</name>
-			<temperature errorminus="00" errorplus="100">6133</temperature>
+			<temperature errorminus="100" errorplus="100">6133</temperature>
 			<radius errorminus=".243" errorplus="0.243">1.335</radius>
 			<mass errorminus="0.0970" errorplus="0.0970">1.1300</mass>
 			<planet>
@@ -34690,7 +34690,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-357</name>
 			<name>KOI-2073</name>
 			<name>KIC 8164257</name>
-			<temperature errorminus="00" errorplus="200">5036</temperature>
+			<temperature errorminus="200" errorplus="200">5036</temperature>
 			<radius errorminus=".487" errorplus="0.487">0.834</radius>
 			<mass errorminus="0.0840" errorplus="0.0840">0.7270</mass>
 			<planet>
@@ -34754,7 +34754,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-358</name>
 			<name>KOI-2080</name>
 			<name>KIC 10864531</name>
-			<temperature errorminus="00" errorplus="200">5908</temperature>
+			<temperature errorminus="200" errorplus="200">5908</temperature>
 			<radius errorminus=".476" errorplus="0.476">0.954</radius>
 			<mass errorminus="0.0880" errorplus="0.0880">0.9980</mass>
 			<planet>
@@ -34810,7 +34810,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<name>KOI-2092.01</name>
 				<name>KIC 6696580 c</name>
 				<name>KIC 6696580.01</name>
-				<radius errorminus="0.00000" errorplus="0.18226">0.39186</radius>
+				<radius errorminus="0.18226" errorplus="0.18226">0.39186</radius>
 				<period errorminus=".000545" errorplus="0.000545">57.688020</period>
 				<transittime errorminus="0.0066700" errorplus="0.0066700">2454972.9413600</transittime>
 				<list>Confirmed planets</list>
@@ -34926,7 +34926,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-360</name>
 			<name>KOI-2111</name>
 			<name>KIC 8612275</name>
-			<temperature errorminus="00" errorplus="200">6053</temperature>
+			<temperature errorminus="200" errorplus="200">6053</temperature>
 			<radius errorminus=".501" errorplus="0.501">1.058</radius>
 			<mass errorminus="0.0970" errorplus="0.0970">1.0250</mass>
 			<planet>
@@ -34951,7 +34951,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<name>KOI-2111.02</name>
 				<name>KIC 8612275 c</name>
 				<name>KIC 8612275.02</name>
-				<radius errorminus="0.00000" errorplus="0.09113">0.19137</radius>
+				<radius errorminus="0.09113" errorplus="0.09113">0.19137</radius>
 				<period errorminus=".000029" errorplus="0.000029">7.186434</period>
 				<transittime errorminus="0.0026300" errorplus="0.0026300">2454969.6227300</transittime>
 				<list>Confirmed planets</list>
@@ -34974,7 +34974,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-361</name>
 			<name>KOI-2135</name>
 			<name>KIC 9904006</name>
-			<temperature errorminus="00" errorplus="100">6169</temperature>
+			<temperature errorminus="100" errorplus="100">6169</temperature>
 			<radius errorminus=".255" errorplus="0.255">1.343</radius>
 			<planet>
 				<name>Kepler-361 c</name>
@@ -35021,7 +35021,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-362</name>
 			<name>KOI-2147</name>
 			<name>KIC 10404582</name>
-			<temperature errorminus="00" errorplus="200">5788</temperature>
+			<temperature errorminus="200" errorplus="200">5788</temperature>
 			<radius errorminus=".304" errorplus="0.304">0.722</radius>
 			<planet>
 				<name>Kepler-362 c</name>
@@ -35068,7 +35068,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-363</name>
 			<name>KOI-2148</name>
 			<name>KIC 6021193</name>
-			<temperature errorminus="00" errorplus="100">5593</temperature>
+			<temperature errorminus="100" errorplus="100">5593</temperature>
 			<radius errorminus=".231" errorplus="0.231">1.485</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">1.0700</mass>
 			<planet>
@@ -35180,7 +35180,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-365</name>
 			<name>KOI-2163</name>
 			<name>KIC 11358389</name>
-			<temperature errorminus="00" errorplus="200">6012</temperature>
+			<temperature errorminus="200" errorplus="200">6012</temperature>
 			<radius errorminus=".487" errorplus="0.487">1.048</radius>
 			<planet>
 				<name>Kepler-365 b</name>
@@ -35227,7 +35227,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-366</name>
 			<name>KOI-2168</name>
 			<name>KIC 11308499</name>
-			<temperature errorminus="00" errorplus="200">6209</temperature>
+			<temperature errorminus="200" errorplus="200">6209</temperature>
 			<radius errorminus=".470" errorplus="0.470">1.048</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.1000</mass>
 			<planet>
@@ -35275,7 +35275,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-367</name>
 			<name>KOI-2173</name>
 			<name>KIC 11774991</name>
-			<temperature errorminus="00" errorplus="100">4710</temperature>
+			<temperature errorminus="100" errorplus="100">4710</temperature>
 			<radius errorminus=".037" errorplus="0.037">0.695</radius>
 			<mass errorminus="0.0180" errorplus="0.0180">0.6770</mass>
 			<planet>
@@ -35371,7 +35371,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-369</name>
 			<name>KOI-2179</name>
 			<name>KIC 10670119</name>
-			<temperature errorminus="00" errorplus="100">3591</temperature>
+			<temperature errorminus="100" errorplus="100">3591</temperature>
 			<radius errorminus=".014" errorplus="0.014">0.471</radius>
 			<mass errorminus="0.3000" errorplus="0.3000">0.4700</mass>
 			<planet>
@@ -35496,7 +35496,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-370</name>
 			<name>KOI-2183</name>
 			<name>KIC 5706595</name>
-			<temperature errorminus="00" errorplus="200">5852</temperature>
+			<temperature errorminus="200" errorplus="200">5852</temperature>
 			<radius errorminus=".416" errorplus="0.416">0.900</radius>
 			<planet>
 				<name>Kepler-370 c</name>
@@ -35590,7 +35590,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-372</name>
 			<name>KOI-2195</name>
 			<name>KIC 11401767</name>
-			<temperature errorminus="00" errorplus="200">6509</temperature>
+			<temperature errorminus="200" errorplus="200">6509</temperature>
 			<radius errorminus=".488" errorplus="0.488">1.137</radius>
 			<mass errorminus="0.0082" errorplus="0.0082">1.2020</mass>
 			<planet>
@@ -35654,7 +35654,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-373</name>
 			<name>KOI-2218</name>
 			<name>KIC 12058204</name>
-			<temperature errorminus="00" errorplus="200">5787</temperature>
+			<temperature errorminus="200" errorplus="200">5787</temperature>
 			<radius errorminus=".418" errorplus="0.418">0.845</radius>
 			<mass errorminus="0.0720" errorplus="0.0720">0.9780</mass>
 			<planet>
@@ -35702,7 +35702,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-374</name>
 			<name>KOI-2220</name>
 			<name>KIC 6871071</name>
-			<temperature errorminus="00" errorplus="200">5977</temperature>
+			<temperature errorminus="200" errorplus="200">5977</temperature>
 			<radius errorminus=".474" errorplus="0.474">0.911</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.0300</mass>
 			<planet>
@@ -35766,7 +35766,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-375</name>
 			<name>KOI-2236</name>
 			<name>KIC 10723367</name>
-			<temperature errorminus="00" errorplus="200">5826</temperature>
+			<temperature errorminus="200" errorplus="200">5826</temperature>
 			<radius errorminus=".291" errorplus="0.291">0.837</radius>
 			<mass errorminus="0.0570" errorplus="0.0570">0.9850</mass>
 			<planet>
@@ -35814,7 +35814,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-376</name>
 			<name>KOI-2278</name>
 			<name>KIC 3342794</name>
-			<temperature errorminus="00" errorplus="100">5900</temperature>
+			<temperature errorminus="100" errorplus="100">5900</temperature>
 			<radius errorminus=".234" errorplus="0.234">1.175</radius>
 			<mass errorminus="0.0650" errorplus="0.0650">1.1400</mass>
 			<planet>
@@ -35910,7 +35910,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-378</name>
 			<name>KOI-2287</name>
 			<name>KIC 9718066</name>
-			<temperature errorminus="00" errorplus="100">4661</temperature>
+			<temperature errorminus="100" errorplus="100">4661</temperature>
 			<radius errorminus=".035" errorplus="0.035">0.671</radius>
 			<mass errorminus="0.0950" errorplus="0.0950">0.6660</mass>
 			<planet>
@@ -35958,7 +35958,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-379</name>
 			<name>KOI-2289</name>
 			<name>KIC 3867615</name>
-			<temperature errorminus="00" errorplus="100">6054</temperature>
+			<temperature errorminus="100" errorplus="100">6054</temperature>
 			<radius errorminus=".237" errorplus="0.237">1.306</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.1100</mass>
 			<planet>
@@ -36098,7 +36098,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-381</name>
 			<name>KOI-2352</name>
 			<name>KIC 8013439</name>
-			<temperature errorminus="00" errorplus="100">6152</temperature>
+			<temperature errorminus="100" errorplus="100">6152</temperature>
 			<radius errorminus=".350" errorplus="0.350">1.568</radius>
 			<mass>1.3780</mass>
 			<planet>
@@ -36146,7 +36146,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-382</name>
 			<name>KOI-2374</name>
 			<name>KIC 9364290</name>
-			<temperature errorminus="00" errorplus="200">5600</temperature>
+			<temperature errorminus="200" errorplus="200">5600</temperature>
 			<radius errorminus=".452" errorplus="0.452">0.945</radius>
 			<mass errorminus="0.0660" errorplus="0.0660">0.8740</mass>
 			<planet>
@@ -36194,7 +36194,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-383</name>
 			<name>KOI-2413</name>
 			<name>KIC 3234598</name>
-			<temperature errorminus="00" errorplus="200">4710</temperature>
+			<temperature errorminus="200" errorplus="200">4710</temperature>
 			<radius errorminus=".265" errorplus="0.265">0.672</radius>
 			<mass errorminus="0.0170" errorplus="0.0170">0.6690</mass>
 			<planet>
@@ -36338,7 +36338,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-386</name>
 			<name>KOI-2442</name>
 			<name>KIC 11080405</name>
-			<temperature errorminus="00" errorplus="200">5178</temperature>
+			<temperature errorminus="200" errorplus="200">5178</temperature>
 			<radius errorminus=".429" errorplus="0.429">0.767</radius>
 			<mass errorminus="0.0530" errorplus="0.0530">0.7810</mass>
 			<planet>
@@ -36434,7 +36434,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-388</name>
 			<name>KOI-2466</name>
 			<name>KIC 8544992</name>
-			<temperature errorminus="00" errorplus="200">4498</temperature>
+			<temperature errorminus="200" errorplus="200">4498</temperature>
 			<radius errorminus=".069" errorplus="0.069">0.586</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.6350</mass>
 			<planet>
@@ -36529,7 +36529,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-390</name>
 			<name>KOI-2498</name>
 			<name>KIC 5959719</name>
-			<temperature errorminus="00" errorplus="100">5166</temperature>
+			<temperature errorminus="100" errorplus="100">5166</temperature>
 			<radius errorminus=".053" errorplus="0.053">0.776</radius>
 			<mass errorminus="0.0390" errorplus="0.0390">0.8440</mass>
 			<planet>
@@ -36577,7 +36577,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-391</name>
 			<name>KOI-2541</name>
 			<name>KIC 12306058</name>
-			<temperature errorminus="00" errorplus="100">4940</temperature>
+			<temperature errorminus="100" errorplus="100">4940</temperature>
 			<radius errorminus=".853" errorplus="0.853">3.569</radius>
 			<planet>
 				<name>Kepler-391 b</name>
@@ -36671,7 +36671,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-393</name>
 			<name>KOI-2595</name>
 			<name>KIC 8883329</name>
-			<temperature errorminus="00" errorplus="100">6189</temperature>
+			<temperature errorminus="100" errorplus="100">6189</temperature>
 			<radius errorminus=".263" errorplus="0.263">1.382</radius>
 			<mass errorminus="0.1800" errorplus="0.1800">1.3800</mass>
 			<planet>
@@ -36719,7 +36719,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-394</name>
 			<name>KOI-2597</name>
 			<name>KIC 12120307</name>
-			<temperature errorminus="00" errorplus="200">6402</temperature>
+			<temperature errorminus="200" errorplus="200">6402</temperature>
 			<radius errorminus=".580" errorplus="0.580">1.132</radius>
 			<mass errorminus="0.1300" errorplus="0.1300">1.1700</mass>
 			<planet>
@@ -36767,7 +36767,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-395</name>
 			<name>KOI-2650</name>
 			<name>KIC 8890150</name>
-			<temperature errorminus="00" errorplus="100">4262</temperature>
+			<temperature errorminus="100" errorplus="100">4262</temperature>
 			<radius errorminus=".022" errorplus="0.022">0.556</radius>
 			<mass errorminus="0.0370" errorplus="0.0370">0.5470</mass>
 			<planet>
@@ -36815,7 +36815,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-397</name>
 			<name>KOI-2681</name>
 			<name>KIC 6878240</name>
-			<temperature errorminus="00" errorplus="100">5307</temperature>
+			<temperature errorminus="100" errorplus="100">5307</temperature>
 			<radius errorminus=".066" errorplus="0.066">0.767</radius>
 			<mass errorminus="0.0320" errorplus="0.0320">0.8440</mass>
 			<planet>
@@ -36863,7 +36863,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-398</name>
 			<name>KOI-2693</name>
 			<name>KIC 5185897</name>
-			<temperature errorminus="00" errorplus="100">4493</temperature>
+			<temperature errorminus="100" errorplus="100">4493</temperature>
 			<radius errorminus=".028" errorplus="0.028">0.613</radius>
 			<mass errorminus="0.0150" errorplus="0.0150">0.6490</mass>
 			<planet>
@@ -36911,7 +36911,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-399</name>
 			<name>KOI-2707</name>
 			<name>KIC 5480640</name>
-			<temperature errorminus="00" errorplus="200">5502</temperature>
+			<temperature errorminus="200" errorplus="200">5502</temperature>
 			<radius errorminus=".363" errorplus="0.363">0.680</radius>
 			<mass errorminus="0.0610" errorplus="0.0610">0.9270</mass>
 			<planet>
@@ -37015,7 +37015,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-400</name>
 			<name>KOI-2711</name>
 			<name>KIC 5272233</name>
-			<temperature errorminus="00" errorplus="100">5886</temperature>
+			<temperature errorminus="100" errorplus="100">5886</temperature>
 			<radius errorminus=".208" errorplus="0.208">1.145</radius>
 			<mass errorminus="0.1100" errorplus="0.1100">1.0300</mass>
 			<planet>
@@ -37063,7 +37063,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-401</name>
 			<name>KOI-2714</name>
 			<name>KIC 12206313</name>
-			<temperature errorminus="00" errorplus="100">6117</temperature>
+			<temperature errorminus="100" errorplus="100">6117</temperature>
 			<radius errorminus=".244" errorplus="0.244">1.333</radius>
 			<planet>
 				<name>Kepler-401 b</name>
@@ -37189,7 +37189,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-403</name>
 			<name>KOI-2732</name>
 			<name>KIC 9886361</name>
-			<temperature errorminus="00" errorplus="100">6090</temperature>
+			<temperature errorminus="100" errorplus="100">6090</temperature>
 			<radius errorminus=".236" errorplus="0.236">1.329</radius>
 			<planet>
 				<name>Kepler-403 b</name>
@@ -37236,7 +37236,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<name>Kepler-404</name>
 			<name>KOI-2768</name>
 			<name>KIC 9008737</name>
-			<temperature errorminus="00" errorplus="200">5654</temperature>
+			<temperature errorminus="200" errorplus="200">5654</temperature>
 			<radius errorminus=".331" errorplus="0.331">0.884</radius>
 			<mass errorminus="0.0640" errorplus="0.0640">0.9250</mass>
 			<planet>
@@ -38038,7 +38038,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>Kepler-49</name>
 			<name>KOI-248</name>
 			<name>KIC 5364071</name>
-			<temperature errorminus="00" errorplus="100">4252</temperature>
+			<temperature errorminus="100" errorplus="100">4252</temperature>
 			<radius errorminus=".021" errorplus="0.021">0.559</radius>
 			<mass errorminus="0.0090" errorplus="0.0090">0.5490</mass>
 			<planet>
@@ -38274,7 +38274,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>Kepler-52</name>
 			<name>KOI-775</name>
 			<name>KIC 11754553</name>
-			<temperature errorminus="00" errorplus="100">4263</temperature>
+			<temperature errorminus="100" errorplus="100">4263</temperature>
 			<radius errorminus=".021" errorplus="0.021">0.556</radius>
 			<mass errorminus="0.0140" errorplus="0.0140">0.5770</mass>
 			<planet>
@@ -38338,7 +38338,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>Kepler-53</name>
 			<name>KOI-829</name>
 			<name>KIC 5358241</name>
-			<temperature errorminus="00" errorplus="200">6085</temperature>
+			<temperature errorminus="200" errorplus="200">6085</temperature>
 			<radius errorminus=".466" errorplus="0.466">0.958</radius>
 			<mass errorminus="0.0930" errorplus="0.0930">1.0650</mass>
 			<planet>
@@ -38402,7 +38402,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>Kepler-54</name>
 			<name>KOI-886</name>
 			<name>KIC 7455287</name>
-			<temperature errorminus="00" errorplus="100">4252</temperature>
+			<temperature errorminus="100" errorplus="100">4252</temperature>
 			<radius errorminus=".021" errorplus="0.021">0.554</radius>
 			<mass errorminus="0.0330" errorplus="0.0330">0.5140</mass>
 			<planet>
@@ -38466,7 +38466,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>Kepler-55</name>
 			<name>KOI-904</name>
 			<name>KIC 8150320</name>
-			<temperature errorminus="00" errorplus="100">4503</temperature>
+			<temperature errorminus="100" errorplus="100">4503</temperature>
 			<radius errorminus=".028" errorplus="0.028">0.619</radius>
 			<mass errorminus="0.0160" errorplus="0.0160">0.6310</mass>
 			<planet>
@@ -38669,7 +38669,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>Kepler-58</name>
 			<name>KOI-1336</name>
 			<name>KIC 4077526</name>
-			<temperature errorminus="00" errorplus="200">6099</temperature>
+			<temperature errorminus="200" errorplus="200">6099</temperature>
 			<radius errorminus=".526" errorplus="0.526">1.127</radius>
 			<mass errorminus="0.1200" errorplus="0.1200">1.0400</mass>
 			<planet>
@@ -39591,7 +39591,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<name>Kepler-79</name>
 			<name>KOI-152</name>
 			<name>KIC 8394721</name>
-			<temperature errorminus="00" errorplus="100">6189</temperature>
+			<temperature errorminus="100" errorplus="100">6189</temperature>
 			<radius errorminus=".252" errorplus="0.252">1.403</radius>
 			<mass errorminus="0.1000" errorplus="0.1000">1.1800</mass>
 			<planet>
@@ -39854,7 +39854,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<name>Kepler-82</name>
 			<name>KOI-880</name>
 			<name>KIC 7366258</name>
-			<temperature errorminus="00" errorplus="100">5428</temperature>
+			<temperature errorminus="100" errorplus="100">5428</temperature>
 			<radius errorminus=".140" errorplus="0.140">0.945</radius>
 			<mass errorminus="0.0830" errorplus="0.0830">0.9220</mass>
 			<planet>
@@ -40094,7 +40094,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<name>Kepler-85</name>
 			<name>KOI-2038</name>
 			<name>KIC 8950568</name>
-			<temperature errorminus="00" errorplus="100">5436</temperature>
+			<temperature errorminus="100" errorplus="100">5436</temperature>
 			<radius errorminus=".130" errorplus="0.130">0.893</radius>
 			<mass errorminus="0.0650" errorplus="0.0650">0.9410</mass>
 			<planet>
@@ -41051,7 +41051,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<radius errorminus="0.026" errorplus="0.0347">0.37647</radius>
 				<period errorminus="6.4e-05" errorplus="0.00143">10.9542</period>
 				<transittime errorminus="0.0004700" errorplus="0.0004700">2454966.0190500</transittime>
-				<mass errorminus="0.0055264" errorplus="0">0.0055264</mass>
+				<mass errorminus="0.0055264" errorplus="0.0055264">0.0055264</mass>
 				<semimajoraxis>0.098</semimajoraxis>
 				<inclination errorminus="0.079" errorplus="0.088">0.931</inclination>
 				<eccentricity errorminus="0.00121" errorplus="0.00052">0.0561</eccentricity>
@@ -41119,7 +41119,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>Kepler-328 c</name>
 				<name>KIC 4939346 c</name>
 				<name>KIC 4939346.01</name>
-				<radius errorminus="0.00000" errorplus="0.18226">0.49210</radius>
+				<radius errorminus="0.18226" errorplus="0.18226">0.49210</radius>
 				<mass errorminus="0.00220" errorplus="0.28626">0.10286</mass>
 				<transittime errorminus="0.0043500" errorplus="0.0043500">2454965.3925800</transittime>
 				<period>71.312</period>
@@ -43471,7 +43471,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<name>PSR 1257 12 b</name>
 				<name>PSR B1257+12 b</name>
 				<list>Confirmed planets</list>
-				<mass>7e-05</mass>
+				<mass>0.00007</mass>
 				<period>25.262</period>
 				<semimajoraxis>0.19</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
@@ -43518,7 +43518,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<name>PSR 1719-1438</name>
 			<name>PSR 1719-14</name>
 			<mass>1.4</mass>
-			<radius>2.8735632e-05</radius>
+			<radius>0.000028735632</radius>
 			<planet>
 				<name>PSR J1719-1438 b</name>
 				<name>PSR 1719-14 b</name>
@@ -46418,7 +46418,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<list>Confirmed planets</list>
 				<mass errorminus="0.027" errorplus="0.027">0.378</mass>
 				<radius errorminus="0.047" errorplus="0.047">1.115</radius>
-				<period errorminus="0.0000056 " errorplus="0.0000056 ">2.7817387</period>
+				<period errorminus="0.0000056" errorplus="0.0000056">2.7817387</period>
 				<eccentricity>0</eccentricity>
 				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0379</semimajoraxis>
 				<inclination errorminus="0.19" errorplus="0.19">84.89</inclination>
