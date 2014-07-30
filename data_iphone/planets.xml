@@ -394,6 +394,7 @@
 	<planet>
 		<id_exoplaneteu>2M 044144 b</id_exoplaneteu>
 		<name>2M 044144 b</name>
+		<name>2MASS J04414489+2301513 b</name>
 		<id>2M 044144 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -437,6 +438,7 @@
 	<planet>
 		<id_exoplaneteu>2M 0746+20 b</id_exoplaneteu>
 		<name>2M 0746+20 b</name>
+		<name>2MASS J07464256+2000321 B</name>
 		<id>2M 0746+20 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -480,6 +482,7 @@
 	<planet>
 		<id_exoplaneteu>2M 2140+16 b</id_exoplaneteu>
 		<name>2M 2140+16 b</name>
+		<name>2MASS J21402931+1625183 b</name>
 		<id>2M 2140+16 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -523,6 +526,7 @@
 	<planet>
 		<id_exoplaneteu>2M 2206-20 b</id_exoplaneteu>
 		<name>2M 2206-20 b</name>
+		<name>2MASS J22062280-2047058 b</name>
 		<id>2M 2206-20 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -2389,6 +2393,8 @@
 	<planet>
 		<id_exoplaneteu>CFBDSIR2149</id_exoplaneteu>
 		<name>CFBDSIR2149</name>
+		<name>CFBDSIR J214947.2-040308.9</name>
+		<name>CFBDS J214947-040308</name>
 		<id>CFBDSIR2149</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -72982,49 +72988,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-202 b</id_exoplaneteu>
-		<name>KOI-202 b</name>
-		<id>KOI-202 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.88</mass>
-			<radius>1.02</radius>
-			<orbit>
-				<period>1.72</period>
-				<semimajoraxis>0.029</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype />
-			<mass>0.88</mass>
-			<radius>1.04</radius>
-			<metallicity>0.12</metallicity>
-			<distance />
-			<temperature>1561.1</temperature>
-			<rightascension>19 04 26</rightascension>
-			<declination>+43 40 52</declination>
-			<angulardistance />
-			<magV>13.73</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/06/05</lastupdate>
-		<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>KOI-206 b</id_exoplaneteu>
 		<name>KOI-206 b</name>
 		<id>KOI-206 b</id>
@@ -75134,6 +75097,7 @@ Image credit: Joe Gallagher</imagedescription>
 		<id_exoplaneteu>NGC 4349 No 127 b</id_exoplaneteu>
 		<name>NGC 4349 No 127 b</name>
 		<name>NGC 4349 127 b</name>
+		<name>NGC 4349 MMU 127 b</name>
 		<id>NGC 4349 No 127 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -77464,6 +77428,8 @@ Credit: Thayne Currie.</imagedescription>
 	<planet>
 		<id_exoplaneteu>SAND364 b</id_exoplaneteu>
 		<name>SAND364 b</name>
+		<name>NGC 2682 SAND 364 b</name>
+		<name>BD+12 1917 b</name>
 		<id>SAND364 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -82595,8 +82561,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity />
 			<distance>3200</distance>
 			<temperature>6250</temperature>
-			<rightascension>19 35 58</rightascension>
-			<declination>+36 17 25</declination>
+			<rightascension>19 35 56.41</rightascension>
+			<declination>+36 17 46.76</declination>
 			<angulardistance />
 			<magV>16.13</magV>
 			<magI />
@@ -83071,6 +83037,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 	<planet>
 		<id_exoplaneteu>YBP1514 b</id_exoplaneteu>
 		<name>YBP1514 b</name>
+		<name>NGC 2682 YBP 1514 b</name>
 		<id>YBP1514 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
