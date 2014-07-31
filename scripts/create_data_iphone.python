@@ -58,6 +58,14 @@ tree.write("../data_iphone/stats.xml")
 #########################################
 ####NEW DATABASE FORMAT##################
 #########################################
+def convertseparationtosemimajoraxis(planettree):
+    binaries = planettree.findall(".//binary")
+    for binary in binaries:
+        semia = binary.findall("./semimajoraxis")
+        if not semia or len(semia)==0:
+            sep = binary.findall("./separation[@unit='AU']")
+            if sep and len(sep) ==1:
+                ElementTree.SubElement(binary,"semimajoraxis").text = sep[0].text
 
 def traverse(node):  #remove empty elements
 	children = node.getchildren()
@@ -88,6 +96,7 @@ def database(name,description,inputdirectories):
 			planet = open(filename, 'rt')
 			planettree = ElementTree.parse(planet).getroot()
 			traverse(planettree)
+			convertseparationtosemimajoraxis(planettree)
 			root.append(planettree)
 		
 	# wrap it in an ElementTree instance, and save as XML

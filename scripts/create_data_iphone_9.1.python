@@ -43,6 +43,15 @@ def traverse(node):  #remove empty elements
 ####NEW SYSTEM DATABASE FORMAT###########
 #########################################
 
+def convertseparationtosemimajoraxis(planettree):
+    binaries = planettree.findall(".//binary")
+    for binary in binaries:
+        semia = binary.findall("./semimajoraxis")
+        if not semia or len(semia)==0:
+            sep = binary.findall("./separation[@unit='AU']")
+            if sep and len(sep) ==1:
+                ElementTree.SubElement(binary,"semimajoraxis").text = sep[0].text
+
 def databasesystems(name,description,inputdirectories):
 	numpl = 0
 	systems = 0
@@ -53,6 +62,7 @@ def databasesystems(name,description,inputdirectories):
 			planet = open(filename, 'rt')
 			planettree = ElementTree.parse(planet).getroot()
 			traverse(planettree)
+			convertseparationtosemimajoraxis(planettree)
 			root.append(planettree)
 			numpl += len(planettree.findall(".//planet"))
 			systems +=1

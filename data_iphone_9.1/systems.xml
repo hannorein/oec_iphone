@@ -137,7 +137,9 @@
 		<declination>+50 31 03</declination>
 		<distance>21.41</distance>
 		<binary>
-			<semimajoraxis>850</semimajoraxis>
+			<separation unit="arcsec">39.8</separation>
+			<separation unit="AU">852</separation>
+			<positionangle>313</positionangle>
 			<star>
 				<name>16 Cygni B</name>
 				<name>16 Cyg B</name>
@@ -166,7 +168,9 @@
 				<temperature>5766.0</temperature>
 			</star>
 			<binary>
-				<semimajoraxis>70</semimajoraxis>
+				<separation unit="arcsec">3.4</separation>
+				<separation unit="AU">73</separation>
+				<positionangle>209</positionangle>
 				<star>
 					<name>16 Cygni A</name>
 					<name>16 Cyg A</name>
@@ -179,7 +183,9 @@
 					<name>HD 186427 C</name>
 					<mass>0.17</mass>
 				</star>
+				<semimajoraxis>73</semimajoraxis>
 			</binary>
+			<semimajoraxis>852</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -624,7 +630,9 @@
 		<declination>+28 20 02</declination>
 		<distance errorminus="0.1" errorplus="0.1">12.3</distance>
 		<binary>
-			<semimajoraxis>1100</semimajoraxis>
+			<separation unit="arcsec">84</separation>
+			<separation unit="AU">1033</separation>
+			<positionangle>130</positionangle>
 			<star>
 				<mass errorminus="0.015" errorplus="0.015">0.905</mass>
 				<radius errorminus="0.010" errorplus="0.010">0.943</radius>
@@ -721,6 +729,7 @@
 				<magK errorminus="0.023" errorplus="0.023">7.666</magK>
 				<name>55 Cnc B</name>
 			</star>
+			<semimajoraxis>1033</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -917,7 +926,9 @@
 		<declination>+03 00 22</declination>
 		<distance>18</distance>
 		<binary>
-			<semimajoraxis>515</semimajoraxis>
+			<separation unit="arcsec">28.6</separation>
+			<separation unit="AU">515</separation>
+			<positionangle>150</positionangle>
 			<star>
 				<name>83 Leonis B</name>
 				<name>HD 99492</name>
@@ -976,6 +987,7 @@
 				<temperature>5509</temperature>
 				<spectraltype>K0IV</spectraltype>
 			</star>
+			<semimajoraxis>515</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -984,7 +996,9 @@
 		<declination>-09 05 15</declination>
 		<distance errorminus="0.6" errorplus="0.6">45.9</distance>
 		<binary>
-			<semimajoraxis>2391</semimajoraxis>
+			<separation unit="arcsec">49.4</separation>
+			<separation unit="AU">2267</separation>
+			<positionangle>313</positionangle>
 			<star>
 				<name>91 Aquarii A</name>
 				<name>91 Aqr A</name>
@@ -1023,7 +1037,9 @@
 				</planet>
 			</star>
 			<binary>
-				<semimajoraxis>13.8</semimajoraxis>
+				<separation unit="arcsec">0.4</separation>
+				<separation unit="AU">18.4</separation>
+				<positionangle>101</positionangle>
 				<star>
 					<name>91 Aquarii B</name>
 					<name>91 Aqr B</name>
@@ -1042,7 +1058,9 @@
 					<mass>1.</mass>
 					<spectraltype>K</spectraltype>
 				</star>
+				<semimajoraxis>18.4</semimajoraxis>
 			</binary>
+			<semimajoraxis>2267</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -4087,7 +4105,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<declination>+29 53 48</declination>
 		<distance>15.89</distance>
 		<binary>
-			<semimajoraxis>3000</semimajoraxis>
+			<separation unit="arcsec">179</separation>
+			<separation unit="AU">2844</separation>
+			<positionangle>234</positionangle>
 			<star>
 				<name>Gliese 777 A</name>
 				<name>HD 190360 A</name>
@@ -4138,6 +4158,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>HD 190360 B</name>
 				<name>HR 7670 B</name>
 			</star>
+			<semimajoraxis>2844</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -7850,7 +7871,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-31 52 24</declination>
 		<distance>35</distance>
 		<binary>
-			<semimajoraxis>282</semimajoraxis>
+			<separation unit="arcsec">8.05</separation>
+			<separation unit="AU">282</separation>
+			<positionangle>333</positionangle>
 			<star>
 				<name>HD 114729 A</name>
 				<mass>0.93</mass>
@@ -7880,6 +7903,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.253</mass>
 				<spectraltype>M</spectraltype>
 			</star>
+			<semimajoraxis>282</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -7887,33 +7911,45 @@ Image credit: Vanessa Bailey</imagedescription>
 		<rightascension>13 12 19</rightascension>
 		<declination>+17 31 01</declination>
 		<distance>39.46</distance>
-		<star>
-			<mass>0.84</mass>
-			<radius>1.24</radius>
-			<magV>7.3</magV>
-			<magB>7.85</magB>
-			<magR>7.0</magR>
-			<magI>6.8</magI>
-			<magJ>6.14</magJ>
-			<magH>5.89</magH>
-			<magK>5.81</magK>
-			<metallicity>-0.71</metallicity>
-			<spectraltype>F9V</spectraltype>
-			<planet>
-				<name>HD 114762 b</name>
-				<list>Confirmed planets</list>
-				<mass>10.98</mass>
-				<period>83.9151</period>
-				<semimajoraxis>0.353</semimajoraxis>
-				<eccentricity>0.3354</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/09</lastupdate>
-				<discoveryyear>1989</discoveryyear>
-				<temperature>486.8</temperature>
-			</planet>
-			<name>HD 114762</name>
-			<temperature>5934.0</temperature>
-		</star>
+		<binary>
+			<separation unit="arcsec">3.26</separation>
+			<separation unit="AU">129</separation>
+			<positionangle>30</positionangle>
+			<star>
+				<name>HD 114762 A</name>
+				<mass>0.84</mass>
+				<radius>1.24</radius>
+				<magV>7.3</magV>
+				<magB>7.85</magB>
+				<magR>7.0</magR>
+				<magI>6.8</magI>
+				<magJ>6.14</magJ>
+				<magH>5.89</magH>
+				<magK>5.81</magK>
+				<metallicity>-0.71</metallicity>
+				<spectraltype>F9V</spectraltype>
+				<planet>
+					<name>HD 114762 b</name>
+					<name>HD 114762 A b</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>10.98</mass>
+					<period>83.9151</period>
+					<semimajoraxis>0.353</semimajoraxis>
+					<eccentricity>0.3354</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>11/06/09</lastupdate>
+					<discoveryyear>1989</discoveryyear>
+					<temperature>486.8</temperature>
+				</planet>
+				<name>HD 114762</name>
+				<temperature>5934.0</temperature>
+			</star>
+			<star>
+				<name>HD 114762 B</name>
+			</star>
+			<semimajoraxis>129</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HD 114783</name>
@@ -8112,7 +8148,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-10 14 32</declination>
 		<distance>33.98</distance>
 		<binary>
-			<semimajoraxis>1379</semimajoraxis>
+			<separation unit="arcsec">29.7</separation>
+			<separation unit="AU">1010</separation>
+			<positionangle>133</positionangle>
 			<star>
 				<name>HD 11964 A</name>
 				<name>Gliese 81.1 A</name>
@@ -8164,6 +8202,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>GJ 81.1 B</name>
 				<mass>0.67</mass>
 			</star>
+			<semimajoraxis>1010</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -9225,7 +9264,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-49 04 30</declination>
 		<distance>20.6</distance>
 		<binary>
-			<semimajoraxis>105.1</semimajoraxis>
+			<separation unit="arcsec">5.4</separation>
+			<separation unit="AU">111</separation>
+			<positionangle>177</positionangle>
 			<star>
 				<name>HD 142 A</name>
 				<mass>1.15</mass>
@@ -9271,6 +9312,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.59</mass>
 				<spectraltype>G1 IV</spectraltype>
 			</star>
+			<semimajoraxis>111</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -9279,7 +9321,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-84 13 53</declination>
 		<distance>35.87</distance>
 		<binary>
-			<semimajoraxis>820</semimajoraxis>
+			<separation unit="arcsec">20.4</separation>
+			<separation unit="AU">732</separation>
+			<positionangle>130</positionangle>
 			<star>
 				<name>HD 142022 A</name>
 				<mass>0.99</mass>
@@ -9308,7 +9352,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<star>
 				<name>HD 142022 B</name>
 				<mass>0.60</mass>
+				<spectraltype>K7V</spectraltype>
 			</star>
+			<semimajoraxis>732</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -9560,7 +9606,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-39 11 34</declination>
 		<distance>12.9</distance>
 		<binary>
-			<semimajoraxis>5360</semimajoraxis>
+			<separation unit="arcsec">345</separation>
+			<separation unit="AU">4451</separation>
+			<positionangle>245</positionangle>
 			<star>
 				<name>HD 147513 A</name>
 				<name>62 G. Scorpii A</name>
@@ -9600,6 +9648,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.65</mass>
 				<spectraltype>DA2</spectraltype>
 			</star>
+			<semimajoraxis>4451</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -11163,7 +11212,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+34 35 59</declination>
 		<distance>46.73</distance>
 		<binary>
-			<semimajoraxis>640</semimajoraxis>
+			<separation unit="arcsec">16.1</separation>
+			<separation unit="AU">752</separation>
+			<positionangle>82</positionangle>
 			<star>
 				<name>HD 178911 B</name>
 				<name>HR 7272</name>
@@ -11200,16 +11251,17 @@ Image credit: Vanessa Bailey</imagedescription>
 				<period>1296.6098</period>
 				<eccentricity>0.59</eccentricity>
 				<star>
-					<name>HD 178911 A A</name>
+					<name>HD 178911 Aa</name>
 					<mass>1.1</mass>
 					<spectraltype>G1</spectraltype>
 				</star>
 				<star>
-					<name>HD 178911 A B</name>
+					<name>HD 178911 Ab</name>
 					<mass>0.79</mass>
 					<spectraltype>K1</spectraltype>
 				</star>
 			</binary>
+			<semimajoraxis>752</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -11637,7 +11689,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+28 06 01</declination>
 		<distance>52.6</distance>
 		<binary>
-			<semimajoraxis>684</semimajoraxis>
+			<separation unit="arcsec">13</separation>
+			<separation unit="AU">684</separation>
+			<positionangle>85</positionangle>
 			<star>
 				<name>HD 188015 A</name>
 				<mass>1.09</mass>
@@ -11665,6 +11719,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HD 188015 B</name>
 				<mass>0.21</mass>
 			</star>
+			<semimajoraxis>684</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -11878,7 +11933,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+18 46 12</declination>
 		<distance>37.36</distance>
 		<binary>
-			<semimajoraxis>150</semimajoraxis>
+			<separation unit="arcsec">3.5</separation>
+			<separation unit="AU">130</separation>
+			<positionangle>330</positionangle>
 			<star>
 				<name>HD 195019 A</name>
 				<mass>1.06</mass>
@@ -11911,6 +11968,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HD 195019 B</name>
 				<mass>0.70</mass>
 			</star>
+			<semimajoraxis>130</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -11919,7 +11977,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-60 38 04</declination>
 		<distance>46.93</distance>
 		<binary>
-			<semimajoraxis>501</semimajoraxis>
+			<separation unit="arcsec">10.9</separation>
+			<separation unit="AU">511</separation>
+			<positionangle>175</positionangle>
 			<star>
 				<name>HD 196050 A</name>
 				<name>HIP 101806</name>
@@ -11962,6 +12022,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<age>3.55</age>
 				</star>
 			</binary>
+			<semimajoraxis>511</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -12891,7 +12952,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-49 25 59</declination>
 		<distance>40.75</distance>
 		<binary>
-			<semimajoraxis>3898</semimajoraxis>
+			<separation unit="arcsec">95.8</separation>
+			<separation unit="AU">3904</separation>
+			<positionangle>127</positionangle>
 			<star>
 				<name>HD 213240 A</name>
 				<mass>1.22</mass>
@@ -12921,6 +12984,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.146</mass>
 				<spectraltype>M</spectraltype>
 			</star>
+			<semimajoraxis>3904</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -13553,7 +13617,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-05 59 08</declination>
 		<distance>42</distance>
 		<binary>
-			<semimajoraxis>4746</semimajoraxis>
+			<separation unit="arcsec">113</separation>
+			<separation unit="AU">4746</separation>
+			<positionangle>302</positionangle>
 			<star>
 				<name>HD 222582 A</name>
 				<name>HIP 116906 A</name>
@@ -13586,6 +13652,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.2</mass>
 				<spectraltype>M3.5V</spectraltype>
 			</star>
+			<semimajoraxis>4746</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -13958,7 +14025,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-59 18 07</declination>
 		<distance>18.1</distance>
 		<binary>
-			<semimajoraxis>240</semimajoraxis>
+			<separation unit="arcsec">13.8</separation>
+			<separation unit="AU">250</separation>
+			<positionangle>36</positionangle>
 			<star>
 				<name>HD 27442 A</name>
 				<name>Epsilon Reticuli A</name>
@@ -13992,6 +14061,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>Epsilon Reticuli B</name>
 				<mass>0.75</mass>
 			</star>
+			<semimajoraxis>250</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -14789,7 +14859,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+01 10 05</declination>
 		<distance>39.28</distance>
 		<binary>
-			<semimajoraxis>12000</semimajoraxis>
+			<separation unit="arcsec">284</separation>
+			<separation unit="AU">11200</separation>
+			<positionangle>305</positionangle>
 			<star>
 				<name>HD 38529 A</name>
 				<name>138 G. Orionis A</name>
@@ -14838,10 +14910,11 @@ Image credit: Vanessa Bailey</imagedescription>
 				</planet>
 			</star>
 			<star>
-				<name>HD 38529 A</name>
+				<name>HD 38529 B</name>
 				<mass>0.5</mass>
 				<spectraltype>M3.0V</spectraltype>
 			</star>
+			<semimajoraxis>11200</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -15095,7 +15168,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+44 15 37</declination>
 		<distance>33.3</distance>
 		<binary>
-			<semimajoraxis>6394</semimajoraxis>
+			<separation unit="arcsec">192</separation>
+			<separation unit="AU">6394</separation>
+			<positionangle>290</positionangle>
 			<star>
 				<name>HD 40979 A</name>
 				<name>HIP 28767 A</name>
@@ -15145,6 +15220,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<age>1</age>
 				</star>
 			</binary>
+			<semimajoraxis>6394</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -15647,7 +15723,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+05 27 46</declination>
 		<distance>33.4</distance>
 		<binary>
-			<semimajoraxis>345</semimajoraxis>
+			<separation unit="arcsec">9.4</separation>
+			<separation unit="AU">314</separation>
+			<positionangle>308</positionangle>
 			<star>
 				<name>HD 46375 A</name>
 				<mass>0.91</mass>
@@ -15670,7 +15748,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>12/12/04</lastupdate>
 					<discoveryyear>2000</discoveryyear>
-					<description>This star is on its way to becoming a red giant. It is considerably older than the sun. It has a stellar companion at a distance of 345 astronomical units.</description>
+					<description>This star is on its way to becoming a red giant. It is considerably older than the sun. It has a stellar companion at a distance of 314 astronomical units.</description>
 					<list>Planets in binary systems, S-type</list>
 					<temperature>1132.0</temperature>
 				</planet>
@@ -15681,6 +15759,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.58</mass>
 				<spectraltype>K9.5-M1.5</spectraltype>
 			</star>
+			<semimajoraxis>314</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -16827,7 +16906,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-41 44 12</declination>
 		<distance>28.94</distance>
 		<binary>
-			<semimajoraxis>621</semimajoraxis>
+			<separation unit="arcsec">21.5</separation>
+			<separation unit="AU">622</separation>
+			<positionangle>78</positionangle>
 			<star>
 				<name>HD 75289 A</name>
 				<mass>1.05</mass>
@@ -16856,6 +16937,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass>0.14</mass>
 				<spectraltype>M3.5V</spectraltype>
 			</star>
+			<semimajoraxis>622</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -17021,7 +17103,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+50 36 13</declination>
 		<distance>58.4</distance>
 		<binary>
-			<semimajoraxis>1197</semimajoraxis>
+			<separation unit="arcsec">20.6</separation>
+			<separation unit="AU">1203</separation>
+			<positionangle>269</positionangle>
 			<star>
 				<name>HD 80606</name>
 				<name>Struve 1341 B</name>
@@ -17062,6 +17146,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>G5</spectraltype>
 				<mass>1.</mass>
 			</star>
+			<semimajoraxis>1203</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -17595,7 +17680,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+41 13 46</declination>
 		<distance>40</distance>
 		<binary>
-			<semimajoraxis>2456</semimajoraxis>
+			<separation unit="arcsec">63.0</separation>
+			<separation unit="AU">2520</separation>
+			<positionangle>48</positionangle>
 			<star>
 				<name>HD 89744 A</name>
 				<name>HR 4067 A</name>
@@ -17634,7 +17721,9 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HR 4067 B</name>
 				<name>GJ 9326 B</name>
 				<mass>0.077</mass>
+				<spectraltype>L0V</spectraltype>
 			</star>
+			<semimajoraxis>2520</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -44663,7 +44752,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+41 24 38</declination>
 		<distance>13.47</distance>
 		<binary>
-			<semimajoraxis>750</semimajoraxis>
+			<separation unit="arcsec">52</separation>
+			<separation unit="AU">700</separation>
+			<positionangle>150</positionangle>
 			<star>
 				<name>Upsilon Andromedae A</name>
 				<name>ups And A</name>
@@ -44753,6 +44844,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<name>ups And B</name>
 				<mass>0.19</mass>
 			</star>
+			<semimajoraxis>700</semimajoraxis>
 		</binary>
 	</system>
 	<system>
