@@ -1,4 +1,4 @@
-<systems name="systems" planets="1824">
+<systems name="systems" planets="1826">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1439,7 +1439,7 @@
 			<planet>
 				<name>BD20 2457 b</name>
 				<name>BD+20 2457 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>21.42</mass>
 				<period>379.63</period>
 				<semimajoraxis>1.45</semimajoraxis>
@@ -1453,7 +1453,7 @@
 			<planet>
 				<name>BD20 2457 c</name>
 				<name>BD+20 2457 c</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>12.47</mass>
 				<period>621.99</period>
 				<semimajoraxis>2.01</semimajoraxis>
@@ -2722,7 +2722,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>eps Eri b</name>
 				<name>HR 1084 b</name>
 				<name>HD 22049 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>1.55</mass>
 				<period>2502</period>
 				<semimajoraxis>3.39</semimajoraxis>
@@ -3281,7 +3281,9 @@ Credit: Joe Gallagher.</imagedescription>
 		<declination>-79 51 04</declination>
 		<distance>17.62</distance>
 		<binary>
-			<semimajoraxis>68</semimajoraxis>
+			<separation unit="arcsec">3.90</separation>
+			<separation unit="AU">68.7</separation>
+			<positionangle>355</positionangle>
 			<star>
 				<name>Gliese 3021 A</name>
 				<name>HD 1237 A</name>
@@ -3328,8 +3330,9 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>HIP 1291 B</name>
 				<mass>0.13</mass>
 				<age>0.8</age>
-				<spectraltype>M4V V</spectraltype>
+				<spectraltype>M4V</spectraltype>
 			</star>
+			<semimajoraxis>68.7</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -3738,7 +3741,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>GJ 581 f</name>
 				<name>Gj 581 f</name>
 				<name>Gl 581 f</name>
-				<list>Controversial</list>
+				<list>Retracted planet candidate</list>
 				<mass>0.0220199</mass>
 				<period>433</period>
 				<semimajoraxis>0.758</semimajoraxis>
@@ -3811,7 +3814,9 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<declination>-34 59 23</declination>
 		<distance>6.97</distance>
 		<binary>
-			<semimajoraxis>230</semimajoraxis>
+			<separation unit="arcsec">32.70</separation>
+			<separation unit="AU">228</separation>
+			<positionangle>142</positionangle>
 			<binary>
 				<period>42.15</period>
 				<eccentricity>0.58</eccentricity>
@@ -3917,7 +3922,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<name>Gliese 667 C f</name>
 					<name>GJ 667C f</name>
 					<name>HR 6426C f</name>
-					<list>Confirmed planets</list>
+					<list>Controversial</list>
 					<period errorminus="0.211000" errorplus="0.194000">39.026</period>
 					<eccentricity errorminus="0.030000" errorplus="0.160000">0.03</eccentricity>
 					<periastron>103.132403</periastron>
@@ -3938,7 +3943,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<name>Gliese 667 C e</name>
 					<name>GJ 667C e</name>
 					<name>HR 6426C e</name>
-					<list>Confirmed planets</list>
+					<list>Controversial</list>
 					<period errorminus="0.550000" errorplus="0.550000">62.24</period>
 					<eccentricity errorminus="0.020000" errorplus="0.220000">0.02</eccentricity>
 					<periastron>28.647890</periastron>
@@ -3959,7 +3964,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<name>Gliese 667 C d</name>
 					<name>GJ 667 C d</name>
 					<name>HR 6426 C d</name>
-					<list>Confirmed planets</list>
+					<list>Controversial</list>
 					<period errorminus="0.890000" errorplus="0.810000">91.61</period>
 					<eccentricity errorminus="0.030000" errorplus="0.200000">0.03</eccentricity>
 					<periastron>40.107046</periastron>
@@ -3980,7 +3985,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<name>Gliese 667 C g</name>
 					<name>GJ 667 C g</name>
 					<name>HR 6426 C g</name>
-					<list>Confirmed planets</list>
+					<list>Controversial</list>
 					<period errorminus="7.900000" errorplus="13.800000">256.2</period>
 					<eccentricity errorminus="0.080000" errorplus="0.410000">0.08</eccentricity>
 					<periastron>51.566202</periastron>
@@ -3998,6 +4003,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
+			<semimajoraxis>228</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -4042,12 +4048,20 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<declination>-51 38 13</declination>
 		<distance>16.5</distance>
 		<binary>
-			<semimajoraxis>800</semimajoraxis>
+			<separation unit="arcsec">50.0</separation>
+			<separation unit="AU">825</separation>
+			<positionangle>135</positionangle>
 			<star>
 				<name>Gliese 676 A</name>
-				<mass>0.71</mass>
+				<mass errorminus="0.04" errorplus="0.04">0.71</mass>
 				<metallicity>0.23</metallicity>
-				<magV>9.58</magV>
+				<magB>11.028</magB>
+				<magV>9.585</magV>
+				<magR>8.675</magR>
+				<magI>8.60</magI>
+				<magJ>6.711</magJ>
+				<magH>6.082</magH>
+				<magK>5.825</magK>
 				<spectraltype>M0V</spectraltype>
 				<planet>
 					<name>Gliese 676 A d</name>
@@ -4095,8 +4109,15 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<star>
 				<name>Gliese 676 B</name>
 				<mass>0.17</mass>
+				<magB>14.8</magB>
+				<magR errorminus="13.14" errorplus="13.14">13.4</magR>
+				<magI>10.49</magI>
+				<magJ>8.976</magJ>
+				<magH>8.29</magH>
+				<magK>8.017</magK>
 				<spectraltype>M3.5V</spectraltype>
 			</star>
+			<semimajoraxis>825</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -6344,20 +6365,9 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<declination>+35 26 50</declination>
 		<distance errorminus="15" errorplus="15">230</distance>
 		<binary>
-			<semimajoraxis errorminus="2.5" errorplus="2.5">235</semimajoraxis>
-			<binary>
-				<semimajoraxis errorminus="1" errorplus="1">15</semimajoraxis>
-				<star>
-					<name>HAT-P-8 B</name>
-					<spectraltype>M5V</spectraltype>
-					<mass errorminus="0.03" errorplus="0.03">0.22</mass>
-				</star>
-				<star>
-					<name>HAT-P-8 C</name>
-					<spectraltype>M6V</spectraltype>
-					<mass errorminus="0.02" errorplus="0.02">0.18</mass>
-				</star>
-			</binary>
+			<separation errorminus="0.014" errorplus="0.014" unit="arcsec">1.040</separation>
+			<separation errorminus="2.5" errorplus="2.5" unit="AU">240</separation>
+			<positionangle errorminus="0.8" errorplus="0.8">137.9</positionangle>
 			<star>
 				<name>HAT-P-8</name>
 				<name>HAT-P-8 A</name>
@@ -6395,6 +6405,25 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				</planet>
 				<temperature>6200.0</temperature>
 			</star>
+			<binary>
+				<separation errorminus="1" errorplus="1" unit="AU">15</separation>
+				<separation errorminus="0.0005" errorplus="0.0005" unit="arcsec">0.0653</separation>
+				<positionangle>222</positionangle>
+				<star>
+					<name>HAT-P-8 B</name>
+					<spectraltype>M5V</spectraltype>
+					<magK>14.5</magK>
+					<mass errorminus="0.03" errorplus="0.03">0.22</mass>
+				</star>
+				<star>
+					<name>HAT-P-8 C</name>
+					<spectraltype>M6V</spectraltype>
+					<magK>15.0</magK>
+					<mass errorminus="0.02" errorplus="0.02">0.18</mass>
+				</star>
+				<semimajoraxis>15</semimajoraxis>
+			</binary>
+			<semimajoraxis>240</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -7633,7 +7662,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-40 48 43</declination>
 		<distance>59</distance>
 		<binary>
-			<semimajoraxis>495.6</semimajoraxis>
+			<separation unit="arcsec">8.28</separation>
+			<separation unit="AU">489</separation>
+			<positionangle>179.75</positionangle>
 			<star>
 				<name>HD 109749 A</name>
 				<mass>1.2</mass>
@@ -7661,6 +7692,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HD 109749 B</name>
 				<mass>0.78</mass>
 			</star>
+			<semimajoraxis>489</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -10392,7 +10424,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-03 33 38</declination>
 		<distance>35.9</distance>
 		<binary>
-			<semimajoraxis>223</semimajoraxis>
+			<separation unit="arcsec">6.2</separation>
+			<separation unit="AU">223</separation>
+			<positionangle>187</positionangle>
 			<star>
 				<name>HD 16141 A</name>
 				<name>79 Ceti</name>
@@ -10431,7 +10465,11 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HD 16141 B</name>
 				<mass>0.31</mass>
 				<spectraltype>M2.5</spectraltype>
+				<magJ>9.27</magJ>
+				<magH>10.062</magH>
+				<magK>8.77</magK>
 			</star>
+			<semimajoraxis>223</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -11158,7 +11196,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+25 55 14</declination>
 		<distance>59</distance>
 		<binary>
-			<semimajoraxis>97.1</semimajoraxis>
+			<separation unit="arcsec">1.645</separation>
+			<separation unit="AU">97.1</separation>
+			<positionangle>84.85</positionangle>
 			<star>
 				<name>HD 177830 A</name>
 				<mass>1.47</mass>
@@ -11202,8 +11242,11 @@ Image credit: Vanessa Bailey</imagedescription>
 			<star>
 				<name>HD 177830 B</name>
 				<mass>0.23</mass>
+				<magH>11.6</magH>
+				<magK>11.2</magK>
 				<spectraltype>M2-M5</spectraltype>
 			</star>
+			<semimajoraxis>97.1</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -11757,13 +11800,9 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+22 42 39</declination>
 		<distance>19.3</distance>
 		<binary>
-			<semimajoraxis>216</semimajoraxis>
-			<star>
-				<name>HD 189733 B</name>
-				<name>V452 Vulpeculae B</name>
-				<spectraltype>M4</spectraltype>
-				<mass>0.4</mass>
-			</star>
+			<separation unit="arcsec">11.2</separation>
+			<separation unit="AU">216</separation>
+			<positionangle>246</positionangle>
 			<star>
 				<name>HD 189733 A</name>
 				<name>V452 Vulpeculae A</name>
@@ -11806,6 +11845,13 @@ Image credit: Vanessa Bailey</imagedescription>
 				</planet>
 				<temperature>4980.0</temperature>
 			</star>
+			<star>
+				<name>HD 189733 B</name>
+				<name>V452 Vulpeculae B</name>
+				<spectraltype>M4</spectraltype>
+				<mass>0.4</mass>
+			</star>
+			<semimajoraxis>216</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -18951,7 +18997,7 @@ Credit: ESO/J. Rameau</imagedescription>
 			<spectraltype>Catac. var.</spectraltype>
 			<planet>
 				<name>HU Aqr(AB) c</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>5.9</mass>
 				<period>5646</period>
 				<semimajoraxis>6.18</semimajoraxis>
@@ -18999,7 +19045,7 @@ Credit: ESO/J. Rameau</imagedescription>
 				<planet>
 					<name>HW Vir (AB) b</name>
 					<name>HW Virginis (AB) b</name>
-					<list>Confirmed planets</list>
+					<list>Controversial</list>
 					<mass>14.3</mass>
 					<period>4640</period>
 					<semimajoraxis>4.69</semimajoraxis>
@@ -19037,7 +19083,7 @@ Credit: ESO/J. Rameau</imagedescription>
 			<spectraltype>B9IV</spectraltype>
 			<planet>
 				<name>Kappa And b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>12.8</mass>
 				<semimajoraxis>61</semimajoraxis>
 				<description>Kappa Andromedae b is an extrasolar planet or possibly low-mass brown dwarf. Astronomers have directly imaged it using the Subaru telescope on Hawaii. An object is called a planet when it is not able to fuse hydrogen in its core. Kappa Andromedae b is very close to the theoretical limit of 13 Jupiter masses.</description>
@@ -37646,7 +37692,9 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<declination>+45 08 23</declination>
 		<distance errorminus="6.9" errorplus="6.9">132</distance>
 		<binary>
-			<semimajoraxis>211</semimajoraxis>
+			<separation unit="arcsec">1.70</separation>
+			<separation unit="AU">224</separation>
+			<positionangle>35</positionangle>
 			<star>
 				<name>Kepler-410 A</name>
 				<name>HD 175289</name>
@@ -37681,6 +37729,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<name>Kepler-410 B</name>
 				<temperature>4850</temperature>
 			</star>
+			<semimajoraxis>224</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -37915,7 +37964,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<description>Kepler-421 b is an Uranus-sized exoplanet. The planet's location is beyond the snow-line, indicating that the planet may have formed at its observed location. Only two transits of Kepler-421 b have been recorded during Kepler's lifetime. The planetetary nature of the signal was confirmed using a statistical analysis and lightcurve modeling.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>14/07/21</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
@@ -40750,7 +40798,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<planet>
 				<name>Kepler-91 b</name>
 				<name>KIC 8219268 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass errorminus="0.33" errorplus="0.17">0.88</mass>
 				<radius errorminus="0.054" errorplus="0.011">1.384</radius>
 				<period errorminus="0.000082" errorplus="0.000082">6.246580</period>
@@ -42594,7 +42642,7 @@ Image credit: Joe Gallagher</imagedescription>
 			</star>
 			<planet>
 				<name>NSVS 14256825 c</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>2.8</mass>
 				<period>1276</period>
 				<semimajoraxis>1.9</semimajoraxis>
@@ -42607,7 +42655,7 @@ Image credit: Joe Gallagher</imagedescription>
 			</planet>
 			<planet>
 				<name>NSVS 14256825 d</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>8</mass>
 				<period>2506</period>
 				<semimajoraxis>2.9</semimajoraxis>
@@ -43431,7 +43479,9 @@ Credit: Kains et al (2013).</imagedescription>
 		<magH errorminus="0.022" errorplus="0.022">12.461</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.395</magK>
 		<binary>
-			<semimajoraxis>1000</semimajoraxis>
+			<separation unit="arcsec">0.7</separation>
+			<separation unit="AU">1000</separation>
+			<positionangle>123</positionangle>
 			<binary>
 				<period>20.000214</period>
 				<semimajoraxis>0.1744</semimajoraxis>
@@ -43450,11 +43500,12 @@ Credit: Kains et al (2013).</imagedescription>
 					<spectraltype>M</spectraltype>
 				</star>
 				<planet>
-					<name>PH-1 (AaAb) b</name>
+					<name>PH-1 A(ab) b</name>
 					<name>PH-1 b</name>
-					<name>KIC 4862625 (AaAb) b</name>
+					<name>KIC 4862625 A(ab) b</name>
 					<name>Planet Hunters 1 b</name>
 					<name>Kepler-64 b</name>
+					<name>Kepler-64 A(ab) b</name>
 					<list>Confirmed planets</list>
 					<radius>0.5631852</radius>
 					<period>138.506</period>
@@ -43475,7 +43526,8 @@ Credit: Kains et al (2013).</imagedescription>
 				</planet>
 			</binary>
 			<binary>
-				<semimajoraxis>60</semimajoraxis>
+				<separation unit="arcsec" upperlimit="0.4" />
+				<separation unit="AU" upperlimit="60" />
 				<star>
 					<name>PH-1 Ba</name>
 					<mass>0.99</mass>
@@ -43486,7 +43538,9 @@ Credit: Kains et al (2013).</imagedescription>
 					<mass>0.51</mass>
 					<spectraltype>M2</spectraltype>
 				</star>
+				<semimajoraxis />
 			</binary>
+			<semimajoraxis>1000</semimajoraxis>
 		</binary>
 		<videolink>http://youtu.be/QSOdlfHwR6k</videolink>
 	</system>
@@ -44711,52 +44765,43 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<rightascension>19 07 14</rightascension>
 		<declination>+49 18 59</declination>
 		<distance errorminus="11" errorplus="11">213</distance>
-		<binary>
-			<semimajoraxis>232</semimajoraxis>
-			<period>1424444</period>
-			<star>
-				<name>TrES-2 A</name>
-				<mass errorminus="0.063" errorplus="0.063">0.983</mass>
-				<radius errorminus="0.033" errorplus="0.033">1.003</radius>
-				<metallicity>0.001</metallicity>
-				<magB errorminus="0.10" errorplus="0.10">11.85</magB>
-				<magV errorminus="0.08" errorplus="0.08">11.25</magV>
-				<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
-				<magH errorminus="0.026" errorplus="0.026">9.920</magH>
-				<magK errorminus="0.022" errorplus="0.022">9.846</magK>
-				<spectraltype>G0</spectraltype>
-				<temperature errorminus="50" errorplus="50">5850</temperature>
-				<planet>
-					<name>TrES-2 A b</name>
-					<name>TrES-2 b</name>
-					<name>TYC 3549-02811-1</name>
-					<name>2MASS J19071403+4918590</name>
-					<name>KIC 11446443</name>
-					<name>Kepler-1</name>
-					<name>KOI-1</name>
-					<name>TrES-2</name>
-					<list>Confirmed planets</list>
-					<list>Planets in binary systems, S-type</list>
-					<mass>1.253</mass>
-					<radius>1.169</radius>
-					<period>2.470613402</period>
-					<semimajoraxis>0.03556</semimajoraxis>
-					<eccentricity>0.0</eccentricity>
-					<inclination>83.874</inclination>
-					<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2454502.56227</transittime>
-					<discoverymethod>transit</discoverymethod>
-					<lastupdate>13/01/27</lastupdate>
-					<discoveryyear>2006</discoveryyear>
-					<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
-					<istransiting>1</istransiting>
-				</planet>
-			</star>
-			<star>
-				<name>TrES-2 C</name>
-				<mass>0.67</mass>
-				<spectraltype>K5</spectraltype>
-			</star>
-		</binary>
+		<star>
+			<name>TrES-2</name>
+			<name>TYC 3549-02811-1</name>
+			<name>2MASS J19071403+4918590</name>
+			<name>KIC 11446443</name>
+			<name>Kepler-1</name>
+			<name>KOI-1</name>
+			<mass errorminus="0.063" errorplus="0.063">0.983</mass>
+			<radius errorminus="0.033" errorplus="0.033">1.003</radius>
+			<metallicity>0.001</metallicity>
+			<magB errorminus="0.10" errorplus="0.10">11.85</magB>
+			<magV errorminus="0.08" errorplus="0.08">11.25</magV>
+			<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
+			<magH errorminus="0.026" errorplus="0.026">9.920</magH>
+			<magK errorminus="0.022" errorplus="0.022">9.846</magK>
+			<spectraltype>G0</spectraltype>
+			<temperature errorminus="50" errorplus="50">5850</temperature>
+			<planet>
+				<name>TrES-2</name>
+				<name>TrES-2 b</name>
+				<name>Kepler-1 b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>1.253</mass>
+				<radius>1.169</radius>
+				<period>2.470613402</period>
+				<semimajoraxis>0.03556</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.874</inclination>
+				<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2454502.56227</transittime>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>13/01/27</lastupdate>
+				<discoveryyear>2006</discoveryyear>
+				<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>TrES-3</name>
@@ -44803,8 +44848,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+37 12 42</declination>
 		<distance>485</distance>
 		<binary>
-			<semimajoraxis>755</semimajoraxis>
-			<period>7670086</period>
+			<separation errorminus="0.005" errorplus="0.005" unit="arcsec">1.555</separation>
+			<separation errorminus="2" errorplus="2" unit="AU">754</separation>
+			<positionangle errorminus="0.1" errorplus="0.1">359.8</positionangle>
 			<star>
 				<name>TrES-4 A</name>
 				<mass>0.88</mass>
@@ -44844,6 +44890,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<mass>0.59</mass>
 				<spectraltype>K</spectraltype>
 			</star>
+			<semimajoraxis>754</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -45239,6 +45286,78 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 	</system>
 	<system>
+		<name>WASP-104</name>
+		<rightascension>10 42 24</rightascension>
+		<declination>+07 26 06</declination>
+		<distance errorminus="10" errorplus="10">143</distance>
+		<star>
+			<name>WASP-104</name>
+			<name>TYC 260-1073-1</name>
+			<mass errorminus="0.049" errorplus="0.049">1.076</mass>
+			<radius errorminus="0.027" errorplus="0.027">0.963</radius>
+			<temperature errorminus="127" errorplus="127">5475</temperature>
+			<magV errorminus="0.10" errorplus="0.10">11.12</magV>
+			<metallicity errorminus="0.09" errorplus="0.09">0.32</metallicity>
+			<spectraltype>G8</spectraltype>
+			<age errorminus="2" errorplus="2">3</age>
+			<planet>
+				<name>WASP-104 b</name>
+				<name>TYC 260-1073-1 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.047" errorplus="0.047">1.272</mass>
+				<radius errorminus="0.037" errorplus="0.037">1.137</radius>
+				<temperature errorminus="39" errorplus="39">1516</temperature>
+				<period errorminus="0.0000036" errorplus="0.0000018">1.7554137</period>
+				<transittime errorminus="0.00012" errorplus="0.00012">2456406.11126</transittime>
+				<semimajoraxis errorminus="0.00045" errorplus="0.00045">0.02918</semimajoraxis>
+				<eccentricity upperlimit="0.06" />
+				<inclination errorminus="0.25" errorplus="0.25">83.63</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<new>1</new>
+				<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
+				<lastupdate>14/08/06</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-106</name>
+		<rightascension>11 05 43</rightascension>
+		<declination>-05 04 46</declination>
+		<distance errorminus="21" errorplus="21">283</distance>
+		<star>
+			<name>WASP-106</name>
+			<name>TYC 4927-1063-1</name>
+			<mass errorminus="0.054" errorplus="0.054">1.192</mass>
+			<radius errorminus="0.028" errorplus="0.048">1.393</radius>
+			<temperature errorminus="136" errorplus="136">6055</temperature>
+			<magV errorminus="0.11" errorplus="0.11">11.21</magV>
+			<metallicity errorminus="0.09" errorplus="0.09">-0.09</metallicity>
+			<spectraltype>F9</spectraltype>
+			<age errorminus="2" errorplus="2">7</age>
+			<planet>
+				<name>WASP-106 b</name>
+				<name>TYC 4927-1063-1 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.076" errorplus="0.076">1.925</mass>
+				<radius errorminus="0.028" errorplus="0.046">1.085</radius>
+				<temperature errorminus="29" errorplus="29">1140</temperature>
+				<period errorminus="0.000010" errorplus="0.000010">9.289715</period>
+				<transittime errorminus="0.00033" errorplus="0.00033">2456649.54972</transittime>
+				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0917</semimajoraxis>
+				<eccentricity upperlimit="0.13" />
+				<inclination errorminus="0.64" errorplus="0.35">89.49</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<description>The transiting exoplanet WASP-106 b is just slightly larger than Jupiter. The orbital solution is consistent with zero eccentricity, which is interesting because many other similar planets are known to have eccentric orbits. The planet was discovered by the WASP survey.</description>
+				<istransiting>1</istransiting>
+				<new>1</new>
+				<lastupdate>14/08/06</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-11</name>
 		<rightascension>03 09 29</rightascension>
 		<declination>+30 40 25</declination>
@@ -45317,20 +45436,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+29 40 20</declination>
 		<distance errorminus="30" errorplus="30">250</distance>
 		<binary>
-			<semimajoraxis errorminus="5" errorplus="5">260</semimajoraxis>
-			<binary>
-				<semimajoraxis errorminus="3" errorplus="3">21</semimajoraxis>
-				<star>
-					<name>WASP-12 B</name>
-					<spectraltype>M3V</spectraltype>
-					<mass errorminus="0.05" errorplus="0.05">0.38</mass>
-				</star>
-				<star>
-					<name>WASP-12 C</name>
-					<spectraltype>M3V</spectraltype>
-					<mass errorminus="0.05" errorplus="0.05">0.37</mass>
-				</star>
-			</binary>
+			<separation errorminus="0.019" errorplus="0.019" unit="arcsec">1.064</separation>
+			<separation errorminus="5" errorplus="5" unit="AU">266</separation>
+			<positionangle>251.3</positionangle>
 			<star>
 				<name>WASP-12</name>
 				<name>WASP-12 A</name>
@@ -45367,6 +45475,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				</planet>
 				<temperature>6300.0</temperature>
 			</star>
+			<binary>
+				<separation errorminus="0.0006" errorplus="0.0006" unit="arcsec">0.0843</separation>
+				<separation errorminus="3" errorplus="3" unit="AU">21</separation>
+				<positionangle>84</positionangle>
+				<star>
+					<name>WASP-12 B</name>
+					<spectraltype>M3V</spectraltype>
+					<magJ>14.3</magJ>
+					<magK>13.4</magK>
+					<mass errorminus="0.05" errorplus="0.05">0.38</mass>
+				</star>
+				<star>
+					<name>WASP-12 C</name>
+					<spectraltype>M3V</spectraltype>
+					<magJ>14.4</magJ>
+					<magK>13.5</magK>
+					<mass errorminus="0.05" errorplus="0.05">0.37</mass>
+				</star>
+				<semimajoraxis>21</semimajoraxis>
+			</binary>
+			<semimajoraxis>266</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -45641,8 +45770,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+06 25 46</declination>
 		<distance errorminus="37.0" errorplus="25.6">165.8</distance>
 		<binary>
-			<semimajoraxis>111</semimajoraxis>
-			<period>511339</period>
+			<separation errorminus="0.001" errorplus="0.001" unit="arcsec">0.757</separation>
+			<separation unit="AU">125</separation>
+			<positionangle errorminus="0.3" errorplus="0.3">104.7</positionangle>
 			<star>
 				<name>WASP-2 A</name>
 				<mass errorminus="0.12" errorplus="0.12">0.89</mass>
@@ -45681,6 +45811,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<mass>0.48</mass>
 				<spectraltype>M0</spectraltype>
 			</star>
+			<semimajoraxis>125</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -47553,25 +47684,22 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-70</name>
-		<name>2MASS 21015446-1325595</name>
+		<name>HD 358155</name>
+		<name>2MASS J21015446-1325595</name>
+		<name>TYC 5782-970-1</name>
 		<rightascension>21 01 54</rightascension>
 		<declination>-13 26 00</declination>
 		<distance errorminus="20" errorplus="20">245</distance>
 		<binary>
-			<name>2MASS 21015446-1325595</name>
+			<name>WASP-70</name>
 			<magV errorminus="0.13" errorplus="0.13">11.75</magV>
 			<magB errorminus="0.08" errorplus="0.08">10.79</magB>
 			<magJ errorminus="0.03" errorplus="0.03">10.00</magJ>
 			<magH errorminus="0.04" errorplus="0.04">9.71</magH>
 			<magK errorminus="0.03" errorplus="0.03">9.58</magK>
-			<semimajoraxis>800</semimajoraxis>
-			<star>
-				<name>WASP-70 B</name>
-				<mass errorminus="0.2" errorplus="0.2">0.8</mass>
-				<temperature errorminus="200" errorplus="200">4900</temperature>
-				<spectraltype>K3</spectraltype>
-				<age errorminus="0.5" errorplus="0.5">9.5</age>
-			</star>
+			<separation unit="arcsec">3.3</separation>
+			<separation unit="AU">800</separation>
+			<positionangle>167</positionangle>
 			<star>
 				<name>WASP-70 A</name>
 				<mass errorminus="0.042" errorplus="0.042">1.106</mass>
@@ -47599,6 +47727,14 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<istransiting>1</istransiting>
 				</planet>
 			</star>
+			<star>
+				<name>WASP-70 B</name>
+				<mass errorminus="0.2" errorplus="0.2">0.8</mass>
+				<temperature errorminus="200" errorplus="200">4900</temperature>
+				<spectraltype>K3</spectraltype>
+				<age errorminus="0.5" errorplus="0.5">9.5</age>
+			</star>
+			<semimajoraxis>800</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -47799,7 +47935,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>-07 03 38</declination>
 		<distance errorminus="5" errorplus="5">93</distance>
 		<binary>
-			<semimajoraxis>372</semimajoraxis>
+			<separation unit="arcsec">3.30</separation>
+			<separation unit="AU">300</separation>
+			<positionangle>150</positionangle>
 			<star>
 				<mass>1.002</mass>
 				<radius>1.12</radius>
@@ -47838,6 +47976,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<spectraltype>K5</spectraltype>
 				<name>WASP-77 B</name>
 			</star>
+			<semimajoraxis>300</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -48498,9 +48637,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+50 13 33</declination>
 		<distance>149</distance>
 		<binary>
-			<semimajoraxis>4000</semimajoraxis>
+			<separation unit="arcsec">31</separation>
+			<separation unit="AU">4600</separation>
+			<positionangle>342</positionangle>
 			<star>
 				<name>XO-2S</name>
+				<name>XO-2A</name>
 				<name>TYC 3413-210-1</name>
 				<temperature errorminus="55" errorplus="55">5399</temperature>
 				<metallicity errorminus="0.05" errorplus="0.05">0.39</metallicity>
@@ -48539,6 +48681,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</star>
 			<star>
 				<name>XO-2N</name>
+				<name>XO-2B</name>
 				<temperature>5340.0</temperature>
 				<mass>0.98</mass>
 				<radius>0.964</radius>
@@ -48571,6 +48714,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
+			<semimajoraxis>4600</semimajoraxis>
 		</binary>
 	</system>
 	<system>
