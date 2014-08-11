@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-6 b</id_exoplaneteu>
+	<name>HATS-6 b</name>
+	<name>2MASS 05523523-1901539 b</name>
+	<id>HATS-6 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.319</mass>
+		<radius>0.998</radius>
+		<orbit>
+			<period>3.3252725</period>
+			<semimajoraxis>0.03623</semimajoraxis>
+			<eccentricity />
+			<inclination>88.210</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.574</mass>
+		<radius>0.570</radius>
+		<metallicity>0.2</metallicity>
+		<distance>172.6</distance>
+		<temperature>3724</temperature>
+		<rightascension>05 52 35</rightascension>
+		<declination>-19 01 54</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/08/07</lastupdate>
+	<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

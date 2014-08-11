@@ -4,11 +4,11 @@
 	<id>HN Peg b</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>16</mass>
-		<radius>1.1</radius>
+		<mass>22</mass>
+		<radius>1.05</radius>
 		<orbit>
 			<period />
-			<semimajoraxis>795</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -19,10 +19,10 @@
 	<star>
 		<spectraltype>G0V</spectraltype>
 		<mass>1</mass>
-		<radius>1.1</radius>
+		<radius>1.05</radius>
 		<metallicity />
 		<distance>18.4</distance>
-		<temperature>5940.0</temperature>
+		<temperature>1130</temperature>
 		<rightascension>21 44 31</rightascension>
 		<declination>+14 46 19</declination>
 		<angulardistance />

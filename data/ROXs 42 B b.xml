@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>ROXs 42 B b</id_exoplaneteu>
 	<name>ROXs 42 B b</name>
+	<name>ROXs 42 B (AB) b</name>
 	<id>ROXs 42 B b</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
@@ -8,7 +9,7 @@
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>140</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -42,4 +43,5 @@
 			
 Credit: Thayne Currie.</imagedescription>
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
 </planet>

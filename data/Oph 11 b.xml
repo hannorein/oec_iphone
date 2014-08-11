@@ -1,14 +1,16 @@
 <planet>
-	<id_exoplaneteu>Oph 11 b</id_exoplaneteu>
-	<name>Oph 11 b</name>
-	<id>Oph 11 b</id>
+	<id_exoplaneteu>Oph 11 B</id_exoplaneteu>
+	<name>Oph 11 B</name>
+	<name>Oph J1622-2405 B</name>
+	<name>WDS J16224-2405 B</name>
+	<id>Oph 11 B</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
 		<mass>21</mass>
 		<radius />
 		<orbit>
-			<period>730000</period>
-			<semimajoraxis>243</semimajoraxis>
+			<period />
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -17,12 +19,12 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>M9</spectraltype>
-		<mass>0.162</mass>
+		<spectraltype>M7.25</spectraltype>
+		<mass>0.051</mass>
 		<radius />
 		<metallicity />
 		<distance>145</distance>
-		<temperature>2375.0</temperature>
+		<temperature>2838</temperature>
 		<rightascension>16 22 25</rightascension>
 		<declination>-24 05 14</declination>
 		<angulardistance />

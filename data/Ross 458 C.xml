@@ -1,17 +1,16 @@
 <planet>
-	<id_exoplaneteu>Ross 458(AB) c</id_exoplaneteu>
-	<name>Ross 458(AB) c</name>
-	<name>Ross 458 AB c</name>
-	<name>DT Virginis c</name>
-	<name>HIP 63510 c</name>
-	<id>Ross 458(AB) c</id>
+	<id_exoplaneteu>Ross 458 C</id_exoplaneteu>
+	<name>Ross 458 C</name>
+	<name>DT Virginis C</name>
+	<name>HIP 63510 C</name>
+	<id>Ross 458 C</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>8.5</mass>
-		<radius />
+		<mass>12.5</mass>
+		<radius>1.1</radius>
 		<orbit>
 			<period />
-			<semimajoraxis>1168</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -20,12 +19,12 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>M2V</spectraltype>
+		<spectraltype>M0.5V</spectraltype>
 		<mass>0.6</mass>
 		<radius />
 		<metallicity />
 		<distance>114</distance>
-		<temperature>3840.0</temperature>
+		<temperature />
 		<rightascension>13 00 47</rightascension>
 		<declination>+12 22 33</declination>
 		<angulardistance />
@@ -43,4 +42,5 @@
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
 </planet>

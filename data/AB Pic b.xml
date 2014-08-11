@@ -4,11 +4,11 @@
 	<id>AB Pic b</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>13.5</mass>
-		<radius />
+		<mass>12</mass>
+		<radius>1.55</radius>
 		<orbit>
 			<period />
-			<semimajoraxis>275</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -18,11 +18,11 @@
 	</properties>
 	<star>
 		<spectraltype>K2 V</spectraltype>
-		<mass>13.5</mass>
-		<radius />
+		<mass>12</mass>
+		<radius>1.55</radius>
 		<metallicity>-0.64</metallicity>
-		<distance>47.3</distance>
-		<temperature>4875.0</temperature>
+		<distance>45.5</distance>
+		<temperature>1750</temperature>
 		<rightascension>06 19 12</rightascension>
 		<declination>-58 03 15</declination>
 		<angulardistance />
@@ -38,6 +38,6 @@
 	<description>AB Pictoris is a star in the constellation of Pictor. Because of its high mass, the companion could be a planet or a brown dwarf.</description>
 	<new />
 	<image>AB Pic</image>
-	<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was optained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
+	<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
 	<list>Confirmed planets</list>
 </planet>

@@ -1,14 +1,14 @@
 <planet>
-	<id_exoplaneteu>SR 12 AB c</id_exoplaneteu>
-	<name>SR 12 AB c</name>
-	<id>SR 12 AB c</id>
+	<id_exoplaneteu>SR 12 C</id_exoplaneteu>
+	<name>SR 12 C</name>
+	<id>SR 12 C</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
 		<mass>13</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>1083</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -18,8 +18,8 @@
 	</properties>
 	<star>
 		<spectraltype>K4-M2.5</spectraltype>
-		<mass>13</mass>
-		<radius />
+		<mass>0.3</mass>
+		<radius>2.7</radius>
 		<metallicity />
 		<distance>125</distance>
 		<temperature>5150.0</temperature>
@@ -40,4 +40,5 @@
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
 </planet>
