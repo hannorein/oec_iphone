@@ -1,4 +1,4 @@
-<planets date="2014-08-11" name="data" planets="1826">
+<planets date="2014-08-11" name="data" planets="1827">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -192,7 +192,6 @@
 			<mass>14</mass>
 			<radius>1.7</radius>
 			<orbit>
-				<semimajoraxis>330</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -207,7 +206,7 @@
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>11/12/14</lastupdate>
-		<description>1RXS J160929.1-210524 is a 5 million year old pre-main sequence star in the constellation of Scorpius. The observed planet has a large semi-major axis, posing problems for current formation scenarios. Two possibilities are that the planet formed by gravitational instability or migrated outwards.</description>
+		<description>1RXS J160929.1-210524 is a 5 million year old pre-main sequence star in the constellation of Scorpius. The observed planet has a large separation, posing problems for current formation scenarios. Two possibilities are that the planet formed by gravitational instability or migrated outwards.</description>
 		<image>1RXS1609</image>
 		<imagedescription>This image of the host star and the planet was taken with the Gemini North telescope and released in September 2008. Credit: Gemini Observatory.</imagedescription>
 		<list>Confirmed planets</list>
@@ -281,7 +280,6 @@
 		<properties>
 			<mass>7.5</mass>
 			<orbit>
-				<semimajoraxis>15</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -394,16 +392,15 @@
 		<id>2M1207 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>4</mass>
+			<mass>5</mass>
 			<orbit>
-				<semimajoraxis>46</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8</spectraltype>
 			<mass>0.025</mass>
-			<distance>52.4</distance>
-			<temperature>2550.0</temperature>
+			<distance>59</distance>
+			<temperature>1230</temperature>
 			<rightascension>12 07 33</rightascension>
 			<declination>-39 32 54</declination>
 			<magV>20.15</magV>
@@ -1095,17 +1092,18 @@
 		<id>AB Pic b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>13.5</mass>
+			<mass>12</mass>
+			<radius>1.55</radius>
 			<orbit>
-				<semimajoraxis>275</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K2 V</spectraltype>
-			<mass>13.5</mass>
+			<mass>12</mass>
+			<radius>1.55</radius>
 			<metallicity>-0.64</metallicity>
-			<distance>47.3</distance>
-			<temperature>4875.0</temperature>
+			<distance>45.5</distance>
+			<temperature>1750</temperature>
 			<rightascension>06 19 12</rightascension>
 			<declination>-58 03 15</declination>
 			<magV>9.16</magV>
@@ -1115,7 +1113,7 @@
 		<lastupdate>10/12/06</lastupdate>
 		<description>AB Pictoris is a star in the constellation of Pictor. Because of its high mass, the companion could be a planet or a brown dwarf.</description>
 		<image>AB Pic</image>
-		<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was optained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
+		<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1696,7 +1694,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<properties>
 			<mass>12</mass>
 			<orbit>
-				<semimajoraxis>200</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -2538,7 +2535,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>17</mass>
 			<radius>2.2</radius>
 			<orbit>
-				<semimajoraxis>440</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -2546,7 +2542,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass>17</mass>
 			<radius>2.2</radius>
 			<distance>165</distance>
-			<temperature>5150.0</temperature>
+			<temperature>2600</temperature>
 			<rightascension>11 04 09</rightascension>
 			<declination>-76 27 19</declination>
 			<magV>12.36</magV>
@@ -2560,22 +2556,21 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>DH Tau b</id_exoplaneteu>
-		<name>DH Tau b</name>
-		<name>DH Tauri b</name>
-		<id>DH Tau b</id>
+		<id_exoplaneteu>DH Tau B</id_exoplaneteu>
+		<name>DH Tau B</name>
+		<name>DH Tauri B</name>
+		<id>DH Tau B</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>37.5</mass>
+			<mass>12</mass>
 			<orbit>
-				<semimajoraxis>330</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M0.5V</spectraltype>
 			<mass>0.4</mass>
 			<distance>140.01</distance>
-			<temperature>3840.0</temperature>
+			<temperature>2750</temperature>
 			<rightascension>04 29 42</rightascension>
 			<declination>+26 32 58</declination>
 			<magV>13.71</magV>
@@ -2863,21 +2858,20 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>FU Tau b</id_exoplaneteu>
-		<name>FU Tau b</name>
-		<id>FU Tau b</id>
+		<id_exoplaneteu>FU Tau B</id_exoplaneteu>
+		<name>FU Tau B</name>
+		<id>FU Tau B</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>15</mass>
 			<orbit>
-				<semimajoraxis>800</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M7.25</spectraltype>
 			<mass>0.05</mass>
 			<distance>140</distance>
-			<temperature>2838.0</temperature>
+			<temperature>2375</temperature>
 			<rightascension>04 23 35</rightascension>
 			<declination>+25 03 03</declination>
 		</star>
@@ -2889,27 +2883,29 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>FW Tau b</id_exoplaneteu>
 		<name>FW Tau b</name>
+		<name>FW Tau (AB) b</name>
 		<id>FW Tau b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>10</mass>
 			<orbit>
-				<semimajoraxis>330</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M4</spectraltype>
-			<mass>0.28</mass>
+			<mass>0.12</mass>
 			<distance>145</distance>
 			<temperature>3270</temperature>
 			<rightascension>04 29 30</rightascension>
 			<declination>+26 16 53</declination>
+			<magV>16.64</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/12/02</lastupdate>
-		<description>DW Tau b is a wide separation planetary mass companion to the star DW Tau. The object was discovered over 10 years ago in a binary survey program, but follow-up observations only confirmed its planetary nature in 2013.</description>
+		<description>FW Tau b is a wide separation planetary mass companion to the star FW Tau. The object was discovered over 10 years ago in a binary survey program, but follow-up observations only confirmed its planetary nature in 2013.</description>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gamma Cephei b</id_exoplaneteu>
@@ -3603,7 +3599,6 @@ Credit: Joe Gallagher.</imagedescription>
 		<properties>
 			<mass>4</mass>
 			<orbit>
-				<semimajoraxis>43.5</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -4675,7 +4670,6 @@ Credit: Jonah Gallagher.</imagedescription>
 			<mass>21.5</mass>
 			<radius>1.8</radius>
 			<orbit>
-				<semimajoraxis>103</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -4703,16 +4697,15 @@ Credit: Jonah Gallagher.</imagedescription>
 		<id>GSC 06214-00210 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>17</mass>
+			<mass>14</mass>
 			<orbit>
-				<semimajoraxis>320</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M1</spectraltype>
 			<mass>0.6</mass>
 			<distance>145</distance>
-			<temperature>3840.0</temperature>
+			<temperature>2200</temperature>
 			<rightascension>16 21 55</rightascension>
 			<declination>-20 43 07</declination>
 		</star>
@@ -4731,7 +4724,6 @@ Credit: Jonah Gallagher.</imagedescription>
 		<properties>
 			<mass>11</mass>
 			<orbit>
-				<semimajoraxis>2000</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -4742,6 +4734,7 @@ Credit: Jonah Gallagher.</imagedescription>
 			<temperature>1050</temperature>
 			<rightascension>01 12 35</rightascension>
 			<declination>+17 03 56</declination>
+			<magV>13.55</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
@@ -6575,6 +6568,37 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-6 b</id_exoplaneteu>
+		<name>HATS-6 b</name>
+		<name>2MASS 05523523-1901539 b</name>
+		<id>HATS-6 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.319</mass>
+			<radius>0.998</radius>
+			<orbit>
+				<period>3.3252725</period>
+				<semimajoraxis>0.03623</semimajoraxis>
+				<inclination>88.210</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.574</mass>
+			<radius>0.570</radius>
+			<metallicity>0.2</metallicity>
+			<distance>172.6</distance>
+			<temperature>3724</temperature>
+			<rightascension>05 52 35</rightascension>
+			<declination>-19 01 54</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/08/07</lastupdate>
+		<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 100546 b</id_exoplaneteu>
 		<name>HD 100546 b</name>
 		<id>HD 100546 b</id>
@@ -7399,7 +7423,6 @@ Credit: ESO/L. Calcada</imagedescription>
 		<properties>
 			<mass>11</mass>
 			<orbit>
-				<semimajoraxis>650</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -18415,7 +18438,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<properties>
 			<mass>5</mass>
 			<orbit>
-				<semimajoraxis>56.4</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -19241,7 +19263,6 @@ Credit: ESO/J. Rameau</imagedescription>
 		<properties>
 			<mass>23.04</mass>
 			<orbit>
-				<semimajoraxis>710</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -19324,18 +19345,17 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HN Peg b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>16</mass>
-			<radius>1.1</radius>
+			<mass>22</mass>
+			<radius>1.05</radius>
 			<orbit>
-				<semimajoraxis>795</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G0V</spectraltype>
 			<mass>1</mass>
-			<radius>1.1</radius>
+			<radius>1.05</radius>
 			<distance>18.4</distance>
-			<temperature>5940.0</temperature>
+			<temperature>1130</temperature>
 			<rightascension>21 44 31</rightascension>
 			<declination>+14 46 19</declination>
 			<magV>6</magV>
@@ -19638,15 +19658,14 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>Kappa And b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>12.8</mass>
+			<mass>50</mass>
 			<orbit>
-				<semimajoraxis>61</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>B9IV</spectraltype>
-			<mass>2.4</mass>
-			<radius>2.31</radius>
+			<mass>2.8</mass>
+			<radius>2.29</radius>
 			<metallicity>-0.36</metallicity>
 			<distance>51.6</distance>
 			<temperature>11361</temperature>
@@ -19657,7 +19676,7 @@ Credit: ESO/J. Rameau</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/11/19</lastupdate>
-		<description>Kappa Andromedae b is an extrasolar planet or possibly low-mass brown dwarf. Astronomers have directly imaged it using the Subaru telescope on Hawaii. An object is called a planet when it is not able to fuse hydrogen in its core. Kappa Andromedae b is very close to the theoretical limit of 13 Jupiter masses.</description>
+		<description>Kappa Andromedae b is an extrasolar planet or possibly low-mass brown dwarf. Astronomers have directly imaged it using the Subaru telescope on Hawaii.</description>
 		<image>KappaAndromedae</image>
 		<imagedescription>Image of the star Kappa Andromedae and the planet or brown dwarf Kappa Andromedae (top left). 
 			
@@ -48311,15 +48330,14 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>LKCA 15 b</id_exoplaneteu>
-		<name>LKCA 15 b</name>
-		<id>LKCA 15 b</id>
+		<id_exoplaneteu>LkCa 15 b</id_exoplaneteu>
+		<name>LkCa 15 b</name>
+		<id>LkCa 15 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>6</mass>
 			<orbit>
 				<period>40000</period>
-				<semimajoraxis>15.7</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -49968,22 +49986,22 @@ Credit: Kains et al (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Oph 11 b</id_exoplaneteu>
-		<name>Oph 11 b</name>
-		<id>Oph 11 b</id>
+		<id_exoplaneteu>Oph 11 B</id_exoplaneteu>
+		<name>Oph 11 B</name>
+		<name>Oph J1622-2405 B</name>
+		<name>WDS J16224-2405 B</name>
+		<id>Oph 11 B</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>21</mass>
 			<orbit>
-				<period>730000</period>
-				<semimajoraxis>243</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M9</spectraltype>
-			<mass>0.162</mass>
+			<spectraltype>M7.25</spectraltype>
+			<mass>0.051</mass>
 			<distance>145</distance>
-			<temperature>2375.0</temperature>
+			<temperature>2838</temperature>
 			<rightascension>16 22 25</rightascension>
 			<declination>-24 05 14</declination>
 		</star>
@@ -50428,24 +50446,22 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Ross 458(AB) c</id_exoplaneteu>
-		<name>Ross 458(AB) c</name>
-		<name>Ross 458 AB c</name>
-		<name>DT Virginis c</name>
-		<name>HIP 63510 c</name>
-		<id>Ross 458(AB) c</id>
+		<id_exoplaneteu>Ross 458 C</id_exoplaneteu>
+		<name>Ross 458 C</name>
+		<name>DT Virginis C</name>
+		<name>HIP 63510 C</name>
+		<id>Ross 458 C</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>8.5</mass>
+			<mass>12.5</mass>
+			<radius>1.1</radius>
 			<orbit>
-				<semimajoraxis>1168</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M2V</spectraltype>
+			<spectraltype>M0.5V</spectraltype>
 			<mass>0.6</mass>
 			<distance>114</distance>
-			<temperature>3840.0</temperature>
 			<rightascension>13 00 47</rightascension>
 			<declination>+12 22 33</declination>
 			<magV>9.76</magV>
@@ -50454,6 +50470,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>11/08/11</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>ROXs 12 b</id_exoplaneteu>
@@ -50463,7 +50480,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<properties>
 			<mass>16</mass>
 			<orbit>
-				<semimajoraxis>210</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -50483,12 +50499,12 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>ROXs 42 B b</id_exoplaneteu>
 		<name>ROXs 42 B b</name>
+		<name>ROXs 42 B (AB) b</name>
 		<id>ROXs 42 B b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>10</mass>
 			<orbit>
-				<semimajoraxis>140</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -50508,6 +50524,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			
 Credit: Thayne Currie.</imagedescription>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>RR Cae (AB) b</id_exoplaneteu>
@@ -50612,19 +50629,19 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Solar System</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>SR 12 AB c</id_exoplaneteu>
-		<name>SR 12 AB c</name>
-		<id>SR 12 AB c</id>
+		<id_exoplaneteu>SR 12 C</id_exoplaneteu>
+		<name>SR 12 C</name>
+		<id>SR 12 C</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>13</mass>
 			<orbit>
-				<semimajoraxis>1083</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K4-M2.5</spectraltype>
-			<mass>13</mass>
+			<mass>0.3</mass>
+			<radius>2.7</radius>
 			<distance>125</distance>
 			<temperature>5150.0</temperature>
 			<rightascension>16 27 20</rightascension>
@@ -50635,6 +50652,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/03/08</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>SWEEPS-11</id_exoplaneteu>
@@ -51285,16 +51303,15 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>UScoCTIO 108 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>16</mass>
+			<mass>14</mass>
 			<orbit>
-				<semimajoraxis>670</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M7</spectraltype>
 			<mass>0.057</mass>
 			<distance>145</distance>
-			<temperature>2600.0</temperature>
+			<temperature>2700</temperature>
 			<rightascension>16 05 54</rightascension>
 			<declination>-18 18 43</declination>
 		</star>
@@ -51583,7 +51600,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/08/06</lastupdate>
 		<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -51616,7 +51632,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/08/06</lastupdate>
 		<description>The transiting exoplanet WASP-106 b is just slightly larger than Jupiter. The orbital solution is consistent with zero eccentricity, which is interesting because many other similar planets are known to have eccentric orbits. The planet was discovered by the WASP survey.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -54275,22 +54290,21 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>WD 0806-661B b</id_exoplaneteu>
-		<name>WD 0806-661B b</name>
-		<name>WD 0806-661 b</name>
-		<id>WD 0806-661B b</id>
+		<id_exoplaneteu>WD 0806-661 B</id_exoplaneteu>
+		<name>WD 0806-661 B</name>
+		<name>GJ 3483 B</name>
+		<id>WD 0806-661 B</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>8</mass>
 			<orbit>
-				<semimajoraxis>2500</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>DQ D</spectraltype>
 			<mass>0.62</mass>
 			<distance>19.2</distance>
-			<temperature>5700.0</temperature>
+			<temperature>340</temperature>
 			<rightascension>08 06 54</rightascension>
 			<declination>-66 18 17</declination>
 		</star>
