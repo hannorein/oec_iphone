@@ -1,4 +1,4 @@
-<systems name="systems" planets="1827">
+<systems name="systems" planets="1828">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3133,6 +3133,57 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<name>Gliese 1214</name>
 			<temperature>3026.0</temperature>
 		</star>
+	</system>
+	<system>
+		<name>Gliese 15</name>
+		<rightascension>00 18 23</rightascension>
+		<declination>+44 01 23</declination>
+		<distance errorminus="0.01" errorplus="0.01">3.587</distance>
+		<binary>
+			<period>949650</period>
+			<separation unit="AU">146</separation>
+			<separation unit="arcsec" />
+			<star>
+				<name>Gliese 15 A</name>
+				<name>HD 1326 A</name>
+				<name>HIP 1475</name>
+				<name>GX Andromedae</name>
+				<name>GX And</name>
+				<name>Groombridge 34</name>
+				<mass errorminus="0.057" errorplus="0.057">0.375</mass>
+				<radius errorminus="0.0021" errorplus="0.0021">0.3863</radius>
+				<temperature errorminus="11" errorplus="11">3567</temperature>
+				<metallicity errorminus="0.17" errorplus="0.17">-0.32</metallicity>
+				<spectraltype>M2V</spectraltype>
+				<planet>
+					<name>Gliese 15 A b</name>
+					<name>HD 1326 A b</name>
+					<name>HIP 1475 b</name>
+					<name>GX Andromedae b</name>
+					<name>Groombridge 34 b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.002359" errorplus="0.002359">0.016829</mass>
+					<period errorminus="0.0016" errorplus="0.0016">11.4433</period>
+					<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.0717</semimajoraxis>
+					<eccentricity>0</eccentricity>
+					<description>Gliese 15 A b, also known as Groombridge 34 b, is a 5 Earth-mass planet in a nearby M-dwarf binary.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>14/08/26</lastupdate>
+					<discoveryyear>2014</discoveryyear>
+					<new>1</new>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>Gliese 15 B</name>
+				<name>HD 1326 B</name>
+				<spectraltype>M3.5</spectraltype>
+				<mass>0.163</mass>
+				<radius>0.19</radius>
+				<name>GQ And</name>
+			</star>
+			<semimajoraxis>146</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>Gliese 163</name>
@@ -6787,7 +6838,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>14/08/07</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -41001,13 +41051,13 @@ Credit: Joe Gallagher.</imagedescription>
 			<planet>
 				<name>Kepler-91 b</name>
 				<name>KIC 8219268 b</name>
-				<list>Controversial</list>
-				<mass errorminus="0.33" errorplus="0.17">0.88</mass>
-				<radius errorminus="0.054" errorplus="0.011">1.384</radius>
-				<period errorminus="0.000082" errorplus="0.000082">6.246580</period>
-				<semimajoraxis errorminus="0.007" errorplus="0.002">0.072</semimajoraxis>
-				<eccentricity errorminus="0.017" errorplus="0.013">0.066</eccentricity>
-				<inclination errorminus="1.6" errorplus="1">68.5</inclination>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.13" errorplus="0.13">0.73</mass>
+				<radius errorminus="0.074" errorplus="0.061">1.308</radius>
+				<period errorminus="0.000034" errorplus="0.000034">6.246716</period>
+				<semimajoraxis errorminus="0.0019" errorplus="0.0019">0.0723</semimajoraxis>
+				<eccentricity errorminus="0.016" errorplus="0.040">0.040</eccentricity>
+				<inclination errorminus="0.88" errorplus="0.58">69.17</inclination>
 				<periastron errorminus="7.4" errorplus="21">316.8</periastron>
 				<description>Kepler-91 b is a planet very close its host star. It might be destroyed within the next 55 million years. The planet was initially discovered by the Kepler telescope and later confirmed by a group of European researchers led by Jorge Lillo-Box.</description>
 				<discoverymethod>transit</discoverymethod>
