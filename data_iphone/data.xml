@@ -1,4 +1,4 @@
-<planets date="2014-08-11" name="data" planets="1827">
+<planets date="2014-08-26" name="data" planets="1828">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -3012,6 +3012,41 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	
 Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).</imagedescription>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 15 A b</id_exoplaneteu>
+		<name>Gliese 15 A b</name>
+		<name>HD 1326 A b</name>
+		<name>HIP 1475 b</name>
+		<name>GX Andromedae b</name>
+		<name>Groombridge 34 b</name>
+		<id>Gliese 15 A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.016829</mass>
+			<orbit>
+				<period>11.4433</period>
+				<semimajoraxis>0.0717</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2V</spectraltype>
+			<mass>0.375</mass>
+			<radius>0.3863</radius>
+			<metallicity>-0.32</metallicity>
+			<distance>3.587</distance>
+			<temperature>3567</temperature>
+			<rightascension>00 18 23</rightascension>
+			<declination>+44 01 23</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/08/26</lastupdate>
+		<description>Gliese 15 A b, also known as Groombridge 34 b, is a 5 Earth-mass planet in a nearby M-dwarf binary.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 163 b</id_exoplaneteu>
@@ -6595,7 +6630,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/08/07</lastupdate>
 		<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -47063,13 +47097,13 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Kepler-91 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.88</mass>
-			<radius>1.384</radius>
+			<mass>0.73</mass>
+			<radius>1.308</radius>
 			<orbit>
-				<period>6.246580</period>
-				<semimajoraxis>0.072</semimajoraxis>
-				<eccentricity>0.066</eccentricity>
-				<inclination>68.5</inclination>
+				<period>6.246716</period>
+				<semimajoraxis>0.0723</semimajoraxis>
+				<eccentricity>0.040</eccentricity>
+				<inclination>69.17</inclination>
 				<periastron>316.8</periastron>
 			</orbit>
 		</properties>
@@ -47086,7 +47120,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/12/18</lastupdate>
 		<description>Kepler-91 b is a planet very close its host star. It might be destroyed within the next 55 million years. The planet was initially discovered by the Kepler telescope and later confirmed by a group of European researchers led by Jorge Lillo-Box.</description>
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-93 b</id_exoplaneteu>
