@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>Gliese 15 A b</id_exoplaneteu>
+	<name>Gliese 15 A b</name>
+	<name>HD 1326 A b</name>
+	<name>HIP 1475 b</name>
+	<name>GX Andromedae b</name>
+	<name>Groombridge 34 b</name>
+	<id>Gliese 15 A b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.016829</mass>
+		<radius />
+		<orbit>
+			<period>11.4433</period>
+			<semimajoraxis>0.0717</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2V</spectraltype>
+		<mass>0.375</mass>
+		<radius>0.3863</radius>
+		<metallicity>-0.32</metallicity>
+		<distance>3.587</distance>
+		<temperature>3567</temperature>
+		<rightascension>00 18 23</rightascension>
+		<declination>+44 01 23</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/08/26</lastupdate>
+	<description>Gliese 15 A b, also known as Groombridge 34 b, is a 5 Earth-mass planet in a nearby M-dwarf binary.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
