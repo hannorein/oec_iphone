@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>CoRoT-22 b</id_exoplaneteu>
+	<name>CoRoT-22 b</name>
+	<name>2MASS 18424010+0613088</name>
+	<id>CoRoT-22 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.0383853003178</mass>
+		<radius>0.435365216104</radius>
+		<orbit>
+			<period>9.75598</period>
+			<semimajoraxis>0.092</semimajoraxis>
+			<eccentricity>0.077</eccentricity>
+			<inclination>89.749</inclination>
+			<periastron>210.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0IV</spectraltype>
+		<mass>1.099</mass>
+		<radius>1.136</radius>
+		<metallicity>0.17</metallicity>
+		<distance>592.0</distance>
+		<temperature>5939</temperature>
+		<rightascension>18 42 40</rightascension>
+		<declination>+06 13 09</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/08/28</lastupdate>
+	<description>CoRoT-22 b is a transiting exoplanet discovered by the European CoRoT space mission. The planetary nature of this object has been validated by a full Basian analysis including observing constraints from radial-velocity spectroscopy, adaptive optics imaging and the CoRoT transit shape, as well as from priors on stellar populations, planet and multiple stellar systems frequency.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
