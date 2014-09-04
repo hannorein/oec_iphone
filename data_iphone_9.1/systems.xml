@@ -1,4 +1,4 @@
-<systems name="systems" planets="1828">
+<systems name="systems" planets="1830">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2176,6 +2176,40 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 	</system>
 	<system>
+		<name>CoRoT-22</name>
+		<rightascension>18 42 40</rightascension>
+		<declination>+06 13 09</declination>
+		<distance errorminus="42" errorplus="25">592.0</distance>
+		<star>
+			<name>CoRoT-22</name>
+			<age errorminus="2" errorplus="2">3.3</age>
+			<radius errorminus="0.09" errorplus="0.038">1.136</radius>
+			<mass errorminus="0.049" errorplus="0.049">1.099</mass>
+			<spectraltype>G0IV</spectraltype>
+			<temperature errorminus="120" errorplus="54">5939</temperature>
+			<metallicity errorminus="0.12" errorplus="0.07">0.17</metallicity>
+			<planet>
+				<name>CoRoT-22 b</name>
+				<name>2MASS 18424010+0613088</name>
+				<list>Confirmed planets</list>
+				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.092</semimajoraxis>
+				<periastron errorminus="30.0" errorplus="70.0">210.0</periastron>
+				<eccentricity errorminus="0.042" errorplus="0.3">0.077</eccentricity>
+				<inclination errorminus="0.9" errorplus="0.032">89.749</inclination>
+				<period errorminus="0.00011" errorplus="0.00011">9.75598</period>
+				<temperature errorminus="280" errorplus="54">885</temperature>
+				<transittime errorminus="0.00051" errorplus="0.00099" unit="BJD">2454598.42014</transittime>
+				<mass errorminus="0.0276877576062675" errorplus="0.0440487052826983">0.0383853003178</mass>
+				<new>1</new>
+				<radius errorminus="0.0347935316148303" errorplus="0.0151664112167209">0.435365216104</radius>
+				<istransiting>1</istransiting>
+				<description>CoRoT-22 b is a transiting exoplanet discovered by the European CoRoT space mission. The planetary nature of this object has been validated by a full Basian analysis including observing constraints from radial-velocity spectroscopy, adaptive optics imaging and the CoRoT transit shape, as well as from priors on stellar populations, planet and multiple stellar systems frequency.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/08/28</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>CoRoT-23</name>
 		<rightascension>18 39 08</rightascension>
 		<declination>+04 21 28</declination>
@@ -3170,7 +3204,6 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>14/08/26</lastupdate>
 					<discoveryyear>2014</discoveryyear>
-					<new>1</new>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
@@ -43134,6 +43167,37 @@ Image credit: Joe Gallagher</imagedescription>
 			<name>OGLE-2007-BLG-368L</name>
 			<temperature>5700.0</temperature>
 		</star>
+	</system>
+	<system>
+		<name>OGLE-2008-BLG-092L</name>
+		<rightascension>17 47 29</rightascension>
+		<declination>-34 43 36</declination>
+		<distance>7000</distance>
+		<binary>
+			<separation unit="AU">41</separation>
+			<star>
+				<name>OGLE-2008-BLG-092L</name>
+				<mass>0.58</mass>
+				<planet>
+					<name>OGLE-2008-BLG-092L b</name>
+					<list>Confirmed planets</list>
+					<mass>0.12347045</mass>
+					<semimajoraxis>13</semimajoraxis>
+					<description>The planet OGLE-2008-BLG-092L b is a Uranus-mass planet in a binary stellar system. The discovery was made using the gravitational microlensing method. Some of the physical parameters of the system are not well constrained and model dependent.</description>
+					<discoverymethod>microlensing</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>14/09/04</lastupdate>
+					<new>1</new>
+					<discoveryyear>2014</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>OGLE-2008-BLG-092L B</name>
+				<mass>0.12</mass>
+			</star>
+			<semimajoraxis>41</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>OGLE-2008-BLG-355L</name>
