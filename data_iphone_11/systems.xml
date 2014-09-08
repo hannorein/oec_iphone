@@ -1,4 +1,4 @@
-<systems name="systems" planets="1830">
+<systems name="systems" planets="1831">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2200,7 +2200,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<temperature errorminus="280" errorplus="54">885</temperature>
 				<transittime errorminus="0.00051" errorplus="0.00099" unit="BJD">2454598.42014</transittime>
 				<mass errorminus="0.0276877576062675" errorplus="0.0440487052826983">0.0383853003178</mass>
-				<new>1</new>
 				<radius errorminus="0.0347935316148303" errorplus="0.0151664112167209">0.435365216104</radius>
 				<istransiting>1</istransiting>
 				<description>CoRoT-22 b is a transiting exoplanet discovered by the European CoRoT space mission. The planetary nature of this object has been validated by a full Bayesian analysis including observing constraints from radial-velocity spectroscopy, adaptive optics imaging and the CoRoT transit shape, as well as from priors on stellar populations, planet and multiple stellar systems frequency.</description>
@@ -41465,6 +41464,54 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KIC 9632895</name>
+		<rightascension>18 52 58</rightascension>
+		<declination>+46 22 42</declination>
+		<distance>500</distance>
+		<binary>
+			<period errorminus="0.000017" errorplus="0.000017">27.322037</period>
+			<semimajoraxis errorminus="0.00066" errorplus="0.00066">0.18479</semimajoraxis>
+			<inclination errorminus="0.052" errorplus="0.052">90.275</inclination>
+			<eccentricity errorminus="0.0037" errorplus="0.0037">0.051</eccentricity>
+			<periastron errorminus="0.48" errorplus="0.48">262.86</periastron>
+			<star>
+				<name>KIC 9632895 A</name>
+				<mass errorminus="0.01" errorplus="0.01">0.934</mass>
+				<radius errorminus="0.011" errorplus="0.011">0.833</radius>
+				<temperature errorminus="100" errorplus="100">5527</temperature>
+				<age errorminus="0.75" errorplus="0.75">1.75</age>
+				<metallicity>0.0</metallicity>
+			</star>
+			<star>
+				<name>KIC 9632895 A</name>
+				<mass errorminus="0.002" errorplus="0.002">0.1938</mass>
+				<radius errorminus="0.0014" errorplus="0.0014">0.2143</radius>
+				<temperature errorminus="100" errorplus="100">3309</temperature>
+				<age errorminus="0.75" errorplus="0.75">1.75</age>
+			</star>
+			<planet>
+				<name>KIC 9632895 b</name>
+				<name>KIC 9632895 (AB) b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.050331" errorplus="0.050331">0.019503</mass>
+				<radius errorminus="0.003190" errorplus="0.003190">0.561818</radius>
+				<period errorminus="0.053" errorplus="0.053">240.503</period>
+				<semimajoraxis errorminus="0.0028" errorplus="0.0028">0.7877</semimajoraxis>
+				<eccentricity errorminus="0.0088" errorplus="0.0088">0.0379</eccentricity>
+				<inclination errorminus="0.0056" errorplus="0.0056">89.4338</inclination>
+				<periastron errorminus="0.29" errorplus="0.29">-178.59</periastron>
+				<ascendingnode errorminus="0.055" errorplus="0.055">2.138</ascendingnode>
+				<description>The circum-binary planet KIC 9632895b was discovered in the Kepler dataset. It orbits stellar binary every 240 days. The stars themselves have an orbital period of 27 days. The preciession period id 103 years. During that cycle, only 8 percent of the transits are visible.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<new>1</new>
+				<lastupdate>14/09/08</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<list>Planets in binary systems, P-type</list>
+			</planet>
+		</binary>
+	</system>
+	<system>
 		<name>KOI-1257</name>
 		<rightascension>19 24 54</rightascension>
 		<declination>+44 55 38</declination>
@@ -43187,7 +43234,6 @@ Image credit: Joe Gallagher</imagedescription>
 					<discoverymethod>microlensing</discoverymethod>
 					<istransiting>1</istransiting>
 					<lastupdate>14/09/04</lastupdate>
-					<new>1</new>
 					<discoveryyear>2014</discoveryyear>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
