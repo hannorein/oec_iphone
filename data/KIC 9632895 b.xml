@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>KIC 9632895 b</id_exoplaneteu>
+	<name>KIC 9632895 b</name>
+	<name>KIC 9632895 (AB) b</name>
+	<id>KIC 9632895 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.019503</mass>
+		<radius>0.561818</radius>
+		<orbit>
+			<period>240.503</period>
+			<semimajoraxis>0.7877</semimajoraxis>
+			<eccentricity>0.0379</eccentricity>
+			<inclination>89.4338</inclination>
+			<periastron>-178.59</periastron>
+			<longitude />
+			<ascendingnode>2.138</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.934</mass>
+		<radius>0.833</radius>
+		<metallicity>0.0</metallicity>
+		<distance>500</distance>
+		<temperature>5527</temperature>
+		<rightascension>18 52 58</rightascension>
+		<declination>+46 22 42</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/09/08</lastupdate>
+	<description>The circum-binary planet KIC 9632895b was discovered in the Kepler dataset. It orbits stellar binary every 240 days. The stars themselves have an orbital period of 27 days. The preciession period id 103 years. During that cycle, only 8 percent of the transits are visible.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
+</planet>
