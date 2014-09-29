@@ -1,4 +1,4 @@
-<systems name="systems" planets="1831">
+<systems name="systems" planets="1833">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -41504,7 +41504,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<description>The circum-binary planet KIC 9632895b was discovered in the Kepler dataset. It orbits stellar binary every 240 days. The stars themselves have an orbital period of 27 days. The precession period is 103 years. During that cycle, only 8 percent of the transits are visible.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>14/09/08</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<list>Planets in binary systems, P-type</list>
@@ -43690,6 +43689,53 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>Omega Serpentis</name>
+		<name>ome Ser</name>
+		<name>ome Serpentis</name>
+		<name>HR 5888</name>
+		<name>HD 141680</name>
+		<name>HIP 77578</name>
+		<rightascension>15 50 17.55</rightascension>
+		<declination>+02 11 47.44</declination>
+		<distance>83.8</distance>
+		<star>
+			<magB>6.239</magB>
+			<magV>5.230</magV>
+			<magJ errorminus="0.01" errorplus="0.01">3.461</magJ>
+			<magH errorminus="0.01" errorplus="0.01">2.955</magH>
+			<magK errorminus="0.01" errorplus="0.01">2.838</magK>
+			<name>Omega Serpentis</name>
+			<name>ome Ser</name>
+			<name>ome Serpentis</name>
+			<name>HR 5888</name>
+			<name>HD 141680</name>
+			<name>HIP 77578</name>
+			<mass>2.17</mass>
+			<radius>12.30</radius>
+			<temperature>4770</temperature>
+			<metallicity>-0.24</metallicity>
+			<spectraltype>G8III</spectraltype>
+			<planet>
+				<name>Omega Serpentis b</name>
+				<name>ome Ser b</name>
+				<name>ome Serpentis b</name>
+				<name>HR 5888 b</name>
+				<name>HD 141680 b</name>
+				<name>HIP 77578 b</name>
+				<list>Confirmed planets</list>
+				<mass>1.7</mass>
+				<period>277.02</period>
+				<semimajoraxis>1.1</semimajoraxis>
+				<eccentricity>0.106</eccentricity>
+				<periastron>132</periastron>
+				<description>The exoplanet Omega Serpentis b is orbiting a star in the northern constellation Serpens. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>13/04/17</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>omi CrB</name>
 		<rightascension>15 20 08</rightascension>
 		<declination>+29 36 58</declination>
@@ -43762,54 +43808,6 @@ Credit: Kains et al (2013).</imagedescription>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/04/15</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-			</planet>
-		</star>
-	</system>
-	<system>
-		<name>Omicron Serpentis</name>
-		<name>o Ser</name>
-		<name>o Serpentis</name>
-		<name>HR 6581</name>
-		<name>HD 160613</name>
-		<name>HIP 86565</name>
-		<rightascension>17 41 25</rightascension>
-		<declination>-12 52 31</declination>
-		<distance>52</distance>
-		<star>
-			<magB>4.331</magB>
-			<magV>4.244</magV>
-			<magJ errorminus="0.248" errorplus="0.248">4.248</magJ>
-			<magH errorminus="0.168" errorplus="0.168">4.181</magH>
-			<magK errorminus="0.248" errorplus="0.248">4.107</magK>
-			<name>Omicron Serpentis</name>
-			<name>o Ser</name>
-			<name>o Serpentis</name>
-			<name>HR 6581</name>
-			<name>HD 160613</name>
-			<name>HIP 86565</name>
-			<mass>2.17</mass>
-			<radius>12.30</radius>
-			<temperature>4770</temperature>
-			<metallicity>-0.24</metallicity>
-			<spectraltype>G8III</spectraltype>
-			<planet>
-				<name>Omicron Serpentis b</name>
-				<name>o Ser b</name>
-				<name>ome Ser b</name>
-				<name>o Serpentis b</name>
-				<name>HR 6581 b</name>
-				<name>HD 160613 b</name>
-				<name>HIP 86565 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.7</mass>
-				<period>277.02</period>
-				<semimajoraxis>1.1</semimajoraxis>
-				<eccentricity>0.106</eccentricity>
-				<periastron>132</periastron>
-				<description>The exoplanet Omicron Serpentis b is orbiting a star in the northern constellation Serpens. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>13/04/17</lastupdate>
-				<discoveryyear>2013</discoveryyear>
 			</planet>
 		</star>
 	</system>
@@ -44976,7 +44974,8 @@ Credit: ESO/L. Calcada</imagedescription>
 			<eccentricity>0.91</eccentricity>
 			<star>
 				<name>tau Boo A</name>
-				<name>Tau Booetis A</name>
+				<name>Tau Bo&#246;tis A</name>
+				<name>Tau Bootis A</name>
 				<name>HD 120136 A</name>
 				<name>GJ 527 A</name>
 				<name>Gliese 527 A</name>
@@ -44995,7 +44994,8 @@ Credit: ESO/L. Calcada</imagedescription>
 				<spectraltype>F7 V</spectraltype>
 				<planet>
 					<name>tau Boo A b</name>
-					<name>Tau Booetis A b</name>
+					<name>Tau Bo&#246;tis A b</name>
+					<name>Tau Bootis A b</name>
 					<name>HD 120136 A b</name>
 					<name>GJ 527 A b</name>
 					<name>Gliese 527 A b</name>
@@ -45006,7 +45006,7 @@ Credit: ESO/L. Calcada</imagedescription>
 					<semimajoraxis>0.046</semimajoraxis>
 					<eccentricity>0.023</eccentricity>
 					<inclination errorminus="4" errorplus="3">45</inclination>
-					<description>The planet Tau Bootis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time.</description>
+					<description>The planet Tau Bo&#246;tis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time.</description>
 					<temperature>2000</temperature>
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>14/03/04</lastupdate>
@@ -45020,7 +45020,8 @@ Credit: ESO/L. Calcada</imagedescription>
 			</star>
 			<star>
 				<name>tau Boo B</name>
-				<name>Tau Booetis B</name>
+				<name>Tau Bo&#246;tis B</name>
+				<name>Tau Bootis B</name>
 				<name>HD 120136 B</name>
 				<name>GJ 527 B</name>
 				<name>Gliese 527 B</name>
@@ -48732,6 +48733,73 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
+	</system>
+	<system>
+		<name>WASP-94</name>
+		<rightascension>20 55 08</rightascension>
+		<declination>-34 08 08</declination>
+		<distance errorminus="20" errorplus="20">180</distance>
+		<binary>
+			<separation unit="AU">2700</separation>
+			<separation unit="arcsec">15</separation>
+			<star>
+				<name>WASP-94 A</name>
+				<name>2MASS 20550794-3408079</name>
+				<mass errorminus="0.1" errorplus="0.1">1.29</mass>
+				<radius errorminus="0.13" errorplus="0.13">1.36</radius>
+				<temperature errorminus="80" errorplus="80">6170</temperature>
+				<magV>10.1</magV>
+				<metallicity errorminus="0.15" errorplus="0.15">0.26</metallicity>
+				<spectraltype>F8</spectraltype>
+				<planet>
+					<name>WASP-94 A b</name>
+					<name>2MASS 20550794-3408079 b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.032" errorplus="0.035">0.452</mass>
+					<radius errorminus="0.05" errorplus="0.06">1.72</radius>
+					<period errorminus="0.0000030" errorplus="0.0000044">3.9501907</period>
+					<transittime errorminus="0.00026" errorplus="0.00026" unit="HJD">2456416.40138</transittime>
+					<semimajoraxis errorminus="0.001" errorplus="0.001">0.055</semimajoraxis>
+					<eccentricity upperlimit="0.13" />
+					<inclination errorminus="0.7" errorplus="0.7">88.7</inclination>
+					<spinorbitalignment errorminus="20" errorplus="20">151</spinorbitalignment>
+					<new>1</new>
+					<description>WASP-94 A b is a Hot Jupiter orbiting an F-star in a binary system. The other binary component WASP-94 B also hosts a Hot Jupiter, making this system an ideal test-bed to explore planet formation scenarios. The planet's orbit is misaligned with the host star rotation axis.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>14/09/29</lastupdate>
+					<discoveryyear>2014</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-94 B</name>
+				<name>2MASS 20550915-3408078</name>
+				<mass errorminus="0.09" errorplus="0.09">1.24</mass>
+				<radius errorminus="0.12" errorplus="0.12">1.35</radius>
+				<temperature errorminus="90" errorplus="90">6040</temperature>
+				<magV>10.5</magV>
+				<metallicity errorminus="0.14" errorplus="0.14">0.23</metallicity>
+				<spectraltype>F9</spectraltype>
+				<planet>
+					<name>WASP-94 B b</name>
+					<name>2MASS 20550915-3408078 b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.029" errorplus="0.028">0.618</mass>
+					<period errorminus="0.00024" errorplus="0.00024">2.00839</period>
+					<semimajoraxis errorminus="0.005" errorplus="0.006">0.0335</semimajoraxis>
+					<eccentricity>0</eccentricity>
+					<description>WASP-95 B b is a Hot Jupiter orbiting an F-star in a binary system. The planet was confirmed using radial velocity measurements. No transit has been detected yet. The other binary component, WASP-94 A also hosts a hot Jupiter.</description>
+					<discoverymethod>RV</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>14/09/29</lastupdate>
+					<new>1</new>
+					<discoveryyear>2014</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<semimajoraxis>2700</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-95</name>
