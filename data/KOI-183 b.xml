@@ -1,0 +1,49 @@
+<planet>
+	<id_exoplaneteu>KOI-183 b</id_exoplaneteu>
+	<name>KOI-183 b</name>
+	<name>KOI-0183 b</name>
+	<name>KOI-0183 01</name>
+	<name>KOI-183.01</name>
+	<name>KIC 9651668 b</name>
+	<name>GSC2.3 N2JG036249 b</name>
+	<name>2MASS 19312537+4623282 b</name>
+	<id>KOI-183 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.595</mass>
+		<radius>1.192</radius>
+		<orbit>
+			<period>2.68432850</period>
+			<semimajoraxis>0.03585</semimajoraxis>
+			<eccentricity>0.019</eccentricity>
+			<inclination>87.828</inclination>
+			<periastron>120.26</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G4V</spectraltype>
+		<mass>0.85</mass>
+		<radius>0.95</radius>
+		<metallicity>-0.10</metallicity>
+		<distance>725</distance>
+		<temperature>5560</temperature>
+		<rightascension>19 31 25</rightascension>
+		<declination>+46 23 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/09/30</lastupdate>
+	<description>KOI-183 b is a half-Jupiter mass planet orbiting a very old Sun-like star.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

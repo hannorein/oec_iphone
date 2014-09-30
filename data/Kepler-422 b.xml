@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-422 b</id_exoplaneteu>
+	<name>Kepler-422 b</name>
+	<name>KOI-0022 b</name>
+	<name>KOI-0022 01</name>
+	<name>KOI-22 b</name>
+	<name>KOI-22 01</name>
+	<id>Kepler-422 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.43</mass>
+		<radius>1.15</radius>
+		<orbit>
+			<period>7.8914483</period>
+			<semimajoraxis>0.082</semimajoraxis>
+			<eccentricity>0.016</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.15</mass>
+		<radius>1.24</radius>
+		<metallicity />
+		<distance>651.31</distance>
+		<temperature>5972.00</temperature>
+		<rightascension>18 50 31</rightascension>
+		<declination>+46 19 24</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/09/30</lastupdate>
+	<description>Kepler-422 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-22 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
