@@ -1,4 +1,4 @@
-<planets date="2014-09-30" name="data" planets="1838">
+<planets date="2014-10-02" name="data" planets="1842">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -43596,7 +43596,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>Kepler-422 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-22 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -43629,7 +43628,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>Kepler-423 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-183 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -43659,7 +43657,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>Kepler-424 b is a Hot Jupiter in a two-planet system. It was discovered using the Keple Space Telescope. The mass was determined using radial velocity measurements from the Hobby-Eberly Telescope and its High Resolution Spectrograph (HRS).</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -43688,7 +43685,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>Kepler-424 c has been discovered with the Hobby-Eberly Telescope and its High Resolution Spectrograph (HRS). Kepler-424 is a two planet system. This is unusual as the inner planet is a Hot Jupiter which come preferentially in single planet systems.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -47884,7 +47880,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>KOI-183 b is a half-Jupiter mass planet orbiting a very old Sun-like star.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -47945,6 +47940,111 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/09/13</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-188 b</id_exoplaneteu>
+		<name>KOI-188 b</name>
+		<name>KOI-0188 b</name>
+		<name>2MASS 19212592+4034038 b</name>
+		<name>USNO-A2 1275-11218459 b</name>
+		<name>KIC 5357901 b</name>
+		<id>KOI-188 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.25</mass>
+			<radius>0.978</radius>
+			<orbit>
+				<period>3.79701816</period>
+				<semimajoraxis>0.0464</semimajoraxis>
+				<inclination>87.02</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.93</mass>
+			<radius>0.86</radius>
+			<metallicity>0.24</metallicity>
+			<distance>650</distance>
+			<temperature>5170</temperature>
+			<rightascension>19 21 26</rightascension>
+			<declination>+40 34 04</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/02</lastupdate>
+		<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-192 b</id_exoplaneteu>
+		<name>KOI-192 b</name>
+		<name>KOI-0192 b</name>
+		<name>2MASS 19130109+4342175 b</name>
+		<name>USNO-A2 1275-10946568 b</name>
+		<name>KIC 7950644 b</name>
+		<id>KOI-192 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.29</mass>
+			<radius>1.23</radius>
+			<orbit>
+				<period>10.2909940</period>
+				<semimajoraxis>0.091</semimajoraxis>
+				<inclination>89.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.96</mass>
+			<radius>1.35</radius>
+			<metallicity>-0.19</metallicity>
+			<distance>1100</distance>
+			<temperature>5800</temperature>
+			<rightascension>19 13 01</rightascension>
+			<declination>+43 42 18</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/02</lastupdate>
+		<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
+		<new>1</new>
+		<list>Confirmed planets b</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-195 b</id_exoplaneteu>
+		<name>KOI-195 b</name>
+		<name>KOI-0195 b</name>
+		<name>2MASS 19174431+4928242 b</name>
+		<name>USNO-A2 1350-10395462 b</name>
+		<name>KIC 11502867 b</name>
+		<id>KOI-195 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.34</mass>
+			<radius>1.09</radius>
+			<orbit>
+				<period>3.21751883</period>
+				<semimajoraxis>0.0414</semimajoraxis>
+				<inclination>85.74</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G1V</spectraltype>
+			<mass>0.91</mass>
+			<radius>0.92</radius>
+			<metallicity>-0.21</metallicity>
+			<distance>880</distance>
+			<temperature>5725</temperature>
+			<rightascension>19 17 44</rightascension>
+			<declination>+49 28 24</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/02</lastupdate>
+		<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48590,6 +48690,41 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/01/26</lastupdate>
 		<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-830 b</id_exoplaneteu>
+		<name>KOI-830 b</name>
+		<name>KOI-0830 b</name>
+		<name>2MASS 19221961+4034386 b</name>
+		<name>USNO-A2 1275-11249110 b</name>
+		<name>KIC 5358624 b</name>
+		<id>KOI-830 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.27</mass>
+			<radius>1.08</radius>
+			<orbit>
+				<period>3.52563254</period>
+				<semimajoraxis>0.0433</semimajoraxis>
+				<inclination>89.36</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.87</mass>
+			<radius>0.80</radius>
+			<metallicity>0.09</metallicity>
+			<distance>720</distance>
+			<temperature>5150</temperature>
+			<rightascension>19 22 20</rightascension>
+			<declination>+40 34 39</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/02</lastupdate>
+		<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
