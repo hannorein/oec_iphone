@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>KOI-195 b</id_exoplaneteu>
+	<name>KOI-195 b</name>
+	<name>KOI-0195 b</name>
+	<name>2MASS 19174431+4928242 b</name>
+	<name>USNO-A2 1350-10395462 b</name>
+	<name>KIC 11502867 b</name>
+	<id>KOI-195 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.34</mass>
+		<radius>1.09</radius>
+		<orbit>
+			<period>3.21751883</period>
+			<semimajoraxis>0.0414</semimajoraxis>
+			<eccentricity />
+			<inclination>85.74</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G1V</spectraltype>
+		<mass>0.91</mass>
+		<radius>0.92</radius>
+		<metallicity>-0.21</metallicity>
+		<distance>880</distance>
+		<temperature>5725</temperature>
+		<rightascension>19 17 44</rightascension>
+		<declination>+49 28 24</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/02</lastupdate>
+	<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
