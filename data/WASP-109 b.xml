@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-109 b</id_exoplaneteu>
+	<name>WASP-109 b</name>
+	<id>WASP-109 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.91</mass>
+		<radius>1.443</radius>
+		<orbit>
+			<period>3.3190233</period>
+			<semimajoraxis>0.0463</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>84.28</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F4</spectraltype>
+		<mass>0.91</mass>
+		<radius>1.346</radius>
+		<metallicity>-0.22</metallicity>
+		<distance>330</distance>
+		<temperature>6520</temperature>
+		<rightascension>15 28 13.23</rightascension>
+		<declination>-16 24 38.8</declination>
+		<angulardistance />
+		<magV>11.4</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/14</lastupdate>
+	<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
