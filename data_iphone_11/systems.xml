@@ -1,4 +1,4 @@
-<systems name="systems" planets="1842">
+<systems name="systems" planets="1848">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2150,10 +2150,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>CoRoT-21</name>
+		<rightascension>06 44 12.64</rightascension>
+		<declination>-00 17 57.06</declination>
 		<star>
 			<mass>1.29</mass>
 			<radius>1.945</radius>
-			<magV>16</magV>
+			<magV>15.84</magV>
 			<spectraltype>FIV8</spectraltype>
 			<planet>
 				<name>CoRoT-21 b</name>
@@ -3431,7 +3433,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Gliese 3021</name>
 		<rightascension>00 16 12</rightascension>
 		<declination>-79 51 04</declination>
-		<distance>17.62</distance>
+		<distance errorminus="0.16" errorplus="0.17">17.62</distance>
 		<binary>
 			<separation unit="arcsec">3.90</separation>
 			<separation unit="AU">68.7</separation>
@@ -3449,8 +3451,9 @@ Credit: Joe Gallagher.</imagedescription>
 				<magJ>5.366</magJ>
 				<magH>4.990</magH>
 				<magK errorminus="0.023" errorplus="0.023">4.859</magK>
-				<metallicity>0.1</metallicity>
+				<metallicity errorminus="0.08" errorplus="0.08">0.10</metallicity>
 				<spectraltype>G6 V</spectraltype>
+				<temperature errorminus="75" errorplus="75">5540</temperature>
 				<planet>
 					<name>Gliese 3021 A b</name>
 					<name>GJ 3021 A b</name>
@@ -3466,13 +3469,13 @@ Credit: Joe Gallagher.</imagedescription>
 					<name>HIP 1291 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
-					<mass>3.37</mass>
-					<period>133.71</period>
+					<mass errorminus="0.09" errorplus="0.09">3.37</mass>
+					<period errorminus="0.20" errorplus="0.20">133.71</period>
 					<semimajoraxis>0.49</semimajoraxis>
-					<eccentricity>0.511</eccentricity>
+					<eccentricity errorminus="0.017" errorplus="0.017">0.511</eccentricity>
 					<description>The star Gliese 3021 is a binary star in the constellation of Hydrus.</description>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>12/12/07</lastupdate>
+					<lastupdate>14/06/24</lastupdate>
 					<discoveryyear>2000</discoveryyear>
 				</planet>
 			</star>
@@ -5448,6 +5451,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HAT-P-26</name>
+		<rightascension>14 12 37.54</rightascension>
+		<declination>+04 03 36.13</declination>
 		<distance>134</distance>
 		<star>
 			<mass>0.816</mass>
@@ -11127,23 +11132,25 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 169830</name>
 		<rightascension>18 27 49</rightascension>
 		<declination>-29 49 00</declination>
-		<distance>36.32</distance>
+		<distance errorminus="1.16" errorplus="1.24">36.32</distance>
 		<star>
 			<mass>1.4</mass>
 			<radius>1.84</radius>
+			<age>2.3</age>
 			<magV>5.9</magV>
 			<magB>6.386</magB>
-			<metallicity>0.21</metallicity>
+			<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
 			<spectraltype>F8 V</spectraltype>
+			<temperature errorminus="50" errorplus="50">6300</temperature>
 			<planet>
 				<name>HD 169830 b</name>
 				<list>Confirmed planets</list>
-				<mass>2.88</mass>
-				<period>225.62</period>
-				<semimajoraxis>0.81</semimajoraxis>
-				<eccentricity>0.31</eccentricity>
+				<mass errorminus="0.12" errorplus="0.12">2.94</mass>
+				<period errorminus="4.6" errorplus="4.6">229.9</period>
+				<semimajoraxis>0.82</semimajoraxis>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.35</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/23</lastupdate>
+				<lastupdate>14/06/24</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 				<temperature>413.9</temperature>
 			</planet>
@@ -11160,7 +11167,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<temperature>196.1</temperature>
 			</planet>
 			<name>HD 169830</name>
-			<temperature>6266.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -13684,8 +13690,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 219415</name>
-		<rightascension>01 43 40</rightascension>
-		<declination>+21 00 19</declination>
+		<rightascension>23 14 53.82</rightascension>
+		<declination>+56 43 49.15</declination>
 		<star>
 			<mass>1.0</mass>
 			<radius>2.9</radius>
@@ -14102,6 +14108,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 233604</name>
+		<rightascension>09 09 49</rightascension>
+		<declination>+53 34 05</declination>
 		<star>
 			<magB errorminus="0.09" errorplus="0.09">11.33</magB>
 			<magV errorminus="0.05" errorplus="0.05">10.29</magV>
@@ -16350,10 +16358,11 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 52265</name>
 		<rightascension>07 00 18</rightascension>
 		<declination>-05 22 01</declination>
-		<distance>28</distance>
+		<distance>28.1</distance>
 		<star>
 			<mass>1.2</mass>
 			<radius>1.25</radius>
+			<age>3.5</age>
 			<magV>6.3</magV>
 			<magB>6.837</magB>
 			<metallicity>0.21</metallicity>
@@ -16361,12 +16370,12 @@ Image credit: Vanessa Bailey</imagedescription>
 			<planet>
 				<name>HD 52265 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.05</mass>
-				<period>119.6</period>
+				<mass errorminus="0.03" errorplus="0.03">1.05</mass>
+				<period errorminus="0.42" errorplus="0.42">119.6</period>
 				<semimajoraxis>0.5</semimajoraxis>
-				<eccentricity>0.35</eccentricity>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.35</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/30</lastupdate>
+				<lastupdate>14/06/24</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 				<temperature>426.0</temperature>
 			</planet>
@@ -22502,6 +22511,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-15</name>
+		<rightascension>19 44 48.14</rightascension>
+		<declination>+49 08 24.43</declination>
 		<star>
 			<mass>1.018</mass>
 			<radius>0.992</radius>
@@ -38108,6 +38119,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-418</name>
+		<rightascension>19 37 44.04</rightascension>
+		<declination>+38 21 19.62</declination>
 		<star>
 			<name>Kepler-418</name>
 			<name>KOI 1089</name>
@@ -41909,7 +41922,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<eccentricity upperlimit="0.33" />
 				<inclination errorminus="0.08" errorplus="0.08">87.02</inclination>
 				<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
-				<new>1</new>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>14/10/02</lastupdate>
@@ -41940,7 +41952,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>2MASS 19130109+4342175 b</name>
 				<name>USNO-A2 1275-10946568 b</name>
 				<name>KIC 7950644 b</name>
-				<list>Confirmed planets b</list>
+				<list>Confirmed planets</list>
 				<mass errorminus="0.09" errorplus="0.09">0.29</mass>
 				<radius errorminus="0.21" errorplus="0.21">1.23</radius>
 				<temperature errorminus="70" errorplus="70">1100</temperature>
@@ -41950,7 +41962,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<eccentricity upperlimit="0.57" />
 				<inclination errorminus="0.45" errorplus="0.45">89.5</inclination>
 				<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
-				<new>1</new>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>14/10/02</lastupdate>
@@ -41991,7 +42002,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<eccentricity upperlimit="0.18" />
 				<inclination errorminus="0.06" errorplus="0.06">85.74</inclination>
 				<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
-				<new>1</new>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>14/10/02</lastupdate>
@@ -42629,7 +42639,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<eccentricity upperlimit="0.22" />
 				<inclination errorminus="0.43" errorplus="0.43">89.36</inclination>
 				<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
-				<new>1</new>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>14/10/02</lastupdate>
@@ -44647,7 +44656,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<discoveryyear>2010</discoveryyear>
 				<list>Planets in binary systems, P-type</list>
 			</planet>
-			<temperature>3840.0</temperature>
 			<semimajoraxis>5.4</semimajoraxis>
 		</binary>
 	</system>
@@ -46138,6 +46146,76 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 	</system>
 	<system>
+		<name>WASP-108</name>
+		<rightascension>13 03 18.73</rightascension>
+		<declination>-49 38 22.8</declination>
+		<distance errorminus="15" errorplus="15">220</distance>
+		<star>
+			<name>WASP-108</name>
+			<spectraltype>F9</spectraltype>
+			<age errorminus="1.9" errorplus="1.9">6.4</age>
+			<temperature errorminus="140" errorplus="140">6000</temperature>
+			<metallicity errorminus="0.11" errorplus="0.11">0.05</metallicity>
+			<mass errorminus="0.092" errorplus="0.092">1.167</mass>
+			<radius errorminus="0.040" errorplus="0.040">1.215</radius>
+			<magV>11.2</magV>
+			<magK>9.8</magK>
+			<planet>
+				<name>WASP-108 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.055" errorplus="0.055">0.892</mass>
+				<radius errorminus="0.047" errorplus="0.047">1.284</radius>
+				<semimajoraxis errorminus="0.0010" errorplus="0.0010">0.0397</semimajoraxis>
+				<period errorminus="0.0000021" errorplus="0.0000021">2.6755463</period>
+				<transittime errorminus="0.00015" errorplus="0.00015" unit="HJD">2456413.79019</transittime>
+				<inclination errorminus="0.84" errorplus="0.84">88.49</inclination>
+				<eccentricity>0</eccentricity>
+				<temperature errorminus="36" errorplus="36">1590</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-109</name>
+		<rightascension>15 28 13.23</rightascension>
+		<declination>-16 24 38.8</declination>
+		<distance errorminus="30" errorplus="30">330</distance>
+		<star>
+			<name>WASP-109</name>
+			<spectraltype>F4</spectraltype>
+			<age errorminus="0.9" errorplus="0.9">2.6</age>
+			<temperature errorminus="140" errorplus="140">6520</temperature>
+			<metallicity errorminus="0.08" errorplus="0.08">-0.22</metallicity>
+			<mass errorminus="0.13" errorplus="0.13">0.91</mass>
+			<radius errorminus="0.044" errorplus="0.044">1.346</radius>
+			<magV>11.4</magV>
+			<magK>10.2</magK>
+			<planet>
+				<name>WASP-109 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.13" errorplus="0.13">0.91</mass>
+				<radius errorminus="0.053" errorplus="0.053">1.443</radius>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0463</semimajoraxis>
+				<period errorminus="0.0000042" errorplus="0.0000042">3.3190233</period>
+				<transittime errorminus="0.00023" errorplus="0.00023" unit="HJD">2456361.19263</transittime>
+				<inclination errorminus="0.19" errorplus="0.19">84.28</inclination>
+				<eccentricity>0</eccentricity>
+				<temperature errorminus="40" errorplus="40">1695</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-11</name>
 		<rightascension>03 09 29</rightascension>
 		<declination>+30 40 25</declination>
@@ -46173,6 +46251,111 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</planet>
 			<name>WASP-11</name>
 			<temperature>4980.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>WASP-110</name>
+		<rightascension>20 23 29.55</rightascension>
+		<declination>-44 03 30.3</declination>
+		<distance errorminus="30" errorplus="30">320</distance>
+		<star>
+			<name>WASP-110</name>
+			<spectraltype>G9</spectraltype>
+			<age errorminus="3.5" errorplus="3.5">8.6</age>
+			<temperature errorminus="140" errorplus="140">5400</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">-0.06</metallicity>
+			<mass errorminus="0.072" errorplus="0.072">0.892</mass>
+			<radius errorminus="0.035" errorplus="0.035">0.881</radius>
+			<magV>12.3</magV>
+			<magK>10.7</magK>
+			<planet>
+				<name>WASP-110 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.064" errorplus="0.064">0.510</mass>
+				<radius errorminus="0.056" errorplus="0.056">1.238</radius>
+				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0457</semimajoraxis>
+				<period errorminus="0.0000031" errorplus="0.0000031">3.7783977</period>
+				<transittime errorminus="0.00016" errorplus="0.00016" unit="HJD">2456502.72413</transittime>
+				<inclination errorminus="0.35" errorplus="0.35">88.06</inclination>
+				<eccentricity>0</eccentricity>
+				<temperature errorminus="33" errorplus="33">1134</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-111</name>
+		<rightascension>21 55 04.23</rightascension>
+		<declination>-22 36 45.2</declination>
+		<distance errorminus="20" errorplus="20">210</distance>
+		<star>
+			<name>WASP-111</name>
+			<spectraltype>F5</spectraltype>
+			<age errorminus="0.6" errorplus="0.6">2.6</age>
+			<temperature errorminus="150" errorplus="150">6400</temperature>
+			<metallicity errorminus="0.08" errorplus="0.08">0.08</metallicity>
+			<mass errorminus="0.11" errorplus="0.11">1.5</mass>
+			<radius errorminus="0.10" errorplus="0.10">1.85</radius>
+			<magV>10.3</magV>
+			<magK>9.0</magK>
+			<planet>
+				<name>WASP-111 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.15" errorplus="0.15">1.83</mass>
+				<radius errorminus="0.094" errorplus="0.094">1.442</radius>
+				<semimajoraxis errorminus="0.00098" errorplus="0.00098">0.03914</semimajoraxis>
+				<period errorminus="0.0000024" errorplus="0.0000024">2.3109650</period>
+				<transittime errorminus="0.00040" errorplus="0.00040" unit="HJD">2456275.75127</transittime>
+				<inclination errorminus="0.82" errorplus="0.82">81.61</inclination>
+				<eccentricity>0</eccentricity>
+				<temperature errorminus="62" errorplus="62">2140</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-112</name>
+		<rightascension>22 37 57.43</rightascension>
+		<declination>-35 09 13.9</declination>
+		<distance errorminus="30" errorplus="30">450</distance>
+		<star>
+			<name>WASP-112</name>
+			<spectraltype>G6</spectraltype>
+			<age errorminus="3.0" errorplus="3.0">10.6</age>
+			<temperature errorminus="130" errorplus="130">5610</temperature>
+			<metallicity errorminus="0.15" errorplus="0.15">-0.64</metallicity>
+			<mass errorminus="0.073" errorplus="0.073">0.807</mass>
+			<radius errorminus="0.037" errorplus="0.037">1.002</radius>
+			<magV>13.3</magV>
+			<magK>11.9</magK>
+			<planet>
+				<name>WASP-112 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.12" errorplus="0.12">0.88</mass>
+				<radius errorminus="0.049" errorplus="0.049">1.191</radius>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0382</semimajoraxis>
+				<period errorminus="0.0000038" errorplus="0.0000038">3.0353992</period>
+				<transittime errorminus="0.00013" errorplus="0.00013" unit="HJD">2456505.48734</transittime>
+				<inclination errorminus="0.28" errorplus="0.28">86.68</inclination>
+				<eccentricity>0</eccentricity>
+				<temperature errorminus="33" errorplus="33">1395</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -47998,6 +48181,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-59</name>
+		<rightascension>23 18 29.54</rightascension>
+		<declination>+24 53 21.4</declination>
 		<distance errorminus="25" errorplus="25">125</distance>
 		<star>
 			<spectraltype>K5V</spectraltype>
@@ -48068,6 +48253,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-60</name>
+		<rightascension>23 46 39.98</rightascension>
+		<declination>+31 09 21.44</declination>
 		<distance errorminus="60" errorplus="60">400</distance>
 		<star>
 			<spectraltype>G1V</spectraltype>
@@ -48996,6 +49183,41 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>13/10/22</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-87</name>
+		<rightascension>12 21 17.92</rightascension>
+		<declination>-52 50 27.0</declination>
+		<distance errorminus="20" errorplus="20">240</distance>
+		<star>
+			<name>WASP-87</name>
+			<spectraltype>F5</spectraltype>
+			<age errorminus="0.8" errorplus="0.8">3.8</age>
+			<temperature errorminus="120" errorplus="120">6450</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">-0.41</metallicity>
+			<mass errorminus="0.093" errorplus="0.093">1.204</mass>
+			<radius errorminus="0.062" errorplus="0.062">1.627</radius>
+			<magV>10.7</magV>
+			<magK>9.6</magK>
+			<planet>
+				<name>WASP-87 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.15" errorplus="0.15">2.18</mass>
+				<radius errorminus="0.060" errorplus="0.060">1.385</radius>
+				<semimajoraxis errorminus="0.00075" errorplus="0.00075">0.02946</semimajoraxis>
+				<period errorminus="0.0000019" errorplus="0.0000019">1.6827950</period>
+				<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2456361.84030</transittime>
+				<inclination errorminus="0.63" errorplus="0.63">81.07</inclination>
+				<eccentricity>0</eccentricity>
+				<temperature errorminus="50" errorplus="50">2322</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/14</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
 			</planet>
 		</star>
 	</system>
