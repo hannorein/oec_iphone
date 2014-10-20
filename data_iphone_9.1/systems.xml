@@ -8803,6 +8803,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<spectraltype>M4-M5</spectraltype>
 				<magJ>12.116</magJ>
 				<magK>11.279</magK>
+				<mass>0.16</mass>
 			</star>
 			<semimajoraxis>3030</semimajoraxis>
 		</binary>
@@ -46044,7 +46045,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000021" errorplus="0.0000021">2.6755463</period>
 				<transittime errorminus="0.00015" errorplus="0.00015" unit="HJD">2456413.79019</transittime>
 				<inclination errorminus="0.84" errorplus="0.84">88.49</inclination>
-				<eccentricity>0</eccentricity>
+				<eccentricity upperlimit="0.075" />
 				<temperature errorminus="36" errorplus="36">1590</temperature>
 				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -46079,7 +46080,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000042" errorplus="0.0000042">3.3190233</period>
 				<transittime errorminus="0.00023" errorplus="0.00023" unit="HJD">2456361.19263</transittime>
 				<inclination errorminus="0.19" errorplus="0.19">84.28</inclination>
-				<eccentricity>0</eccentricity>
+				<eccentricity upperlimit="0.32" />
 				<temperature errorminus="40" errorplus="40">1695</temperature>
 				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -46152,7 +46153,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000031" errorplus="0.0000031">3.7783977</period>
 				<transittime errorminus="0.00016" errorplus="0.00016" unit="HJD">2456502.72413</transittime>
 				<inclination errorminus="0.35" errorplus="0.35">88.06</inclination>
-				<eccentricity>0</eccentricity>
+				<eccentricity upperlimit="0.61" />
 				<temperature errorminus="33" errorplus="33">1134</temperature>
 				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -46187,7 +46188,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000024" errorplus="0.0000024">2.3109650</period>
 				<transittime errorminus="0.00040" errorplus="0.00040" unit="HJD">2456275.75127</transittime>
 				<inclination errorminus="0.82" errorplus="0.82">81.61</inclination>
-				<eccentricity>0</eccentricity>
+				<eccentricity upperlimit="0.10" />
 				<temperature errorminus="62" errorplus="62">2140</temperature>
 				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -46222,7 +46223,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000038" errorplus="0.0000038">3.0353992</period>
 				<transittime errorminus="0.00013" errorplus="0.00013" unit="HJD">2456505.48734</transittime>
 				<inclination errorminus="0.28" errorplus="0.28">86.68</inclination>
-				<eccentricity>0</eccentricity>
+				<eccentricity upperlimit="0.24" />
 				<temperature errorminus="33" errorplus="33">1395</temperature>
 				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -47791,6 +47792,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>-10 53 53</declination>
 		<distance>230</distance>
 		<star>
+			<name>WASP-50</name>
+			<name>TYC 5290-462-1</name>
+			<name>2MASS J02544513-1053530</name>
+			<name>GSC2.3 S2L3000257</name>
+			<name>UCAC2 27953631</name>
+			<name>UCAC3 159-7797</name>
 			<mass>0.89</mass>
 			<radius>0.84</radius>
 			<magV>11.6</magV>
@@ -47803,6 +47810,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>G9</spectraltype>
 			<planet>
 				<name>WASP-50 b</name>
+				<name>TYC 5290-462-1 b</name>
+				<name>2MASS J02544513-1053530 b</name>
+				<name>GSC2.3 S2L3000257 b</name>
+				<name>UCAC2 27953631 b</name>
+				<name>UCAC3 159-7797 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.47</mass>
 				<radius>1.15</radius>
@@ -47818,7 +47830,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature>1289.9</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-50</name>
 			<temperature>5400.0</temperature>
 		</star>
 	</system>
@@ -48027,6 +48038,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+45 10 19</declination>
 		<distance errorminus="50" errorplus="50">300</distance>
 		<star>
+			<name>WASP-58</name>
+			<name>TYC 3525-76-1</name>
 			<spectraltype>G2V</spectraltype>
 			<magB>12.33</magB>
 			<magV>11.66</magV>
@@ -48035,6 +48048,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.09" errorplus="0.09">-0.45</metallicity>
 			<planet>
 				<name>WASP-58 b</name>
+				<name>TYC 3525-76-1 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.07" errorplus="0.07">0.89</mass>
 				<radius errorminus="0.20" errorplus="0.20">1.37</radius>
@@ -48050,7 +48064,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature errorminus="80" errorplus="80">1270</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-58</name>
 			<temperature errorminus="150" errorplus="150">5800</temperature>
 		</star>
 	</system>
@@ -48132,6 +48145,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+31 09 21.44</declination>
 		<distance errorminus="60" errorplus="60">400</distance>
 		<star>
+			<name>WASP-60</name>
+			<name>TYC 2767-1746-1</name>
 			<spectraltype>G1V</spectraltype>
 			<magB>12.86</magB>
 			<magV>12.18</magV>
@@ -48143,6 +48158,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity errorminus="0.09" errorplus="0.09">-0.04</metallicity>
 			<planet>
 				<name>WASP-60 b</name>
+				<name>TYC 2767-1746-1 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.034" errorplus="0.034">0.514</mass>
 				<radius errorminus="0.12" errorplus="0.12">0.86</radius>
@@ -48157,7 +48173,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoveryyear>2011</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-60</name>
 			<temperature errorminus="100" errorplus="100">5900</temperature>
 		</star>
 	</system>
@@ -48387,6 +48402,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>-19 56 58</declination>
 		<distance>225</distance>
 		<star>
+			<name>WASP-67</name>
+			<name>TYC 6307-1388-1</name>
+			<name>2MASS J19425852-1956585</name>
 			<mass>0.87</mass>
 			<radius>0.87</radius>
 			<magV>12.5</magV>
@@ -48398,6 +48416,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>K0V</spectraltype>
 			<planet>
 				<name>WASP-67 b</name>
+				<name>TYC 6307-1388-1 b</name>
+				<name>2MASS J19425852-1956585 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.42</mass>
 				<radius>1.4</radius>
@@ -48413,7 +48433,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature>940.6</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-67</name>
 			<temperature>5200.0</temperature>
 		</star>
 	</system>
@@ -49085,7 +49104,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<period errorminus="0.0000019" errorplus="0.0000019">1.6827950</period>
 				<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2456361.84030</transittime>
 				<inclination errorminus="0.63" errorplus="0.63">81.07</inclination>
-				<eccentricity>0</eccentricity>
+				<eccentricity upperlimit="0.099" />
 				<temperature errorminus="50" errorplus="50">2322</temperature>
 				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
