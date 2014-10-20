@@ -1,4 +1,4 @@
-<planets date="2014-10-17" name="data" planets="1848">
+<planets date="2014-10-19" name="data" planets="1848">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -52074,7 +52074,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>2.6755463</period>
 				<semimajoraxis>0.0397</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>88.49</inclination>
 			</orbit>
 		</properties>
@@ -52107,7 +52106,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>3.3190233</period>
 				<semimajoraxis>0.0463</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>84.28</inclination>
 			</orbit>
 		</properties>
@@ -52173,7 +52171,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>3.7783977</period>
 				<semimajoraxis>0.0457</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>88.06</inclination>
 			</orbit>
 		</properties>
@@ -52206,7 +52203,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>2.3109650</period>
 				<semimajoraxis>0.03914</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>81.61</inclination>
 			</orbit>
 		</properties>
@@ -52239,7 +52235,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>3.0353992</period>
 				<semimajoraxis>0.0382</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>86.68</inclination>
 			</orbit>
 		</properties>
@@ -53572,6 +53567,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-50 b</id_exoplaneteu>
 		<name>WASP-50 b</name>
+		<name>TYC 5290-462-1 b</name>
+		<name>2MASS J02544513-1053530 b</name>
+		<name>GSC2.3 S2L3000257 b</name>
+		<name>UCAC2 27953631 b</name>
+		<name>UCAC3 159-7797 b</name>
 		<id>WASP-50 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -53784,6 +53784,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-58 b</id_exoplaneteu>
 		<name>WASP-58 b</name>
+		<name>TYC 3525-76-1 b</name>
 		<id>WASP-58 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -53880,6 +53881,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-60 b</id_exoplaneteu>
 		<name>WASP-60 b</name>
+		<name>TYC 2767-1746-1 b</name>
 		<id>WASP-60 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -54106,6 +54108,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-67 b</id_exoplaneteu>
 		<name>WASP-67 b</name>
+		<name>TYC 6307-1388-1 b</name>
+		<name>2MASS J19425852-1956585 b</name>
 		<id>WASP-67 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -54675,7 +54679,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<orbit>
 				<period>1.6827950</period>
 				<semimajoraxis>0.02946</semimajoraxis>
-				<eccentricity>0</eccentricity>
 				<inclination>81.07</inclination>
 			</orbit>
 		</properties>
