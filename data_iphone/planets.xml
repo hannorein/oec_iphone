@@ -4070,7 +4070,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>2MASS J22573901-2937193 b</name>
 		<name>HIP 113368 b</name>
 		<name>IRAS 22549-2953 b</name>
-		<name>ALF PsA b</name>
+		<name>alf PsA b</name>
 		<name>24 PsA b</name>
 		<id>Fomalhaut b</id>
 		<discoverymethod>imaging</discoverymethod>
@@ -4110,8 +4110,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<new />
 		<image>Fomalhaut</image>
 		<imagedescription>This false-color composite image, taken with the Hubble Space Telescope, reveals the orbital motion of the planet Fomalhaut b. The planet will appear to cross a vast belt of debris around the star roughly 20 years from now. If the planet's orbit lies in the same plane with the belt, icy and rocky debris in the belt could crash into the planet's atmosphere and produce various phenomena. The black circle at the center of the image blocks out the light from the bright star, allowing reflected light from the belt and planet to be photographed. 
-				
-	 Credit: NASA, ESA, and P. Kalas (University of California, Berkeley and SETI Institute).</imagedescription>
+                    
+        Credit: NASA, ESA, and P. Kalas (University of California, Berkeley and SETI Institute).</imagedescription>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
@@ -73083,6 +73083,51 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1299 b</id_exoplaneteu>
+		<name>KOI-1299 b</name>
+		<name>KIC 10864656 b</name>
+		<name>2MASS J19330772+4817092 b</name>
+		<id>KOI-1299 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>4.87</mass>
+			<radius>1.120</radius>
+			<orbit>
+				<period>52.50097</period>
+				<semimajoraxis>0.3034</semimajoraxis>
+				<eccentricity>0.535</eccentricity>
+				<inclination>88.9</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>1.353</mass>
+			<radius>4.160</radius>
+			<metallicity />
+			<distance />
+			<temperature>4850</temperature>
+			<rightascension>19 33 07.73</rightascension>
+			<declination>+48 17 09.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/20</lastupdate>
+		<description>This massive planet orbits a red giant star in a highly eccentric orbit. Together with Kepler-56 and Kepler-91 this system occupies an almost-desert region of parameter space.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-135 b</id_exoplaneteu>
 		<name>KOI-135 b</name>
 		<name>Kepler-43 b</name>
@@ -79623,7 +79668,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/14</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -79666,7 +79711,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/14</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -79754,7 +79799,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/14</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -79797,7 +79842,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/14</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -79840,7 +79885,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/14</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -82120,6 +82165,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-61 b</id_exoplaneteu>
 		<name>WASP-61 b</name>
+		<name>TYC 6469-1972-1 b</name>
+		<name>2MASS J05011191-2603149 b</name>
+		<name>1SWASP J050111.91-260314.9 b</name>
 		<id>WASP-61 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -82142,8 +82190,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>-0.1</metallicity>
 			<distance>480</distance>
 			<temperature>1417.5</temperature>
-			<rightascension>05 01 12</rightascension>
-			<declination>-26 03 15</declination>
+			<rightascension>05 01 11.92</rightascension>
+			<declination>-26 03 15.0</declination>
 			<angulardistance />
 			<magV>12.5</magV>
 			<magI />
@@ -82163,6 +82211,15 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-62 b</id_exoplaneteu>
 		<name>WASP-62 b</name>
+		<name>CPD-64 484 b</name>
+		<name>2MASS J05483359-6359183 b</name>
+		<name>1SWASP J054833.59-635918.3 b</name>
+		<name>DENIS J054833.6-635918 b</name>
+		<name>PPM 776101 b</name>
+		<name>TYC 8900-874-1 b</name>
+		<name>GSC 08900-00874 b</name>
+		<name>RAVE J054833.6-635918 b</name>
+		<name>USNO-B1.0 0260-00058281 b</name>
 		<id>WASP-62 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -82185,8 +82242,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>0.04</metallicity>
 			<distance>160</distance>
 			<temperature>1305.2</temperature>
-			<rightascension>05 48 34</rightascension>
-			<declination>-63 59 18</declination>
+			<rightascension>05 48 33.59</rightascension>
+			<declination>-63 59 18.3</declination>
 			<angulardistance />
 			<magV>10.3</magV>
 			<magI />
@@ -82206,6 +82263,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-63 b</id_exoplaneteu>
 		<name>WASP-63 b</name>
+		<name>TYC 7612-556-1 b</name>
+		<name>2MASS J06172074-3819237 b</name>
+		<name>GSC 07612-00556 b</name>
+		<name>1SWASP J061720.74-381923.8 b</name>
 		<id>WASP-63 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -82228,8 +82289,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>0.08</metallicity>
 			<distance>330</distance>
 			<temperature>1540</temperature>
-			<rightascension>06 17 21</rightascension>
-			<declination>-38 19 24</declination>
+			<rightascension>06 17 20.75</rightascension>
+			<declination>-38 19 23.8</declination>
 			<angulardistance />
 			<magV>11.2</magV>
 			<magI />
@@ -83180,7 +83241,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/14</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
