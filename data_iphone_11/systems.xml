@@ -1,4 +1,4 @@
-<systems name="systems" planets="1848">
+<systems name="systems" planets="1849">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2897,58 +2897,107 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<declination>-29 37 20</declination>
 		<distance errorminus="0.028" errorplus="0.028">7.704</distance>
 		<binary>
-			<semimajoraxis errorminus="2500" errorplus="3900">57400</semimajoraxis>
+			<separation unit="arcsec">20407.6</separation>
+			<separation unit="AU">160000</separation>
+			<positionangle>337.91</positionangle>
+			<name>MAM 1</name>
+			<name>WDS J22577-2937 AC</name>
+			<binary>
+				<separation unit="arcsec">7062.7</separation>
+				<separation unit="AU">56000</separation>
+				<positionangle>187.88</positionangle>
+				<name>SHY 106</name>
+				<name>WDS J22577-2937 AB</name>
+				<star>
+					<name>Fomalhaut A</name>
+					<name>HD 216956</name>
+					<name>HR 8728</name>
+					<name>CD-30 19370</name>
+					<name>CPD-30 6685</name>
+					<name>SAO 191524</name>
+					<name>GJ 881</name>
+					<name>2MASS J22573901-2937193</name>
+					<name>HIP 113368</name>
+					<name>IRAS 22549-2953</name>
+					<name>alf PsA</name>
+					<name>24 PsA</name>
+					<name>WDS J22577-2937 A</name>
+					<temperature errorminus="73" errorplus="73">8590.0</temperature>
+					<mass errorminus="0.02" errorplus="0.02">1.92</mass>
+					<radius>1.84</radius>
+					<magV>1.16</magV>
+					<magB>1.25</magB>
+					<magJ errorminus="0.23" errorplus="0.23">1.04</magJ>
+					<magH errorminus="0.26" errorplus="0.26">0.94</magH>
+					<magK errorminus="0.29" errorplus="0.29">0.94</magK>
+					<spectraltype>A3 V</spectraltype>
+					<planet>
+						<name>Fomalhaut b</name>
+						<name>Fomalhaut Ab</name>
+						<name>HD 216956 b</name>
+						<name>HR 8728 b</name>
+						<name>CD-30 19370 b</name>
+						<name>CPD-30 6685 b</name>
+						<name>SAO 191524 b</name>
+						<name>GJ 881 b</name>
+						<name>2MASS J22573901-2937193 b</name>
+						<name>HIP 113368 b</name>
+						<name>IRAS 22549-2953 b</name>
+						<name>alf PsA b</name>
+						<name>24 PsA b</name>
+						<list>Confirmed planets</list>
+						<mass>3</mass>
+						<period>320000</period>
+						<semimajoraxis errorminus="68" errorplus="68">177</semimajoraxis>
+						<eccentricity errorminus="0.1" errorplus="0.1">0.8</eccentricity>
+						<inclination errorminus="14" errorplus="14">305</inclination>
+						<periastron errorminus="25" errorplus="25">26</periastron>
+						<ascendingnode errorminus="13" errorplus="13">152</ascendingnode>
+						<description>Formalhaut is one of the brightest stars in the night sky and located in the constellation Piscis Austrinus. It is a young star with a debris disk. In 2008 astronomers reported the discovery of a planet orbiting the star within the debris disk. Images from the Hubble space telescope show motion consistent with a Keplerian orbit that crossed the disk. However, there are still debates about where the observed emission is coming from.</description>
+						<discoverymethod>imaging</discoverymethod>
+						<image>Fomalhaut</image>
+						<imagedescription>This false-color composite image, taken with the Hubble Space Telescope, reveals the orbital motion of the planet Fomalhaut b. The planet will appear to cross a vast belt of debris around the star roughly 20 years from now. If the planet's orbit lies in the same plane with the belt, icy and rocky debris in the belt could crash into the planet's atmosphere and produce various phenomena. The black circle at the center of the image blocks out the light from the bright star, allowing reflected light from the belt and planet to be photographed. 
+                    
+        Credit: NASA, ESA, and P. Kalas (University of California, Berkeley and SETI Institute).</imagedescription>
+						<lastupdate>13/05/12</lastupdate>
+						<discoveryyear>2008</discoveryyear>
+						<list>Planets in binary systems, S-type</list>
+					</planet>
+				</star>
+				<star>
+					<name>Fomalhaut B</name>
+					<name>TW PsA</name>
+					<name>TW Piscis Austrini</name>
+					<name>alf PsA B</name>
+					<name>HD 216803</name>
+					<name>HIP 113283</name>
+					<name>HR 8721</name>
+					<name>TYC 7505-100-1</name>
+					<name>GJ 879</name>
+					<name>CD-32 17321</name>
+					<name>CPD-32 6550</name>
+					<name>IRAS 22536-3150</name>
+					<name>2MASS J22562403-3133559</name>
+					<name>WDS J22577-2937 B</name>
+					<spectraltype>K4Ve</spectraltype>
+					<magV errorminus="0.012" errorplus="0.012">6.488</magV>
+					<temperature errorminus="80" errorplus="80">4594</temperature>
+					<mass errorminus="0.01" errorplus="0.02">0.73</mass>
+				</star>
+				<semimajoraxis>56000</semimajoraxis>
+			</binary>
 			<star>
-				<name>Fomalhaut A</name>
-				<temperature errorminus="73" errorplus="73">8590.0</temperature>
-				<mass errorminus="0.02" errorplus="0.02">1.92</mass>
-				<radius>1.84</radius>
-				<magV>1.16</magV>
-				<magB>1.25</magB>
-				<magJ errorminus="0.23" errorplus="0.23">1.04</magJ>
-				<magH errorminus="0.26" errorplus="0.26">0.94</magH>
-				<magK errorminus="0.29" errorplus="0.29">0.94</magK>
-				<spectraltype>A3 V</spectraltype>
-				<planet>
-					<name>Fomalhaut b</name>
-					<name>Fomalhaut Ab</name>
-					<name>HD 216956 b</name>
-					<name>HR 8728 b</name>
-					<name>CD-30 19370 b</name>
-					<name>CPD-30 6685 b</name>
-					<name>SAO 191524 b</name>
-					<name>GJ 881 b</name>
-					<name>2MASS J22573901-2937193 b</name>
-					<name>HIP 113368 b</name>
-					<name>IRAS 22549-2953 b</name>
-					<name>ALF PsA b</name>
-					<name>24 PsA b</name>
-					<list>Confirmed planets</list>
-					<mass>3</mass>
-					<period>320000</period>
-					<semimajoraxis errorminus="68" errorplus="68">177</semimajoraxis>
-					<eccentricity errorminus="0.1" errorplus="0.1">0.8</eccentricity>
-					<inclination errorminus="14" errorplus="14">305</inclination>
-					<periastron errorminus="25" errorplus="25">26</periastron>
-					<ascendingnode errorminus="13" errorplus="13">152</ascendingnode>
-					<description>Formalhaut is one of the brightest stars in the night sky and located in the constellation Piscis Austrinus. It is a young star with a debris disk. In 2008 astronomers reported the discovery of a planet orbiting the star within the debris disk. Images from the Hubble space telescope show motion consistent with a Keplerian orbit that crossed the disk. However, there are still debates about where the observed emission is coming from.</description>
-					<discoverymethod>imaging</discoverymethod>
-					<image>Fomalhaut</image>
-					<imagedescription>This false-color composite image, taken with the Hubble Space Telescope, reveals the orbital motion of the planet Fomalhaut b. The planet will appear to cross a vast belt of debris around the star roughly 20 years from now. If the planet's orbit lies in the same plane with the belt, icy and rocky debris in the belt could crash into the planet's atmosphere and produce various phenomena. The black circle at the center of the image blocks out the light from the bright star, allowing reflected light from the belt and planet to be photographed. 
-				
-	 Credit: NASA, ESA, and P. Kalas (University of California, Berkeley and SETI Institute).</imagedescription>
-					<lastupdate>13/05/12</lastupdate>
-					<discoveryyear>2008</discoveryyear>
-					<list>Planets in binary systems, S-type</list>
-				</planet>
+				<name>Fomalhaut C</name>
+				<name>LP 876-10</name>
+				<name>alf PsA C</name>
+				<name>2MASS J22480446-2422075</name>
+				<name>WDS J22577-2937 C</name>
+				<spectraltype>M4V</spectraltype>
+				<magV errorminus="0.02" errorplus="0.02">13.2</magV>
+				<temperature errorminus="65" errorplus="65">3132</temperature>
+				<mass errorminus="0.02" errorplus="0.02">0.18</mass>
 			</star>
-			<star>
-				<name>Fomalhaut B</name>
-				<name>TW PsA</name>
-				<spectraltype>K4Ve</spectraltype>
-				<temperature errorminus="80" errorplus="80">4594</temperature>
-				<mass errorminus="0.01" errorplus="0.02">0.73</mass>
-			</star>
+			<semimajoraxis>160000</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -8200,6 +8249,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			</star>
 			<star>
 				<name>HD 114762 B</name>
+				<spectraltype>M6V</spectraltype>
+				<mass>0.1</mass>
 			</star>
 			<semimajoraxis>129</semimajoraxis>
 		</binary>
@@ -18994,6 +19045,7 @@ Credit: ESO/J. Rameau</imagedescription>
 				<spectraltype>T4-T5</spectraltype>
 				<magJ>15.533</magJ>
 				<magK>12.415</magK>
+				<mass>0.05</mass>
 			</star>
 			<semimajoraxis>9050</semimajoraxis>
 		</binary>
@@ -41700,6 +41752,42 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</binary>
 	</system>
 	<system>
+		<name>KOI-1299</name>
+		<rightascension>19 33 07.73</rightascension>
+		<declination>+48 17 09.2</declination>
+		<star>
+			<name>KOI-1299</name>
+			<name>KIC 10864656</name>
+			<name>2MASS J19330772+4817092</name>
+			<spectraltype>K</spectraltype>
+			<magR>12.135</magR>
+			<magK>12.183</magK>
+			<mass errorminus="0.101" errorplus="0.101">1.353</mass>
+			<radius errorminus="0.120" errorplus="0.120">4.160</radius>
+			<age errorminus="1.3" errorplus="1.3">3.5</age>
+			<temperature errorminus="100" errorplus="100">4850</temperature>
+			<planet>
+				<name>KOI-1299 b</name>
+				<name>KIC 10864656 b</name>
+				<name>2MASS J19330772+4817092 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.48" errorplus="0.48">4.87</mass>
+				<radius errorminus="0.036" errorplus="0.036">1.120</radius>
+				<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
+				<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455477.02906</transittime>
+				<description>This massive planet orbits a red giant star in a highly eccentric orbit. Together with Kepler-56 and Kepler-91 this system occupies an almost-desert region of parameter space.</description>
+				<semimajoraxis errorminus="0.0089" errorplus="0.0089">0.3034</semimajoraxis>
+				<eccentricity errorminus="0.030" errorplus="0.030">0.535</eccentricity>
+				<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/20</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>KOI-135</name>
 		<rightascension>19 00 58</rightascension>
 		<declination>+46 40 06</declination>
@@ -46191,7 +46279,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -46226,7 +46313,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -46299,7 +46385,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -46334,7 +46419,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -46369,7 +46453,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -48317,10 +48400,14 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-61</name>
-		<rightascension>05 01 12</rightascension>
-		<declination>-26 03 15</declination>
+		<rightascension>05 01 11.92</rightascension>
+		<declination>-26 03 15.0</declination>
 		<distance>480</distance>
 		<star>
+			<name>WASP-61</name>
+			<name>TYC 6469-1972-1</name>
+			<name>2MASS J05011191-2603149</name>
+			<name>1SWASP J050111.91-260314.9</name>
 			<mass>1.22</mass>
 			<radius>1.36</radius>
 			<magV>12.5</magV>
@@ -48332,6 +48419,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>F7</spectraltype>
 			<planet>
 				<name>WASP-61 b</name>
+				<name>TYC 6469-1972-1 b</name>
+				<name>2MASS J05011191-2603149 b</name>
+				<name>1SWASP J050111.91-260314.9 b</name>
 				<list>Confirmed planets</list>
 				<mass>2.06</mass>
 				<radius>1.24</radius>
@@ -48347,16 +48437,25 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature>1417.5</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-61</name>
 			<temperature>6250.0</temperature>
 		</star>
 	</system>
 	<system>
 		<name>WASP-62</name>
-		<rightascension>05 48 34</rightascension>
-		<declination>-63 59 18</declination>
+		<rightascension>05 48 33.59</rightascension>
+		<declination>-63 59 18.3</declination>
 		<distance>160</distance>
 		<star>
+			<name>WASP-62</name>
+			<name>CPD-64 484</name>
+			<name>2MASS J05483359-6359183</name>
+			<name>1SWASP J054833.59-635918.3</name>
+			<name>DENIS J054833.6-635918</name>
+			<name>PPM 776101</name>
+			<name>TYC 8900-874-1</name>
+			<name>GSC 08900-00874</name>
+			<name>RAVE J054833.6-635918</name>
+			<name>USNO-B1.0 0260-00058281</name>
 			<mass>1.25</mass>
 			<radius>1.28</radius>
 			<magV>10.3</magV>
@@ -48370,6 +48469,15 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>F7</spectraltype>
 			<planet>
 				<name>WASP-62 b</name>
+				<name>CPD-64 484 b</name>
+				<name>2MASS J05483359-6359183 b</name>
+				<name>1SWASP J054833.59-635918.3 b</name>
+				<name>DENIS J054833.6-635918 b</name>
+				<name>PPM 776101 b</name>
+				<name>TYC 8900-874-1 b</name>
+				<name>GSC 08900-00874 b</name>
+				<name>RAVE J054833.6-635918 b</name>
+				<name>USNO-B1.0 0260-00058281 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.57</mass>
 				<radius>1.39</radius>
@@ -48385,16 +48493,20 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature>1305.2</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-62</name>
 			<temperature>6230.0</temperature>
 		</star>
 	</system>
 	<system>
 		<name>WASP-63</name>
-		<rightascension>06 17 21</rightascension>
-		<declination>-38 19 24</declination>
+		<rightascension>06 17 20.75</rightascension>
+		<declination>-38 19 23.8</declination>
 		<distance>330</distance>
 		<star>
+			<name>WASP-63</name>
+			<name>TYC 7612-556-1</name>
+			<name>2MASS J06172074-3819237</name>
+			<name>GSC 07612-00556</name>
+			<name>1SWASP J061720.74-381923.8</name>
 			<mass>1.32</mass>
 			<radius>1.88</radius>
 			<magV>11.2</magV>
@@ -48406,6 +48518,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>G8</spectraltype>
 			<planet>
 				<name>WASP-63 b</name>
+				<name>TYC 7612-556-1 b</name>
+				<name>2MASS J06172074-3819237 b</name>
+				<name>GSC 07612-00556 b</name>
+				<name>1SWASP J061720.74-381923.8 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.03" errorplus="0.03">0.38</mass>
 				<radius errorminus="0.06" errorplus="0.10">1.43</radius>
@@ -48421,7 +48537,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature errorminus="40" errorplus="40">1540</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-63</name>
 			<temperature errorminus="90" errorplus="90">5570.0</temperature>
 		</star>
 	</system>
@@ -49250,7 +49365,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
