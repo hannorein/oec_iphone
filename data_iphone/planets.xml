@@ -3781,6 +3781,51 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Earth</id_exoplaneteu>
+		<name>Earth</name>
+		<name>Sun d</name>
+		<name>Moon</name>
+		<id>Earth</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.0031457007</mass>
+			<radius>0.091130294</radius>
+			<orbit>
+				<period>365.2422</period>
+				<semimajoraxis>1.00000018</semimajoraxis>
+				<eccentricity>0.01673163</eccentricity>
+				<inclination>89.999457</inclination>
+				<periastron>102.93005885</periastron>
+				<longitude>100.46691572</longitude>
+				<ascendingnode>-5.11260389</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear />
+		<lastupdate>12/01/01</lastupdate>
+		<description>Earth is the only known planet able to sustain life.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>eps Corona Borealis b</id_exoplaneteu>
 		<name>eps Corona Borealis b</name>
 		<name>HD 143107 b</name>
@@ -28458,6 +28503,54 @@ Credit: ESO/J. Rameau</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Jupiter</id_exoplaneteu>
+		<name>Jupiter</name>
+		<name>Sun f</name>
+		<name>Callisto</name>
+		<name>Europa</name>
+		<name>Ganymede</name>
+		<name>Io</name>
+		<id>Jupiter</id>
+		<discoverymethod />
+		<properties>
+			<mass>1</mass>
+			<radius>1</radius>
+			<orbit>
+				<period>4332.82</period>
+				<semimajoraxis>5.20248019</semimajoraxis>
+				<eccentricity>0.04853590</eccentricity>
+				<inclination>91.298614</inclination>
+				<periastron>14.27495244</periastron>
+				<longitude>34.33479152</longitude>
+				<ascendingnode>100.29282654</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear />
+		<lastupdate>12/01/01</lastupdate>
+		<description>Jupiter is two and a half times the mass of all the other planets in the Solar System.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kappa And b</id_exoplaneteu>
@@ -74583,6 +74676,94 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Mars</id_exoplaneteu>
+		<name>Mars</name>
+		<name>Sun e</name>
+		<id>Mars</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.00033799525</mass>
+			<radius>0.048489079</radius>
+			<orbit>
+				<period>686.98</period>
+				<semimajoraxis>1.52371243</semimajoraxis>
+				<eccentricity>0.09336511</eccentricity>
+				<inclination>91.851819</inclination>
+				<periastron>-23.91744784</periastron>
+				<longitude>-4.56813164</longitude>
+				<ascendingnode>49.71320984</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear />
+		<lastupdate>12/01/01</lastupdate>
+		<description>Mars is named after the Roman god of war and often called the red planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Mercury</id_exoplaneteu>
+		<name>Mercury</name>
+		<name>Sun b</name>
+		<id>Mercury</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.00017387419</mass>
+			<radius>0.034901518</radius>
+			<orbit>
+				<period>87.97</period>
+				<semimajoraxis>0.38709843</semimajoraxis>
+				<eccentricity>0.20563661</eccentricity>
+				<inclination>97.005594</inclination>
+				<periastron>77.45771895</periastron>
+				<longitude>252.25166724</longitude>
+				<ascendingnode>48.33961819</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear />
+		<lastupdate>12/01/01</lastupdate>
+		<description>Mercury is the innermost planet in the Solar System.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>MOA-2007-BLG-192-L b</id_exoplaneteu>
 		<name>MOA-2007-BLG-192-L b</name>
 		<name>MOA 2007-BLG-192L b</name>
@@ -75473,6 +75654,51 @@ Image credit: Joe Gallagher</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Neptune</id_exoplaneteu>
+		<name>Neptune</name>
+		<name>Sun i</name>
+		<name>Triton</name>
+		<id>Neptune</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.053953</mass>
+			<radius>0.35221925</radius>
+			<orbit>
+				<period>60190.03</period>
+				<semimajoraxis>30.06952752</semimajoraxis>
+				<eccentricity>0.00895439</eccentricity>
+				<inclination>91.770055</inclination>
+				<periastron>46.68158724</periastron>
+				<longitude>304.22289287</longitude>
+				<ascendingnode>131.78635853</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear>1846</discoveryyear>
+		<lastupdate>12/01/01</lastupdate>
+		<description>Neptune is the fourth largest planet in the Solar System.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>NGC 2423 3 b</id_exoplaneteu>
@@ -77176,6 +77402,51 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Pluto</id_exoplaneteu>
+		<name>Pluto</name>
+		<name>Sun j</name>
+		<name>Charon</name>
+		<id>Pluto</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.0000077581378</mass>
+			<radius>0.0164379</radius>
+			<orbit>
+				<period>90553.02</period>
+				<semimajoraxis>39.48686035</semimajoraxis>
+				<eccentricity>0.24885238</eccentricity>
+				<inclination>107.141043</inclination>
+				<periastron>224.09702598</periastron>
+				<longitude>238.96535011</longitude>
+				<ascendingnode>110.30167986</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear>1930</discoveryyear>
+		<lastupdate>12/01/01</lastupdate>
+		<description>Pluto is officially categorized as a minor planet by the International Astronomical Union.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>POTS-1 b</id_exoplaneteu>
 		<name>POTS-1 b</name>
 		<name>2MASS 13342613-6634520 b</name>
@@ -77901,6 +78172,56 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Saturn</id_exoplaneteu>
+		<name>Saturn</name>
+		<name>Sun g</name>
+		<name>Dione</name>
+		<name>Enceladus</name>
+		<name>Iapetus</name>
+		<name>Rhea</name>
+		<name>Tethys</name>
+		<name>Titan</name>
+		<id>Saturn</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.299</mass>
+			<radius>0.832944</radius>
+			<orbit>
+				<period>10755.67</period>
+				<semimajoraxis>9.54149883</semimajoraxis>
+				<eccentricity>0.05550825</eccentricity>
+				<inclination>92.494241</inclination>
+				<periastron>92.86136063</periastron>
+				<longitude>50.07571329</longitude>
+				<ascendingnode>113.63998702</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear />
+		<lastupdate>12/01/01</lastupdate>
+		<description>Saturn is best known for its extensive ring system.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>SR 12 C</id_exoplaneteu>
 		<name>SR 12 C</name>
 		<id>SR 12 C</id>
@@ -77943,5 +78264,5975 @@ Credit: ESO/L. Calcada</imagedescription>
 		<imagedescription />
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>SWEEPS-11</id_exoplaneteu>
+		<name>SWEEPS-11</name>
+		<name>SWEEPS-11 b</name>
+		<name>SWEEPS J175902.67-291153.5 b</name>
+		<id>SWEEPS-11</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>9.7</mass>
+			<radius>1.13</radius>
+			<orbit>
+				<period>1.796</period>
+				<semimajoraxis>0.03</semimajoraxis>
+				<eccentricity />
+				<inclination>84</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.1</mass>
+			<radius>1.45</radius>
+			<metallicity />
+			<distance>8500</distance>
+			<temperature />
+			<rightascension>17 59 03</rightascension>
+			<declination>-29 11 54</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>14/05/23</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>SWEEPS-4</id_exoplaneteu>
+		<name>SWEEPS-4</name>
+		<name>SWEEPS-04</name>
+		<name>SWEEPS-4 b</name>
+		<name>SWEEPS J175853.92-291120.6 b</name>
+		<id>SWEEPS-4</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.81</radius>
+			<orbit>
+				<period>4.2</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity />
+				<inclination>87</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.24</mass>
+			<radius>1.18</radius>
+			<metallicity />
+			<distance>6600</distance>
+			<temperature />
+			<rightascension>17 58 54</rightascension>
+			<declination>-29 11 21</declination>
+			<angulardistance />
+			<magV>18.8</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>14/05/23</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Boo A b</id_exoplaneteu>
+		<name>tau Boo A b</name>
+		<name>Tau Bo&#246;tis A b</name>
+		<name>Tau Bootis A b</name>
+		<name>HD 120136 A b</name>
+		<name>GJ 527 A b</name>
+		<name>Gliese 527 A b</name>
+		<name>tau Boo b</name>
+		<id>tau Boo A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.90</mass>
+			<radius />
+			<orbit>
+				<period>3.312</period>
+				<semimajoraxis>0.046</semimajoraxis>
+				<eccentricity>0.023</eccentricity>
+				<inclination>45</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7 V</spectraltype>
+			<mass>1.341</mass>
+			<radius>1.331</radius>
+			<metallicity>0.25</metallicity>
+			<distance>15.62</distance>
+			<temperature>6375</temperature>
+			<rightascension>13 47 17</rightascension>
+			<declination>+17 27 22</declination>
+			<angulardistance />
+			<magV>4.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>1996</discoveryyear>
+		<lastupdate>14/03/04</lastupdate>
+		<description>The planet Tau Bo&#246;tis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time.</description>
+		<new />
+		<image>tauboo</image>
+		<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
+
+		Credit: ESO/L. Calcada</imagedescription>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Ceti b</id_exoplaneteu>
+		<name>tau Ceti b</name>
+		<name>HD 10700 b</name>
+		<id>tau Ceti b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0062914013</mass>
+			<radius />
+			<orbit>
+				<period>13.965</period>
+				<semimajoraxis>0.105</semimajoraxis>
+				<eccentricity>0.16</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8.5 V</spectraltype>
+			<mass>0.783</mass>
+			<radius>0.798</radius>
+			<metallicity>-0.55</metallicity>
+			<distance>3.65</distance>
+			<temperature />
+			<rightascension>01 44 04</rightascension>
+			<declination>-15 56 15</declination>
+			<angulardistance />
+			<magV>3.50</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/12/19</lastupdate>
+		<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
+		<new />
+		<image>tau_ceti</image>
+		<imagedescription>Artist's impression of the Tau Ceti system
+
+Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Ceti c</id_exoplaneteu>
+		<name>tau Ceti c</name>
+		<name>HD 10700 c</name>
+		<id>tau Ceti c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.009751672</mass>
+			<radius />
+			<orbit>
+				<period>35.362</period>
+				<semimajoraxis>0.195</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8.5 V</spectraltype>
+			<mass>0.783</mass>
+			<radius>0.798</radius>
+			<metallicity>-0.55</metallicity>
+			<distance>3.65</distance>
+			<temperature />
+			<rightascension>01 44 04</rightascension>
+			<declination>-15 56 15</declination>
+			<angulardistance />
+			<magV>3.50</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/12/19</lastupdate>
+		<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
+		<new />
+		<image>tau_ceti</image>
+		<imagedescription>Artist's impression of the Tau Ceti system
+
+Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Ceti d</id_exoplaneteu>
+		<name>tau Ceti d</name>
+		<name>HD 10700 d</name>
+		<id>tau Ceti d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.011324522</mass>
+			<radius />
+			<orbit>
+				<period>94.11</period>
+				<semimajoraxis>0.374</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8.5 V</spectraltype>
+			<mass>0.783</mass>
+			<radius>0.798</radius>
+			<metallicity>-0.55</metallicity>
+			<distance>3.65</distance>
+			<temperature />
+			<rightascension>01 44 04</rightascension>
+			<declination>-15 56 15</declination>
+			<angulardistance />
+			<magV>3.50</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/12/19</lastupdate>
+		<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
+		<new />
+		<image>tau_ceti</image>
+		<imagedescription>Artist's impression of the Tau Ceti system
+
+Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Ceti e</id_exoplaneteu>
+		<name>tau Ceti e</name>
+		<name>HD 10700 e</name>
+		<id>tau Ceti e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.013526513</mass>
+			<radius />
+			<orbit>
+				<period>168.12</period>
+				<semimajoraxis>0.552</semimajoraxis>
+				<eccentricity>0.085</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8.5 V</spectraltype>
+			<mass>0.783</mass>
+			<radius>0.798</radius>
+			<metallicity>-0.55</metallicity>
+			<distance>3.65</distance>
+			<temperature />
+			<rightascension>01 44 04</rightascension>
+			<declination>-15 56 15</declination>
+			<angulardistance />
+			<magV>3.50</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/12/19</lastupdate>
+		<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
+		<new />
+		<image>tau_ceti</image>
+		<imagedescription>Artist's impression of the Tau Ceti system
+
+Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Ceti f</id_exoplaneteu>
+		<name>tau Ceti f</name>
+		<name>HD 10700 f</name>
+		<id>tau Ceti f</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.020761624</mass>
+			<radius />
+			<orbit>
+				<period>642</period>
+				<semimajoraxis>1.35</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8.5 V</spectraltype>
+			<mass>0.783</mass>
+			<radius>0.798</radius>
+			<metallicity>-0.55</metallicity>
+			<distance>3.65</distance>
+			<temperature />
+			<rightascension>01 44 04</rightascension>
+			<declination>-15 56 15</declination>
+			<angulardistance />
+			<magV>3.50</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/12/19</lastupdate>
+		<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
+		<new />
+		<image>tau_ceti</image>
+		<imagedescription>Artist's impression of the Tau Ceti system
+
+Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>tau Gem b</id_exoplaneteu>
+		<name>tau Gem b</name>
+		<id>tau Gem b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>20.6</mass>
+			<radius />
+			<orbit>
+				<period>305.5</period>
+				<semimajoraxis>1.17</semimajoraxis>
+				<eccentricity>0.031</eccentricity>
+				<inclination />
+				<periastron>137.4</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2III</spectraltype>
+			<mass>2.3</mass>
+			<radius>26.8</radius>
+			<metallicity>0.14</metallicity>
+			<distance>98.4</distance>
+			<temperature>4388</temperature>
+			<rightascension>07 11 08</rightascension>
+			<declination>+30 14 43</declination>
+			<angulardistance />
+			<magV>4.41</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2004</discoveryyear>
+		<lastupdate>13/05/23</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TrES-1 b</id_exoplaneteu>
+		<name>TrES-1 b</name>
+		<name>TYC 2652-01324-1</name>
+		<name>2MASS J19040985+3637574</name>
+		<name>TrES-1</name>
+		<id>TrES-1 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.761</mass>
+			<radius>1.099</radius>
+			<orbit>
+				<period>3.0300722</period>
+				<semimajoraxis>0.0393</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.85</radius>
+			<metallicity>0.001</metallicity>
+			<distance>157</distance>
+			<temperature>5250</temperature>
+			<rightascension>19 04 09</rightascension>
+			<declination>+36 37 57</declination>
+			<angulardistance />
+			<magV>11.42</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2004</discoveryyear>
+		<lastupdate>11/02/09</lastupdate>
+		<description>TrES-1 b orbits an orange dwarf star in the constellation of Lyra. It belongs to the class of Hot Jupiters</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TrES-2</id_exoplaneteu>
+		<name>TrES-2</name>
+		<name>TrES-2 b</name>
+		<name>Kepler-1 b</name>
+		<id>TrES-2</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.253</mass>
+			<radius>1.169</radius>
+			<orbit>
+				<period>2.470613402</period>
+				<semimajoraxis>0.03556</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.874</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>0.983</mass>
+			<radius>1.003</radius>
+			<metallicity>0.001</metallicity>
+			<distance>213</distance>
+			<temperature>5850</temperature>
+			<rightascension>19 07 14</rightascension>
+			<declination>+49 18 59</declination>
+			<angulardistance />
+			<magV>11.25</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>13/01/27</lastupdate>
+		<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TrES-3 b</id_exoplaneteu>
+		<name>TrES-3 b</name>
+		<name>2MASS J17520702+3732461</name>
+		<name>TrES-3</name>
+		<id>TrES-3 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.91</mass>
+			<radius>1.305</radius>
+			<orbit>
+				<period>1.30618608</period>
+				<semimajoraxis>0.0226</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.15</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.85</radius>
+			<metallicity>0.001</metallicity>
+			<distance>400</distance>
+			<temperature>5720</temperature>
+			<rightascension>17 52 07</rightascension>
+			<declination>+37 32 46</declination>
+			<angulardistance />
+			<magV>12.402</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>10/12/13</lastupdate>
+		<description>The planet TrES-3 b has an orbital perdiod of just 31 hours and is undergoing orbital decay due to tidal effects.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TrES-4 A b</id_exoplaneteu>
+		<name>TrES-4 A b</name>
+		<name>TrES-4 b</name>
+		<name>TYC 2620-00648-1</name>
+		<name>2MASS J17531304+3712426</name>
+		<name>TrES-4</name>
+		<id>TrES-4 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.917</mass>
+			<radius>1.706</radius>
+			<orbit>
+				<period>3.5539268</period>
+				<semimajoraxis>0.05084</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.81</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.85</radius>
+			<metallicity>0.001</metallicity>
+			<distance>485</distance>
+			<temperature>1782</temperature>
+			<rightascension>17 53 13</rightascension>
+			<declination>+37 12 42</declination>
+			<angulardistance />
+			<magV>11.592</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>13/01/27</lastupdate>
+		<description>The planet TrES-4 b was discovered by the Trans-Atlantic Exoplanet Survey and is located in the constellation Hercules. The host star is a member of a binary system.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TrES-5 b</id_exoplaneteu>
+		<name>TrES-5 b</name>
+		<name>2MASS J20205324+5926556 b</name>
+		<name>TrES-5</name>
+		<id>TrES-5 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.778</mass>
+			<radius>1.209</radius>
+			<orbit>
+				<period>1.4822446</period>
+				<semimajoraxis>0.02446</semimajoraxis>
+				<eccentricity />
+				<inclination>84.529</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.85</radius>
+			<metallicity>0.20</metallicity>
+			<distance>360</distance>
+			<temperature>5171</temperature>
+			<rightascension>20 20 53</rightascension>
+			<declination>+59 26 55</declination>
+			<angulardistance />
+			<magV>13.58</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/05</lastupdate>
+		<description>TrES-5 b transits one of the faintest stars with known transiting planets.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A b</id_exoplaneteu>
+		<name>Upsilon Andromedae A b</name>
+		<name>ups And A b</name>
+		<name>ups And b</name>
+		<id>Upsilon Andromedae A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.69</mass>
+			<radius />
+			<orbit>
+				<period>4.617136</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>0.013</eccentricity>
+				<inclination>30</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<temperature>1440.1</temperature>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<angulardistance />
+			<magV>4.09</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>1996</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A c</id_exoplaneteu>
+		<name>Upsilon Andromedae A c</name>
+		<name>ups And A c</name>
+		<name>ups And c</name>
+		<id>Upsilon Andromedae A c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>14.57</mass>
+			<radius />
+			<orbit>
+				<period>237.7</period>
+				<semimajoraxis>0.861</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
+				<inclination>8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<temperature>1440.1</temperature>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<angulardistance />
+			<magV>4.09</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>1999</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A d</id_exoplaneteu>
+		<name>Upsilon Andromedae A d</name>
+		<name>ups And A d</name>
+		<name>ups And d</name>
+		<id>Upsilon Andromedae A d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>10.19</mass>
+			<radius />
+			<orbit>
+				<period>1302.61</period>
+				<semimajoraxis>2.55</semimajoraxis>
+				<eccentricity>0.274</eccentricity>
+				<inclination>24</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<temperature>1440.1</temperature>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<angulardistance />
+			<magV>4.09</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>1999</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Upsilon Andromedae A e</id_exoplaneteu>
+		<name>Upsilon Andromedae A e</name>
+		<name>ups And A e</name>
+		<name>ups And e</name>
+		<id>Upsilon Andromedae A e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.059</mass>
+			<radius />
+			<orbit>
+				<period>3848.86</period>
+				<semimajoraxis>5.2456</semimajoraxis>
+				<eccentricity>0.00536</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8 V</spectraltype>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<metallicity>0.09</metallicity>
+			<distance>13.47</distance>
+			<temperature>1440.1</temperature>
+			<rightascension>01 36 48</rightascension>
+			<declination>+41 24 38</declination>
+			<angulardistance />
+			<magV>4.09</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/12/08</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Uranus</id_exoplaneteu>
+		<name>Uranus</name>
+		<name>Sun h</name>
+		<name>Ariel</name>
+		<name>Miranda</name>
+		<name>Oberon</name>
+		<name>Titania</name>
+		<name>Umbriel</name>
+		<id>Uranus</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.0457</mass>
+			<radius>0.362775</radius>
+			<orbit>
+				<period>30687.153</period>
+				<semimajoraxis>19.18797948</semimajoraxis>
+				<eccentricity>0.04685740</eccentricity>
+				<inclination>90.772981</inclination>
+				<periastron>172.43404441</periastron>
+				<longitude>314.20276625</longitude>
+				<ascendingnode>73.96250215</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear>1781</discoveryyear>
+		<lastupdate>12/01/01</lastupdate>
+		<description>Uranus is visible with the naked eye but has never been recognized as a planet by ancient observers.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>UScoCTIO 108 b</id_exoplaneteu>
+		<name>UScoCTIO 108 b</name>
+		<id>UScoCTIO 108 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>14</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M7</spectraltype>
+			<mass>0.057</mass>
+			<radius />
+			<metallicity />
+			<distance>145</distance>
+			<temperature>2700</temperature>
+			<rightascension>16 05 54</rightascension>
+			<declination>-18 18 43</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/12/14</lastupdate>
+		<description />
+		<new />
+		<image>UScoCTIO 108</image>
+		<imagedescription>This composite color image shows UScoCTIO 108 together with its companion. Credit: V.J.S. Bejar, Telescopio Nazionale Galileo, William Herschel Telescope.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>UZ For(ab) d</id_exoplaneteu>
+		<name>UZ For(ab) d</name>
+		<name>UZ For d</name>
+		<name>UZ Fornacis d</name>
+		<id>UZ For(ab) d</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>7.7</mass>
+			<radius />
+			<orbit>
+				<period>1900</period>
+				<semimajoraxis>2.8</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>Catac. var.</spectraltype>
+			<mass>0.84</mass>
+			<radius />
+			<metallicity />
+			<distance />
+			<temperature>127.9</temperature>
+			<rightascension>03 35 29</rightascension>
+			<declination>-25 44 22</declination>
+			<angulardistance />
+			<magV>18.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/06/08</lastupdate>
+		<description>UZ Fornacis is an eclipsing polar binary. High-speed photometry and archival eclipse timing data spanning 27 years suggest the presence of extrasolar planets (Potter et al 2011).</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>V391 Peg b</id_exoplaneteu>
+		<name>V391 Peg b</name>
+		<name>V0391 Peg b</name>
+		<id>V391 Peg b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>3.2</mass>
+			<radius />
+			<orbit>
+				<period>1170</period>
+				<semimajoraxis>1.7</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>sdB</spectraltype>
+			<mass>0.5</mass>
+			<radius>0.23</radius>
+			<metallicity />
+			<distance>1400</distance>
+			<temperature>475.2</temperature>
+			<rightascension>22 04 12</rightascension>
+			<declination>+26 25 08</declination>
+			<angulardistance />
+			<magV>14.57</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>07/09/14</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Venus</id_exoplaneteu>
+		<name>Venus</name>
+		<name>Sun c</name>
+		<id>Venus</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.0025637401</mass>
+			<radius>0.08656491</radius>
+			<orbit>
+				<period>224.7</period>
+				<semimajoraxis>0.72332102</semimajoraxis>
+				<eccentricity>0.00676399</eccentricity>
+				<inclination>93.397775</inclination>
+				<periastron>131.76755713</periastron>
+				<longitude>181.97970850</longitude>
+				<ascendingnode>76.67261496</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1</mass>
+			<radius>1</radius>
+			<metallicity>0.00000001</metallicity>
+			<distance />
+			<temperature>5778</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>9</multiplicity>
+		<discoveryyear />
+		<lastupdate>12/01/01</lastupdate>
+		<description>Venus is the second planet from the Sun.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Solar System</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-1 b</id_exoplaneteu>
+		<name>WASP-1 b</name>
+		<name>TYC 2265-00107-1 b</name>
+		<name>2MASS J00204007+3159239 b</name>
+		<id>WASP-1 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.854</mass>
+			<radius>1.483</radius>
+			<orbit>
+				<period>2.5199464</period>
+				<semimajoraxis>0.03889</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>90.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7V</spectraltype>
+			<mass>1.24</mass>
+			<radius>1.470</radius>
+			<metallicity>0.23</metallicity>
+			<distance>408</distance>
+			<temperature>1644.3</temperature>
+			<rightascension>00 20 40</rightascension>
+			<declination>+31 59 24</declination>
+			<angulardistance />
+			<magV>11.79</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>14/03/05</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-10 b</id_exoplaneteu>
+		<name>WASP-10 b</name>
+		<name>2MASS J23155829+3127462 b</name>
+		<id>WASP-10 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.06</mass>
+			<radius>1.08</radius>
+			<orbit>
+				<period>3.0927616</period>
+				<semimajoraxis>0.0371</semimajoraxis>
+				<eccentricity>0.057</eccentricity>
+				<inclination>86.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5</spectraltype>
+			<mass>0.71</mass>
+			<radius>0.783</radius>
+			<metallicity>0.03</metallicity>
+			<distance>90</distance>
+			<temperature>946.8</temperature>
+			<rightascension>23 15 58</rightascension>
+			<declination>+31 27 46</declination>
+			<angulardistance />
+			<magV>12.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>08/12/02</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-100 b</id_exoplaneteu>
+		<name>WASP-100 b</name>
+		<name>1SWASP J043550.32-640137.3 b</name>
+		<name>2MASS 04355033-6401373 b</name>
+		<id>WASP-100 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.03</mass>
+			<radius>1.69</radius>
+			<orbit>
+				<period>2.849375</period>
+				<semimajoraxis>0.0457</semimajoraxis>
+				<eccentricity />
+				<inclination>82.6</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F2</spectraltype>
+			<mass>1.57</mass>
+			<radius>2</radius>
+			<metallicity>-0.03</metallicity>
+			<distance />
+			<temperature>6900</temperature>
+			<rightascension>04 35 50</rightascension>
+			<declination>-64 01 37</declination>
+			<angulardistance />
+			<magV>10.8</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-101 b</id_exoplaneteu>
+		<name>WASP-101 b</name>
+		<name>1SWASP J063324.26-232910.2 b</name>
+		<name>2MASS 06332426-2329103 b</name>
+		<id>WASP-101 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.5</mass>
+			<radius>1.41</radius>
+			<orbit>
+				<period>3.585722</period>
+				<semimajoraxis>0.0506</semimajoraxis>
+				<eccentricity />
+				<inclination>85</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6</spectraltype>
+			<mass>1.34</mass>
+			<radius>1.29</radius>
+			<metallicity>0.2</metallicity>
+			<distance />
+			<temperature>6400</temperature>
+			<rightascension>06 33 24</rightascension>
+			<declination>-23 29 10</declination>
+			<angulardistance />
+			<magV>10.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-103 b</id_exoplaneteu>
+		<name>WASP-103 b</name>
+		<id>WASP-103 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.490</mass>
+			<radius>1.528</radius>
+			<orbit>
+				<period>0.925542</period>
+				<semimajoraxis>0.01985</semimajoraxis>
+				<eccentricity />
+				<inclination>86.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.220</mass>
+			<radius>1.436</radius>
+			<metallicity>0.06</metallicity>
+			<distance>470</distance>
+			<temperature>6110</temperature>
+			<rightascension>16 37 15</rightascension>
+			<declination>+07 11 00</declination>
+			<angulardistance />
+			<magV>12.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/05/15</lastupdate>
+		<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-104 b</id_exoplaneteu>
+		<name>WASP-104 b</name>
+		<name>TYC 260-1073-1 b</name>
+		<id>WASP-104 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.272</mass>
+			<radius>1.137</radius>
+			<orbit>
+				<period>1.7554137</period>
+				<semimajoraxis>0.02918</semimajoraxis>
+				<eccentricity />
+				<inclination>83.63</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>1.076</mass>
+			<radius>0.963</radius>
+			<metallicity>0.32</metallicity>
+			<distance>143</distance>
+			<temperature>5475</temperature>
+			<rightascension>10 42 24</rightascension>
+			<declination>+07 26 06</declination>
+			<angulardistance />
+			<magV>11.12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/08/06</lastupdate>
+		<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-106 b</id_exoplaneteu>
+		<name>WASP-106 b</name>
+		<name>TYC 4927-1063-1 b</name>
+		<id>WASP-106 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.925</mass>
+			<radius>1.085</radius>
+			<orbit>
+				<period>9.289715</period>
+				<semimajoraxis>0.0917</semimajoraxis>
+				<eccentricity />
+				<inclination>89.49</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.192</mass>
+			<radius>1.393</radius>
+			<metallicity>-0.09</metallicity>
+			<distance>283</distance>
+			<temperature>6055</temperature>
+			<rightascension>11 05 43</rightascension>
+			<declination>-05 04 46</declination>
+			<angulardistance />
+			<magV>11.21</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/08/06</lastupdate>
+		<description>The transiting exoplanet WASP-106 b is just slightly larger than Jupiter. The orbital solution is consistent with zero eccentricity, which is interesting because many other similar planets are known to have eccentric orbits. The planet was discovered by the WASP survey.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-108 b</id_exoplaneteu>
+		<name>WASP-108 b</name>
+		<id>WASP-108 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.892</mass>
+			<radius>1.284</radius>
+			<orbit>
+				<period>2.6755463</period>
+				<semimajoraxis>0.0397</semimajoraxis>
+				<eccentricity />
+				<inclination>88.49</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.167</mass>
+			<radius>1.215</radius>
+			<metallicity>0.05</metallicity>
+			<distance>220</distance>
+			<temperature>6000</temperature>
+			<rightascension>13 03 18.73</rightascension>
+			<declination>-49 38 22.8</declination>
+			<angulardistance />
+			<magV>11.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/14</lastupdate>
+		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-109 b</id_exoplaneteu>
+		<name>WASP-109 b</name>
+		<id>WASP-109 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.91</mass>
+			<radius>1.443</radius>
+			<orbit>
+				<period>3.3190233</period>
+				<semimajoraxis>0.0463</semimajoraxis>
+				<eccentricity />
+				<inclination>84.28</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F4</spectraltype>
+			<mass>0.91</mass>
+			<radius>1.346</radius>
+			<metallicity>-0.22</metallicity>
+			<distance>330</distance>
+			<temperature>6520</temperature>
+			<rightascension>15 28 13.23</rightascension>
+			<declination>-16 24 38.8</declination>
+			<angulardistance />
+			<magV>11.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/14</lastupdate>
+		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-11 b</id_exoplaneteu>
+		<name>WASP-11 b</name>
+		<name>HAT-P-10 b</name>
+		<name>2MASS J03092855+3040249 b</name>
+		<id>WASP-11 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.46</mass>
+			<radius>1.045</radius>
+			<orbit>
+				<period>3.722469</period>
+				<semimajoraxis>0.0439</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.5</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.82</mass>
+			<radius>0.81</radius>
+			<metallicity>0.13</metallicity>
+			<distance>125</distance>
+			<temperature>943.2</temperature>
+			<rightascension>03 09 29</rightascension>
+			<declination>+30 40 25</declination>
+			<angulardistance />
+			<magV>11.89</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>08/11/27</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-110 b</id_exoplaneteu>
+		<name>WASP-110 b</name>
+		<id>WASP-110 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.510</mass>
+			<radius>1.238</radius>
+			<orbit>
+				<period>3.7783977</period>
+				<semimajoraxis>0.0457</semimajoraxis>
+				<eccentricity />
+				<inclination>88.06</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9</spectraltype>
+			<mass>0.892</mass>
+			<radius>0.881</radius>
+			<metallicity>-0.06</metallicity>
+			<distance>320</distance>
+			<temperature>5400</temperature>
+			<rightascension>20 23 29.55</rightascension>
+			<declination>-44 03 30.3</declination>
+			<angulardistance />
+			<magV>12.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/14</lastupdate>
+		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-111 b</id_exoplaneteu>
+		<name>WASP-111 b</name>
+		<id>WASP-111 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.83</mass>
+			<radius>1.442</radius>
+			<orbit>
+				<period>2.3109650</period>
+				<semimajoraxis>0.03914</semimajoraxis>
+				<eccentricity />
+				<inclination>81.61</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5</spectraltype>
+			<mass>1.5</mass>
+			<radius>1.85</radius>
+			<metallicity>0.08</metallicity>
+			<distance>210</distance>
+			<temperature>6400</temperature>
+			<rightascension>21 55 04.23</rightascension>
+			<declination>-22 36 45.2</declination>
+			<angulardistance />
+			<magV>10.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/14</lastupdate>
+		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-112 b</id_exoplaneteu>
+		<name>WASP-112 b</name>
+		<id>WASP-112 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.88</mass>
+			<radius>1.191</radius>
+			<orbit>
+				<period>3.0353992</period>
+				<semimajoraxis>0.0382</semimajoraxis>
+				<eccentricity />
+				<inclination>86.68</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>0.807</mass>
+			<radius>1.002</radius>
+			<metallicity>-0.64</metallicity>
+			<distance>450</distance>
+			<temperature>5610</temperature>
+			<rightascension>22 37 57.43</rightascension>
+			<declination>-35 09 13.9</declination>
+			<angulardistance />
+			<magV>13.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/14</lastupdate>
+		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-117 b</id_exoplaneteu>
+		<name>WASP-117 b</name>
+		<name>GSC08055-00876 b</name>
+		<id>WASP-117 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.2755</mass>
+			<radius>1.021</radius>
+			<orbit>
+				<period>10.02165</period>
+				<semimajoraxis>0.09459</semimajoraxis>
+				<eccentricity>0.302</eccentricity>
+				<inclination>89.14</inclination>
+				<periastron>242</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.126</mass>
+			<radius>1.17</radius>
+			<metallicity>-0.11</metallicity>
+			<distance />
+			<temperature>6040</temperature>
+			<rightascension>02 27 06</rightascension>
+			<declination>-50 17 04</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/06/27</lastupdate>
+		<description>WASP-117b is a Hot Saturn on an eccentric and misaligned orbit. This is the first planet with a period beyond 10 days found by the WASP survey. Because of its large orbital separation tidal forces are weak and have had little impact on the evolution of the system.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-12 b</id_exoplaneteu>
+		<name>WASP-12 b</name>
+		<name>WASP-12 A b</name>
+		<name>2MASS J06303279+2940202 b</name>
+		<id>WASP-12 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.404</mass>
+			<radius>1.736</radius>
+			<orbit>
+				<period>1.0914222</period>
+				<semimajoraxis>0.02293</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>86</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.35</mass>
+			<radius>1.599</radius>
+			<metallicity>0.3</metallicity>
+			<distance>250</distance>
+			<temperature>2319.7</temperature>
+			<rightascension>06 30 33</rightascension>
+			<declination>+29 40 20</declination>
+			<angulardistance />
+			<magV>11.69</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>13/07/31</lastupdate>
+		<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-13 b</id_exoplaneteu>
+		<name>WASP-13 b</name>
+		<name>2MASS J09202471+3352567 b</name>
+		<id>WASP-13 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.500</mass>
+			<radius>1.407</radius>
+			<orbit>
+				<period>4.3530135</period>
+				<semimajoraxis>0.05379</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.43</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G1V</spectraltype>
+			<mass>1.187</mass>
+			<radius>1.559</radius>
+			<metallicity>0.0</metallicity>
+			<distance>155</distance>
+			<temperature>1203.3</temperature>
+			<rightascension>09 20 25</rightascension>
+			<declination>+33 52 57</declination>
+			<angulardistance />
+			<magV>10.42</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>14/03/20</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-14 b</id_exoplaneteu>
+		<name>WASP-14 b</name>
+		<name>BD+22 2716 b</name>
+		<name>TYC 1482-00882-1 b</name>
+		<name>2MASS J14330635+2153409 b</name>
+		<name>SAO 83398 b</name>
+		<id>WASP-14 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>7.341</mass>
+			<radius>1.281</radius>
+			<orbit>
+				<period>2.2437661</period>
+				<semimajoraxis>0.036</semimajoraxis>
+				<eccentricity>0.087</eccentricity>
+				<inclination>84.79</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5V</spectraltype>
+			<mass>1.211</mass>
+			<radius>1.306</radius>
+			<metallicity />
+			<distance>160</distance>
+			<temperature>1718.8</temperature>
+			<rightascension>14 33 06</rightascension>
+			<declination>+21 53 41</declination>
+			<angulardistance />
+			<magV>9.75</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-15 b</id_exoplaneteu>
+		<name>WASP-15 b</name>
+		<name>2MASS J13554270-3209345 b</name>
+		<id>WASP-15 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.542</mass>
+			<radius>1.428</radius>
+			<orbit>
+				<period>3.7520656</period>
+				<semimajoraxis>0.0499</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.5</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.18</mass>
+			<radius>1.477</radius>
+			<metallicity>-0.17</metallicity>
+			<distance>308</distance>
+			<temperature>1511.3</temperature>
+			<rightascension>13 55 43</rightascension>
+			<declination>-32 09 35</declination>
+			<angulardistance />
+			<magV>10.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>10/11/29</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-16 b</id_exoplaneteu>
+		<name>WASP-16 b</name>
+		<name>TYC 6147-00229-1 b</name>
+		<name>2MASS J14184392-2016317 b</name>
+		<id>WASP-16 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.855</mass>
+			<radius>1.008</radius>
+			<orbit>
+				<period>3.1186009</period>
+				<semimajoraxis>0.0421</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.22</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G3V</spectraltype>
+			<mass>1.022</mass>
+			<radius>0.946</radius>
+			<metallicity>0.01</metallicity>
+			<distance />
+			<temperature>1160.0</temperature>
+			<rightascension>14 18 44</rightascension>
+			<declination>-20 16 32</declination>
+			<angulardistance />
+			<magV>11.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>12/07/05</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-17 b</id_exoplaneteu>
+		<name>WASP-17 b</name>
+		<name>2MASS J15595095-2803422 b</name>
+		<id>WASP-17 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.486</mass>
+			<radius>1.991</radius>
+			<orbit>
+				<period>3.735438</period>
+				<semimajoraxis>0.0515</semimajoraxis>
+				<eccentricity>0.028</eccentricity>
+				<inclination>86.83</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F4</spectraltype>
+			<mass>1.306</mass>
+			<radius>1.572</radius>
+			<metallicity>-0.19</metallicity>
+			<distance>400</distance>
+			<temperature>1517.8</temperature>
+			<rightascension>15 59 51</rightascension>
+			<declination>-28 03 42</declination>
+			<angulardistance />
+			<magV>11.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-18 b</id_exoplaneteu>
+		<name>WASP-18 b</name>
+		<name>HIP 7562 b</name>
+		<name>TYC 8040-00072-1 b</name>
+		<name>HD 10069 b</name>
+		<name>CD-46 449 b</name>
+		<name>CPD-46 168 b</name>
+		<name>SAO 215585 b</name>
+		<name>2MASS J01372503-4540404 b</name>
+		<id>WASP-18 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>10.43</mass>
+			<radius>1.165</radius>
+			<orbit>
+				<period>0.9414518</period>
+				<semimajoraxis>0.02047</semimajoraxis>
+				<eccentricity>0.0088</eccentricity>
+				<inclination>86</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6</spectraltype>
+			<mass>1.24</mass>
+			<radius>1.23</radius>
+			<metallicity />
+			<distance>100</distance>
+			<temperature>2187.5</temperature>
+			<rightascension>01 37 25</rightascension>
+			<declination>-45 40 40</declination>
+			<angulardistance />
+			<magV>9.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>12/07/05</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-19 b</id_exoplaneteu>
+		<name>WASP-19 b</name>
+		<name>2MASS J09534008-4539330 b</name>
+		<id>WASP-19 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.168</mass>
+			<radius>1.386</radius>
+			<orbit>
+				<period>0.78884</period>
+				<semimajoraxis>0.01655</semimajoraxis>
+				<eccentricity>0.0046</eccentricity>
+				<inclination>79.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.97</mass>
+			<radius>0.99</radius>
+			<metallicity>0.02</metallicity>
+			<distance>250</distance>
+			<temperature>1911.5</temperature>
+			<rightascension>09 53 40</rightascension>
+			<declination>-45 39 33</declination>
+			<angulardistance />
+			<magV>12.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>12/07/05</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-2 A b</id_exoplaneteu>
+		<name>WASP-2 A b</name>
+		<name>WASP-2 b</name>
+		<name>2MASS J20305413+0625463 b</name>
+		<id>WASP-2 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.914</mass>
+			<radius>1.117</radius>
+			<orbit>
+				<period>2.15222144</period>
+				<semimajoraxis>0.03138</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>84.73</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.89</mass>
+			<radius>0.840</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>165.8</distance>
+			<temperature>1170.7</temperature>
+			<rightascension>20 30 54</rightascension>
+			<declination>+06 25 46</declination>
+			<angulardistance />
+			<magV>11.98</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>13/01/27</lastupdate>
+		<description>WASP-2 is an orange dwarf star that hosts the exoplanet WASP-2 b. It was discovered with the SuperWASP survey in 2006.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-20 b</id_exoplaneteu>
+		<name>WASP-20 b</name>
+		<name>CD-24 102 b</name>
+		<name>2MASS J00203853-2356086 b</name>
+		<id>WASP-20 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.313</mass>
+			<radius>1.458</radius>
+			<orbit>
+				<period>4.8996285</period>
+				<semimajoraxis>0.06003</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.57</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.202</mass>
+			<radius>1.392</radius>
+			<metallicity>-0.009</metallicity>
+			<distance>210</distance>
+			<temperature>5950</temperature>
+			<rightascension>00 20 39</rightascension>
+			<declination>-23 56 08</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>14/02/07</lastupdate>
+		<description>This planet has been announced in 2011 at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-21 b</id_exoplaneteu>
+		<name>WASP-21 b</name>
+		<name>2MASS J23095825+1823459 b</name>
+		<id>WASP-21 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.3</mass>
+			<radius>1.21</radius>
+			<orbit>
+				<period>4.322506</period>
+				<semimajoraxis>0.052</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.29</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G3V</spectraltype>
+			<mass>1.01</mass>
+			<radius>1.06</radius>
+			<metallicity>-0.4</metallicity>
+			<distance>230</distance>
+			<temperature>1154.6</temperature>
+			<rightascension>23 09 58</rightascension>
+			<declination>+18 23 46</declination>
+			<angulardistance />
+			<magV>11.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/06/13</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-22 b</id_exoplaneteu>
+		<name>WASP-22 b</name>
+		<name>TYC 6446-00326-1 b</name>
+		<name>2MASS J03311633-2349109 b</name>
+		<id>WASP-22 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.588</mass>
+			<radius>1.158</radius>
+			<orbit>
+				<period>3.5327313</period>
+				<semimajoraxis>0.04698</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.26</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.1</mass>
+			<radius>1.13</radius>
+			<metallicity>-0.05</metallicity>
+			<distance>300</distance>
+			<temperature>1297.5</temperature>
+			<rightascension>03 31 16</rightascension>
+			<declination>-23 49 11</declination>
+			<angulardistance />
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/07/01</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-23 b</id_exoplaneteu>
+		<name>WASP-23 b</name>
+		<name>2MASS J06443062-4245425 b</name>
+		<id>WASP-23 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.884</mass>
+			<radius>0.962</radius>
+			<orbit>
+				<period>2.9444256</period>
+				<semimajoraxis>0.0376</semimajoraxis>
+				<eccentricity>0.062</eccentricity>
+				<inclination>88.39</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1V</spectraltype>
+			<mass>0.78</mass>
+			<radius>0.765</radius>
+			<metallicity />
+			<distance />
+			<temperature>1024.0</temperature>
+			<rightascension>06 44 31</rightascension>
+			<declination>-42 45 43</declination>
+			<angulardistance />
+			<magV>12.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/03/24</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-24 b</id_exoplaneteu>
+		<name>WASP-24 b</name>
+		<name>2MASS J15085174+0220358 b</name>
+		<name>TYC 0339-00329-1 b</name>
+		<id>WASP-24 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.032</mass>
+			<radius>1.104</radius>
+			<orbit>
+				<period>2.3412083</period>
+				<semimajoraxis>0.0359</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.64</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8-9</spectraltype>
+			<mass>1.129</mass>
+			<radius>1.147</radius>
+			<metallicity>0.07</metallicity>
+			<distance>330</distance>
+			<temperature>1514.1</temperature>
+			<rightascension>15 08 52</rightascension>
+			<declination>+02 20 36</declination>
+			<angulardistance />
+			<magV>11.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>10/11/29</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-25 b</id_exoplaneteu>
+		<name>WASP-25 b</name>
+		<name>2MASS J13012637-2731199 b</name>
+		<name>TYC 6706-00861-1 b</name>
+		<id>WASP-25 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.58</mass>
+			<radius>1.26</radius>
+			<orbit>
+				<period>3.76483</period>
+				<semimajoraxis>0.0474</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.7</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G4</spectraltype>
+			<mass>1</mass>
+			<radius>0.95</radius>
+			<metallicity>-0.05</metallicity>
+			<distance>169</distance>
+			<temperature>1135.0</temperature>
+			<rightascension>13 01 26</rightascension>
+			<declination>-27 31 20</declination>
+			<angulardistance />
+			<magV>11.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/03/23</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-26 b</id_exoplaneteu>
+		<name>WASP-26 b</name>
+		<name>TYC 5839-00876-1 b</name>
+		<name>2MASS J00182469-1516022 b</name>
+		<id>WASP-26 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.028</mass>
+			<radius>1.281</radius>
+			<orbit>
+				<period>2.7566004</period>
+				<semimajoraxis>0.03985</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.91</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.12</mass>
+			<radius>1.34</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>250</distance>
+			<temperature>1521.3</temperature>
+			<rightascension>00 18 25</rightascension>
+			<declination>-15 16 02</declination>
+			<angulardistance />
+			<magV>11.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/07/05</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-28 b</id_exoplaneteu>
+		<name>WASP-28 b</name>
+		<name>2MASS J23342787-0134482 b</name>
+		<id>WASP-28 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.907</mass>
+			<radius>1.213</radius>
+			<orbit>
+				<period>3.4088300</period>
+				<semimajoraxis>0.04469</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.61</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.021</mass>
+			<radius>1.094</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>410</distance>
+			<temperature>6150</temperature>
+			<rightascension>23 34 28</rightascension>
+			<declination>-01 34 57</declination>
+			<angulardistance />
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>14/02/07</lastupdate>
+		<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-29 b</id_exoplaneteu>
+		<name>WASP-29 b</name>
+		<name>2MASS J23513108-3954241 b</name>
+		<name>TYC 8015-1020-1 b</name>
+		<id>WASP-29 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.244</mass>
+			<radius>0.792</radius>
+			<orbit>
+				<period>3.922727</period>
+				<semimajoraxis>0.0457</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>88.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K4V</spectraltype>
+			<mass>0.825</mass>
+			<radius>0.846</radius>
+			<metallicity>0.11</metallicity>
+			<distance>80</distance>
+			<temperature>910.6</temperature>
+			<rightascension>23 51 31</rightascension>
+			<declination>-39 54 24</declination>
+			<angulardistance />
+			<magV>11.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>10/09/28</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-3 b</id_exoplaneteu>
+		<name>WASP-3 b</name>
+		<name>2MASS J18343163+3539415 b</name>
+		<name>TYC 2636-00195-1 b</name>
+		<id>WASP-3 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.06</mass>
+			<radius>1.454</radius>
+			<orbit>
+				<period>1.8468372</period>
+				<semimajoraxis>0.0313</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.06</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7V</spectraltype>
+			<mass>1.24</mass>
+			<radius>1.31</radius>
+			<metallicity />
+			<distance>223</distance>
+			<temperature>1825.6</temperature>
+			<rightascension>18 34 32</rightascension>
+			<declination>+35 39 42</declination>
+			<angulardistance />
+			<magV>10.64</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/06/23</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-31 b</id_exoplaneteu>
+		<name>WASP-31 b</name>
+		<name>TYC 6087-1053-1 b</name>
+		<name>2MASS J11174536-1903171 b</name>
+		<id>WASP-31 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.478</mass>
+			<radius>1.537</radius>
+			<orbit>
+				<period>3.405909</period>
+				<semimajoraxis>0.04657</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>84.54</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.16</mass>
+			<radius>1.24</radius>
+			<metallicity>-0.19</metallicity>
+			<distance>400</distance>
+			<temperature>1410.6</temperature>
+			<rightascension>11 17 45</rightascension>
+			<declination>-19 03 17</declination>
+			<angulardistance />
+			<magV>11.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/07/05</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-32 b</id_exoplaneteu>
+		<name>WASP-32 b</name>
+		<name>TYC 002-01155-1 b</name>
+		<name>2MASS J00155080+0112016 b</name>
+		<id>WASP-32 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.60</mass>
+			<radius>1.19</radius>
+			<orbit>
+				<period>2.718659</period>
+				<semimajoraxis>0.0394</semimajoraxis>
+				<eccentricity>0.0180</eccentricity>
+				<inclination>85.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.1</mass>
+			<radius>1.09</radius>
+			<metallicity>-0.13</metallicity>
+			<distance />
+			<temperature>1427.6</temperature>
+			<rightascension>00 15 51</rightascension>
+			<declination>+01 12 02</declination>
+			<angulardistance />
+			<magV>11.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>14/03/20</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-33 b</id_exoplaneteu>
+		<name>WASP-33 b</name>
+		<name>HIP 11397 b</name>
+		<name>TYC 2831-00594-1 b</name>
+		<name>HD 15082 b</name>
+		<name>BD+36 489 b</name>
+		<name>SAO 55561 b</name>
+		<name>2MASS J02265106+3733017 b</name>
+		<id>WASP-33 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>4.59</mass>
+			<radius>1.438</radius>
+			<orbit>
+				<period>1.21986967</period>
+				<semimajoraxis>0.02558</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.67</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A5</spectraltype>
+			<mass>1.495</mass>
+			<radius>1.444</radius>
+			<metallicity>0.1</metallicity>
+			<distance>116</distance>
+			<temperature>2451.5</temperature>
+			<rightascension>02 26 51</rightascension>
+			<declination>+37 33 02</declination>
+			<angulardistance />
+			<magV>8.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-34 b</id_exoplaneteu>
+		<name>WASP-34 b</name>
+		<name>TYC 6636-00540-1 b</name>
+		<name>2MASS J11013589-2351382 b</name>
+		<id>WASP-34 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.59</mass>
+			<radius>1.22</radius>
+			<orbit>
+				<period>4.3176782</period>
+				<semimajoraxis>0.0524</semimajoraxis>
+				<eccentricity>0.038</eccentricity>
+				<inclination>85.2</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.01</mass>
+			<radius>0.93</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>120</distance>
+			<temperature>1058.7</temperature>
+			<rightascension>11 01 36</rightascension>
+			<declination>-23 51 38</declination>
+			<angulardistance />
+			<magV>10.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>10/12/13</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-35 b</id_exoplaneteu>
+		<name>WASP-35 b</name>
+		<name>2MASS J05041962-0613473 b</name>
+		<id>WASP-35 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.72</mass>
+			<radius>1.32</radius>
+			<orbit>
+				<period>3.161575</period>
+				<semimajoraxis>0.04317</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.96</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.07</mass>
+			<radius>1.09</radius>
+			<metallicity>-0.15</metallicity>
+			<distance />
+			<temperature>1450</temperature>
+			<rightascension>05 04 20</rightascension>
+			<declination>-06 13 47</declination>
+			<angulardistance />
+			<magV>10.94</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/04/15</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-36 b</id_exoplaneteu>
+		<name>WASP-36 b</name>
+		<name>2MASS J08461929-0801370 b</name>
+		<id>WASP-36 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.279</mass>
+			<radius>1.269</radius>
+			<orbit>
+				<period>1.5373653</period>
+				<semimajoraxis>0.02624</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.65</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2</spectraltype>
+			<mass>1.02</mass>
+			<radius>0.943</radius>
+			<metallicity>-0.31</metallicity>
+			<distance>450</distance>
+			<temperature>1554.5</temperature>
+			<rightascension>08 45 19</rightascension>
+			<declination>-08 01 37</declination>
+			<angulardistance />
+			<magV>12.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>11/10/25</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-37 b</id_exoplaneteu>
+		<name>WASP-37 b</name>
+		<name>2MASS J14474655+0103538 b</name>
+		<id>WASP-37 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.696</mass>
+			<radius>1.136</radius>
+			<orbit>
+				<period>3.577471</period>
+				<semimajoraxis>0.04339</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.78</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2</spectraltype>
+			<mass>0.849</mass>
+			<radius>0.977</radius>
+			<metallicity>-0.4</metallicity>
+			<distance>338</distance>
+			<temperature>1213.5</temperature>
+			<rightascension>14 47 47</rightascension>
+			<declination>+01 03 54</declination>
+			<angulardistance />
+			<magV>12.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>10/08/19</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-38 b</id_exoplaneteu>
+		<name>WASP-38 b</name>
+		<name>HD 146389 b</name>
+		<name>TYC 950-01156-1 b</name>
+		<name>2MASS J16155036+1001572 b</name>
+		<name>BD+10 2980 b</name>
+		<id>WASP-38 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.71</mass>
+			<radius>1.09</radius>
+			<orbit>
+				<period>6.87188</period>
+				<semimajoraxis>0.0758</semimajoraxis>
+				<eccentricity>0.028</eccentricity>
+				<inclination>89.5</inclination>
+				<periastron>-22.2</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.23</mass>
+			<radius>1.35</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>110</distance>
+			<temperature>1152.9</temperature>
+			<rightascension>16 15 50</rightascension>
+			<declination>+10 01 57</declination>
+			<angulardistance />
+			<magV>9.42</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>13/03/30</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-39 b</id_exoplaneteu>
+		<name>WASP-39 b</name>
+		<name>2MASS J14291840-0326403 b</name>
+		<id>WASP-39 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.28</mass>
+			<radius>1.27</radius>
+			<orbit>
+				<period>4.055259</period>
+				<semimajoraxis>0.0486</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.83</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.93</mass>
+			<radius>0.895</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>230</distance>
+			<temperature>1021.8</temperature>
+			<rightascension>14 29 18</rightascension>
+			<declination>-03 26 40</declination>
+			<angulardistance />
+			<magV>12.11</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-4 b</id_exoplaneteu>
+		<name>WASP-4 b</name>
+		<name>2MASS J23341508-4203411 b</name>
+		<id>WASP-4 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.1215</mass>
+			<radius>1.363</radius>
+			<orbit>
+				<period>1.33823187</period>
+				<semimajoraxis>0.02312</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.93</mass>
+			<radius>1.15</radius>
+			<metallicity>-0.03</metallicity>
+			<distance>300</distance>
+			<temperature>1710.4</temperature>
+			<rightascension>23 34 15</rightascension>
+			<declination>-42 03 41</declination>
+			<angulardistance />
+			<magV>12.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/04/04</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-41 b</id_exoplaneteu>
+		<name>WASP-41 b</name>
+		<name>TYC 7247-00587-1 b</name>
+		<name>2MASS J12422849-3038235 b</name>
+		<id>WASP-41 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.92</mass>
+			<radius>1.21</radius>
+			<orbit>
+				<period>3.052394</period>
+				<semimajoraxis>0.04</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.95</mass>
+			<radius>1.01</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>180</distance>
+			<temperature>1207.5</temperature>
+			<rightascension>12 42 28</rightascension>
+			<declination>-30 38 24</declination>
+			<angulardistance />
+			<magV>11.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>10/12/15</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-42 b</id_exoplaneteu>
+		<name>WASP-42 b</name>
+		<id>WASP-42 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.500</mass>
+			<radius>1.080</radius>
+			<orbit>
+				<period>4.9816872</period>
+				<semimajoraxis>0.0548</semimajoraxis>
+				<eccentricity>0.060</eccentricity>
+				<inclination>88.25</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1</spectraltype>
+			<mass>0.884</mass>
+			<radius>0.863</radius>
+			<metallicity>0.05</metallicity>
+			<distance>160</distance>
+			<temperature>995</temperature>
+			<rightascension>12 51 56</rightascension>
+			<declination>-42 04 25</declination>
+			<angulardistance />
+			<magV>12.57</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/05/15</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-43 b</id_exoplaneteu>
+		<name>WASP-43 b</name>
+		<name>2MASS J10193800-0948225 b</name>
+		<id>WASP-43 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.034</mass>
+			<radius>1.036</radius>
+			<orbit>
+				<period>0.81347753</period>
+				<semimajoraxis>0.01526</semimajoraxis>
+				<eccentricity>0.0035</eccentricity>
+				<inclination>82.33</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K7V</spectraltype>
+			<mass>0.717</mass>
+			<radius>0.667</radius>
+			<metallicity>-0.01</metallicity>
+			<distance>80</distance>
+			<temperature>1317.6</temperature>
+			<rightascension>10 19 38</rightascension>
+			<declination>-09 48 23</declination>
+			<angulardistance />
+			<magV>12.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/05/29</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-44 b</id_exoplaneteu>
+		<name>WASP-44 b</name>
+		<name>2MASS J00153675-1156172 b</name>
+		<id>WASP-44 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.869</mass>
+			<radius>1.002</radius>
+			<orbit>
+				<period>2.4238133</period>
+				<semimajoraxis>0.03445</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>86.02</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.917</mass>
+			<radius>0.865</radius>
+			<metallicity>0.06</metallicity>
+			<distance />
+			<temperature>1304</temperature>
+			<rightascension>00 15 37</rightascension>
+			<declination>-11 56 17</declination>
+			<angulardistance />
+			<magV>12.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/01/14</lastupdate>
+		<description>WASP-44 b is a sub-Jupiter mass planet in a 2.42 day orbit around a G8V star. It was discovered by the WASP collaboration and published in a paper by Anderson et al. (2012).</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-45 b</id_exoplaneteu>
+		<name>WASP-45 b</name>
+		<name>TYC 6996-00583-1 b</name>
+		<name>2MASS J00205699-3559537 b</name>
+		<id>WASP-45 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.007</mass>
+			<radius>1.16</radius>
+			<orbit>
+				<period>3.1260876</period>
+				<semimajoraxis>0.04054</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>84.47</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.909</mass>
+			<radius>0.945</radius>
+			<metallicity>0.36</metallicity>
+			<distance />
+			<temperature>1094.2</temperature>
+			<rightascension>00 20 57</rightascension>
+			<declination>-35 59 54</declination>
+			<angulardistance />
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/05/17</lastupdate>
+		<description>WASP-45 b is a Jupiter mass planet transiting in front of the limb of its host star. Emission from Ca H+K suggests that the star is chromospherically active.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-46 b</id_exoplaneteu>
+		<name>WASP-46 b</name>
+		<name>2MASS J21145687-5552184 b</name>
+		<id>WASP-46 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.101</mass>
+			<radius>1.31</radius>
+			<orbit>
+				<period>1.43037</period>
+				<semimajoraxis>0.02448</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.63</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6V</spectraltype>
+			<mass>0.956</mass>
+			<radius>0.917</radius>
+			<metallicity>-0.37</metallicity>
+			<distance />
+			<temperature>1516.6</temperature>
+			<rightascension>21 14 57</rightascension>
+			<declination>-55 52 18</declination>
+			<angulardistance />
+			<magV>12.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/05/17</lastupdate>
+		<description>WASP-46 b has about twice the mass of Jupiter and orbits a G6V star which shows evidence of being photospherically and chromospherically active.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-47 b</id_exoplaneteu>
+		<name>WASP-47 b</name>
+		<id>WASP-47 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.14</mass>
+			<radius>1.15</radius>
+			<orbit>
+				<period>4.1591399</period>
+				<semimajoraxis>0.052</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>89.2</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9V</spectraltype>
+			<mass>1.084</mass>
+			<radius>1.15</radius>
+			<metallicity>0.18</metallicity>
+			<distance>200</distance>
+			<temperature>1119.7</temperature>
+			<rightascension>22 04 49</rightascension>
+			<declination>-12 01 08</declination>
+			<angulardistance />
+			<magV>11.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-48 b</id_exoplaneteu>
+		<name>WASP-48 b</name>
+		<name>2MASS J19243895+5528233 b</name>
+		<id>WASP-48 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.98</mass>
+			<radius>1.67</radius>
+			<orbit>
+				<period>2.143634</period>
+				<semimajoraxis>0.03444</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>80.09</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.19</mass>
+			<radius>1.75</radius>
+			<metallicity>-0.12</metallicity>
+			<distance />
+			<temperature>2030</temperature>
+			<rightascension>19 24 39</rightascension>
+			<declination>+55 28 23</declination>
+			<angulardistance />
+			<magV>11.06</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/04/15</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-49 b</id_exoplaneteu>
+		<name>WASP-49 b</name>
+		<id>WASP-49 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.378</mass>
+			<radius>1.115</radius>
+			<orbit>
+				<period>2.7817387</period>
+				<semimajoraxis>0.0379</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.89</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>0.938</mass>
+			<radius>0.976</radius>
+			<metallicity>-0.23</metallicity>
+			<distance>170</distance>
+			<temperature>1369</temperature>
+			<rightascension>06 04 21</rightascension>
+			<declination>-16 57 55</declination>
+			<angulardistance />
+			<magV>11.36</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/05/15</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-5 b</id_exoplaneteu>
+		<name>WASP-5 b</name>
+		<name>2MASS J23572375-4116377 b</name>
+		<id>WASP-5 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.637</mass>
+			<radius>1.171</radius>
+			<orbit>
+				<period>1.6284246</period>
+				<semimajoraxis>0.02729</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1</mass>
+			<radius>1.084</radius>
+			<metallicity>0.09</metallicity>
+			<distance>297</distance>
+			<temperature>1584.0</temperature>
+			<rightascension>23 57 24</rightascension>
+			<declination>-41 16 38</declination>
+			<angulardistance />
+			<magV>12.26</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>10/11/29</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-50 b</id_exoplaneteu>
+		<name>WASP-50 b</name>
+		<name>TYC 5290-462-1 b</name>
+		<name>2MASS J02544513-1053530 b</name>
+		<name>GSC2.3 S2L3000257 b</name>
+		<name>UCAC2 27953631 b</name>
+		<name>UCAC3 159-7797 b</name>
+		<id>WASP-50 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.47</mass>
+			<radius>1.15</radius>
+			<orbit>
+				<period>1.955096</period>
+				<semimajoraxis>0.02945</semimajoraxis>
+				<eccentricity>0.009</eccentricity>
+				<inclination>84.74</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9</spectraltype>
+			<mass>0.89</mass>
+			<radius>0.84</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>230</distance>
+			<temperature>1289.9</temperature>
+			<rightascension>02 54 45</rightascension>
+			<declination>-10 53 53</declination>
+			<angulardistance />
+			<magV>11.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/08/15</lastupdate>
+		<description>WASP-50 b is a Hot Jupiter transiting a solar type star in the southern constellation Eridanus.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-52 b</id_exoplaneteu>
+		<name>WASP-52 b</name>
+		<id>WASP-52 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.46</mass>
+			<radius>1.27</radius>
+			<orbit>
+				<period>1.7497798</period>
+				<semimajoraxis />
+				<eccentricity>0</eccentricity>
+				<inclination>85.35</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.87</mass>
+			<radius>0.79</radius>
+			<metallicity>0.03</metallicity>
+			<distance>140</distance>
+			<temperature>1315</temperature>
+			<rightascension>23 13 59</rightascension>
+			<declination>+08 45 41</declination>
+			<angulardistance />
+			<magV>12.0</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/13</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-53 b</id_exoplaneteu>
+		<name>WASP-53 b</name>
+		<id>WASP-53 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.5</mass>
+			<radius>1.2</radius>
+			<orbit>
+				<period>3.3</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>2.5</mass>
+			<radius>1.2</radius>
+			<metallicity />
+			<distance />
+			<temperature>5700.0</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/13</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-54 b</id_exoplaneteu>
+		<name>WASP-54 b</name>
+		<id>WASP-54 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.636</mass>
+			<radius>1.653</radius>
+			<orbit>
+				<period>3.6936411</period>
+				<semimajoraxis>0.04987</semimajoraxis>
+				<eccentricity>0.067</eccentricity>
+				<inclination>84.97</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.15</mass>
+			<radius>1.40</radius>
+			<metallicity>-0.27</metallicity>
+			<distance>200</distance>
+			<temperature>6100</temperature>
+			<rightascension>13 41 49</rightascension>
+			<declination>-00 07 41</declination>
+			<angulardistance />
+			<magV>10.42</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/10/08</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-55 b</id_exoplaneteu>
+		<name>WASP-55 b</name>
+		<id>WASP-55 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.57</mass>
+			<radius>1.3</radius>
+			<orbit>
+				<period>4.465633</period>
+				<semimajoraxis>0.0533</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>89.2</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G1</spectraltype>
+			<mass>1.01</mass>
+			<radius>1.06</radius>
+			<metallicity>-0.2</metallicity>
+			<distance>330</distance>
+			<temperature>1160.1</temperature>
+			<rightascension>13 55 02</rightascension>
+			<declination>-17 30 13</declination>
+			<angulardistance />
+			<magV>11.8</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-56 b</id_exoplaneteu>
+		<name>WASP-56 b</name>
+		<id>WASP-56 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.571</mass>
+			<radius>1.092</radius>
+			<orbit>
+				<period>4.617101</period>
+				<semimajoraxis>0.05458</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.5</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>1.03</mass>
+			<radius>0.99</radius>
+			<metallicity />
+			<distance>255</distance>
+			<temperature>5600</temperature>
+			<rightascension>12 13 27</rightascension>
+			<declination>+23 03 20</declination>
+			<angulardistance />
+			<magV>11.484</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/10/08</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-57 b</id_exoplaneteu>
+		<name>WASP-57 b</name>
+		<id>WASP-57 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.672</mass>
+			<radius>0.916</radius>
+			<orbit>
+				<period>2.838971</period>
+				<semimajoraxis>0.0386</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>1.01</mass>
+			<radius>1.32</radius>
+			<metallicity />
+			<distance>455</distance>
+			<temperature>5600</temperature>
+			<rightascension>14 55 16</rightascension>
+			<declination>-02 03 27</declination>
+			<angulardistance />
+			<magV>13.04</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/10/08</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-58 b</id_exoplaneteu>
+		<name>WASP-58 b</name>
+		<name>TYC 3525-76-1 b</name>
+		<id>WASP-58 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.89</mass>
+			<radius>1.37</radius>
+			<orbit>
+				<period>5.017180</period>
+				<semimajoraxis>0.0561</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.94</mass>
+			<radius>1.17</radius>
+			<metallicity>-0.45</metallicity>
+			<distance>300</distance>
+			<temperature>1270</temperature>
+			<rightascension>18 18 48</rightascension>
+			<declination>+45 10 19</declination>
+			<angulardistance />
+			<magV>11.66</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/13</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-59 b</id_exoplaneteu>
+		<name>WASP-59 b</name>
+		<id>WASP-59 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.863</mass>
+			<radius>0.775</radius>
+			<orbit>
+				<period>7.919585</period>
+				<semimajoraxis>0.0697</semimajoraxis>
+				<eccentricity>0.100</eccentricity>
+				<inclination>89.27</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5V</spectraltype>
+			<mass>0.719</mass>
+			<radius>0.613</radius>
+			<metallicity>-0.15</metallicity>
+			<distance>125</distance>
+			<temperature>4650</temperature>
+			<rightascension>23 18 29.54</rightascension>
+			<declination>+24 53 21.4</declination>
+			<angulardistance />
+			<magV>13.00</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/13</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-6 b</id_exoplaneteu>
+		<name>WASP-6 b</name>
+		<name>2MASS J23123773-2240261 b</name>
+		<id>WASP-6 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.503</mass>
+			<radius>1.224</radius>
+			<orbit>
+				<period>3.361006</period>
+				<semimajoraxis>0.0421</semimajoraxis>
+				<eccentricity>0.054</eccentricity>
+				<inclination>88.47</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>0.888</mass>
+			<radius>0.87</radius>
+			<metallicity>-0.2</metallicity>
+			<distance>307</distance>
+			<temperature>1092.2</temperature>
+			<rightascension>23 12 38</rightascension>
+			<declination>-22 40 26</declination>
+			<angulardistance />
+			<magV>12.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-60 b</id_exoplaneteu>
+		<name>WASP-60 b</name>
+		<name>TYC 2767-1746-1 b</name>
+		<id>WASP-60 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.514</mass>
+			<radius>0.86</radius>
+			<orbit>
+				<period>4.3050011</period>
+				<semimajoraxis>0.0531</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.9</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G1V</spectraltype>
+			<mass>0.514</mass>
+			<radius>0.86</radius>
+			<metallicity>-0.04</metallicity>
+			<distance>400</distance>
+			<temperature>5900</temperature>
+			<rightascension>23 46 39.98</rightascension>
+			<declination>+31 09 21.44</declination>
+			<angulardistance />
+			<magV>12.18</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/09/13</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-61 b</id_exoplaneteu>
+		<name>WASP-61 b</name>
+		<name>TYC 6469-1972-1 b</name>
+		<name>2MASS J05011191-2603149 b</name>
+		<name>1SWASP J050111.91-260314.9 b</name>
+		<id>WASP-61 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.06</mass>
+			<radius>1.24</radius>
+			<orbit>
+				<period>3.8559</period>
+				<semimajoraxis>0.0514</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>89.35</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.22</mass>
+			<radius>1.36</radius>
+			<metallicity>-0.1</metallicity>
+			<distance>480</distance>
+			<temperature>1417.5</temperature>
+			<rightascension>05 01 11.92</rightascension>
+			<declination>-26 03 15.0</declination>
+			<angulardistance />
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-62 b</id_exoplaneteu>
+		<name>WASP-62 b</name>
+		<name>CPD-64 484 b</name>
+		<name>2MASS J05483359-6359183 b</name>
+		<name>1SWASP J054833.59-635918.3 b</name>
+		<name>DENIS J054833.6-635918 b</name>
+		<name>PPM 776101 b</name>
+		<name>TYC 8900-874-1 b</name>
+		<name>GSC 08900-00874 b</name>
+		<name>RAVE J054833.6-635918 b</name>
+		<name>USNO-B1.0 0260-00058281 b</name>
+		<id>WASP-62 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.57</mass>
+			<radius>1.39</radius>
+			<orbit>
+				<period>4.411953</period>
+				<semimajoraxis>0.0567</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.25</mass>
+			<radius>1.28</radius>
+			<metallicity>0.04</metallicity>
+			<distance>160</distance>
+			<temperature>1305.2</temperature>
+			<rightascension>05 48 33.59</rightascension>
+			<declination>-63 59 18.3</declination>
+			<angulardistance />
+			<magV>10.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-63 b</id_exoplaneteu>
+		<name>WASP-63 b</name>
+		<name>TYC 7612-556-1 b</name>
+		<name>2MASS J06172074-3819237 b</name>
+		<name>GSC 07612-00556 b</name>
+		<name>1SWASP J061720.74-381923.8 b</name>
+		<id>WASP-63 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.38</mass>
+			<radius>1.43</radius>
+			<orbit>
+				<period>4.37809</period>
+				<semimajoraxis>0.0574</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>1.32</mass>
+			<radius>1.88</radius>
+			<metallicity>0.08</metallicity>
+			<distance>330</distance>
+			<temperature>1540</temperature>
+			<rightascension>06 17 20.75</rightascension>
+			<declination>-38 19 23.8</declination>
+			<angulardistance />
+			<magV>11.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-64 b</id_exoplaneteu>
+		<name>WASP-64 b</name>
+		<name>1SWASPJ064427.63-325130.4</name>
+		<id>WASP-64 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.271</mass>
+			<radius>1.271</radius>
+			<orbit>
+				<period>1.57329</period>
+				<semimajoraxis>0.02648</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.57</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G7</spectraltype>
+			<mass>0.98</mass>
+			<radius>1.03</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>350</distance>
+			<temperature>5400</temperature>
+			<rightascension>06 44 28</rightascension>
+			<declination>-32 51 30</declination>
+			<angulardistance />
+			<magV>12.29</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/10/17</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-65 b</id_exoplaneteu>
+		<name>WASP-65 b</name>
+		<name>1SWASP J085317.82+083122.8 b</name>
+		<id>WASP-65 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.55</mass>
+			<radius>1.112</radius>
+			<orbit>
+				<period>2.3114243</period>
+				<semimajoraxis>0.0334</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>0.93</mass>
+			<radius>1.01</radius>
+			<metallicity>-0.07</metallicity>
+			<distance>310</distance>
+			<temperature>5600</temperature>
+			<rightascension>08 53 28</rightascension>
+			<declination>+08 31 23</declination>
+			<angulardistance />
+			<magV>11.90</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/07/25</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-66 b</id_exoplaneteu>
+		<name>WASP-66 b</name>
+		<id>WASP-66 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.32</mass>
+			<radius>1.39</radius>
+			<orbit>
+				<period>4.086052</period>
+				<semimajoraxis>0.0546</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.9</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F4</spectraltype>
+			<mass>1.3</mass>
+			<radius>1.75</radius>
+			<metallicity>-0.31</metallicity>
+			<distance>380</distance>
+			<temperature>1647.5</temperature>
+			<rightascension>10 32 54</rightascension>
+			<declination>-34 59 23</declination>
+			<angulardistance />
+			<magV>11.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-67 b</id_exoplaneteu>
+		<name>WASP-67 b</name>
+		<name>TYC 6307-1388-1 b</name>
+		<name>2MASS J19425852-1956585 b</name>
+		<id>WASP-67 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.42</mass>
+			<radius>1.4</radius>
+			<orbit>
+				<period>4.61442</period>
+				<semimajoraxis>0.0517</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.87</mass>
+			<radius>0.87</radius>
+			<metallicity>-0.07</metallicity>
+			<distance>225</distance>
+			<temperature>940.6</temperature>
+			<rightascension>19 42 59</rightascension>
+			<declination>-19 56 58</declination>
+			<angulardistance />
+			<magV>12.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>12/04/24</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-68 b</id_exoplaneteu>
+		<name>WASP-68 b</name>
+		<id>WASP-68 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.95</mass>
+			<radius>1.24</radius>
+			<orbit>
+				<period>5.084298</period>
+				<semimajoraxis>0.06206</semimajoraxis>
+				<eccentricity />
+				<inclination>88.1</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.24</mass>
+			<radius>1.69</radius>
+			<metallicity>0.22</metallicity>
+			<distance />
+			<temperature>5911</temperature>
+			<rightascension>20 20 23</rightascension>
+			<declination>-19 18 52</declination>
+			<angulardistance />
+			<magV>10.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/12/09</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published in December 2013.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-69 b</id_exoplaneteu>
+		<name>WASP-69 b</name>
+		<name>2MASS 21000618-0505398 b</name>
+		<id>WASP-69 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.26</mass>
+			<radius>1.057</radius>
+			<orbit>
+				<period>3.8681382</period>
+				<semimajoraxis>0.04525</semimajoraxis>
+				<eccentricity />
+				<inclination>86.71</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5</spectraltype>
+			<mass>0.826</mass>
+			<radius>0.813</radius>
+			<metallicity>0.15</metallicity>
+			<distance>50</distance>
+			<temperature>4715</temperature>
+			<rightascension>21 00 06</rightascension>
+			<declination>-05 05 40</declination>
+			<angulardistance />
+			<magV>9.87</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. It was published in a paper in October 2013.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-7 b</id_exoplaneteu>
+		<name>WASP-7 b</name>
+		<name>HD 197286 b</name>
+		<name>TYC 7963-01570-1 b</name>
+		<name>2MASS J20441022-3913309 b</name>
+		<id>WASP-7 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.96</mass>
+			<radius>1.33</radius>
+			<orbit>
+				<period>4.9546416</period>
+				<semimajoraxis>0.0617</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>87.03</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5V</spectraltype>
+			<mass>1.276</mass>
+			<radius>1.432</radius>
+			<metallicity />
+			<distance>140</distance>
+			<temperature>1359.5</temperature>
+			<rightascension>20 44 10</rightascension>
+			<declination>-39 13 31</declination>
+			<angulardistance />
+			<magV>9.51</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-70 A b</id_exoplaneteu>
+		<name>WASP-70 A b</name>
+		<name>WASP-70 b</name>
+		<id>WASP-70 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.59</mass>
+			<radius>1.164</radius>
+			<orbit>
+				<period>3.7130203</period>
+				<semimajoraxis>0.04853</semimajoraxis>
+				<eccentricity />
+				<inclination>87.12</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G4</spectraltype>
+			<mass>1.106</mass>
+			<radius>1.215</radius>
+			<metallicity>-0.006</metallicity>
+			<distance>245</distance>
+			<temperature>5700</temperature>
+			<rightascension>21 01 54</rightascension>
+			<declination>-13 26 00</declination>
+			<angulardistance />
+			<magV>11.75</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>WASP-70A b is part of a binary system. The planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. It was published in a paper in October 2013.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-71 b</id_exoplaneteu>
+		<name>WASP-71 b</name>
+		<name>TYC 30-116-1 b</name>
+		<id>WASP-71 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.242</mass>
+			<radius>1.46</radius>
+			<orbit>
+				<period>2.9036747</period>
+				<semimajoraxis>0.04631</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.2</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.559</mass>
+			<radius>2.26</radius>
+			<metallicity />
+			<distance>200</distance>
+			<temperature>6050</temperature>
+			<rightascension>01 57 03</rightascension>
+			<declination>+00 45 32</declination>
+			<angulardistance />
+			<magV>10.56</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>14/01/26</lastupdate>
+		<description>WASP-71 b is a highly-irradiated planet which transits an  evolved F8-type star every 2.9 days. The planet is larger than Jupiter but less dense.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-72 b</id_exoplaneteu>
+		<name>WASP-72 b</name>
+		<name>1SWASPJ024409.60-301008.5 b</name>
+		<id>WASP-72 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.410</mass>
+			<radius>1.01</radius>
+			<orbit>
+				<period>2.21672</period>
+				<semimajoraxis>0.03655</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.23</mass>
+			<radius>1.37</radius>
+			<metallicity>-0.06</metallicity>
+			<distance>340</distance>
+			<temperature>6250</temperature>
+			<rightascension>02 44 09</rightascension>
+			<declination>-30 10 08</declination>
+			<angulardistance />
+			<magV>10.88</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/17</lastupdate>
+		<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-73 b</id_exoplaneteu>
+		<name>WASP-73 b</name>
+		<id>WASP-73 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.88</mass>
+			<radius>1.16</radius>
+			<orbit>
+				<period>4.08722</period>
+				<semimajoraxis>0.05512</semimajoraxis>
+				<eccentricity />
+				<inclination>87.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.34</mass>
+			<radius>2.07</radius>
+			<metallicity>0.14</metallicity>
+			<distance />
+			<temperature>6036</temperature>
+			<rightascension>21 19 48</rightascension>
+			<declination>-58 08 56</declination>
+			<angulardistance />
+			<magV>10.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/09</lastupdate>
+		<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-75 b</id_exoplaneteu>
+		<name>WASP-75 b</name>
+		<name>WASP-75</name>
+		<name>1SWASP J224932.56-104031.8 b</name>
+		<id>WASP-75 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.07</mass>
+			<radius>1.270</radius>
+			<orbit>
+				<period>2.484193</period>
+				<semimajoraxis>0.0375</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>82.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.26</radius>
+			<metallicity>0.07</metallicity>
+			<distance>260</distance>
+			<temperature>6100</temperature>
+			<rightascension>22 49 33</rightascension>
+			<declination>-10 40 32</declination>
+			<angulardistance />
+			<magV>11.45</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/07/25</lastupdate>
+		<description>WASP-75 b is a transiting Hot Jupiter. Its radius is slightly inflated as compared to theoretical planet models with no core.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-76 b</id_exoplaneteu>
+		<name>WASP-76 b</name>
+		<name>BD+01 316 b</name>
+		<name>1SWASP J014631.86+024202.0 b</name>
+		<name>2MASS 01463185+0242019 b</name>
+		<id>WASP-76 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.92</mass>
+			<radius>1.83</radius>
+			<orbit>
+				<period>1.809886</period>
+				<semimajoraxis>0.0330</semimajoraxis>
+				<eccentricity />
+				<inclination>88.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.46</mass>
+			<radius>1.73</radius>
+			<metallicity>0.23</metallicity>
+			<distance>120</distance>
+			<temperature>6250</temperature>
+			<rightascension>01 46 31.86</rightascension>
+			<declination>+02 42 02</declination>
+			<angulardistance />
+			<magV>9.52</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-77 A b</id_exoplaneteu>
+		<name>WASP-77 A b</name>
+		<name>1SWASP J022837.22-070338.4 b</name>
+		<id>WASP-77 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.76</mass>
+			<radius>1.21</radius>
+			<orbit>
+				<period>1.3600309</period>
+				<semimajoraxis>0.0240</semimajoraxis>
+				<eccentricity />
+				<inclination>89.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8 V</spectraltype>
+			<mass>1.002</mass>
+			<radius>1.12</radius>
+			<metallicity>0.00</metallicity>
+			<distance>93</distance>
+			<temperature>5500</temperature>
+			<rightascension>02 28 37</rightascension>
+			<declination>-07 03 38</declination>
+			<angulardistance />
+			<magV>10.30</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/26</lastupdate>
+		<description>WASP-77 A b is a transiting Hot Jupiter (a planet similar to Jupiter but with an orbit much closer to the host star). It is orbiting a moderately bright G8 V star which is part of a visual binary. The binary has a separation of 3 arcseconds.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-78 b</id_exoplaneteu>
+		<name>WASP-78 b</name>
+		<name>2MASS J04150149-2206591 b</name>
+		<name>TYC 5889-271-1 b</name>
+		<name>GSC 05889-00271 b</name>
+		<id>WASP-78 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.16</mass>
+			<radius>1.75</radius>
+			<orbit>
+				<period>2.17517656</period>
+				<semimajoraxis>0.0415</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>89</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>2.02</mass>
+			<radius>2.31</radius>
+			<metallicity>-0.35</metallicity>
+			<distance>550</distance>
+			<temperature>2006.7</temperature>
+			<rightascension>04 15 02</rightascension>
+			<declination>-22 06 59</declination>
+			<angulardistance />
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/06/07</lastupdate>
+		<description>WASP-78b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. It is one of the hottest known exoplanets with an equilibrium temperature of 2350 degrees Kelvin.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-79 b</id_exoplaneteu>
+		<name>WASP-79 b</name>
+		<name>2MASS J04252901-3036016 b</name>
+		<name>TYC 7038-834-1 b</name>
+		<name>CD-30 1812 b</name>
+		<name>SAO 195000 b</name>
+		<name>GSC 7038-834 b</name>
+		<id>WASP-79 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.90</mass>
+			<radius>1.70</radius>
+			<orbit>
+				<period>3.6623817</period>
+				<semimajoraxis>0.0362</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F3</spectraltype>
+			<mass>1.56</mass>
+			<radius>1.64</radius>
+			<metallicity>0.03</metallicity>
+			<distance>240</distance>
+			<temperature>6600.0</temperature>
+			<rightascension>04 25 29</rightascension>
+			<declination>-30 36 02</declination>
+			<angulardistance />
+			<magV>10.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>13/06/04</lastupdate>
+		<description>WASP-79b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. WASP-79b is about twice as big as Jupiter, but its mass is smaller than that of Jupiter.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-8 b</id_exoplaneteu>
+		<name>WASP-8 b</name>
+		<name>TYC 7522-505-1 b</name>
+		<name>2MASS J23593607-3501530 b</name>
+		<id>WASP-8 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.244</mass>
+			<radius>1.038</radius>
+			<orbit>
+				<period>8.158715</period>
+				<semimajoraxis>0.0801</semimajoraxis>
+				<eccentricity>0.31</eccentricity>
+				<inclination>88.55</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>1.033</mass>
+			<radius>0.953</radius>
+			<metallicity>0.17</metallicity>
+			<distance>87</distance>
+			<temperature>846.5</temperature>
+			<rightascension>23 59 36</rightascension>
+			<declination>-35 01 53</declination>
+			<angulardistance />
+			<magV>9.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-80 b</id_exoplaneteu>
+		<name>WASP-80 b</name>
+		<name>2MASS J20124017-0208391 b</name>
+		<name>TYC 7038-834-1 b</name>
+		<name>BPM 80815 b</name>
+		<name>GSC 05165-00481 b</name>
+		<id>WASP-80 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.554</mass>
+			<radius>0.952</radius>
+			<orbit>
+				<period>3.0678504</period>
+				<semimajoraxis>0.0346</semimajoraxis>
+				<eccentricity />
+				<inclination>89.92</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K7V</spectraltype>
+			<mass>0.57</mass>
+			<radius>0.571</radius>
+			<metallicity>-0.14</metallicity>
+			<distance>60</distance>
+			<temperature>4145</temperature>
+			<rightascension>20 12 40</rightascension>
+			<declination>-02 08 44</declination>
+			<angulardistance />
+			<magV>11.881</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/03/01</lastupdate>
+		<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-82 b</id_exoplaneteu>
+		<name>WASP-82 b</name>
+		<name>1SWASP J045038.56+015338.1 b</name>
+		<name>2MASS 04503856+0153381 b</name>
+		<id>WASP-82 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.24</mass>
+			<radius>1.67</radius>
+			<orbit>
+				<period>2.705782</period>
+				<semimajoraxis>0.0447</semimajoraxis>
+				<eccentricity />
+				<inclination>87.9</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5</spectraltype>
+			<mass>1.63</mass>
+			<radius>2.18</radius>
+			<metallicity>0.12</metallicity>
+			<distance>200</distance>
+			<temperature>6490</temperature>
+			<rightascension>04 50 39</rightascension>
+			<declination>+01 53 38</declination>
+			<angulardistance />
+			<magV>10.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-84 b</id_exoplaneteu>
+		<name>WASP-84 b</name>
+		<name>2MASS 08442570+0151361 b</name>
+		<id>WASP-84 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.694</mass>
+			<radius>0.942</radius>
+			<orbit>
+				<period>8.5234865</period>
+				<semimajoraxis>0.0771</semimajoraxis>
+				<eccentricity />
+				<inclination>88.368</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.842</mass>
+			<radius>0.748</radius>
+			<metallicity>0.0</metallicity>
+			<distance>125</distance>
+			<temperature>5314</temperature>
+			<rightascension>08 44 26</rightascension>
+			<declination>+01 51 36</declination>
+			<angulardistance />
+			<magV>11.64</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-87 b</id_exoplaneteu>
+		<name>WASP-87 b</name>
+		<id>WASP-87 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.18</mass>
+			<radius>1.385</radius>
+			<orbit>
+				<period>1.6827950</period>
+				<semimajoraxis>0.02946</semimajoraxis>
+				<eccentricity />
+				<inclination>81.07</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5</spectraltype>
+			<mass>1.204</mass>
+			<radius>1.627</radius>
+			<metallicity>-0.41</metallicity>
+			<distance>240</distance>
+			<temperature>6450</temperature>
+			<rightascension>12 21 17.92</rightascension>
+			<declination>-52 50 27.0</declination>
+			<angulardistance />
+			<magV>10.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/14</lastupdate>
+		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-88 b</id_exoplaneteu>
+		<name>WASP-88 b</name>
+		<id>WASP-88 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.56</mass>
+			<radius>1.7</radius>
+			<orbit>
+				<period>4.954000</period>
+				<semimajoraxis>0.06431</semimajoraxis>
+				<eccentricity />
+				<inclination>88</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6</spectraltype>
+			<mass>1.45</mass>
+			<radius>2.08</radius>
+			<metallicity>-0.08</metallicity>
+			<distance />
+			<temperature>6431</temperature>
+			<rightascension>20 38 03</rightascension>
+			<declination>-48 27 43</declination>
+			<angulardistance />
+			<magV>11.4</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/12/09</lastupdate>
+		<description>WASP-88 b is a Hot Jupiter discovered by the WASP transit survey. The planet joins a handful of planets with super-inflated radii.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-90 b</id_exoplaneteu>
+		<name>WASP-90 b</name>
+		<name>1SWASP J210207.70+070323.7 b</name>
+		<name>2MASS 01463185+0242019 b</name>
+		<id>WASP-90 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.63</mass>
+			<radius>1.63</radius>
+			<orbit>
+				<period>3.916243</period>
+				<semimajoraxis>0.0562</semimajoraxis>
+				<eccentricity />
+				<inclination>82.1</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6</spectraltype>
+			<mass>1.55</mass>
+			<radius>1.98</radius>
+			<metallicity>0.11</metallicity>
+			<distance>340</distance>
+			<temperature>6430</temperature>
+			<rightascension>21 02 08</rightascension>
+			<declination>+07 03 24</declination>
+			<angulardistance />
+			<magV>11.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-94 A b</id_exoplaneteu>
+		<name>WASP-94 A b</name>
+		<name>2MASS 20550794-3408079 b</name>
+		<id>WASP-94 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.452</mass>
+			<radius>1.72</radius>
+			<orbit>
+				<period>3.9501907</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity />
+				<inclination>88.7</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.29</mass>
+			<radius>1.36</radius>
+			<metallicity>0.26</metallicity>
+			<distance>180</distance>
+			<temperature>6170</temperature>
+			<rightascension>20 55 08</rightascension>
+			<declination>-34 08 08</declination>
+			<angulardistance />
+			<magV>10.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/09/29</lastupdate>
+		<description>WASP-94 A b is a Hot Jupiter orbiting an F-star in a binary system. The other binary component WASP-94 B also hosts a Hot Jupiter, making this system an ideal test-bed to explore planet formation scenarios. The planet's orbit is misaligned with the host star rotation axis.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-94 B b</id_exoplaneteu>
+		<name>WASP-94 B b</name>
+		<name>2MASS 20550915-3408078 b</name>
+		<id>WASP-94 B b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.618</mass>
+			<radius />
+			<orbit>
+				<period>2.00839</period>
+				<semimajoraxis>0.0335</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.29</mass>
+			<radius>1.36</radius>
+			<metallicity>0.26</metallicity>
+			<distance>180</distance>
+			<temperature>6170</temperature>
+			<rightascension>20 55 08</rightascension>
+			<declination>-34 08 08</declination>
+			<angulardistance />
+			<magV>10.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/09/29</lastupdate>
+		<description>WASP-95 B b is a Hot Jupiter orbiting an F-star in a binary system. The planet was confirmed using radial velocity measurements. No transit has been detected yet. The other binary component, WASP-94 A also hosts a hot Jupiter.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-95 b</id_exoplaneteu>
+		<name>WASP-95 b</name>
+		<name>1SWASP J222949.73-480011.0 b</name>
+		<name>2MASS 22294972-4800111 b</name>
+		<id>WASP-95 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.13</mass>
+			<radius>1.21</radius>
+			<orbit>
+				<period>2.1846730</period>
+				<semimajoraxis>0.03416</semimajoraxis>
+				<eccentricity />
+				<inclination>88.4</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2</spectraltype>
+			<mass>1.11</mass>
+			<radius>1.13</radius>
+			<metallicity>0.14</metallicity>
+			<distance />
+			<temperature>5630</temperature>
+			<rightascension>22 29 50</rightascension>
+			<declination>-48 00 11</declination>
+			<angulardistance />
+			<magV>10.1</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-96 b</id_exoplaneteu>
+		<name>WASP-96 b</name>
+		<name>1SWASP J000411.14-472138.2 b</name>
+		<name>2MASS 00041112-4721382 b</name>
+		<id>WASP-96 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.48</mass>
+			<radius>1.2</radius>
+			<orbit>
+				<period>3.4252602</period>
+				<semimajoraxis>0.0453</semimajoraxis>
+				<eccentricity />
+				<inclination>85.6</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8</spectraltype>
+			<mass>1.06</mass>
+			<radius>1.05</radius>
+			<metallicity>0.14</metallicity>
+			<distance />
+			<temperature>5540</temperature>
+			<rightascension>00 04 11</rightascension>
+			<declination>-47 21 38</declination>
+			<angulardistance />
+			<magV>12.2</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-97 b</id_exoplaneteu>
+		<name>WASP-97 b</name>
+		<name>1SWASP J013825.04-554619.4 b</name>
+		<name>2MASS 01382504-5546194 b</name>
+		<id>WASP-97 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.32</mass>
+			<radius>1.13</radius>
+			<orbit>
+				<period>2.072760</period>
+				<semimajoraxis>0.03303</semimajoraxis>
+				<eccentricity />
+				<inclination>88</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.12</mass>
+			<radius>1.06</radius>
+			<metallicity>0.23</metallicity>
+			<distance />
+			<temperature>5640</temperature>
+			<rightascension>01 38 25</rightascension>
+			<declination>-55 46 19</declination>
+			<angulardistance />
+			<magV>10.6</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-98 b</id_exoplaneteu>
+		<name>WASP-98 b</name>
+		<name>1SWASP J035342.90-341941.7 b</name>
+		<name>2MASS 03534291-3419414 b</name>
+		<id>WASP-98 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.83</mass>
+			<radius>1.1</radius>
+			<orbit>
+				<period>2.9626400</period>
+				<semimajoraxis>0.036</semimajoraxis>
+				<eccentricity />
+				<inclination>86.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G7</spectraltype>
+			<mass>0.69</mass>
+			<radius>0.7</radius>
+			<metallicity>-0.60</metallicity>
+			<distance />
+			<temperature>5525</temperature>
+			<rightascension>03 53 43</rightascension>
+			<declination>-34 19 41</declination>
+			<angulardistance />
+			<magV>13.0</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-99 b</id_exoplaneteu>
+		<name>WASP-99 b</name>
+		<name>1SWASP J023935.44-500028.8 b</name>
+		<name>2MASS 02393544-5000288 b</name>
+		<id>WASP-99 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.78</mass>
+			<radius>1.1</radius>
+			<orbit>
+				<period>5.75251</period>
+				<semimajoraxis>0.0717</semimajoraxis>
+				<eccentricity />
+				<inclination>88.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.48</mass>
+			<radius>1.76</radius>
+			<metallicity>0.21</metallicity>
+			<distance />
+			<temperature>6180</temperature>
+			<rightascension>02 39 35</rightascension>
+			<declination>-50 00 29</declination>
+			<angulardistance />
+			<magV>9.5</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/10/22</lastupdate>
+		<description>This is a hot Jupiter discovered by the WASP team.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WD 0806-661 B</id_exoplaneteu>
+		<name>WD 0806-661 B</name>
+		<name>GJ 3483 B</name>
+		<id>WD 0806-661 B</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>8</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>DQ D</spectraltype>
+			<mass>0.62</mass>
+			<radius />
+			<metallicity />
+			<distance>19.2</distance>
+			<temperature>340</temperature>
+			<rightascension>08 06 54</rightascension>
+			<declination>-66 18 17</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>11/04/22</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WTS-1 b</id_exoplaneteu>
+		<name>WTS-1 b</name>
+		<id>WTS-1 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>4.01</mass>
+			<radius>1.49</radius>
+			<orbit>
+				<period>3.35</period>
+				<semimajoraxis>0.047</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.5</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.2</mass>
+			<radius>1.15</radius>
+			<metallicity />
+			<distance>3200</distance>
+			<temperature>6250</temperature>
+			<rightascension>19 35 56.41</rightascension>
+			<declination>+36 17 46.76</declination>
+			<angulardistance />
+			<magV>16.13</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/10/04</lastupdate>
+		<description>The Hot Jupiter WTS-1 b is the first extrasolar planet found by the WFCAM Transit Survey. The observations were made at the 3.8-m United Kingdom Infrared Telescope and the Hobby-Eberly Telescope. The planet has one of the largest radius anomalies among the known Hot Jupiters its mass range.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WTS-2 b</id_exoplaneteu>
+		<name>WTS-2 b</name>
+		<name>2MASS 19345587+3648557 b</name>
+		<name>SDSS J193455.87+364855.6 b</name>
+		<name>WISE J193455.86+364855.6 b</name>
+		<name>KIC 1173581 b</name>
+		<id>WTS-2 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.12</mass>
+			<radius>1.363</radius>
+			<orbit>
+				<period>1.0187068</period>
+				<semimajoraxis>0.01855</semimajoraxis>
+				<eccentricity />
+				<inclination>83.55</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2V</spectraltype>
+			<mass>0.82</mass>
+			<radius>0.752</radius>
+			<metallicity>0.2</metallicity>
+			<distance>1000</distance>
+			<temperature>5000</temperature>
+			<rightascension>19 34 56</rightascension>
+			<declination>+36 48 56</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/02/25</lastupdate>
+		<description>WTS-2 b is an unusually close hot Jupiter on a 1.02-day orbit around a K2V star. The planet is close to the tidal destruction radius of the star and has a predicted remaining lifetime of only 40 million years.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>xi Aql b</id_exoplaneteu>
+		<name>xi Aql b</name>
+		<name>Xi Aquilae b</name>
+		<name>ksi Aql b</name>
+		<name>HR7595 b</name>
+		<name>HD188310 b</name>
+		<name>HIP97938 b</name>
+		<id>xi Aql b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass />
+			<radius />
+			<orbit>
+				<period>136.75</period>
+				<semimajoraxis>0.68</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 III</spectraltype>
+			<mass>2.2</mass>
+			<radius>12</radius>
+			<metallicity>-0.21</metallicity>
+			<distance>62.7</distance>
+			<temperature>4780</temperature>
+			<rightascension>19 54 14</rightascension>
+			<declination>+08 27 41</declination>
+			<angulardistance />
+			<magV>4.72</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>14/05/15</lastupdate>
+		<description>xi Aql is a giant star in the constellation of Aquila.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-1 b</id_exoplaneteu>
+		<name>XO-1 b</name>
+		<name>BD+28 2507 b</name>
+		<name>2MASS J16021184+2810105 b</name>
+		<name>TYC 2041-01657-1 b</name>
+		<id>XO-1 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.9</mass>
+			<radius>1.184</radius>
+			<orbit>
+				<period>3.9415128</period>
+				<semimajoraxis>0.0488</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>89.31</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G1V</spectraltype>
+			<mass>1</mass>
+			<radius>0.928</radius>
+			<metallicity />
+			<distance>200</distance>
+			<temperature>1168.0</temperature>
+			<rightascension>16 02 12</rightascension>
+			<declination>+28 10 11</declination>
+			<angulardistance />
+			<magV>11.3</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>10/10/11</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-2N b</id_exoplaneteu>
+		<name>XO-2N b</name>
+		<name>2MASS J07480647+5013328 b</name>
+		<name>TYC 3413-00005-1 b</name>
+		<id>XO-2N b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.62</mass>
+			<radius>0.973</radius>
+			<orbit>
+				<period>2.615838</period>
+				<semimajoraxis>0.0369</semimajoraxis>
+				<eccentricity>0.045</eccentricity>
+				<inclination>88.7</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.982</mass>
+			<radius>1.02</radius>
+			<metallicity>0.39</metallicity>
+			<distance>149</distance>
+			<temperature>5399</temperature>
+			<rightascension>07 48 07</rightascension>
+			<declination>+50 13 33</declination>
+			<angulardistance />
+			<magV>11.18</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>11/10/28</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-2S b</id_exoplaneteu>
+		<name>XO-2S b</name>
+		<name>TYC 3413-210-1 b</name>
+		<id>XO-2S b</id>
+		<discoverymethod />
+		<properties>
+			<mass>0.259</mass>
+			<radius />
+			<orbit>
+				<period>18.157</period>
+				<semimajoraxis>0.1344</semimajoraxis>
+				<eccentricity>0.18</eccentricity>
+				<inclination />
+				<periastron>311.0</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.982</mass>
+			<radius>1.02</radius>
+			<metallicity>0.39</metallicity>
+			<distance>149</distance>
+			<temperature>5399</temperature>
+			<rightascension>07 48 07</rightascension>
+			<declination>+50 13 33</declination>
+			<angulardistance />
+			<magV>11.18</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/07/02</lastupdate>
+		<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-2S c</id_exoplaneteu>
+		<name>XO-2S c</name>
+		<name>TYC 3413-210-1 c</name>
+		<id>XO-2S c</id>
+		<discoverymethod />
+		<properties>
+			<mass>1.370</mass>
+			<radius />
+			<orbit>
+				<period>120.8</period>
+				<semimajoraxis>0.4756</semimajoraxis>
+				<eccentricity>0.1528</eccentricity>
+				<inclination />
+				<periastron>264.5</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.982</mass>
+			<radius>1.02</radius>
+			<metallicity>0.39</metallicity>
+			<distance>149</distance>
+			<temperature>5399</temperature>
+			<rightascension>07 48 07</rightascension>
+			<declination>+50 13 33</declination>
+			<angulardistance />
+			<magV>11.18</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/07/02</lastupdate>
+		<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-3 b</id_exoplaneteu>
+		<name>XO-3 b</name>
+		<name>2MASS J04215269+5749018 b</name>
+		<id>XO-3 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>11.79</mass>
+			<radius>1.217</radius>
+			<orbit>
+				<period>3.1915239</period>
+				<semimajoraxis>0.0454</semimajoraxis>
+				<eccentricity>0.26</eccentricity>
+				<inclination>84.2</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5V</spectraltype>
+			<mass>1.213</mass>
+			<radius>1.377</radius>
+			<metallicity>-0.177</metallicity>
+			<distance>260</distance>
+			<temperature>1554.5</temperature>
+			<rightascension>04 21 53</rightascension>
+			<declination>+57 49 01</declination>
+			<angulardistance />
+			<magV>9.8</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>12/04/08</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-4 b</id_exoplaneteu>
+		<name>XO-4 b</name>
+		<name>2MASS J07213317+5816051 b</name>
+		<name>TYC 3793-1994-1 b</name>
+		<id>XO-4 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.72</mass>
+			<radius>1.34</radius>
+			<orbit>
+				<period>4.1250823</period>
+				<semimajoraxis>0.0555</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>88.7</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5V</spectraltype>
+			<mass>1.32</mass>
+			<radius>1.55</radius>
+			<metallicity>-0.04</metallicity>
+			<distance>293</distance>
+			<temperature>1328.2</temperature>
+			<rightascension>07 21 33</rightascension>
+			<declination>+58 16 05</declination>
+			<angulardistance />
+			<magV>10.7</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>11/11/28</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>XO-5 b</id_exoplaneteu>
+		<name>XO-5 b</name>
+		<name>2MASS J07465196+3905404 b</name>
+		<id>XO-5 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.077</mass>
+			<radius>1.03</radius>
+			<orbit>
+				<period>4.1877537</period>
+				<semimajoraxis>0.0487</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>86.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.88</mass>
+			<radius>1.06</radius>
+			<metallicity>0.18</metallicity>
+			<distance>255</distance>
+			<temperature>1133.5</temperature>
+			<rightascension>07 46 52</rightascension>
+			<declination>+39 05 41</declination>
+			<angulardistance />
+			<magV>12.13</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>11/03/07</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>YBP1194 b</id_exoplaneteu>
+		<name>YBP1194 b</name>
+		<id>YBP1194 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.34</mass>
+			<radius />
+			<orbit>
+				<period>6.958</period>
+				<semimajoraxis />
+				<eccentricity>0.24</eccentricity>
+				<inclination />
+				<periastron>98.62</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5V</spectraltype>
+			<mass>1.01</mass>
+			<radius>0.99</radius>
+			<metallicity>0.023</metallicity>
+			<distance>850</distance>
+			<temperature>5780</temperature>
+			<rightascension>08 51 01</rightascension>
+			<declination>+11 48 53</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/01/14</lastupdate>
+		<description>The star YBP1194 is one of the best solar twins identified so far. Its composition and age is very similar to that of our own Sun. It is located in the star cluster M67 and hosts a 0.34 Jupiter mass planet. The frequency of massive planets around stars of open clusters such as M67 turns out to be very similar to that of field stars.</description>
+		<new />
+		<image>eso1402c</image>
+		<imagedescription>This wide-field image of the sky around the old open star cluster Messier 67 was created from images forming part of the Digitized Sky Survey 2. The cluster appears as a rich grouping of stars at the centre of the picture. Messier 67 contains stars that are all about the same age, and have the same chemical composition, as the Sun.
+			
+Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>YBP1514 b</id_exoplaneteu>
+		<name>YBP1514 b</name>
+		<name>NGC 2682 YBP 1514 b</name>
+		<id>YBP1514 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.4</mass>
+			<radius />
+			<orbit>
+				<period>5.118</period>
+				<semimajoraxis />
+				<eccentricity>0.39</eccentricity>
+				<inclination />
+				<periastron>327.49</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5V</spectraltype>
+			<mass>0.96</mass>
+			<radius>0.89</radius>
+			<metallicity>0.03</metallicity>
+			<distance>750</distance>
+			<temperature>5725</temperature>
+			<rightascension>08 51 01</rightascension>
+			<declination>+11 53 12</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/01/14</lastupdate>
+		<description>YBP1514 is a main sequence star in the open star cluster M67. It hosts a 0.4 Jupiter mass planet. The star cluster is between 3.2 and 5 billion years old and contains many stars with ages and compositions similar to that of our own Sun.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
 	</planet>
 </planets>
