@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-87 b</id_exoplaneteu>
+	<name>WASP-87 b</name>
+	<id>WASP-87 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.18</mass>
+		<radius>1.385</radius>
+		<orbit>
+			<period>1.6827950</period>
+			<semimajoraxis>0.02946</semimajoraxis>
+			<eccentricity />
+			<inclination>81.07</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F5</spectraltype>
+		<mass>1.204</mass>
+		<radius>1.627</radius>
+		<metallicity>-0.41</metallicity>
+		<distance>240</distance>
+		<temperature>6450</temperature>
+		<rightascension>12 21 17.92</rightascension>
+		<declination>-52 50 27.0</declination>
+		<angulardistance />
+		<magV>10.7</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/14</lastupdate>
+	<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

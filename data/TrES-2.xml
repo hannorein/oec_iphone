@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>TrES-2</id_exoplaneteu>
+	<name>TrES-2</name>
+	<name>TrES-2 b</name>
+	<name>Kepler-1 b</name>
+	<id>TrES-2</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.253</mass>
+		<radius>1.169</radius>
+		<orbit>
+			<period>2.470613402</period>
+			<semimajoraxis>0.03556</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>83.874</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0</spectraltype>
+		<mass>0.983</mass>
+		<radius>1.003</radius>
+		<metallicity>0.001</metallicity>
+		<distance>213</distance>
+		<temperature>5850</temperature>
+		<rightascension>19 07 14</rightascension>
+		<declination>+49 18 59</declination>
+		<angulardistance />
+		<magV>11.25</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2006</discoveryyear>
+	<lastupdate>13/01/27</lastupdate>
+	<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

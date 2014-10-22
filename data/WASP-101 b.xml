@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-101 b</id_exoplaneteu>
+	<name>WASP-101 b</name>
+	<name>1SWASP J063324.26-232910.2 b</name>
+	<name>2MASS 06332426-2329103 b</name>
+	<id>WASP-101 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.5</mass>
+		<radius>1.41</radius>
+		<orbit>
+			<period>3.585722</period>
+			<semimajoraxis>0.0506</semimajoraxis>
+			<eccentricity />
+			<inclination>85</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F6</spectraltype>
+		<mass>1.34</mass>
+		<radius>1.29</radius>
+		<metallicity>0.2</metallicity>
+		<distance />
+		<temperature>6400</temperature>
+		<rightascension>06 33 24</rightascension>
+		<declination>-23 29 10</declination>
+		<angulardistance />
+		<magV>10.3</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/10/22</lastupdate>
+	<description>This is a hot Jupiter discovered by the WASP team.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

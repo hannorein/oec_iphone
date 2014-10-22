@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-104 b</id_exoplaneteu>
+	<name>WASP-104 b</name>
+	<name>TYC 260-1073-1 b</name>
+	<id>WASP-104 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.272</mass>
+		<radius>1.137</radius>
+		<orbit>
+			<period>1.7554137</period>
+			<semimajoraxis>0.02918</semimajoraxis>
+			<eccentricity />
+			<inclination>83.63</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G8</spectraltype>
+		<mass>1.076</mass>
+		<radius>0.963</radius>
+		<metallicity>0.32</metallicity>
+		<distance>143</distance>
+		<temperature>5475</temperature>
+		<rightascension>10 42 24</rightascension>
+		<declination>+07 26 06</declination>
+		<angulardistance />
+		<magV>11.12</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/08/06</lastupdate>
+	<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

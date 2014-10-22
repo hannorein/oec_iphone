@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-106 b</id_exoplaneteu>
+	<name>WASP-106 b</name>
+	<name>TYC 4927-1063-1 b</name>
+	<id>WASP-106 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.925</mass>
+		<radius>1.085</radius>
+		<orbit>
+			<period>9.289715</period>
+			<semimajoraxis>0.0917</semimajoraxis>
+			<eccentricity />
+			<inclination>89.49</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F9</spectraltype>
+		<mass>1.192</mass>
+		<radius>1.393</radius>
+		<metallicity>-0.09</metallicity>
+		<distance>283</distance>
+		<temperature>6055</temperature>
+		<rightascension>11 05 43</rightascension>
+		<declination>-05 04 46</declination>
+		<angulardistance />
+		<magV>11.21</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/08/06</lastupdate>
+	<description>The transiting exoplanet WASP-106 b is just slightly larger than Jupiter. The orbital solution is consistent with zero eccentricity, which is interesting because many other similar planets are known to have eccentric orbits. The planet was discovered by the WASP survey.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

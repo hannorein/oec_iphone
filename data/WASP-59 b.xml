@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-59 b</id_exoplaneteu>
+	<name>WASP-59 b</name>
+	<id>WASP-59 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.863</mass>
+		<radius>0.775</radius>
+		<orbit>
+			<period>7.919585</period>
+			<semimajoraxis>0.0697</semimajoraxis>
+			<eccentricity>0.100</eccentricity>
+			<inclination>89.27</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K5V</spectraltype>
+		<mass>0.719</mass>
+		<radius>0.613</radius>
+		<metallicity>-0.15</metallicity>
+		<distance>125</distance>
+		<temperature>4650</temperature>
+		<rightascension>23 18 29.54</rightascension>
+		<declination>+24 53 21.4</declination>
+		<angulardistance />
+		<magV>13.00</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2011</discoveryyear>
+	<lastupdate>11/09/13</lastupdate>
+	<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

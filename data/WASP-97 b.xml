@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-97 b</id_exoplaneteu>
+	<name>WASP-97 b</name>
+	<name>1SWASP J013825.04-554619.4 b</name>
+	<name>2MASS 01382504-5546194 b</name>
+	<id>WASP-97 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.32</mass>
+		<radius>1.13</radius>
+		<orbit>
+			<period>2.072760</period>
+			<semimajoraxis>0.03303</semimajoraxis>
+			<eccentricity />
+			<inclination>88</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>1.12</mass>
+		<radius>1.06</radius>
+		<metallicity>0.23</metallicity>
+		<distance />
+		<temperature>5640</temperature>
+		<rightascension>01 38 25</rightascension>
+		<declination>-55 46 19</declination>
+		<angulardistance />
+		<magV>10.6</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>13/10/22</lastupdate>
+	<description>This is a hot Jupiter discovered by the WASP team.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
