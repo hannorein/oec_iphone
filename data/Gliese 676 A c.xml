@@ -1,16 +1,16 @@
 <planet>
-	<id_exoplaneteu>Gliese 676 A d</id_exoplaneteu>
-	<name>Gliese 676 A d</name>
-	<name>GJ 676 A d</name>
-	<id>Gliese 676 A d</id>
+	<id_exoplaneteu>Gliese 676 A c</id_exoplaneteu>
+	<name>Gliese 676 A c</name>
+	<name>GJ 676 A c</name>
+	<id>Gliese 676 A c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.014</mass>
+		<mass>3.0</mass>
 		<radius />
 		<orbit>
-			<period>3.6000</period>
-			<semimajoraxis>0.0413</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
+			<period>4400</period>
+			<semimajoraxis>5.2</semimajoraxis>
+			<eccentricity>0.2</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -34,12 +34,12 @@
 		<magK />
 	</star>
 	<multiplicity>4</multiplicity>
-	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/12/05</lastupdate>
-	<description>The star system Gliese 676 is located in the constellation Ara. This  planet was confirmed using a Bayesian probability analysis. It is a small Super-Earth.</description>
+	<discoveryyear>2011</discoveryyear>
+	<lastupdate />
+	<description>This companion is inferred from a curvature in the radial velocity residuals. Its nature is currently unclear.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 	<list>Planets in binary systems, S-type</list>
 </planet>

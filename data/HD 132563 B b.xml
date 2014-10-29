@@ -18,16 +18,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G</spectraltype>
-		<mass>1.01</mass>
+		<spectraltype />
+		<mass>1.081</mass>
 		<radius />
-		<metallicity>-0.19</metallicity>
+		<metallicity />
 		<distance>96</distance>
-		<temperature>158.5</temperature>
-		<rightascension>14 58 21</rightascension>
-		<declination>+44 02 36</declination>
+		<temperature>6168</temperature>
+		<rightascension>14 58 21.519</rightascension>
+		<declination>+44 02 35.33</declination>
 		<angulardistance />
-		<magV>9.47</magV>
+		<magV>8.966</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -41,4 +41,5 @@
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>
