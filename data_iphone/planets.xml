@@ -5975,14 +5975,59 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2009</discoveryyear>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2011</discoveryyear>
 		<lastupdate>12/12/05</lastupdate>
 		<description>This gas giant was found in 2009 and announced in 2011. At that time there were strong indications for more planets but more data was needed to confirm them.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 676 A c</id_exoplaneteu>
+		<name>Gliese 676 A c</name>
+		<name>GJ 676 A c</name>
+		<id>Gliese 676 A c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.0</mass>
+			<radius />
+			<orbit>
+				<period>4400</period>
+				<semimajoraxis>5.2</semimajoraxis>
+				<eccentricity>0.2</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0V</spectraltype>
+			<mass>0.71</mass>
+			<radius />
+			<metallicity>0.23</metallicity>
+			<distance>16.5</distance>
+			<temperature />
+			<rightascension>17 30 11</rightascension>
+			<declination>-51 38 13</declination>
+			<angulardistance />
+			<magV>9.585</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate />
+		<description>This companion is inferred from a curvature in the radial velocity residuals. Its nature is currently unclear.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
@@ -6020,8 +6065,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2011</discoveryyear>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/12/05</lastupdate>
 		<description>The star system Gliese 676 is located in the constellation Ara. This  planet was confirmed using a Bayesian probability analysis. It is a small Super-Earth.</description>
 		<new />
@@ -6037,7 +6082,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 676 A e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.187</mass>
+			<mass>0.036</mass>
 			<radius />
 			<orbit>
 				<period>35.37</period>
@@ -6065,8 +6110,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2011</discoveryyear>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/12/05</lastupdate>
 		<description>The star system Gliese 676 is located in the constellation Ara. This  planet was confirmed using a Bayesian probability analysis. It has a false alarme probability of less than one percent.</description>
 		<new />
@@ -12658,16 +12703,16 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G</spectraltype>
-			<mass>1.01</mass>
+			<spectraltype />
+			<mass>1.081</mass>
 			<radius />
-			<metallicity>-0.19</metallicity>
+			<metallicity />
 			<distance>96</distance>
-			<temperature>158.5</temperature>
-			<rightascension>14 58 21</rightascension>
-			<declination>+44 02 36</declination>
+			<temperature>6168</temperature>
+			<rightascension>14 58 21.519</rightascension>
+			<declination>+44 02 35.33</declination>
 			<angulardistance />
-			<magV>9.47</magV>
+			<magV>8.966</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -12681,6 +12726,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 134060 b</id_exoplaneteu>
@@ -13193,7 +13239,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/08/02</lastupdate>
-		<description>HD 137388 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planet orbits a K type star.</description>
+		<description>HD 137388 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planet orbits a K type star. HD 137388 appears in the literature as a binary system. However, according to Roell et al. (2012) the A and B components of HD 137388 have very different proper motions and are unlikely to be a physical binary system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -73306,6 +73352,94 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Kepler Objects of Interest</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1781 b</id_exoplaneteu>
+		<name>KOI-1781 b</name>
+		<name>KOI-1781.01</name>
+		<id>KOI-1781 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.289</radius>
+			<orbit>
+				<period>7.83445</period>
+				<semimajoraxis>0.073</semimajoraxis>
+				<eccentricity>0.00</eccentricity>
+				<inclination>89.03</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.83</mass>
+			<radius>0.79</radius>
+			<metallicity />
+			<distance />
+			<temperature>4974</temperature>
+			<rightascension>19 10 25.34</rightascension>
+			<declination>+49 31 23.7</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate />
+		<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1781 d</id_exoplaneteu>
+		<name>KOI-1781 d</name>
+		<name>KOI-1781.03</name>
+		<id>KOI-1781 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.233</radius>
+			<orbit>
+				<period>58.02125</period>
+				<semimajoraxis>0.276</semimajoraxis>
+				<eccentricity>0.00</eccentricity>
+				<inclination>89.63</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.83</mass>
+			<radius>0.79</radius>
+			<metallicity />
+			<distance />
+			<temperature>4974</temperature>
+			<rightascension>19 10 25.34</rightascension>
+			<declination>+49 31 23.7</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate />
+		<description>The KOI-1781 system was discovered by the Kepler spacecraft. This third planet candidate in the system has not been confirmed yet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-183 b</id_exoplaneteu>
