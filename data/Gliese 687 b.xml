@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>Gliese 687 b</id_exoplaneteu>
+	<name>Gliese 687 b</name>
+	<name>GJ 687 b</name>
+	<id>Gliese 687 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.058</mass>
+		<radius />
+		<orbit>
+			<period>38.14</period>
+			<semimajoraxis>0.16353</semimajoraxis>
+			<eccentricity>0.04</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3V</spectraltype>
+		<mass>0.413</mass>
+		<radius>0.4183</radius>
+		<metallicity />
+		<distance>4.5</distance>
+		<temperature>3413</temperature>
+		<rightascension>17 36 25.89973</rightascension>
+		<declination>+68 20 20.9108</declination>
+		<angulardistance />
+		<magV>9.15</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate />
+	<description />
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

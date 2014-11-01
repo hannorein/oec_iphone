@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>WASP-74 b</id_exoplaneteu>
+	<name>WASP-74 b</name>
+	<name>1SWASP J201809.32-010432.6 b</name>
+	<name>2MASS 20180931-010432.6 b</name>
+	<name>BD-01 3943 b</name>
+	<name>PPM 180934 b</name>
+	<name>TYC 5162-1142-1 b</name>
+	<id>WASP-74 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.95</mass>
+		<radius>1.56</radius>
+		<orbit>
+			<period>2.137750</period>
+			<semimajoraxis>0.037</semimajoraxis>
+			<eccentricity />
+			<inclination>79.81</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F9</spectraltype>
+		<mass>1.48</mass>
+		<radius>1.64</radius>
+		<metallicity>0.39</metallicity>
+		<distance>120</distance>
+		<temperature>5990</temperature>
+		<rightascension>20 18 09.32</rightascension>
+		<declination>-01 04 32.6</declination>
+		<angulardistance />
+		<magV>9.75</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/24</lastupdate>
+	<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

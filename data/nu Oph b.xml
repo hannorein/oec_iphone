@@ -4,12 +4,12 @@
 	<id>nu Oph b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>22.3</mass>
+		<mass>24</mass>
 		<radius />
 		<orbit>
-			<period>536</period>
-			<semimajoraxis>1.8</semimajoraxis>
-			<eccentricity>0.13</eccentricity>
+			<period>530.32</period>
+			<semimajoraxis>1.9</semimajoraxis>
+			<eccentricity>0.1256</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -17,12 +17,12 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G9III</spectraltype>
-		<mass>2.7</mass>
-		<radius />
+		<spectraltype>K0III</spectraltype>
+		<mass>3.04</mass>
+		<radius>15.1</radius>
 		<metallicity />
 		<distance>46.8</distance>
-		<temperature>611.9</temperature>
+		<temperature>4928</temperature>
 		<rightascension>17 59 02</rightascension>
 		<declination>-09 46 25</declination>
 		<angulardistance />

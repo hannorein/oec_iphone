@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-83 b</id_exoplaneteu>
+	<name>WASP-83 b</name>
+	<name>1SWASP J124036.51-191703.4 b</name>
+	<name>2MASS 12403650-1917032 b</name>
+	<id>WASP-83 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.30</mass>
+		<radius>1.04</radius>
+		<orbit>
+			<period>4.971252</period>
+			<semimajoraxis>0.059</semimajoraxis>
+			<eccentricity />
+			<inclination>88.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G8</spectraltype>
+		<mass>1.11</mass>
+		<radius>1.05</radius>
+		<metallicity>0.29</metallicity>
+		<distance>300</distance>
+		<temperature>5480</temperature>
+		<rightascension>14 40 36.51</rightascension>
+		<declination>-19 17 03.4</declination>
+		<angulardistance />
+		<magV>12.9</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/24</lastupdate>
+	<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>CoRoT-26 b</id_exoplaneteu>
+	<name>CoRoT-26 b</name>
+	<id>CoRoT-26 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.52</mass>
+		<radius>1.26</radius>
+		<orbit>
+			<period>4.20474</period>
+			<semimajoraxis>0.0526</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>86.8</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>1.09</mass>
+		<radius>1.79</radius>
+		<metallicity>0.01</metallicity>
+		<distance>1670</distance>
+		<temperature>5590</temperature>
+		<rightascension>18 39 00.13</rightascension>
+		<declination>+06 58 11.71</declination>
+		<angulardistance />
+		<magV>15.756</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate />
+	<description />
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

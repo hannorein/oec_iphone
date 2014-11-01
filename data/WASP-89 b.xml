@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-89 b</id_exoplaneteu>
+	<name>WASP-89 b</name>
+	<name>1SWASP J205535.98-185816.1 b</name>
+	<name>2MASS 20553599-1858159 b</name>
+	<id>WASP-89 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>5.9</mass>
+		<radius>1.04</radius>
+		<orbit>
+			<period>3.3564227</period>
+			<semimajoraxis>0.0427</semimajoraxis>
+			<eccentricity>0.193</eccentricity>
+			<inclination>89.4</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K3</spectraltype>
+		<mass>0.92</mass>
+		<radius>0.88</radius>
+		<metallicity>0.15</metallicity>
+		<distance />
+		<temperature>4955</temperature>
+		<rightascension>20 55 35.99</rightascension>
+		<declination>-18 58 16.1</declination>
+		<angulardistance />
+		<magV>13.1</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/24</lastupdate>
+	<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements and is a good target for an extensive study of transits of star spots.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
