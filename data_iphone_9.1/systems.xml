@@ -1,4 +1,4 @@
-<systems name="systems" planets="1853">
+<systems name="systems" planets="1868">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -900,6 +900,34 @@
 			</planet>
 			<name>70 Vir</name>
 			<temperature>5432.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>75 Cet</name>
+		<name>75 Ceti</name>
+		<rightascension>02 32 09.42200</rightascension>
+		<declination>-01 02 05.6236</declination>
+		<distance>81</distance>
+		<star>
+			<name>75 Cet</name>
+			<name>75 Ceti</name>
+			<name>HD 15779</name>
+			<name>HIP 11791</name>
+			<magV>5.36</magV>
+			<mass lowerlimit="2.22" upperlimit="2.51">2.49</mass>
+			<radius lowerlimit="9.5" upperlimit="11.5">10.5</radius>
+			<temperature errorminus="18" errorplus="18">4846</temperature>
+			<spectraltype>G3III:</spectraltype>
+			<planet>
+				<name>75 Cet b</name>
+				<list>Confirmed planets</list>
+				<mass>3.0</mass>
+				<period errorminus="3.6" errorplus="3.6">691.9</period>
+				<semimajoraxis>2.1</semimajoraxis>
+				<eccentricity errorminus="0.048" errorplus="0.048">0.117</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2012</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -2301,6 +2329,75 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 	</system>
 	<system>
+		<name>CoRoT-25</name>
+		<rightascension>18 42 31.13</rightascension>
+		<declination>+06 30 50.04</declination>
+		<distance errorminus="25" errorplus="85">1000</distance>
+		<star>
+			<name>CoRoT-25</name>
+			<name>2MASS J18423111+0630497</name>
+			<magU errorminus="0.47" errorplus="0.47">15.93</magU>
+			<magB errorminus="0.064" errorplus="0.064">15.806</magB>
+			<magV errorminus="0.031" errorplus="0.031">14.965</magV>
+			<magJ errorminus="0.024" errorplus="0.024">13.300</magJ>
+			<magH errorminus="0.032" errorplus="0.032">12.990</magH>
+			<magK errorminus="0.031" errorplus="0.031">12.846</magK>
+			<mass errorminus="0.05" errorplus="0.11">1.09</mass>
+			<radius errorminus="0.03" errorplus="0.14">1.19</radius>
+			<temperature errorminus="90" errorplus="90">6040</temperature>
+			<metallicity errorminus="0.13" errorplus="0.13">-0.01</metallicity>
+			<spectraltype>F9V</spectraltype>
+			<planet>
+				<name>CoRoT-25 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.04" errorplus="0.04">0.27</mass>
+				<radius errorminus="0.10" errorplus="0.3">1.08</radius>
+				<period errorminus="0.00006" errorplus="0.00006">4.86069</period>
+				<semimajoraxis errorminus="0.0009" errorplus="0.0020">0.0578</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="0.3" errorplus="0.8">84.5</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454576.2156</transittime>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>CoRoT-26</name>
+		<rightascension>18 39 00.13</rightascension>
+		<declination>+06 58 11.71</declination>
+		<distance errorminus="110" errorplus="205">1670</distance>
+		<star>
+			<name>CoRoT-26</name>
+			<name>2MASS J18390012+0658112</name>
+			<magB errorminus="0.131" errorplus="0.131">16.839</magB>
+			<magV errorminus="0.06" errorplus="0.06">15.756</magV>
+			<magJ errorminus="0.027" errorplus="0.027">13.813</magJ>
+			<magH errorminus="0.035" errorplus="0.035">13.358</magH>
+			<magK errorminus="0.034" errorplus="0.034">13.261</magK>
+			<mass errorminus="0.06" errorplus="0.06">1.09</mass>
+			<radius errorminus="0.09" errorplus="0.18">1.79</radius>
+			<temperature errorminus="100" errorplus="100">5590</temperature>
+			<metallicity errorminus="0.13" errorplus="0.13">0.01</metallicity>
+			<spectraltype>G5</spectraltype>
+			<planet>
+				<name>CoRoT-26 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.05" errorplus="0.05">0.52</mass>
+				<radius errorminus="0.07" errorplus="0.13">1.26</radius>
+				<period errorminus="0.00005" errorplus="0.00005">4.20474</period>
+				<semimajoraxis errorminus="0.0010" errorplus="0.0010">0.0526</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="1.0" errorplus="2.2">86.8</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454573.6299</transittime>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>CoRoT-27</name>
 		<rightascension>18 33 59</rightascension>
 		<declination>+05 32 19</declination>
@@ -3176,12 +3273,16 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>Gliese 1214</name>
-		<rightascension>17 15 19</rightascension>
-		<declination>+04 57 50</declination>
-		<distance>13</distance>
+		<name>GJ 1214</name>
+		<rightascension>17 15 18.94</rightascension>
+		<declination>+04 57 49.7</declination>
+		<distance errorminus="0.13" errorplus="0.13">14.55</distance>
 		<star>
-			<mass errorminus="0.011" errorplus="0.011">0.150</mass>
-			<radius errorminus="0.012" errorplus="0.012">0.216</radius>
+			<name>Gliese 1214</name>
+			<name>GJ 1214</name>
+			<temperature errorminus="100" errorplus="100">3250</temperature>
+			<mass errorminus="0.009" errorplus="0.009">0.176</mass>
+			<radius errorminus="0.0043" errorplus="0.0043">0.2213</radius>
 			<magV>14.71</magV>
 			<magB>16.40</magB>
 			<magR>13.8</magR>
@@ -3189,7 +3290,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ errorminus="0.024" errorplus="0.024">9.750</magJ>
 			<magH errorminus="0.024" errorplus="0.024">9.094</magH>
 			<magK errorminus="0.020" errorplus="0.020">8.782</magK>
-			<metallicity>0.39</metallicity>
+			<metallicity errorminus="0.1" errorplus="0.1">0.1</metallicity>
 			<spectraltype>M4.5</spectraltype>
 			<planet>
 				<name>Gliese 1214 b</name>
@@ -3197,11 +3298,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>Gj 1214 b</name>
 				<name>Gl 1214 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.0027" errorplus="0.0027">0.0197</mass>
-				<radius errorminus="0.018" errorplus="0.018">0.254</radius>
-				<period errorminus="0.000015" errorplus="0.000015">1.580405</period>
-				<semimajoraxis errorminus="0.00032" errorplus="0.00032">0.01411</semimajoraxis>
-				<inclination errorminus="0.54" errorplus="0.54">88.17</inclination>
+				<mass errorminus="0.0028" errorplus="0.0028">0.0195</mass>
+				<radius errorminus="0.0055" errorplus="0.0055">0.2525</radius>
+				<period errorminus="0.00000022" errorplus="0.00000022">1.58040417</period>
+				<semimajoraxis errorminus="0.00025" errorplus="0.00025">0.01488</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="0.10" errorplus="0.10">88.47</inclination>
 				<description>Gliese 1214 is a red dwarf in the constellation Ophiuchus only 40 light years away. The planet was found with a 40cm telescope and commercially available cameras. New observations from NASA's Hubble Space Telescope show that it is a waterworld enshrouded by a thick, steamy atmosphere. GJ1214b represents a new type of planet, like nothing seen in our solar system or any other planetary system currently known.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/09/05</lastupdate>
@@ -3210,12 +3312,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<imagedescription>This image shows an artist's view of the planet Gliese 1214 b in front of its host star. 
 	
 Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).</imagedescription>
-				<temperature>519.6</temperature>
-				<transittime errorminus="0.0000901" errorplus="0.0000901" unit="HJD">2454983.9087558</transittime>
+				<temperature errorminus="19" errorplus="19">604</temperature>
+				<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2454980.74900</transittime>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>Gliese 1214</name>
-			<temperature>3026.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -4344,6 +4444,39 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</binary>
 	</system>
 	<system>
+		<name>Gliese 687</name>
+		<name>GJ 687</name>
+		<rightascension>17 36 25.89973</rightascension>
+		<declination>+68 20 20.9108</declination>
+		<distance errorminus="0.115" errorplus="0.115">4.5</distance>
+		<star>
+			<name>Gliese 687</name>
+			<name>GJ 687</name>
+			<name>LHS 450</name>
+			<name>BD+68 946</name>
+			<name>HIP 86162</name>
+			<spectraltype>M3V</spectraltype>
+			<mass errorminus="0.041" errorplus="0.041">0.413</mass>
+			<radius errorminus="0.0070" errorplus="0.0070">0.4183</radius>
+			<temperature errorminus="28" errorplus="28">3413</temperature>
+			<magV>9.15</magV>
+			<magJ>5.335</magJ>
+			<magH>4.77</magH>
+			<magK>4.548</magK>
+			<planet>
+				<name>Gliese 687 b</name>
+				<name>GJ 687 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.007" errorplus="0.007">0.058</mass>
+				<period errorminus="0.015" errorplus="0.015">38.14</period>
+				<semimajoraxis errorminus="0.000043" errorplus="0.000043">0.16353</semimajoraxis>
+				<eccentricity errorminus="0.076" errorplus="0.076">0.04</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>Gliese 777</name>
 		<rightascension>20 03 37</rightascension>
 		<declination>+29 53 48</declination>
@@ -4537,6 +4670,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<declination>-04 38 27</declination>
 		<distance>8.8</distance>
 		<star>
+			<name>Gliese 849</name>
+			<temperature>3840.0</temperature>
 			<mass>0.49</mass>
 			<radius>0.52</radius>
 			<magV>10.42</magV>
@@ -4554,17 +4689,27 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<name>Gj 849 b</name>
 				<name>Gl 849 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.99</mass>
-				<period>1852</period>
-				<semimajoraxis>2.35</semimajoraxis>
-				<eccentricity>0.04</eccentricity>
+				<mass errorminus="0.045" errorplus="0.043">0.900</mass>
+				<period errorminus="24" errorplus="23">1915</period>
+				<semimajoraxis>2.38</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
 				<description>The star Gliese 849 is a red dwarf in the constellation of Aquarius.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/11/23</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 			</planet>
-			<name>Gliese 849</name>
-			<temperature>3840.0</temperature>
+			<planet>
+				<name>Gliese 849 c</name>
+				<name>GJ 849 c</name>
+				<list>Controversial</list>
+				<mass errorminus="0.203" errorplus="0.344">0.702</mass>
+				<period errorminus="2170" errorplus="6280">7067</period>
+				<semimajoraxis>5.7</semimajoraxis>
+				<eccentricity>0.3</eccentricity>
+				<description>The orbital parameters of the outer planet of Gliese 849 are not well-constrained.</description>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -6409,6 +6554,15 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>13/08/16</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+			<planet>
+				<name>HAT-P-46 c</name>
+				<list>Controversial</list>
+				<mass errorminus="0.3" errorplus="0.3">2.0</mass>
+				<semimajoraxis errorminus="0.006" errorplus="0.009">0.383</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
 			</planet>
 		</star>
 	</system>
@@ -16505,6 +16659,31 @@ Image credit: Vanessa Bailey</imagedescription>
 			</planet>
 			<name>HD 5319</name>
 			<temperature>5052.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 5608</name>
+		<rightascension>00 58 14.21893</rightascension>
+		<declination>+33 57 03.1843</declination>
+		<distance>58</distance>
+		<star>
+			<name>HD 5608</name>
+			<name>HIP 4552</name>
+			<magV>5.99</magV>
+			<mass lowerlimit="1.32" upperlimit="1.74">1.55</mass>
+			<radius lowerlimit="5.1" upperlimit="5.9">5.5</radius>
+			<temperature errorminus="25" errorplus="25">4854</temperature>
+			<spectraltype>K0IV</spectraltype>
+			<planet>
+				<name>HD 5608 b</name>
+				<list>Confirmed planets</list>
+				<mass>3.0</mass>
+				<period errorminus="7.7" errorplus="7.7">792.6</period>
+				<semimajoraxis>1.9</semimajoraxis>
+				<eccentricity errorminus="0.061" errorplus="0.061">0.190</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2012</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -31161,41 +31340,67 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<name>KIC 7303287</name>
 		<rightascension>19 49 51</rightascension>
 		<declination>+42 52 58</declination>
-		<distance>853.02</distance>
+		<distance errorminus="14" errorplus="14">700</distance>
 		<star>
 			<name>Kepler-289</name>
 			<name>KOI-1353</name>
 			<name>KIC 7303287</name>
-			<temperature errorminus="07" errorplus="107">5930</temperature>
-			<radius errorminus=".218" errorplus="0.218">1.162</radius>
-			<mass errorminus="0.1300" errorplus="0.1300">1.1700</mass>
-			<planet>
-				<name>Kepler-289 c</name>
-				<name>KOI-1353 c</name>
-				<name>KOI-1353.01</name>
-				<name>KIC 7303287 c</name>
-				<name>KIC 7303287.01</name>
-				<radius errorminus="0.04101" errorplus="0.22327">1.18834</radius>
-				<period errorminus=".000095" errorplus="0.000095">125.866438</period>
-				<transittime errorminus="0.0003300" errorplus="0.0003300">2455069.6563000</transittime>
-				<list>Confirmed planets</list>
-				<description>Kepler-289 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-289 c are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-			</planet>
+			<name>PH3</name>
+			<temperature errorminus="38" errorplus="38">5990</temperature>
+			<radius errorminus="0.02" errorplus="0.02">1.00</radius>
+			<mass errorminus="0.02" errorplus="0.02">1.08</mass>
+			<metallicity errorminus="0.04" errorplus="0.04">0.05</metallicity>
 			<planet>
 				<name>Kepler-289 b</name>
 				<name>KOI-1353 b</name>
 				<name>KOI-1353.02</name>
 				<name>KIC 7303287 b</name>
 				<name>KIC 7303287.02</name>
-				<radius errorminus="0.04192" errorplus="0.04192">0.22145</radius>
-				<period errorminus=".000238" errorplus="0.000238">34.543901</period>
-				<transittime errorminus="0.0037600" errorplus="0.0037600">2454965.6868600</transittime>
+				<name>PH3 b</name>
+				<mass errorminus="0.021" errorplus="0.021">0.023</mass>
+				<radius errorminus="0.009" errorplus="0.009">0.192</radius>
+				<period errorminus="0.0005" errorplus="0.0005">34.5450</period>
+				<transittime errorminus="0.0040" errorplus="0.0040">2454965.6404</transittime>
+				<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
+				<inclination errorminus="0.48" errorplus="0.30">89.59</inclination>
 				<list>Confirmed planets</list>
 				<description>Kepler-289 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-289 b are still unknown, the object is highly unlikely to be a false positive.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/02/26</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+			</planet>
+			<planet>
+				<name>PH3 c</name>
+				<mass errorminus="0.003" errorplus="0.003">0.013</mass>
+				<radius errorminus="0.015" errorplus="0.015">0.239</radius>
+				<period errorminus="0.0114" errorplus="0.0114">66.0634</period>
+				<transittime errorminus="0.0068" errorplus="0.0068">2454975.6436</transittime>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">0.33</semimajoraxis>
+				<inclination errorminus="0.38" errorplus="0.20">89.73</inclination>
+				<list>Confirmed planets</list>
+				<description>Although this system was previously known that the system hosts at least two planets, the third planet, PH3 c was first spotted by citizen scientists using the Planet Hunters website.</description>
+				<discoveryyear>2014</discoveryyear>
+				<new>1</new>
+				<lastupdate>14/11/01</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+			</planet>
+			<planet>
+				<name>Kepler-289 c</name>
+				<name>KOI-1353 c</name>
+				<name>KOI-1353.01</name>
+				<name>KIC 7303287 c</name>
+				<name>KIC 7303287.01</name>
+				<name>PH3 d</name>
+				<mass errorminus="0.053" errorplus="0.053">0.415</mass>
+				<radius errorminus="0.017" errorplus="0.017">1.034</radius>
+				<period errorminus="0.0076" errorplus="0.0076">125.8518</period>
+				<transittime errorminus="0.0077" errorplus="0.0077">2455069.6528</transittime>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">0.51</semimajoraxis>
+				<inclination errorminus="0.016" errorplus="0.017">89.794</inclination>
+				<list>Confirmed planets</list>
+				<description>Kepler-289 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-289 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
 				<lastupdate>14/02/26</lastupdate>
 				<discoverymethod>transit</discoverymethod>
@@ -41824,7 +42029,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<lastupdate>14/10/20</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -41927,6 +42131,40 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KOI-1612</name>
+		<name>Kepler-408</name>
+		<rightascension>18 59 08.6</rightascension>
+		<declination>+48 25 23</declination>
+		<star>
+			<name>KOI-1612</name>
+			<name>Kepler-408</name>
+			<name>KIC 10963065</name>
+			<name>HD 176693</name>
+			<name>TYC 3545-1227-1</name>
+			<temperature errorminus="74" errorplus="74">6104</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">-0.20</metallicity>
+			<mass errorminus="0.07" errorplus="0.07">1.08</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.23</radius>
+			<magB errorminus="0.02" errorplus="0.02">9.34</magB>
+			<magV errorminus="0.01" errorplus="0.01">8.83</magV>
+			<magJ errorminus="0.021" errorplus="0.021">7.784</magJ>
+			<magH errorminus="0.021" errorplus="0.021">7.539</magH>
+			<magK errorminus="0.018" errorplus="0.018">7.486</magK>
+			<planet>
+				<name>KOI-1612.01</name>
+				<name>Kepler-408 b</name>
+				<name>HD 176693 b</name>
+				<period>2.46502</period>
+				<radius errorminus="0.003" errorplus="0.003">0.073</radius>
+				<mass upperlimit="0.016" />
+				<transittime unit="BJD">2454965.67928</transittime>
+				<discoveryyear>2014</discoveryyear>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>KOI-1781</name>
 		<name>Kepler-411</name>
 		<rightascension>19 10 25.34</rightascension>
@@ -41958,7 +42196,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<istransiting>1</istransiting>
 			</planet>
 			<planet>
-				<name>KOI-1781 b</name>
+				<name>KOI-1781 c</name>
 				<name>KOI-1781.01</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.050" errorplus="0.050">0.289</radius>
@@ -42031,6 +42269,54 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>14/09/30</lastupdate>
 				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>KOI-1843</name>
+		<rightascension>19 00 03.14</rightascension>
+		<declination>+40 13 14.7</declination>
+		<star>
+			<name>KOI-1843</name>
+			<mass errorminus="0.08" errorplus="0.05">0.46</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.45</radius>
+			<temperature errorminus="65" errorplus="65">3584</temperature>
+			<metallicity errorminus="0.1" errorplus="0.1">0.0</metallicity>
+			<magJ>12.0</magJ>
+			<planet>
+				<name>KOI-1843.03</name>
+				<list>Controversial</list>
+				<mass errorminus="0.0005" errorplus="0.0012">0.0014</mass>
+				<radius errorminus="0.007" errorplus="0.011">0.054</radius>
+				<period errorminus="0.0000002" errorplus="0.0000002">0.1768913</period>
+				<inclination errorminus="20" errorplus="12">72</inclination>
+				<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2454964.5523</transittime>
+				<semimajoraxis>0.0048</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2012</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+			<planet>
+				<name>KOI-1843.01</name>
+				<list>Controversial</list>
+				<radius errorminus="0.024" errorplus="0.024">0.114</radius>
+				<period errorminus="0.000016" errorplus="0.000016">4.194525</period>
+				<inclination>89.38</inclination>
+				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2454967.1323</transittime>
+				<semimajoraxis>0.039</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+			</planet>
+			<planet>
+				<name>KOI-1843.02</name>
+				<list>Controversial</list>
+				<radius errorminus="0.015" errorplus="0.015">0.071</radius>
+				<period errorminus="0.000088" errorplus="0.000088">6.356006</period>
+				<inclination>88.24</inclination>
+				<transittime errorminus="0.005" errorplus="0.005" unit="BJD">2454970.4901</transittime>
+				<semimajoraxis>0.052</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
 			</planet>
 		</star>
 	</system>
@@ -43542,20 +43828,23 @@ Image credit: Joe Gallagher</imagedescription>
 		<declination>-09 46 25</declination>
 		<distance>46.8</distance>
 		<star>
-			<mass>2.7</mass>
+			<name>nu Oph</name>
 			<magV>3.33</magV>
 			<magB errorminus="0.01" errorplus="0.01">4.31</magB>
 			<magJ errorminus="0.290" errorplus="0.290">1.732</magJ>
 			<magH errorminus="0.284" errorplus="0.284">1.289</magH>
 			<magK errorminus="0.306" errorplus="0.306">1.225</magK>
-			<spectraltype>G9III</spectraltype>
+			<spectraltype>K0III</spectraltype>
+			<mass lowerlimit="2.98" upperlimit="3.10">3.04</mass>
+			<radius lowerlimit="14.1" upperlimit="16.2">15.1</radius>
+			<temperature errorminus="25" errorplus="25">4928</temperature>
 			<planet>
 				<name>nu Oph b</name>
 				<list>Confirmed planets</list>
-				<mass>22.3</mass>
-				<period>536</period>
-				<semimajoraxis>1.8</semimajoraxis>
-				<eccentricity>0.13</eccentricity>
+				<mass>24</mass>
+				<period errorminus="0.35" errorplus="0.35">530.32</period>
+				<semimajoraxis>1.9</semimajoraxis>
+				<eccentricity errorminus="0.0065" errorplus="0.0065">0.1256</eccentricity>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/01/05</lastupdate>
 				<discoveryyear>2004</discoveryyear>
@@ -43564,17 +43853,15 @@ Image credit: Joe Gallagher</imagedescription>
 			<planet>
 				<name>nu Oph c</name>
 				<list>Confirmed planets</list>
-				<mass>24.5</mass>
-				<period>3169</period>
-				<semimajoraxis>5.88</semimajoraxis>
-				<eccentricity>0.18</eccentricity>
+				<mass>27</mass>
+				<period errorminus="14" errorplus="14">3186</period>
+				<semimajoraxis>6.1</semimajoraxis>
+				<eccentricity errorminus="0.013" errorplus="0.013">0.165</eccentricity>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/01/05</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>341.2</temperature>
 			</planet>
-			<name>nu Oph</name>
-			<temperature>4928.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -48928,6 +49215,53 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 	</system>
 	<system>
+		<name>WASP-74</name>
+		<rightascension>20 18 09.32</rightascension>
+		<declination>-01 04 32.6</declination>
+		<distance errorminus="20" errorplus="20">120</distance>
+		<star>
+			<name>WASP-74</name>
+			<name>1SWASP J201809.32-010432.6</name>
+			<name>2MASS 20180931-0104324</name>
+			<name>BD-01 3943</name>
+			<name>PPM 180934</name>
+			<name>TYC 5162-1142-1</name>
+			<spectraltype>F9</spectraltype>
+			<age errorminus="1.0" errorplus="1.6">2.0</age>
+			<temperature errorminus="110" errorplus="110">5990</temperature>
+			<metallicity errorminus="0.13" errorplus="0.13">0.39</metallicity>
+			<mass errorminus="0.12" errorplus="0.12">1.48</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.64</radius>
+			<magV>9.75</magV>
+			<magB>10.39</magB>
+			<magJ>8.55</magJ>
+			<magH>8.29</magH>
+			<magK>8.22</magK>
+			<planet>
+				<name>WASP-74 b</name>
+				<name>1SWASP J201809.32-010432.6 b</name>
+				<name>2MASS 20180931-010432.6 b</name>
+				<name>BD-01 3943 b</name>
+				<name>PPM 180934 b</name>
+				<name>TYC 5162-1142-1 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.06" errorplus="0.06">0.95</mass>
+				<radius errorminus="0.06" errorplus="0.06">1.56</radius>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.037</semimajoraxis>
+				<period errorminus="0.000001" errorplus="0.000001">2.137750</period>
+				<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456506.8918</transittime>
+				<inclination errorminus="0.24" errorplus="0.24">79.81</inclination>
+				<eccentricity upperlimit="0.07" />
+				<temperature errorminus="40" errorplus="40">1910</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/24</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-75</name>
 		<rightascension>22 49 33</rightascension>
 		<declination>-10 40 32</declination>
@@ -49261,6 +49595,43 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 	</system>
 	<system>
+		<name>WASP-83</name>
+		<rightascension>14 40 36.51</rightascension>
+		<declination>-19 17 03.4</declination>
+		<distance errorminus="50" errorplus="50">300</distance>
+		<star>
+			<name>WASP-83</name>
+			<name>1SWASP J124036.51-191703.4</name>
+			<name>2MASS 12403650-1917032</name>
+			<spectraltype>G8</spectraltype>
+			<age>5</age>
+			<temperature errorminus="110" errorplus="110">5480</temperature>
+			<metallicity errorminus="0.12" errorplus="0.12">0.29</metallicity>
+			<mass errorminus="0.09" errorplus="0.09">1.11</mass>
+			<radius errorminus="0.04" errorplus="0.06">1.05</radius>
+			<magV>12.9</magV>
+			<planet>
+				<name>WASP-83 b</name>
+				<name>1SWASP J124036.51-191703.4 b</name>
+				<name>2MASS 12403650-1917032 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.03" errorplus="0.03">0.30</mass>
+				<radius errorminus="0.05" errorplus="0.08">1.04</radius>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
+				<period errorminus="0.000015" errorplus="0.000015">4.971252</period>
+				<transittime errorminus="0.0004" errorplus="0.0004" unit="HJD">2455928.8853</transittime>
+				<inclination errorminus="0.7" errorplus="0.7">88.9</inclination>
+				<eccentricity upperlimit="0.3" />
+				<temperature errorminus="30" errorplus="30">1120</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/24</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-84</name>
 		<name>2MASS 08442570+0151361</name>
 		<rightascension>08 44 26</rightascension>
@@ -49360,6 +49731,42 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>13/12/09</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<transittime errorminus="0.00086" errorplus="0.00085" unit="HJD">2456474.73154</transittime>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-89</name>
+		<rightascension>20 55 35.99</rightascension>
+		<declination>-18 58 16.1</declination>
+		<star>
+			<name>WASP-89</name>
+			<name>1SWASP J205535.98-185816.1</name>
+			<name>2MASS 20553599-1858159</name>
+			<spectraltype>K3</spectraltype>
+			<age errorminus="0.8" errorplus="1.5">1.3</age>
+			<temperature errorminus="100" errorplus="100">4955</temperature>
+			<metallicity errorminus="0.14" errorplus="0.14">0.15</metallicity>
+			<mass errorminus="0.08" errorplus="0.08">0.92</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.88</radius>
+			<magV>13.1</magV>
+			<planet>
+				<name>WASP-89 b</name>
+				<name>1SWASP J205535.98-185816.1 b</name>
+				<name>2MASS 20553599-1858159 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.4" errorplus="0.4">5.9</mass>
+				<radius errorminus="0.04" errorplus="0.04">1.04</radius>
+				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0427</semimajoraxis>
+				<period errorminus="0.0000025" errorplus="0.0000025">3.3564227</period>
+				<transittime errorminus="0.00012" errorplus="0.00012" unit="HJD">2456207.02114</transittime>
+				<inclination errorminus="0.5" errorplus="0.5">89.4</inclination>
+				<eccentricity errorminus="0.009" errorplus="0.009">0.193</eccentricity>
+				<temperature errorminus="20" errorplus="20">1120</temperature>
+				<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements and is a good target for an extensive study of transits of star spots.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/10/24</lastupdate>
+				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
