@@ -7371,12 +7371,12 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>4.193</mass>
-			<radius>1.289</radius>
+			<radius>1.190</radius>
 			<orbit>
-				<period>2.77596</period>
-				<semimajoraxis>0.0413</semimajoraxis>
+				<period>2.7759712</period>
+				<semimajoraxis>0.04130</semimajoraxis>
 				<eccentricity>0.036</eccentricity>
-				<inclination>86.6</inclination>
+				<inclination>87.74</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -7384,11 +7384,11 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>F8</spectraltype>
-			<mass>1.218</mass>
-			<radius>1.237</radius>
-			<metallicity>0.17</metallicity>
+			<mass>1.216</mass>
+			<radius>1.158</radius>
+			<metallicity>0.12</metallicity>
 			<distance>235</distance>
-			<temperature>1485.9</temperature>
+			<temperature>6140</temperature>
 			<rightascension>00 38 18</rightascension>
 			<declination>+42 27 47</declination>
 			<angulardistance />
@@ -7400,7 +7400,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/05/20</lastupdate>
+		<lastupdate>14/11/05</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -73701,6 +73701,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<new />
 		<image />
 		<imagedescription />
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-1781 b</id_exoplaneteu>
@@ -78096,7 +78097,7 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/01</lastupdate>
 		<description>Although this system was previously known to host at least two planets, the third planet, PH3 c, was first spotted by citizen scientists using the Planet Hunters website.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -79612,6 +79613,94 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>TYC 1422-614-1 b</id_exoplaneteu>
+		<name>TYC 1422-614-1 b</name>
+		<name>2MASS J10170667+1933304 b</name>
+		<id>TYC 1422-614-1 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.5</mass>
+			<radius />
+			<orbit>
+				<period>198.40</period>
+				<semimajoraxis>0.69</semimajoraxis>
+				<eccentricity>0.06</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2</spectraltype>
+			<mass>1.15</mass>
+			<radius>6.85</radius>
+			<metallicity>0.15</metallicity>
+			<distance>759</distance>
+			<temperature>4806</temperature>
+			<rightascension>10 17 06.674</rightascension>
+			<declination>+19 33 30.47</declination>
+			<angulardistance />
+			<magV>10.21</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/22</lastupdate>
+		<description>The multiple planetary system orbiting TYC 1422-614-1 is the first finding of the TAPAS project, a HARPS-N monitoring of evolved planetary systems identified with the Hobby-Eberly Telescope.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TYC 1422-614-1 c</id_exoplaneteu>
+		<name>TYC 1422-614-1 c</name>
+		<name>2MASS J10170667+1933304 c</name>
+		<id>TYC 1422-614-1 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>10</mass>
+			<radius />
+			<orbit>
+				<period>559.3</period>
+				<semimajoraxis>1.37</semimajoraxis>
+				<eccentricity>0.048</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2</spectraltype>
+			<mass>1.15</mass>
+			<radius>6.85</radius>
+			<metallicity>0.15</metallicity>
+			<distance>759</distance>
+			<temperature>4806</temperature>
+			<rightascension>10 17 06.674</rightascension>
+			<declination>+19 33 30.47</declination>
+			<angulardistance />
+			<magV>10.21</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/10/22</lastupdate>
+		<description>The multiple planetary system orbiting TYC 1422-614-1 is the first finding of the TAPAS project, a HARPS-N monitoring of evolved planetary systems identified with the Hobby-Eberly Telescope.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Upsilon Andromedae A b</id_exoplaneteu>
 		<name>Upsilon Andromedae A b</name>
 		<name>ups And A b</name>
@@ -81096,13 +81185,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>WASP-21 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.3</mass>
-			<radius>1.21</radius>
+			<mass>0.276</mass>
+			<radius>1.162</radius>
 			<orbit>
-				<period>4.322506</period>
-				<semimajoraxis>0.052</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>87.29</inclination>
+				<period>4.3225186</period>
+				<semimajoraxis>0.0499</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.97</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -81110,11 +81199,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>G3V</spectraltype>
-			<mass>1.01</mass>
-			<radius>1.06</radius>
-			<metallicity>-0.4</metallicity>
+			<mass>0.890</mass>
+			<radius>1.136</radius>
+			<metallicity>-0.46</metallicity>
 			<distance>230</distance>
-			<temperature>1154.6</temperature>
+			<temperature>5800</temperature>
 			<rightascension>23 09 58</rightascension>
 			<declination>+18 23 46</declination>
 			<angulardistance />
@@ -81126,7 +81215,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/06/13</lastupdate>
+		<lastupdate>14/11/05</lastupdate>
 		<description />
 		<new />
 		<image />
