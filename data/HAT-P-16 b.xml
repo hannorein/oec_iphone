@@ -5,12 +5,12 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>4.193</mass>
-		<radius>1.289</radius>
+		<radius>1.190</radius>
 		<orbit>
-			<period>2.77596</period>
-			<semimajoraxis>0.0413</semimajoraxis>
+			<period>2.7759712</period>
+			<semimajoraxis>0.04130</semimajoraxis>
 			<eccentricity>0.036</eccentricity>
-			<inclination>86.6</inclination>
+			<inclination>87.74</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -18,11 +18,11 @@
 	</properties>
 	<star>
 		<spectraltype>F8</spectraltype>
-		<mass>1.218</mass>
-		<radius>1.237</radius>
-		<metallicity>0.17</metallicity>
+		<mass>1.216</mass>
+		<radius>1.158</radius>
+		<metallicity>0.12</metallicity>
 		<distance>235</distance>
-		<temperature>1485.9</temperature>
+		<temperature>6140</temperature>
 		<rightascension>00 38 18</rightascension>
 		<declination>+42 27 47</declination>
 		<angulardistance />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>11/05/20</lastupdate>
+	<lastupdate>14/11/05</lastupdate>
 	<description />
 	<new />
 	<image />

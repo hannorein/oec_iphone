@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>TYC 1422-614-1 b</id_exoplaneteu>
+	<name>TYC 1422-614-1 b</name>
+	<name>2MASS J10170667+1933304 b</name>
+	<id>TYC 1422-614-1 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.5</mass>
+		<radius />
+		<orbit>
+			<period>198.40</period>
+			<semimajoraxis>0.69</semimajoraxis>
+			<eccentricity>0.06</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2</spectraltype>
+		<mass>1.15</mass>
+		<radius>6.85</radius>
+		<metallicity>0.15</metallicity>
+		<distance>759</distance>
+		<temperature>4806</temperature>
+		<rightascension>10 17 06.674</rightascension>
+		<declination>+19 33 30.47</declination>
+		<angulardistance />
+		<magV>10.21</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/10/22</lastupdate>
+	<description>The multiple planetary system orbiting TYC 1422-614-1 is the first finding of the TAPAS project, a HARPS-N monitoring of evolved planetary systems identified with the Hobby-Eberly Telescope.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

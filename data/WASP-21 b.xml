@@ -5,13 +5,13 @@
 	<id>WASP-21 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.3</mass>
-		<radius>1.21</radius>
+		<mass>0.276</mass>
+		<radius>1.162</radius>
 		<orbit>
-			<period>4.322506</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>87.29</inclination>
+			<period>4.3225186</period>
+			<semimajoraxis>0.0499</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>86.97</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -19,11 +19,11 @@
 	</properties>
 	<star>
 		<spectraltype>G3V</spectraltype>
-		<mass>1.01</mass>
-		<radius>1.06</radius>
-		<metallicity>-0.4</metallicity>
+		<mass>0.890</mass>
+		<radius>1.136</radius>
+		<metallicity>-0.46</metallicity>
 		<distance>230</distance>
-		<temperature>1154.6</temperature>
+		<temperature>5800</temperature>
 		<rightascension>23 09 58</rightascension>
 		<declination>+18 23 46</declination>
 		<angulardistance />
@@ -35,7 +35,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>11/06/13</lastupdate>
+	<lastupdate>14/11/05</lastupdate>
 	<description />
 	<new />
 	<image />
