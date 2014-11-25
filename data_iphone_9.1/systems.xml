@@ -1,4 +1,4 @@
-<systems name="systems" planets="1871">
+<systems name="systems" planets="1874">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2213,6 +2213,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<distance errorminus="42" errorplus="25">592.0</distance>
 		<star>
 			<name>CoRoT-22</name>
+			<name>2MASS 18424010+0613088</name>
 			<age errorminus="2" errorplus="2">3.3</age>
 			<radius errorminus="0.09" errorplus="0.038">1.136</radius>
 			<mass errorminus="0.049" errorplus="0.049">1.099</mass>
@@ -2221,7 +2222,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity errorminus="0.12" errorplus="0.07">0.17</metallicity>
 			<planet>
 				<name>CoRoT-22 b</name>
-				<name>2MASS 18424010+0613088</name>
+				<name>2MASS 18424010+0613088 b</name>
 				<list>Confirmed planets</list>
 				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.092</semimajoraxis>
 				<periastron errorminus="30.0" errorplus="70.0">210.0</periastron>
@@ -2234,6 +2235,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<radius errorminus="0.0347935316148303" errorplus="0.0151664112167209">0.435365216104</radius>
 				<istransiting>1</istransiting>
 				<description>CoRoT-22 b is a transiting exoplanet discovered by the European CoRoT space mission. The planetary nature of this object has been validated by a full Bayesian analysis including observing constraints from radial-velocity spectroscopy, adaptive optics imaging and the CoRoT transit shape, as well as from priors on stellar populations, planet and multiple stellar systems frequency.</description>
+				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
 				<lastupdate>14/08/28</lastupdate>
 			</planet>
@@ -7652,6 +7654,46 @@ Credit: ESO/L. Calcada</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 10442</name>
+		<rightascension>01 41 53.142</rightascension>
+		<declination>+02 42 15.77</declination>
+		<star>
+			<name>HD 10442</name>
+			<name>TYC 32-383-1</name>
+			<name>PPM 144893</name>
+			<name>SAO 110073</name>
+			<name>2MASS J01415314+0242157</name>
+			<name>BD+01 306</name>
+			<magV>7.84</magV>
+			<magB>8.77</magB>
+			<magJ>6.158</magJ>
+			<magH>5.729</magH>
+			<magK>5.590</magK>
+			<mass errorminus="0.09" errorplus="0.09">1.56</mass>
+			<temperature errorminus="44" errorplus="44">5034</temperature>
+			<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
+			<spectraltype>K2IV</spectraltype>
+			<planet>
+				<name>HD 10442 b</name>
+				<name>TYC 32-383-1 b</name>
+				<name>PPM 144893 b</name>
+				<name>SAO 110073 b</name>
+				<name>2MASS J01415314+0242157 b</name>
+				<name>BD+01 306 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.15" errorplus="0.15">2.10</mass>
+				<period errorminus="9" errorplus="9">1043</period>
+				<semimajoraxis errorminus="0.014" errorplus="0.014">2.335</semimajoraxis>
+				<eccentricity errorminus="0.06" errorplus="0.06">0.11</eccentricity>
+				<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/11/19</lastupdate>
+				<new>1</new>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 104985</name>
 		<rightascension>12 05 15</rightascension>
 		<declination>+76 54 20</declination>
@@ -8460,43 +8502,58 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 11506</name>
-		<rightascension>01 52 51</rightascension>
-		<declination>-19 30 25</declination>
-		<distance>53.82</distance>
+		<rightascension>01 52 50.535</rightascension>
+		<declination>-19 30 25.11</declination>
+		<distance errorminus="1.6" errorplus="1.6">51.7</distance>
 		<star>
+			<name>HD 11506</name>
+			<name>HIP 8770</name>
+			<name>BD-20 358</name>
+			<name>PPM 210762</name>
+			<name>SAO 148079</name>
+			<name>TYC 5858-2028-1</name>
 			<mass>1.19</mass>
-			<radius>1.38</radius>
+			<radius errorminus="0.05" errorplus="0.05">1.33</radius>
 			<magV>7.51</magV>
 			<magB errorminus="0.01" errorplus="0.01">8.11</magB>
 			<metallicity>0.31</metallicity>
 			<spectraltype>G0V</spectraltype>
 			<planet>
 				<name>HD 11506 b</name>
+				<name>HIP 8770 b</name>
+				<name>BD-20 358 b</name>
+				<name>PPM 210762 b</name>
+				<name>SAO 148079 b</name>
+				<name>TYC 5858-2028-1 b</name>
 				<list>Confirmed planets</list>
-				<mass>3.44</mass>
-				<period>1270</period>
-				<semimajoraxis>2.43</semimajoraxis>
-				<eccentricity>0.22</eccentricity>
-				<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009).</description>
+				<mass errorminus="0.07" errorplus="0.07">4.21</mass>
+				<period errorminus="5.9" errorplus="5.9">1627.5</period>
+				<semimajoraxis errorminus="0.007" errorplus="0.007">2.708</semimajoraxis>
+				<eccentricity errorminus="0.01" errorplus="0.01">0.37</eccentricity>
+				<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009). The N2K campaign improves the data in 2014 with some further years of observations since the discovery.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/02/24</lastupdate>
+				<lastupdate>14/11/19</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>200.7</temperature>
 			</planet>
 			<planet>
 				<name>HD 11506 c</name>
+				<name>HIP 8770 c</name>
+				<name>BD-20 358 c</name>
+				<name>PPM 210762 c</name>
+				<name>SAO 148079 c</name>
+				<name>TYC 5858-2028-1 c</name>
 				<list>Confirmed planets</list>
-				<mass>0.82</mass>
-				<period>170.46</period>
-				<semimajoraxis>0.639</semimajoraxis>
-				<eccentricity>0.42</eccentricity>
-				<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009).</description>
+				<mass errorminus="0.02" errorplus="0.02">0.36</mass>
+				<period errorminus="0.6" errorplus="0.6">223.6</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.721</semimajoraxis>
+				<eccentricity errorminus="0.05" errorplus="0.05">0.24</eccentricity>
+				<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009). The N2K campaign improves the data in 2014 with some further years of observations since the discovery.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/02/24</lastupdate>
+				<lastupdate>14/11/19</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<temperature>388.0</temperature>
 			</planet>
-			<name>HD 11506</name>
 			<temperature>6058.0</temperature>
 		</star>
 	</system>
@@ -16685,32 +16742,64 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 5319</name>
-		<rightascension>00 55 01</rightascension>
-		<declination>+00 47 22</declination>
-		<distance>100</distance>
+		<rightascension>00 55 01.400</rightascension>
+		<declination>+00 47 22.40</declination>
+		<distance errorminus="11" errorplus="11">114</distance>
 		<star>
-			<mass>1.56</mass>
+			<name>HD 5319</name>
+			<name>HIP 4297</name>
+			<name>BD+00 142</name>
+			<name>PPM 144054</name>
+			<name>2MASS J00550140+0047223</name>
+			<name>SAO 109532</name>
+			<name>TYC 12-104-1</name>
+			<mass errorminus="0.11" errorplus="0.11">1.51</mass>
 			<radius>3.26</radius>
 			<magV>8.05</magV>
 			<magB>9.03</magB>
 			<magJ errorminus="0.027" errorplus="0.027">6.348</magJ>
 			<magH errorminus="0.044" errorplus="0.044">5.864</magH>
 			<magK errorminus="0.020" errorplus="0.020">5.699</magK>
-			<metallicity>0.15</metallicity>
+			<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
 			<spectraltype>G5IV</spectraltype>
 			<planet>
 				<name>HD 5319 b</name>
+				<name>HIP 4297 b</name>
+				<name>BD+00 142 b</name>
+				<name>PPM 144054 b</name>
+				<name>2MASS J00550140+0047223 b</name>
+				<name>SAO 109532 b</name>
+				<name>TYC 12-104-1 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.94</mass>
-				<period>675</period>
-				<semimajoraxis>1.75</semimajoraxis>
-				<eccentricity>0.12</eccentricity>
+				<mass errorminus="0.07" errorplus="0.07">1.76</mass>
+				<period errorminus="2" errorplus="2">641</period>
+				<semimajoraxis errorminus="0.0036" errorplus="0.0036">1.6697</semimajoraxis>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
+				<description>This planet was found in 2007. The N2K campain, designed to discover short-period planets, improved the data in 2014 using long-term observations.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>07/10/31</lastupdate>
+				<lastupdate>14/11/19</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>303.8</temperature>
 			</planet>
-			<name>HD 5319</name>
+			<planet>
+				<name>HD 5319 c</name>
+				<name>HIP 4297 c</name>
+				<name>BD+00 142 c</name>
+				<name>PPM 144054 c</name>
+				<name>2MASS J00550140+0047223 c</name>
+				<name>SAO 109532 c</name>
+				<name>TYC 12-104-1 c</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.08" errorplus="0.08">1.15</mass>
+				<period errorminus="8" errorplus="8">886</period>
+				<semimajoraxis errorminus="0.013" errorplus="0.013">2.071</semimajoraxis>
+				<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
+				<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+				<lastupdate>14/11/19</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
 			<temperature>5052.0</temperature>
 		</star>
 	</system>
@@ -17571,6 +17660,55 @@ Image credit: Vanessa Bailey</imagedescription>
 			</star>
 			<semimajoraxis>622</semimajoraxis>
 		</binary>
+	</system>
+	<system>
+		<name>HD 75784</name>
+		<rightascension>08 52 23.941</rightascension>
+		<declination>+13 14 00.37</declination>
+		<distance errorminus="6.2" errorplus="6.2">68.7</distance>
+		<star>
+			<name>HD 75784</name>
+			<name>HIP 43569</name>
+			<name>TYC 817-1748-1</name>
+			<name>2MASS J08522396+1314005</name>
+			<name>UCAC3 207-106082</name>
+			<name>PPM 125847</name>
+			<name>SAO 98188</name>
+			<name>BD+13 2007</name>
+			<magV>7.84</magV>
+			<magU>9.74</magU>
+			<magB>8.84</magB>
+			<magJ>6.092</magJ>
+			<magH>5.626</magH>
+			<magK>5.502</magK>
+			<mass errorminus="0.08" errorplus="0.08">1.41</mass>
+			<radius errorminus="0.3" errorplus="0.3">3.3</radius>
+			<temperature errorminus="44" errorplus="44">4917</temperature>
+			<metallicity errorminus="0.03" errorplus="0.03">0.25</metallicity>
+			<spectraltype>K3IV</spectraltype>
+			<age errorminus="0.7" errorplus="0.7">4.0</age>
+			<planet>
+				<name>HD 75784 b</name>
+				<name>HD 75784 b</name>
+				<name>HIP 43569 b</name>
+				<name>TYC 817-1748-1 b</name>
+				<name>2MASS J08522396+1314005 b</name>
+				<name>UCAC3 207-106082 b</name>
+				<name>PPM 125847 b</name>
+				<name>SAO 98188 b</name>
+				<name>BD+13 2007 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.30" errorplus="0.30">1.15</mass>
+				<period errorminus="6.1" errorplus="6.1">341.7</period>
+				<semimajoraxis errorminus="0.013" errorplus="0.013">1.073</semimajoraxis>
+				<eccentricity errorminus="0.1" errorplus="0.1">0.13</eccentricity>
+				<description>This planet was found by the N2K campain designed to discover short-period planets. HD 75784 is a star with high proper motion.</description>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+				<lastupdate>14/11/19</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>HD 75898</name>
@@ -32625,6 +32763,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<temperature>640.0</temperature>
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/02/25</lastupdate>
+				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -42685,6 +42826,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<temperature>608.0</temperature>
 				<list>Kepler Objects of Interest</list>
 				<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/02/25</lastupdate>
+				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -46162,7 +46306,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/10/22</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 			<planet>
@@ -46178,7 +46321,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/10/22</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -46519,8 +46661,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<distance errorminus="35" errorplus="35">470</distance>
 		<star>
 			<name>WASP-103</name>
-			<mass errorminus="0.036" errorplus="0.039">1.220</mass>
-			<radius errorminus="0.031" errorplus="0.052">1.436</radius>
+			<mass errorminus="0.089" errorplus="0.089">1.204</mass>
+			<radius errorminus="0.039" errorplus="0.039">1.419</radius>
 			<temperature errorminus="160" errorplus="160">6110</temperature>
 			<magV errorminus="0.01" errorplus="0.01">12.1</magV>
 			<metallicity errorminus="0.13" errorplus="0.13">0.06</metallicity>
@@ -46528,16 +46670,16 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<planet>
 				<name>WASP-103 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.088" errorplus="0.088">1.490</mass>
-				<radius errorminus="0.047" errorplus="0.073">1.528</radius>
+				<mass errorminus="0.11" errorplus="0.11">1.47</mass>
+				<radius errorminus="0.052" errorplus="0.052">1.603</radius>
 				<temperature errorminus="70" errorplus="75">2508</temperature>
 				<period errorminus="0.000019" errorplus="0.000019">0.925542</period>
-				<semimajoraxis errorminus="0.00021" errorplus="0.00021">0.01985</semimajoraxis>
+				<semimajoraxis errorminus="0.00049" errorplus="0.00049">0.01978</semimajoraxis>
 				<inclination errorminus="2.7" errorplus="2.7">86.3</inclination>
 				<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>14/05/15</lastupdate>
+				<lastupdate>14/11/11</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
@@ -50360,6 +50502,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<list>Confirmed planets</list>
 					<lastupdate>14/07/02</lastupdate>
 					<discoveryyear>2014</discoveryyear>
+					<discoverymethod>RV</discoverymethod>
 					<period errorminus="0.034" errorplus="0.034">18.157</period>
 					<eccentricity errorminus="0.035" errorplus="0.035">0.18</eccentricity>
 					<periastron errorminus="9.5" errorplus="9.5">311.0</periastron>
@@ -50374,6 +50517,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<list>Confirmed planets</list>
 					<lastupdate>14/07/02</lastupdate>
 					<discoveryyear>2014</discoveryyear>
+					<discoverymethod>RV</discoverymethod>
 					<period errorminus="0.34" errorplus="0.34">120.8</period>
 					<eccentricity errorminus="0.0098" errorplus="0.0094">0.1528</eccentricity>
 					<periastron errorminus="4.9" errorplus="4.9">264.5</periastron>
