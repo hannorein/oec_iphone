@@ -4,11 +4,11 @@
 	<id>WASP-103 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>1.490</mass>
-		<radius>1.528</radius>
+		<mass>1.47</mass>
+		<radius>1.603</radius>
 		<orbit>
 			<period>0.925542</period>
-			<semimajoraxis>0.01985</semimajoraxis>
+			<semimajoraxis>0.01978</semimajoraxis>
 			<eccentricity />
 			<inclination>86.3</inclination>
 			<periastron />
@@ -18,8 +18,8 @@
 	</properties>
 	<star>
 		<spectraltype>F8V</spectraltype>
-		<mass>1.220</mass>
-		<radius>1.436</radius>
+		<mass>1.204</mass>
+		<radius>1.419</radius>
 		<metallicity>0.06</metallicity>
 		<distance>470</distance>
 		<temperature>6110</temperature>
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/05/15</lastupdate>
+	<lastupdate>14/11/11</lastupdate>
 	<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
 	<new />
 	<image />

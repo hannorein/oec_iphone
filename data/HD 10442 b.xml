@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>HD 10442 b</id_exoplaneteu>
+	<name>HD 10442 b</name>
+	<name>TYC 32-383-1 b</name>
+	<name>PPM 144893 b</name>
+	<name>SAO 110073 b</name>
+	<name>2MASS J01415314+0242157 b</name>
+	<name>BD+01 306 b</name>
+	<id>HD 10442 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.10</mass>
+		<radius />
+		<orbit>
+			<period>1043</period>
+			<semimajoraxis>2.335</semimajoraxis>
+			<eccentricity>0.11</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2IV</spectraltype>
+		<mass>1.56</mass>
+		<radius />
+		<metallicity>0.11</metallicity>
+		<distance />
+		<temperature>5034</temperature>
+		<rightascension>01 41 53.142</rightascension>
+		<declination>+02 42 15.77</declination>
+		<angulardistance />
+		<magV>7.84</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/11/19</lastupdate>
+	<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

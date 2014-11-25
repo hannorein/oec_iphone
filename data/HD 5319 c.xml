@@ -1,21 +1,21 @@
 <planet>
-	<id_exoplaneteu>HD 5319 b</id_exoplaneteu>
-	<name>HD 5319 b</name>
-	<name>HIP 4297 b</name>
-	<name>BD+00 142 b</name>
-	<name>PPM 144054 b</name>
-	<name>2MASS J00550140+0047223 b</name>
-	<name>SAO 109532 b</name>
-	<name>TYC 12-104-1 b</name>
-	<id>HD 5319 b</id>
+	<id_exoplaneteu>HD 5319 c</id_exoplaneteu>
+	<name>HD 5319 c</name>
+	<name>HIP 4297 c</name>
+	<name>BD+00 142 c</name>
+	<name>PPM 144054 c</name>
+	<name>2MASS J00550140+0047223 c</name>
+	<name>SAO 109532 c</name>
+	<name>TYC 12-104-1 c</name>
+	<id>HD 5319 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1.76</mass>
+		<mass>1.15</mass>
 		<radius />
 		<orbit>
-			<period>641</period>
-			<semimajoraxis>1.6697</semimajoraxis>
-			<eccentricity>0.02</eccentricity>
+			<period>886</period>
+			<semimajoraxis>2.071</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -39,10 +39,10 @@
 		<magK />
 	</star>
 	<multiplicity>2</multiplicity>
-	<discoveryyear>2007</discoveryyear>
+	<discoveryyear>2014</discoveryyear>
 	<lastupdate>14/11/19</lastupdate>
-	<description>This planet was found in 2007. The N2K campain, designed to discover short-period planets, improved the data in 2014 using long-term observations.</description>
-	<new />
+	<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

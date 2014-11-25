@@ -1,0 +1,51 @@
+<planet>
+	<id_exoplaneteu>HD 75784 b</id_exoplaneteu>
+	<name>HD 75784 b</name>
+	<name>HD 75784 b</name>
+	<name>HIP 43569 b</name>
+	<name>TYC 817-1748-1 b</name>
+	<name>2MASS J08522396+1314005 b</name>
+	<name>UCAC3 207-106082 b</name>
+	<name>PPM 125847 b</name>
+	<name>SAO 98188 b</name>
+	<name>BD+13 2007 b</name>
+	<id>HD 75784 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.15</mass>
+		<radius />
+		<orbit>
+			<period>341.7</period>
+			<semimajoraxis>1.073</semimajoraxis>
+			<eccentricity>0.13</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K3IV</spectraltype>
+		<mass>1.41</mass>
+		<radius>3.3</radius>
+		<metallicity>0.25</metallicity>
+		<distance>68.7</distance>
+		<temperature>4917</temperature>
+		<rightascension>08 52 23.941</rightascension>
+		<declination>+13 14 00.37</declination>
+		<angulardistance />
+		<magV>7.84</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/11/19</lastupdate>
+	<description>This planet was found by the N2K campain designed to discover short-period planets. HD 75784 is a star with high proper motion.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
