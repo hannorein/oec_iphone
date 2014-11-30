@@ -1,4 +1,4 @@
-<planets date="2014-11-25" name="data" planets="1874">
+<planets date="2014-11-30" name="data" planets="1878">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2320,6 +2320,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/05/24</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -2350,6 +2351,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
+		<lastupdate>13/05/24</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -3540,6 +3542,150 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/31</lastupdate>
 		<description>Gliese 328 b is an eccentric two Jupiter-mass planet with an orbital period of eleven years. The discovery is based on ten years' worth of radial velocity data from the Hobby-Eberly and Harlan J. Smith telescopes at McDonald Observatory, and from the Keck Telescope at Mauna Kea. It is currently the most massive, longest-period planet discovered around a low-mass dwarf.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 3293 b</id_exoplaneteu>
+		<name>Gliese 3293 b</name>
+		<name>GJ 3293 b</name>
+		<name>LHS 1672 b</name>
+		<name>2MASS J04283571-2510088 b</name>
+		<name>PM 04265-2516 b</name>
+		<name>RAVE J042835.7-251009 b</name>
+		<id>Gliese 3293 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.076</mass>
+			<orbit>
+				<period>30.60</period>
+				<semimajoraxis>0.1434</semimajoraxis>
+				<eccentricity>0.09</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5</spectraltype>
+			<mass>0.42</mass>
+			<radius>0.404</radius>
+			<metallicity>0.02</metallicity>
+			<distance>18.2</distance>
+			<temperature>3466</temperature>
+			<rightascension>04 28 35.72</rightascension>
+			<declination>-25 10 08.9</declination>
+			<magV>11.962</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/11/25</lastupdate>
+		<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 3293 c</id_exoplaneteu>
+		<name>Gliese 3293 c</name>
+		<name>GJ 3293 c</name>
+		<name>LHS 1672 c</name>
+		<name>2MASS J04283571-2510088 c</name>
+		<name>PM 04265-2516 c</name>
+		<name>RAVE J042835.7-251009 c</name>
+		<id>Gliese 3293 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.027</mass>
+			<orbit>
+				<period>48.14</period>
+				<semimajoraxis>0.1939</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5</spectraltype>
+			<mass>0.42</mass>
+			<radius>0.404</radius>
+			<metallicity>0.02</metallicity>
+			<distance>18.2</distance>
+			<temperature>3466</temperature>
+			<rightascension>04 28 35.72</rightascension>
+			<declination>-25 10 08.9</declination>
+			<magV>11.962</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/11/25</lastupdate>
+		<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+		<new>1</new>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 3293 d</id_exoplaneteu>
+		<name>Gliese 3293 d</name>
+		<name>GJ 3293 d</name>
+		<name>LHS 1672 d</name>
+		<name>2MASS J04283571-2510088 d</name>
+		<name>PM 04265-2516 d</name>
+		<name>RAVE J042835.7-251009 d</name>
+		<id>Gliese 3293 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.07</mass>
+			<orbit>
+				<period>123.98</period>
+				<semimajoraxis>0.3644</semimajoraxis>
+				<eccentricity>0.37</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5</spectraltype>
+			<mass>0.42</mass>
+			<radius>0.404</radius>
+			<metallicity>0.02</metallicity>
+			<distance>18.2</distance>
+			<temperature>3466</temperature>
+			<rightascension>04 28 35.72</rightascension>
+			<declination>-25 10 08.9</declination>
+			<magV>11.962</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/11/25</lastupdate>
+		<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Gliese 3341 b</id_exoplaneteu>
+		<name>Gliese 3341 b</name>
+		<name>GJ 3341 b</name>
+		<name>LHS 1748 b</name>
+		<name>2MASS J05154667-3117456 b</name>
+		<name>PM 05138-3121 b</name>
+		<name>RAVE J051546.7-311746 b</name>
+		<id>Gliese 3341 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.02</mass>
+			<orbit>
+				<period>14.207</period>
+				<semimajoraxis>0.089</semimajoraxis>
+				<eccentricity>0.31</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5</spectraltype>
+			<mass>0.47</mass>
+			<radius>0.439</radius>
+			<metallicity>-0.09</metallicity>
+			<distance>23.2</distance>
+			<temperature>3546</temperature>
+			<rightascension>05 15 46.68</rightascension>
+			<declination>-31 17 46.6</declination>
+			<magV>12.080</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/11/25</lastupdate>
+		<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -7571,7 +7717,6 @@ Credit: ESO/L. Calcada</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/19</lastupdate>
 		<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -16998,7 +17143,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/19</lastupdate>
 		<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -17972,7 +18116,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/19</lastupdate>
 		<description>This planet was found by the N2K campain designed to discover short-period planets. HD 75784 is a star with high proper motion.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48342,6 +48485,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
+		<lastupdate>14/01/06</lastupdate>
 		<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -48369,6 +48513,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
+		<lastupdate>14/01/06</lastupdate>
 		<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -48396,6 +48541,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
+		<lastupdate>14/01/06</lastupdate>
 		<description>The KOI-1781 system was discovered by the Kepler spacecraft. This third planet candidate in the system has not been confirmed yet.</description>
 		<list>Controversial</list>
 	</planet>
@@ -48509,6 +48655,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
+		<lastupdate>13/07/15</lastupdate>
 		<list>Controversial</list>
 	</planet>
 	<planet>
