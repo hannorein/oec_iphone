@@ -1,4 +1,4 @@
-<systems name="systems" planets="1874">
+<systems name="systems" planets="1879">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2362,6 +2362,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2013</discoveryyear>
 				<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454576.2156</transittime>
+				<lastupdate>13/05/24</lastupdate>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -2396,6 +2397,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2013</discoveryyear>
 				<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454573.6299</transittime>
+				<lastupdate>13/05/24</lastupdate>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -3723,6 +3725,136 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>13/07/31</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Gliese 3293</name>
+		<rightascension>04 28 35.72</rightascension>
+		<declination>-25 10 08.9</declination>
+		<distance errorminus="2.6" errorplus="2.6">18.2</distance>
+		<star>
+			<name>Gliese 3293</name>
+			<name>GJ 3293</name>
+			<name>LHS 1672</name>
+			<name>2MASS J04283571-2510088</name>
+			<name>PM 04265-2516</name>
+			<name>RAVE J042835.7-251009</name>
+			<mass>0.42</mass>
+			<radius errorminus="0.027" errorplus="0.027">0.404</radius>
+			<magV>11.962</magV>
+			<magB>13.6</magB>
+			<magJ errorminus="0.024" errorplus="0.024">8.362</magJ>
+			<magH errorminus="0.038" errorplus="0.038">7.749</magH>
+			<magK errorminus="0.033" errorplus="0.033">7.486</magK>
+			<metallicity errorminus="0.09" errorplus="0.09">0.02</metallicity>
+			<spectraltype>M2.5</spectraltype>
+			<temperature errorminus="49" errorplus="49">3466</temperature>
+			<planet>
+				<name>Gliese 3293 b</name>
+				<name>GJ 3293 b</name>
+				<name>LHS 1672 b</name>
+				<name>2MASS J04283571-2510088 b</name>
+				<name>PM 04265-2516 b</name>
+				<name>RAVE J042835.7-251009 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.005" errorplus="0.005">0.076</mass>
+				<period errorminus="0.02" errorplus="0.02">30.60</period>
+				<transittime errorminus="1.9" errorplus="1.9">2455640.3</transittime>
+				<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+				<semimajoraxis>0.1434</semimajoraxis>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
+				<istransiting>0</istransiting>
+				<new>1</new>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/11/25</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+			<planet>
+				<name>Gliese 3293 d</name>
+				<name>GJ 3293 d</name>
+				<name>LHS 1672 d</name>
+				<name>2MASS J04283571-2510088 d</name>
+				<name>PM 04265-2516 d</name>
+				<name>RAVE J042835.7-251009 d</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.005" errorplus="0.005">0.07</mass>
+				<period errorminus="0.38" errorplus="0.38">123.98</period>
+				<transittime errorminus="3.7" errorplus="3.7">2455684.9</transittime>
+				<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+				<semimajoraxis>0.3644</semimajoraxis>
+				<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
+				<new>1</new>
+				<istransiting>0</istransiting>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/11/25</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+			<planet>
+				<name>Gliese 3293 c</name>
+				<name>GJ 3293 c</name>
+				<name>LHS 1672 c</name>
+				<name>2MASS J04283571-2510088 c</name>
+				<name>PM 04265-2516 c</name>
+				<name>RAVE J042835.7-251009 c</name>
+				<list>Controversial</list>
+				<mass errorminus="0.005" errorplus="0.005">0.027</mass>
+				<period errorminus="0.12" errorplus="0.12">48.14</period>
+				<transittime errorminus="6.0" errorplus="6.0">2455643.3</transittime>
+				<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+				<semimajoraxis>0.1939</semimajoraxis>
+				<eccentricity errorminus="0.16" errorplus="0.16">0.13</eccentricity>
+				<istransiting>0</istransiting>
+				<new>1</new>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/11/25</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Gliese 3341</name>
+		<rightascension>05 15 46.68</rightascension>
+		<declination>-31 17 46.6</declination>
+		<distance errorminus="0.7" errorplus="0.7">23.2</distance>
+		<star>
+			<name>Gliese 3341</name>
+			<name>GJ 3341</name>
+			<name>LHS 1748</name>
+			<name>2MASS J05154667-3117456</name>
+			<name>PM 05138-3121</name>
+			<name>RAVE J051546.7-311746</name>
+			<mass>0.47</mass>
+			<radius errorminus="0.027" errorplus="0.027">0.439</radius>
+			<magV>12.080</magV>
+			<magB>13.58</magB>
+			<magR>11.07</magR>
+			<magI>9.82</magI>
+			<magJ errorminus="0.020" errorplus="0.020">8.592</magJ>
+			<magH errorminus="0.049" errorplus="0.049">7.990</magH>
+			<magK errorminus="0.023" errorplus="0.023">7.733</magK>
+			<metallicity errorminus="0.09" errorplus="0.09">-0.09</metallicity>
+			<spectraltype>M2.5</spectraltype>
+			<temperature errorminus="49" errorplus="49">3546</temperature>
+			<planet>
+				<name>Gliese 3341 b</name>
+				<name>GJ 3341 b</name>
+				<name>LHS 1748 b</name>
+				<name>2MASS J05154667-3117456 b</name>
+				<name>PM 05138-3121 b</name>
+				<name>RAVE J051546.7-311746 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.003" errorplus="0.003">0.02</mass>
+				<period errorminus="0.007" errorplus="0.007">14.207</period>
+				<transittime errorminus="0.8" errorplus="0.8">2455622.7</transittime>
+				<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
+				<semimajoraxis>0.089</semimajoraxis>
+				<eccentricity errorminus="0.11" errorplus="0.11">0.31</eccentricity>
+				<istransiting>0</istransiting>
+				<new>1</new>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/11/25</lastupdate>
+				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
 	</system>
@@ -7688,7 +7820,6 @@ Credit: ESO/L. Calcada</imagedescription>
 				<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/19</lastupdate>
-				<new>1</new>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
@@ -16796,7 +16927,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
 				<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 				<discoverymethod>RV</discoverymethod>
-				<new>1</new>
 				<lastupdate>14/11/19</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
@@ -17704,7 +17834,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<eccentricity errorminus="0.1" errorplus="0.1">0.13</eccentricity>
 				<description>This planet was found by the N2K campain designed to discover short-period planets. HD 75784 is a star with high proper motion.</description>
 				<discoverymethod>RV</discoverymethod>
-				<new>1</new>
 				<lastupdate>14/11/19</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
@@ -42386,6 +42515,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<transittime unit="BJD">2454970.1027</transittime>
 				<eccentricity upperlimit="0.35">0.00</eccentricity>
 				<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
+				<lastupdate>14/01/06</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
@@ -42401,6 +42531,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<transittime unit="BJD">2454968.2206</transittime>
 				<eccentricity upperlimit="0.66">0.00</eccentricity>
 				<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
+				<lastupdate>14/01/06</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
@@ -42416,6 +42547,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<transittime unit="BJD">2454984.8476</transittime>
 				<eccentricity upperlimit="0.38">0.00</eccentricity>
 				<description>The KOI-1781 system was discovered by the Kepler spacecraft. This third planet candidate in the system has not been confirmed yet.</description>
+				<lastupdate>14/01/06</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
@@ -42489,6 +42621,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<semimajoraxis>0.0048</semimajoraxis>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2012</discoveryyear>
+				<lastupdate>13/07/15</lastupdate>
 				<istransiting>1</istransiting>
 			</planet>
 			<planet>
@@ -44304,6 +44437,31 @@ Image credit: Joe Gallagher</imagedescription>
 				<imagedescription>This plot shows the light curve of the OGLE-2011-BLG-0251 microlensing event. The main magnification is due to the host star, only the tiny perturbation near the peak is the signal caused by the planet.
 			
 Credit: Kains et al (2013).</imagedescription>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>OGLE-2011-BLG-0265L</name>
+		<rightascension>17 57 47.72</rightascension>
+		<declination>-27 23 40.3</declination>
+		<star>
+			<mass errorminus="0.07" errorplus="0.07">0.23</mass>
+			<magV>20.54</magV>
+			<magI>17.51</magI>
+			<spectraltype>M3.5</spectraltype>
+			<name>OGLE-2012-BLG-0026L</name>
+			<name>MOA-2011-BLG-197</name>
+			<planet>
+				<name>OGLE-2012-BLG-0026L b</name>
+				<name>MOA-2011-BLG-197 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.3" errorplus="0.3">1.0</mass>
+				<semimajoraxis>2.0</semimajoraxis>
+				<description>A cold Jupiter orbits an M-dwarf star that gave rise to the microlensing event OGLE-2011-BLG-0265. The preferred solution out of two host star/planet configurations is presented here.</description>
+				<discoverymethod>microlensing</discoverymethod>
+				<new>1</new>
+				<lastupdate>14/10/30</lastupdate>
+				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
 	</system>
