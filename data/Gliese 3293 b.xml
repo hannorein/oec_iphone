@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>Gliese 3293 b</id_exoplaneteu>
+	<name>Gliese 3293 b</name>
+	<name>GJ 3293 b</name>
+	<name>LHS 1672 b</name>
+	<name>2MASS J04283571-2510088 b</name>
+	<name>PM 04265-2516 b</name>
+	<name>RAVE J042835.7-251009 b</name>
+	<id>Gliese 3293 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.076</mass>
+		<radius />
+		<orbit>
+			<period>30.60</period>
+			<semimajoraxis>0.1434</semimajoraxis>
+			<eccentricity>0.09</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2.5</spectraltype>
+		<mass>0.42</mass>
+		<radius>0.404</radius>
+		<metallicity>0.02</metallicity>
+		<distance>18.2</distance>
+		<temperature>3466</temperature>
+		<rightascension>04 28 35.72</rightascension>
+		<declination>-25 10 08.9</declination>
+		<angulardistance />
+		<magV>11.962</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/11/25</lastupdate>
+	<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

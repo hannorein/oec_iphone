@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>Gliese 3341 b</id_exoplaneteu>
+	<name>Gliese 3341 b</name>
+	<name>GJ 3341 b</name>
+	<name>LHS 1748 b</name>
+	<name>2MASS J05154667-3117456 b</name>
+	<name>PM 05138-3121 b</name>
+	<name>RAVE J051546.7-311746 b</name>
+	<id>Gliese 3341 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.02</mass>
+		<radius />
+		<orbit>
+			<period>14.207</period>
+			<semimajoraxis>0.089</semimajoraxis>
+			<eccentricity>0.31</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2.5</spectraltype>
+		<mass>0.47</mass>
+		<radius>0.439</radius>
+		<metallicity>-0.09</metallicity>
+		<distance>23.2</distance>
+		<temperature>3546</temperature>
+		<rightascension>05 15 46.68</rightascension>
+		<declination>-31 17 46.6</declination>
+		<angulardistance />
+		<magV>12.080</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/11/25</lastupdate>
+	<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
