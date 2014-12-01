@@ -41,12 +41,13 @@ def traverse(node):  #remove empty elements
 
 def convertseparationtosemimajoraxis(planettree):
     binaries = planettree.findall(".//binary")
-    for binary in binaries:
-        semia = binary.findall("./semimajoraxis")
+    planets  = planettree.findall(".//planet")
+    for obj in binaries+planets:
+        semia = obj.findall("./semimajoraxis")
         if not semia or len(semia)==0:
-            sep = binary.findall("./separation[@unit='AU']")
+            sep = obj.findall("./separation[@unit='AU']")
             if sep and len(sep) ==1:
-                ElementTree.SubElement(binary,"semimajoraxis").text = sep[0].text
+                ElementTree.SubElement(obj,"semimajoraxis").text = sep[0].text
 
 
 def databasesystems(name,description,inputdirectories):

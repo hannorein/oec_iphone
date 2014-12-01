@@ -252,6 +252,7 @@
 				<discoveryyear>2008</discoveryyear>
 				<image>1RXS1609</image>
 				<imagedescription>This image of the host star and the planet was taken with the Gemini North telescope and released in September 2008. Credit: Gemini Observatory.</imagedescription>
+				<semimajoraxis>330</semimajoraxis>
 			</planet>
 			<temperature>4060.0</temperature>
 		</star>
@@ -326,6 +327,7 @@
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>10/04/06</lastupdate>
 				<discoveryyear>2010</discoveryyear>
+				<semimajoraxis>15</semimajoraxis>
 			</planet>
 			<name>2M 044144</name>
 			<name>2MASS J04414489+2301513</name>
@@ -446,6 +448,7 @@
 				<discoveryyear>2004</discoveryyear>
 				<image>2M1207</image>
 				<imagedescription>This image shows the brown dwarf 2M1207 and a planetary companion (lower left). It was the first image of an extrasolar planet and has been published 2004. Credit: ESO.</imagedescription>
+				<semimajoraxis>46</semimajoraxis>
 			</planet>
 			<name>2M1207</name>
 			<name>2MASS J12073346-3932539</name>
@@ -1137,6 +1140,7 @@
 				<discoveryyear>2005</discoveryyear>
 				<image>AB Pic</image>
 				<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
+				<semimajoraxis>260</semimajoraxis>
 			</planet>
 			<name>AB Pic</name>
 			<temperature>4875.0</temperature>
@@ -1707,6 +1711,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2006</discoveryyear>
 				<image>CHXR 73</image>
 				<imagedescription>This image shows the red dwarf CHXR 73 A and its companion CHXR 73 b on the lower right. The image was obtained with the Hubble Space Telescope. Credit: NASA, ESA, and K. Luhman (Pennsylvania State University).</imagedescription>
+				<semimajoraxis>210</semimajoraxis>
 			</planet>
 			<name>CHXR 73</name>
 			<temperature>3840.0</temperature>
@@ -2753,6 +2758,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2008</discoveryyear>
 				<image>CT Cha</image>
 				<imagedescription>This image shows the young star CT Cha and a companion (on the right). Due to its large mass it is currently unclear if the companion is a planet or brown dwarf. Credit: Tobias Schmidt (AIU Jena).</imagedescription>
+				<semimajoraxis>440</semimajoraxis>
 			</planet>
 			<name>CT Cha</name>
 			<temperature>5150.0</temperature>
@@ -2790,6 +2796,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2005</discoveryyear>
 				<image>DH Tau</image>
 				<imagedescription>This image shows the companion to the star DH Tauri on the lower left. The star itself has been masked to enhance the contrast. Credit: Subaru Telescope, National Astronomical Observatory of Japan.</imagedescription>
+				<semimajoraxis>328.2</semimajoraxis>
 			</planet>
 			<name>DH Tau</name>
 			<temperature>3840.0</temperature>
@@ -3128,6 +3135,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>11/09/19</lastupdate>
 				<discoveryyear>2009</discoveryyear>
+				<semimajoraxis>800</semimajoraxis>
 			</planet>
 			<name>FU Tau</name>
 			<temperature>2838.0</temperature>
@@ -3180,6 +3188,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<lastupdate>13/12/02</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<list>Planets in binary systems, P-type</list>
+				<semimajoraxis>330</semimajoraxis>
 			</planet>
 			<semimajoraxis>11</semimajoraxis>
 		</binary>
@@ -4097,6 +4106,7 @@ Credit: Joe Gallagher.</imagedescription>
 				<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
 			
 Credit: Kuzuhara et al. (2013).</imagedescription>
+				<semimajoraxis>43.5</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -5029,6 +5039,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<discoveryyear>2005</discoveryyear>
 				<image>GQ Lupi</image>
 				<imagedescription>This image show the star GQ Lupi and a planetary companion on the right. It was taken with NOCA on VLT. The planetary companion is about 250 dimmer than the star. Credit: ESO.</imagedescription>
+				<semimajoraxis>103</semimajoraxis>
 			</planet>
 			<name>GQ Lup</name>
 			<temperature>5150.0</temperature>
@@ -5067,6 +5078,7 @@ Credit: Jonah Gallagher.</imagedescription>
 				<discoveryyear>2010</discoveryyear>
 				<image>GSC 06214-00210</image>
 				<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
+				<semimajoraxis>320</semimajoraxis>
 			</planet>
 			<temperature>3840.0</temperature>
 		</star>
@@ -5108,6 +5120,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>14/05/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
+				<semimajoraxis>2000</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -8018,6 +8031,7 @@ Credit: ESO/L. Calcada</imagedescription>
 				<imagedescription>Discovery image of HD 106906 b in thermal infrared light from MagAO/Clio2. The images has been processed to remove the bright light from the host star. 
 
 Image credit: Vanessa Bailey</imagedescription>
+				<semimajoraxis>650</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -18849,6 +18863,7 @@ Credit: ESO/J. Rameau</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>13/10/28</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+				<semimajoraxis>56.4</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -19658,6 +19673,7 @@ Credit: ESO/J. Rameau</imagedescription>
 				<discoveryyear>2011</discoveryyear>
 				<image>HIP 78530</image>
 				<imagedescription>This image shows the star HIP 78530 with its companion in the lower left corner. The companion's mass is most likely too large to be a planet. Credit: David Lafreniere (University of Montreal).</imagedescription>
+				<semimajoraxis>710</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -19752,6 +19768,7 @@ Credit: ESO/J. Rameau</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>11/04/23</lastupdate>
 				<discoveryyear>2007</discoveryyear>
+				<semimajoraxis>795</semimajoraxis>
 			</planet>
 			<name>HN Peg</name>
 			<temperature>5940.0</temperature>
@@ -19983,6 +20000,7 @@ Credit: ESO/J. Rameau</imagedescription>
 			
 Credit: J. Carson et al 2012.</imagedescription>
 				<name>Kappa Andromedae b</name>
+				<semimajoraxis>61</semimajoraxis>
 			</planet>
 			<name>Kappa Andromedae</name>
 		</star>
@@ -43482,6 +43500,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>11/10/19</lastupdate>
 				<discoveryyear>2011</discoveryyear>
+				<semimajoraxis>15.7</semimajoraxis>
 			</planet>
 			<name>LkCa 15</name>
 			<temperature>5150.0</temperature>
@@ -45015,6 +45034,7 @@ Credit: Kains et al (2013).</imagedescription>
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>11/12/14</lastupdate>
 				<discoveryyear>2007</discoveryyear>
+				<semimajoraxis>275</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -45492,6 +45512,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>11/08/11</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<list>Planets in binary systems, P-type</list>
+				<semimajoraxis>1168</semimajoraxis>
 			</planet>
 			<semimajoraxis>5.4</semimajoraxis>
 		</binary>
@@ -45570,6 +45591,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			
 Credit: Thayne Currie.</imagedescription>
 				<list>Planets in binary systems, P-type</list>
+				<semimajoraxis>140</semimajoraxis>
 			</planet>
 		</binary>
 	</system>
@@ -45684,6 +45706,7 @@ Credit: ESO/L. Calcada</imagedescription>
 				<lastupdate>11/03/08</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<list>Planets in binary systems, P-type</list>
+				<semimajoraxis>1083</semimajoraxis>
 			</planet>
 			<semimajoraxis>35</semimajoraxis>
 		</binary>
@@ -46750,6 +46773,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoveryyear>2007</discoveryyear>
 				<image>UScoCTIO 108</image>
 				<imagedescription>This composite color image shows UScoCTIO 108 together with its companion. Credit: V.J.S. Bejar, Telescopio Nazionale Galileo, William Herschel Telescope.</imagedescription>
+				<semimajoraxis>670</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -50619,6 +50643,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>imaging</discoverymethod>
 				<lastupdate>11/04/22</lastupdate>
 				<discoveryyear>2011</discoveryyear>
+				<semimajoraxis>2500</semimajoraxis>
 			</planet>
 			<name>WD 0806-661</name>
 			<name>GJ 3483</name>
