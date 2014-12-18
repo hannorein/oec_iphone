@@ -1,4 +1,4 @@
-<systems name="systems" planets="1879">
+<systems name="systems" planets="1880">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3765,7 +3765,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.1434</semimajoraxis>
 				<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
 				<istransiting>0</istransiting>
-				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -3784,7 +3783,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 				<semimajoraxis>0.3644</semimajoraxis>
 				<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
-				<new>1</new>
 				<istransiting>0</istransiting>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
@@ -3805,7 +3803,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.1939</semimajoraxis>
 				<eccentricity errorminus="0.16" errorplus="0.16">0.13</eccentricity>
 				<istransiting>0</istransiting>
-				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -3851,7 +3848,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.089</semimajoraxis>
 				<eccentricity errorminus="0.11" errorplus="0.11">0.31</eccentricity>
 				<istransiting>0</istransiting>
-				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -19220,6 +19216,37 @@ Credit: ESO/J. Rameau</imagedescription>
 			</planet>
 			<name>HD 99706</name>
 			<temperature>4932.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HIP 116454</name>
+		<distance errorminus="5.4" errorplus="5.4">55.2</distance>
+		<star>
+			<name>HIP 116454</name>
+			<mass errorminus="0.027" errorplus="0.027">0.775</mass>
+			<radius errorminus="0.024" errorplus="0.024">0.716</radius>
+			<temperature errorminus="50" errorplus="50">5089</temperature>
+			<magV>10.1</magV>
+			<metallicity errorminus="0.08" errorplus="0.08">-0.16</metallicity>
+			<spectraltype>K</spectraltype>
+			<planet>
+				<name>HIP 116454 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.004184" errorplus="0.004184">0.037182</mass>
+				<radius errorminus="0.016403" errorplus="0.016403">0.230560</radius>
+				<temperature errorminus="14" errorplus="14">690</temperature>
+				<period errorminus="0.0005" errorplus="0.0005">9.1205</period>
+				<eccentricity errorminus="0.072" errorplus="0.072">0.205</eccentricity>
+				<inclination errorminus="0.4" errorplus="0.4">88.43</inclination>
+				<periastron errorminus="16.7" errorplus="16.7">-59.1</periastron>
+				<new>1</new>
+				<description>HIP 116454 b is the first planet discovered by the Kepler spacecraft during its extended K2 mission. The planet is about two and a half times the size of Earth and only 55.2 parsec away. This makes it a top target for follow-up observations.</description>
+				<transittime errorminus="0.03" errorplus="0.03" unit="BJD">2456907.89</transittime>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>14/12/18</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -44450,17 +44477,16 @@ Credit: Kains et al (2013).</imagedescription>
 			<magV>20.54</magV>
 			<magI>17.51</magI>
 			<spectraltype>M3.5</spectraltype>
-			<name>OGLE-2012-BLG-0026L</name>
+			<name>OGLE-2011-BLG-0265L</name>
 			<name>MOA-2011-BLG-197</name>
 			<planet>
-				<name>OGLE-2012-BLG-0026L b</name>
+				<name>OGLE-2011-BLG-0265L b</name>
 				<name>MOA-2011-BLG-197 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.3" errorplus="0.3">1.0</mass>
 				<semimajoraxis>2.0</semimajoraxis>
 				<description>A cold Jupiter orbits an M-dwarf star that gave rise to the microlensing event OGLE-2011-BLG-0265. The preferred solution out of two host star/planet configurations is presented here.</description>
 				<discoverymethod>microlensing</discoverymethod>
-				<new>1</new>
 				<lastupdate>14/11/30</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
