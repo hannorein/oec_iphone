@@ -1,4 +1,4 @@
-<planets date="2014-11-30" name="data" planets="1878">
+<planets date="2014-12-18" name="data" planets="1880">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -3577,7 +3577,6 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/25</lastupdate>
 		<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -3613,7 +3612,6 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/25</lastupdate>
 		<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
-		<new>1</new>
 		<list>Controversial</list>
 	</planet>
 	<planet>
@@ -3649,7 +3647,6 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/25</lastupdate>
 		<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -3685,7 +3682,6 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/11/25</lastupdate>
 		<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -19422,6 +19418,37 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>12/07/24</lastupdate>
 		<description>The star HD 99706 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 116454 b</id_exoplaneteu>
+		<name>HIP 116454 b</name>
+		<id>HIP 116454 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.037182</mass>
+			<radius>0.230560</radius>
+			<orbit>
+				<period>9.1205</period>
+				<eccentricity>0.205</eccentricity>
+				<inclination>88.43</inclination>
+				<periastron>-59.1</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.775</mass>
+			<radius>0.716</radius>
+			<metallicity>-0.16</metallicity>
+			<distance>55.2</distance>
+			<temperature>5089</temperature>
+			<magV>10.1</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/12/18</lastupdate>
+		<description>HIP 116454 b is the first planet discovered by the Kepler spacecraft during its extended K2 mission. The planet is about two and a half times the size of Earth and only 55.2 parsec away. This makes it a top target for follow-up observations.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -50684,6 +50711,32 @@ Image credit: Joe Gallagher</imagedescription>
 		<imagedescription>This plot shows the light curve of the OGLE-2011-BLG-0251 microlensing event. The main magnification is due to the host star, only the tiny perturbation near the peak is the signal caused by the planet.
 			
 Credit: Kains et al (2013).</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2011-BLG-0265L b</id_exoplaneteu>
+		<name>OGLE-2011-BLG-0265L b</name>
+		<name>MOA-2011-BLG-197 b</name>
+		<id>OGLE-2011-BLG-0265L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>1.0</mass>
+			<orbit>
+				<semimajoraxis>2.0</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3.5</spectraltype>
+			<mass>0.23</mass>
+			<distance>3500</distance>
+			<rightascension>17 57 47.72</rightascension>
+			<declination>-27 23 40.3</declination>
+			<magV>20.54</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>14/11/30</lastupdate>
+		<description>A cold Jupiter orbits an M-dwarf star that gave rise to the microlensing event OGLE-2011-BLG-0265. The preferred solution out of two host star/planet configurations is presented here.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
