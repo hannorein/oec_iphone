@@ -8,13 +8,13 @@
 	<id>Kepler-117 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.71173</radius>
+		<mass>0.094</mass>
+		<radius>0.719</radius>
 		<orbit>
-			<period>18.795952</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<period>18.7959228</period>
+			<semimajoraxis>0.1445</semimajoraxis>
+			<eccentricity>0.0493</eccentricity>
+			<inclination>88.74</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -22,11 +22,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.1790</mass>
-		<radius>1.471</radius>
-		<metallicity />
-		<distance>1352.97</distance>
-		<temperature>6169</temperature>
+		<mass>1.129</mass>
+		<radius>1.606</radius>
+		<metallicity>-0.04</metallicity>
+		<distance>1430</distance>
+		<temperature>6150</temperature>
 		<rightascension>19 15 10</rightascension>
 		<declination>+48 02 24</declination>
 		<angulardistance />
@@ -38,8 +38,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
-	<description>Kepler-117 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-117 b are still unknown, the object is highly unlikely to be a false positive.</description>
+	<lastupdate>14/11/17</lastupdate>
+	<description>Kepler-117 b has been discovered by the Kepler spacecraft and is the innermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>Kepler-296 Af</id_exoplaneteu>
+	<name>Kepler-296 Af</name>
+	<name>KOI-1422 Af</name>
+	<name>KOI-1422.04 Af</name>
+	<name>KIC 11497958 Af</name>
+	<name>KIC 11497958.04 Af</name>
+	<name>2MASS J19060960+4926143 Af</name>
+	<id>Kepler-296 Af</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.0186</mass>
+		<radius>0.2145</radius>
+		<orbit>
+			<period>63.335879</period>
+			<semimajoraxis>0.266</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2V</spectraltype>
+		<mass>0.626</mass>
+		<radius>0.595</radius>
+		<metallicity />
+		<distance>558.5</distance>
+		<temperature>3821</temperature>
+		<rightascension>19 06 09.602</rightascension>
+		<declination>+49 26 14.37</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/07/03</lastupdate>
+	<description>Kepler-296 Af has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Af are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A. In case of orbiting component B, this planet would reside in a habitable zone.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Planets in binary systems, S-type</list>
+</planet>

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-85 A b</id_exoplaneteu>
+	<name>WASP-85 A b</name>
+	<id>WASP-85 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.22</mass>
+		<radius>1.48</radius>
+		<orbit>
+			<period>2.6556734</period>
+			<semimajoraxis>0.0382</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.72</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>1.04</mass>
+		<radius>0.96</radius>
+		<metallicity>0.08</metallicity>
+		<distance>128</distance>
+		<temperature>5685</temperature>
+		<rightascension>11 43 38.01</rightascension>
+		<declination>+06 33 49.4</declination>
+		<angulardistance />
+		<magV>11.2</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/12/30</lastupdate>
+	<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
