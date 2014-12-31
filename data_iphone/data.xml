@@ -1,4 +1,4 @@
-<planets date="2014-12-31" name="data" planets="1883">
+<planets date="2014-12-18" name="data" planets="1880">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -19447,12 +19447,6 @@ Credit: ESO/J. Rameau</imagedescription>
 	<planet>
 		<id_exoplaneteu>HIP 116454 b</id_exoplaneteu>
 		<name>HIP 116454 b</name>
-		<name>BD-00 45 34 b</name>
-		<name>2MASS J23354927+0026436 b</name>
-		<name>PPM 174245 b</name>
-		<name>TYC 585-774-1 b</name>
-		<name>UCAC2 31966721 b</name>
-		<name>USNO-B1.0 0904-00582461 b</name>
 		<id>HIP 116454 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -19466,20 +19460,19 @@ Credit: ESO/J. Rameau</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0</spectraltype>
+			<spectraltype>K</spectraltype>
 			<mass>0.775</mass>
 			<radius>0.716</radius>
 			<metallicity>-0.16</metallicity>
 			<distance>55.2</distance>
 			<temperature>5089</temperature>
-			<rightascension>23 35 49.281</rightascension>
-			<declination>+00 26 43.86</declination>
-			<magV>10.19</magV>
+			<magV>10.1</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/12/18</lastupdate>
 		<description>HIP 116454 b is the first planet discovered by the Kepler spacecraft during its extended K2 mission. The planet is about two and a half times the size of Earth and only 55.2 parsec away. This makes it a top target for follow-up observations.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
