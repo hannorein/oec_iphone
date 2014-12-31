@@ -1,4 +1,4 @@
-<systems name="systems" planets="1879">
+<systems name="systems" planets="1883">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3765,7 +3765,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.1434</semimajoraxis>
 				<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
 				<istransiting>0</istransiting>
-				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -3784,7 +3783,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 				<semimajoraxis>0.3644</semimajoraxis>
 				<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
-				<new>1</new>
 				<istransiting>0</istransiting>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
@@ -3805,7 +3803,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.1939</semimajoraxis>
 				<eccentricity errorminus="0.16" errorplus="0.16">0.13</eccentricity>
 				<istransiting>0</istransiting>
-				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -3851,7 +3848,6 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>0.089</semimajoraxis>
 				<eccentricity errorminus="0.11" errorplus="0.11">0.31</eccentricity>
 				<istransiting>0</istransiting>
-				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/11/25</lastupdate>
 				<discoveryyear>2014</discoveryyear>
@@ -7234,7 +7230,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>HD 100546</name>
 		<rightascension>11 33 25</rightascension>
 		<declination>-70 11 41</declination>
-		<distance>97</distance>
+		<distance errorminus="4" errorplus="4">97</distance>
 		<star>
 			<magB errorminus="0.01" errorplus="0.01">6.71</magB>
 			<magV errorminus="0.01" errorplus="0.01">6.70</magV>
@@ -7242,25 +7238,34 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<magI errorminus="0.05" errorplus="0.05">6.64</magI>
 			<magJ errorminus="0.020" errorplus="0.020">6.425</magJ>
 			<magH errorminus="0.03" errorplus="0.03">5.96</magH>
-			<magK errorminus="0.023" errorplus="0.023">5.418</magK>
+			<magK errorminus="0.06" errorplus="0.06">5.83</magK>
 			<name>HD 100546</name>
-			<mass>2.4</mass>
+			<mass errorminus="0.1" errorplus="0.1">2.4</mass>
 			<temperature>10500</temperature>
 			<spectraltype>B9Vne</spectraltype>
 			<age>0.005</age>
 			<planet>
 				<name>HD 100546 b</name>
-				<list>Controversial</list>
-				<semimajoraxis>68</semimajoraxis>
+				<list>Confirmed</list>
+				<semimajoraxis errorminus="2" errorplus="2">53</semimajoraxis>
 				<mass>17.5</mass>
-				<description>HD 100546 is a Herbig Ae/Be star. High contrast observations of the circumstellar disk reveal an emmision source at a distance of 68 astronomical units. The most likely explanation is a planet in the process of forming. If confirmed, HD100546 b would be a unique laboratory to study the formation process of a new planetary system, with one giant planet currently forming in the disk and a second planet possibly orbiting in the disk gap at a smaller separation.</description>
+				<magK errorminus="0.11" errorplus="0.11">13.59</magK>
+				<age errorminus="0.0045" errorplus="0.0045">0.0055</age>
+				<temperature errorminus="253" errorplus="227">1028</temperature>
+				<radius errorminus="2.6" errorplus="2.5">6</radius>
+				<description>HD 100546 is a Herbig Ae/Be star. High contrast observations of the circumstellar disk reveal an emmision source at a distance of 68 astronomical units. The most likely explanation is a planet in the process of forming. HD 100546b has, as of the 2nd November, 2014, been confirmed to be a planet. HD 100546b is a unique laboratory to study the formation process of a new planetary system, with one giant planet currently forming in the disk and a second planet possibly oribitin in the disk gap at a smaller separation.</description>
 				<discoverymethod>imaging</discoverymethod>
-				<lastupdate>13/02/27</lastupdate>
+				<lastupdate>14/12/26</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<image>HD100546</image>
 				<imagedescription>This artist's impression shows the formation of a gas giant planet in the ring of dust around the young star HD 100546. This system is also suspected to contain another large planet orbiting closer to the star. The newly-discovered object lies about 70 times further from its star than the Earth does from the Sun. This protoplanet is surrounded by a thick cloud of material so that, seen from this position, its star almost invisible and red in colour because of the scattering of light from the dust.
 			
 Credit: ESO/L. Calcada</imagedescription>
+			</planet>
+			<planet>
+				<name>HD 100546 c</name>
+				<list>Controversial</list>
+				<semimajoraxis>13.5</semimajoraxis>
 			</planet>
 		</star>
 	</system>
@@ -19223,6 +19228,56 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HIP 116454</name>
+		<rightascension>23 35 49.281</rightascension>
+		<declination>+00 26 43.86</declination>
+		<distance errorminus="5.4" errorplus="5.4">55.2</distance>
+		<star>
+			<name>HIP 116454</name>
+			<name>BD-00 45 34</name>
+			<name>2MASS J23354927+0026436</name>
+			<name>PPM 174245</name>
+			<name>TYC 585-774-1</name>
+			<name>UCAC2 31966721</name>
+			<name>USNO-B1.0 0904-00582461</name>
+			<mass errorminus="0.027" errorplus="0.027">0.775</mass>
+			<radius errorminus="0.024" errorplus="0.024">0.716</radius>
+			<temperature errorminus="50" errorplus="50">5089</temperature>
+			<magV>10.19</magV>
+			<magB>11.10</magB>
+			<magR>9.6</magR>
+			<magI>9.1</magI>
+			<magJ errorminus="0.021" errorplus="0.021">8.604</magJ>
+			<magH errorminus="0.033" errorplus="0.033">8.140</magH>
+			<magK errorminus="0.021" errorplus="0.021">8.029</magK>
+			<metallicity errorminus="0.08" errorplus="0.08">-0.16</metallicity>
+			<spectraltype>K0</spectraltype>
+			<planet>
+				<name>HIP 116454 b</name>
+				<name>BD-00 45 34 b</name>
+				<name>2MASS J23354927+0026436 b</name>
+				<name>PPM 174245 b</name>
+				<name>TYC 585-774-1 b</name>
+				<name>UCAC2 31966721 b</name>
+				<name>USNO-B1.0 0904-00582461 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.004184" errorplus="0.004184">0.037182</mass>
+				<radius errorminus="0.016403" errorplus="0.016403">0.230560</radius>
+				<temperature errorminus="14" errorplus="14">690</temperature>
+				<period errorminus="0.0005" errorplus="0.0005">9.1205</period>
+				<eccentricity errorminus="0.072" errorplus="0.072">0.205</eccentricity>
+				<inclination errorminus="0.4" errorplus="0.4">88.43</inclination>
+				<periastron errorminus="16.7" errorplus="16.7">-59.1</periastron>
+				<description>HIP 116454 b is the first planet discovered by the Kepler spacecraft during its extended K2 mission. The planet is about two and a half times the size of Earth and only 55.2 parsec away. This makes it a top target for follow-up observations.</description>
+				<transittime errorminus="0.03" errorplus="0.03" unit="BJD">2456907.89</transittime>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>14/12/18</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HIP 11952</name>
 		<rightascension>02 34 11</rightascension>
 		<declination>-12 23 03</declination>
@@ -21356,27 +21411,34 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KIC 10723750</name>
 		<rightascension>19 15 10</rightascension>
 		<declination>+48 02 24</declination>
-		<distance>1352.97</distance>
+		<distance errorminus="50" errorplus="50">1430</distance>
 		<star>
 			<name>Kepler-117</name>
 			<name>KOI-209</name>
 			<name>KIC 10723750</name>
-			<temperature errorminus="100" errorplus="100">6169</temperature>
-			<radius errorminus=".278" errorplus="0.278">1.471</radius>
-			<mass errorminus="0.0077" errorplus="0.0077">1.1790</mass>
+			<temperature errorminus="110" errorplus="110">6150</temperature>
+			<radius errorminus="0.049" errorplus="0.049">1.606</radius>
+			<mass errorminus="0.023" errorplus="0.13">1.129</mass>
+			<age errorminus="1.4" errorplus="1.4">5.3</age>
+			<metallicity errorminus="0.1" errorplus="0.1">-0.04</metallicity>
 			<planet>
 				<name>Kepler-117 c</name>
 				<name>KOI-209 c</name>
 				<name>KOI-209.01</name>
 				<name>KIC 10723750 c</name>
 				<name>KIC 10723750.01</name>
-				<radius errorminus="0.01276" errorplus="0.19502">1.02977</radius>
-				<period errorminus=".000039" errorplus="0.000039">50.790412</period>
+				<period errorminus="0.000014" errorplus="0.000014">50.790391</period>
 				<transittime errorminus="0.0004600" errorplus="0.0004600">2454968.6309700</transittime>
+				<semimajoraxis errorminus="0.0028" errorplus="0.0092">0.2804</semimajoraxis>
+				<eccentricity errorminus="0.0033" errorplus="0.0033">0.0323</eccentricity>
+				<inclination errorminus="0.1" errorplus="0.1">89.64</inclination>
+				<mass errorminus="0.18" errorplus="0.18">1.84</mass>
+				<radius errorminus="0.035" errorplus="0.035">1.101</radius>
+				<temperature errorminus="15" errorplus="15">704</temperature>
 				<list>Confirmed planets</list>
-				<description>Kepler-117 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-117 c are still unknown, the object is highly unlikely to be a false positive.</description>
+				<description>Kepler-117 c has been discovered by the Kepler spacecraft and is the outermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>14/11/17</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -21386,13 +21448,18 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KOI-209.02</name>
 				<name>KIC 10723750 b</name>
 				<name>KIC 10723750.02</name>
-				<radius errorminus="0.04374" errorplus="0.13487">0.71173</radius>
-				<period errorminus=".000027" errorplus="0.000027">18.795952</period>
+				<radius errorminus="0.024" errorplus="0.024">0.719</radius>
+				<period errorminus="0.000075" errorplus="0.000075">18.7959228</period>
 				<transittime errorminus="0.0008900" errorplus="0.0008900">2454978.8202800</transittime>
+				<semimajoraxis errorminus="0.0014" errorplus="0.0047">0.1445</semimajoraxis>
+				<eccentricity errorminus="0.0062" errorplus="0.0062">0.0493</eccentricity>
+				<inclination errorminus="0.12" errorplus="0.12">88.74</inclination>
+				<mass errorminus="0.033" errorplus="0.033">0.094</mass>
+				<temperature errorminus="18" errorplus="18">984</temperature>
 				<list>Confirmed planets</list>
-				<description>Kepler-117 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-117 b are still unknown, the object is highly unlikely to be a false positive.</description>
+				<description>Kepler-117 b has been discovered by the Kepler spacecraft and is the innermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>14/11/17</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -32133,97 +32200,134 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<name>Kepler-296</name>
 		<name>KOI-1422</name>
 		<name>KIC 11497958</name>
-		<rightascension>19 06 09</rightascension>
-		<declination>+49 26 14</declination>
-		<distance>518.89</distance>
-		<star>
-			<name>Kepler-296</name>
-			<name>KOI-1422</name>
-			<name>KIC 11497958</name>
-			<temperature errorminus="100" errorplus="100">4249</temperature>
-			<radius errorminus=".021" errorplus="0.021">0.557</radius>
-			<mass errorminus="0.0330" errorplus="0.0330">0.5160</mass>
-			<planet>
-				<name>Kepler-296 c</name>
-				<name>KOI-1422 c</name>
-				<name>KOI-1422.01</name>
-				<name>KIC 11497958 c</name>
-				<name>KIC 11497958.01</name>
-				<radius errorminus="0.00911" errorplus="0.00911">0.19593</radius>
-				<period errorminus=".000015" errorplus="0.000015">5.841648</period>
-				<transittime errorminus="0.0014100" errorplus="0.0014100">2454968.9212700</transittime>
-				<list>Confirmed planets</list>
-				<description>Kepler-296 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 c are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-			</planet>
-			<planet>
-				<name>Kepler-296 d</name>
-				<name>KOI-1422 d</name>
-				<name>KOI-1422.02</name>
-				<name>KIC 11497958 d</name>
-				<name>KIC 11497958.02</name>
-				<radius errorminus="0.02825" errorplus="0.02825">0.20778</radius>
-				<period errorminus=".000097" errorplus="0.000097">19.850242</period>
-				<transittime errorminus="0.0027500" errorplus="0.0027500">2454966.6509800</transittime>
-				<list>Confirmed planets</list>
-				<description>Kepler-296 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 d are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-			</planet>
-			<planet>
-				<name>Kepler-296 b</name>
-				<name>KOI-1422 b</name>
-				<name>KOI-1422.03</name>
-				<name>KIC 11497958 b</name>
-				<name>KIC 11497958.03</name>
-				<radius errorminus="0.00638" errorplus="0.00638">0.08566</radius>
-				<period errorminus=".000040" errorplus="0.000040">3.621457</period>
-				<transittime errorminus="0.0050600" errorplus="0.0050600">2454967.7536000</transittime>
-				<list>Confirmed planets</list>
-				<description>Kepler-296 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 b are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-			</planet>
-			<planet>
-				<name>Kepler-296 f</name>
-				<name>KOI-1422 f</name>
-				<name>KOI-1422.04</name>
-				<name>KIC 11497958 f</name>
-				<name>KIC 11497958.04</name>
-				<radius errorminus="0.01002" errorplus="0.01002">0.16312</radius>
-				<period errorminus=".001292" errorplus="0.001292">63.335879</period>
-				<transittime errorminus="0.0104300" errorplus="0.0104300">2454995.6116100</transittime>
-				<list>Confirmed planets</list>
-				<description>Kepler-296 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 f are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-			</planet>
-			<planet>
-				<name>Kepler-296 e</name>
-				<name>KOI-1422 e</name>
-				<name>KOI-1422.05</name>
-				<name>KIC 11497958 e</name>
-				<name>KIC 11497958.05</name>
-				<radius errorminus="0.02096" errorplus="0.02096">0.15948</radius>
-				<period errorminus=".003409" errorplus="0.003409">34.142347</period>
-				<transittime errorminus="0.0761200" errorplus="0.0761200">2454954.0275200</transittime>
-				<list>Confirmed planets</list>
-				<description>Kepler-296 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 e are still unknown, the object is highly unlikely to be a false positive.</description>
-				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-			</planet>
-		</star>
+		<rightascension>19 06 09.602</rightascension>
+		<declination>+49 26 14.37</declination>
+		<distance>558.5</distance>
+		<binary>
+			<separation errorminus="0.004" errorplus="0.004" unit="arcsec">0.217</separation>
+			<separation unit="AU">80</separation>
+			<positionangle errorminus="0.8" errorplus="0.8">217.3</positionangle>
+			<star>
+				<name>Kepler-296 A</name>
+				<name>KOI-1422 A</name>
+				<name>KIC 11497958 A</name>
+				<name>2MASS J19060960+4926143 A</name>
+				<temperature errorminus="40" errorplus="40">3821</temperature>
+				<radius errorminus="0.011" errorplus="0.011">0.595</radius>
+				<mass errorminus="0.012" errorplus="0.012">0.626</mass>
+				<spectraltype>M2V</spectraltype>
+				<planet>
+					<name>Kepler-296 Ac</name>
+					<name>KOI-1422 Ac</name>
+					<name>KOI-1422.01 Ac</name>
+					<name>KIC 11497958 Ac</name>
+					<name>KIC 11497958.01 Ac</name>
+					<name>2MASS J19060960+4926143 Ac</name>
+					<radius errorminus="0.00460" errorplus="0.00460">0.2513</radius>
+					<mass>0.0214</mass>
+					<temperature errorminus="6.2" errorplus="6.2">558.6</temperature>
+					<period errorminus="0.000015" errorplus="0.000015">5.841648</period>
+					<semimajoraxis>0.054</semimajoraxis>
+					<transittime errorminus="0.0014100" errorplus="0.0014100">2454968.9212700</transittime>
+					<list>Planets in binary systems, S-type</list>
+					<description>Kepler-296 Ac has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ac are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A.</description>
+					<discoveryyear>2014</discoveryyear>
+					<lastupdate>14/07/03</lastupdate>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+				</planet>
+				<planet>
+					<name>Kepler-296 Ad</name>
+					<name>KOI-1422 Ad</name>
+					<name>KOI-1422.02 Ad</name>
+					<name>KIC 11497958 Ad</name>
+					<name>KIC 11497958.02 Ad</name>
+					<name>2MASS J19060960+4926143 Ad</name>
+					<radius errorminus="0.00552" errorplus="0.00552">0.2623</radius>
+					<mass>0.0223</mass>
+					<temperature errorminus="4.1" errorplus="4.1">371.5</temperature>
+					<period errorminus="0.000097" errorplus="0.000097">19.850242</period>
+					<semimajoraxis>0.123</semimajoraxis>
+					<transittime errorminus="0.0027500" errorplus="0.0027500">2454966.6509800</transittime>
+					<list>Planets in binary systems, S-type</list>
+					<description>Kepler-296 Ad has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ad are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A.</description>
+					<discoveryyear>2014</discoveryyear>
+					<lastupdate>14/07/03</lastupdate>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+				</planet>
+				<planet>
+					<name>Kepler-296 Ab</name>
+					<name>KOI-1422 Ab</name>
+					<name>KOI-1422.03 Ab</name>
+					<name>KIC 11497958 Ab</name>
+					<name>KIC 11497958.03 Ab</name>
+					<name>2MASS J19060960+4926143 Ab</name>
+					<radius errorminus="0.00552" errorplus="0.00552">0.1123</radius>
+					<mass>0.00692</mass>
+					<temperature errorminus="5.0" errorplus="5.0">454.2</temperature>
+					<period errorminus="0.000040" errorplus="0.000040">3.621457</period>
+					<semimajoraxis>0.082</semimajoraxis>
+					<transittime errorminus="0.0050600" errorplus="0.0050600">2454967.7536000</transittime>
+					<list>Planets in binary systems, S-type</list>
+					<description>Kepler-296 Ab has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ab are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A.</description>
+					<discoveryyear>2014</discoveryyear>
+					<lastupdate>14/07/03</lastupdate>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+				</planet>
+				<planet>
+					<name>Kepler-296 Af</name>
+					<name>KOI-1422 Af</name>
+					<name>KOI-1422.04 Af</name>
+					<name>KIC 11497958 Af</name>
+					<name>KIC 11497958.04 Af</name>
+					<name>2MASS J19060960+4926143 Af</name>
+					<radius errorminus="0.00828" errorplus="0.00828">0.2145</radius>
+					<mass>0.0186</mass>
+					<temperature errorminus="2.8" errorplus="2.8">252.4</temperature>
+					<period errorminus="0.001292" errorplus="0.001292">63.335879</period>
+					<semimajoraxis>0.266</semimajoraxis>
+					<transittime errorminus="0.0104300" errorplus="0.0104300">2454995.6116100</transittime>
+					<list>Planets in binary systems, S-type</list>
+					<description>Kepler-296 Af has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Af are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A. In case of orbiting component B, this planet would reside in a habitable zone.</description>
+					<discoveryyear>2014</discoveryyear>
+					<lastupdate>14/07/03</lastupdate>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+				</planet>
+				<planet>
+					<name>Kepler-296 Ae</name>
+					<name>KOI-1422 Ae</name>
+					<name>KOI-1422.05 Ae</name>
+					<name>KIC 11497958 Ae</name>
+					<name>KIC 11497958.05 Ae</name>
+					<name>2MASS J19060960+4926143 Ae</name>
+					<radius errorminus="0.0203" errorplus="0.0203">0.2089</radius>
+					<mass>0.00714</mass>
+					<temperature errorminus="3.4" errorplus="3.4">310.1</temperature>
+					<period errorminus="0.003409" errorplus="0.003409">34.142347</period>
+					<semimajoraxis>0.176</semimajoraxis>
+					<transittime errorminus="0.0761200" errorplus="0.0761200">2454954.0275200</transittime>
+					<list>Planets in binary systems, S-type</list>
+					<description>Kepler-296 Ae has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ae are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A.</description>
+					<discoveryyear>2014</discoveryyear>
+					<lastupdate>14/07/03</lastupdate>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+				</planet>
+			</star>
+			<star>
+				<name>Kepler-296 B</name>
+				<name>KOI-1422 B</name>
+				<name>KIC 11497958 B</name>
+				<name>2MASS J19060960+4926143 B</name>
+				<temperature errorminus="19" errorplus="19">3434</temperature>
+				<radius errorminus="0.012" errorplus="0.012">0.429</radius>
+				<mass errorminus="0.014" errorplus="0.014">0.453</mass>
+			</star>
+			<semimajoraxis>80</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>Kepler-297</name>
@@ -42324,36 +42428,63 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<name>KOI-1299</name>
 		<rightascension>19 33 07.73</rightascension>
 		<declination>+48 17 09.2</declination>
-		<star>
-			<name>KOI-1299</name>
-			<name>KIC 10864656</name>
-			<name>2MASS J19330772+4817092</name>
-			<spectraltype>K</spectraltype>
-			<magR>12.135</magR>
-			<magK>12.183</magK>
-			<mass errorminus="0.101" errorplus="0.101">1.353</mass>
-			<radius errorminus="0.120" errorplus="0.120">4.160</radius>
-			<age errorminus="1.3" errorplus="1.3">3.5</age>
-			<temperature errorminus="100" errorplus="100">4850</temperature>
-			<planet>
-				<name>KOI-1299 b</name>
-				<name>KIC 10864656 b</name>
-				<name>2MASS J19330772+4817092 b</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.48" errorplus="0.48">4.87</mass>
-				<radius errorminus="0.036" errorplus="0.036">1.120</radius>
-				<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
-				<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455477.02906</transittime>
-				<description>This massive planet orbits a red giant star in a highly eccentric orbit. Together with Kepler-56 and Kepler-91 this system occupies an almost-desert region of parameter space.</description>
-				<semimajoraxis errorminus="0.0089" errorplus="0.0089">0.3034</semimajoraxis>
-				<eccentricity errorminus="0.030" errorplus="0.030">0.535</eccentricity>
-				<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>14/10/20</lastupdate>
-				<discoveryyear>2014</discoveryyear>
-				<istransiting>1</istransiting>
-			</planet>
-		</star>
+		<distance errorminus="20" errorplus="20">870</distance>
+		<binary>
+			<positionangle errorminus="0.07" errorplus="0.07">20.86</positionangle>
+			<separation unit="arcsec">0.8730</separation>
+			<separation unit="AU">750</separation>
+			<star>
+				<name>KOI-1299</name>
+				<name>KIC 10864656</name>
+				<name>2MASS J19330772+4817092</name>
+				<spectraltype>K</spectraltype>
+				<magR>12.135</magR>
+				<magK>12.183</magK>
+				<mass errorminus="0.101" errorplus="0.101">1.353</mass>
+				<radius errorminus="0.120" errorplus="0.120">4.160</radius>
+				<age errorminus="1.3" errorplus="1.3">3.5</age>
+				<temperature errorminus="100" errorplus="100">4850</temperature>
+				<metallicity errorminus="0.1" errorplus="0.1">-0.07</metallicity>
+				<planet>
+					<name>KOI-1299 b</name>
+					<name>KIC 10864656 b</name>
+					<name>2MASS J19330772+4817092 b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.48" errorplus="0.48">4.87</mass>
+					<radius errorminus="0.036" errorplus="0.036">1.120</radius>
+					<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
+					<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455477.02906</transittime>
+					<description>This massive planet orbits a red giant star in a highly eccentric orbit. Together with Kepler-56 and Kepler-91 this system occupies an almost-desert region of parameter space.</description>
+					<semimajoraxis errorminus="0.0089" errorplus="0.0089">0.3034</semimajoraxis>
+					<eccentricity errorminus="0.030" errorplus="0.030">0.535</eccentricity>
+					<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>14/10/14</lastupdate>
+					<discoveryyear>2014</discoveryyear>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>KOI-1299 c</name>
+					<name>KOI-1299 02</name>
+					<period errorminus="2.5" errorplus="3.9">406.2</period>
+					<transittime errorminus="2.9" errorplus="3.6" unit="BJD">2456139.3</transittime>
+					<eccentricity errorminus="0.059" errorplus="0.029">0.498</eccentricity>
+					<mass errorminus="0.24" errorplus="0.22">2.43</mass>
+					<periastron errorminus="11.2" errorplus="7">60.8</periastron>
+					<list>Controversial</list>
+					<description>This planet is listed as a planet candidate because of a possible correlation with stellar activity.</description>
+					<istransiting>0</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>KOI-1299B</name>
+				<mass>0.52</mass>
+				<temperature>3660</temperature>
+			</star>
+			<semimajoraxis>750</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>KOI-135</name>
@@ -44450,17 +44581,16 @@ Credit: Kains et al (2013).</imagedescription>
 			<magV>20.54</magV>
 			<magI>17.51</magI>
 			<spectraltype>M3.5</spectraltype>
-			<name>OGLE-2012-BLG-0026L</name>
+			<name>OGLE-2011-BLG-0265L</name>
 			<name>MOA-2011-BLG-197</name>
 			<planet>
-				<name>OGLE-2012-BLG-0026L b</name>
+				<name>OGLE-2011-BLG-0265L b</name>
 				<name>MOA-2011-BLG-197 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.3" errorplus="0.3">1.0</mass>
 				<semimajoraxis>2.0</semimajoraxis>
 				<description>A cold Jupiter orbits an M-dwarf star that gave rise to the microlensing event OGLE-2011-BLG-0265. The preferred solution out of two host star/planet configurations is presented here.</description>
 				<discoverymethod>microlensing</discoverymethod>
-				<new>1</new>
 				<lastupdate>14/11/30</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
@@ -50053,10 +50183,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<star>
 			<name>WASP-84</name>
 			<name>2MASS 08442570+0151361</name>
-			<mass errorminus="0.037" errorplus="0.037">0.842</mass>
-			<radius errorminus="0.015" errorplus="0.015">0.748</radius>
-			<temperature errorminus="88" errorplus="88">5314</temperature>
-			<metallicity errorminus="0.1" errorplus="0.1">0.0</metallicity>
+			<mass errorminus="0.057" errorplus="0.057">0.854</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.768</radius>
+			<temperature errorminus="80" errorplus="80">5280</temperature>
+			<metallicity errorminus="0.12" errorplus="0.12">0.09</metallicity>
 			<spectraltype>K0</spectraltype>
 			<age>1</age>
 			<magV errorminus="0.10" errorplus="0.10">11.64</magV>
@@ -50068,20 +50198,68 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<name>WASP-84 b</name>
 				<name>2MASS 08442570+0151361 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.028" errorplus="0.028">0.694</mass>
-				<radius errorminus="0.022" errorplus="0.022">0.942</radius>
-				<temperature errorminus="16" errorplus="16">797</temperature>
+				<mass errorminus="0.037" errorplus="0.037">0.700</mass>
+				<radius errorminus="0.025" errorplus="0.025">0.975</radius>
+				<temperature errorminus="13" errorplus="13">832</temperature>
 				<period errorminus="0.0000070" errorplus="0.0000070">8.5234865</period>
 				<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2456286.10583</transittime>
-				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0771</semimajoraxis>
-				<inclination errorminus="0.05" errorplus="0.05">88.368</inclination>
+				<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.0775</semimajoraxis>
+				<eccentricity errorminus="0.011" errorplus="0.011">0.018</eccentricity>
+				<inclination errorminus="0.037" errorplus="0.037">88.275</inclination>
 				<discoverymethod>transit</discoverymethod>
 				<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
-				<lastupdate>13/10/22</lastupdate>
+				<lastupdate>14/09/22</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
+	</system>
+	<system>
+		<name>WASP-85</name>
+		<rightascension>11 43 38.01</rightascension>
+		<declination>+06 33 49.4</declination>
+		<distance errorminus="80" errorplus="80">128</distance>
+		<binary>
+			<star>
+				<name>WASP-85 A</name>
+				<mass errorminus="0.07" errorplus="0.07">1.04</mass>
+				<radius errorminus="0.13" errorplus="0.13">0.96</radius>
+				<magV>11.2</magV>
+				<metallicity errorminus="0.10" errorplus="0.10">0.08</metallicity>
+				<spectraltype>G5</spectraltype>
+				<temperature errorminus="65" errorplus="65">5685</temperature>
+				<planet>
+					<name>WASP-85 A b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.05" errorplus="0.05">1.22</mass>
+					<radius errorminus="0.03" errorplus="0.03">1.48</radius>
+					<period errorminus="0.0000008" errorplus="0.0000008">2.6556734</period>
+					<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0382</semimajoraxis>
+					<eccentricity>0.0</eccentricity>
+					<inclination errorminus="0.24" errorplus="0.18">89.72</inclination>
+					<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2456311.02659</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>14/12/30</lastupdate>
+					<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1.</description>
+					<discoveryyear>2014</discoveryyear>
+					<temperature errorminus="13" errorplus="13">1412</temperature>
+					<list>Planets in binary systems, S-type</list>
+					<istransiting>1</istransiting>
+					<new>1</new>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-85 B</name>
+				<mass errorminus="0.07" errorplus="0.07">0.88</mass>
+				<radius errorminus="0.13" errorplus="0.13">0.77</radius>
+				<magV>11.9</magV>
+				<metallicity errorminus="0.15" errorplus="0.15">0.0</metallicity>
+				<spectraltype>K0</spectraltype>
+				<temperature errorminus="90" errorplus="90">5250</temperature>
+			</star>
+			<separation unit="arcsec">1.48</separation>
+			<positionangle>99.6</positionangle>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-87</name>
