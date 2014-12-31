@@ -5,6 +5,7 @@ commit (){
   git commit -a -m "$1"
 }
 
+git pull
 
 commit "before automatic update"
 
