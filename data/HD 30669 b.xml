@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 30669 b</id_exoplaneteu>
+	<name>HD 30669 b</name>
+	<id>HD 30669 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.47</mass>
+		<radius />
+		<orbit>
+			<period>1684</period>
+			<semimajoraxis>2.69</semimajoraxis>
+			<eccentricity>0.18</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G9 V</spectraltype>
+		<mass>0.92</mass>
+		<radius>0.91</radius>
+		<metallicity>0.13</metallicity>
+		<distance>57.1</distance>
+		<temperature>5400</temperature>
+		<rightascension>04 48 28.48</rightascension>
+		<declination>-28 25 09.46</declination>
+		<angulardistance />
+		<magV>9.11</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/12/23</lastupdate>
+	<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed Planets</list>
+</planet>

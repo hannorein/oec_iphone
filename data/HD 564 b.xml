@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 564 b</id_exoplaneteu>
+	<name>HD 564 b</name>
+	<id>HD 564 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.33</mass>
+		<radius />
+		<orbit>
+			<period>492.3</period>
+			<semimajoraxis>1.2</semimajoraxis>
+			<eccentricity>0.096</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2</spectraltype>
+		<mass>0.961</mass>
+		<radius>1.01</radius>
+		<metallicity>-0.2</metallicity>
+		<distance>53.6</distance>
+		<temperature>5902</temperature>
+		<rightascension>00 09 52.82</rightascension>
+		<declination>-50 16 04.16</declination>
+		<angulardistance />
+		<magV>8.29</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/12/23</lastupdate>
+	<description>HD 564 is a metal poor star. The planet around this star has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed Planets</list>
+</planet>

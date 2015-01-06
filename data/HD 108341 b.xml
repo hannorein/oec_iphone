@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 108341 b</id_exoplaneteu>
+	<name>HD 108341 b</name>
+	<id>HD 108341 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>3.5</mass>
+		<radius />
+		<orbit>
+			<period>1129</period>
+			<semimajoraxis>2</semimajoraxis>
+			<eccentricity>0.85</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2 V</spectraltype>
+		<mass>0.843</mass>
+		<radius>0.79</radius>
+		<metallicity>0.04</metallicity>
+		<distance>49.4</distance>
+		<temperature>5122</temperature>
+		<rightascension>12 27 31.38</rightascension>
+		<declination>-71 25 22.70</declination>
+		<angulardistance />
+		<magV>9.36</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>14/12/23</lastupdate>
+	<description>Further data to be collected in August 2015 will result in more accurate parameters.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed Planets</list>
+</planet>

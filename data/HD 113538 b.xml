@@ -4,12 +4,12 @@
 	<id>HD 113538 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.27</mass>
+		<mass>0.36</mass>
 		<radius />
 		<orbit>
-			<period>263.3</period>
-			<semimajoraxis>0.71</semimajoraxis>
-			<eccentricity>0.61</eccentricity>
+			<period>663.2</period>
+			<semimajoraxis>1.24</semimajoraxis>
+			<eccentricity>0.14</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -18,15 +18,15 @@
 	</properties>
 	<star>
 		<spectraltype>K9V</spectraltype>
-		<mass>0.7</mass>
-		<radius>0.65</radius>
-		<metallicity>-0.17</metallicity>
-		<distance>15.8</distance>
-		<temperature>192.6</temperature>
+		<mass>0.585</mass>
+		<radius>0.53</radius>
+		<metallicity>-0.24</metallicity>
+		<distance>15.9</distance>
+		<temperature>4462</temperature>
 		<rightascension>13 04 57</rightascension>
 		<declination>-52 26 35</declination>
 		<angulardistance />
-		<magV>9.02</magV>
+		<magV>9.057</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/12/20</lastupdate>
-	<description />
+	<lastupdate>14/12/23</lastupdate>
+	<description>These planet parameters have been derived from ten years of HARPS data.</description>
 	<new />
 	<image />
 	<imagedescription />
