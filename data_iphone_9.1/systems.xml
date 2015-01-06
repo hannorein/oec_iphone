@@ -1431,7 +1431,7 @@
 				<eccentricity errorminus="0.04" errorplus="0.06">0.05</eccentricity>
 				<period errorminus="31" errorplus="33">1667</period>
 				<mass errorminus="0.05" errorplus="0.05">0.53</mass>
-				<list>Confirmed Planets</list>
+				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 				<new>1</new>
 				<discoverymethod>RV</discoverymethod>
@@ -7772,8 +7772,8 @@ Credit: ESO/L. Calcada</imagedescription>
 				<eccentricity errorminus="0.024" errorplus="0.024">0.086</eccentricity>
 				<period errorminus="0.0001" errorplus="0.0001">4.5557</period>
 				<mass>0.62</mass>
-				<list>Confirmed Planets</list>&gt;
-			<new>1</new>
+				<new>1</new>
+				<list>Confirmed planets</list>
 				<discoverymethod>RV</discoverymethod>
 				<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -8190,8 +8190,8 @@ Image credit: Vanessa Bailey</imagedescription>
 				<eccentricity errorminus="0.08" errorplus="0.09">0.85</eccentricity>
 				<period errorminus="8" errorplus="6">1129</period>
 				<mass errorminus="1.2" errorplus="3.4">3.5</mass>
-				<list>Confirmed Planets</list>
 				<new>1</new>
+				<list>Confirmed planets</list>
 				<discoverymethod>RV</discoverymethod>
 				<description>Further data to be collected in August 2015 will result in more accurate parameters.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -10349,6 +10349,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis errorminus="0.14" errorplus="0.14">4.6</semimajoraxis>
 				<eccentricity errorminus="0.063" errorplus="0.053">0.053</eccentricity>
 				<periastron errorminus="62" errorplus="62">215</periastron>
+				<new>1</new>
 				<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
 				<discoverymethod>RV</discoverymethod>
 				<istransiting>1</istransiting>
@@ -15315,8 +15316,8 @@ Image credit: Vanessa Bailey</imagedescription>
 				<eccentricity errorminus="0.15" errorplus="0.15">0.18</eccentricity>
 				<period errorminus="61" errorplus="61">1684</period>
 				<mass errorminus="0.06" errorplus="0.06">0.47</mass>
-				<list>Confirmed Planets</list>
 				<new>1</new>
+				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -17130,7 +17131,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<mass errorminus="0.03" errorplus="0.03">0.33</mass>
 				<discoverymethod>RV</discoverymethod>
 				<new>1</new>
-				<list>Confirmed Planets</list>
+				<list>Confirmed planets</list>
 				<description>HD 564 is a metal poor star. The planet around this star has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 				<discoveryyear>2014</discoveryyear>
 				<lastupdate>14/12/23</lastupdate>
