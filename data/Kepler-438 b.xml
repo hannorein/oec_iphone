@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>Kepler-438 b</id_exoplaneteu>
+	<name>Kepler-438 b</name>
+	<name>KOI-3284 b</name>
+	<id>Kepler-438 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.102066</radius>
+		<orbit>
+			<period>35.23319</period>
+			<semimajoraxis>0.166</semimajoraxis>
+			<eccentricity />
+			<inclination>89.86</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.544</mass>
+		<radius>0.520</radius>
+		<metallicity />
+		<distance>145</distance>
+		<temperature />
+		<rightascension>18 46 34</rightascension>
+		<declination>+41 57 03</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/01/06</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

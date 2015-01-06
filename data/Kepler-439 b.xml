@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>Kepler-439 b</id_exoplaneteu>
+	<name>Kepler-439 b</name>
+	<name>KOI-4005 b</name>
+	<id>Kepler-439 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.204132</radius>
+		<orbit>
+			<period>178.1396</period>
+			<semimajoraxis>0.563</semimajoraxis>
+			<eccentricity />
+			<inclination>89.95</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.884</mass>
+		<radius>0.866</radius>
+		<metallicity />
+		<distance>693</distance>
+		<temperature />
+		<rightascension>18 43 12</rightascension>
+		<declination>+44 02 02</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/01/06</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>Kepler-440 b</id_exoplaneteu>
+	<name>Kepler-440 b</name>
+	<name>KOI-4087 b</name>
+	<id>Kepler-440 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.169502</radius>
+		<orbit>
+			<period>101.11141</period>
+			<semimajoraxis>0.419</semimajoraxis>
+			<eccentricity />
+			<inclination>89.93</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.575</mass>
+		<radius>0.559</radius>
+		<metallicity />
+		<distance>261</distance>
+		<temperature />
+		<rightascension>19 01 23</rightascension>
+		<declination>+41 27 07</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/01/06</lastupdate>
+	<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
