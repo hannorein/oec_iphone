@@ -1,4 +1,4 @@
-<systems name="systems" planets="1883">
+<systems name="systems" planets="1889">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1414,6 +1414,34 @@
 			</planet>
 			<name>BD-10 3166</name>
 			<temperature>5400.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>BD-114672</name>
+		<rightascension>18 33 28.832</rightascension>
+		<declination>-11 38 09.73</declination>
+		<star>
+			<name>BD-114672 A</name>
+			<mass errorminus="0.014" errorplus="0.014">0.571</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.52</radius>
+			<temperature errorminus="100" errorplus="100">4475</temperature>
+			<age errorminus="4" errorplus="4">4.4</age>
+			<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
+			<spectraltype>K7 V</spectraltype>
+			<magV>9.99</magV>
+			<planet>
+				<name>BD-114672 b</name>
+				<semimajoraxis errorminus="0.07" errorplus="0.07">2.28</semimajoraxis>
+				<eccentricity errorminus="0.04" errorplus="0.06">0.05</eccentricity>
+				<period errorminus="31" errorplus="33">1667</period>
+				<mass errorminus="0.05" errorplus="0.05">0.53</mass>
+				<list>Confirmed Planets</list>
+				<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
+				<new>1</new>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/12/23</lastupdate>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -7738,6 +7766,35 @@ Credit: ESO/L. Calcada</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 103720</name>
+		<rightascension>11 56 41.18</rightascension>
+		<declination>-02 46 44.24</declination>
+		<distance>41.6</distance>
+		<star>
+			<name>HD 103720 A</name>
+			<mass errorminus="0.04" errorplus="0.04">0.794</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.73</radius>
+			<temperature errorminus="88" errorplus="88">5017</temperature>
+			<age errorminus="3.7" errorplus="3.7">3.8</age>
+			<metallicity errorminus="0.06" errorplus="0.06">-0.02</metallicity>
+			<spectraltype>K3 V</spectraltype>
+			<magV>9.49</magV>
+			<planet>
+				<name>HD 103720 b</name>
+				<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0498</semimajoraxis>
+				<eccentricity errorminus="0.024" errorplus="0.024">0.086</eccentricity>
+				<period errorminus="0.0001" errorplus="0.0001">4.5557</period>
+				<mass>0.62</mass>
+				<list>Confirmed Planets</list>&gt;
+			<new>1</new>
+				<discoverymethod>RV</discoverymethod>
+				<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/12/23</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 103774</name>
 		<rightascension>11 56 55</rightascension>
 		<declination>-12 06 28</declination>
@@ -8128,6 +8185,35 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 108341</name>
+		<rightascension>12 27 31.38</rightascension>
+		<declination>-71 25 22.70</declination>
+		<distance>49.4</distance>
+		<star>
+			<name>HD 108341 A</name>
+			<mass errorminus="0.024" errorplus="0.024">0.843</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.79</radius>
+			<temperature errorminus="79" errorplus="79">5122</temperature>
+			<age errorminus="4.1" errorplus="4.1">4.9</age>
+			<metallicity errorminus="0.06" errorplus="0.06">0.04</metallicity>
+			<spectraltype>K2 V</spectraltype>
+			<magV>9.36</magV>
+			<planet>
+				<name>HD 108341 b</name>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">2</semimajoraxis>
+				<eccentricity errorminus="0.08" errorplus="0.09">0.85</eccentricity>
+				<period errorminus="8" errorplus="6">1129</period>
+				<mass errorminus="1.2" errorplus="3.4">3.5</mass>
+				<list>Confirmed Planets</list>
+				<new>1</new>
+				<discoverymethod>RV</discoverymethod>
+				<description>Further data to be collected in August 2015 will result in more accurate parameters.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/12/23</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 108863</name>
 		<rightascension>12 30 19</rightascension>
 		<declination>+21 56 54</declination>
@@ -8423,45 +8509,48 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 113538</name>
 		<rightascension>13 04 57</rightascension>
 		<declination>-52 26 35</declination>
-		<distance>15.8</distance>
+		<distance>15.9</distance>
 		<star>
-			<mass>0.7</mass>
-			<radius>0.65</radius>
-			<magV>9.02</magV>
+			<name>HD 113538 A</name>
+			<temperature errorminus="145" errorplus="145">4462</temperature>
+			<mass errorminus="0.05" errorplus="0.05">0.585</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.53</radius>
+			<magV>9.057</magV>
 			<magB>10.433</magB>
 			<magR>8.202</magR>
 			<magI>7.418</magI>
 			<magJ errorminus="0.021" errorplus="0.021">6.438</magJ>
 			<magH errorminus="0.042" errorplus="0.042">5.835</magH>
 			<magK errorminus="0.024" errorplus="0.024">5.637</magK>
-			<metallicity>-0.17</metallicity>
+			<metallicity errorminus="0.06" errorplus="0.06">-0.24</metallicity>
 			<spectraltype>K9V</spectraltype>
+			<age errorminus="4" errorplus="4">4.3</age>
 			<planet>
 				<name>HD 113538 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.27</mass>
-				<period>263.3</period>
-				<semimajoraxis>0.71</semimajoraxis>
-				<eccentricity>0.61</eccentricity>
+				<mass errorminus="0.04" errorplus="0.04">0.36</mass>
+				<period errorminus="7.4" errorplus="7.4">663.2</period>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">1.24</semimajoraxis>
+				<eccentricity errorminus="0.08" errorplus="0.08">0.14</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/20</lastupdate>
+				<description>These planet parameters have been derived from ten years of HARPS data.</description>
+				<lastupdate>14/12/23</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>192.6</temperature>
 			</planet>
 			<planet>
 				<name>HD 113538 c</name>
 				<list>Confirmed planets</list>
-				<mass>0.71</mass>
-				<period>1657</period>
-				<semimajoraxis>2.43</semimajoraxis>
-				<eccentricity>0.32</eccentricity>
+				<mass errorminus="0.06" errorplus="0.06">0.93</mass>
+				<period errorminus="22" errorplus="25">1818</period>
+				<semimajoraxis errorminus="0.07" errorplus="0.07">2.44</semimajoraxis>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.2</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/20</lastupdate>
+				<description>These planet parameters have been derived from ten years of HARPS data.</description>
+				<lastupdate>14/12/23</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>106.1</temperature>
 			</planet>
-			<name>HD 113538</name>
-			<temperature>4685.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -10254,6 +10343,32 @@ Image credit: Vanessa Bailey</imagedescription>
 			</planet>
 			<name>HD 145457</name>
 			<temperature>4757.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 145934</name>
+		<rightascension>16 13 09.9</rightascension>
+		<declination>+13 14 22.1</declination>
+		<star>
+			<name>HD 145934</name>
+			<mass errorminus="0.105" errorplus="0.105">1.748</mass>
+			<radius errorminus="0.44" errorplus="0.44">5.38</radius>
+			<magV>8.5</magV>
+			<spectraltype>K0</spectraltype>
+			<planet>
+				<name>HD 145934 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.26" errorplus="0.26">2.28</mass>
+				<period errorminus="100" errorplus="100">2730</period>
+				<semimajoraxis errorminus="0.14" errorplus="0.14">4.6</semimajoraxis>
+				<eccentricity errorminus="0.063" errorplus="0.053">0.053</eccentricity>
+				<periastron errorminus="62" errorplus="62">215</periastron>
+				<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
+				<discoverymethod>RV</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/01/06</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -15195,6 +15310,35 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 30669</name>
+		<rightascension>04 48 28.48</rightascension>
+		<declination>-28 25 09.46</declination>
+		<distance>57.1</distance>
+		<star>
+			<name>HD 30669 A</name>
+			<mass errorminus="0.03" errorplus="0.03">0.92</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.91</radius>
+			<temperature errorminus="74" errorplus="74">5400</temperature>
+			<age errorminus="4" errorplus="4">4.8</age>
+			<metallicity errorminus="0.06" errorplus="0.06">0.13</metallicity>
+			<spectraltype>G9 V</spectraltype>
+			<magV>9.11</magV>
+			<planet>
+				<name>HD 30669 b</name>
+				<semimajoraxis errorminus="0.08" errorplus="0.08">2.69</semimajoraxis>
+				<eccentricity errorminus="0.15" errorplus="0.15">0.18</eccentricity>
+				<period errorminus="61" errorplus="61">1684</period>
+				<mass errorminus="0.06" errorplus="0.06">0.47</mass>
+				<list>Confirmed Planets</list>
+				<new>1</new>
+				<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/12/23</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 30856</name>
 		<rightascension>04 50 14</rightascension>
 		<declination>-24 21 36</declination>
@@ -16975,6 +17119,35 @@ Image credit: Vanessa Bailey</imagedescription>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/07/13</lastupdate>
 				<discoveryyear>2012</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HD 564</name>
+		<rightascension>00 09 52.82</rightascension>
+		<declination>-50 16 04.16</declination>
+		<distance>53.6</distance>
+		<star>
+			<name>HD 564 A</name>
+			<mass errorminus="0.05" errorplus="0.05">0.961</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.01</radius>
+			<temperature errorminus="61" errorplus="61">5902</temperature>
+			<age errorminus="3.1" errorplus="3.1">5.5</age>
+			<metallicity errorminus="0.05" errorplus="0.05">-0.2</metallicity>
+			<spectraltype>G2</spectraltype>
+			<magV>8.29</magV>
+			<planet>
+				<name>HD 564 b</name>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">1.2</semimajoraxis>
+				<eccentricity errorminus="0.067" errorplus="0.067">0.096</eccentricity>
+				<period errorminus="2.3" errorplus="2.3">492.3</period>
+				<mass errorminus="0.03" errorplus="0.03">0.33</mass>
+				<discoverymethod>RV</discoverymethod>
+				<new>1</new>
+				<list>Confirmed Planets</list>
+				<description>HD 564 is a metal poor star. The planet around this star has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
+				<discoveryyear>2014</discoveryyear>
+				<lastupdate>14/12/23</lastupdate>
 			</planet>
 		</star>
 	</system>
@@ -50408,7 +50581,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<temperature errorminus="13" errorplus="13">1412</temperature>
 					<list>Planets in binary systems, S-type</list>
 					<istransiting>1</istransiting>
-					<new>1</new>
 				</planet>
 			</star>
 			<star>
