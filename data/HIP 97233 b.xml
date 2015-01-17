@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HIP 97233 b</id_exoplaneteu>
+	<name>HIP 97233 b</name>
+	<id>HIP 97233 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>20.0</mass>
+		<radius />
+		<orbit>
+			<period>1058.8</period>
+			<semimajoraxis>2.55</semimajoraxis>
+			<eccentricity>0.61</eccentricity>
+			<inclination />
+			<periastron>249.3</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0</spectraltype>
+		<mass>1.93</mass>
+		<radius>5.34</radius>
+		<metallicity>0.29</metallicity>
+		<distance>106</distance>
+		<temperature>5020</temperature>
+		<rightascension>19 45 41.274</rightascension>
+		<declination>-00 41 47.93</declination>
+		<angulardistance />
+		<magV>7.34</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/01/06</lastupdate>
+	<description>The minimum mass of this object is above the deuterium-burning threshold but below the midpoint of the brown dwarf desert. The parent star is near the base of the red giant branch.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

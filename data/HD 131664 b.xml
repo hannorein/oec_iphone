@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 131664 b</id_exoplaneteu>
+	<name>HD 131664 b</name>
+	<id>HD 131664 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>85.2</mass>
+		<radius />
+		<orbit>
+			<period>1951</period>
+			<semimajoraxis>3.17</semimajoraxis>
+			<eccentricity>0.638</eccentricity>
+			<inclination>167.1</inclination>
+			<periastron>149.7</periastron>
+			<longitude />
+			<ascendingnode>320.8</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G3V</spectraltype>
+		<mass>1.10</mass>
+		<radius>1.16</radius>
+		<metallicity>0.32</metallicity>
+		<distance>55.43</distance>
+		<temperature>5886</temperature>
+		<rightascension>15 00 06.08</rightascension>
+		<declination>-73 32 07.2</declination>
+		<angulardistance />
+		<magV>8.13</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear />
+	<lastupdate>15/01/14</lastupdate>
+	<description>HD 131664 b was originally detected by radial velocity measurements, giving a minimum mass of 18.15 Jupiter masses. Using Hipparcos astrometry, the inclination and true mass have been determined, indicating that the object is either a massive brown dwarf or a low-mass star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

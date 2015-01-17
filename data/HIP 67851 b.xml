@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HIP 67851 b</id_exoplaneteu>
+	<name>HIP 67851 b</name>
+	<name>HD 121056 b</name>
+	<id>HIP 67851 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.25</mass>
+		<radius />
+		<orbit>
+			<period>89.09</period>
+			<semimajoraxis>0.426</semimajoraxis>
+			<eccentricity>0.06</eccentricity>
+			<inclination />
+			<periastron>300</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0III</spectraltype>
+		<mass>1.30</mass>
+		<radius>5.87</radius>
+		<metallicity>-0.03</metallicity>
+		<distance>66.0</distance>
+		<temperature>4805</temperature>
+		<rightascension>13 53 52.06197</rightascension>
+		<declination>-35 18 51.7033</declination>
+		<angulardistance />
+		<magV>6.17</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/01/06</lastupdate>
+	<description>HIP 67851 b is one of the rare examples of a close-in planet orbiting a red giant star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
