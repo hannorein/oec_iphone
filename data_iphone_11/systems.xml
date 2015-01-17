@@ -1,4 +1,4 @@
-<systems name="systems" planets="1897">
+<systems name="systems" planets="1905">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2866,6 +2866,67 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<istransiting>1</istransiting>
 			</planet>
 		</binary>
+	</system>
+	<system>
+		<name>EPIC 201367065</name>
+		<rightascension>11 29 20.388</rightascension>
+		<declination>-01 27 17.23</declination>
+		<distance errorminus="3" errorplus="3">45</distance>
+		<star>
+			<name>EPIC 201367065</name>
+			<name>2MASS 11292037-0127173</name>
+			<mass errorminus="0.089" errorplus="0.089">0.601</mass>
+			<radius errorminus="0.068" errorplus="0.068">0.561</radius>
+			<temperature errorminus="189" errorplus="189">3896</temperature>
+			<age lowerlimit="1" />
+			<metallicity errorminus="0.13" errorplus="0.13">-0.32</metallicity>
+			<spectraltype>M0.2V</spectraltype>
+			<planet>
+				<name>EPIC 201367065 b</name>
+				<name>2MASS 11292037-0127173 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.023694" errorplus="0.024605">0.195019</radius>
+				<period errorminus="0.00025" errorplus="0.00026">10.05403</period>
+				<semimajoraxis errorminus="0.0040" errorplus="0.0036">0.0769</semimajoraxis>
+				<inclination errorminus="0.6" errorplus="0.46">89.28</inclination>
+				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/01/17</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>EPIC 201367065 c</name>
+				<name>2MASS 11292037-0127173 c</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.020049" errorplus="0.020960">0.156744</radius>
+				<period errorminus="0.0013" errorplus="0.0013">24.6454</period>
+				<semimajoraxis errorminus="0.0073" errorplus="0.0066">0.1399</semimajoraxis>
+				<inclination errorminus="0.44" errorplus="0.29">89.55</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
+				<istransiting>1</istransiting>
+				<lastupdate>15/01/17</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>EPIC 201367065 d</name>
+				<name>2MASS 11292037-0127173 d</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.018226" errorplus="0.019137">0.138518</radius>
+				<period errorminus="0.00055" errorplus="0.0063">44.5631</period>
+				<semimajoraxis errorminus="0.0108" errorplus="0.0098">0.2076</semimajoraxis>
+				<inclination errorminus="0.26" errorplus="0.21">89.68</inclination>
+				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/01/17</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>eps Corona Borealis</name>
@@ -9327,7 +9388,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>+09 44 47</declination>
 		<distance>16.6</distance>
 		<star>
-			<mass>0.84</mass>
+			<mass>0.828</mass>
 			<radius>0.73</radius>
 			<magV>7.51</magV>
 			<magB>8.441</magB>
@@ -9341,27 +9402,30 @@ Image credit: Vanessa Bailey</imagedescription>
 			<planet>
 				<name>HD 128311 b</name>
 				<list>Confirmed planets</list>
-				<mass>2.18</mass>
-				<period>448.6</period>
-				<semimajoraxis>1.099</semimajoraxis>
-				<eccentricity>0.25</eccentricity>
+				<mass errorminus="0.18" errorplus="0.15">1.83</mass>
+				<period errorminus="3.6" errorplus="4.2">460.1</period>
+				<eccentricity errorminus="0.04" errorplus="0.03">0.30</eccentricity>
+				<periastron errorminus="9.2" errorplus="6.4">-76.2</periastron>
+				<longitude errorminus="12.6" errorplus="11.9">259.2</longitude>
+				<inclination errorminus="35.9" errorplus="23.7">63.8</inclination>
 				<description>This planetary system is most likely in a 2:1 mean motion resonance. The inner planet orbits the star exactly twice during one orbit of the outer planet. This is a very stable configuration. Mean motion resonances help us to understand the formation of multiplanteray systems. The existense of this resonance is a strong indication that interactions with the protoplanetary disk migrated the planets to their current positions. A detailed analysis of the HD 128311 system shows that there also had to be non-adiabatic effects during the migration phase such as a third planet (Sandor and Kley 2006) or turbulence in the protoplanetary disk (Rein and Papaloizou 2009).</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/01/04</lastupdate>
+				<lastupdate>15/01/08</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 				<temperature>177.7</temperature>
 			</planet>
 			<planet>
 				<name>HD 128311 c</name>
 				<list>Confirmed planets</list>
-				<mass>3.21</mass>
-				<period>919</period>
-				<semimajoraxis>1.76</semimajoraxis>
-				<eccentricity>0.17</eccentricity>
-				<inclination>50</inclination>
+				<mass errorminus="0.08" errorplus="0.08">3.20</mass>
+				<period errorminus="6.0" errorplus="7.6">910.7</period>
+				<eccentricity errorminus="0.06" errorplus="0.08">0.12</eccentricity>
+				<periastron errorminus="12.0" errorplus="23.2">-19.7</periastron>
+				<longitude errorminus="10.7" errorplus="20">184.2</longitude>
+				<inclination errorminus="35.9" errorplus="23.7">63.8</inclination>
 				<description>This planetary system is most likely in a 2:1 mean motion resonance. The inner planet orbits the star exactly twice during one orbit of the outer planet. This is a very stable configuration. Mean motion resonances help us to understand the formation of multiplanteray systems. The existense of this resonance is a strong indication that interactions with the protoplanetary disk migrated the planets to their current positions. A detailed analysis of the HD 128311 system shows that there also had to be non-adiabatic effects during the migration phase such as a third planet (Sandor and Kley 2006) or turbulence in the protoplanetary disk (Rein and Papaloizou 2009).</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/05/11</lastupdate>
+				<lastupdate>15/01/08</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 				<temperature>140.7</temperature>
 			</planet>
@@ -9458,6 +9522,44 @@ Image credit: Vanessa Bailey</imagedescription>
 			</planet>
 			<name>HD 131496</name>
 			<temperature>4927.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 131664</name>
+		<rightascension>15 00 06.08</rightascension>
+		<declination>-73 32 07.2</declination>
+		<distance errorminus="2.3" errorplus="2.3">55.43</distance>
+		<star>
+			<name>HD 131664</name>
+			<name>HIP 73408</name>
+			<name>TYC 9270-1491-1</name>
+			<name>CD-73 1031</name>
+			<name>CPD-73 1409</name>
+			<magB errorminus="0.02" errorplus="0.02">8.82</magB>
+			<magV errorminus="0.01" errorplus="0.01">8.13</magV>
+			<magJ errorminus="0.019" errorplus="0.019">6.973</magJ>
+			<magH errorminus="0.040" errorplus="0.040">6.727</magH>
+			<magK errorminus="0.020" errorplus="0.020">6.647</magK>
+			<spectraltype>G3V</spectraltype>
+			<mass errorminus="0.03" errorplus="0.03">1.10</mass>
+			<radius>1.16</radius>
+			<temperature errorminus="21" errorplus="21">5886</temperature>
+			<metallicity errorminus="0.02" errorplus="0.02">0.32</metallicity>
+			<age errorminus="1.8" errorplus="1.8">2.4</age>
+			<planet>
+				<name>HD 131664 b</name>
+				<list>Controversial</list>
+				<period errorminus="41" errorplus="41">1951</period>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">3.17</semimajoraxis>
+				<eccentricity errorminus="0.02" errorplus="0.02">0.638</eccentricity>
+				<periastron errorminus="1.0" errorplus="1.0">149.7</periastron>
+				<mass lowerlimit="36.3" upperlimit="139.7">85.2</mass>
+				<inclination lowerlimit="149.3" upperlimit="171.9">167.1</inclination>
+				<ascendingnode lowerlimit="276.4" upperlimit="10.0">320.8</ascendingnode>
+				<discoverymethod>RV</discoverymethod>
+				<description>HD 131664 b was originally detected by radial velocity measurements, giving a minimum mass of 18.15 Jupiter masses. Using Hipparcos astrometry, the inclination and true mass have been determined, indicating that the object is either a massive brown dwarf or a low-mass star.</description>
+				<lastupdate>15/01/14</lastupdate>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -19786,6 +19888,55 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HIP 67851</name>
+		<rightascension>13 53 52.06197</rightascension>
+		<declination>-35 18 51.7033</declination>
+		<distance errorminus="1.7" errorplus="1.7">66.0</distance>
+		<star>
+			<name>HIP 97233</name>
+			<name>HD 121056</name>
+			<name>HR 5224</name>
+			<name>Gliese 532.1</name>
+			<name>CD-34 9223</name>
+			<name>SAO 204963</name>
+			<name>TYC 7287-1874-1</name>
+			<magV>6.17</magV>
+			<spectraltype>K0III</spectraltype>
+			<temperature errorminus="100" errorplus="100">4805</temperature>
+			<mass errorminus="0.18" errorplus="0.18">1.30</mass>
+			<radius errorminus="0.29" errorplus="0.29">5.87</radius>
+			<metallicity errorminus="0.10" errorplus="0.10">-0.03</metallicity>
+			<planet>
+				<name>HIP 67851 b</name>
+				<name>HD 121056 b</name>
+				<period errorminus="0.11" errorplus="0.11">89.09</period>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+				<periastron errorminus="132" errorplus="132">300</periastron>
+				<mass errorminus="0.04" errorplus="0.04">1.25</mass>
+				<semimajoraxis errorminus="0.020" errorplus="0.020">0.426</semimajoraxis>
+				<discoveryyear>2014</discoveryyear>
+				<discoverymethod>RV</discoverymethod>
+				<list>Confirmed planets</list>
+				<description>HIP 67851 b is one of the rare examples of a close-in planet orbiting a red giant star.</description>
+				<lastupdate>15/01/06</lastupdate>
+			</planet>
+			<planet>
+				<name>HIP 67851 c</name>
+				<name>HD 121056 c</name>
+				<period errorminus="486" errorplus="486">2203</period>
+				<eccentricity errorminus="0.18" errorplus="0.18">0.07</eccentricity>
+				<periastron errorminus="17" errorplus="17">205</periastron>
+				<mass errorminus="1.99" errorplus="1.99">6.14</mass>
+				<semimajoraxis errorminus="0.58" errorplus="0.58">3.62</semimajoraxis>
+				<discoveryyear>2014</discoveryyear>
+				<discoverymethod>RV</discoverymethod>
+				<list>Confirmed planets</list>
+				<description>HIP 67851 c orbits a red giant star. Currently the parameters are sufficiently uncertain that it is not clear whether or not it will be engulfed during the further expansion of its parent star.</description>
+				<lastupdate>15/01/06</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HIP 70849</name>
 		<rightascension>14 29 19</rightascension>
 		<declination>-46 27 50</declination>
@@ -19957,6 +20108,38 @@ Credit: ESO/J. Rameau</imagedescription>
 				<lastupdate>13/11/22</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<description>HIP 91258 is a Hot Jupiter with an orbital period of only 5 days. There is another planet in the system. However, currently only a quadratic trend is seen in the data which is insufficient to determine the second planet's properties. The planet was discovered with the SOPHIE spectrograph in France.</description>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HIP 97233</name>
+		<rightascension>19 45 41.274</rightascension>
+		<declination>-00 41 47.93</declination>
+		<distance>106</distance>
+		<star>
+			<name>HIP 97233</name>
+			<name>HD 186641</name>
+			<name>BD-01 3821</name>
+			<name>SAO 143775</name>
+			<name>TYC 5146-2250-1</name>
+			<magV>7.34</magV>
+			<spectraltype>K0</spectraltype>
+			<temperature errorminus="100" errorplus="100">5020</temperature>
+			<mass errorminus="0.11" errorplus="0.11">1.93</mass>
+			<radius errorminus="0.55" errorplus="0.55">5.34</radius>
+			<metallicity errorminus="0.13" errorplus="0.13">0.29</metallicity>
+			<planet>
+				<name>HIP 97233 b</name>
+				<period errorminus="6.7" errorplus="6.7">1058.8</period>
+				<semimajoraxis errorminus="0.05" errorplus="0.05">2.55</semimajoraxis>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.61</eccentricity>
+				<periastron errorminus="2.4" errorplus="2.4">249.3</periastron>
+				<mass errorminus="0.4" errorplus="0.4">20.0</mass>
+				<discoveryyear>2014</discoveryyear>
+				<discoverymethod>RV</discoverymethod>
+				<list>Confirmed planets</list>
+				<description>The minimum mass of this object is above the deuterium-burning threshold but below the midpoint of the brown dwarf desert. The parent star is near the base of the red giant branch.</description>
+				<lastupdate>15/01/06</lastupdate>
 			</planet>
 		</star>
 	</system>
@@ -39325,7 +39508,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39353,7 +39535,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39381,7 +39562,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39409,7 +39589,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39477,7 +39656,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39503,7 +39681,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39531,7 +39708,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -39559,7 +39735,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/01/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -41375,6 +41550,29 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/04/03</lastupdate>
 				<discoveryyear>2013</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-78</name>
+		<declination>+44 26 54</declination>
+		<rightascension>19 34 57</rightascension>
+		<star>
+			<name>Kepler-78</name>
+			<mass errorminus="0.05" errorplus="0.05">0.83</mass>
+			<age errorminus="0.15" errorplus="0.15">0.625</age>
+			<planet>
+				<name>Kepler-78 b</name>
+				<name>KIC 8435766 b</name>
+				<name>Tycho 3147-188-1 b</name>
+				<period errorminus="0.00000006" errorplus="0.00000006">0.35500744</period>
+				<mass errorminus="0.000818" errorplus="0.000849">0.005882</mass>
+				<radius errorminus="0.008202" errorplus="0.008202">0.109356</radius>
+				<description>Evidence suggests that Kepler-78b has a composition similar to that of Earth with an iron fraction of 32%.</description>
+				<lastupdate>15/01/06</lastupdate>
+				<discoveryyear>2013</discoveryyear>
+				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
