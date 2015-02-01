@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Kepler-444 e</id_exoplaneteu>
+	<name>Kepler-444 e</name>
+	<name>HIP 94931 e</name>
+	<name>KOI-3158 e</name>
+	<name>LHS 3450 e</name>
+	<id>Kepler-444 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.049757</radius>
+		<orbit>
+			<period>7.743493</period>
+			<semimajoraxis>0.0696</semimajoraxis>
+			<eccentricity>0.1</eccentricity>
+			<inclination>89.13</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0V</spectraltype>
+		<mass>0.758</mass>
+		<radius>0.752</radius>
+		<metallicity>-0.55</metallicity>
+		<distance>35.7</distance>
+		<temperature>5046</temperature>
+		<rightascension>19 19 00</rightascension>
+		<declination>+41 38 04</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/02/01</lastupdate>
+	<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial0size planets.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
