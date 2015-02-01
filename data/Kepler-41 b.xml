@@ -2,29 +2,30 @@
 	<id_exoplaneteu>Kepler-41 b</id_exoplaneteu>
 	<name>Kepler-41 b</name>
 	<name>KOI-196 b</name>
+	<name>KOI-196.01</name>
 	<name>2MASS J19380317+4558539 b</name>
 	<id>Kepler-41 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.5978</mass>
-		<radius>0.9956</radius>
+		<mass>0.56</mass>
+		<radius>1.29</radius>
 		<orbit>
-			<period>1.8555577</period>
-			<semimajoraxis>0.02999</semimajoraxis>
-			<eccentricity />
-			<inclination>85.5</inclination>
+			<period>1.85555820</period>
+			<semimajoraxis>0.03101</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>82.51</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G6V</spectraltype>
-		<mass>1.044</mass>
-		<radius>1.065</radius>
-		<metallicity>0.036</metallicity>
+		<spectraltype>G2V</spectraltype>
+		<mass>1.15</mass>
+		<radius>1.29</radius>
+		<metallicity>0.38</metallicity>
 		<distance>771.43</distance>
-		<temperature>5617</temperature>
+		<temperature>5750</temperature>
 		<rightascension>19 38 03</rightascension>
 		<declination>+48 58 54</declination>
 		<angulardistance />
@@ -36,7 +37,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>13/03/06</lastupdate>
+	<lastupdate>15/01/27</lastupdate>
 	<description>KOI-196 b, also known as Kepler-41 b, is transiting its host star and was tagged as a planet candidate by the Kepler spacecraft. Astronomers then used the SOPHIE spectrograph at the Observatoire de Haute-Provence in France to confirm the planet. The day side temperature on the planet is almost 1700 degree Celsius. In 2013, it was independently confirmed by a phase curve analysis.</description>
 	<new />
 	<image />

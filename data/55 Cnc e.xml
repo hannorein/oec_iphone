@@ -4,21 +4,21 @@
 	<id>55 Cnc e</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.027</mass>
+		<mass>0.02561</mass>
 		<radius>0.1813</radius>
 		<orbit>
-			<period>0.7365417</period>
-			<semimajoraxis>0.01545</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
-			<inclination />
-			<periastron />
-			<longitude />
+			<period>0.7365515</period>
+			<semimajoraxis>0.015690907</semimajoraxis>
+			<eccentricity>0.040</eccentricity>
+			<inclination>90</inclination>
+			<periastron>72</periastron>
+			<longitude>134.3</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K0V</spectraltype>
-		<mass>0.905</mass>
+		<mass>0.95</mass>
 		<radius>0.943</radius>
 		<metallicity>0.31</metallicity>
 		<distance>12.3</distance>

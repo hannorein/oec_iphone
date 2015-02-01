@@ -2,17 +2,18 @@
 	<id_exoplaneteu>Kepler-91 b</id_exoplaneteu>
 	<name>Kepler-91 b</name>
 	<name>KIC 8219268 b</name>
+	<name>KOI-2133.01</name>
 	<id>Kepler-91 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.73</mass>
-		<radius>1.308</radius>
+		<mass>0.66</mass>
+		<radius>1.40</radius>
 		<orbit>
-			<period>6.246716</period>
-			<semimajoraxis>0.0723</semimajoraxis>
-			<eccentricity>0.040</eccentricity>
-			<inclination>69.17</inclination>
-			<periastron>316.8</periastron>
+			<period>6.24668005</period>
+			<semimajoraxis>0.0726</semimajoraxis>
+			<eccentricity>0.0519</eccentricity>
+			<inclination>67.37</inclination>
+			<periastron>302.8</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -20,7 +21,7 @@
 	<star>
 		<spectraltype />
 		<mass>1.31</mass>
-		<radius>6.3</radius>
+		<radius>6.30</radius>
 		<metallicity>0.11</metallicity>
 		<distance>1030</distance>
 		<temperature>4550</temperature>
@@ -35,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/12/18</lastupdate>
-	<description>Kepler-91 b is a planet very close its host star. It might be destroyed within the next 55 million years. The planet was initially discovered by the Kepler telescope and later confirmed by a group of European researchers led by Jorge Lillo-Box.</description>
+	<lastupdate>15/01/27</lastupdate>
+	<description>Kepler-91 b is a planet very close its host star. It might be destroyed within the next 55 million years. The planet was initially discovered by the Kepler telescope and later confirmed by a group of European researchers led by Jorge Lillo-Box. The radial velocities of the star show a linear trend after fitting the variations due to the planet.</description>
 	<new />
 	<image />
 	<imagedescription />

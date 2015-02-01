@@ -9,25 +9,25 @@
 	<id>KOI-135 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>3.23</mass>
-		<radius>1.2</radius>
+		<mass>1.00</mass>
+		<radius>1.09</radius>
 		<orbit>
-			<period>3.024095</period>
-			<semimajoraxis>0.0449</semimajoraxis>
-			<eccentricity>0.025</eccentricity>
-			<inclination>84.35</inclination>
-			<periastron />
+			<period>3.02409309</period>
+			<semimajoraxis>0.0444</semimajoraxis>
+			<eccentricity>0.017</eccentricity>
+			<inclination>84.57</inclination>
+			<periastron>52</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G0V/G0IV</spectraltype>
-		<mass>1.32</mass>
-		<radius>1.2</radius>
-		<metallicity>0.33</metallicity>
+		<spectraltype>F8V</spectraltype>
+		<mass>1.27</mass>
+		<radius>1.38</radius>
+		<metallicity>0.40</metallicity>
 		<distance>1950</distance>
-		<temperature>6041</temperature>
+		<temperature>6050</temperature>
 		<rightascension>19 00 58</rightascension>
 		<declination>+46 40 06</declination>
 		<angulardistance />
@@ -39,7 +39,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>13/03/25</lastupdate>
+	<lastupdate>15/01/27</lastupdate>
 	<description />
 	<new />
 	<image />

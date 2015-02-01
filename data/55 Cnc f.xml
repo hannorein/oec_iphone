@@ -4,21 +4,21 @@
 	<id>55 Cnc f</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.144</mass>
+		<mass>0.141</mass>
 		<radius />
 		<orbit>
-			<period>260.7</period>
-			<semimajoraxis>0.781</semimajoraxis>
-			<eccentricity>0.0002</eccentricity>
+			<period>262.00</period>
+			<semimajoraxis>0.7880</semimajoraxis>
+			<eccentricity>0.305</eccentricity>
 			<inclination />
-			<periastron />
-			<longitude />
+			<periastron>166</periastron>
+			<longitude>185.6</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K0V</spectraltype>
-		<mass>0.905</mass>
+		<mass>0.95</mass>
 		<radius>0.943</radius>
 		<metallicity>0.31</metallicity>
 		<distance>12.3</distance>

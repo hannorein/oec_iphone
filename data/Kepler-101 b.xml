@@ -4,33 +4,32 @@
 	<name>KOI-46 b</name>
 	<name>KOI-46.01</name>
 	<name>KIC 10905239 b</name>
-	<name>KIC 10905239.01</name>
 	<id>Kepler-101 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.53493</radius>
+		<mass>0.161</mass>
+		<radius>0.515</radius>
 		<orbit>
-			<period>3.487691</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
-			<periastron />
+			<period>3.4876812</period>
+			<semimajoraxis>0.0474</semimajoraxis>
+			<eccentricity>0.086</eccentricity>
+			<inclination>85.82</inclination>
+			<periastron>231</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>1.1270</mass>
-		<radius>1.666</radius>
+		<spectraltype>G3IV</spectraltype>
+		<mass>1.17</mass>
+		<radius>1.56</radius>
 		<metallicity />
 		<distance>990.44</distance>
-		<temperature>5570</temperature>
-		<rightascension>18 53 01</rightascension>
-		<declination>+48 21 18</declination>
+		<temperature>5667</temperature>
+		<rightascension>18 53 01.32</rightascension>
+		<declination>+48 21 18.84</declination>
 		<angulardistance />
-		<magV />
+		<magV>13.80</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -38,8 +37,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
-	<description>Kepler-101 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-101 b are still unknown, the object is highly unlikely to be a false positive.</description>
+	<lastupdate>15/01/27</lastupdate>
+	<description>Kepler-101 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence and the radial velocity variations due to this planet have been detected with HARPS-N.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>KIC 10001893 b</id_exoplaneteu>
+	<name>KIC 10001893 b</name>
+	<name>KIC 10001893_1</name>
+	<id>KIC 10001893 b</id>
+	<discoverymethod>imaging</discoverymethod>
+	<properties>
+		<mass />
+		<radius />
+		<orbit>
+			<period>0.2197</period>
+			<semimajoraxis>0.005</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>sdB</spectraltype>
+		<mass>0.47</mass>
+		<radius>0.24</radius>
+		<metallicity />
+		<distance />
+		<temperature>27500</temperature>
+		<rightascension>19 09 33.405</rightascension>
+		<declination>+46 59 04.16</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/01/26</lastupdate>
+	<description>KIC 10001893 b was discovered by photometric monitoring of the host star. The reflectivity, degree of heat redistribution and density of this planet are unknown, which prevents knowledge of its mass or radius. The interpretation of the light variations as being caused by reflection from a planet is not confirmed.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

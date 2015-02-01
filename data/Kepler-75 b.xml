@@ -3,30 +3,30 @@
 	<name>Kepler-75 b</name>
 	<name>KOI-889 b</name>
 	<name>KOI-889.01</name>
-	<name>KIC-757450 b</name>
+	<name>KIC 757450 b</name>
 	<name>2MASS 19243302+3634385 b</name>
 	<id>Kepler-75 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>9.9</mass>
-		<radius>1.03</radius>
+		<mass>10.1</mass>
+		<radius>1.05</radius>
 		<orbit>
-			<period>8.884924</period>
-			<semimajoraxis>0.08</semimajoraxis>
-			<eccentricity>0.569</eccentricity>
-			<inclination>89.1</inclination>
-			<periastron />
+			<period>8.8849116</period>
+			<semimajoraxis>0.0818</semimajoraxis>
+			<eccentricity>0.570</eccentricity>
+			<inclination>89.12</inclination>
+			<periastron>63.5</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G8V</spectraltype>
-		<mass>0.88</mass>
-		<radius>0.88</radius>
-		<metallicity>-0.07</metallicity>
+		<spectraltype>K0V</spectraltype>
+		<mass>0.91</mass>
+		<radius>0.89</radius>
+		<metallicity>0.30</metallicity>
 		<distance>1140</distance>
-		<temperature>5330</temperature>
+		<temperature>5200</temperature>
 		<rightascension>19 24 33</rightascension>
 		<declination>+36 34 39</declination>
 		<angulardistance />

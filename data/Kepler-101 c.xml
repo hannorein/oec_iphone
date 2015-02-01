@@ -4,33 +4,32 @@
 	<name>KOI-46 c</name>
 	<name>KOI-46.02</name>
 	<name>KIC 10905239 c</name>
-	<name>KIC 10905239.02</name>
 	<id>Kepler-101 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.12120</radius>
+		<radius>0.112</radius>
 		<orbit>
-			<period>6.029809</period>
-			<semimajoraxis />
+			<period>6.029760</period>
+			<semimajoraxis>0.0684</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>84.6</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>1.1270</mass>
-		<radius>1.666</radius>
+		<spectraltype>G3IV</spectraltype>
+		<mass>1.17</mass>
+		<radius>1.56</radius>
 		<metallicity />
 		<distance>990.44</distance>
-		<temperature>5570</temperature>
-		<rightascension>18 53 01</rightascension>
-		<declination>+48 21 18</declination>
+		<temperature>5667</temperature>
+		<rightascension>18 53 01.32</rightascension>
+		<declination>+48 21 18.84</declination>
 		<angulardistance />
-		<magV />
+		<magV>13.80</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -38,8 +37,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
-	<description>Kepler-101 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-101 c are still unknown, the object is highly unlikely to be a false positive.</description>
+	<lastupdate>15/01/27</lastupdate>
+	<description>Kepler-101 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. The upper limit on the mass from radial velocity variations rules out pure iron compositions to 68.3% probability.</description>
 	<new />
 	<image />
 	<imagedescription />

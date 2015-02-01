@@ -6,25 +6,25 @@
 	<id>KOI-423 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>18</mass>
-		<radius>1.22</radius>
+		<mass>19.1</mass>
+		<radius>1.11</radius>
 		<orbit>
-			<period>21.0874</period>
-			<semimajoraxis>0.155</semimajoraxis>
-			<eccentricity>0.121</eccentricity>
-			<inclination>88.83</inclination>
+			<period>21.087212</period>
+			<semimajoraxis>0.162</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>89.23</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>F7IV</spectraltype>
-		<mass>1.1</mass>
-		<radius>1.39</radius>
-		<metallicity>-0.29</metallicity>
+		<spectraltype>F7V</spectraltype>
+		<mass>1.26</mass>
+		<radius>1.25</radius>
+		<metallicity>0.10</metallicity>
 		<distance>1200</distance>
-		<temperature />
+		<temperature>6350</temperature>
 		<rightascension>19 47 50</rightascension>
 		<declination>+46 02 04</declination>
 		<angulardistance />
@@ -36,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/06/17</lastupdate>
-	<description>This planet was confirmed by SOPHIE measurements (Bouchy et al. 2011).</description>
+	<lastupdate>15/01/27</lastupdate>
+	<description>This planet was confirmed by SOPHIE measurements (Bouchy et al. 2011). The eccentricity is only significant at a 2-sigma level, indicating it may be spurious. As such the parameters for a circular orbit are given here.</description>
 	<new />
 	<image />
 	<imagedescription />

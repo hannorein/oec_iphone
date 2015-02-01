@@ -1,12 +1,13 @@
 <planet>
 	<id_exoplaneteu>Kepler-437 b</id_exoplaneteu>
 	<name>Kepler-437 b</name>
+	<name>KOI-3255.01</name>
 	<name>KOI-3255 b</name>
 	<id>Kepler-437 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.195019</radius>
+		<radius>0.191</radius>
 		<orbit>
 			<period>66.65062</period>
 			<semimajoraxis>0.288</semimajoraxis>
@@ -21,11 +22,11 @@
 		<spectraltype />
 		<mass>0.707</mass>
 		<radius>0.680</radius>
-		<metallicity />
+		<metallicity>0.00</metallicity>
 		<distance>417</distance>
-		<temperature />
-		<rightascension>19 49 23</rightascension>
-		<declination>+44 01 36</declination>
+		<temperature>4551</temperature>
+		<rightascension>19 49 23.37</rightascension>
+		<declination>+44 01 37.0</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -35,7 +36,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/01/06</lastupdate>
+	<lastupdate>15/01/28</lastupdate>
 	<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 	<new />
 	<image />
