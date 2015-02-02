@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>Kepler-446 d</id_exoplaneteu>
+	<name>Kepler-446 d</name>
+	<name>KOI-2842 d</name>
+	<name>KOI-2842.02</name>
+	<name>KIC 8733898 d</name>
+	<name>KIC 8733898.02</name>
+	<id>Kepler-446 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>1.35</radius>
+		<orbit>
+			<period>5.148921</period>
+			<semimajoraxis>0.147</semimajoraxis>
+			<eccentricity />
+			<inclination>88.72</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M4</spectraltype>
+		<mass>0.22</mass>
+		<radius>0.24</radius>
+		<metallicity>-0.30</metallicity>
+		<distance>120</distance>
+		<temperature>3359</temperature>
+		<rightascension>18 49 00.051</rightascension>
+		<declination>+44 55 15.99</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/01/06</lastupdate>
+	<description>Kepler-446 is an M-dwarf with transit signals of three short-period planets.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
