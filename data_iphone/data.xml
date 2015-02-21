@@ -1,4 +1,4 @@
-<planets date="2015-02-20" name="data" planets="1928">
+<planets date="2015-02-21" name="data" planets="1929">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -210,6 +210,34 @@
 		<image>1RXS1609</image>
 		<imagedescription>This image of the host star and the planet was taken with the Gemini North telescope and released in September 2008. Credit: Gemini Observatory.</imagedescription>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>1SWASP J1407 b</id_exoplaneteu>
+		<name>1SWASP J1407 b</name>
+		<name>1SWASP J140747.93-394542.6 b</name>
+		<name>J1407 b</name>
+		<id>1SWASP J1407 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>14.0</mass>
+			<orbit>
+				<period>10044</period>
+				<eccentricity>0.8</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5</spectraltype>
+			<mass>14.0</mass>
+			<radius>0.99</radius>
+			<distance>133</distance>
+			<rightascension>14 07 47.93</rightascension>
+			<declination>-39 45 42.7</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>15/02/21</lastupdate>
+		<description>The light curve of 1SWASP J140747.93-394542.6 underwent a complex series of deep eclipses that lasted 56 days in April 2007. This light curve is interpreted as the transit of a giant ring system that is filling up a fraction of the Hill sphere of an unseen secondary companion, J1407b. The object is currently listed as controversial as various inconsistencies arise in current models and it is not clear that the object really is a planet.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>24 Sex b</id_exoplaneteu>
