@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>1SWASP J1407 b</id_exoplaneteu>
+	<name>1SWASP J1407 b</name>
+	<name>1SWASP J140747.93-394542.6 b</name>
+	<name>J1407 b</name>
+	<id>1SWASP J1407 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>14.0</mass>
+		<radius />
+		<orbit>
+			<period>10044</period>
+			<semimajoraxis />
+			<eccentricity>0.8</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K5</spectraltype>
+		<mass>14.0</mass>
+		<radius>0.99</radius>
+		<metallicity />
+		<distance>133</distance>
+		<temperature />
+		<rightascension>14 07 47.93</rightascension>
+		<declination>-39 45 42.7</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2007</discoveryyear>
+	<lastupdate>15/02/21</lastupdate>
+	<description>The light curve of 1SWASP J140747.93-394542.6 underwent a complex series of deep eclipses that lasted 56 days in April 2007. This light curve is interpreted as the transit of a giant ring system that is filling up a fraction of the Hill sphere of an unseen secondary companion, J1407b. The object is currently listed as controversial as various inconsistencies arise in current models and it is not clear that the object really is a planet.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>
