@@ -337,12 +337,13 @@
 	<system>
 		<name>2M 0746+20</name>
 		<name>2MASS J07464256+2000321</name>
-		<rightascension>07 46 43</rightascension>
-		<declination>+20 00 32</declination>
+		<rightascension>07 46 42.562</rightascension>
+		<declination>+20 00 32.18</declination>
 		<distance>12.21</distance>
 		<star>
 			<mass>0.12</mass>
 			<radius>0.089</radius>
+			<magV>17.7</magV>
 			<spectraltype>L0/L1.5</spectraltype>
 			<planet>
 				<name>2M 0746+20 b</name>
@@ -396,12 +397,13 @@
 	<system>
 		<name>2M 2206-20</name>
 		<name>2MASS J22062280-2047058</name>
-		<rightascension>22 06 23</rightascension>
-		<declination>-20 47 06</declination>
+		<rightascension>22 06 22.802</rightascension>
+		<declination>-20 47 05.90</declination>
 		<distance>26.67</distance>
 		<star>
 			<mass>0.13</mass>
 			<radius>0.11</radius>
+			<magV errorminus="0.203" errorplus="0.203">19.788</magV>
 			<spectraltype>M8</spectraltype>
 			<planet>
 				<name>2M 2206-20 b</name>
@@ -1280,8 +1282,8 @@
 	<system>
 		<name>BD+15 2940</name>
 		<name>HIC 78407</name>
-		<rightascension>16 00 23</rightascension>
-		<declination>+15 32 49</declination>
+		<rightascension>16 00 22.93827</rightascension>
+		<declination>+15 32 48.9291</declination>
 		<distance>585</distance>
 		<star>
 			<name>BD+15 2940</name>
@@ -1289,6 +1291,7 @@
 			<mass errorminus="0.2" errorplus="0.2">1.1</mass>
 			<radius errorminus="2.8" errorplus="2.8">14.7</radius>
 			<temperature errorminus="117" errorplus="117">4796</temperature>
+			<magV errorminus="0.02" errorplus="0.02">9.05</magV>
 			<metallicity errorminus="0.07" errorplus="0.07">0.28</metallicity>
 			<age errorminus="4.2" errorplus="4.2">7.1</age>
 			<spectraltype>K0</spectraltype>
@@ -3079,8 +3082,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>eta Cet</name>
-		<rightascension>01 08 35</rightascension>
-		<declination>-10 49 04</declination>
+		<rightascension>01 08 35.39148</rightascension>
+		<declination>-10 10 56.1570</declination>
 		<distance errorminus="0.2" errorplus="0.2">37.99</distance>
 		<star>
 			<name>eta Cet</name>
@@ -3089,6 +3092,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<name>HIP 5364</name>
 			<name>HD 6805</name>
 			<name>HR 334</name>
+			<magV>3.45</magV>
 			<radius errorminus="0.2" errorplus="0.2">14.3</radius>
 			<mass errorminus="0.1" errorplus="0.1">1.7</mass>
 			<spectraltype>K1III</spectraltype>
@@ -7270,8 +7274,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HATS-4</name>
-		<rightascension>06 16 27</rightascension>
-		<declination>-22 32 49</declination>
+		<rightascension>06 16 26.898</rightascension>
+		<declination>-22 32 48.79</declination>
 		<distance errorminus="12" errorplus="12">420</distance>
 		<star>
 			<name>HATS-4</name>
@@ -7280,6 +7284,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass errorminus="0.020" errorplus="0.020">1.001</mass>
 			<radius errorminus="0.022" errorplus="0.022">0.925</radius>
 			<temperature errorminus="50" errorplus="50">5403</temperature>
+			<magV errorminus="0.017" errorplus="0.017">13.459</magV>
 			<age errorminus="1.6" errorplus="1.6">2.1</age>
 			<metallicity errorminus="0.08" errorplus="0.08">0.43</metallicity>
 			<planet>
@@ -7305,8 +7310,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HATS-5</name>
-		<rightascension>04 28 53</rightascension>
-		<declination>-21 28 55</declination>
+		<rightascension>04 28 53.489</rightascension>
+		<declination>-21 28 54.90</declination>
 		<distance errorminus="8" errorplus="8">257</distance>
 		<star>
 			<name>HATS-5</name>
@@ -7315,6 +7320,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass errorminus="0.028" errorplus="0.028">0.936</mass>
 			<radius errorminus="0.023" errorplus="0.023">0.871</radius>
 			<temperature errorminus="50" errorplus="50">5304</temperature>
+			<magV errorminus="0.030" errorplus="0.030">12.63</magV>
 			<age errorminus="1.9" errorplus="2.6">3.6</age>
 			<metallicity errorminus="0.08" errorplus="0.08">0.19</metallicity>
 			<planet>
@@ -8166,13 +8172,14 @@ Credit: ESO/L. Calcada</imagedescription>
 	</system>
 	<system>
 		<name>HD 106906</name>
-		<rightascension>12 17 53</rightascension>
-		<declination>-55 58 32</declination>
+		<rightascension>12 17 53.19228</rightascension>
+		<declination>-55 58 31.8890</declination>
 		<distance errorminus="6" errorplus="6">92</distance>
 		<star>
 			<name>HD 106906</name>
 			<mass errorminus="0.1" errorplus="0.1">1.5</mass>
 			<temperature errorminus="165" errorplus="165">6516</temperature>
+			<magV>7.81</magV>
 			<age errorminus="0.002" errorplus="0.002">0.013</age>
 			<spectraltype>F5V</spectraltype>
 			<magJ errorminus="0.03" errorplus="0.03">6.95</magJ>
@@ -8693,13 +8700,14 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 114613</name>
-		<rightascension>13 12 03</rightascension>
-		<declination>-37 48 11</declination>
+		<rightascension>13 12 03.18502</rightascension>
+		<declination>-37 48 10.8901</declination>
 		<distance errorminus="0.13" errorplus="0.13">20.67</distance>
 		<star>
 			<name>HD 114613</name>
 			<mass>1.364</mass>
 			<temperature errorminus="17" errorplus="17">5729</temperature>
+			<magV>4.85</magV>
 			<metallicity errorminus="0.01" errorplus="0.01">0.19</metallicity>
 			<spectraltype>G4IV</spectraltype>
 			<planet>
@@ -9361,8 +9369,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 126614</name>
-		<rightascension>14 26 48</rightascension>
-		<declination>-05 10 40</declination>
+		<rightascension>14 26 48.28070</rightascension>
+		<declination>-05 10 40.0074</declination>
 		<distance>72.4</distance>
 		<binary>
 			<name>HD 126614 AC</name>
@@ -10033,8 +10041,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 13908</name>
-		<rightascension>02 18 15</rightascension>
-		<declination>+65 35 40</declination>
+		<rightascension>02 18 14.56056</rightascension>
+		<declination>+65 35 39.6988</declination>
 		<distance errorminus="3.5" errorplus="3.5">71.3</distance>
 		<star>
 			<name>HD 13908</name>
@@ -10042,6 +10050,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<radius errorminus="0.1" errorplus="0.1">1.67</radius>
 			<temperature errorminus="66" errorplus="66">6255</temperature>
 			<age errorminus="0.4" errorplus="0.4">2.9</age>
+			<magV errorminus="0.01" errorplus="0.01">7.51</magV>
 			<metallicity errorminus="0.04" errorplus="0.04">0.01</metallicity>
 			<spectraltype>F8V</spectraltype>
 			<planet>
@@ -11352,14 +11361,15 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 159243</name>
-		<rightascension>17 33 22</rightascension>
-		<declination>+05 42 03</declination>
+		<rightascension>17 33 21.54580</rightascension>
+		<declination>+05 42 02.6391</declination>
 		<distance errorminus="5.5" errorplus="5.5">69.2</distance>
 		<star>
 			<name>HD 159243</name>
 			<mass errorminus="0.03" errorplus="0.03">1.125</mass>
 			<age errorminus="1.1" errorplus="1.1">1.25</age>
 			<radius errorminus="0.05" errorplus="0.05">1.12</radius>
+			<magV errorminus="0.01" errorplus="0.01">8.65</magV>
 			<temperature errorminus="65" errorplus="65">6123</temperature>
 			<metallicity errorminus="0.04" errorplus="0.04">0.05</metallicity>
 			<spectraltype>G0V</spectraltype>
@@ -20203,14 +20213,15 @@ Credit: ESO/J. Rameau</imagedescription>
 	</system>
 	<system>
 		<name>HIP 91258</name>
-		<rightascension>18 36 53</rightascension>
-		<declination>+61 42 09</declination>
+		<rightascension>18 36 53.15422</rightascension>
+		<declination>+61 42 09.0124</declination>
 		<distance errorminus="1.3" errorplus="1.3">44.9</distance>
 		<star>
 			<name>HIP 91258</name>
 			<mass errorminus="0.03" errorplus="0.03">0.95</mass>
 			<age errorminus="2.4" errorplus="2.4">2.4</age>
 			<radius errorminus="0.04" errorplus="0.04">1</radius>
+			<magV errorminus="0.01" errorplus="0.01">8.65</magV>
 			<temperature errorminus="70" errorplus="70">5519</temperature>
 			<metallicity errorminus="0.05" errorplus="0.05">0.23</metallicity>
 			<spectraltype>G5V</spectraltype>
@@ -20437,8 +20448,8 @@ Credit: ESO/J. Rameau</imagedescription>
 	</system>
 	<system>
 		<name>HW Vir</name>
-		<rightascension>12 44 20</rightascension>
-		<declination>-08 40 17</declination>
+		<rightascension>12 44 20.23731</rightascension>
+		<declination>-08 40 16.8338</declination>
 		<distance>181</distance>
 		<binary>
 			<semimajoraxis>5.3</semimajoraxis>
@@ -20565,8 +20576,8 @@ Credit: J. Carson et al 2012.</imagedescription>
 	</system>
 	<system>
 		<name>Kapteyn</name>
-		<rightascension>05 11 41</rightascension>
-		<declination>-45 58 54</declination>
+		<rightascension>05 11 40.58112</rightascension>
+		<declination>-45 01 06.2899</declination>
 		<distance>3.91</distance>
 		<star>
 			<name>Kapteyn</name>
@@ -20576,6 +20587,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<age errorminus="10.6" errorplus="4">11.0</age>
 			<radius errorminus="0.025" errorplus="0.025">0.291</radius>
 			<mass errorminus="0.014" errorplus="0.014">0.281</mass>
+			<magV>8.853</magV>
 			<spectraltype>M1.0</spectraltype>
 			<temperature errorminus="50" errorplus="50">3550.0</temperature>
 			<metallicity>-0.86</metallicity>
@@ -23074,13 +23086,14 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-136</name>
 		<name>KOI-312</name>
 		<name>KIC 7050989</name>
-		<rightascension>19 45 52</rightascension>
-		<declination>+42 35 55</declination>
+		<rightascension>19 45 52.158</rightascension>
+		<declination>+42 35 55.73</declination>
 		<distance>539.57</distance>
 		<star>
 			<name>Kepler-136</name>
 			<name>KOI-312</name>
 			<name>KIC 7050989</name>
+			<magV errorminus="0.21" errorplus="0.21">12.4</magV>
 			<temperature errorminus="100" errorplus="100">6165</temperature>
 			<radius errorminus=".248" errorplus="0.248">1.355</radius>
 			<mass errorminus="0.0430" errorplus="0.0430">1.2040</mass>
@@ -26453,13 +26466,14 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-197</name>
 		<name>KOI-623</name>
 		<name>KIC 12068975</name>
-		<rightascension>19 40 54</rightascension>
-		<declination>+50 33 32</declination>
+		<rightascension>19 40 54.335</rightascension>
+		<declination>+50 33 32.35</declination>
 		<distance>313.87</distance>
 		<star>
 			<name>Kepler-197</name>
 			<name>KOI-623</name>
 			<name>KIC 12068975</name>
+			<magV errorminus="0.17" errorplus="0.17">11.78</magV>
 			<temperature errorminus="02" errorplus="102">6004</temperature>
 			<radius errorminus=".033" errorplus="0.033">1.120</radius>
 			<mass errorminus="0.0350" errorplus="0.0350">0.8640</mass>
@@ -43192,8 +43206,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-93</name>
 		<name>KOI-69</name>
 		<name>KIC 3544595</name>
-		<rightascension>19 25 40.39</rightascension>
-		<declination>+38 40 20.45</declination>
+		<rightascension>19 25 40.3888</rightascension>
+		<declination>+38 40 20.450</declination>
 		<distance>96.7</distance>
 		<star>
 			<name>Kepler-93</name>
@@ -43201,6 +43215,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<name>KIC 3544595</name>
 			<magK>8.370</magK>
 			<temperature errorminus="75" errorplus="75">5669</temperature>
+			<magV errorminus="0.03" errorplus="0.03">10.00</magV>
 			<metallicity errorminus="0.10" errorplus="0.10">-0.18</metallicity>
 			<mass errorminus="0.033" errorplus="0.033">0.911</mass>
 			<radius errorminus="0.011" errorplus="0.011">0.919</radius>
