@@ -1,4 +1,4 @@
-<planets date="2015-02-21" name="data" planets="1929">
+<planets date="2015-02-23" name="data" planets="1930">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1313,6 +1313,40 @@
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/26</lastupdate>
 		<description>The planet BD+15 2940 b was discovered by the Penn State - Torun Planet Search (PTPS) using ground based spectrometer. It is the closest-in planet around a giant star. It might soon be swallowed by the star as a consequence of stellar evolution.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>BD+20 1790 b</id_exoplaneteu>
+		<name>BD+20 1790 b</name>
+		<name>V429 Gem b</name>
+		<name>2MASS J07234358+2024588 b</name>
+		<name>TYC 1355-214-1 b</name>
+		<id>BD+20 1790 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>6.37</mass>
+			<orbit>
+				<period>7.78287</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity>0.22</eccentricity>
+				<inclination>50.41</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5Ve</spectraltype>
+			<mass>0.63</mass>
+			<metallicity>0.30</metallicity>
+			<distance>25.4</distance>
+			<temperature>4410</temperature>
+			<rightascension>07 23 43.592</rightascension>
+			<declination>+20 24 58.66</declination>
+			<magV>10.001</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/02/18</lastupdate>
+		<description>The existance of planet BD+20 1790 b was proposed first in 2010. New Bayesian analysis supports the hypothesis of the planetary companion.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -45633,7 +45667,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/02/11</lastupdate>
 		<description>Kepler-447 b is a hot Jupiter with an extremely grazing transit.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
