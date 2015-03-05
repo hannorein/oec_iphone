@@ -1,4 +1,4 @@
-<systems name="systems" planets="1930">
+<systems name="systems" planets="1932">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -485,35 +485,90 @@
 		<videolink>http://youtu.be/w7Ktw1kytF0</videolink>
 	</system>
 	<system>
-		<name>30 Ari B</name>
-		<rightascension>02 36 58</rightascension>
-		<declination>+24 38 53</declination>
-		<distance>39.4</distance>
-		<star>
-			<mass>1.13</mass>
-			<radius>1.13</radius>
-			<magV>7.1</magV>
-			<magB>7.59</magB>
-			<magJ errorminus="0.020" errorplus="0.020">6.080</magJ>
-			<magH errorminus="0.029" errorplus="0.029">5.908</magH>
-			<magK errorminus="0.021" errorplus="0.021">5.822</magK>
-			<metallicity>0.07</metallicity>
-			<spectraltype>F6V</spectraltype>
-			<planet>
-				<name>30 Ari B b</name>
-				<list>Confirmed planets</list>
-				<mass>9.88</mass>
-				<period>335.1</period>
-				<semimajoraxis>0.995</semimajoraxis>
-				<eccentricity>0.289</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/11/27</lastupdate>
-				<discoveryyear>2009</discoveryyear>
-				<temperature>300.2</temperature>
-			</planet>
-			<name>30 Ari B</name>
-			<temperature>6424.0</temperature>
-		</star>
+		<name>30 Ari</name>
+		<rightascension>02 37 00.52363</rightascension>
+		<declination>+24 38 49.9957</declination>
+		<distance>41.8</distance>
+		<binary>
+			<name>30 Ari</name>
+			<name>WDS J02370+2439</name>
+			<name>STFA 5</name>
+			<separation unit="arcsec">38.00</separation>
+			<separation unit="AU">1580</separation>
+			<positionangle>275</positionangle>
+			<binary>
+				<name>30 Ari A</name>
+				<name>HD 16246</name>
+				<name>HIP 12189</name>
+				<period>1.1095</period>
+				<semimajoraxis>0.02</semimajoraxis>
+				<eccentricity>0.06</eccentricity>
+				<periastron>281.4</periastron>
+				<periastrontime unit="JD">2421946.382</periastrontime>
+				<star>
+					<name>30 Ari Aa</name>
+					<spectraltype>F5V</spectraltype>
+					<magB>6.86</magB>
+					<magV>6.48</magV>
+					<magJ errorminus="0.019" errorplus="0.019">5.681</magJ>
+					<magH errorminus="0.051" errorplus="0.051">5.580</magH>
+					<magK errorminus="0.024" errorplus="0.024">5.479</magK>
+					<mass errorminus="0.04" errorplus="0.04">1.31</mass>
+					<radius errorminus="0.03" errorplus="0.03">1.37</radius>
+					<age errorminus="0.63" errorplus="0.63">0.86</age>
+					<temperature>6462</temperature>
+				</star>
+				<star>
+					<name>30 Ari Ab</name>
+					<mass>0.14</mass>
+				</star>
+			</binary>
+			<binary>
+				<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.536</separation>
+				<separation unit="AU">22.3</separation>
+				<positionangle errorminus="0.2" errorplus="0.2">285.2</positionangle>
+				<name>30 Ari BC</name>
+				<name>RAO 8</name>
+				<star>
+					<name>30 Ari B</name>
+					<name>HD 16232</name>
+					<name>HIP 12184</name>
+					<mass>1.13</mass>
+					<radius>1.13</radius>
+					<magV>7.1</magV>
+					<magB>7.59</magB>
+					<magJ>6.13</magJ>
+					<magH errorminus="0.029" errorplus="0.029">5.908</magH>
+					<magK>5.90</magK>
+					<metallicity>0.07</metallicity>
+					<spectraltype>F8V</spectraltype>
+					<age errorminus="0.83" errorplus="0.83">0.91</age>
+					<planet>
+						<name>30 Ari B b</name>
+						<list>Confirmed planets</list>
+						<mass>9.88</mass>
+						<period>335.1</period>
+						<semimajoraxis>0.995</semimajoraxis>
+						<eccentricity>0.289</eccentricity>
+						<discoverymethod>RV</discoverymethod>
+						<lastupdate>15/03/05</lastupdate>
+						<discoveryyear>2009</discoveryyear>
+						<temperature>300.2</temperature>
+						<list>Planets in binary systems, S-type</list>
+					</planet>
+					<temperature>6424</temperature>
+				</star>
+				<star>
+					<name>30 Ari C</name>
+					<magJ>9.57</magJ>
+					<magK>8.74</magK>
+					<mass>0.50</mass>
+					<spectraltype>M1V</spectraltype>
+				</star>
+				<semimajoraxis>22.3</semimajoraxis>
+			</binary>
+			<semimajoraxis>1580</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>4 Uma</name>
@@ -1225,6 +1280,7 @@
 		<distance>1.339</distance>
 		<binary>
 			<magB>0.4</magB>
+			<magV>-0.1</magV>
 			<semimajoraxis>17.91</semimajoraxis>
 			<eccentricity>0.5179</eccentricity>
 			<inclination>79.20</inclination>
@@ -1375,7 +1431,6 @@
 				<lastupdate>15/02/18</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>0</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -2986,6 +3041,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<distance errorminus="3" errorplus="3">45</distance>
 		<star>
 			<name>EPIC 201367065</name>
+			<name>K2-3</name>
 			<name>2MASS 11292037-0127173</name>
 			<mass errorminus="0.089" errorplus="0.089">0.601</mass>
 			<radius errorminus="0.068" errorplus="0.068">0.561</radius>
@@ -2995,6 +3051,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<spectraltype>M0.2V</spectraltype>
 			<planet>
 				<name>EPIC 201367065 b</name>
+				<name>K2-3 b</name>
 				<name>2MASS 11292037-0127173 b</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.023694" errorplus="0.024605">0.195019</radius>
@@ -3009,6 +3066,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</planet>
 			<planet>
 				<name>EPIC 201367065 c</name>
+				<name>K2-3 c</name>
 				<name>2MASS 11292037-0127173 c</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.020049" errorplus="0.020960">0.156744</radius>
@@ -3023,6 +3081,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</planet>
 			<planet>
 				<name>EPIC 201367065 d</name>
+				<name>K2-3 d</name>
 				<name>2MASS 11292037-0127173 d</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.018226" errorplus="0.019137">0.138518</radius>
@@ -3308,8 +3367,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>FU Tau</name>
-		<rightascension>04 23 35</rightascension>
-		<declination>+25 03 03</declination>
+		<rightascension>04 23 35.386</rightascension>
+		<declination>+25 03 03.05</declination>
 		<distance>140</distance>
 		<star>
 			<name>FU Tau A</name>
@@ -3529,11 +3588,17 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	</system>
 	<system>
 		<name>Gliese 15</name>
-		<rightascension>00 18 23</rightascension>
-		<declination>+44 01 23</declination>
+		<rightascension>00 18 22.88532</rightascension>
+		<declination>+44 01 22.6282</declination>
 		<distance errorminus="0.01" errorplus="0.01">3.587</distance>
 		<binary>
 			<period>949650</period>
+			<magV errorminus="0.01" errorplus="0.01">8.13</magV>
+			<magB>9.63</magB>
+			<magI>6.4</magI>
+			<magJ>5.25</magJ>
+			<magH>4.48</magH>
+			<magK>4.02</magK>
 			<separation unit="AU">146</separation>
 			<separation unit="arcsec" />
 			<star>
@@ -7246,6 +7311,46 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HATS-10</name>
+		<rightascension>19 37 13.80</rightascension>
+		<declination>-22 12 16.1</declination>
+		<distance errorminus="24" errorplus="24">496</distance>
+		<star>
+			<name>HATS-10</name>
+			<name>2MASS 19371363-2212161</name>
+			<name>GSC 6311-00085</name>
+			<mass errorminus="0.054" errorplus="0.054">1.101</mass>
+			<radius errorminus="0.040" errorplus="0.055">1.105</radius>
+			<temperature errorminus="120" errorplus="120">5880</temperature>
+			<magB errorminus="0.010" errorplus="0.010">13.820</magB>
+			<magV errorminus="0.010" errorplus="0.010">13.113</magV>
+			<magJ errorminus="0.024" errorplus="0.024">11.866</magJ>
+			<magH errorminus="0.024" errorplus="0.024">11.568</magH>
+			<magK errorminus="0.025" errorplus="0.025">11.511</magK>
+			<age errorminus="1.7" errorplus="1.7">3.3</age>
+			<metallicity errorminus="0.10" errorplus="0.10">0.15</metallicity>
+			<planet>
+				<name>HATS-10 b</name>
+				<name>2MASS 19371363-2212161 b</name>
+				<name>GSC 6311-00085 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.081" errorplus="0.081">0.526</mass>
+				<radius errorminus="0.045" errorplus="0.061">0.969</radius>
+				<temperature errorminus="39" errorplus="39">1407</temperature>
+				<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2456457.88193</transittime>
+				<period errorminus="0.0000058" errorplus="0.0000058">3.3128460</period>
+				<semimajoraxis errorminus="0.00074" errorplus="0.00074">0.04491</semimajoraxis>
+				<inclination errorminus="0.72" errorplus="0.72">87.79</inclination>
+				<description>HATS-10 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>15/02/28</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HATS-2</name>
 		<rightascension>11 46 57</rightascension>
 		<declination>-22 21 46</declination>
@@ -7428,6 +7533,46 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>14/08/07</lastupdate>
 				<discoveryyear>2014</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HATS-9</name>
+		<rightascension>19 23 14.28</rightascension>
+		<declination>-20 09 58.7</declination>
+		<distance errorminus="30" errorplus="42">622</distance>
+		<star>
+			<name>HATS-9</name>
+			<name>2MASS 19231442-2009587</name>
+			<name>GSC 6305-02502</name>
+			<mass errorminus="0.039" errorplus="0.039">1.030</mass>
+			<radius errorminus="0.043" errorplus="0.101">1.503</radius>
+			<temperature errorminus="70" errorplus="70">5366</temperature>
+			<magB errorminus="0.010" errorplus="0.010">14.080</magB>
+			<magV errorminus="0.010" errorplus="0.010">13.276</magV>
+			<magJ errorminus="0.022" errorplus="0.022">11.885</magJ>
+			<magH errorminus="0.027" errorplus="0.027">11.558</magH>
+			<magK errorminus="0.022" errorplus="0.022">11.479</magK>
+			<age errorminus="1.5" errorplus="1.5">10.8</age>
+			<metallicity errorminus="0.050" errorplus="0.050">0.340</metallicity>
+			<planet>
+				<name>HATS-9 b</name>
+				<name>2MASS 19231442-2009587 b</name>
+				<name>GSC 6305-02502 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.029" errorplus="0.029">0.837</mass>
+				<radius errorminus="0.098" errorplus="0.098">1.065</radius>
+				<temperature errorminus="37" errorplus="52">1823</temperature>
+				<transittime errorminus="0.00086" errorplus="0.00086" unit="BJD">2456124.25896</transittime>
+				<period errorminus="0.0000052" errorplus="0.0000052">1.9153073</period>
+				<semimajoraxis errorminus="0.00038" errorplus="0.00038">0.03048</semimajoraxis>
+				<inclination errorminus="2.5" errorplus="1.6">86.5</inclination>
+				<description>HATS-9 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2. Future characterisation of HATS-9b with the exquisite photometric precision of the Kepler telescope may provide measurements of its reflected light signature.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>15/02/28</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -15159,35 +15304,70 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 2638</name>
-		<rightascension>00 29 59</rightascension>
-		<declination>-05 45 50</declination>
+		<rightascension>00 29 16.10949</rightascension>
+		<declination>-05 54 37.7582</declination>
 		<distance>53.71</distance>
-		<star>
-			<mass>0.93</mass>
-			<magV>9.44</magV>
-			<magB errorminus="0.04" errorplus="0.04">10.33</magB>
-			<magR>9.10</magR>
-			<magI errorminus="0.08" errorplus="0.08">9.19</magI>
-			<magJ errorminus="0.020" errorplus="0.020">7.858</magJ>
-			<magH errorminus="0.03" errorplus="0.03">7.42</magH>
-			<magK errorminus="0.023" errorplus="0.023">7.308</magK>
-			<metallicity>0.16</metallicity>
-			<spectraltype>G5</spectraltype>
-			<planet>
-				<name>HD 2638 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.48</mass>
-				<period>3.4442</period>
-				<semimajoraxis>0.044</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/24</lastupdate>
-				<discoveryyear>2005</discoveryyear>
-				<temperature>978.2</temperature>
-			</planet>
-			<name>HD 2638</name>
-			<temperature>5192.0</temperature>
-		</star>
+		<binary>
+			<name>WDS J00293-0555</name>
+			<separation unit="arcsec">839.60</separation>
+			<separation unit="AU">48000</separation>
+			<positionangle>51</positionangle>
+			<star>
+				<name>HD 2567</name>
+				<name>HD 2567 A</name>
+				<name>HIP 2292</name>
+				<magB errorminus="0.02" errorplus="0.02">8.40</magB>
+				<magV errorminus="0.01" errorplus="0.01">7.76</magV>
+				<magJ errorminus="0.024" errorplus="0.024">6.715</magJ>
+				<magH errorminus="0.033" errorplus="0.033">6.459</magH>
+				<magK errorminus="0.017" errorplus="0.017">6.369</magK>
+				<spectraltype>G0</spectraltype>
+			</star>
+			<binary>
+				<name>HD 2638</name>
+				<name>HD 2638 BC</name>
+				<separation errorminus="0.019" errorplus="0.019" unit="arcsec">0.526</separation>
+				<separation unit="AU">28.5</separation>
+				<positionangle errorminus="1.1" errorplus="1.1">166.7</positionangle>
+				<star>
+					<name>HD 2638</name>
+					<name>HD 2638 B</name>
+					<mass>0.87</mass>
+					<magV>9.44</magV>
+					<magB errorminus="0.04" errorplus="0.04">10.33</magB>
+					<magR>9.10</magR>
+					<magI errorminus="0.08" errorplus="0.08">9.19</magI>
+					<magJ>7.96</magJ>
+					<magH errorminus="0.03" errorplus="0.03">7.42</magH>
+					<magK>7.47</magK>
+					<metallicity>0.16</metallicity>
+					<spectraltype>G5</spectraltype>
+					<temperature>5192</temperature>
+					<planet>
+						<name>HD 2638 b</name>
+						<list>Confirmed planets</list>
+						<mass>0.48</mass>
+						<period>3.4442</period>
+						<semimajoraxis>0.044</semimajoraxis>
+						<eccentricity>0.0</eccentricity>
+						<discoverymethod>RV</discoverymethod>
+						<lastupdate>10/12/24</lastupdate>
+						<discoveryyear>2005</discoveryyear>
+						<temperature>978.2</temperature>
+						<list>Planets in binary systems, S-type</list>
+					</planet>
+				</star>
+				<star>
+					<name>HD 2638 C</name>
+					<magJ>10.46</magJ>
+					<magK>9.46</magK>
+					<mass>0.46</mass>
+					<spectraltype>M1V</spectraltype>
+				</star>
+				<semimajoraxis>28.5</semimajoraxis>
+			</binary>
+			<semimajoraxis>48000</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HD 27442</name>
@@ -20726,10 +20906,17 @@ Credit: Joe Gallagher.</imagedescription>
 	</system>
 	<system>
 		<name>KELT-3</name>
-		<rightascension>09 46 48</rightascension>
-		<declination>+31 44 37</declination>
+		<rightascension>09 54 34.3880</rightascension>
+		<declination>+40 23 16.981</declination>
 		<distance>178</distance>
 		<star>
+			<name>KELT-3</name>
+			<name>BD+41 2024</name>
+			<name>TYC 2996-683-1</name>
+			<name>2MASS J09543439+4023170</name>
+			<name>GSC 02996-00683</name>
+			<name>SAO 43097</name>
+			<name>PPM 51568</name>
 			<mass>1.282</mass>
 			<radius>1.482</radius>
 			<metallicity>0.047</metallicity>
@@ -20741,11 +20928,13 @@ Credit: Joe Gallagher.</imagedescription>
 			<magK errorminus="0.019" errorplus="0.019">8.662</magK>
 			<temperature>6304</temperature>
 			<planet>
-				<name>BD+30 1138 b</name>
+				<name>KELT-3 b</name>
+				<name>BD+41 2024 b</name>
 				<name>TYC 2996-683-1 b</name>
 				<name>2MASS J09543439+4023170 b</name>
 				<name>GSC 02996-00683 b</name>
 				<name>SAO 43097 b</name>
+				<name>PPM 51568 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.462</mass>
 				<radius>1.358</radius>
@@ -20757,11 +20946,9 @@ Credit: Joe Gallagher.</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/11/07</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<name>KELT-3 b</name>
 				<temperature>1667.7</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>KELT-3</name>
 		</star>
 	</system>
 	<system>
@@ -21482,15 +21669,22 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-109</name>
 		<name>KOI-123</name>
 		<name>KIC 5094751</name>
-		<rightascension>19 21 34</rightascension>
-		<declination>+40 17 05</declination>
+		<rightascension>19 21 34.263</rightascension>
+		<declination>+40 17 05.66</declination>
 		<distance>468.1</distance>
 		<star>
 			<name>Kepler-109</name>
 			<name>KOI-123</name>
 			<name>KIC 5094751</name>
+			<name>TYC 3138-1820-1</name>
+			<name>2MASS J19213425+4017055</name>
 			<temperature errorminus="75" errorplus="75">5952</temperature>
 			<metallicity errorminus="0.10" errorplus="0.10">-0.08</metallicity>
+			<magB>12.82</magB>
+			<magV>12.93</magV>
+			<magJ errorminus="0.019" errorplus="0.019">11.314</magJ>
+			<magH errorminus="0.016" errorplus="0.016">11.046</magH>
+			<magK errorminus="0.017" errorplus="0.017">11.001</magK>
 			<mass errorminus="0.06" errorplus="0.06">1.04</mass>
 			<radius errorminus="0.04" errorplus="0.04">1.32</radius>
 			<age>5.73</age>
@@ -21498,6 +21692,8 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>Kepler-109 b</name>
 				<name>KOI-123.01</name>
 				<name>KIC 5094751 b</name>
+				<name>TYC 3138-1820-1 b</name>
+				<name>2MASS J19213425+4017055 b</name>
 				<period>6.48163</period>
 				<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
 				<mass upperlimit="0.022964" />
@@ -21512,6 +21708,8 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>Kepler-109 c</name>
 				<name>KOI-123.02</name>
 				<name>KIC 5094751 c</name>
+				<name>TYC 3138-1820-1 c</name>
+				<name>2MASS J19213425+4017055 c</name>
 				<period>21.2227</period>
 				<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
 				<mass upperlimit="0.068576" />
@@ -22021,17 +22219,25 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-117</name>
 		<name>KOI-209</name>
 		<name>KIC 10723750</name>
-		<rightascension>19 15 10</rightascension>
-		<declination>+48 02 24</declination>
+		<rightascension>19 15 10.326</rightascension>
+		<declination>+48 02 24.81</declination>
 		<distance errorminus="50" errorplus="50">1430</distance>
 		<star>
 			<name>Kepler-117</name>
 			<name>KOI-209</name>
 			<name>KIC 10723750</name>
+			<name>UCAC3 277-144185</name>
 			<temperature errorminus="110" errorplus="110">6150</temperature>
 			<radius errorminus="0.049" errorplus="0.049">1.606</radius>
 			<mass errorminus="0.023" errorplus="0.13">1.129</mass>
 			<age errorminus="1.4" errorplus="1.4">5.3</age>
+			<magB errorminus="0.024" errorplus="0.024">14.93</magB>
+			<magV errorminus="0.018" errorplus="0.018">14.29</magV>
+			<magI errorminus="0.014" errorplus="0.014">14.58</magI>
+			<magR errorminus="0.021" errorplus="0.021">13.69</magR>
+			<magJ errorminus="0.026" errorplus="0.026">13.324</magJ>
+			<magH errorminus="0.03" errorplus="0.03">12.99</magH>
+			<magK errorminus="0.03" errorplus="0.03">13.01</magK>
 			<metallicity errorminus="0.1" errorplus="0.1">-0.04</metallicity>
 			<planet>
 				<name>Kepler-117 c</name>
@@ -22039,6 +22245,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KOI-209.01</name>
 				<name>KIC 10723750 c</name>
 				<name>KIC 10723750.01</name>
+				<name>UCAC3 277-144185 c</name>
 				<period errorminus="0.000014" errorplus="0.000014">50.790391</period>
 				<transittime errorminus="0.0004600" errorplus="0.0004600">2454968.6309700</transittime>
 				<semimajoraxis errorminus="0.0028" errorplus="0.0092">0.2804</semimajoraxis>
@@ -22060,6 +22267,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KOI-209.02</name>
 				<name>KIC 10723750 b</name>
 				<name>KIC 10723750.02</name>
+				<name>UCAC3 277-144185 b</name>
 				<radius errorminus="0.024" errorplus="0.024">0.719</radius>
 				<period errorminus="0.000075" errorplus="0.000075">18.7959228</period>
 				<transittime errorminus="0.0008900" errorplus="0.0008900">2454978.8202800</transittime>
@@ -22678,12 +22886,13 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-128</name>
-		<rightascension>18 49 58</rightascension>
-		<declination>+43 58 48</declination>
+		<rightascension>18 49 58.128</rightascension>
+		<declination>+43 58 48.64</declination>
 		<distance>368.14</distance>
 		<star>
 			<name>Kepler-128</name>
 			<name>KOI-274</name>
+			<name>TYC 3130-1733-1</name>
 			<magB errorminus="0.12" errorplus="0.12">12.06</magB>
 			<magV errorminus="0.13" errorplus="0.13">11.69</magV>
 			<magJ errorminus="0.021" errorplus="0.021">10.373</magJ>
@@ -22699,6 +22908,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KOI-274.01</name>
 				<name>KIC 8077137 b</name>
 				<name>KIC 8077137.01</name>
+				<name>TYC 3130-1733-1 b</name>
 				<radius errorminus="0.01458" errorplus="0.01458">0.10298</radius>
 				<mass errorminus="0.03051" errorplus="0.13998">0.09406</mass>
 				<transittime errorminus="0.0065300" errorplus="0.0065300">2455008.9532900</transittime>
@@ -22716,6 +22926,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KOI-274.02</name>
 				<name>KIC 8077137 c</name>
 				<name>KIC 8077137.02</name>
+				<name>TYC 3130-1733-1 c</name>
 				<radius errorminus="0.01458" errorplus="0.01458">0.10298</radius>
 				<mass errorminus="0.00818" errorplus="0.14911">0.10318</mass>
 				<transittime errorminus="0.0082100" errorplus="0.0082100">2454986.3750900</transittime>
@@ -22779,12 +22990,14 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-13</name>
-		<rightascension>19 07 53</rightascension>
-		<declination>+46 52 06</declination>
+		<rightascension>19 07 53.1072</rightascension>
+		<declination>+46 52 05.953</declination>
 		<distance>735.73</distance>
 		<star>
 			<name>Kepler-13 A</name>
 			<name>KOI-13A</name>
+			<name>BD+46 2629</name>
+			<name>PPM 57894</name>
 			<magB>10.16</magB>
 			<magV>9.95</magV>
 			<magJ errorminus="0.022" errorplus="0.022">9.466</magJ>
@@ -22801,6 +23014,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>Kepler-13 b</name>
 				<name>KOI-13 b</name>
 				<name>KOI-13.01</name>
+				<name>BD+46 2629 b</name>
+				<name>PPM 57894 b</name>
 				<mass errorminus="1.575" errorplus="1.575">6.515</mass>
 				<radius errorminus="0.038" errorplus="0.038">1.406</radius>
 				<period errorminus="0.0013" errorplus="0.0013">1.7637</period>
@@ -40128,18 +40343,28 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-444</name>
-		<rightascension>19 19 00</rightascension>
-		<declination>+41 38 04</declination>
+		<rightascension>19 19 00.54910</rightascension>
+		<declination>+41 38 04.5682</declination>
 		<distance errorminus="1.1" errorplus="1.1">35.7</distance>
 		<star>
 			<name>Kepler-444</name>
 			<name>HIP 94931</name>
 			<name>KOI-3158</name>
 			<name>LHS 3450</name>
+			<name>PPM 58152</name>
+			<name>TYC 3129-329-1</name>
+			<name>BD+41 3306</name>
 			<mass errorminus="0.043" errorplus="0.043">0.758</mass>
 			<radius errorminus="0.014" errorplus="0.014">0.752</radius>
 			<temperature errorminus="74" errorplus="74">5046</temperature>
 			<age errorminus="0.99" errorplus="0.91">11.23</age>
+			<magB>6.67</magB>
+			<magV>8.86</magV>
+			<magR>8.18</magR>
+			<magI>7.66</magI>
+			<magJ errorminus="0.026" errorplus="0.026">7.244</magJ>
+			<magH errorminus="0.047" errorplus="0.047">6.772</magH>
+			<magK errorminus="0.020" errorplus="0.020">6.703</magK>
 			<metallicity errorminus="0.07" errorplus="0.07">-0.55</metallicity>
 			<spectraltype>K0V</spectraltype>
 			<planet>
@@ -40147,6 +40372,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<name>HIP 94931 b</name>
 				<name>KOI-3158 b</name>
 				<name>LHS 3450 b</name>
+				<name>PPM 58152 b</name>
+				<name>TYC 3129-329-1 b</name>
+				<name>BD+41 3306 b</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.001276" errorplus="0.001458">0.036726</radius>
 				<period errorminus="0.0000080" errorplus="0.0000083">3.6001053</period>
@@ -42236,13 +42464,18 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-78</name>
-		<declination>+44 26 54</declination>
-		<rightascension>19 34 57</rightascension>
+		<rightascension>19 34 57.989</rightascension>
+		<declination>+44 26 54.28</declination>
 		<star>
 			<name>Kepler-78</name>
 			<mass errorminus="0.05" errorplus="0.05">0.83</mass>
 			<age errorminus="0.15" errorplus="0.15">0.625</age>
 			<temperature errorminus="44" errorplus="44">5121</temperature>
+			<magB errorminus="0.32" errorplus="0.32">12.87</magB>
+			<magV errorminus="0.16" errorplus="0.16">11.72</magV>
+			<magJ errorminus="0.025" errorplus="0.025">10.184</magJ>
+			<magH errorminus="0.018" errorplus="0.018">9.675</magH>
+			<magK errorminus="0.015" errorplus="0.015">9.586</magK>
 			<metallicity errorminus="0.04" errorplus="0.04">-0.08</metallicity>
 			<planet>
 				<name>Kepler-78 b</name>
@@ -42266,22 +42499,30 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>Kepler-79</name>
 		<name>KOI-152</name>
 		<name>KIC 8394721</name>
-		<rightascension>20 02 04</rightascension>
-		<declination>+44 22 53</declination>
+		<rightascension>20 02 04.114</rightascension>
+		<declination>+44 22 53.44</declination>
 		<distance>1100.38</distance>
 		<star>
 			<name>Kepler-79</name>
 			<name>KOI-152</name>
 			<name>KIC 8394721</name>
+			<name>UCAC3 269-182620</name>
 			<temperature errorminus="100" errorplus="100">6189</temperature>
 			<radius errorminus=".252" errorplus="0.252">1.403</radius>
 			<mass errorminus="0.1000" errorplus="0.1000">1.1800</mass>
+			<magB>14.68</magB>
+			<magV>13.99</magV>
+			<magR errorminus="0.13" errorplus="0.13">14.20</magR>
+			<magJ errorminus="0.025" errorplus="0.025">12.913</magJ>
+			<magH errorminus="0.025" errorplus="0.025">12.653</magH>
+			<magK errorminus="0.03" errorplus="0.03">12.61</magK>
 			<planet>
 				<name>Kepler-79 d</name>
 				<name>KOI-152 d</name>
 				<name>KOI-152.01</name>
 				<name>KIC 8394721 d</name>
 				<name>KIC 8394721.01</name>
+				<name>UCAC3 269-182620 d</name>
 				<radius errorminus="0.03281" errorplus="0.12394">0.69168</radius>
 				<period errorminus=".000073" errorplus="0.000073">52.090590</period>
 				<transittime errorminus="0.0007700" errorplus="0.0007700">2454991.7450800</transittime>
@@ -42298,6 +42539,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<name>KOI-152.02</name>
 				<name>KIC 8394721 c</name>
 				<name>KIC 8394721.02</name>
+				<name>UCAC3 269-182620 c</name>
 				<radius errorminus="0.06379" errorplus="0.06379">0.35450</radius>
 				<period errorminus=".000078" errorplus="0.000078">27.401994</period>
 				<transittime errorminus="0.0016100" errorplus="0.0016100">2454966.6323900</transittime>
@@ -42314,6 +42556,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<name>KOI-152.03</name>
 				<name>KIC 8394721 b</name>
 				<name>KIC 8394721.03</name>
+				<name>UCAC3 269-182620 b</name>
 				<radius errorminus="0.06015" errorplus="0.06015">0.33171</radius>
 				<period errorminus=".000036" errorplus="0.000036">13.484686</period>
 				<transittime errorminus="0.0015800" errorplus="0.0015800">2454969.6133500</transittime>
@@ -42330,6 +42573,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<name>KOI-152.04</name>
 				<name>KIC 8394721 e</name>
 				<name>KIC 8394721.04</name>
+				<name>UCAC3 269-182620 e</name>
 				<radius errorminus="0.06288" errorplus="0.06288">0.30620</radius>
 				<period errorminus=".001365" errorplus="0.001365">81.065298</period>
 				<transittime errorminus="0.0096900" errorplus="0.0096900">2454972.5290800</transittime>
@@ -43982,6 +44226,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<transittime unit="BJD">2454965.67928</transittime>
 				<discoveryyear>2014</discoveryyear>
 				<discoverymethod>transit</discoverymethod>
+				<lastupdate>14/01/16</lastupdate>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -46721,10 +46966,14 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 	</system>
 	<system>
 		<name>POTS-1</name>
-		<rightascension>13 34 26</rightascension>
-		<declination>-66 34 52</declination>
+		<rightascension>13 34 26.130</rightascension>
+		<declination>-66 34 52.02</declination>
 		<distance errorminus="600" errorplus="600">1200</distance>
 		<star>
+			<magB errorminus="0.04" errorplus="0.04">19.54</magB>
+			<magV errorminus="0.03" errorplus="0.03">17.94</magV>
+			<magR errorminus="0.06" errorplus="0.06">17.01</magR>
+			<magI errorminus="0.07" errorplus="0.07">16.14</magI>
 			<magJ errorminus="0.06" errorplus="0.06">15.17</magJ>
 			<magH errorminus="0.04" errorplus="0.04">14.38</magH>
 			<magK errorminus="0.08" errorplus="0.08">14.24</magK>
@@ -48708,20 +48957,29 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-117</name>
-		<rightascension>02 27 06</rightascension>
-		<declination>-50 17 04</declination>
+		<rightascension>02 27 06.0972</rightascension>
+		<declination>-50 17 04.354</declination>
 		<star>
 			<name>WASP-117</name>
 			<name>GSC08055-00876</name>
+			<name>PPM 331895</name>
+			<name>TYC 8055-876-1</name>
 			<mass errorminus="0.029" errorplus="0.029">1.126</mass>
 			<radius errorminus="0.059" errorplus="0.067">1.17</radius>
 			<temperature errorminus="90" errorplus="90">6040</temperature>
+			<magB errorminus="0.04" errorplus="0.04">10.74</magB>
+			<magV errorminus="0.03" errorplus="0.03">10.14</magV>
+			<magJ errorminus="0.022" errorplus="0.022">9.143</magJ>
+			<magH errorminus="0.024" errorplus="0.024">8.860</magH>
+			<magK errorminus="0.021" errorplus="0.021">8.780</magK>
 			<metallicity errorminus="0.14" errorplus="0.14">-0.11</metallicity>
 			<age errorminus="2" errorplus="2">4.6</age>
 			<spectraltype>F9</spectraltype>
 			<planet>
 				<name>WASP-117 b</name>
 				<name>GSC08055-00876 b</name>
+				<name>PPM 331895 b</name>
+				<name>TYC 8055-876-1 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.009" errorplus="0.009">0.2755</mass>
 				<radius errorminus="0.065" errorplus="0.076">1.021</radius>
@@ -49127,8 +49385,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-20</name>
-		<rightascension>00 20 39</rightascension>
-		<declination>-23 56 08</declination>
+		<rightascension>00 20 38.5361</rightascension>
+		<declination>-23 56 08.567</declination>
 		<distance errorminus="20" errorplus="20">210</distance>
 		<star>
 			<name>WASP-20</name>
@@ -49137,6 +49395,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>F9</spectraltype>
 			<age errorminus="1" errorplus="2">7</age>
 			<temperature errorminus="100" errorplus="100">5950</temperature>
+			<magB errorminus="0.06" errorplus="0.06">11.20</magB>
+			<magV errorminus="0.05" errorplus="0.05">10.67</magV>
+			<magJ errorminus="0.021" errorplus="0.021">9.701</magJ>
+			<magH errorminus="0.021" errorplus="0.021">9.417</magH>
+			<magK errorminus="0.024" errorplus="0.024">9.390</magK>
 			<metallicity errorminus="0.061" errorplus="0.061">-0.009</metallicity>
 			<mass errorminus="0.04" errorplus="0.04">1.202</mass>
 			<radius errorminus="0.044" errorplus="0.044">1.392</radius>
@@ -52096,11 +52359,18 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<system>
 		<name>WD 0806-661</name>
 		<name>GJ 3483</name>
-		<rightascension>08 06 54</rightascension>
-		<declination>-66 18 17</declination>
+		<rightascension>08 06 53.736</rightascension>
+		<declination>-66 18 16.74</declination>
 		<distance>19.2</distance>
 		<star>
 			<mass>0.62</mass>
+			<magB>13.76</magB>
+			<magV>13.70</magV>
+			<magR>13.66</magR>
+			<magI>13.61</magI>
+			<magJ errorminus="0.023" errorplus="0.023">13.704</magJ>
+			<magH errorminus="0.025" errorplus="0.025">13.739</magH>
+			<magK errorminus="0.043" errorplus="0.043">13.781</magK>
 			<spectraltype>DQ D</spectraltype>
 			<planet>
 				<name>WD 0806-661 B</name>
