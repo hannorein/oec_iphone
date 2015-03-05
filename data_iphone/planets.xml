@@ -675,16 +675,16 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>F6V</spectraltype>
-			<mass>1.13</mass>
-			<radius>1.13</radius>
-			<metallicity>0.07</metallicity>
-			<distance>39.4</distance>
-			<temperature>300.2</temperature>
-			<rightascension>02 36 58</rightascension>
-			<declination>+24 38 53</declination>
+			<spectraltype>F5V</spectraltype>
+			<mass>1.31</mass>
+			<radius>1.37</radius>
+			<metallicity />
+			<distance>41.8</distance>
+			<temperature>6462</temperature>
+			<rightascension>02 37 00.52363</rightascension>
+			<declination>+24 38 49.9957</declination>
 			<angulardistance />
-			<magV>7.1</magV>
+			<magV>6.48</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -692,12 +692,13 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/11/27</lastupdate>
+		<lastupdate>15/03/05</lastupdate>
 		<description />
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>4 Uma b</id_exoplaneteu>
@@ -1782,7 +1783,7 @@
 			<rightascension>14 39 35</rightascension>
 			<declination>-60 50 14</declination>
 			<angulardistance />
-			<magV />
+			<magV>-0.1</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -1928,7 +1929,7 @@
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/02/18</lastupdate>
 		<description>The existance of planet BD+20 1790 b was proposed first in 2010. New Bayesian analysis supports the hypothesis of the planetary companion.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -1975,54 +1976,6 @@
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/09/13</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is another low-mass stellar companion in the system.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>BD+30 1138 b</id_exoplaneteu>
-		<name>BD+30 1138 b</name>
-		<name>TYC 2996-683-1 b</name>
-		<name>2MASS J09543439+4023170 b</name>
-		<name>GSC 02996-00683 b</name>
-		<name>SAO 43097 b</name>
-		<name>KELT-3 b</name>
-		<id>BD+30 1138 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>1.462</mass>
-			<radius>1.358</radius>
-			<orbit>
-				<period>2.703390</period>
-				<semimajoraxis>0.04126</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<inclination>84.14</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>F2</spectraltype>
-			<mass>1.282</mass>
-			<radius>1.482</radius>
-			<metallicity>0.047</metallicity>
-			<distance>178</distance>
-			<temperature>6304</temperature>
-			<rightascension>09 46 48</rightascension>
-			<declination>+31 44 37</declination>
-			<angulardistance />
-			<magV>9.82</magV>
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/07</lastupdate>
-		<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -4134,6 +4087,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201367065 b</id_exoplaneteu>
 		<name>EPIC 201367065 b</name>
+		<name>K2-3 b</name>
 		<name>2MASS 11292037-0127173 b</name>
 		<id>EPIC 201367065 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -4178,6 +4132,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201367065 c</id_exoplaneteu>
 		<name>EPIC 201367065 c</name>
+		<name>K2-3 c</name>
 		<name>2MASS 11292037-0127173 c</name>
 		<id>EPIC 201367065 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -4222,6 +4177,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201367065 d</id_exoplaneteu>
 		<name>EPIC 201367065 d</name>
+		<name>K2-3 d</name>
 		<name>2MASS 11292037-0127173 d</name>
 		<id>EPIC 201367065 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -4578,8 +4534,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity />
 			<distance>140</distance>
 			<temperature>2375</temperature>
-			<rightascension>04 23 35</rightascension>
-			<declination>+25 03 03</declination>
+			<rightascension>04 23 35.386</rightascension>
+			<declination>+25 03 03.05</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -4812,10 +4768,10 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 			<metallicity>-0.32</metallicity>
 			<distance>3.587</distance>
 			<temperature>3567</temperature>
-			<rightascension>00 18 23</rightascension>
-			<declination>+44 01 23</declination>
+			<rightascension>00 18 22.88532</rightascension>
+			<declination>+44 01 22.6282</declination>
 			<angulardistance />
-			<magV />
+			<magV>8.13</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -9886,6 +9842,51 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-10 b</id_exoplaneteu>
+		<name>HATS-10 b</name>
+		<name>2MASS 19371363-2212161 b</name>
+		<name>GSC 6311-00085 b</name>
+		<id>HATS-10 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.526</mass>
+			<radius>0.969</radius>
+			<orbit>
+				<period>3.3128460</period>
+				<semimajoraxis>0.04491</semimajoraxis>
+				<eccentricity />
+				<inclination>87.79</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.101</mass>
+			<radius>1.105</radius>
+			<metallicity>0.15</metallicity>
+			<distance>496</distance>
+			<temperature>5880</temperature>
+			<rightascension>19 37 13.80</rightascension>
+			<declination>-22 12 16.1</declination>
+			<angulardistance />
+			<magV>13.113</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/02/28</lastupdate>
+		<description>HATS-10 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HATS-2 b</id_exoplaneteu>
 		<name>HATS-2 b</name>
 		<name>GSC 665-00236 b</name>
@@ -10104,6 +10105,51 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<lastupdate>14/08/07</lastupdate>
 		<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-9 b</id_exoplaneteu>
+		<name>HATS-9 b</name>
+		<name>2MASS 19231442-2009587 b</name>
+		<name>GSC 6305-02502 b</name>
+		<id>HATS-9 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.837</mass>
+			<radius>1.065</radius>
+			<orbit>
+				<period>1.9153073</period>
+				<semimajoraxis>0.03048</semimajoraxis>
+				<eccentricity />
+				<inclination>86.5</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.030</mass>
+			<radius>1.503</radius>
+			<metallicity>0.340</metallicity>
+			<distance>622</distance>
+			<temperature>5366</temperature>
+			<rightascension>19 23 14.28</rightascension>
+			<declination>-20 09 58.7</declination>
+			<angulardistance />
+			<magV>13.276</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/02/28</lastupdate>
+		<description>HATS-9 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2. Future characterisation of HATS-9b with the exquisite photometric precision of the Kepler telescope may provide measurements of its reflected light signature.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -21927,16 +21973,16 @@ Image credit: Vanessa Bailey</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G5</spectraltype>
-			<mass>0.93</mass>
+			<spectraltype>G0</spectraltype>
+			<mass />
 			<radius />
-			<metallicity>0.16</metallicity>
+			<metallicity />
 			<distance>53.71</distance>
-			<temperature>978.2</temperature>
-			<rightascension>00 29 59</rightascension>
-			<declination>-05 45 50</declination>
+			<temperature />
+			<rightascension>00 29 16.10949</rightascension>
+			<declination>-05 54 37.7582</declination>
 			<angulardistance />
-			<magV>9.44</magV>
+			<magV>7.76</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -21950,6 +21996,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 27442 A b</id_exoplaneteu>
@@ -30415,6 +30462,55 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KELT-3 b</id_exoplaneteu>
+		<name>KELT-3 b</name>
+		<name>BD+41 2024 b</name>
+		<name>TYC 2996-683-1 b</name>
+		<name>2MASS J09543439+4023170 b</name>
+		<name>GSC 02996-00683 b</name>
+		<name>SAO 43097 b</name>
+		<name>PPM 51568 b</name>
+		<id>KELT-3 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.462</mass>
+			<radius>1.358</radius>
+			<orbit>
+				<period>2.703390</period>
+				<semimajoraxis>0.04126</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.14</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F2</spectraltype>
+			<mass>1.282</mass>
+			<radius>1.482</radius>
+			<metallicity>0.047</metallicity>
+			<distance>178</distance>
+			<temperature>6304</temperature>
+			<rightascension>09 54 34.3880</rightascension>
+			<declination>+40 23 16.981</declination>
+			<angulardistance />
+			<magV>9.82</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>12/11/07</lastupdate>
+		<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KELT-6 b</id_exoplaneteu>
 		<name>KELT-6 b</name>
 		<name>TYC 2532-556-1 b</name>
@@ -31842,6 +31938,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-109 b</name>
 		<name>KOI-123.01</name>
 		<name>KIC 5094751 b</name>
+		<name>TYC 3138-1820-1 b</name>
+		<name>2MASS J19213425+4017055 b</name>
 		<id>Kepler-109 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -31864,10 +31962,10 @@ Credit: Joe Gallagher.</imagedescription>
 			<metallicity>-0.08</metallicity>
 			<distance>468.1</distance>
 			<temperature>5952</temperature>
-			<rightascension>19 21 34</rightascension>
-			<declination>+40 17 05</declination>
+			<rightascension>19 21 34.263</rightascension>
+			<declination>+40 17 05.66</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.93</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31887,6 +31985,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-109 c</name>
 		<name>KOI-123.02</name>
 		<name>KIC 5094751 c</name>
+		<name>TYC 3138-1820-1 c</name>
+		<name>2MASS J19213425+4017055 c</name>
 		<id>Kepler-109 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -31909,10 +32009,10 @@ Credit: Joe Gallagher.</imagedescription>
 			<metallicity>-0.08</metallicity>
 			<distance>468.1</distance>
 			<temperature>5952</temperature>
-			<rightascension>19 21 34</rightascension>
-			<declination>+40 17 05</declination>
+			<rightascension>19 21 34.263</rightascension>
+			<declination>+40 17 05.66</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.93</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -32905,6 +33005,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KOI-209.02</name>
 		<name>KIC 10723750 b</name>
 		<name>KIC 10723750.02</name>
+		<name>UCAC3 277-144185 b</name>
 		<id>Kepler-117 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32927,10 +33028,10 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity>-0.04</metallicity>
 			<distance>1430</distance>
 			<temperature>6150</temperature>
-			<rightascension>19 15 10</rightascension>
-			<declination>+48 02 24</declination>
+			<rightascension>19 15 10.326</rightascension>
+			<declination>+48 02 24.81</declination>
 			<angulardistance />
-			<magV />
+			<magV>14.29</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -32952,6 +33053,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KOI-209.01</name>
 		<name>KIC 10723750 c</name>
 		<name>KIC 10723750.01</name>
+		<name>UCAC3 277-144185 c</name>
 		<id>Kepler-117 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32974,10 +33076,10 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity>-0.04</metallicity>
 			<distance>1430</distance>
 			<temperature>6150</temperature>
-			<rightascension>19 15 10</rightascension>
-			<declination>+48 02 24</declination>
+			<rightascension>19 15 10.326</rightascension>
+			<declination>+48 02 24.81</declination>
 			<angulardistance />
-			<magV />
+			<magV>14.29</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34221,6 +34323,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KOI-274.01</name>
 		<name>KIC 8077137 b</name>
 		<name>KIC 8077137.01</name>
+		<name>TYC 3130-1733-1 b</name>
 		<id>Kepler-128 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -34243,8 +34346,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity />
 			<distance>368.14</distance>
 			<temperature>6090.00</temperature>
-			<rightascension>18 49 58</rightascension>
-			<declination>+43 58 48</declination>
+			<rightascension>18 49 58.128</rightascension>
+			<declination>+43 58 48.64</declination>
 			<angulardistance />
 			<magV>11.69</magV>
 			<magI />
@@ -34268,6 +34371,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KOI-274.02</name>
 		<name>KIC 8077137 c</name>
 		<name>KIC 8077137.02</name>
+		<name>TYC 3130-1733-1 c</name>
 		<id>Kepler-128 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -34290,8 +34394,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity />
 			<distance>368.14</distance>
 			<temperature>6090.00</temperature>
-			<rightascension>18 49 58</rightascension>
-			<declination>+43 58 48</declination>
+			<rightascension>18 49 58.128</rightascension>
+			<declination>+43 58 48.64</declination>
 			<angulardistance />
 			<magV>11.69</magV>
 			<magI />
@@ -34408,6 +34512,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-13 b</name>
 		<name>KOI-13 b</name>
 		<name>KOI-13.01</name>
+		<name>BD+46 2629 b</name>
+		<name>PPM 57894 b</name>
 		<id>Kepler-13 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -34430,8 +34536,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<metallicity>-0.14</metallicity>
 			<distance>735.73</distance>
 			<temperature>9071.00</temperature>
-			<rightascension>19 07 53</rightascension>
-			<declination>+46 52 06</declination>
+			<rightascension>19 07 53.1072</rightascension>
+			<declination>+46 52 05.953</declination>
 			<angulardistance />
 			<magV>9.95</magV>
 			<magI />
@@ -69128,6 +69234,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>HIP 94931 b</name>
 		<name>KOI-3158 b</name>
 		<name>LHS 3450 b</name>
+		<name>PPM 58152 b</name>
+		<name>TYC 3129-329-1 b</name>
+		<name>BD+41 3306 b</name>
 		<id>Kepler-444 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69150,10 +69259,10 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity>-0.55</metallicity>
 			<distance>35.7</distance>
 			<temperature>5046</temperature>
-			<rightascension>19 19 00</rightascension>
-			<declination>+41 38 04</declination>
+			<rightascension>19 19 00.54910</rightascension>
+			<declination>+41 38 04.5682</declination>
 			<angulardistance />
-			<magV />
+			<magV>8.86</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -69196,10 +69305,10 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity>-0.55</metallicity>
 			<distance>35.7</distance>
 			<temperature>5046</temperature>
-			<rightascension>19 19 00</rightascension>
-			<declination>+41 38 04</declination>
+			<rightascension>19 19 00.54910</rightascension>
+			<declination>+41 38 04.5682</declination>
 			<angulardistance />
-			<magV />
+			<magV>8.86</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -69242,10 +69351,10 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity>-0.55</metallicity>
 			<distance>35.7</distance>
 			<temperature>5046</temperature>
-			<rightascension>19 19 00</rightascension>
-			<declination>+41 38 04</declination>
+			<rightascension>19 19 00.54910</rightascension>
+			<declination>+41 38 04.5682</declination>
 			<angulardistance />
-			<magV />
+			<magV>8.86</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -69288,10 +69397,10 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity>-0.55</metallicity>
 			<distance>35.7</distance>
 			<temperature>5046</temperature>
-			<rightascension>19 19 00</rightascension>
-			<declination>+41 38 04</declination>
+			<rightascension>19 19 00.54910</rightascension>
+			<declination>+41 38 04.5682</declination>
 			<angulardistance />
-			<magV />
+			<magV>8.86</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -69334,10 +69443,10 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity>-0.55</metallicity>
 			<distance>35.7</distance>
 			<temperature>5046</temperature>
-			<rightascension>19 19 00</rightascension>
-			<declination>+41 38 04</declination>
+			<rightascension>19 19 00.54910</rightascension>
+			<declination>+41 38 04.5682</declination>
 			<angulardistance />
-			<magV />
+			<magV>8.86</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -72977,10 +73086,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<metallicity>-0.08</metallicity>
 			<distance />
 			<temperature>5121</temperature>
-			<rightascension>19 34 57</rightascension>
-			<declination>+44 26 54</declination>
+			<rightascension>19 34 57.989</rightascension>
+			<declination>+44 26 54.28</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.72</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -73002,6 +73111,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-152.03</name>
 		<name>KIC 8394721 b</name>
 		<name>KIC 8394721.03</name>
+		<name>UCAC3 269-182620 b</name>
 		<id>Kepler-79 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -73024,10 +73134,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<metallicity />
 			<distance>1100.38</distance>
 			<temperature>6189</temperature>
-			<rightascension>20 02 04</rightascension>
-			<declination>+44 22 53</declination>
+			<rightascension>20 02 04.114</rightascension>
+			<declination>+44 22 53.44</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.99</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -73049,6 +73159,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-152.02</name>
 		<name>KIC 8394721 c</name>
 		<name>KIC 8394721.02</name>
+		<name>UCAC3 269-182620 c</name>
 		<id>Kepler-79 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -73071,10 +73182,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<metallicity />
 			<distance>1100.38</distance>
 			<temperature>6189</temperature>
-			<rightascension>20 02 04</rightascension>
-			<declination>+44 22 53</declination>
+			<rightascension>20 02 04.114</rightascension>
+			<declination>+44 22 53.44</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.99</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -73096,6 +73207,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-152.01</name>
 		<name>KIC 8394721 d</name>
 		<name>KIC 8394721.01</name>
+		<name>UCAC3 269-182620 d</name>
 		<id>Kepler-79 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -73118,10 +73230,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<metallicity />
 			<distance>1100.38</distance>
 			<temperature>6189</temperature>
-			<rightascension>20 02 04</rightascension>
-			<declination>+44 22 53</declination>
+			<rightascension>20 02 04.114</rightascension>
+			<declination>+44 22 53.44</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.99</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -73143,6 +73255,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-152.04</name>
 		<name>KIC 8394721 e</name>
 		<name>KIC 8394721.04</name>
+		<name>UCAC3 269-182620 e</name>
 		<id>Kepler-79 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -73165,10 +73278,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<metallicity />
 			<distance>1100.38</distance>
 			<temperature>6189</temperature>
-			<rightascension>20 02 04</rightascension>
-			<declination>+44 22 53</declination>
+			<rightascension>20 02 04.114</rightascension>
+			<declination>+44 22 53.44</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.99</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -76227,7 +76340,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate />
+		<lastupdate>14/01/16</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -80883,10 +80996,10 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 			<metallicity>-0.03</metallicity>
 			<distance>1200</distance>
 			<temperature>4400</temperature>
-			<rightascension>13 34 26</rightascension>
-			<declination>-66 34 52</declination>
+			<rightascension>13 34 26.130</rightascension>
+			<declination>-66 34 52.02</declination>
 			<angulardistance />
-			<magV />
+			<magV>17.94</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -83393,6 +83506,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id_exoplaneteu>WASP-117 b</id_exoplaneteu>
 		<name>WASP-117 b</name>
 		<name>GSC08055-00876 b</name>
+		<name>PPM 331895 b</name>
+		<name>TYC 8055-876-1 b</name>
 		<id>WASP-117 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -83415,10 +83530,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>-0.11</metallicity>
 			<distance />
 			<temperature>6040</temperature>
-			<rightascension>02 27 06</rightascension>
-			<declination>-50 17 04</declination>
+			<rightascension>02 27 06.0972</rightascension>
+			<declination>-50 17 04.354</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.14</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -83870,10 +83985,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>-0.009</metallicity>
 			<distance>210</distance>
 			<temperature>5950</temperature>
-			<rightascension>00 20 39</rightascension>
-			<declination>-23 56 08</declination>
+			<rightascension>00 20 38.5361</rightascension>
+			<declination>-23 56 08.567</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.67</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -87357,10 +87472,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity />
 			<distance>19.2</distance>
 			<temperature>340</temperature>
-			<rightascension>08 06 54</rightascension>
-			<declination>-66 18 17</declination>
+			<rightascension>08 06 53.736</rightascension>
+			<declination>-66 18 16.74</declination>
 			<angulardistance />
-			<magV />
+			<magV>13.70</magV>
 			<magI />
 			<magH />
 			<magJ />
