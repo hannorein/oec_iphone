@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HATS-9 b</id_exoplaneteu>
+	<name>HATS-9 b</name>
+	<name>2MASS 19231442-2009587 b</name>
+	<name>GSC 6305-02502 b</name>
+	<id>HATS-9 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.837</mass>
+		<radius>1.065</radius>
+		<orbit>
+			<period>1.9153073</period>
+			<semimajoraxis>0.03048</semimajoraxis>
+			<eccentricity />
+			<inclination>86.5</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.030</mass>
+		<radius>1.503</radius>
+		<metallicity>0.340</metallicity>
+		<distance>622</distance>
+		<temperature>5366</temperature>
+		<rightascension>19 23 14.28</rightascension>
+		<declination>-20 09 58.7</declination>
+		<angulardistance />
+		<magV>13.276</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/02/28</lastupdate>
+	<description>HATS-9 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2. Future characterisation of HATS-9b with the exquisite photometric precision of the Kepler telescope may provide measurements of its reflected light signature.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -3,6 +3,8 @@
 	<name>Kepler-109 c</name>
 	<name>KOI-123.02</name>
 	<name>KIC 5094751 c</name>
+	<name>TYC 3138-1820-1 c</name>
+	<name>2MASS J19213425+4017055 c</name>
 	<id>Kepler-109 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
@@ -25,10 +27,10 @@
 		<metallicity>-0.08</metallicity>
 		<distance>468.1</distance>
 		<temperature>5952</temperature>
-		<rightascension>19 21 34</rightascension>
-		<declination>+40 17 05</declination>
+		<rightascension>19 21 34.263</rightascension>
+		<declination>+40 17 05.66</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.93</magV>
 		<magI />
 		<magH />
 		<magJ />

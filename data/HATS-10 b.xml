@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HATS-10 b</id_exoplaneteu>
+	<name>HATS-10 b</name>
+	<name>2MASS 19371363-2212161 b</name>
+	<name>GSC 6311-00085 b</name>
+	<id>HATS-10 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.526</mass>
+		<radius>0.969</radius>
+		<orbit>
+			<period>3.3128460</period>
+			<semimajoraxis>0.04491</semimajoraxis>
+			<eccentricity />
+			<inclination>87.79</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.101</mass>
+		<radius>1.105</radius>
+		<metallicity>0.15</metallicity>
+		<distance>496</distance>
+		<temperature>5880</temperature>
+		<rightascension>19 37 13.80</rightascension>
+		<declination>-22 12 16.1</declination>
+		<angulardistance />
+		<magV>13.113</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/02/28</lastupdate>
+	<description>HATS-10 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
