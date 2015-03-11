@@ -1,4 +1,4 @@
-<systems name="systems" planets="1932">
+<systems name="systems" planets="1934">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3097,6 +3097,50 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 	</system>
 	<system>
+		<name>EPIC201505350</name>
+		<rightascension>11 39 50.476</rightascension>
+		<declination>+00 36 12.87</declination>
+		<star>
+			<name>EPIC201505350</name>
+			<mass errorminus="0.14" errorplus="0.14">0.92</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.03</radius>
+			<temperature errorminus="417" errorplus="417">5230</temperature>
+			<metallicity errorminus="0.23" errorplus="0.23">0.38</metallicity>
+			<magV>12.8</magV>
+			<spectraltype>K</spectraltype>
+			<planet>
+				<name>EPIC201505350 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.17" errorplus="0.19">2.5</radius>
+				<period errorminus="0.000078" errorplus="0.000081">7.919454</period>
+				<transittime errorminus="0.00039" errorplus="0.00036" unit="BJD">2456813.38345</transittime>
+				<semimajoraxis errorminus="0.013" errorplus="0.008">0.077</semimajoraxis>
+				<inclination errorminus="0.89" errorplus="1.08">88.83</inclination>
+				<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/03/02</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>EPIC201505350 c</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.10" errorplus="0.10">1.4</radius>
+				<period errorminus="0.00044" errorplus="0.00039">11.90701</period>
+				<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2456817.2759</transittime>
+				<semimajoraxis errorminus="0.0080" errorplus="0.0074">0.1032</semimajoraxis>
+				<inclination errorminus="0.32" errorplus="0.05">89.91</inclination>
+				<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/03/02</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>eps Corona Borealis</name>
 		<rightascension>15 57 35</rightascension>
 		<declination>+26 52 40</declination>
@@ -5555,38 +5599,56 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<rightascension>17 20 28</rightascension>
 		<declination>+38 14 32</declination>
 		<distance>205</distance>
-		<star>
-			<mass>1.386</mass>
-			<radius>1.468</radius>
-			<magV errorminus="0.03" errorplus="0.03">9.99</magV>
-			<magB errorminus="0.03" errorplus="0.03">10.41</magB>
-			<magJ errorminus="0.021" errorplus="0.021">9.094</magJ>
-			<magH errorminus="0.020" errorplus="0.020">8.927</magH>
-			<magK errorminus="0.019" errorplus="0.019">8.851</magK>
-			<metallicity>0.11</metallicity>
-			<spectraltype>F</spectraltype>
-			<planet>
-				<name>HAT-P-14 b</name>
-				<name>2MASS J17202788+3814317 b</name>
-				<name>TYC 3086-00152-1 b</name>
-				<list>Confirmed planets</list>
-				<mass>2.2</mass>
-				<radius>1.2</radius>
-				<period>4.627657</period>
-				<semimajoraxis>0.0594</semimajoraxis>
-				<eccentricity>0.095</eccentricity>
-				<inclination>83.2</inclination>
-				<description>The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.</description>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<temperature>1445.9</temperature>
-				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455310.29094</transittime>
-				<istransiting>1</istransiting>
-			</planet>
+		<binary>
 			<name>HAT-P-14</name>
-			<temperature>6600.0</temperature>
-		</star>
+			<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">0.8576</separation>
+			<separation errorminus="9.4" errorplus="9.4" unit="AU">175.8</separation>
+			<positionangle errorminus="0.10" errorplus="0.10">264.10</positionangle>
+			<star>
+				<name>HAT-P-14 A</name>
+				<name>2MASS J17202788+3814317</name>
+				<name>TYC 3086-00152-1</name>
+				<mass>1.386</mass>
+				<radius>1.468</radius>
+				<magV errorminus="0.03" errorplus="0.03">9.99</magV>
+				<magB errorminus="0.03" errorplus="0.03">10.41</magB>
+				<magJ errorminus="0.021" errorplus="0.021">9.094</magJ>
+				<magH errorminus="0.020" errorplus="0.020">8.927</magH>
+				<magK errorminus="0.019" errorplus="0.019">8.851</magK>
+				<metallicity>0.11</metallicity>
+				<spectraltype>F</spectraltype>
+				<temperature>6600.0</temperature>
+				<planet>
+					<name>HAT-P-14 b</name>
+					<name>HAT-P-14 A b</name>
+					<name>2MASS J17202788+3814317 b</name>
+					<name>TYC 3086-00152-1 b</name>
+					<list>Confirmed planets</list>
+					<mass>2.2</mass>
+					<radius>1.2</radius>
+					<period>4.627657</period>
+					<semimajoraxis>0.0594</semimajoraxis>
+					<eccentricity>0.095</eccentricity>
+					<inclination>83.2</inclination>
+					<description>The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.</description>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/05/29</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<temperature>1445.9</temperature>
+					<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455310.29094</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-14 B</name>
+				<magH errorminus="0.086" errorplus="0.086">14.164</magH>
+				<magK errorminus="0.096" errorplus="0.096">14.498</magK>
+				<temperature errorminus="57" errorplus="57">3356</temperature>
+				<mass errorminus="0.037" errorplus="0.037">0.232</mass>
+			</star>
+			<semimajoraxis>175.8</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-15</name>
@@ -5630,35 +5692,52 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<rightascension>00 38 18</rightascension>
 		<declination>+42 27 47</declination>
 		<distance>235</distance>
-		<star>
+		<binary>
 			<name>HAT-P-16</name>
-			<mass errorminus="0.055" errorplus="0.055">1.216</mass>
-			<radius errorminus="0.025" errorplus="0.025">1.158</radius>
-			<temperature errorminus="72" errorplus="72">6140</temperature>
-			<magV errorminus="0.06" errorplus="0.06">10.91</magV>
-			<magB errorminus="0.06" errorplus="0.06">11.38</magB>
-			<magJ errorminus="0.022" errorplus="0.022">9.850</magJ>
-			<magH errorminus="0.022" errorplus="0.022">9.623</magH>
-			<magK errorminus="0.020" errorplus="0.020">9.553</magK>
-			<metallicity errorminus="0.08" errorplus="0.08">0.12</metallicity>
-			<spectraltype>F8</spectraltype>
-			<planet>
-				<name>HAT-P-16 b</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.128" errorplus="0.128">4.193</mass>
-				<radius errorminus="0.037" errorplus="0.037">1.190</radius>
-				<period errorminus="0.0000015" errorplus="0.0000015">2.7759712</period>
-				<semimajoraxis errorminus="0.00062" errorplus="0.00062">0.04130</semimajoraxis>
-				<eccentricity errorminus="0.004" errorplus="0.004">0.036</eccentricity>
-				<inclination errorminus="0.59" errorplus="0.59">87.74</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>14/11/05</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<temperature errorminus="22" errorplus="22">1567</temperature>
-				<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455027.59821</transittime>
-				<istransiting>1</istransiting>
-			</planet>
-		</star>
+			<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">0.6916</separation>
+			<separation errorminus="6.9" errorplus="6.9" unit="AU">162.5</separation>
+			<positionangle errorminus="0.12" errorplus="0.12">153.83</positionangle>
+			<star>
+				<name>HAT-P-16 A</name>
+				<mass errorminus="0.055" errorplus="0.055">1.216</mass>
+				<radius errorminus="0.025" errorplus="0.025">1.158</radius>
+				<temperature errorminus="72" errorplus="72">6140</temperature>
+				<magV errorminus="0.06" errorplus="0.06">10.91</magV>
+				<magB errorminus="0.06" errorplus="0.06">11.38</magB>
+				<magJ errorminus="0.022" errorplus="0.022">9.850</magJ>
+				<magH errorminus="0.022" errorplus="0.022">9.623</magH>
+				<magK errorminus="0.020" errorplus="0.020">9.553</magK>
+				<metallicity errorminus="0.08" errorplus="0.08">0.12</metallicity>
+				<spectraltype>F8</spectraltype>
+				<planet>
+					<name>HAT-P-16 b</name>
+					<name>HAT-P-16 A b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.128" errorplus="0.128">4.193</mass>
+					<radius errorminus="0.037" errorplus="0.037">1.190</radius>
+					<period errorminus="0.0000015" errorplus="0.0000015">2.7759712</period>
+					<semimajoraxis errorminus="0.00062" errorplus="0.00062">0.04130</semimajoraxis>
+					<eccentricity errorminus="0.004" errorplus="0.004">0.036</eccentricity>
+					<inclination errorminus="0.59" errorplus="0.59">87.74</inclination>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>14/11/05</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<temperature errorminus="22" errorplus="22">1567</temperature>
+					<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455027.59821</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-16 B</name>
+				<magJ errorminus="0.039" errorplus="0.039">15.271</magJ>
+				<magH errorminus="0.047" errorplus="0.047">14.770</magH>
+				<magK errorminus="0.021" errorplus="0.021">15.083</magK>
+				<temperature errorminus="51" errorplus="51">3269</temperature>
+				<mass errorminus="0.023" errorplus="0.023">0.188</mass>
+			</star>
+			<semimajoraxis>162.5</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-17</name>
@@ -5985,39 +6064,58 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>HAT-P-24</name>
 		<rightascension>07 15 18</rightascension>
 		<declination>+14 15 44</declination>
-		<distance>306</distance>
-		<star>
-			<mass>1.191</mass>
-			<radius>1.317</radius>
-			<magV errorminus="0.016" errorplus="0.016">11.76</magV>
-			<magB errorminus="0.17" errorplus="0.17">12.21</magB>
-			<magR errorminus="0.05" errorplus="0.05">11.71</magR>
-			<magJ errorminus="0.022" errorplus="0.022">10.797</magJ>
-			<magH errorminus="0.024" errorplus="0.024">10.589</magH>
-			<magK errorminus="0.020" errorplus="0.020">10.543</magK>
-			<metallicity>-0.16</metallicity>
-			<spectraltype>F8</spectraltype>
-			<planet>
-				<name>HAT-P-24 b</name>
-				<name>TYC 774-01441-1 b</name>
-				<name>2MASS J07151801+1415453 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.685</mass>
-				<radius>1.242</radius>
-				<period>3.35524</period>
-				<semimajoraxis>0.0465</semimajoraxis>
-				<eccentricity>0.067</eccentricity>
-				<inclination>88.6</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<temperature>1495.0</temperature>
-				<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2455216.97669</transittime>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="20" errorplus="20">396</distance>
+		<binary>
 			<name>HAT-P-24</name>
-			<temperature>6373.0</temperature>
-		</star>
+			<separation errorminus="0.0019" errorplus="0.0019" unit="arcsec">4.9442</separation>
+			<separation errorminus="99" errorplus="99" unit="AU">1958</separation>
+			<positionangle errorminus="0.020" errorplus="0.020">170.872</positionangle>
+			<star>
+				<name>HAT-P-24 A</name>
+				<name>TYC 774-01441-1</name>
+				<name>2MASS J07151801+1415453</name>
+				<mass errorminus="0.042" errorplus="0.042">1.191</mass>
+				<radius>1.317</radius>
+				<magV errorminus="0.016" errorplus="0.016">11.76</magV>
+				<magB errorminus="0.17" errorplus="0.17">12.21</magB>
+				<magR errorminus="0.05" errorplus="0.05">11.71</magR>
+				<magJ errorminus="0.022" errorplus="0.022">10.797</magJ>
+				<magH errorminus="0.024" errorplus="0.024">10.589</magH>
+				<magK errorminus="0.020" errorplus="0.020">10.543</magK>
+				<metallicity>-0.16</metallicity>
+				<spectraltype>F8</spectraltype>
+				<temperature errorminus="67" errorplus="67">6329</temperature>
+				<planet>
+					<name>HAT-P-24 b</name>
+					<name>HAT-P-24 A b</name>
+					<name>TYC 774-01441-1 b</name>
+					<name>2MASS J07151801+1415453 b</name>
+					<list>Confirmed planets</list>
+					<mass>0.685</mass>
+					<radius>1.242</radius>
+					<period>3.35524</period>
+					<semimajoraxis>0.0465</semimajoraxis>
+					<eccentricity>0.067</eccentricity>
+					<inclination>88.6</inclination>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/05/29</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<temperature>1495.0</temperature>
+					<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2455216.97669</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-24 B</name>
+				<magJ errorminus="0.080" errorplus="0.080">15.455</magJ>
+				<magH errorminus="0.052" errorplus="0.052">14.752</magH>
+				<magK errorminus="0.010" errorplus="0.010">14.354</magK>
+				<temperature errorminus="29" errorplus="29">3499</temperature>
+				<mass errorminus="0.030" errorplus="0.030">0.373</mass>
+			</star>
+			<semimajoraxis>1958</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-25</name>
@@ -6253,41 +6351,62 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<rightascension>08 15 48</rightascension>
 		<declination>+05 50 12</declination>
 		<distance errorminus="8" errorplus="8">193</distance>
-		<star>
-			<mass errorminus="0.041" errorplus="0.041">1.242</mass>
-			<radius errorminus="0.051" errorplus="0.051">1.215</radius>
-			<temperature errorminus="88" errorplus="88">6304</temperature>
-			<magV errorminus="0.05" errorplus="0.05">10.35</magV>
-			<magB errorminus="0.06" errorplus="0.06">10.95</magB>
-			<magJ errorminus="0.026" errorplus="0.026">9.442</magJ>
-			<magH errorminus="0.028" errorplus="0.028">9.220</magH>
-			<magK errorminus="0.023" errorplus="0.023">9.151</magK>
-			<metallicity errorminus="0.08" errorplus="0.08">0.13</metallicity>
-			<spectraltype>F</spectraltype>
-			<age errorminus="0.5" errorplus="0.8">1.0</age>
-			<planet>
-				<name>HAT-P-30 b</name>
-				<name>WASP-51 b</name>
-				<name>WASP-51</name>
-				<name>GSC 0208-00722 b</name>
-				<name>2MASS J08154797+0550121</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.028" errorplus="0.028">0.711</mass>
-				<radius errorminus="0.065" errorplus="0.065">1.340</radius>
-				<period errorminus="0.000005" errorplus="0.000005">2.810595</period>
-				<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0419</semimajoraxis>
-				<eccentricity errorminus="0.002" errorplus="0.002">0.035</eccentricity>
-				<inclination errorminus="0.4" errorplus="0.4">83.6</inclination>
-				<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection of the planet's orbit normal and the star's spin axis is 73.5 degrees.</description>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/24</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<temperature>1552.5</temperature>
-				<transittime errorminus="0.00037" errorplus="0.00037" unit="BJD">2455456.46561</transittime>
-				<istransiting>1</istransiting>
-			</planet>
+		<binary>
 			<name>HAT-P-30</name>
-		</star>
+			<name>WASP-51</name>
+			<separation errorminus="0.0017" errorplus="0.0017" unit="arcsec">3.8366</separation>
+			<separation errorminus="31" errorplus="31" unit="AU">740</separation>
+			<positionangle errorminus="0.024" errorplus="0.024">4.206</positionangle>
+			<star>
+				<name>HAT-P-30 A</name>
+				<name>WASP-51 A</name>
+				<mass errorminus="0.041" errorplus="0.041">1.242</mass>
+				<radius errorminus="0.051" errorplus="0.051">1.215</radius>
+				<temperature errorminus="88" errorplus="88">6304</temperature>
+				<magV errorminus="0.05" errorplus="0.05">10.35</magV>
+				<magB errorminus="0.06" errorplus="0.06">10.95</magB>
+				<magJ errorminus="0.026" errorplus="0.026">9.442</magJ>
+				<magH errorminus="0.028" errorplus="0.028">9.220</magH>
+				<magK errorminus="0.023" errorplus="0.023">9.151</magK>
+				<metallicity errorminus="0.08" errorplus="0.08">0.13</metallicity>
+				<spectraltype>F</spectraltype>
+				<age errorminus="0.5" errorplus="0.8">1.0</age>
+				<planet>
+					<name>HAT-P-30 b</name>
+					<name>HAT-P-31 A b</name>
+					<name>WASP-51 b</name>
+					<name>WASP-51 A b</name>
+					<name>WASP-51</name>
+					<name>GSC 0208-00722 b</name>
+					<name>2MASS J08154797+0550121</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.028" errorplus="0.028">0.711</mass>
+					<radius errorminus="0.065" errorplus="0.065">1.340</radius>
+					<period errorminus="0.000005" errorplus="0.000005">2.810595</period>
+					<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0419</semimajoraxis>
+					<eccentricity errorminus="0.002" errorplus="0.002">0.035</eccentricity>
+					<inclination errorminus="0.4" errorplus="0.4">83.6</inclination>
+					<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection of the planet's orbit normal and the star's spin axis is 73.5 degrees.</description>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>12/11/24</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<temperature>1552.5</temperature>
+					<transittime errorminus="0.00037" errorplus="0.00037" unit="BJD">2455456.46561</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-30 B</name>
+				<name>WASP-51 B</name>
+				<magJ errorminus="0.0063" errorplus="0.0063">12.8724</magJ>
+				<magH errorminus="0.0053" errorplus="0.0053">12.3353</magH>
+				<magK errorminus="0.041" errorplus="0.041">12.126</magK>
+				<temperature errorminus="40" errorplus="40">3692</temperature>
+				<mass errorminus="0.019" errorplus="0.019">0.519</mass>
+			</star>
+			<semimajoraxis>740</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-31</name>
@@ -6331,82 +6450,116 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>HAT-P-32</name>
 		<rightascension>02 01 10</rightascension>
 		<declination>+46 41 16</declination>
-		<distance>320</distance>
-		<star>
+		<distance errorminus="5" errorplus="5">283</distance>
+		<binary>
 			<name>HAT-P-32</name>
-			<name>TYC 3281-800-1</name>
-			<name>2MASS J02041028+4641162</name>
-			<name>GSC 03281-00800</name>
-			<name>UCAC2 47486078</name>
-			<name>UCAC3 274-27296</name>
-			<mass>1.176</mass>
-			<radius>1.387</radius>
-			<magV errorminus="0.12" errorplus="0.12">11.44</magV>
-			<magB errorminus="0.10" errorplus="0.10">11.79</magB>
-			<magR errorminus="0.06" errorplus="0.06">11.23</magR>
-			<magJ errorminus="0.022" errorplus="0.022">10.251</magJ>
-			<magH errorminus="0.022" errorplus="0.022">10.024</magH>
-			<magK errorminus="0.022" errorplus="0.022">9.990</magK>
-			<metallicity>-0.16</metallicity>
-			<spectraltype>F/G</spectraltype>
-			<planet>
-				<name>HAT-P-32 b</name>
-				<name>TYC 3281-00800-1 b</name>
-				<name>2MASS J02041028+4641162 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.941</mass>
-				<radius>2.037</radius>
-				<period>2.150009</period>
-				<semimajoraxis>0.0344</semimajoraxis>
-				<eccentricity>0.163</eccentricity>
-				<inclination>88.7</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<temperature>1677.4</temperature>
-				<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2454420.44637</transittime>
-				<istransiting>1</istransiting>
-			</planet>
-			<temperature>6001.0</temperature>
-		</star>
+			<separation errorminus="0.0017" errorplus="0.0017" unit="arcsec">2.9355</separation>
+			<separation errorminus="15" errorplus="15" unit="AU">831</separation>
+			<positionangle errorminus="0.031" errorplus="0.031">110.624</positionangle>
+			<star>
+				<name>HAT-P-32 A</name>
+				<name>TYC 3281-800-1</name>
+				<name>2MASS J02041028+4641162</name>
+				<name>GSC 03281-00800</name>
+				<name>UCAC2 47486078</name>
+				<name>UCAC3 274-27296</name>
+				<mass>1.176</mass>
+				<radius>1.387</radius>
+				<magV errorminus="0.12" errorplus="0.12">11.44</magV>
+				<magB errorminus="0.10" errorplus="0.10">11.79</magB>
+				<magR errorminus="0.06" errorplus="0.06">11.23</magR>
+				<magJ errorminus="0.022" errorplus="0.022">10.251</magJ>
+				<magH errorminus="0.022" errorplus="0.022">10.024</magH>
+				<magK errorminus="0.022" errorplus="0.022">9.990</magK>
+				<metallicity>-0.16</metallicity>
+				<temperature errorminus="88" errorplus="88">6207</temperature>
+				<spectraltype>F/G</spectraltype>
+				<planet>
+					<name>HAT-P-32 b</name>
+					<name>HAT-P-32 A b</name>
+					<name>TYC 3281-00800-1 b</name>
+					<name>2MASS J02041028+4641162 b</name>
+					<list>Confirmed planets</list>
+					<mass>0.941</mass>
+					<radius>2.037</radius>
+					<period>2.150009</period>
+					<semimajoraxis>0.0344</semimajoraxis>
+					<eccentricity>0.163</eccentricity>
+					<inclination>88.7</inclination>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/05/29</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<temperature>1677.4</temperature>
+					<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2454420.44637</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-32 B</name>
+				<magJ errorminus="0.028" errorplus="0.028">14.399</magJ>
+				<magH errorminus="0.071" errorplus="0.071">13.692</magH>
+				<magK errorminus="0.073" errorplus="0.073">13.490</magK>
+				<temperature errorminus="10" errorplus="10">3551</temperature>
+				<mass errorminus="0.0085" errorplus="0.0085">0.4243</mass>
+			</star>
+			<semimajoraxis>831</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-33</name>
 		<rightascension>07 32 44</rightascension>
 		<declination>+33 50 06</declination>
-		<distance>419</distance>
-		<star>
-			<mass>1.403</mass>
-			<radius>1.777</radius>
-			<magV errorminus="0.11" errorplus="0.11">11.03</magV>
-			<magB errorminus="0.12" errorplus="0.12">11.66</magB>
-			<magR errorminus="0.07" errorplus="0.07">11.10</magR>
-			<magJ errorminus="0.021" errorplus="0.021">10.263</magJ>
-			<magH errorminus="0.024" errorplus="0.024">10.061</magH>
-			<magK errorminus="0.018" errorplus="0.018">10.004</magK>
-			<metallicity>0.05</metallicity>
-			<spectraltype>F</spectraltype>
-			<planet>
-				<name>HAT-P-33 b</name>
-				<name>TYC 2461-00988-1 b</name>
-				<name>2MASS J07324421+3350061 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.763</mass>
-				<radius>1.827</radius>
-				<period>3.474474</period>
-				<semimajoraxis>0.0503</semimajoraxis>
-				<eccentricity>0.148</eccentricity>
-				<inclination>86.7</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<temperature>1675.2</temperature>
-				<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2455110.92595</transittime>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="9" errorplus="9">387</distance>
+		<binary>
 			<name>HAT-P-33</name>
-			<temperature>6401.0</temperature>
-		</star>
+			<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">0.3063</separation>
+			<separation errorminus="2.8" errorplus="2.8" unit="AU">118.5</separation>
+			<positionangle errorminus="0.29" errorplus="0.29">118.05</positionangle>
+			<star>
+				<name>HAT-P-33 A</name>
+				<mass>1.403</mass>
+				<radius>1.777</radius>
+				<magV errorminus="0.11" errorplus="0.11">11.03</magV>
+				<magB errorminus="0.12" errorplus="0.12">11.66</magB>
+				<magR errorminus="0.07" errorplus="0.07">11.10</magR>
+				<magJ errorminus="0.021" errorplus="0.021">10.263</magJ>
+				<magH errorminus="0.024" errorplus="0.024">10.061</magH>
+				<magK errorminus="0.018" errorplus="0.018">10.004</magK>
+				<temperature errorminus="88" errorplus="88">6446</temperature>
+				<metallicity>0.05</metallicity>
+				<spectraltype>F</spectraltype>
+				<planet>
+					<name>HAT-P-33 b</name>
+					<name>HAT-P-33 A b</name>
+					<name>TYC 2461-00988-1 b</name>
+					<name>2MASS J07324421+3350061 b</name>
+					<list>Confirmed planets</list>
+					<mass>0.763</mass>
+					<radius>1.827</radius>
+					<period>3.474474</period>
+					<semimajoraxis>0.0503</semimajoraxis>
+					<eccentricity>0.148</eccentricity>
+					<inclination>86.7</inclination>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/05/29</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<temperature>1675.2</temperature>
+					<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2455110.92595</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-33 B</name>
+				<magJ errorminus="0.054" errorplus="0.054">14.400</magJ>
+				<magH errorminus="0.033" errorplus="0.033">13.530</magH>
+				<magK errorminus="0.057" errorplus="0.057">13.419</magK>
+				<temperature errorminus="32" errorplus="32">3776</temperature>
+				<mass errorminus="0.014" errorplus="0.014">0.557</mass>
+			</star>
+			<semimajoraxis>118.5</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-34</name>
@@ -7121,44 +7274,61 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>HAT-P-7</name>
 		<rightascension>19 28 59</rightascension>
 		<declination>+47 58 10</declination>
-		<distance>320</distance>
-		<star>
-			<spectraltype>F6</spectraltype>
-			<mass>1.4150</mass>
-			<radius>1.9276</radius>
-			<magV errorminus="0.05" errorplus="0.05">10.48</magV>
-			<magB errorminus="0.06" errorplus="0.06">10.97</magB>
-			<magJ errorminus="0.030" errorplus="0.030">9.555</magJ>
-			<magH errorminus="0.029" errorplus="0.029">9.344</magH>
-			<magK errorminus="0.018" errorplus="0.018">9.334</magK>
-			<temperature>6350</temperature>
-			<age>2.2082</age>
-			<metallicity>0.26</metallicity>
-			<planet>
-				<name>HAT-P-7 b</name>
-				<name>2MASS J19285935+4758102 b</name>
-				<name>TYC 3547-01402-1 b</name>
-				<name>BD+47 2846 b</name>
-				<name>KIC 10666592 b</name>
-				<name>Kepler-2 b</name>
-				<name>KOI-2 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.709</mass>
-				<radius>1.4588</radius>
-				<temperature>2733</temperature>
-				<period>2.204737</period>
-				<semimajoraxis>0.0379</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>83.111</inclination>
-				<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/01/24</lastupdate>
-				<discoveryyear>2008</discoveryyear>
-				<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454342.42691</transittime>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="40" errorplus="50">320</distance>
+		<binary>
 			<name>HAT-P-7</name>
-		</star>
+			<separation errorminus="0.004" errorplus="0.0018" unit="arcsec">3.8587</separation>
+			<separation errorminus="67" errorplus="67" unit="AU">1238</separation>
+			<positionangle errorminus="0.1" errorplus="0.1">89.8</positionangle>
+			<star>
+				<name>HAT-P-7 A</name>
+				<spectraltype>F6</spectraltype>
+				<mass>1.4150</mass>
+				<radius>1.9276</radius>
+				<magV errorminus="0.05" errorplus="0.05">10.48</magV>
+				<magB errorminus="0.06" errorplus="0.06">10.97</magB>
+				<magJ errorminus="0.030" errorplus="0.030">9.555</magJ>
+				<magH errorminus="0.029" errorplus="0.029">9.344</magH>
+				<magK errorminus="0.018" errorplus="0.018">9.334</magK>
+				<temperature errorminus="32" errorplus="32">6259</temperature>
+				<age>2.2082</age>
+				<metallicity>0.26</metallicity>
+				<planet>
+					<name>HAT-P-7 b</name>
+					<name>HAT-P-7 A b</name>
+					<name>2MASS J19285935+4758102 b</name>
+					<name>TYC 3547-01402-1 b</name>
+					<name>BD+47 2846 b</name>
+					<name>KIC 10666592 b</name>
+					<name>Kepler-2 b</name>
+					<name>KOI-2 b</name>
+					<list>Confirmed planets</list>
+					<mass>1.709</mass>
+					<radius>1.4588</radius>
+					<temperature>2733</temperature>
+					<period>2.204737</period>
+					<semimajoraxis>0.0379</semimajoraxis>
+					<eccentricity>0.0</eccentricity>
+					<inclination>83.111</inclination>
+					<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/01/24</lastupdate>
+					<discoveryyear>2008</discoveryyear>
+					<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454342.42691</transittime>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HAT-P-7 B</name>
+				<magJ errorminus="0.075" errorplus="0.075">16.117</magJ>
+				<magH errorminus="0.078" errorplus="0.078">15.231</magH>
+				<magK errorminus="0.058" errorplus="0.058">15.254</magK>
+				<temperature errorminus="28" errorplus="28">3321</temperature>
+				<mass errorminus="0.016" errorplus="0.016">0.215</mass>
+			</star>
+			<semimajoraxis>1238</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HAT-P-8</name>
@@ -7213,14 +7383,20 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<star>
 					<name>HAT-P-8 B</name>
 					<spectraltype>M5V</spectraltype>
-					<magK>14.5</magK>
-					<mass errorminus="0.03" errorplus="0.03">0.22</mass>
+					<magJ errorminus="0.12" errorplus="0.12">15.81</magJ>
+					<magH errorminus="0.054" errorplus="0.054">14.675</magH>
+					<magK errorminus="0.063" errorplus="0.063">14.827</magK>
+					<temperature errorminus="59" errorplus="59">3216</temperature>
+					<mass errorminus="0.020" errorplus="0.020">0.168</mass>
 				</star>
 				<star>
 					<name>HAT-P-8 C</name>
 					<spectraltype>M6V</spectraltype>
-					<magK>15.0</magK>
-					<mass errorminus="0.02" errorplus="0.02">0.18</mass>
+					<magJ errorminus="0.15" errorplus="0.15">16.37</magJ>
+					<magH errorminus="0.065" errorplus="0.065">15.356</magH>
+					<magK errorminus="0.057" errorplus="0.057">15.400</magK>
+					<temperature errorminus="63" errorplus="63">3058</temperature>
+					<mass errorminus="0.011" errorplus="0.011">0.131</mass>
 				</star>
 				<semimajoraxis>15</semimajoraxis>
 			</binary>
@@ -7345,7 +7521,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>15/02/28</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -7572,7 +7747,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>15/02/28</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -19061,33 +19235,50 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 8673</name>
 		<rightascension>01 26 08</rightascension>
 		<declination>+34 34 46</declination>
-		<distance>38.25</distance>
-		<star>
-			<mass>1.312</mass>
-			<radius>1.54</radius>
-			<magV>7.57</magV>
-			<magB>6.78</magB>
-			<magR>6.1</magR>
-			<magI>5.8</magI>
-			<magJ>5.44</magJ>
-			<magH>5.22</magH>
-			<magK>5.17</magK>
-			<spectraltype>F7 V</spectraltype>
-			<planet>
-				<name>HD 8673 b</name>
-				<list>Confirmed planets</list>
-				<mass>14.2</mass>
-				<period>1634</period>
-				<semimajoraxis>3.02</semimajoraxis>
-				<eccentricity>0.723</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/06/24</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<temperature>194.3</temperature>
-			</planet>
+		<distance errorminus="0.5" errorplus="0.5">36.1</distance>
+		<binary>
 			<name>HD 8673</name>
-			<temperature>6413.0</temperature>
-		</star>
+			<positionangle errorminus="0.57" errorplus="0.57">333.4</positionangle>
+			<separation errorminus="0.003" errorplus="0.003" unit="arcsec">0.308</separation>
+			<separation unit="AU">11</separation>
+			<star>
+				<mass>1.312</mass>
+				<radius>1.54</radius>
+				<magV>7.57</magV>
+				<magB>6.78</magB>
+				<magR>6.1</magR>
+				<magI>5.8</magI>
+				<magJ>5.44</magJ>
+				<magH>5.22</magH>
+				<magK>5.17</magK>
+				<spectraltype>F7 V</spectraltype>
+				<planet>
+					<name>HD 8673 b</name>
+					<name>HD 8673 A b</name>
+					<list>Confirmed planets</list>
+					<mass>14.2</mass>
+					<period>1634</period>
+					<semimajoraxis>3.02</semimajoraxis>
+					<eccentricity>0.723</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>10/06/24</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<temperature>194.3</temperature>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<name>HD 8673 A</name>
+				<temperature>6413.0</temperature>
+			</star>
+			<star>
+				<name>HD 8673 B</name>
+				<temperature lowerlimit="3520" upperlimit="3690" />
+				<mass lowerlimit="0.33" upperlimit="0.45" />
+				<magJ>10.00</magJ>
+				<magH>9.42</magH>
+				<magK>9.29</magK>
+			</star>
+			<semimajoraxis>11</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HD 87883</name>
@@ -22992,44 +23183,82 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-13</name>
 		<rightascension>19 07 53.1072</rightascension>
 		<declination>+46 52 05.953</declination>
-		<distance>735.73</distance>
-		<star>
-			<name>Kepler-13 A</name>
-			<name>KOI-13A</name>
+		<distance errorminus="106" errorplus="106">530</distance>
+		<binary>
+			<name>Kepler-13</name>
+			<name>KOI-13</name>
 			<name>BD+46 2629</name>
-			<name>PPM 57894</name>
-			<magB>10.16</magB>
-			<magV>9.95</magV>
-			<magJ errorminus="0.022" errorplus="0.022">9.466</magJ>
-			<magH errorminus="0.019" errorplus="0.019">9.455</magH>
-			<magK errorminus="0.014" errorplus="0.014">9.425</magK>
-			<temperature errorminus="200.00" errorplus="200.00">9071.00</temperature>
-			<radius errorminus="1.9000" errorplus="1.9000">2.7000</radius>
-			<mass errorminus="0.4700" errorplus="0.4700">2.2700</mass>
-			<age errorminus="0.1300" errorplus="0.1300">0.5800</age>
-			<metallicity>-0.14</metallicity>
-			<spectraltype>A</spectraltype>
-			<planet>
-				<name>Kepler-13 A b</name>
-				<name>Kepler-13 b</name>
-				<name>KOI-13 b</name>
-				<name>KOI-13.01</name>
-				<name>BD+46 2629 b</name>
-				<name>PPM 57894 b</name>
-				<mass errorminus="1.575" errorplus="1.575">6.515</mass>
-				<radius errorminus="0.038" errorplus="0.038">1.406</radius>
-				<period errorminus="0.0013" errorplus="0.0013">1.7637</period>
-				<transittime errorminus="0.0000100" errorplus="0.0000100">2454953.5651260</transittime>
-				<semimajoraxis>0.0380000</semimajoraxis>
-				<temperature errorminus="160" errorplus="160">2750</temperature>
-				<list>Confirmed planets</list>
-				<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/03/25</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<istransiting>1</istransiting>
-			</planet>
-		</star>
+			<separation errorminus="0.05" errorplus="0.05" unit="arcsec">1.15</separation>
+			<separation errorminus="120" errorplus="120" unit="AU">610</separation>
+			<positionangle errorminus="1" errorplus="1">281</positionangle>
+			<star>
+				<name>Kepler-13 A</name>
+				<name>KOI-13 A</name>
+				<name>BD+46 2629 A</name>
+				<name>PPM 57894</name>
+				<name>TYC 3542-64-1</name>
+				<magB>10.16</magB>
+				<magV>9.95</magV>
+				<magJ errorminus="0.022" errorplus="0.022">9.466</magJ>
+				<magH errorminus="0.019" errorplus="0.019">9.455</magH>
+				<magK errorminus="0.014" errorplus="0.014">9.425</magK>
+				<temperature errorminus="250" errorplus="250">7650</temperature>
+				<radius errorminus="0.04" errorplus="0.04">1.71</radius>
+				<mass errorminus="0.10" errorplus="0.10">1.72</mass>
+				<age errorminus="0.146" errorplus="0.183">0.708</age>
+				<metallicity>0.2</metallicity>
+				<spectraltype>A</spectraltype>
+				<planet>
+					<name>Kepler-13 A b</name>
+					<name>Kepler-13 b</name>
+					<name>KOI-13 b</name>
+					<name>KOI-13.01</name>
+					<name>BD+46 2629 A b</name>
+					<name>PPM 57894 b</name>
+					<mass lowerlimit="4.94" upperlimit="8.09" />
+					<radius errorminus="0.038" errorplus="0.038">1.406</radius>
+					<period errorminus="0.00000037" errorplus="0.00000037">1.76358799</period>
+					<transittime errorminus="0.0000100" errorplus="0.0000100">2454953.5651260</transittime>
+					<semimajoraxis errorminus="0.00066" errorplus="0.00066">0.03423</semimajoraxis>
+					<inclination>86.6</inclination>
+					<temperature errorminus="160" errorplus="160">2750</temperature>
+					<spinorbitalignment errorminus="2.0" errorplus="2.0">58.6</spinorbitalignment>
+					<list>Confirmed planets</list>
+					<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>15/03/07</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<binary>
+				<period errorminus="0.029" errorplus="0.029">65.831</period>
+				<eccentricity errorminus="0.02" errorplus="0.02">0.52</eccentricity>
+				<periastron errorminus="3" errorplus="3">32</periastron>
+				<periastrontime errorminus="0.181" errorplus="0.181" unit="BJD">2455943.181</periastrontime>
+				<semimajoraxis>0.41</semimajoraxis>
+				<star>
+					<name>Kepler-13 B</name>
+					<name>BD+46 2629 B</name>
+					<name>TYC 3542-64-2</name>
+					<magV>10.2</magV>
+					<mass errorminus="0.10" errorplus="0.10">1.68</mass>
+					<radius errorminus="0.04" errorplus="0.04">1.68</radius>
+					<temperature errorminus="250" errorplus="250">7530</temperature>
+					<metallicity errorminus="0.2" errorplus="0.2">0.2</metallicity>
+					<age errorminus="0.1" errorplus="0.1">0.5</age>
+					<spectraltype>A</spectraltype>
+				</star>
+				<star>
+					<name>Kepler-13 C</name>
+					<name>BD+46 2629 C</name>
+					<temperature upperlimit="4700" />
+					<mass lowerlimit="0.4" upperlimit="0.75" />
+				</star>
+			</binary>
+			<semimajoraxis>610</semimajoraxis>
+		</binary>
 		<videolink>http://youtu.be/v26NOR1Ihuc</videolink>
 	</system>
 	<system>
@@ -48100,43 +48329,59 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<rightascension>19 07 14</rightascension>
 		<declination>+49 18 59</declination>
 		<distance errorminus="11" errorplus="11">213</distance>
-		<star>
+		<binary>
 			<name>TrES-2</name>
-			<name>TYC 3549-02811-1</name>
-			<name>2MASS J19071403+4918590</name>
-			<name>KIC 11446443</name>
-			<name>Kepler-1</name>
-			<name>KOI-1</name>
-			<mass errorminus="0.063" errorplus="0.063">0.983</mass>
-			<radius errorminus="0.033" errorplus="0.033">1.003</radius>
-			<metallicity>0.001</metallicity>
-			<magB errorminus="0.10" errorplus="0.10">11.85</magB>
-			<magV errorminus="0.08" errorplus="0.08">11.25</magV>
-			<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
-			<magH errorminus="0.026" errorplus="0.026">9.920</magH>
-			<magK errorminus="0.022" errorplus="0.022">9.846</magK>
-			<spectraltype>G0</spectraltype>
-			<temperature errorminus="50" errorplus="50">5850</temperature>
-			<planet>
-				<name>TrES-2</name>
-				<name>TrES-2 b</name>
-				<name>Kepler-1 b</name>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-				<mass>1.253</mass>
-				<radius>1.169</radius>
-				<period>2.470613402</period>
-				<semimajoraxis>0.03556</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>83.874</inclination>
-				<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2454502.56227</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/01/27</lastupdate>
-				<discoveryyear>2006</discoveryyear>
-				<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
-				<istransiting>1</istransiting>
-			</planet>
-		</star>
+			<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">1.1054</separation>
+			<separation errorminus="13" errorplus="13" unit="AU">216</separation>
+			<positionangle errorminus="0.007" errorplus="0.007">136.325</positionangle>
+			<star>
+				<name>TrES-2 A</name>
+				<name>TYC 3549-02811-1</name>
+				<name>2MASS J19071403+4918590</name>
+				<name>KIC 11446443</name>
+				<name>Kepler-1</name>
+				<name>KOI-1</name>
+				<mass errorminus="0.063" errorplus="0.063">0.983</mass>
+				<radius errorminus="0.033" errorplus="0.033">1.003</radius>
+				<metallicity>0.001</metallicity>
+				<magB errorminus="0.10" errorplus="0.10">11.85</magB>
+				<magV errorminus="0.08" errorplus="0.08">11.25</magV>
+				<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
+				<magH errorminus="0.026" errorplus="0.026">9.920</magH>
+				<magK errorminus="0.022" errorplus="0.022">9.846</magK>
+				<spectraltype>G0</spectraltype>
+				<temperature errorminus="50" errorplus="50">5850</temperature>
+				<planet>
+					<name>TrES-2</name>
+					<name>TrES-2 A b</name>
+					<name>TrES-2 b</name>
+					<name>Kepler-1 b</name>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<mass>1.253</mass>
+					<radius>1.169</radius>
+					<period>2.470613402</period>
+					<semimajoraxis>0.03556</semimajoraxis>
+					<eccentricity>0.0</eccentricity>
+					<inclination>83.874</inclination>
+					<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2454502.56227</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>13/01/27</lastupdate>
+					<discoveryyear>2006</discoveryyear>
+					<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
+					<istransiting>1</istransiting>
+				</planet>
+			</star>
+			<star>
+				<name>TrES-2 B</name>
+				<magJ errorminus="0.020" errorplus="0.020">13.128</magJ>
+				<magH errorminus="0.0073" errorplus="0.0073">12.3715</magH>
+				<magK errorminus="0.019" errorplus="0.019">12.268</magK>
+				<temperature errorminus="29" errorplus="29">3669</temperature>
+				<mass errorminus="0.013" errorplus="0.013">0.509</mass>
+			</star>
+			<semimajoraxis>216</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>TrES-3</name>
@@ -48183,20 +48428,24 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+37 12 42</declination>
 		<distance>485</distance>
 		<binary>
+			<name>TrES-4</name>
 			<separation errorminus="0.005" errorplus="0.005" unit="arcsec">1.555</separation>
 			<separation errorminus="2" errorplus="2" unit="AU">754</separation>
 			<positionangle errorminus="0.1" errorplus="0.1">359.8</positionangle>
 			<star>
 				<name>TrES-4 A</name>
-				<mass>0.88</mass>
-				<radius>0.85</radius>
+				<name>TYC 2620-00648-1</name>
+				<name>2MASS J17531304+3712426</name>
+				<mass errorminus="0.086" errorplus="0.086">1.339</mass>
+				<radius errorminus="0.08" errorplus="0.08">1.81</radius>
 				<magB errorminus="0.007" errorplus="0.007">12.112</magB>
 				<magV errorminus="0.004" errorplus="0.004">11.592</magV>
 				<magJ errorminus="0.018" errorplus="0.018">10.583</magJ>
 				<magH errorminus="0.015" errorplus="0.015">10.350</magH>
 				<magK errorminus="0.019" errorplus="0.019">10.330</magK>
+				<temperature errorminus="75" errorplus="75">6200</temperature>
 				<metallicity>0.001</metallicity>
-				<spectraltype>K0V</spectraltype>
+				<spectraltype>F8</spectraltype>
 				<planet>
 					<name>TrES-4 A b</name>
 					<name>TrES-4 b</name>
@@ -48221,8 +48470,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				</planet>
 			</star>
 			<star>
-				<name>TrES-4 C</name>
-				<mass>0.59</mass>
+				<name>TrES-4 B</name>
+				<magJ errorminus="0.012" errorplus="0.012">14.111</magJ>
+				<magH errorminus="0.013" errorplus="0.013">13.527</magH>
+				<magK errorminus="0.046" errorplus="0.046">13.631</magK>
+				<temperature errorminus="93" errorplus="93">3985</temperature>
+				<mass errorminus="0.028" errorplus="0.028">0.626</mass>
 				<spectraltype>K</spectraltype>
 			</star>
 			<semimajoraxis>754</semimajoraxis>
@@ -48507,39 +48760,55 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-1</name>
 		<rightascension>00 20 40</rightascension>
 		<declination>+31 59 24</declination>
-		<distance errorminus="27" errorplus="27">408</distance>
-		<star>
-			<mass errorminus="0.07" errorplus="0.05">1.24</mass>
-			<radius errorminus="0.032" errorplus="0.022">1.470</radius>
-			<age errorminus="0.6" errorplus="1.2">3.4</age>
-			<magV>11.79</magV>
-			<magB errorminus="0.21" errorplus="0.21">12.06</magB>
-			<magJ errorminus="0.019" errorplus="0.019">10.586</magJ>
-			<magH errorminus="0.016" errorplus="0.016">10.364</magH>
-			<magK errorminus="0.018" errorplus="0.018">10.276</magK>
-			<spectraltype>F7V</spectraltype>
-			<metallicity errorminus="0.08" errorplus="0.08">0.23</metallicity>
-			<planet>
-				<name>WASP-1 b</name>
-				<name>TYC 2265-00107-1 b</name>
-				<name>2MASS J00204007+3159239 b</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.052" errorplus="0.057">0.854</mass>
-				<radius errorminus="0.034" errorplus="0.024">1.483</radius>
-				<period>2.5199464</period>
-				<semimajoraxis errorminus="0.00073" errorplus="0.00053">0.03889</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination errorminus="1.3" errorplus="1.3">90.0</inclination>
-				<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2454774.3502</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>14/03/05</lastupdate>
-				<discoveryyear>2006</discoveryyear>
-				<temperature>1644.3</temperature>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="38" errorplus="38">380</distance>
+		<binary>
 			<name>WASP-1</name>
-			<temperature>6200.0</temperature>
-		</star>
+			<separation errorminus="16" errorplus="160" unit="AU">1587</separation>
+			<separation errorminus="0.0018" errorplus="0.0018" unit="arcsec">4.5815</separation>
+			<positionangle errorminus="0.021" errorplus="0.021">1.953</positionangle>
+			<star>
+				<name>WASP-1 A</name>
+				<mass errorminus="0.07" errorplus="0.05">1.24</mass>
+				<radius errorminus="0.032" errorplus="0.022">1.470</radius>
+				<age errorminus="0.6" errorplus="1.2">3.4</age>
+				<magV>11.79</magV>
+				<magB errorminus="0.21" errorplus="0.21">12.06</magB>
+				<magJ errorminus="0.019" errorplus="0.019">10.586</magJ>
+				<magH errorminus="0.016" errorplus="0.016">10.364</magH>
+				<magK errorminus="0.018" errorplus="0.018">10.276</magK>
+				<temperature errorminus="64" errorplus="64">6160</temperature>
+				<spectraltype>F7V</spectraltype>
+				<metallicity errorminus="0.08" errorplus="0.08">0.23</metallicity>
+				<planet>
+					<name>WASP-1 b</name>
+					<name>WASP-1 A b</name>
+					<name>TYC 2265-00107-1 b</name>
+					<name>2MASS J00204007+3159239 b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.052" errorplus="0.057">0.854</mass>
+					<radius errorminus="0.034" errorplus="0.024">1.483</radius>
+					<period>2.5199464</period>
+					<semimajoraxis errorminus="0.00073" errorplus="0.00053">0.03889</semimajoraxis>
+					<eccentricity>0.0</eccentricity>
+					<inclination errorminus="1.3" errorplus="1.3">90.0</inclination>
+					<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2454774.3502</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>14/03/05</lastupdate>
+					<discoveryyear>2006</discoveryyear>
+					<temperature>1644.3</temperature>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-1 B</name>
+				<magH errorminus="0.046" errorplus="0.046">15.130</magH>
+				<magK errorminus="0.055" errorplus="0.055">15.116</magK>
+				<temperature errorminus="26" errorplus="26">3420</temperature>
+				<mass errorminus="0.023" errorplus="0.023">0.285</mass>
+			</star>
+			<semimajoraxis>1587</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-10</name>
@@ -48817,41 +49086,63 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-11</name>
+		<name>HAT-P-10</name>
 		<rightascension>03 09 29</rightascension>
 		<declination>+30 40 25</declination>
-		<distance>125</distance>
-		<star>
-			<mass>0.82</mass>
-			<radius>0.81</radius>
-			<magV>11.89</magV>
-			<magR>11.42</magR>
-			<magB errorminus="0.30" errorplus="0.30">12.58</magB>
-			<magJ errorminus="0.020" errorplus="0.020">10.015</magJ>
-			<magH errorminus="0.019" errorplus="0.019">9.560</magH>
-			<magK errorminus="0.017" errorplus="0.017">9.421</magK>
-			<metallicity>0.13</metallicity>
-			<spectraltype>K3V</spectraltype>
-			<planet>
-				<name>WASP-11 b</name>
-				<name>HAT-P-10 b</name>
-				<name>2MASS J03092855+3040249 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.46</mass>
-				<radius>1.045</radius>
-				<period>3.722469</period>
-				<semimajoraxis>0.0439</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>88.5</inclination>
-				<transittime errorminus="0.00016" errorplus="0.00016" unit="BJD">2454759.68683</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>08/11/27</lastupdate>
-				<discoveryyear>2008</discoveryyear>
-				<temperature>943.2</temperature>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="4.2" errorplus="4.2">121.7</distance>
+		<binary>
 			<name>WASP-11</name>
-			<temperature>4980.0</temperature>
-		</star>
+			<name>HAT-P-10</name>
+			<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">0.3425</separation>
+			<separation errorminus="1.4" errorplus="1.4" unit="AU">41.7</separation>
+			<positionangle errorminus="0.24" errorplus="0.24">214.09</positionangle>
+			<star>
+				<name>WASP-11 A</name>
+				<name>HAT-P-10 A</name>
+				<mass>0.82</mass>
+				<radius>0.81</radius>
+				<magV>11.89</magV>
+				<magR>11.42</magR>
+				<magB errorminus="0.30" errorplus="0.30">12.58</magB>
+				<magJ errorminus="0.020" errorplus="0.020">10.015</magJ>
+				<magH errorminus="0.019" errorplus="0.019">9.560</magH>
+				<magK errorminus="0.017" errorplus="0.017">9.421</magK>
+				<metallicity>0.13</metallicity>
+				<spectraltype>K3V</spectraltype>
+				<temperature errorminus="65" errorplus="65">4974</temperature>
+				<planet>
+					<name>WASP-11 b</name>
+					<name>HAT-P-10 b</name>
+					<name>WASP-11 A b</name>
+					<name>HAT-P-10 A b</name>
+					<name>2MASS J03092855+3040249 b</name>
+					<list>Confirmed planets</list>
+					<mass>0.46</mass>
+					<radius>1.045</radius>
+					<period>3.722469</period>
+					<semimajoraxis>0.0439</semimajoraxis>
+					<eccentricity>0.0</eccentricity>
+					<inclination>88.5</inclination>
+					<transittime errorminus="0.00016" errorplus="0.00016" unit="BJD">2454759.68683</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>08/11/27</lastupdate>
+					<discoveryyear>2008</discoveryyear>
+					<temperature>943.2</temperature>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-11 B</name>
+				<name>HAT-P-10 B</name>
+				<magJ errorminus="0.017" errorplus="0.017">12.671</magJ>
+				<magH errorminus="0.014" errorplus="0.014">12.008</magH>
+				<magK errorminus="0.034" errorplus="0.034">12.184</magK>
+				<temperature errorminus="43" errorplus="43">3483</temperature>
+				<mass errorminus="0.047" errorplus="0.047">0.344</mass>
+			</star>
+			<semimajoraxis>41.7</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-110</name>
@@ -49019,6 +49310,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<magJ errorminus="0.021" errorplus="0.021">10.477</magJ>
 				<magH errorminus="0.022" errorplus="0.022">10.228</magH>
 				<magK errorminus="0.020" errorplus="0.020">10.188</magK>
+				<temperature errorminus="64" errorplus="64">6118</temperature>
 				<metallicity>0.3</metallicity>
 				<spectraltype>G0</spectraltype>
 				<planet>
@@ -49042,7 +49334,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<list>Planets in binary systems, S-type</list>
 					<istransiting>1</istransiting>
 				</planet>
-				<temperature>6300.0</temperature>
 			</star>
 			<binary>
 				<separation errorminus="0.0006" errorplus="0.0006" unit="arcsec">0.0843</separation>
@@ -49051,16 +49342,18 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<star>
 					<name>WASP-12 B</name>
 					<spectraltype>M3V</spectraltype>
-					<magJ>14.3</magJ>
-					<magK>13.4</magK>
-					<mass errorminus="0.05" errorplus="0.05">0.38</mass>
+					<magJ errorminus="0.076" errorplus="0.076">14.188</magJ>
+					<magK errorminus="0.11" errorplus="0.11">13.51</magK>
+					<temperature errorminus="53" errorplus="53">3786</temperature>
+					<mass errorminus="0.022" errorplus="0.022">0.561</mass>
 				</star>
 				<star>
 					<name>WASP-12 C</name>
 					<spectraltype>M3V</spectraltype>
-					<magJ>14.4</magJ>
-					<magK>13.5</magK>
-					<mass errorminus="0.05" errorplus="0.05">0.37</mass>
+					<magJ errorminus="0.021" errorplus="0.021">14.149</magJ>
+					<magK errorminus="0.036" errorplus="0.036">13.765</magK>
+					<temperature errorminus="90" errorplus="90">3748</temperature>
+					<mass errorminus="0.020" errorplus="0.020">0.540</mass>
 				</star>
 				<semimajoraxis>21</semimajoraxis>
 			</binary>
@@ -49107,39 +49400,56 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-14</name>
 		<rightascension>14 33 06</rightascension>
 		<declination>+21 53 41</declination>
-		<distance>160</distance>
-		<star>
-			<mass>1.211</mass>
-			<radius>1.306</radius>
-			<magV>9.75</magV>
-			<magB errorminus="0.029" errorplus="0.029">10.194</magB>
-			<magJ errorminus="0.021" errorplus="0.021">8.869</magJ>
-			<magH errorminus="0.019" errorplus="0.019">8.650</magH>
-			<magK errorminus="0.019" errorplus="0.019">8.621</magK>
-			<spectraltype>F5V</spectraltype>
-			<planet>
-				<name>WASP-14 b</name>
-				<name>BD+22 2716 b</name>
-				<name>TYC 1482-00882-1 b</name>
-				<name>2MASS J14330635+2153409 b</name>
-				<name>SAO 83398 b</name>
-				<list>Confirmed planets</list>
-				<mass>7.341</mass>
-				<radius>1.281</radius>
-				<period>2.2437661</period>
-				<semimajoraxis>0.036</semimajoraxis>
-				<eccentricity>0.087</eccentricity>
-				<inclination>84.79</inclination>
-				<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2454463.57657</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/08</lastupdate>
-				<discoveryyear>2008</discoveryyear>
-				<temperature>1718.8</temperature>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="20" errorplus="20">160</distance>
+		<binary>
 			<name>WASP-14</name>
-			<temperature>6475.0</temperature>
-		</star>
+			<separation errorminus="0.00015" errorplus="0.00015" unit="arcsec">1.4491</separation>
+			<separation errorminus="23" errorplus="23" unit="AU">302</separation>
+			<positionangle errorminus="0.060" errorplus="0.060">102.210</positionangle>
+			<star>
+				<name>WASP-14 A</name>
+				<mass>1.211</mass>
+				<radius>1.306</radius>
+				<magV>9.75</magV>
+				<magB errorminus="0.029" errorplus="0.029">10.194</magB>
+				<magJ errorminus="0.021" errorplus="0.021">8.869</magJ>
+				<magH errorminus="0.019" errorplus="0.019">8.650</magH>
+				<magK errorminus="0.019" errorplus="0.019">8.621</magK>
+				<spectraltype>F5V</spectraltype>
+				<temperature errorminus="75" errorplus="75">6462</temperature>
+				<planet>
+					<name>WASP-14 b</name>
+					<name>WASP-14 A b</name>
+					<name>BD+22 2716 b</name>
+					<name>TYC 1482-00882-1 b</name>
+					<name>2MASS J14330635+2153409 b</name>
+					<name>SAO 83398 b</name>
+					<list>Confirmed planets</list>
+					<mass>7.341</mass>
+					<radius>1.281</radius>
+					<period>2.2437661</period>
+					<semimajoraxis>0.036</semimajoraxis>
+					<eccentricity>0.087</eccentricity>
+					<inclination>84.79</inclination>
+					<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2454463.57657</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>12/04/08</lastupdate>
+					<discoveryyear>2008</discoveryyear>
+					<temperature>1718.8</temperature>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-14 B</name>
+				<magJ errorminus="0.020" errorplus="0.020">14.076</magJ>
+				<magH errorminus="0.024" errorplus="0.024">13.438</magH>
+				<magK errorminus="0.025" errorplus="0.025">13.605</magK>
+				<temperature errorminus="31" errorplus="31">3464</temperature>
+				<mass errorminus="0.037" errorplus="0.037">0.331</mass>
+			</star>
+			<semimajoraxis>302</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-15</name>
@@ -49339,6 +49649,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<declination>+06 25 46</declination>
 		<distance errorminus="37.0" errorplus="25.6">165.8</distance>
 		<binary>
+			<name>WASP-2</name>
 			<separation errorminus="0.001" errorplus="0.001" unit="arcsec">0.757</separation>
 			<separation unit="AU">125</separation>
 			<positionangle errorminus="0.3" errorplus="0.3">104.7</positionangle>
@@ -49351,6 +49662,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<magJ errorminus="0.027" errorplus="0.027">10.166</magJ>
 				<magH errorminus="0.026" errorplus="0.026">9.752</magH>
 				<magK errorminus="0.024" errorplus="0.024">9.632</magK>
+				<temperature errorminus="71" errorplus="71">5255</temperature>
 				<metallicity>-0.08</metallicity>
 				<spectraltype>K1V</spectraltype>
 				<planet>
@@ -49373,11 +49685,14 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 					<temperature>1170.7</temperature>
 					<istransiting>1</istransiting>
 				</planet>
-				<temperature>5150.0</temperature>
 			</star>
 			<star>
-				<name>WASP-2 C</name>
-				<mass>0.48</mass>
+				<name>WASP-2 B</name>
+				<magJ errorminus="0.010" errorplus="0.010">13.046</magJ>
+				<magH errorminus="0.0061" errorplus="0.0061">12.4863</magH>
+				<magK errorminus="0.028" errorplus="0.028">12.503</magK>
+				<temperature errorminus="26" errorplus="26">3509</temperature>
+				<mass errorminus="0.028" errorplus="0.028">0.383</mass>
 				<spectraltype>M0</spectraltype>
 			</star>
 			<semimajoraxis>125</semimajoraxis>
@@ -49735,38 +50050,55 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-3</name>
 		<rightascension>18 34 32</rightascension>
 		<declination>+35 39 42</declination>
-		<distance>223</distance>
-		<star>
-			<mass>1.24</mass>
-			<radius>1.31</radius>
-			<magV>10.64</magV>
-			<magB errorminus="0.06" errorplus="0.06">11.07</magB>
-			<magR errorminus="0.04" errorplus="0.04">10.52</magR>
-			<magJ errorminus="0.020" errorplus="0.020">9.603</magJ>
-			<magH errorminus="0.014" errorplus="0.014">9.407</magH>
-			<magK errorminus="0.015" errorplus="0.015">9.361</magK>
-			<spectraltype>F7V</spectraltype>
-			<planet>
-				<name>WASP-3 b</name>
-				<name>2MASS J18343163+3539415 b</name>
-				<name>TYC 2636-00195-1 b</name>
-				<list>Confirmed planets</list>
-				<mass>2.06</mass>
-				<radius>1.454</radius>
-				<period>1.8468372</period>
-				<semimajoraxis>0.0313</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>85.06</inclination>
-				<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2454605.55978</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/06/23</lastupdate>
-				<discoveryyear>2007</discoveryyear>
-				<temperature>1825.6</temperature>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="20" errorplus="20">220</distance>
+		<binary>
 			<name>WASP-3</name>
-			<temperature>6400.0</temperature>
-		</star>
+			<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">1.1910</separation>
+			<separation errorminus="22" errorplus="22" unit="AU">299</separation>
+			<positionangle errorminus="0.075" errorplus="0.075">87.070</positionangle>
+			<star>
+				<name>WASP-3 A</name>
+				<temperature>6400.0</temperature>
+				<mass>1.24</mass>
+				<radius>1.31</radius>
+				<magV>10.64</magV>
+				<magB errorminus="0.06" errorplus="0.06">11.07</magB>
+				<magR errorminus="0.04" errorplus="0.04">10.52</magR>
+				<magJ errorminus="0.020" errorplus="0.020">9.603</magJ>
+				<magH errorminus="0.014" errorplus="0.014">9.407</magH>
+				<magK errorminus="0.015" errorplus="0.015">9.361</magK>
+				<spectraltype>F7V</spectraltype>
+				<planet>
+					<name>WASP-3 b</name>
+					<name>WASP-3 A b</name>
+					<name>2MASS J18343163+3539415 b</name>
+					<name>TYC 2636-00195-1 b</name>
+					<list>Confirmed planets</list>
+					<mass>2.06</mass>
+					<radius>1.454</radius>
+					<period>1.8468372</period>
+					<semimajoraxis>0.0313</semimajoraxis>
+					<eccentricity>0.0</eccentricity>
+					<inclination>85.06</inclination>
+					<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2454605.55978</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>11/06/23</lastupdate>
+					<discoveryyear>2007</discoveryyear>
+					<temperature>1825.6</temperature>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-3 B</name>
+				<magJ errorminus="0.12" errorplus="0.12">16.88</magJ>
+				<magH errorminus="0.079" errorplus="0.079">16.090</magH>
+				<magK errorminus="0.052" errorplus="0.052">16.002</magK>
+				<temperature errorminus="51" errorplus="51">2871</temperature>
+				<mass errorminus="0.0048" errorplus="0.0048">0.1053</mass>
+			</star>
+			<semimajoraxis>299</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-31</name>
@@ -51744,39 +52076,56 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-8</name>
 		<rightascension>23 59 36</rightascension>
 		<declination>-35 01 53</declination>
-		<distance>87</distance>
-		<star>
-			<mass>1.033</mass>
-			<radius>0.953</radius>
-			<magV>9.9</magV>
-			<magR>9.61</magR>
-			<magB errorminus="0.029" errorplus="0.029">10.518</magB>
-			<magJ errorminus="0.027" errorplus="0.027">8.501</magJ>
-			<magH errorminus="0.05" errorplus="0.05">8.22</magH>
-			<magK errorminus="0.023" errorplus="0.023">8.086</magK>
-			<metallicity>0.17</metallicity>
-			<spectraltype>G6</spectraltype>
-			<planet>
-				<name>WASP-8 b</name>
-				<name>TYC 7522-505-1 b</name>
-				<name>2MASS J23593607-3501530 b</name>
-				<list>Confirmed planets</list>
-				<mass>2.244</mass>
-				<radius>1.038</radius>
-				<period>8.158715</period>
-				<semimajoraxis>0.0801</semimajoraxis>
-				<eccentricity>0.31</eccentricity>
-				<inclination>88.55</inclination>
-				<transittime errorminus="0.00043" errorplus="0.00050" unit="BJD">2454679.33394</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/04/08</lastupdate>
-				<discoveryyear>2008</discoveryyear>
-				<temperature>846.5</temperature>
-				<istransiting>1</istransiting>
-			</planet>
+		<distance errorminus="7" errorplus="7">87</distance>
+		<binary>
 			<name>WASP-8</name>
-			<temperature>5600.0</temperature>
-		</star>
+			<separation errorminus="0.0017" errorplus="0.0017" unit="arcsec">4.5052</separation>
+			<separation errorminus="48" errorplus="48" unit="AU">383</separation>
+			<positionangle errorminus="0.021" errorplus="0.021">170.948</positionangle>
+			<star>
+				<name>WASP-8 A</name>
+				<temperature>5600.0</temperature>
+				<mass>1.033</mass>
+				<radius>0.953</radius>
+				<magV>9.9</magV>
+				<magR>9.61</magR>
+				<magB errorminus="0.029" errorplus="0.029">10.518</magB>
+				<magJ errorminus="0.027" errorplus="0.027">8.501</magJ>
+				<magH errorminus="0.05" errorplus="0.05">8.22</magH>
+				<magK errorminus="0.023" errorplus="0.023">8.086</magK>
+				<metallicity>0.17</metallicity>
+				<spectraltype>G6</spectraltype>
+				<planet>
+					<name>WASP-8 b</name>
+					<name>WASP-8 A b</name>
+					<name>TYC 7522-505-1 b</name>
+					<name>2MASS J23593607-3501530 b</name>
+					<list>Confirmed planets</list>
+					<mass>2.244</mass>
+					<radius>1.038</radius>
+					<period>8.158715</period>
+					<semimajoraxis>0.0801</semimajoraxis>
+					<eccentricity>0.31</eccentricity>
+					<inclination>88.55</inclination>
+					<transittime errorminus="0.00043" errorplus="0.00050" unit="BJD">2454679.33394</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>12/04/08</lastupdate>
+					<discoveryyear>2008</discoveryyear>
+					<temperature>846.5</temperature>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>WASP-8 B</name>
+				<magJ errorminus="0.062" errorplus="0.062">12.993</magJ>
+				<magH errorminus="0.056" errorplus="0.056">11.354</magH>
+				<magK errorminus="0.021" errorplus="0.021">10.636</magK>
+				<temperature errorminus="130" errorplus="130">3530</temperature>
+				<mass errorminus="0.11" errorplus="0.11">0.34</mass>
+			</star>
+			<semimajoraxis>383</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>WASP-80</name>
