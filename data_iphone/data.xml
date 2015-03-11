@@ -1,4 +1,4 @@
-<planets date="2015-03-05" name="data" planets="1932">
+<planets date="2015-03-11" name="data" planets="1934">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -2961,6 +2961,66 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC201505350 b</id_exoplaneteu>
+		<name>EPIC201505350 b</name>
+		<id>EPIC201505350 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>2.5</radius>
+			<orbit>
+				<period>7.919454</period>
+				<semimajoraxis>0.077</semimajoraxis>
+				<inclination>88.83</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.92</mass>
+			<radius>1.03</radius>
+			<metallicity>0.38</metallicity>
+			<temperature>5230</temperature>
+			<rightascension>11 39 50.476</rightascension>
+			<declination>+00 36 12.87</declination>
+			<magV>12.8</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/02</lastupdate>
+		<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC201505350 c</id_exoplaneteu>
+		<name>EPIC201505350 c</name>
+		<id>EPIC201505350 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>1.4</radius>
+			<orbit>
+				<period>11.90701</period>
+				<semimajoraxis>0.1032</semimajoraxis>
+				<inclination>89.91</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.92</mass>
+			<radius>1.03</radius>
+			<metallicity>0.38</metallicity>
+			<temperature>5230</temperature>
+			<rightascension>11 39 50.476</rightascension>
+			<declination>+00 36 12.87</declination>
+			<magV>12.8</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/02</lastupdate>
+		<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>eps Corona Borealis b</id_exoplaneteu>
 		<name>eps Corona Borealis b</name>
 		<name>HD 143107 b</name>
@@ -5502,6 +5562,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-14 b</id_exoplaneteu>
 		<name>HAT-P-14 b</name>
+		<name>HAT-P-14 A b</name>
 		<name>2MASS J17202788+3814317 b</name>
 		<name>TYC 3086-00152-1 b</name>
 		<id>HAT-P-14 b</id>
@@ -5522,7 +5583,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<radius>1.468</radius>
 			<metallicity>0.11</metallicity>
 			<distance>205</distance>
-			<temperature>1445.9</temperature>
+			<temperature>6600.0</temperature>
 			<rightascension>17 20 28</rightascension>
 			<declination>+38 14 32</declination>
 			<magV>9.99</magV>
@@ -5532,6 +5593,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<lastupdate>13/05/29</lastupdate>
 		<description>The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.</description>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-15 b</id_exoplaneteu>
@@ -5568,6 +5630,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-16 b</id_exoplaneteu>
 		<name>HAT-P-16 b</name>
+		<name>HAT-P-16 A b</name>
 		<id>HAT-P-16 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -5595,6 +5658,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>14/11/05</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-17 b</id_exoplaneteu>
@@ -5896,6 +5960,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-24 b</id_exoplaneteu>
 		<name>HAT-P-24 b</name>
+		<name>HAT-P-24 A b</name>
 		<name>TYC 774-01441-1 b</name>
 		<name>2MASS J07151801+1415453 b</name>
 		<id>HAT-P-24 b</id>
@@ -5915,8 +5980,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass>1.191</mass>
 			<radius>1.317</radius>
 			<metallicity>-0.16</metallicity>
-			<distance>306</distance>
-			<temperature>1495.0</temperature>
+			<distance>396</distance>
+			<temperature>6329</temperature>
 			<rightascension>07 15 18</rightascension>
 			<declination>+14 15 44</declination>
 			<magV>11.76</magV>
@@ -5925,6 +5990,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>13/05/29</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-25 b</id_exoplaneteu>
@@ -6125,7 +6191,9 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-30 b</id_exoplaneteu>
 		<name>HAT-P-30 b</name>
+		<name>HAT-P-31 A b</name>
 		<name>WASP-51 b</name>
+		<name>WASP-51 A b</name>
 		<name>WASP-51</name>
 		<name>GSC 0208-00722 b</name>
 		<name>2MASS J08154797+0550121</name>
@@ -6157,6 +6225,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<lastupdate>12/11/24</lastupdate>
 		<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection of the planet's orbit normal and the star's spin axis is 73.5 degrees.</description>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-31 b</id_exoplaneteu>
@@ -6194,6 +6263,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-32 b</id_exoplaneteu>
 		<name>HAT-P-32 b</name>
+		<name>HAT-P-32 A b</name>
 		<name>TYC 3281-00800-1 b</name>
 		<name>2MASS J02041028+4641162 b</name>
 		<id>HAT-P-32 b</id>
@@ -6213,8 +6283,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass>1.176</mass>
 			<radius>1.387</radius>
 			<metallicity>-0.16</metallicity>
-			<distance>320</distance>
-			<temperature>1677.4</temperature>
+			<distance>283</distance>
+			<temperature>6207</temperature>
 			<rightascension>02 01 10</rightascension>
 			<declination>+46 41 16</declination>
 			<magV>11.44</magV>
@@ -6223,10 +6293,12 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>13/05/29</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-33 b</id_exoplaneteu>
 		<name>HAT-P-33 b</name>
+		<name>HAT-P-33 A b</name>
 		<name>TYC 2461-00988-1 b</name>
 		<name>2MASS J07324421+3350061 b</name>
 		<id>HAT-P-33 b</id>
@@ -6246,8 +6318,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass>1.403</mass>
 			<radius>1.777</radius>
 			<metallicity>0.05</metallicity>
-			<distance>419</distance>
-			<temperature>1675.2</temperature>
+			<distance>387</distance>
+			<temperature>6446</temperature>
 			<rightascension>07 32 44</rightascension>
 			<declination>+33 50 06</declination>
 			<magV>11.03</magV>
@@ -6256,6 +6328,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>13/05/29</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-34 b</id_exoplaneteu>
@@ -6909,6 +6982,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HAT-P-7 b</id_exoplaneteu>
 		<name>HAT-P-7 b</name>
+		<name>HAT-P-7 A b</name>
 		<name>2MASS J19285935+4758102 b</name>
 		<name>TYC 3547-01402-1 b</name>
 		<name>BD+47 2846 b</name>
@@ -6933,7 +7007,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<radius>1.9276</radius>
 			<metallicity>0.26</metallicity>
 			<distance>320</distance>
-			<temperature>6350</temperature>
+			<temperature>6259</temperature>
 			<rightascension>19 28 59</rightascension>
 			<declination>+47 58 10</declination>
 			<magV>10.48</magV>
@@ -6943,6 +7017,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<lastupdate>13/01/24</lastupdate>
 		<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-8 b</id_exoplaneteu>
@@ -7077,7 +7152,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/02/28</lastupdate>
 		<description>HATS-10 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -7273,7 +7347,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/02/28</lastupdate>
 		<description>HATS-9 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2. Future characterisation of HATS-9b with the exquisite photometric precision of the Kepler telescope may provide measurements of its reflected light signature.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -19187,6 +19260,7 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 8673 b</id_exoplaneteu>
 		<name>HD 8673 b</name>
+		<name>HD 8673 A b</name>
 		<id>HD 8673 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -19201,7 +19275,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<spectraltype>F7 V</spectraltype>
 			<mass>1.312</mass>
 			<radius>1.54</radius>
-			<distance>38.25</distance>
+			<distance>36.1</distance>
 			<temperature>194.3</temperature>
 			<rightascension>01 26 08</rightascension>
 			<declination>+34 34 46</declination>
@@ -19211,6 +19285,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/06/24</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 87883 b</id_exoplaneteu>
@@ -23717,34 +23792,35 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-13 b</name>
 		<name>KOI-13 b</name>
 		<name>KOI-13.01</name>
-		<name>BD+46 2629 b</name>
+		<name>BD+46 2629 A b</name>
 		<name>PPM 57894 b</name>
 		<id>Kepler-13 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>6.515</mass>
 			<radius>1.406</radius>
 			<orbit>
-				<period>1.7637</period>
-				<semimajoraxis>0.0380000</semimajoraxis>
+				<period>1.76358799</period>
+				<semimajoraxis>0.03423</semimajoraxis>
+				<inclination>86.6</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>A</spectraltype>
-			<mass>2.2700</mass>
-			<radius>2.7000</radius>
-			<metallicity>-0.14</metallicity>
-			<distance>735.73</distance>
-			<temperature>9071.00</temperature>
+			<mass>1.72</mass>
+			<radius>1.71</radius>
+			<metallicity>0.2</metallicity>
+			<distance>530</distance>
+			<temperature>7650</temperature>
 			<rightascension>19 07 53.1072</rightascension>
 			<declination>+46 52 05.953</declination>
 			<magV>9.95</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>13/03/25</lastupdate>
+		<lastupdate>15/03/07</lastupdate>
 		<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-130 b</id_exoplaneteu>
@@ -53987,6 +54063,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>TrES-2</id_exoplaneteu>
 		<name>TrES-2</name>
+		<name>TrES-2 A b</name>
 		<name>TrES-2 b</name>
 		<name>Kepler-1 b</name>
 		<id>TrES-2</id>
@@ -54073,12 +54150,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.88</mass>
-			<radius>0.85</radius>
+			<spectraltype>F8</spectraltype>
+			<mass>1.339</mass>
+			<radius>1.81</radius>
 			<metallicity>0.001</metallicity>
 			<distance>485</distance>
-			<temperature>1782</temperature>
+			<temperature>6200</temperature>
 			<rightascension>17 53 13</rightascension>
 			<declination>+37 12 42</declination>
 			<magV>11.592</magV>
@@ -54472,6 +54549,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-1 b</id_exoplaneteu>
 		<name>WASP-1 b</name>
+		<name>WASP-1 A b</name>
 		<name>TYC 2265-00107-1 b</name>
 		<name>2MASS J00204007+3159239 b</name>
 		<id>WASP-1 b</id>
@@ -54491,8 +54569,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1.24</mass>
 			<radius>1.470</radius>
 			<metallicity>0.23</metallicity>
-			<distance>408</distance>
-			<temperature>1644.3</temperature>
+			<distance>380</distance>
+			<temperature>6160</temperature>
 			<rightascension>00 20 40</rightascension>
 			<declination>+31 59 24</declination>
 			<magV>11.79</magV>
@@ -54501,6 +54579,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2006</discoveryyear>
 		<lastupdate>14/03/05</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-10 b</id_exoplaneteu>
@@ -54759,6 +54838,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id_exoplaneteu>WASP-11 b</id_exoplaneteu>
 		<name>WASP-11 b</name>
 		<name>HAT-P-10 b</name>
+		<name>WASP-11 A b</name>
+		<name>HAT-P-10 A b</name>
 		<name>2MASS J03092855+3040249 b</name>
 		<id>WASP-11 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -54777,8 +54858,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>0.82</mass>
 			<radius>0.81</radius>
 			<metallicity>0.13</metallicity>
-			<distance>125</distance>
-			<temperature>943.2</temperature>
+			<distance>121.7</distance>
+			<temperature>4974</temperature>
 			<rightascension>03 09 29</rightascension>
 			<declination>+30 40 25</declination>
 			<magV>11.89</magV>
@@ -54787,6 +54868,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>08/11/27</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-110 b</id_exoplaneteu>
@@ -54939,7 +55021,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>1.599</radius>
 			<metallicity>0.3</metallicity>
 			<distance>250</distance>
-			<temperature>2319.7</temperature>
+			<temperature>6118</temperature>
 			<rightascension>06 30 33</rightascension>
 			<declination>+29 40 20</declination>
 			<magV>11.69</magV>
@@ -54986,6 +55068,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-14 b</id_exoplaneteu>
 		<name>WASP-14 b</name>
+		<name>WASP-14 A b</name>
 		<name>BD+22 2716 b</name>
 		<name>TYC 1482-00882-1 b</name>
 		<name>2MASS J14330635+2153409 b</name>
@@ -55007,7 +55090,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<mass>1.211</mass>
 			<radius>1.306</radius>
 			<distance>160</distance>
-			<temperature>1718.8</temperature>
+			<temperature>6462</temperature>
 			<rightascension>14 33 06</rightascension>
 			<declination>+21 53 41</declination>
 			<magV>9.75</magV>
@@ -55016,6 +55099,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>12/04/08</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-15 b</id_exoplaneteu>
@@ -55205,7 +55289,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.840</radius>
 			<metallicity>-0.08</metallicity>
 			<distance>165.8</distance>
-			<temperature>1170.7</temperature>
+			<temperature>5255</temperature>
 			<rightascension>20 30 54</rightascension>
 			<declination>+06 25 46</declination>
 			<magV>11.98</magV>
@@ -55515,6 +55599,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-3 b</id_exoplaneteu>
 		<name>WASP-3 b</name>
+		<name>WASP-3 A b</name>
 		<name>2MASS J18343163+3539415 b</name>
 		<name>TYC 2636-00195-1 b</name>
 		<id>WASP-3 b</id>
@@ -55533,8 +55618,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<spectraltype>F7V</spectraltype>
 			<mass>1.24</mass>
 			<radius>1.31</radius>
-			<distance>223</distance>
-			<temperature>1825.6</temperature>
+			<distance>220</distance>
+			<temperature>6400.0</temperature>
 			<rightascension>18 34 32</rightascension>
 			<declination>+35 39 42</declination>
 			<magV>10.64</magV>
@@ -55543,6 +55628,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2007</discoveryyear>
 		<lastupdate>11/06/23</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-31 b</id_exoplaneteu>
@@ -57220,6 +57306,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-8 b</id_exoplaneteu>
 		<name>WASP-8 b</name>
+		<name>WASP-8 A b</name>
 		<name>TYC 7522-505-1 b</name>
 		<name>2MASS J23593607-3501530 b</name>
 		<id>WASP-8 b</id>
@@ -57240,7 +57327,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<radius>0.953</radius>
 			<metallicity>0.17</metallicity>
 			<distance>87</distance>
-			<temperature>846.5</temperature>
+			<temperature>5600.0</temperature>
 			<rightascension>23 59 36</rightascension>
 			<declination>-35 01 53</declination>
 			<magV>9.9</magV>
@@ -57249,6 +57336,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>12/04/08</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-80 b</id_exoplaneteu>
