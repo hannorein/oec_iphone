@@ -4,18 +4,18 @@
 	<name>Kepler-13 b</name>
 	<name>KOI-13 b</name>
 	<name>KOI-13.01</name>
-	<name>BD+46 2629 b</name>
+	<name>BD+46 2629 A b</name>
 	<name>PPM 57894 b</name>
 	<id>Kepler-13 A b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>6.515</mass>
+		<mass />
 		<radius>1.406</radius>
 		<orbit>
-			<period>1.7637</period>
-			<semimajoraxis>0.0380000</semimajoraxis>
+			<period>1.76358799</period>
+			<semimajoraxis>0.03423</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>86.6</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -23,11 +23,11 @@
 	</properties>
 	<star>
 		<spectraltype>A</spectraltype>
-		<mass>2.2700</mass>
-		<radius>2.7000</radius>
-		<metallicity>-0.14</metallicity>
-		<distance>735.73</distance>
-		<temperature>9071.00</temperature>
+		<mass>1.72</mass>
+		<radius>1.71</radius>
+		<metallicity>0.2</metallicity>
+		<distance>530</distance>
+		<temperature>7650</temperature>
 		<rightascension>19 07 53.1072</rightascension>
 		<declination>+46 52 05.953</declination>
 		<angulardistance />
@@ -39,10 +39,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>13/03/25</lastupdate>
+	<lastupdate>15/03/07</lastupdate>
 	<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

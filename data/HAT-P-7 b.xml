@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>HAT-P-7 b</id_exoplaneteu>
 	<name>HAT-P-7 b</name>
+	<name>HAT-P-7 A b</name>
 	<name>2MASS J19285935+4758102 b</name>
 	<name>TYC 3547-01402-1 b</name>
 	<name>BD+47 2846 b</name>
@@ -28,7 +29,7 @@
 		<radius>1.9276</radius>
 		<metallicity>0.26</metallicity>
 		<distance>320</distance>
-		<temperature>6350</temperature>
+		<temperature>6259</temperature>
 		<rightascension>19 28 59</rightascension>
 		<declination>+47 58 10</declination>
 		<angulardistance />
@@ -46,4 +47,5 @@
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

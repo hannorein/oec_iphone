@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>WASP-8 b</id_exoplaneteu>
 	<name>WASP-8 b</name>
+	<name>WASP-8 A b</name>
 	<name>TYC 7522-505-1 b</name>
 	<name>2MASS J23593607-3501530 b</name>
 	<id>WASP-8 b</id>
@@ -24,7 +25,7 @@
 		<radius>0.953</radius>
 		<metallicity>0.17</metallicity>
 		<distance>87</distance>
-		<temperature>846.5</temperature>
+		<temperature>5600.0</temperature>
 		<rightascension>23 59 36</rightascension>
 		<declination>-35 01 53</declination>
 		<angulardistance />
@@ -42,4 +43,5 @@
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

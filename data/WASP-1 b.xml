@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>WASP-1 b</id_exoplaneteu>
 	<name>WASP-1 b</name>
+	<name>WASP-1 A b</name>
 	<name>TYC 2265-00107-1 b</name>
 	<name>2MASS J00204007+3159239 b</name>
 	<id>WASP-1 b</id>
@@ -23,8 +24,8 @@
 		<mass>1.24</mass>
 		<radius>1.470</radius>
 		<metallicity>0.23</metallicity>
-		<distance>408</distance>
-		<temperature>1644.3</temperature>
+		<distance>380</distance>
+		<temperature>6160</temperature>
 		<rightascension>00 20 40</rightascension>
 		<declination>+31 59 24</declination>
 		<angulardistance />
@@ -42,4 +43,5 @@
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>
