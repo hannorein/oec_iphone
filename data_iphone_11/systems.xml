@@ -23272,7 +23272,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 					<name>Kepler-13 C</name>
 					<name>BD+46 2629 C</name>
 					<temperature upperlimit="4700" />
-					<mass lowerlimit="0.4" upperlimit="0.75" />
+					<mass errorminus="0.175" errorplus="0.175">0.575</mass>
 				</star>
 			</binary>
 			<semimajoraxis>610</semimajoraxis>
