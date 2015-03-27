@@ -7643,6 +7643,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>2MASS J19505021+4804508 b</name>
 		<name>Kepler-3 b</name>
 		<name>KIC 10748390 b</name>
+		<name>KOI-3.01</name>
 		<name>KOI-3 b</name>
 		<id>HAT-P-11 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -9665,6 +9666,186 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HAT-P-50 b</id_exoplaneteu>
+		<name>HAT-P-50 b</name>
+		<name>GSC 0787-00340 b</name>
+		<name>2MASS J07521521+1208218 b</name>
+		<id>HAT-P-50 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.350</mass>
+			<radius>1.288</radius>
+			<orbit>
+				<period>3.1220109</period>
+				<semimajoraxis>0.04530</semimajoraxis>
+				<eccentricity />
+				<inclination>83.65</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.273</mass>
+			<radius>1.698</radius>
+			<metallicity>-0.180</metallicity>
+			<distance>497</distance>
+			<temperature>6280</temperature>
+			<rightascension>07 52 15.20</rightascension>
+			<declination>+12 08 21.9</declination>
+			<angulardistance />
+			<magV>11.762</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/13</lastupdate>
+		<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-51 b</id_exoplaneteu>
+		<name>HAT-P-51 b</name>
+		<name>GSC 2296-00637 b</name>
+		<name>2MASS J01241564+3248387 b</name>
+		<id>HAT-P-51 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.309</mass>
+			<radius>1.293</radius>
+			<orbit>
+				<period>4.2180278</period>
+				<semimajoraxis>0.05069</semimajoraxis>
+				<eccentricity />
+				<inclination>88.48</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.976</mass>
+			<radius>1.041</radius>
+			<metallicity>0.270</metallicity>
+			<distance>470</distance>
+			<temperature>5449</temperature>
+			<rightascension>01 24 15.66</rightascension>
+			<declination>+32 48 38.8</declination>
+			<angulardistance />
+			<magV>13.440</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/13</lastupdate>
+		<description>This planet was discovered by the HATNet transit survey. The low stellar jitter and fovorable radii ratio make it a promising target for measuring the Rossiter-McLaughlin effect for a Saturn-mass planet.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-52 b</id_exoplaneteu>
+		<name>HAT-P-52 b</name>
+		<name>GSC 1793-01136 b</name>
+		<name>2MASS J02505320+2901206 b</name>
+		<id>HAT-P-52 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.818</mass>
+			<radius>1.009</radius>
+			<orbit>
+				<period>2.7535953</period>
+				<semimajoraxis>0.03694</semimajoraxis>
+				<eccentricity />
+				<inclination>87.02</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.887</mass>
+			<radius>0.893</radius>
+			<metallicity>0.280</metallicity>
+			<distance>385</distance>
+			<temperature>5131</temperature>
+			<rightascension>02 50 53.20</rightascension>
+			<declination>+29 01 20.6</declination>
+			<angulardistance />
+			<magV>14.068</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/13</lastupdate>
+		<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-53 b</id_exoplaneteu>
+		<name>HAT-P-53 b</name>
+		<name>GSC 2813-01266 b</name>
+		<name>2MASS J01272906+3858053 b</name>
+		<id>HAT-P-53 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.484</mass>
+			<radius>1.318</radius>
+			<orbit>
+				<period>1.9616241</period>
+				<semimajoraxis>0.03159</semimajoraxis>
+				<eccentricity />
+				<inclination>86.2</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.093</mass>
+			<radius>1.209</radius>
+			<metallicity>0.000</metallicity>
+			<distance>719</distance>
+			<temperature>5956</temperature>
+			<rightascension>01 27 29.05</rightascension>
+			<declination>+38 58 05.3</declination>
+			<angulardistance />
+			<magV>11.73</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/13</lastupdate>
+		<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HAT-P-54 b</id_exoplaneteu>
 		<name>HAT-P-54 b</name>
 		<name>GSC 1884-00168 b</name>
@@ -9763,6 +9944,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>BD+47 2846 b</name>
 		<name>KIC 10666592 b</name>
 		<name>Kepler-2 b</name>
+		<name>KOI-2.01</name>
 		<name>KOI-2 b</name>
 		<id>HAT-P-7 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -10027,7 +10209,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/11</lastupdate>
 		<description>HATS-13 b is a transiting planet that was discovered by the HATSouth survey.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -10072,7 +10254,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/11</lastupdate>
 		<description>HATS-14 b is a hot-Jupiter transiting planet that was discovered by the HATSouth survey.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -30800,6 +30982,8 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-10 b</id_exoplaneteu>
 		<name>Kepler-10 b</name>
+		<name>KOI-72.01</name>
+		<name>KOI-72 b</name>
 		<name>KIC 11904151 b</name>
 		<name>2MASS J19024305+5014286 b</name>
 		<id>Kepler-10 b</id>
@@ -30845,6 +31029,8 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-10 c</id_exoplaneteu>
 		<name>Kepler-10 c</name>
+		<name>KOI-72.02</name>
+		<name>KOI-72 c</name>
 		<name>KIC 11904151 c</name>
 		<name>2MASS J19024305+5014286 c</name>
 		<id>Kepler-10 c</id>
@@ -30891,6 +31077,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-100 b</id_exoplaneteu>
 		<name>Kepler-100 b</name>
 		<name>KOI-41.02</name>
+		<name>KOI-41 b</name>
 		<name>KIC 6521045 b</name>
 		<id>Kepler-100 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -30917,7 +31104,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>19 25 32</rightascension>
 			<declination>+41 59 24</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.06</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -30936,6 +31123,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-100 c</id_exoplaneteu>
 		<name>Kepler-100 c</name>
 		<name>KOI-41.01</name>
+		<name>KOI-41 c</name>
 		<name>KIC 6521045 c</name>
 		<id>Kepler-100 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -30962,7 +31150,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>19 25 32</rightascension>
 			<declination>+41 59 24</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.06</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -30981,6 +31169,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-100 d</id_exoplaneteu>
 		<name>Kepler-100 d</name>
 		<name>KOI-41.03</name>
+		<name>KOI-41 d</name>
 		<name>KIC 6521045 d</name>
 		<id>Kepler-100 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31007,7 +31196,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>19 25 32</rightascension>
 			<declination>+41 59 24</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.06</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31118,6 +31307,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-102 b</id_exoplaneteu>
 		<name>Kepler-102 b</name>
 		<name>KOI-82.05</name>
+		<name>KOI-82 b</name>
 		<name>KIC 10187017 b</name>
 		<id>Kepler-102 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31144,7 +31334,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>18 45 55</rightascension>
 			<declination>+47 12 28</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.07</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31163,6 +31353,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-102 c</id_exoplaneteu>
 		<name>Kepler-102 c</name>
 		<name>KOI-82.04</name>
+		<name>KOI-82 c</name>
 		<name>KIC 10187017 c</name>
 		<id>Kepler-102 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31189,7 +31380,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>18 45 55</rightascension>
 			<declination>+47 12 28</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.07</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31208,6 +31399,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-102 d</id_exoplaneteu>
 		<name>Kepler-102 d</name>
 		<name>KOI-82.02</name>
+		<name>KOI-82 d</name>
 		<name>KIC 10187017 d</name>
 		<id>Kepler-102 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31234,7 +31426,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>18 45 55</rightascension>
 			<declination>+47 12 28</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.07</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31253,6 +31445,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-102 e</id_exoplaneteu>
 		<name>Kepler-102 e</name>
 		<name>KOI-82.01</name>
+		<name>KOI-82 e</name>
 		<name>KIC 10187017 e</name>
 		<id>Kepler-102 e</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31279,7 +31472,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>18 45 55</rightascension>
 			<declination>+47 12 28</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.07</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31298,6 +31491,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-102 f</id_exoplaneteu>
 		<name>Kepler-102 f</name>
 		<name>KOI-82.03</name>
+		<name>KOI-82 f</name>
 		<name>KIC 10187017 f</name>
 		<id>Kepler-102 f</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31324,7 +31518,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>18 45 55</rightascension>
 			<declination>+47 12 28</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.07</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31343,6 +31537,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-103 b</id_exoplaneteu>
 		<name>Kepler-103 b</name>
 		<name>KOI-108.01</name>
+		<name>KOI-108 b</name>
 		<name>KIC 4914423 b</name>
 		<id>Kepler-103 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31369,7 +31564,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>19 15 56</rightascension>
 			<declination>+40 03 52</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.88</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31388,6 +31583,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-103 c</id_exoplaneteu>
 		<name>Kepler-103 c</name>
 		<name>KOI-108.02</name>
+		<name>KOI-108 c</name>
 		<name>KIC 4914423 c</name>
 		<id>Kepler-103 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31414,7 +31610,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>19 15 56</rightascension>
 			<declination>+40 03 52</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.88</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31668,6 +31864,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-106 b</id_exoplaneteu>
 		<name>Kepler-106 b</name>
 		<name>KOI-116.03</name>
+		<name>KOI-116 b</name>
 		<name>KIC 8395660 b</name>
 		<id>Kepler-106 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31694,7 +31891,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>20 03 27</rightascension>
 			<declination>+44 20 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.98</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31713,6 +31910,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-106 c</id_exoplaneteu>
 		<name>Kepler-106 c</name>
 		<name>KOI-116.01</name>
+		<name>KOI-116 c</name>
 		<name>KIC 8395660 c</name>
 		<id>Kepler-106 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31739,7 +31937,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>20 03 27</rightascension>
 			<declination>+44 20 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.98</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31758,6 +31956,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-106 d</id_exoplaneteu>
 		<name>Kepler-106 d</name>
 		<name>KOI-116.04</name>
+		<name>KOI-116 d</name>
 		<name>KIC 8395660 d</name>
 		<id>Kepler-106 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31784,7 +31983,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>20 03 27</rightascension>
 			<declination>+44 20 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.98</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -31803,6 +32002,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-106 e</id_exoplaneteu>
 		<name>Kepler-106 e</name>
 		<name>KOI-116.02</name>
+		<name>KOI-116 e</name>
 		<name>KIC 8395660 e</name>
 		<id>Kepler-106 e</id>
 		<discoverymethod>transit</discoverymethod>
@@ -31829,7 +32029,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>20 03 27</rightascension>
 			<declination>+44 20 15</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.98</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -32130,6 +32330,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-109 b</id_exoplaneteu>
 		<name>Kepler-109 b</name>
 		<name>KOI-123.01</name>
+		<name>KOI-123 b</name>
 		<name>KIC 5094751 b</name>
 		<name>TYC 3138-1820-1 b</name>
 		<name>2MASS J19213425+4017055 b</name>
@@ -32177,6 +32378,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-109 c</id_exoplaneteu>
 		<name>Kepler-109 c</name>
 		<name>KOI-123.02</name>
+		<name>KOI-123 c</name>
 		<name>KIC 5094751 c</name>
 		<name>TYC 3138-1820-1 c</name>
 		<name>2MASS J19213425+4017055 c</name>
@@ -32223,6 +32425,9 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-11 b</id_exoplaneteu>
 		<name>Kepler-11 b</name>
+		<name>KOI-157.06</name>
+		<name>KOI-157 b</name>
+		<name>KIC 6541920 b</name>
 		<id>Kepler-11 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32268,6 +32473,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-11 c</id_exoplaneteu>
 		<name>Kepler-11 c</name>
+		<name>KOI-157.01</name>
+		<name>KOI-157 c</name>
+		<name>KIC 6541920 c</name>
 		<id>Kepler-11 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32313,6 +32521,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-11 d</id_exoplaneteu>
 		<name>Kepler-11 d</name>
+		<name>KOI-157.02</name>
+		<name>KOI-157 d</name>
+		<name>KIC 6541920 d</name>
 		<id>Kepler-11 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32358,6 +32569,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-11 e</id_exoplaneteu>
 		<name>Kepler-11 e</name>
+		<name>KOI-157.03</name>
+		<name>KOI-157 e</name>
+		<name>KIC 6541920 e</name>
 		<id>Kepler-11 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32403,6 +32617,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-11 f</id_exoplaneteu>
 		<name>Kepler-11 f</name>
+		<name>KOI-157.04</name>
+		<name>KOI-157 f</name>
+		<name>KIC 6541920 f</name>
 		<id>Kepler-11 f</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32448,6 +32665,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-11 g</id_exoplaneteu>
 		<name>Kepler-11 g</name>
+		<name>KOI-157.05</name>
+		<name>KOI-157 g</name>
+		<name>KIC 6541920 g</name>
 		<id>Kepler-11 g</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -32776,6 +32996,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-113 b</id_exoplaneteu>
 		<name>Kepler-113 b</name>
 		<name>KOI-153.02</name>
+		<name>KOI-153 b</name>
 		<name>KIC 12252424 b</name>
 		<id>Kepler-113 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -32821,6 +33042,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-113 c</id_exoplaneteu>
 		<name>Kepler-113 c</name>
 		<name>KOI-153.01</name>
+		<name>KOI-153 c</name>
 		<name>KIC 12252424 c</name>
 		<id>Kepler-113 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -33479,6 +33701,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-12 b</id_exoplaneteu>
 		<name>Kepler-12 b</name>
 		<name>GSC 03549-00844 b</name>
+		<name>KOI-20.01</name>
 		<name>KOI-20 b</name>
 		<name>2MASS J19045842+5002253 b</name>
 		<name>KIC 11804465 b</name>
@@ -33748,7 +33971,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-122 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -33795,7 +34018,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-122 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -33842,7 +34065,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-122 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 d are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -33889,10 +34112,56 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
-		<description>Kepler-122 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 e are still unknown, the object is highly unlikely to be a false positive.</description>
+		<description>Kepler-122 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 e are still unknown, the object has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-122 f</id_exoplaneteu>
+		<name>Kepler-122 f</name>
+		<name>KOI-232 f</name>
+		<name>KOI-232.05</name>
+		<name>KIC 4833421 f</name>
+		<id>Kepler-122 f</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.156</radius>
+			<orbit>
+				<period>56.268</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.0700</mass>
+			<radius>1.216</radius>
+			<metallicity />
+			<distance>1062.40</distance>
+			<temperature>6050</temperature>
+			<rightascension>19 24 26</rightascension>
+			<declination>+39 56 56</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>Kepler-122 f was confirmed by transit timing variations.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -34259,7 +34528,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 17 23</rightascension>
 			<declination>+44 12 30</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.51</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34306,7 +34575,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 17 23</rightascension>
 			<declination>+44 12 30</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.51</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34353,7 +34622,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 17 23</rightascension>
 			<declination>+44 12 30</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.51</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34400,7 +34669,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 00 45</rightascension>
 			<declination>+46 01 40</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.75</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34447,7 +34716,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 00 45</rightascension>
 			<declination>+46 01 40</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.75</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34494,7 +34763,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 00 45</rightascension>
 			<declination>+46 01 40</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.75</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34637,7 +34906,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 01 14</rightascension>
 			<declination>+47 50 54</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.81</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34684,7 +34953,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 01 14</rightascension>
 			<declination>+47 50 54</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.81</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34705,6 +34974,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-13 b</name>
 		<name>KOI-13 b</name>
 		<name>KOI-13.01</name>
+		<name>KIC 9941662 A b</name>
 		<name>BD+46 2629 A b</name>
 		<name>PPM 57894 b</name>
 		<id>Kepler-13 A b</id>
@@ -34780,7 +35050,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 13 48</rightascension>
 			<declination>+40 14 43</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.57</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34827,7 +35097,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 13 48</rightascension>
 			<declination>+40 14 43</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.57</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34874,7 +35144,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 13 48</rightascension>
 			<declination>+40 14 43</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.57</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34893,6 +35163,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-131 b</id_exoplaneteu>
 		<name>Kepler-131 b</name>
 		<name>KOI-283.01</name>
+		<name>KOI-283 b</name>
 		<name>KIC 5695396 b</name>
 		<id>Kepler-131 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -34919,7 +35190,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 14 07</rightascension>
 			<declination>+40 56 32</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.49</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34938,6 +35209,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-131 c</id_exoplaneteu>
 		<name>Kepler-131 c</name>
 		<name>KOI-283.02</name>
+		<name>KOI-283 c</name>
 		<name>KIC 5695396 c</name>
 		<id>Kepler-131 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -34964,7 +35236,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 14 07</rightascension>
 			<declination>+40 56 32</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.49</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35011,7 +35283,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>18 52 56</rightascension>
 			<declination>+41 20 34</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.92</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35058,7 +35330,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>18 52 56</rightascension>
 			<declination>+41 20 34</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.92</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35105,7 +35377,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>18 52 56</rightascension>
 			<declination>+41 20 34</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.92</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35340,7 +35612,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 21 58</rightascension>
 			<declination>+38 47 43</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.79</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35387,7 +35659,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 21 58</rightascension>
 			<declination>+38 47 43</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.79</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -35736,6 +36008,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KIC 10264660 b</name>
 		<name>TYC 3546-00413-1 b</name>
 		<name>2MASS J19105011+4719589 b</name>
+		<name>KOI-98.01</name>
 		<name>KOI-98 b</name>
 		<id>Kepler-14 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -36232,7 +36505,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>18 47 39</rightascension>
 			<declination>+42 46 31</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.20</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36279,7 +36552,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>18 47 39</rightascension>
 			<declination>+42 46 31</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.20</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -36721,6 +36994,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-15 b</id_exoplaneteu>
 		<name>Kepler-15 b</name>
 		<name>2MASS J19444814+4908244 b</name>
+		<name>KOI-128.01</name>
 		<name>KOI-128 b</name>
 		<name>KIC 11359879 b</name>
 		<id>Kepler-15 b</id>
@@ -37801,6 +38075,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-16 (AB) b</id_exoplaneteu>
 		<name>Kepler-16 (AB) b</name>
 		<name>Kepler-16 b</name>
+		<name>KOI-1611.02</name>
+		<name>KOI-1611 (AB) b</name>
+		<name>KIC 12644769 (AB) b</name>
 		<id>Kepler-16 (AB) b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -38974,6 +39251,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-17 b</id_exoplaneteu>
 		<name>Kepler-17 b</name>
 		<name>2MASS J19533486+4748540 b</name>
+		<name>KOI-203.01</name>
 		<name>KOI-203 b</name>
 		<name>KIC 10619192 b</name>
 		<id>Kepler-17 b</id>
@@ -41097,7 +41375,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.101155</radius>
+			<radius>0.0990277438268</radius>
 			<orbit>
 				<period />
 				<semimajoraxis>0.356</semimajoraxis>
@@ -41422,17 +41700,18 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>Kepler-19 b</name>
 		<name>TYC 3134-1549-1 b</name>
 		<name>GSC 03134-01549 b</name>
+		<name>KOI-84.01</name>
 		<name>KOI-84 b</name>
 		<name>2MASS J19214099+3751064 b</name>
 		<name>KIC 2571238 b</name>
 		<id>Kepler-19 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.064</mass>
-			<radius>0.198</radius>
+			<mass />
+			<radius>0.1971</radius>
 			<orbit>
 				<period>9.2869944</period>
-				<semimajoraxis>0.118</semimajoraxis>
+				<semimajoraxis>0.0846</semimajoraxis>
 				<eccentricity />
 				<inclination>89.94</inclination>
 				<periastron />
@@ -41443,10 +41722,10 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<star>
 			<spectraltype>G8V</spectraltype>
 			<mass>0.936</mass>
-			<radius>0.85</radius>
+			<radius>0.850</radius>
 			<metallicity>-0.13</metallicity>
 			<distance />
-			<temperature>772.6</temperature>
+			<temperature>5541</temperature>
 			<rightascension>19 21 41</rightascension>
 			<declination>+37 51 06</declination>
 			<angulardistance />
@@ -41456,10 +41735,58 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/09</lastupdate>
 		<description>Sinusoidal transit timing variations have been detected in this system. An additional planet might be present.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-19 c</id_exoplaneteu>
+		<name>Kepler-19 c</name>
+		<name>TYC 3134-1549-1 c</name>
+		<name>GSC 03134-01549 c</name>
+		<name>KOI-84 c</name>
+		<name>2MASS J19214099+3751064 c</name>
+		<name>KIC 2571238 c</name>
+		<id>Kepler-19 c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass />
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G8V</spectraltype>
+			<mass>0.936</mass>
+			<radius>0.850</radius>
+			<metallicity>-0.13</metallicity>
+			<distance />
+			<temperature>5541</temperature>
+			<rightascension>19 21 41</rightascension>
+			<declination>+37 51 06</declination>
+			<angulardistance />
+			<magV>12</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-19 c was the first confirmed detection of a planet by transit timing variations.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -43956,6 +44283,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>SAO 67891 b</name>
 		<name>2MASS J19092683+3842505 b</name>
 		<name>KIC 3632418 b</name>
+		<name>KOI-975.01</name>
 		<name>KOI-975 b</name>
 		<id>Kepler-21 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -45675,7 +46003,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 53 16</rightascension>
 			<declination>+47 16 46</declination>
 			<angulardistance />
-			<magV />
+			<magV>15</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -45722,7 +46050,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 53 16</rightascension>
 			<declination>+47 16 46</declination>
 			<angulardistance />
-			<magV />
+			<magV>15</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -45769,7 +46097,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 53 16</rightascension>
 			<declination>+47 16 46</declination>
 			<angulardistance />
-			<magV />
+			<magV>15</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -45816,7 +46144,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 53 16</rightascension>
 			<declination>+47 16 46</declination>
 			<angulardistance />
-			<magV />
+			<magV>15</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -49059,7 +49387,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 32 14</rightascension>
 			<declination>+43 34 52</declination>
 			<angulardistance />
-			<magV />
+			<magV>15.18</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -49106,7 +49434,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 32 14</rightascension>
 			<declination>+43 34 52</declination>
 			<angulardistance />
-			<magV />
+			<magV>15.18</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -49265,8 +49593,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-25 b</id_exoplaneteu>
 		<name>Kepler-25 b</name>
-		<name>KIC 3231341 b</name>
-		<name>KOI-244.01</name>
+		<name>KIC 4349452 b</name>
+		<name>KOI-244.02</name>
+		<name>KOI-244 b</name>
 		<id>Kepler-25 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -49310,8 +49639,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-25 c</id_exoplaneteu>
 		<name>Kepler-25 c</name>
-		<name>KIC 3231341 c</name>
-		<name>KOI-244.02</name>
+		<name>KIC 4349452 c</name>
+		<name>KOI-244.01</name>
+		<name>KOI-244 c</name>
 		<id>Kepler-25 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -49357,6 +49687,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<name>Kepler-25 d</name>
 		<name>KOI-244.10</name>
 		<name>KIC 4349452 d</name>
+		<name>KOI-244 d</name>
 		<id>Kepler-25 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -51986,6 +52317,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-27 b</id_exoplaneteu>
 		<name>Kepler-27 b</name>
 		<name>KOI-841.01</name>
+		<name>KOI-841 b</name>
 		<name>KIC 5792202 b</name>
 		<id>Kepler-27 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -52031,6 +52363,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-27 c</id_exoplaneteu>
 		<name>Kepler-27 c</name>
 		<name>KOI-841.02</name>
+		<name>KOI-841 c</name>
 		<name>KIC 5792202 c</name>
 		<id>Kepler-27 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -52997,7 +53330,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 20 25</rightascension>
 			<declination>+38 42 08</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.81</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -53044,7 +53377,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 20 25</rightascension>
 			<declination>+38 42 08</declination>
 			<angulardistance />
-			<magV />
+			<magV>11.81</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -53204,6 +53537,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-28 b</id_exoplaneteu>
 		<name>Kepler-28 b</name>
 		<name>KOI-870.01</name>
+		<name>KOI-870 b</name>
 		<name>KIC 6949607 b</name>
 		<id>Kepler-28 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -53249,6 +53583,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-28 c</id_exoplaneteu>
 		<name>Kepler-28 c</name>
 		<name>KOI-870.02</name>
+		<name>KOI-870 c</name>
 		<name>KIC 6949607 c</name>
 		<id>Kepler-28 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -54471,6 +54806,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-29 b</id_exoplaneteu>
 		<name>Kepler-29 b</name>
 		<name>KOI-738.01</name>
+		<name>KOI-738 b</name>
 		<name>KIC 10358759 b</name>
 		<id>Kepler-29 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -54516,6 +54852,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-29 c</id_exoplaneteu>
 		<name>Kepler-29 c</name>
 		<name>KOI-738.02</name>
+		<name>KOI-738 c</name>
 		<name>KIC 10358759 c</name>
 		<id>Kepler-29 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -59552,7 +59889,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-33 b</id_exoplaneteu>
 		<name>Kepler-33 b</name>
-		<name>KOI-707.01</name>
+		<name>KOI-707.05</name>
+		<name>KOI-707 b</name>
 		<name>KIC 9458613 b</name>
 		<id>Kepler-33 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -59597,7 +59935,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-33 c</id_exoplaneteu>
 		<name>Kepler-33 c</name>
-		<name>KOI-707.02</name>
+		<name>KOI-707.04</name>
+		<name>KOI-707 c</name>
 		<name>KIC 9458613 c</name>
 		<id>Kepler-33 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -59642,7 +59981,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-33 d</id_exoplaneteu>
 		<name>Kepler-33 d</name>
-		<name>KOI-707.03</name>
+		<name>KOI-707.01</name>
+		<name>KOI-707 d</name>
 		<name>KIC 9458613 d</name>
 		<id>Kepler-33 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -59687,7 +60027,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-33 e</id_exoplaneteu>
 		<name>Kepler-33 e</name>
-		<name>KOI-707.04</name>
+		<name>KOI-707.03</name>
+		<name>KOI-707 e</name>
 		<name>KIC 9458613 e</name>
 		<id>Kepler-33 e</id>
 		<discoverymethod>transit</discoverymethod>
@@ -59732,7 +60073,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-33 f</id_exoplaneteu>
 		<name>Kepler-33 f</name>
-		<name>KOI-707.05</name>
+		<name>KOI-707.02</name>
+		<name>KOI-707 f</name>
 		<name>KIC 9458613 f</name>
 		<id>Kepler-33 f</id>
 		<discoverymethod>transit</discoverymethod>
@@ -60724,7 +61066,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-338 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
+			<mass>0.0963</mass>
 			<radius>0.22236</radius>
 			<orbit>
 				<period>13.726976</period>
@@ -60746,15 +61088,15 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>18 51 54</rightascension>
 			<declination>+40 47 03</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.19</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/03/18</lastupdate>
 		<description>Kepler-338 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-338 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -60793,13 +61135,13 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>18 51 54</rightascension>
 			<declination>+40 47 03</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.19</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-338 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-338 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -60840,16 +61182,62 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>18 51 54</rightascension>
 			<declination>+40 47 03</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.19</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-338 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-338 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-338 e</id_exoplaneteu>
+		<name>Kepler-338 e</name>
+		<name>KOI-1930 e</name>
+		<name>KOI-1930.04</name>
+		<name>KIC 5511081 e</name>
+		<id>Kepler-338 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.027</mass>
+			<radius>0.139</radius>
+			<orbit>
+				<period>9.341</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.1010</mass>
+			<radius>1.735</radius>
+			<metallicity />
+			<distance>545.29</distance>
+			<temperature>5923</temperature>
+			<rightascension>18 51 54</rightascension>
+			<declination>+40 47 03</declination>
+			<angulardistance />
+			<magV>12.19</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>Kepler-338 e was confirmed by transit timing variations.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -63302,7 +63690,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-36 b</id_exoplaneteu>
 		<name>Kepler-36 b</name>
-		<name>KOI-277.01</name>
+		<name>KOI-277.02</name>
+		<name>KOI-277 b</name>
 		<name>KIC 11401755 b</name>
 		<name>2MASS 19250004+4913545 b</name>
 		<id>Kepler-36 b</id>
@@ -63350,7 +63739,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-36 c</id_exoplaneteu>
 		<name>Kepler-36 c</name>
-		<name>KOI-277.02</name>
+		<name>KOI-277.01</name>
+		<name>KOI-277 c</name>
 		<name>KIC 11401755 c</name>
 		<name>2MASS 19250004+4913545 c</name>
 		<id>Kepler-36 c</id>
@@ -65728,7 +66118,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 00 43</rightascension>
 			<declination>+43 49 51</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.47</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -65775,7 +66165,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 00 43</rightascension>
 			<declination>+43 49 51</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.47</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -67440,6 +67830,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<name>Kepler-4 b</name>
 		<name>2MASS J19022767+5008087 b</name>
 		<name>KIC 11853905 b</name>
+		<name>KOI-7.01</name>
 		<name>KOI-7 b</name>
 		<id>Kepler-4 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -68143,6 +68534,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-406 b</id_exoplaneteu>
 		<name>Kepler-406 b</name>
 		<name>KOI-321.01</name>
+		<name>KOI-321 b</name>
 		<name>KIC 8753657 b</name>
 		<id>Kepler-406 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -68188,6 +68580,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-406 c</id_exoplaneteu>
 		<name>Kepler-406 c</name>
 		<name>KOI-321.02</name>
+		<name>KOI-321 c</name>
 		<name>KIC 8753657 c</name>
 		<id>Kepler-406 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -68233,6 +68626,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-407 b</id_exoplaneteu>
 		<name>Kepler-407 b</name>
 		<name>KOI-1442.01</name>
+		<name>KOI-1442 b</name>
 		<name>KIC 11600889 b</name>
 		<id>Kepler-407 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -68278,6 +68672,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-407 c</id_exoplaneteu>
 		<name>Kepler-407 c</name>
 		<name>KOI-1442.10</name>
+		<name>KOI-1442 c</name>
 		<name>KIC 11600889 c</name>
 		<id>Kepler-407 c</id>
 		<discoverymethod>RV</discoverymethod>
@@ -68323,6 +68718,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id_exoplaneteu>Kepler-409 b</id_exoplaneteu>
 		<name>Kepler-409 b</name>
 		<name>KOI-1925.01</name>
+		<name>KOI-1925 b</name>
 		<name>KIC 9955598 b</name>
 		<id>Kepler-409 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -68349,7 +68745,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 34 43</rightascension>
 			<declination>+46 51 09</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.64</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -68369,6 +68765,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<name>Kepler-41 b</name>
 		<name>KOI-196 b</name>
 		<name>KOI-196.01</name>
+		<name>KIC 9410930 b</name>
 		<name>2MASS J19380317+4558539 b</name>
 		<id>Kepler-41 b</id>
 		<discoverymethod>RV</discoverymethod>
@@ -68443,7 +68840,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>18 52 36</rightascension>
 			<declination>+45 08 23</declination>
 			<angulardistance />
-			<magV />
+			<magV>9.50</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -68973,6 +69370,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-434 b</id_exoplaneteu>
 		<name>Kepler-434 b</name>
 		<name>KOI-614.01</name>
+		<name>KOI-614 b</name>
 		<name>KIC 7368664 b</name>
 		<name>2MASS J19342073+4255440 b</name>
 		<id>Kepler-434 b</id>
@@ -69020,6 +69418,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-436 b</name>
 		<name>KOI-2529.02</name>
 		<name>KOI-2529 b</name>
+		<name>KIC 8463346 b</name>
 		<id>Kepler-436 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69065,6 +69464,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-437 b</name>
 		<name>KOI-3255.01</name>
 		<name>KOI-3255 b</name>
+		<name>KIC 8183288 b</name>
 		<id>Kepler-437 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69110,6 +69510,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-438 b</name>
 		<name>KOI-3284.01</name>
 		<name>KOI-3284 b</name>
+		<name>KIC 6497146 b</name>
 		<id>Kepler-438 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69155,6 +69556,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-439 b</name>
 		<name>KOI-4005.01</name>
 		<name>KOI-4005 b</name>
+		<name>KIC 8142787 b</name>
 		<id>Kepler-439 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69247,6 +69649,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-440 b</name>
 		<name>KOI-4087.01</name>
 		<name>KOI-4087 b</name>
+		<name>KIC 6106282 b</name>
 		<id>Kepler-440 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69292,6 +69695,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-441 b</name>
 		<name>KOI-4622.01</name>
 		<name>KOI-4622 b</name>
+		<name>KIC 11284772 b</name>
 		<id>Kepler-441 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69337,6 +69741,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-442 b</name>
 		<name>KOI-4742.01</name>
 		<name>KOI-4742 b</name>
+		<name>KIC 4138008 b</name>
 		<id>Kepler-442 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69382,6 +69787,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<name>Kepler-443 b</name>
 		<name>KOI-4745.01</name>
 		<name>KOI-4745 b</name>
+		<name>KIC 11757451 b</name>
 		<id>Kepler-443 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69426,7 +69832,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-444 b</id_exoplaneteu>
 		<name>Kepler-444 b</name>
 		<name>HIP 94931 b</name>
+		<name>KOI-3158.01</name>
 		<name>KOI-3158 b</name>
+		<name>KIC 6278762 b</name>
 		<name>LHS 3450 b</name>
 		<name>PPM 58152 b</name>
 		<name>TYC 3129-329-1 b</name>
@@ -69475,7 +69883,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-444 c</id_exoplaneteu>
 		<name>Kepler-444 c</name>
 		<name>HIP 94931 c</name>
+		<name>KOI-3158.02</name>
 		<name>KOI-3158 c</name>
+		<name>KIC 6278762 c</name>
 		<name>LHS 3450 c</name>
 		<id>Kepler-444 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -69521,7 +69931,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-444 d</id_exoplaneteu>
 		<name>Kepler-444 d</name>
 		<name>HIP 94931 d</name>
+		<name>KOI-3158.03</name>
 		<name>KOI-3158 d</name>
+		<name>KIC 6278762 d</name>
 		<name>LHS 3450 d</name>
 		<id>Kepler-444 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -69567,7 +69979,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-444 e</id_exoplaneteu>
 		<name>Kepler-444 e</name>
 		<name>HIP 94931 e</name>
+		<name>KOI-3158.04</name>
 		<name>KOI-3158 e</name>
+		<name>KIC 6278762 e</name>
 		<name>LHS 3450 e</name>
 		<id>Kepler-444 e</id>
 		<discoverymethod>transit</discoverymethod>
@@ -69613,7 +70027,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-444 f</id_exoplaneteu>
 		<name>Kepler-444 f</name>
 		<name>HIP 94931 f</name>
+		<name>KOI-3158.05</name>
 		<name>KOI-3158 f</name>
+		<name>KIC 6278762 f</name>
 		<name>LHS 3450 f</name>
 		<id>Kepler-444 f</id>
 		<discoverymethod>transit</discoverymethod>
@@ -69753,9 +70169,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>Kepler-445 d</id_exoplaneteu>
 		<name>Kepler-445 d</name>
 		<name>KOI-2704 d</name>
-		<name>KOI-2704.03</name>
 		<name>KIC 9730163 d</name>
-		<name>KIC 9730163.03</name>
 		<id>Kepler-445 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -70078,6 +70492,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-46 c</id_exoplaneteu>
 		<name>Kepler-46 c</name>
+		<name>KIC 7109675 c</name>
+		<name>KOI-872 c</name>
 		<id>Kepler-46 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -70638,6 +71054,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<name>Kepler-5 b</name>
 		<name>2MASS J19573768+4402061 b</name>
 		<name>KIC 8191672 b</name>
+		<name>KOI-18.01</name>
 		<name>KOI-18 b</name>
 		<id>Kepler-5 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -72025,6 +72442,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<name>Kepler-6 b</name>
 		<name>2MASS J19472094+4814238 b</name>
 		<name>KIC 10874614 b</name>
+		<name>KOI-17.01</name>
 		<name>KOI-17 b</name>
 		<id>Kepler-6 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -72204,6 +72622,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-61 b</id_exoplaneteu>
 		<name>Kepler-61 b</name>
+		<name>KOI-1361.01</name>
 		<name>KOI-1361 b</name>
 		<name>KIC 6960913 b</name>
 		<id>Kepler-61 b</id>
@@ -72528,6 +72947,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-65 b</id_exoplaneteu>
 		<name>Kepler-65 b</name>
+		<name>KOI-85.02</name>
 		<name>KOI-85 b</name>
 		<name>KIC 5866724 b</name>
 		<id>Kepler-65 b</id>
@@ -72573,6 +72993,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-65 c</id_exoplaneteu>
 		<name>Kepler-65 c</name>
+		<name>KOI-85.01</name>
 		<name>KOI-85 c</name>
 		<name>KIC 5866724 c</name>
 		<id>Kepler-65 c</id>
@@ -72618,6 +73039,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-65 d</id_exoplaneteu>
 		<name>Kepler-65 d</name>
+		<name>KOI-85.03</name>
 		<name>KOI-85 d</name>
 		<name>KIC 5866724 d</name>
 		<id>Kepler-65 d</id>
@@ -72663,6 +73085,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-66 b</id_exoplaneteu>
 		<name>Kepler-66 b</name>
+		<name>KOI-1958.01</name>
+		<name>KOI-1958 b</name>
+		<name>KIC 9836149 b</name>
 		<id>Kepler-66 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -72706,6 +73131,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-67 b</id_exoplaneteu>
 		<name>Kepler-67 b</name>
+		<name>KOI-2115.01</name>
+		<name>KOI-2115 b</name>
+		<name>KIC 9532052 b</name>
 		<id>Kepler-67 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -72752,6 +73180,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<name>KIC 11295426 b</name>
 		<name>2MASS J19240775+4902249 b</name>
 		<name>KOI-246.01</name>
+		<name>KOI-246 b</name>
 		<id>Kepler-68 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -72777,7 +73206,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 24 07</rightascension>
 			<declination>+49 02 25</declination>
 			<angulardistance />
-			<magV>4.34</magV>
+			<magV>9.997</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -72798,6 +73227,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<name>KIC 11295426 c</name>
 		<name>2MASS J19240775+4902249 c</name>
 		<name>KOI-246.02</name>
+		<name>KOI-246 c</name>
 		<id>Kepler-68 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -72823,7 +73253,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 24 07</rightascension>
 			<declination>+49 02 25</declination>
 			<angulardistance />
-			<magV>4.34</magV>
+			<magV>9.997</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -72844,6 +73274,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<name>KIC 11295426 d</name>
 		<name>2MASS J19240775+4902249 d</name>
 		<name>KOI-246.20</name>
+		<name>KOI-246 d</name>
 		<id>Kepler-68 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -72869,7 +73300,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<rightascension>19 24 07</rightascension>
 			<declination>+49 02 25</declination>
 			<angulardistance />
-			<magV>4.34</magV>
+			<magV>9.997</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -72887,7 +73318,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-69 b</id_exoplaneteu>
 		<name>Kepler-69 b</name>
+		<name>KOI-172.01</name>
 		<name>KOI-172 b</name>
+		<name>KIC 8692861 b</name>
 		<id>Kepler-69 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -72931,7 +73364,9 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-69 c</id_exoplaneteu>
 		<name>Kepler-69 c</name>
+		<name>KOI-172.02</name>
 		<name>KOI-172 c</name>
+		<name>KIC 8692861 c</name>
 		<id>Kepler-69 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -72979,6 +73414,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>Kepler-7 b</name>
 		<name>2MASS J19141956+4105233 b</name>
 		<name>KIC 5780885 b</name>
+		<name>KOI-97.01</name>
 		<name>KOI-97 b</name>
 		<id>Kepler-7 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -73025,6 +73461,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>Kepler-71 b</name>
 		<name>KOI-217 b</name>
 		<name>KOI-217.01</name>
+		<name>KIC 9595827 b</name>
 		<id>Kepler-71 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -73162,6 +73599,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-76 b</id_exoplaneteu>
 		<name>Kepler-76 b</name>
+		<name>KOI-1658.01</name>
+		<name>KOI-1658 b</name>
 		<name>KIC 4570949 b</name>
 		<name>Einstein's Planet</name>
 		<id>Kepler-76 b</id>
@@ -73495,6 +73934,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>Kepler-8 b</name>
 		<name>2MASS J18450914+4227038 b</name>
 		<name>KIC 6922244 b</name>
+		<name>KOI-10.01</name>
 		<name>KOI-10 b</name>
 		<id>Kepler-8 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -74902,6 +75342,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-9 b</name>
 		<name>2MASS J19021775+3824032 b</name>
 		<name>KIC 3323887 b</name>
+		<name>KOI-377.01</name>
 		<name>KOI-377 b</name>
 		<id>Kepler-9 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -74948,6 +75389,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-9 c</name>
 		<name>2MASS J19021775+3824032 c</name>
 		<name>KIC 3323887 c</name>
+		<name>KOI-377.02</name>
 		<name>KOI-377 c</name>
 		<id>Kepler-9 c</id>
 		<discoverymethod>transit</discoverymethod>
@@ -74994,6 +75436,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-9 d</name>
 		<name>2MASS J19021775+3824032 d</name>
 		<name>KIC 3323887 d</name>
+		<name>KOI-377.03</name>
 		<name>KOI-377 d</name>
 		<id>Kepler-9 d</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75369,6 +75812,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<name>Kepler-91 b</name>
 		<name>KIC 8219268 b</name>
 		<name>KOI-2133.01</name>
+		<name>KOI-2133 b</name>
 		<id>Kepler-91 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -75413,6 +75857,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-93 b</id_exoplaneteu>
 		<name>Kepler-93 b</name>
 		<name>KOI-69.01</name>
+		<name>KOI-69 b</name>
 		<name>KIC 3544595 b</name>
 		<id>Kepler-93 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75458,6 +75903,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-93 c</id_exoplaneteu>
 		<name>Kepler-93 c</name>
 		<name>KOI-69.10</name>
+		<name>KOI-69 c</name>
 		<name>KIC 3544595 c</name>
 		<id>Kepler-93 c</id>
 		<discoverymethod>RV</discoverymethod>
@@ -75503,6 +75949,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-94 b</id_exoplaneteu>
 		<name>Kepler-94 b</name>
 		<name>KOI-104.01</name>
+		<name>KOI-104 b</name>
 		<name>KIC 10318874 b</name>
 		<id>Kepler-94 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75548,6 +75995,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-94 c</id_exoplaneteu>
 		<name>Kepler-94 c</name>
 		<name>KOI-104.10</name>
+		<name>KOI-104 c</name>
 		<name>KIC 10318874 c</name>
 		<id>Kepler-94 c</id>
 		<discoverymethod>RV</discoverymethod>
@@ -75593,6 +76041,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-95 b</id_exoplaneteu>
 		<name>Kepler-95 b</name>
 		<name>KOI-122.01</name>
+		<name>KOI-122 b</name>
 		<name>KIC 8349582 b</name>
 		<id>Kepler-95 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75638,6 +76087,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-96 b</id_exoplaneteu>
 		<name>Kepler-96 b</name>
 		<name>KOI-261.01</name>
+		<name>KOI-261 b</name>
 		<name>KIC 5383248 b</name>
 		<id>Kepler-96 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75664,7 +76114,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<rightascension>19 48 17</rightascension>
 			<declination>+40 31 30</declination>
 			<angulardistance />
-			<magV />
+			<magV>10.57</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -75683,6 +76133,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-97 b</id_exoplaneteu>
 		<name>Kepler-97 b</name>
 		<name>KOI-292.01</name>
+		<name>KOI-292 b</name>
 		<name>KIC 11075737 b</name>
 		<id>Kepler-97 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75728,6 +76179,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-97 c</id_exoplaneteu>
 		<name>Kepler-97 c</name>
 		<name>KOI-292.10</name>
+		<name>KOI-292 c</name>
 		<name>KIC 11075737 c</name>
 		<id>Kepler-97 c</id>
 		<discoverymethod>RV</discoverymethod>
@@ -75773,6 +76225,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-98 b</id_exoplaneteu>
 		<name>Kepler-98 b</name>
 		<name>KOI-299.01</name>
+		<name>KOI-299 b</name>
 		<name>KIC 2692377 b</name>
 		<id>Kepler-98 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75818,6 +76271,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>Kepler-99 b</id_exoplaneteu>
 		<name>Kepler-99 b</name>
 		<name>KOI-305.01</name>
+		<name>KOI-305 b</name>
 		<name>KIC 6063220 b</name>
 		<id>Kepler-99 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -75994,6 +76448,8 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>KIC 10905746 b</id_exoplaneteu>
 		<name>KIC 10905746 b</name>
+		<name>KOI-1725.01</name>
+		<name>KOI-1725 b</name>
 		<id>KIC 10905746 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -76037,6 +76493,8 @@ Credit: Joe Gallagher.</imagedescription>
 	<planet>
 		<id_exoplaneteu>KIC 6185331 b</id_exoplaneteu>
 		<name>KIC 6185331 b</name>
+		<name>KOI-1727.01</name>
+		<name>KOI-1727 b</name>
 		<id>KIC 6185331 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -76171,6 +76629,141 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1194 b</id_exoplaneteu>
+		<name>KOI-1194 b</name>
+		<name>Kepler-415 b</name>
+		<name>KOI-1194.03</name>
+		<name>KIC 3554031 b</name>
+		<id>KOI-1194 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.108</radius>
+			<orbit>
+				<period>4.176</period>
+				<semimajoraxis>0.0446</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.674</mass>
+			<radius>0.643</radius>
+			<metallicity />
+			<distance />
+			<temperature>4523</temperature>
+			<rightascension>19 35 13.07</rightascension>
+			<declination>+38 38 20.9</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-415 b has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1194 c</id_exoplaneteu>
+		<name>KOI-1194 c</name>
+		<name>Kepler-415 c</name>
+		<name>KOI-1194.01</name>
+		<name>KIC 3554031 c</name>
+		<id>KOI-1194 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.234</radius>
+			<orbit>
+				<period>8.708</period>
+				<semimajoraxis>0.0727</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.674</mass>
+			<radius>0.643</radius>
+			<metallicity />
+			<distance />
+			<temperature>4523</temperature>
+			<rightascension>19 35 13.07</rightascension>
+			<declination>+38 38 20.9</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-415 c has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1194.02</id_exoplaneteu>
+		<name>KOI-1194.02</name>
+		<id>KOI-1194.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.184</radius>
+			<orbit>
+				<period>14.8622932</period>
+				<semimajoraxis>0.1038</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.674</mass>
+			<radius>0.643</radius>
+			<metallicity />
+			<distance />
+			<temperature>4523</temperature>
+			<rightascension>19 35 13.07</rightascension>
+			<declination>+38 38 20.9</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet candidate KOI-1194.02 has not yet been confirmed as a planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Kepler Objects of Interest</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-1257 b</id_exoplaneteu>
 		<name>KOI-1257 b</name>
 		<name>KOI-1257 01</name>
@@ -76201,7 +76794,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 24 54</rightascension>
 			<declination>+44 55 38</declination>
 			<angulardistance />
-			<magV />
+			<magV>14.867</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -76367,7 +76960,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-142 b</id_exoplaneteu>
 		<name>KOI-142 b</name>
+		<name>KOI-142.01</name>
 		<name>Kepler-88 b</name>
+		<name>KIC 5446285 b</name>
 		<id>KOI-142 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -76412,6 +77007,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-142 c</id_exoplaneteu>
 		<name>KOI-142 c</name>
 		<name>Kepler-88 c</name>
+		<name>KIC 5446285 c</name>
 		<id>KOI-142 c</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -76499,7 +77095,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-1612.01</id_exoplaneteu>
 		<name>KOI-1612.01</name>
+		<name>KOI-1612 b</name>
 		<name>Kepler-408 b</name>
+		<name>KIC 10963065 b</name>
 		<name>HD 176693 b</name>
 		<id>KOI-1612.01</id>
 		<discoverymethod>transit</discoverymethod>
@@ -76978,7 +77576,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 21 26</rightascension>
 			<declination>+40 34 04</declination>
 			<angulardistance />
-			<magV />
+			<magV>14.97</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -77068,7 +77666,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 13 01</rightascension>
 			<declination>+43 42 18</declination>
 			<angulardistance />
-			<magV />
+			<magV>14.42</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -77115,7 +77713,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 17 44</rightascension>
 			<declination>+49 28 24</declination>
 			<angulardistance />
-			<magV />
+			<magV>15.073</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -77133,6 +77731,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-206 b</id_exoplaneteu>
 		<name>KOI-206 b</name>
+		<name>KOI-206.01</name>
 		<name>Kepler-433 b</name>
 		<name>KIC 5728139 b</name>
 		<name>2MASS J19502247+4058381 b</name>
@@ -77251,7 +77850,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 44 31</rightascension>
 			<declination>+48 58 39</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.26</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -77298,7 +77897,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 44 31</rightascension>
 			<declination>+48 58 39</declination>
 			<angulardistance />
-			<magV />
+			<magV>12.26</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -77318,6 +77917,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<name>KOI-285 b</name>
 		<name>KOI-285.01</name>
 		<name>Kepler-92 b</name>
+		<name>KIC 6196457 b</name>
 		<id>KOI-285 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77363,6 +77963,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<name>KOI-285 c</name>
 		<name>KOI-285.02</name>
 		<name>Kepler-92 c</name>
+		<name>KIC 6196457 c</name>
 		<id>KOI-285 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77404,10 +78005,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-285 d</id_exoplaneteu>
-		<name>KOI-285 d</name>
+		<id_exoplaneteu>KOI-285.03</id_exoplaneteu>
 		<name>KOI-285.03</name>
-		<id>KOI-285 d</id>
+		<id>KOI-285.03</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
@@ -77532,6 +78132,98 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/01/07</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-341 b</id_exoplaneteu>
+		<name>KOI-341 b</name>
+		<name>Kepler-414 b</name>
+		<name>KOI-341.02</name>
+		<name>KIC 10878263 b</name>
+		<id>KOI-341 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.153</radius>
+			<orbit>
+				<period>4.7</period>
+				<semimajoraxis>0.0529</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.892</mass>
+			<radius>0.946</radius>
+			<metallicity />
+			<distance />
+			<temperature>5523</temperature>
+			<rightascension>19 51 50.78</rightascension>
+			<declination>+48 14 39.7</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-414 b has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-341 c</id_exoplaneteu>
+		<name>KOI-341 c</name>
+		<name>Kepler-414 c</name>
+		<name>KOI-341.01</name>
+		<name>KIC 10878263 c</name>
+		<id>KOI-341 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.268</radius>
+			<orbit>
+				<period>7.171</period>
+				<semimajoraxis>0.0701</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.892</mass>
+			<radius>0.946</radius>
+			<metallicity />
+			<distance />
+			<temperature>5523</temperature>
+			<rightascension>19 51 50.78</rightascension>
+			<declination>+48 14 39.7</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-414 c has been confirmed by transit timing variations.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -77680,6 +78372,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-423 b</id_exoplaneteu>
 		<name>KOI-423 b</name>
+		<name>KOI-423.01</name>
 		<name>Kepler-39 b</name>
 		<name>KIC 9478990 b</name>
 		<id>KOI-423 b</id>
@@ -77725,6 +78418,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-428 b</id_exoplaneteu>
 		<name>KOI-428 b</name>
+		<name>KOI-428.01</name>
 		<name>KIC 10418224 b</name>
 		<name>Kepler-40 b</name>
 		<name>2MASS J19471528+4731357 b</name>
@@ -77908,6 +78602,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-55 b</id_exoplaneteu>
 		<name>KOI-55 b</name>
+		<name>Kepler-70 b</name>
+		<name>KOI-55.01</name>
+		<name>KIC 5807616 b</name>
 		<id>KOI-55 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -77951,6 +78648,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-55 c</id_exoplaneteu>
 		<name>KOI-55 c</name>
+		<name>Kepler-70 c</name>
+		<name>KOI-55.02</name>
+		<name>KIC 5807616 c</name>
 		<id>KOI-55 c</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -77994,8 +78694,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-680 b</id_exoplaneteu>
 		<name>KOI-680 b</name>
+		<name>KOI-680.01</name>
 		<name>Kepler-435 b</name>
-		<name>KIC 75292669 b</name>
+		<name>KIC 7529266 b</name>
 		<name>2MASS J19290895+4311502 b</name>
 		<id>KOI-680 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -78040,21 +78741,22 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-806.01</id_exoplaneteu>
 		<name>KOI-806.01</name>
-		<name>Kepler-30 b</name>
-		<name>KIC 3832474 b</name>
+		<name>Kepler-30 d</name>
+		<name>KOI-806 d</name>
+		<name>KIC 3832474 d</name>
 		<id>KOI-806.01</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.035546</mass>
-			<radius>0.355</radius>
+			<mass>0.072666</mass>
+			<radius>0.801947</radius>
 			<orbit>
-				<period>29.334</period>
-				<semimajoraxis>0.18</semimajoraxis>
-				<eccentricity>0.042</eccentricity>
-				<inclination>90.18</inclination>
-				<periastron>-31</periastron>
+				<period>143.213</period>
+				<semimajoraxis>0.5</semimajoraxis>
+				<eccentricity>0.022</eccentricity>
+				<inclination />
+				<periastron>-163</periastron>
 				<longitude />
-				<ascendingnode>0.031</ascendingnode>
+				<ascendingnode>1.3</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
@@ -78086,6 +78788,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-806.02</id_exoplaneteu>
 		<name>KOI-806.02</name>
 		<name>Kepler-30 c</name>
+		<name>KOI-806 c</name>
 		<name>KIC 3832474 c</name>
 		<id>KOI-806.02</id>
 		<discoverymethod>transit</discoverymethod>
@@ -78130,21 +78833,22 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-806.03</id_exoplaneteu>
 		<name>KOI-806.03</name>
-		<name>Kepler-30 d</name>
-		<name>KIC 3832474 d</name>
+		<name>Kepler-30 b</name>
+		<name>KOI-806 b</name>
+		<name>KIC 3832474 b</name>
 		<id>KOI-806.03</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.072666</mass>
-			<radius>0.801947</radius>
+			<mass>0.035546</mass>
+			<radius>0.355</radius>
 			<orbit>
-				<period>143.213</period>
-				<semimajoraxis>0.5</semimajoraxis>
-				<eccentricity>0.022</eccentricity>
-				<inclination />
-				<periastron>-163</periastron>
+				<period>29.334</period>
+				<semimajoraxis>0.18</semimajoraxis>
+				<eccentricity>0.042</eccentricity>
+				<inclination>90.18</inclination>
+				<periastron>-31</periastron>
 				<longitude />
-				<ascendingnode>1.3</ascendingnode>
+				<ascendingnode>0.031</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
@@ -78204,7 +78908,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<rightascension>19 22 20</rightascension>
 			<declination>+40 34 39</declination>
 			<angulardistance />
-			<magV />
+			<magV>15.405</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -81030,6 +81734,8 @@ Credit: Kains et al (2013).</imagedescription>
 	<planet>
 		<id_exoplaneteu>PH-2 b</id_exoplaneteu>
 		<name>PH-2 b</name>
+		<name>KOI-3663.01</name>
+		<name>KOI-3663 b</name>
 		<name>KIC 12735740 b</name>
 		<name>2MASS 19190326+5157453 b</name>
 		<name>Planet Hunters 2 b</name>
@@ -81079,6 +81785,9 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 	<planet>
 		<id_exoplaneteu>PH3 c</id_exoplaneteu>
 		<name>PH3 c</name>
+		<name>Kepler-289 d</name>
+		<name>KOI-1353 d</name>
+		<name>KIC 7303287 d</name>
 		<id>PH3 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -81778,7 +82487,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<rightascension>16 31 15</rightascension>
 			<declination>-24 32 24</declination>
 			<angulardistance />
-			<magV />
+			<magV>14.27</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -82451,6 +83160,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>TrES-2 A b</name>
 		<name>TrES-2 b</name>
 		<name>Kepler-1 b</name>
+		<name>KOI-1.01</name>
+		<name>KOI-1 b</name>
+		<name>KIC 11446443 b</name>
 		<id>TrES-2</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -82726,16 +83438,16 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>Upsilon Andromedae A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.69</mass>
+			<mass>1.78</mass>
 			<radius />
 			<orbit>
-				<period>4.617136</period>
-				<semimajoraxis>0.059</semimajoraxis>
-				<eccentricity>0.013</eccentricity>
-				<inclination>30</inclination>
-				<periastron />
+				<period>4.61716</period>
+				<semimajoraxis>0.059408</semimajoraxis>
+				<eccentricity>0.011769</eccentricity>
+				<inclination>22.99</inclination>
+				<periastron>51.14</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>7.28</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
@@ -82756,8 +83468,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>1996</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
-		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<lastupdate>15/03/16</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -82772,16 +83484,16 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>Upsilon Andromedae A c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>14.57</mass>
+			<mass>10.78</mass>
 			<radius />
 			<orbit>
-				<period>237.7</period>
-				<semimajoraxis>0.861</semimajoraxis>
-				<eccentricity>0.24</eccentricity>
-				<inclination>8</inclination>
-				<periastron />
+				<period>241.02</period>
+				<semimajoraxis>0.831580</semimajoraxis>
+				<eccentricity>0.247042</eccentricity>
+				<inclination>10.09</inclination>
+				<periastron>248.74</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>256.34</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
@@ -82802,8 +83514,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
-		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<lastupdate>15/03/16</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -82818,16 +83530,16 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>Upsilon Andromedae A d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>10.19</mass>
+			<mass>8.86</mass>
 			<radius />
 			<orbit>
-				<period>1302.61</period>
-				<semimajoraxis>2.55</semimajoraxis>
-				<eccentricity>0.274</eccentricity>
-				<inclination>24</inclination>
-				<periastron />
+				<period>1282.57</period>
+				<semimajoraxis>2.533539</semimajoraxis>
+				<eccentricity>0.249090</eccentricity>
+				<inclination>28.30</inclination>
+				<periastron>253.27</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>9.97</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
@@ -82848,8 +83560,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
-		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<lastupdate>15/03/16</lastupdate>
+		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -82894,12 +83606,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
-		<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 4 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+		<lastupdate>15/03/16</lastupdate>
+		<description>The detection of the fourth planet in the Upsilon Andromedae system has been questioned due to the presence of an unaccounted-for instrumental shift in earlier reductions of the radial velocity data from the Lick observatory.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
+		<list>Controversial</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
