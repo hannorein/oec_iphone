@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Kepler-338 e</id_exoplaneteu>
+	<name>Kepler-338 e</name>
+	<name>KOI-1930 e</name>
+	<name>KOI-1930.04</name>
+	<name>KIC 5511081 e</name>
+	<id>Kepler-338 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.027</mass>
+		<radius>0.139</radius>
+		<orbit>
+			<period>9.341</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1010</mass>
+		<radius>1.735</radius>
+		<metallicity />
+		<distance>545.29</distance>
+		<temperature>5923</temperature>
+		<rightascension>18 51 54</rightascension>
+		<declination>+40 47 03</declination>
+		<angulardistance />
+		<magV>12.19</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/03/18</lastupdate>
+	<description>Kepler-338 e was confirmed by transit timing variations.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

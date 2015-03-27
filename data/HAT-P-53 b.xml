@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HAT-P-53 b</id_exoplaneteu>
+	<name>HAT-P-53 b</name>
+	<name>GSC 2813-01266 b</name>
+	<name>2MASS J01272906+3858053 b</name>
+	<id>HAT-P-53 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.484</mass>
+		<radius>1.318</radius>
+		<orbit>
+			<period>1.9616241</period>
+			<semimajoraxis>0.03159</semimajoraxis>
+			<eccentricity />
+			<inclination>86.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.093</mass>
+		<radius>1.209</radius>
+		<metallicity>0.000</metallicity>
+		<distance>719</distance>
+		<temperature>5956</temperature>
+		<rightascension>01 27 29.05</rightascension>
+		<declination>+38 58 05.3</declination>
+		<angulardistance />
+		<magV>11.73</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/13</lastupdate>
+	<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

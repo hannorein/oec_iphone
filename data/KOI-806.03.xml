@@ -1,21 +1,22 @@
 <planet>
 	<id_exoplaneteu>KOI-806.03</id_exoplaneteu>
 	<name>KOI-806.03</name>
-	<name>Kepler-30 d</name>
-	<name>KIC 3832474 d</name>
+	<name>Kepler-30 b</name>
+	<name>KOI-806 b</name>
+	<name>KIC 3832474 b</name>
 	<id>KOI-806.03</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.072666</mass>
-		<radius>0.801947</radius>
+		<mass>0.035546</mass>
+		<radius>0.355</radius>
 		<orbit>
-			<period>143.213</period>
-			<semimajoraxis>0.5</semimajoraxis>
-			<eccentricity>0.022</eccentricity>
-			<inclination />
-			<periastron>-163</periastron>
+			<period>29.334</period>
+			<semimajoraxis>0.18</semimajoraxis>
+			<eccentricity>0.042</eccentricity>
+			<inclination>90.18</inclination>
+			<periastron>-31</periastron>
 			<longitude />
-			<ascendingnode>1.3</ascendingnode>
+			<ascendingnode>0.031</ascendingnode>
 		</orbit>
 	</properties>
 	<star>

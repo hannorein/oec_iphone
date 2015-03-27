@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HAT-P-52 b</id_exoplaneteu>
+	<name>HAT-P-52 b</name>
+	<name>GSC 1793-01136 b</name>
+	<name>2MASS J02505320+2901206 b</name>
+	<id>HAT-P-52 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.818</mass>
+		<radius>1.009</radius>
+		<orbit>
+			<period>2.7535953</period>
+			<semimajoraxis>0.03694</semimajoraxis>
+			<eccentricity />
+			<inclination>87.02</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.887</mass>
+		<radius>0.893</radius>
+		<metallicity>0.280</metallicity>
+		<distance>385</distance>
+		<temperature>5131</temperature>
+		<rightascension>02 50 53.20</rightascension>
+		<declination>+29 01 20.6</declination>
+		<angulardistance />
+		<magV>14.068</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/13</lastupdate>
+	<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
