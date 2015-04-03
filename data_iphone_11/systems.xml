@@ -1,4 +1,4 @@
-<systems name="systems" planets="1948">
+<systems name="systems" planets="1953">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -7330,7 +7330,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>15/03/13</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -7371,7 +7370,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>15/03/13</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -7412,7 +7410,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>15/03/13</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -7452,7 +7449,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>15/03/13</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -12247,6 +12243,69 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 1605</name>
+		<rightascension>00 20 31.51872</rightascension>
+		<declination>+30 58 29.2948</declination>
+		<distance>84.6</distance>
+		<star>
+			<mass errorminus="0.11" errorplus="0.11">1.31</mass>
+			<radius errorminus="0.4" errorplus="0.4">3.8</radius>
+			<magB errorminus="0.02" errorplus="0.02">8.55</magB>
+			<magV errorminus="0.01" errorplus="0.01">7.52</magV>
+			<magJ errorminus="0.027" errorplus="0.027">5.850</magJ>
+			<magH errorminus="0.033" errorplus="0.033">5.375</magH>
+			<magK errorminus="0.020" errorplus="0.020">5.272</magK>
+			<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
+			<spectraltype>K1IV</spectraltype>
+			<age errorminus="1.37" errorplus="1.37">4.59</age>
+			<planet>
+				<name>HD 1605 b</name>
+				<name>BD+30 43 b</name>
+				<name>PPM 65214 b</name>
+				<name>TYC 2261-371-1 b</name>
+				<name>2MASS J00203151+3058293 b</name>
+				<name>HIP 1640 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.04" errorplus="0.06">0.96</mass>
+				<period errorminus="4.9" errorplus="5.6">577.9</period>
+				<periastrontime errorminus="67.3" errorplus="58.9">2453443.3</periastrontime>
+				<semimajoraxis errorminus="0.01" errorplus="0.02">1.48</semimajoraxis>
+				<eccentricity errorminus="0.035" errorplus="0.082">0.078</eccentricity>
+				<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/03/26</lastupdate>
+				<new>1</new>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+			<planet>
+				<name>HD 1605 c</name>
+				<name>BD+30 43 c</name>
+				<name>PPM 65214 c</name>
+				<name>TYC 2261-371-1 c</name>
+				<name>2MASS J00203151+3058293 c</name>
+				<name>HIP 1640 c</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.11" errorplus="0.13">3.48</mass>
+				<period errorminus="110.0" errorplus="105.1">2111</period>
+				<periastrontime errorminus="67.3" errorplus="58.9">2454758.3</periastrontime>
+				<semimajoraxis errorminus="0.05" errorplus="0.05">3.52</semimajoraxis>
+				<eccentricity errorminus="0.022" errorplus="0.032">0.098</eccentricity>
+				<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/03/26</lastupdate>
+				<new>1</new>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+			<name>HD 1605</name>
+			<name>BD+30 43</name>
+			<name>PPM 65214</name>
+			<name>TYC 2261-371-1</name>
+			<name>2MASS J00203151+3058293</name>
+			<name>HIP 1640</name>
+			<temperature errorminus="50" errorplus="50">4757</temperature>
+		</star>
+	</system>
+	<system>
 		<name>HD 16141</name>
 		<name>79 Ceti</name>
 		<rightascension>02 35 19</rightascension>
@@ -12533,6 +12592,50 @@ Image credit: Vanessa Bailey</imagedescription>
 			</planet>
 			<name>HD 164922</name>
 			<temperature>5385.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 1666</name>
+		<rightascension>00 20 52.33959</rightascension>
+		<declination>-19 55 52.4083</declination>
+		<distance>110.6</distance>
+		<star>
+			<mass errorminus="0.07" errorplus="0.07">1.50</mass>
+			<radius errorminus="0.49" errorplus="0.49">1.93</radius>
+			<magB errorminus="0.02" errorplus="0.02">8.69</magB>
+			<magV errorminus="0.01" errorplus="0.01">8.16</magV>
+			<magJ errorminus="0.035" errorplus="0.035">7.269</magJ>
+			<magH errorminus="0.042" errorplus="0.042">7.063</magH>
+			<magK errorminus="0.023" errorplus="0.023">6.964</magK>
+			<metallicity errorminus="0.04" errorplus="0.04">0.37</metallicity>
+			<spectraltype>F7V</spectraltype>
+			<age errorminus="0.20" errorplus="0.20">1.76</age>
+			<planet>
+				<name>HD 1666 b</name>
+				<name>BD-20 48 b</name>
+				<name>PPM 208672 b</name>
+				<name>TYC 5842-736-1 b</name>
+				<name>2MASS J00205233-1955522 b</name>
+				<name>HIP 1666 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.22" errorplus="0.31">6.43</mass>
+				<period errorminus="0.9" errorplus="0.8">270.0</period>
+				<periastrontime errorminus="5.3" errorplus="7.3">2453526.3</periastrontime>
+				<semimajoraxis errorminus="0.02" errorplus="0.01">0.94</semimajoraxis>
+				<eccentricity errorminus="0.02" errorplus="0.03">0.63</eccentricity>
+				<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes. This eccentric and massive planet with its values can be explained as a result of planet-planet interactions among Jovian planets.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/03/26</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+			<name>HD 1666</name>
+			<name>BD-20 48</name>
+			<name>PPM 208672</name>
+			<name>TYC 5842-736-1</name>
+			<name>2MASS J00205233-1955522</name>
+			<name>HIP 1666</name>
+			<temperature errorminus="44" errorplus="44">6317</temperature>
 		</star>
 	</system>
 	<system>
@@ -18598,6 +18701,69 @@ Image credit: Vanessa Bailey</imagedescription>
 			</planet>
 			<name>HD 66428</name>
 			<temperature>5752.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 67087</name>
+		<rightascension>08 07 39.75457</rightascension>
+		<declination>+31 33 04.7381</declination>
+		<distance>88.8</distance>
+		<star>
+			<mass errorminus="0.04" errorplus="0.04">1.36</mass>
+			<radius errorminus="0.32" errorplus="0.32">1.55</radius>
+			<magB errorminus="0.02" errorplus="0.02">8.55</magB>
+			<magV errorminus="0.01" errorplus="0.01">8.04</magV>
+			<magJ errorminus="0.019" errorplus="0.019">7.098</magJ>
+			<magH errorminus="0.017" errorplus="0.017">6.905</magH>
+			<magK errorminus="0.018" errorplus="0.018">6.866</magK>
+			<metallicity errorminus="0.04" errorplus="0.04">0.25</metallicity>
+			<spectraltype>F8V</spectraltype>
+			<age errorminus="0.51" errorplus="0.51">1.45</age>
+			<planet>
+				<name>HD 67087 b</name>
+				<name>BD+31 1735 b</name>
+				<name>PPM 73426 b</name>
+				<name>TYC 2469-686-1 b</name>
+				<name>2MASS J08073975-3133049 b</name>
+				<name>HIP 39767 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.20" errorplus="0.22">3.06</mass>
+				<period errorminus="1.6" errorplus="1.7">352.2</period>
+				<periastrontime errorminus="29.1" errorplus="26.3">2450154.8</periastrontime>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">1.08</semimajoraxis>
+				<eccentricity errorminus="0.07" errorplus="0.07">0.17</eccentricity>
+				<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/03/26</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>HD 67087 c</name>
+				<name>BD+31 1735 c</name>
+				<name>PPM 73426 c</name>
+				<name>TYC 2469-686-1 c</name>
+				<name>2MASS J08073975-3133049 c</name>
+				<name>HIP 39767 c</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="3.61" errorplus="10.0">4.85</mass>
+				<period errorminus="156" errorplus="193">2374</period>
+				<periastrontime errorminus="407.1" errorplus="370.6">2450322.5</periastrontime>
+				<semimajoraxis errorminus="0.37" errorplus="0.43">3.86</semimajoraxis>
+				<eccentricity errorminus="0.24" errorplus="0.17">0.76</eccentricity>
+				<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/03/26</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+			<name>HD 67087</name>
+			<name>BD+31 1735</name>
+			<name>PPM 73426</name>
+			<name>TYC 2469-686-1</name>
+			<name>2MASS J08073975-3133049</name>
+			<name>HIP 39767</name>
+			<temperature errorminus="47" errorplus="47">6330</temperature>
 		</star>
 	</system>
 	<system>
@@ -28145,6 +28311,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<distance>290</distance>
 		<star>
 			<name>Kepler-20</name>
+			<name>KOI-70</name>
+			<name>KIC 6850504</name>
 			<temperature>5466.0</temperature>
 			<mass>0.912</mass>
 			<radius>0.944</radius>
@@ -28160,7 +28328,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<planet>
 				<name>Kepler-20 b</name>
 				<name>2MASS J19104752+4220194 b</name>
-				<name>KOI-70</name>
+				<name>KOI-70.02</name>
+				<name>KOI-70 b</name>
+				<name>KIC 6850504 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.027</mass>
 				<radius>0.17</radius>
@@ -28178,7 +28348,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<planet>
 				<name>Kepler-20 c</name>
 				<name>2MASS J19104752+4220194 c</name>
-				<name>KOI-070</name>
+				<name>KOI-70.01</name>
+				<name>KOI-70 c</name>
+				<name>KIC 6850504 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.051</mass>
 				<radius>0.27</radius>
@@ -28196,7 +28368,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<planet>
 				<name>Kepler-20 d</name>
 				<name>2MASS J19104752+4220194 d</name>
-				<name>KOI-070</name>
+				<name>KOI-70.03</name>
+				<name>KOI-70 d</name>
+				<name>KIC 6850504 d</name>
 				<list>Confirmed planets</list>
 				<mass>0.06</mass>
 				<radius>0.25</radius>
@@ -28214,7 +28388,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<planet>
 				<name>Kepler-20 e</name>
 				<name>2MASS J19104752+4220194 e</name>
-				<name>KOI-070.04</name>
+				<name>KOI-70.04</name>
+				<name>KOI-70 e</name>
+				<name>KIC 6850504 e</name>
 				<list>Confirmed planets</list>
 				<radius>0.0791</radius>
 				<period>6.098493</period>
@@ -28231,7 +28407,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<planet>
 				<name>Kepler-20 f</name>
 				<name>2MASS J19104752+4220194 f</name>
-				<name>KOI-070.05</name>
+				<name>KOI-70.05</name>
+				<name>KOI-70 f</name>
+				<name>KIC 6850504 f</name>
 				<list>Confirmed planets</list>
 				<radius>0.093</radius>
 				<period>19.57706</period>
@@ -29472,7 +29650,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magK errorminus="0.014" errorplus="0.014">10.152</magK>
 			<planet>
 				<name>Kepler-22 b</name>
-				<name>KIC10593626 b</name>
+				<name>KOI-87.01</name>
+				<name>KOI-87 b</name>
+				<name>KIC 10593626 b</name>
 				<list>Confirmed planets</list>
 				<radius>0.21689</radius>
 				<period>290</period>
@@ -41511,7 +41691,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 					<name>HD 175289 b</name>
 					<name>KIC 8866102 b</name>
 					<name>KOI-42 b</name>
-					<name>KOI-42 01</name>
+					<name>KOI-42.01</name>
 					<list>Confirmed planets</list>
 					<period errorminus="0.000054" errorplus="0.000054">17.833648</period>
 					<radius errorminus="0.004921" errorplus="0.004921">0.258628</radius>
@@ -41529,6 +41709,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<star>
 				<mass>1</mass>
 				<name>Kepler-410 B</name>
+				<name>KIC 8866102 B</name>
+				<name>KOI-42 B</name>
 				<temperature>4850</temperature>
 			</star>
 			<semimajoraxis>224</semimajoraxis>
@@ -41542,7 +41724,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<star>
 			<name>Kepler-412</name>
 			<name>KOI-202</name>
-			<name>2MASS 19042647+4340514 b</name>
+			<name>2MASS 19042647+4340514</name>
+			<name>KIC 7877496</name>
 			<magB errorminus="0.33" errorplus="0.33">14.41</magB>
 			<magV errorminus="0.24" errorplus="0.24">13.73</magV>
 			<magR errorminus="0.11" errorplus="0.11">14.67</magR>
@@ -41558,7 +41741,9 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<age errorminus="1.7" errorplus="1.7">5.1</age>
 			<planet>
 				<name>Kepler-412 b</name>
+				<name>KOI-202.01</name>
 				<name>KOI-202 b</name>
+				<name>KIC 7877496 b</name>
 				<name>2MASS 19042647+4340514 b</name>
 				<mass errorminus="0.085" errorplus="0.085">0.939</mass>
 				<radius errorminus="0.043" errorplus="0.043">1.325</radius>
@@ -41635,15 +41820,17 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<magH errorminus="0.03" errorplus="0.03">13.24</magH>
 			<magK errorminus="0.03" errorplus="0.03">13.10</magK>
 			<name>Kepler-418</name>
-			<name>KOI 1089</name>
+			<name>KOI-1089</name>
 			<name>KIC 3247268</name>
 			<mass errorminus="0.08" errorplus="0.08">0.98</mass>
 			<radius errorminus="0.14" errorplus="0.14">1.09</radius>
 			<temperature errorminus="100" errorplus="100">5820</temperature>
 			<metallicity errorminus="0.10" errorplus="0.10">-0.05</metallicity>
 			<planet>
-				<name>Kepler-418b</name>
 				<name>Kepler-418 b</name>
+				<name>KOI-1089.01</name>
+				<name>KOI-1089 b</name>
+				<name>KIC 3247268 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.1</mass>
 				<radius errorminus="5.2" errorplus="5.2" unit="Re">9.7</radius>
@@ -41752,7 +41939,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<distance errorminus="20" errorplus="20">320</distance>
 		<star>
 			<name>Kepler-421</name>
-			<name>KIC-8800954</name>
+			<name>KIC 8800954</name>
 			<name>KOI-1274</name>
 			<mass errorminus="0.03" errorplus="0.03">0.794</mass>
 			<radius errorminus="0.029" errorplus="0.029">0.757</radius>
@@ -41765,7 +41952,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<age errorminus="0.8" errorplus="0.8">4</age>
 			<planet>
 				<name>Kepler-421 b</name>
-				<name>KIC-8800954 b</name>
+				<name>KIC 8800954 b</name>
+				<name>KOI-1274.01</name>
 				<name>KOI-1274 b</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.014581" errorplus="0.017315">0.379102</radius>
@@ -42586,7 +42774,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<declination>+48 33 36.05</declination>
 		<star>
 			<name>Kepler-447</name>
-			<name>KIC-11017901</name>
+			<name>KIC 11017901</name>
 			<name>KOI-1800</name>
 			<name>2MASS J19010446+4833360</name>
 			<mass errorminus="0.49" errorplus="0.145">0.764</mass>
@@ -42599,7 +42787,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity errorminus="0.05" errorplus="0.05">0.07</metallicity>
 			<planet>
 				<name>Kepler-447 b</name>
-				<name>KIC-11017901 b</name>
+				<name>KIC 11017901 b</name>
+				<name>KOI-1800.01</name>
 				<name>KOI-1800 b</name>
 				<name>2MASS J19010446+4833360 b</name>
 				<list>Confirmed planets</list>
@@ -42624,6 +42813,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<distance errorminus="33" errorplus="33">333</distance>
 		<star>
 			<name>Kepler-45</name>
+			<name>KOI-254</name>
+			<name>KIC 5794240</name>
 			<magV errorminus="0.05" errorplus="0.05">16.88</magV>
 			<magR>16.63</magR>
 			<magJ errorminus="0.024" errorplus="0.024">13.749</magJ>
@@ -42638,7 +42829,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<planet>
 				<name>Kepler-45 b</name>
 				<name>KOI-254 b</name>
-				<name>KOI-254 01</name>
+				<name>KOI-254.01</name>
+				<name>KIC 5794240 b</name>
 				<radius errorminus="0.11" errorplus="0.11">0.96</radius>
 				<mass errorminus="0.09" errorplus="0.09">0.505</mass>
 				<period errorminus="5e-06" errorplus="5e-06">2.455239</period>
@@ -42821,6 +43013,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<distance>313.14</distance>
 		<star>
 			<name>Kepler-48</name>
+			<name>KOI-148</name>
+			<name>KIC 5735762</name>
 			<temperature>5190.0</temperature>
 			<magJ errorminus="0.024" errorplus="0.024">11.702</magJ>
 			<magH errorminus="0.026" errorplus="0.026">11.292</magH>
@@ -42830,7 +43024,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-48 b</name>
 				<name>KOI-148.01</name>
-				<name>KID 5735762</name>
+				<name>KOI-148 b</name>
+				<name>KIC 5735762 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.015079</mass>
 				<radius>0.195019</radius>
@@ -42845,7 +43040,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-48 c</name>
 				<name>KOI-148.02</name>
-				<name>KID 5735762</name>
+				<name>KOI-148 c</name>
+				<name>KIC 5735762 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.033219</mass>
 				<radius>0.286149</radius>
@@ -42860,6 +43056,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-48 d</name>
 				<name>KOI-148.03</name>
+				<name>KOI-148 d</name>
 				<name>KIC 5735762 d</name>
 				<period>42.8961</period>
 				<radius errorminus="0.010024" errorplus="0.010024">0.185906</radius>
@@ -42874,6 +43071,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-48 e</name>
 				<name>KOI-148.10</name>
+				<name>KOI-148 e</name>
 				<name>KIC 5735762 e</name>
 				<period errorminus="8" errorplus="8">982</period>
 				<mass errorminus="0.078643" errorplus="0.078643">2.066725</mass>
@@ -43019,6 +43217,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<magH errorminus="0.03" errorplus="0.03">9.25</magH>
 			<magK errorminus="0.019" errorplus="0.019">9.197</magK>
 			<name>Kepler-50</name>
+			<name>KOI-262</name>
+			<name>KIC 11807274</name>
 			<temperature>6225</temperature>
 			<metallicity>0.03</metallicity>
 			<mass>1.24</mass>
@@ -43027,7 +43227,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-50 b</name>
 				<name>KOI-262.01</name>
-				<name>KID 11807274</name>
+				<name>KOI-262 b</name>
+				<name>KIC 11807274 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.015963</mass>
 				<radius>0.155832</radius>
@@ -43044,7 +43245,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-50 c</name>
 				<name>KOI-262.02</name>
-				<name>KID 11807274</name>
+				<name>KOI-262 c</name>
+				<name>KIC 11807274 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.026041</mass>
 				<radius>0.1977527</radius>
@@ -43069,6 +43271,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<star>
 			<name>Kepler-51</name>
 			<name>KOI-620</name>
+			<name>KIC 11773022</name>
 			<magJ errorminus="0.023" errorplus="0.023">13.562</magJ>
 			<magH errorminus="0.023" errorplus="0.023">13.219</magH>
 			<magK errorminus="0.037" errorplus="0.037">13.197</magK>
@@ -43079,7 +43282,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-51 b</name>
 				<name>KOI-620.01</name>
-				<name>KID 11773022</name>
+				<name>KOI-620 b</name>
+				<name>KIC 11773022 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.175787</mass>
 				<radius>0.642469</radius>
@@ -43094,7 +43298,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-51 c</name>
 				<name>KOI-620.03</name>
-				<name>KID 11773022</name>
+				<name>KOI-620 c</name>
+				<name>KIC 11773022 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.113864</mass>
 				<radius>0.520354</radius>
@@ -43496,6 +43701,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<distance>570.05</distance>
 		<star>
 			<name>Kepler-57</name>
+			<name>KOI-1270</name>
+			<name>KIC 8564587</name>
 			<temperature>5145.0</temperature>
 			<magJ errorminus="0.024" errorplus="0.024">13.437</magJ>
 			<magH errorminus="0.022" errorplus="0.022">13.022</magH>
@@ -43505,7 +43712,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-57 b</name>
 				<name>KOI-1270.01</name>
-				<name>KID 8564587</name>
+				<name>KOI-1270 b</name>
+				<name>KIC 8564587 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.015814</mass>
 				<radius>0.199575</radius>
@@ -43520,7 +43728,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-57 c</name>
 				<name>KOI-1270.02</name>
-				<name>KID 8564587</name>
+				<name>KOI-1270 c</name>
+				<name>KIC 8564587 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.007759</mass>
 				<radius>0.141252</radius>
@@ -43608,6 +43817,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<distance>811.89</distance>
 		<star>
 			<name>Kepler-59</name>
+			<name>KOI-1529</name>
+			<name>KIC 9821454</name>
 			<temperature>6074.0</temperature>
 			<magJ errorminus="0.028" errorplus="0.028">13.253</magJ>
 			<magH errorminus="0.027" errorplus="0.027">12.974</magH>
@@ -43617,7 +43828,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-59 b</name>
 				<name>KOI-1529.02</name>
-				<name>KID 9821454</name>
+				<name>KOI-1529 b</name>
+				<name>KIC 9821454 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.003828</mass>
 				<radius>0.100243</radius>
@@ -43632,7 +43844,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-59 c</name>
 				<name>KOI-1529.01</name>
-				<name>KID 9821454</name>
+				<name>KOI-1529 c</name>
+				<name>KIC 9821454 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.012848</mass>
 				<radius>0.180438</radius>
@@ -43692,6 +43905,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<distance>664.24</distance>
 		<star>
 			<name>Kepler-60</name>
+			<name>KOI-2086</name>
+			<name>KIC 6768394</name>
 			<temperature>5915.0</temperature>
 			<magJ errorminus="0.023" errorplus="0.023">12.804</magJ>
 			<magH errorminus="0.018" errorplus="0.018">12.569</magH>
@@ -43701,7 +43916,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-60 b</name>
 				<name>KOI-2086.01</name>
-				<name>KID 6768394</name>
+				<name>KOI-2086 b</name>
+				<name>KIC 6768394 b</name>
 				<list>Confirmed planets</list>
 				<mass>0.017182</mass>
 				<radius>0.207777</radius>
@@ -43716,7 +43932,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-60 c</name>
 				<name>KOI-2086.02</name>
-				<name>KID 6768394</name>
+				<name>KOI-2086 c</name>
+				<name>KIC 6768394 c</name>
 				<list>Confirmed planets</list>
 				<mass>0.020262</mass>
 				<radius>0.225092</radius>
@@ -43731,7 +43948,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<planet>
 				<name>Kepler-60 d</name>
 				<name>KOI-2086.03</name>
-				<name>KID 6768394</name>
+				<name>KOI-2086 d</name>
+				<name>KIC 6768394 d</name>
 				<list>Confirmed planets</list>
 				<mass>0.021637</mass>
 				<radius>0.232382</radius>
@@ -43798,7 +44016,7 @@ Credit: Joe Gallagher</imagedescription>
 		<distance>368</distance>
 		<star>
 			<name>Kepler-62</name>
-			<name>KIC-9002278</name>
+			<name>KIC 9002278</name>
 			<name>KOI-701</name>
 			<name>2MASS J18525105+4520595</name>
 			<name>GPM 283.213142+45.350276</name>
@@ -43815,7 +44033,8 @@ Credit: Joe Gallagher</imagedescription>
 			<magK errorminus="0.021" errorplus="0.021">11.659</magK>
 			<planet>
 				<name>Kepler-62 b</name>
-				<name>KIC-9002278 b</name>
+				<name>KIC 9002278 b</name>
+				<name>KOI-701.02</name>
 				<name>KOI-701 b</name>
 				<list>Confirmed planets</list>
 				<radius>0.1193806</radius>
@@ -43832,7 +44051,8 @@ Credit: Joe Gallagher</imagedescription>
 			</planet>
 			<planet>
 				<name>Kepler-62 c</name>
-				<name>KIC-9002278 c</name>
+				<name>KIC 9002278 c</name>
+				<name>KOI-701.05</name>
 				<name>KOI-701 c</name>
 				<list>Confirmed planets</list>
 				<radius>0.049210359</radius>
@@ -43849,7 +44069,8 @@ Credit: Joe Gallagher</imagedescription>
 			</planet>
 			<planet>
 				<name>Kepler-62 d</name>
-				<name>KIC-9002278 d</name>
+				<name>KIC 9002278 d</name>
+				<name>KOI-701.01</name>
 				<name>KOI-701 d</name>
 				<list>Confirmed planets</list>
 				<radius>0.1777040</radius>
@@ -43866,7 +44087,8 @@ Credit: Joe Gallagher</imagedescription>
 			</planet>
 			<planet>
 				<name>Kepler-62 e</name>
-				<name>KIC-9002278 e</name>
+				<name>KIC 9002278 e</name>
+				<name>KOI-701.03</name>
 				<name>KOI-701 e</name>
 				<list>Confirmed planets</list>
 				<radius>0.14671977</radius>
@@ -43887,7 +44109,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			</planet>
 			<planet>
 				<name>Kepler-62 f</name>
-				<name>KIC-9002278 f</name>
+				<name>KIC 9002278 f</name>
+				<name>KOI-701.04</name>
 				<name>KOI-701 f</name>
 				<list>Confirmed planets</list>
 				<radius>0.12849371</radius>
@@ -44323,7 +44546,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<distance errorminus="170" errorplus="170">1330</distance>
 		<star>
 			<name>Kepler-74</name>
-			<name>KIC-6046540</name>
+			<name>KOI-200</name>
+			<name>KIC 6046540</name>
 			<name>2MASS 19322220+4121198</name>
 			<name>KIC 6046540</name>
 			<magB>14.5</magB>
@@ -45152,6 +45376,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<star>
 			<name>Kepler-87</name>
 			<name>KOI-1574</name>
+			<name>KIC 10028792</name>
 			<magJ errorminus="0.022" errorplus="0.022">13.389</magJ>
 			<magH errorminus="0.022" errorplus="0.022">13.033</magH>
 			<magK errorminus="0.024" errorplus="0.024">12.981</magK>
@@ -45163,7 +45388,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<planet>
 				<name>Kepler-87 b</name>
 				<name>KOI-1574 b</name>
-				<name>KOI-1574 01</name>
+				<name>KOI-1574.01</name>
+				<name>KIC 10028792 b</name>
 				<radius errorminus="0.026428" errorplus="0.026428">1.229348</radius>
 				<mass errorminus="0.027682" errorplus="0.027682">1.019836</mass>
 				<period errorminus="0.0005" errorplus="0.0005">114.7309</period>
@@ -45181,7 +45407,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<planet>
 				<name>Kepler-87 c</name>
 				<name>KOI-1574 c</name>
-				<name>KOI-1574 02</name>
+				<name>KOI-1574.02</name>
+				<name>KIC 10028792 c</name>
 				<radius errorminus="0.026428" errorplus="0.026428">0.559540</radius>
 				<mass errorminus="0.002517" errorplus="0.002517">0.020132</mass>
 				<period errorminus="0.074" errorplus="0.074">192.363</period>
