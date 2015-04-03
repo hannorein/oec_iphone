@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>HD 1605 c</id_exoplaneteu>
+	<name>HD 1605 c</name>
+	<name>BD+30 43 c</name>
+	<name>PPM 65214 c</name>
+	<name>TYC 2261-371-1 c</name>
+	<name>2MASS J00203151+3058293 c</name>
+	<name>HIP 1640 c</name>
+	<id>HD 1605 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>3.48</mass>
+		<radius />
+		<orbit>
+			<period>2111</period>
+			<semimajoraxis>3.52</semimajoraxis>
+			<eccentricity>0.098</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1IV</spectraltype>
+		<mass>1.31</mass>
+		<radius>3.8</radius>
+		<metallicity>0.21</metallicity>
+		<distance>84.6</distance>
+		<temperature>4757</temperature>
+		<rightascension>00 20 31.51872</rightascension>
+		<declination>+30 58 29.2948</declination>
+		<angulardistance />
+		<magV>7.52</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
