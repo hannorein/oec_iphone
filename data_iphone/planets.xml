@@ -4085,18 +4085,195 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Solar System</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 201208431 b</id_exoplaneteu>
+		<name>EPIC 201208431 b</name>
+		<name>EPIC 201208431.01</name>
+		<id>EPIC 201208431 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.214</radius>
+			<orbit>
+				<period>10.00411</period>
+				<semimajoraxis>0.078</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.64</mass>
+			<radius>0.61</radius>
+			<metallicity>-0.05</metallicity>
+			<distance>222</distance>
+			<temperature>4180</temperature>
+			<rightascension>11 38 58.953</rightascension>
+			<declination>-03 54 20.11</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201295312 b</id_exoplaneteu>
+		<name>EPIC 201295312 b</name>
+		<name>EPIC 201295312.01</name>
+		<id>EPIC 201295312 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.179</radius>
+			<orbit>
+				<period>5.65621</period>
+				<semimajoraxis>0.0629</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.05</mass>
+			<radius>1.01</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>307</distance>
+			<temperature>5942</temperature>
+			<rightascension>11 36 02.791</rightascension>
+			<declination>-02 31 15.17</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201338508 b</id_exoplaneteu>
+		<name>EPIC 201338508 b</name>
+		<name>EPIC 201338508.01</name>
+		<id>EPIC 201338508 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.197</radius>
+			<orbit>
+				<period>10.93271</period>
+				<semimajoraxis>0.0804</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.58</mass>
+			<radius>0.56</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>199</distance>
+			<temperature>4135</temperature>
+			<rightascension>11 17 12.84</rightascension>
+			<declination>-01 52 40.71</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201338508 c</id_exoplaneteu>
+		<name>EPIC 201338508 c</name>
+		<name>EPIC 201338508.02</name>
+		<id>EPIC 201338508 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.187</radius>
+			<orbit>
+				<period>5.73501</period>
+				<semimajoraxis>0.0523</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.58</mass>
+			<radius>0.56</radius>
+			<metallicity>-0.29</metallicity>
+			<distance>199</distance>
+			<temperature>4135</temperature>
+			<rightascension>11 17 12.84</rightascension>
+			<declination>-01 52 40.71</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 201367065 b</id_exoplaneteu>
 		<name>EPIC 201367065 b</name>
+		<name>EPIC 201367065.01</name>
 		<name>K2-3 b</name>
 		<name>2MASS 11292037-0127173 b</name>
 		<id>EPIC 201367065 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.195019</radius>
+			<radius>0.195</radius>
 			<orbit>
-				<period>10.05403</period>
-				<semimajoraxis>0.0769</semimajoraxis>
+				<period>10.05429</period>
+				<semimajoraxis>0.0749</semimajoraxis>
 				<eccentricity />
 				<inclination>89.28</inclination>
 				<periastron />
@@ -4106,11 +4283,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>M0.2V</spectraltype>
-			<mass>0.601</mass>
-			<radius>0.561</radius>
-			<metallicity>-0.32</metallicity>
+			<mass>0.56</mass>
+			<radius>0.54</radius>
+			<metallicity>-0.16</metallicity>
 			<distance>45</distance>
-			<temperature>3896</temperature>
+			<temperature>3943</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4122,9 +4299,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/01/17</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
-		<new />
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -4132,16 +4309,17 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201367065 c</id_exoplaneteu>
 		<name>EPIC 201367065 c</name>
+		<name>EPIC 201367065.02</name>
 		<name>K2-3 c</name>
 		<name>2MASS 11292037-0127173 c</name>
 		<id>EPIC 201367065 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.156744</radius>
+			<radius>0.146</radius>
 			<orbit>
-				<period>24.6454</period>
-				<semimajoraxis>0.1399</semimajoraxis>
+				<period>24.64682</period>
+				<semimajoraxis>0.1361</semimajoraxis>
 				<eccentricity />
 				<inclination>89.55</inclination>
 				<periastron />
@@ -4151,11 +4329,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>M0.2V</spectraltype>
-			<mass>0.601</mass>
-			<radius>0.561</radius>
-			<metallicity>-0.32</metallicity>
+			<mass>0.56</mass>
+			<radius>0.54</radius>
+			<metallicity>-0.16</metallicity>
 			<distance>45</distance>
-			<temperature>3896</temperature>
+			<temperature>3943</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4167,9 +4345,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/01/17</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
-		<new />
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -4196,11 +4374,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>M0.2V</spectraltype>
-			<mass>0.601</mass>
-			<radius>0.561</radius>
-			<metallicity>-0.32</metallicity>
+			<mass>0.56</mass>
+			<radius>0.54</radius>
+			<metallicity>-0.16</metallicity>
 			<distance>45</distance>
-			<temperature>3896</temperature>
+			<temperature>3943</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4220,16 +4398,281 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>EPIC201505350 b</id_exoplaneteu>
-		<name>EPIC201505350 b</name>
-		<id>EPIC201505350 b</id>
+		<id_exoplaneteu>EPIC 201384232 b</id_exoplaneteu>
+		<name>EPIC 201384232 b</name>
+		<name>EPIC 201384232.01</name>
+		<id>EPIC 201384232 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>2.5</radius>
+			<radius>0.247</radius>
 			<orbit>
-				<period>7.919454</period>
-				<semimajoraxis>0.077</semimajoraxis>
+				<period>30.93716</period>
+				<semimajoraxis>0.1911</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.98</mass>
+			<radius>0.94</radius>
+			<metallicity>-0.05</metallicity>
+			<distance>335</distance>
+			<temperature>5772</temperature>
+			<rightascension>11 52 46.142</rightascension>
+			<declination>-01 11 54.52</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201393098 b</id_exoplaneteu>
+		<name>EPIC 201393098 b</name>
+		<name>EPIC 201393098.01</name>
+		<id>EPIC 201393098 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.215</radius>
+			<orbit>
+				<period>28.68077</period>
+				<semimajoraxis>0.1808</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.97</mass>
+			<radius>0.91</radius>
+			<metallicity>-0.04</metallicity>
+			<distance>405</distance>
+			<temperature>5688</temperature>
+			<rightascension>11 08 22.505</rightascension>
+			<declination>-01 03 56.72</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201403446 b</id_exoplaneteu>
+		<name>EPIC 201403446 b</name>
+		<name>EPIC 201403446.01</name>
+		<id>EPIC 201403446 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.176</radius>
+			<orbit>
+				<period>19.15379</period>
+				<semimajoraxis>0.1447</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.13</mass>
+			<radius>1.15</radius>
+			<metallicity>-0.14</metallicity>
+			<distance>372</distance>
+			<temperature>6340</temperature>
+			<rightascension>11 37 03.923</rightascension>
+			<declination>-00 54 26.14</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201445392 b</id_exoplaneteu>
+		<name>EPIC 201445392 b</name>
+		<name>EPIC 201445392.01</name>
+		<id>EPIC 201445392 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.252</radius>
+			<orbit>
+				<period>10.35262</period>
+				<semimajoraxis>0.0837</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.75</mass>
+			<radius>0.71</radius>
+			<metallicity>-0.1</metallicity>
+			<distance>386</distance>
+			<temperature>4813</temperature>
+			<rightascension>11 19 10.48</rightascension>
+			<declination>-00 17 03.75</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201445392 c</id_exoplaneteu>
+		<name>EPIC 201445392 c</name>
+		<name>EPIC 201445392.02</name>
+		<id>EPIC 201445392 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.200</radius>
+			<orbit>
+				<period>5.06442</period>
+				<semimajoraxis>0.052</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.75</mass>
+			<radius>0.71</radius>
+			<metallicity>-0.1</metallicity>
+			<distance>386</distance>
+			<temperature>4813</temperature>
+			<rightascension>11 19 10.48</rightascension>
+			<declination>-00 17 03.75</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201465501 b</id_exoplaneteu>
+		<name>EPIC 201465501 b</name>
+		<name>EPIC 201465501.01</name>
+		<id>EPIC 201465501 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.160</radius>
+			<orbit>
+				<period>18.44878</period>
+				<semimajoraxis>0.0885</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.32</mass>
+			<radius>0.32</radius>
+			<metallicity>-0.18</metallicity>
+			<distance>84</distance>
+			<temperature>3453</temperature>
+			<rightascension>11 45 03.472</rightascension>
+			<declination>+00 00 19.08</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201505350 b</id_exoplaneteu>
+		<name>EPIC 201505350 b</name>
+		<name>EPIC 201505350.01</name>
+		<id>EPIC 201505350 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.586</radius>
+			<orbit>
+				<period>7.91933</period>
+				<semimajoraxis>0.0733</semimajoraxis>
 				<eccentricity />
 				<inclination>88.83</inclination>
 				<periastron />
@@ -4239,12 +4682,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>K</spectraltype>
-			<mass>0.92</mass>
-			<radius>1.03</radius>
+			<mass>0.84</mass>
+			<radius>0.79</radius>
 			<metallicity>0.38</metallicity>
-			<distance />
-			<temperature>5230</temperature>
-			<rightascension>11 39 50.476</rightascension>
+			<distance>280</distance>
+			<temperature>5408</temperature>
+			<rightascension>11 39 50.477</rightascension>
 			<declination>+00 36 12.87</declination>
 			<angulardistance />
 			<magV>12.8</magV>
@@ -4255,24 +4698,25 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/02</lastupdate>
-		<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
-		<new />
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>EPIC201505350 c</id_exoplaneteu>
-		<name>EPIC201505350 c</name>
-		<id>EPIC201505350 c</id>
+		<id_exoplaneteu>EPIC 201505350 c</id_exoplaneteu>
+		<name>EPIC 201505350 c</name>
+		<name>EPIC 201505350.02</name>
+		<id>EPIC 201505350 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>1.4</radius>
+			<radius>0.415</radius>
 			<orbit>
-				<period>11.90701</period>
-				<semimajoraxis>0.1032</semimajoraxis>
+				<period>11.90699</period>
+				<semimajoraxis>0.0961</semimajoraxis>
 				<eccentricity />
 				<inclination>89.91</inclination>
 				<periastron />
@@ -4282,12 +4726,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>K</spectraltype>
-			<mass>0.92</mass>
-			<radius>1.03</radius>
+			<mass>0.84</mass>
+			<radius>0.79</radius>
 			<metallicity>0.38</metallicity>
-			<distance />
-			<temperature>5230</temperature>
-			<rightascension>11 39 50.476</rightascension>
+			<distance>280</distance>
+			<temperature>5408</temperature>
+			<rightascension>11 39 50.477</rightascension>
 			<declination>+00 36 12.87</declination>
 			<angulardistance />
 			<magV>12.8</magV>
@@ -4298,9 +4742,713 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/02</lastupdate>
-		<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
-		<new />
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201546283 b</id_exoplaneteu>
+		<name>EPIC 201546283 b</name>
+		<name>EPIC 201546283.01</name>
+		<id>EPIC 201546283 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.378</radius>
+			<orbit>
+				<period>6.77133</period>
+				<semimajoraxis>0.0658</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.86</mass>
+			<radius>0.8</radius>
+			<metallicity>-0.09</metallicity>
+			<distance>226</distance>
+			<temperature>5290</temperature>
+			<rightascension>11 26 03.639</rightascension>
+			<declination>+01 13 50.66</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201549860 b</id_exoplaneteu>
+		<name>EPIC 201549860 b</name>
+		<name>EPIC 201549860.01</name>
+		<id>EPIC 201549860 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.196</radius>
+			<orbit>
+				<period>5.60822</period>
+				<semimajoraxis>0.0548</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.71</mass>
+			<radius>0.67</radius>
+			<metallicity>-0.01</metallicity>
+			<distance>242</distance>
+			<temperature>4480</temperature>
+			<rightascension>11 20 24.739</rightascension>
+			<declination>+01 17 09.44</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201565013 b</id_exoplaneteu>
+		<name>EPIC 201565013 b</name>
+		<name>EPIC 201565013.01</name>
+		<id>EPIC 201565013 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>1.118</radius>
+			<orbit>
+				<period>8.63811</period>
+				<semimajoraxis>0.066</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.51</mass>
+			<radius>0.5</radius>
+			<metallicity>-0.42</metallicity>
+			<distance>501</distance>
+			<temperature>3955</temperature>
+			<rightascension>11 47 58.126</rightascension>
+			<declination>+01 30 36.9</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201577035 b</id_exoplaneteu>
+		<name>EPIC 201577035 b</name>
+		<name>EPIC 201577035.01</name>
+		<id>EPIC 201577035 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.330</radius>
+			<orbit>
+				<period>19.30622</period>
+				<semimajoraxis>0.1365</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.93</mass>
+			<radius>0.88</radius>
+			<metallicity>-0.04</metallicity>
+			<distance>256</distance>
+			<temperature>5553</temperature>
+			<rightascension>11 28 29.27</rightascension>
+			<declination>+01 41 26.29</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201596316 b</id_exoplaneteu>
+		<name>EPIC 201596316 b</name>
+		<name>EPIC 201596316.01</name>
+		<id>EPIC 201596316 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.205</radius>
+			<orbit>
+				<period>39.84348</period>
+				<semimajoraxis>0.2126</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.83</mass>
+			<radius>0.77</radius>
+			<metallicity>-0.16</metallicity>
+			<distance>297</distance>
+			<temperature>5254</temperature>
+			<rightascension>11 16 10.08</rightascension>
+			<declination>+01 59 12.62</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201613023 b</id_exoplaneteu>
+		<name>EPIC 201613023 b</name>
+		<name>EPIC 201613023.01</name>
+		<id>EPIC 201613023 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.187</radius>
+			<orbit>
+				<period>8.28186</period>
+				<semimajoraxis>0.0786</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.96</mass>
+			<radius>0.9</radius>
+			<metallicity>-0.06</metallicity>
+			<distance>259</distance>
+			<temperature>5687</temperature>
+			<rightascension>11 32 46.089</rightascension>
+			<declination>+02 14 41.58</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201617985 b</id_exoplaneteu>
+		<name>EPIC 201617985 b</name>
+		<name>EPIC 201617985.01</name>
+		<id>EPIC 201617985 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.164</radius>
+			<orbit>
+				<period>7.2821</period>
+				<semimajoraxis>0.0573</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.5</mass>
+			<radius>0.48</radius>
+			<metallicity>-0.04</metallicity>
+			<distance>106</distance>
+			<temperature>3681</temperature>
+			<rightascension>11 57 57.998</rightascension>
+			<declination>+02 19 17.31</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201629650 b</id_exoplaneteu>
+		<name>EPIC 201629650 b</name>
+		<name>EPIC 201629650.01</name>
+		<id>EPIC 201629650 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.195</radius>
+			<orbit>
+				<period>40.04833</period>
+				<semimajoraxis>0.2153</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.83</mass>
+			<radius>0.78</radius>
+			<metallicity>-0.37</metallicity>
+			<distance>288</distance>
+			<temperature>5569</temperature>
+			<rightascension>11 20 37.327</rightascension>
+			<declination>+02 30 09.71</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201635569 b</id_exoplaneteu>
+		<name>EPIC 201635569 b</name>
+		<name>EPIC 201635569.01</name>
+		<id>EPIC 201635569 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.472</radius>
+			<orbit>
+				<period>8.36807</period>
+				<semimajoraxis>0.0636</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.5</mass>
+			<radius>0.48</radius>
+			<metallicity>-0.31</metallicity>
+			<distance>237</distance>
+			<temperature>3829</temperature>
+			<rightascension>11 52 13.686</rightascension>
+			<declination>+02 35 39.28</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201702477 b</id_exoplaneteu>
+		<name>EPIC 201702477 b</name>
+		<name>EPIC 201702477.01</name>
+		<id>EPIC 201702477 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.705</radius>
+			<orbit>
+				<period>40.73649</period>
+				<semimajoraxis>0.2239</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.92</mass>
+			<radius>0.87</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>684</distance>
+			<temperature>5551</temperature>
+			<rightascension>11 40 57.791</rightascension>
+			<declination>+03 40 53.7</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201736247 b</id_exoplaneteu>
+		<name>EPIC 201736247 b</name>
+		<name>EPIC 201736247.01</name>
+		<id>EPIC 201736247 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.260</radius>
+			<orbit>
+				<period>11.81037</period>
+				<semimajoraxis>0.0936</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.8</mass>
+			<radius>0.76</radius>
+			<metallicity>-0.14</metallicity>
+			<distance>486</distance>
+			<temperature>5114</temperature>
+			<rightascension>11 52 26.591</rightascension>
+			<declination>+04 15 17.09</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201754305 b</id_exoplaneteu>
+		<name>EPIC 201754305 b</name>
+		<name>EPIC 201754305.01</name>
+		<id>EPIC 201754305 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.203</radius>
+			<orbit>
+				<period>19.07246</period>
+				<semimajoraxis>0.1219</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.67</mass>
+			<radius>0.64</radius>
+			<metallicity>-0.35</metallicity>
+			<distance>325</distance>
+			<temperature>4717</temperature>
+			<rightascension>11 40 23.342</rightascension>
+			<declination>+04 33 26.42</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201754305 c</id_exoplaneteu>
+		<name>EPIC 201754305 c</name>
+		<name>EPIC 201754305.02</name>
+		<id>EPIC 201754305 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.201</radius>
+			<orbit>
+				<period>7.62016</period>
+				<semimajoraxis>0.0661</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.67</mass>
+			<radius>0.64</radius>
+			<metallicity>-0.35</metallicity>
+			<distance>325</distance>
+			<temperature>4717</temperature>
+			<rightascension>11 40 23.342</rightascension>
+			<declination>+04 33 26.42</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201828749 b</id_exoplaneteu>
+		<name>EPIC 201828749 b</name>
+		<name>EPIC 201828749.01</name>
+		<id>EPIC 201828749 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.227</radius>
+			<orbit>
+				<period>33.50924</period>
+				<semimajoraxis>0.1903</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.85</mass>
+			<radius>0.8</radius>
+			<metallicity>-0.23</metallicity>
+			<distance>162</distance>
+			<temperature>5437</temperature>
+			<rightascension>11 42 37.042</rightascension>
+			<declination>+05 53 39.56</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201855371 b</id_exoplaneteu>
+		<name>EPIC 201855371 b</name>
+		<name>EPIC 201855371.01</name>
+		<id>EPIC 201855371 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.202</radius>
+			<orbit>
+				<period>17.97149</period>
+				<semimajoraxis>0.1169</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.68</mass>
+			<radius>0.64</radius>
+			<metallicity>0.01</metallicity>
+			<distance>131</distance>
+			<temperature>4288</temperature>
+			<rightascension>11 53 19.146</rightascension>
+			<declination>+06 24 44.14</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201912552 b</id_exoplaneteu>
+		<name>EPIC 201912552 b</name>
+		<name>EPIC 201912552.01</name>
+		<id>EPIC 201912552 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.206</radius>
+			<orbit>
+				<period>32.94139</period>
+				<semimajoraxis>0.1491</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.8</spectraltype>
+			<mass>0.413</mass>
+			<radius>0.394</radius>
+			<metallicity>0.09</metallicity>
+			<distance>34</distance>
+			<temperature>3503</temperature>
+			<rightascension>11 30 14.511</rightascension>
+			<declination>+07 35 18.21</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -16945,7 +18093,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/26</lastupdate>
 		<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -16993,7 +18141,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/26</lastupdate>
 		<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -17433,7 +18581,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/26</lastupdate>
 		<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes. This eccentric and massive planet with its values can be explained as a result of planet-planet interactions among Jovian planets.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -26567,7 +27715,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/26</lastupdate>
 		<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -26615,7 +27763,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/03/26</lastupdate>
 		<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -55899,14 +57047,14 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-296 Ab</id_exoplaneteu>
-		<name>Kepler-296 Ab</name>
-		<name>KOI-1422 Ab</name>
-		<name>KOI-1422.03 Ab</name>
-		<name>KIC 11497958 Ab</name>
-		<name>KIC 11497958.03 Ab</name>
-		<name>2MASS J19060960+4926143 Ab</name>
-		<id>Kepler-296 Ab</id>
+		<id_exoplaneteu>Kepler-296 b</id_exoplaneteu>
+		<name>Kepler-296 b</name>
+		<name>KOI-1422 b</name>
+		<name>KOI-1422.03</name>
+		<name>KIC 11497958 b</name>
+		<name>KIC 11497958.03 b</name>
+		<name>2MASS J19060960+4926143 b</name>
+		<id>Kepler-296 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.00692</mass>
@@ -55948,14 +57096,14 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-296 Ac</id_exoplaneteu>
-		<name>Kepler-296 Ac</name>
-		<name>KOI-1422 Ac</name>
-		<name>KOI-1422.01 Ac</name>
-		<name>KIC 11497958 Ac</name>
-		<name>KIC 11497958.01 Ac</name>
-		<name>2MASS J19060960+4926143 Ac</name>
-		<id>Kepler-296 Ac</id>
+		<id_exoplaneteu>Kepler-296 c</id_exoplaneteu>
+		<name>Kepler-296 c</name>
+		<name>KOI-1422 c</name>
+		<name>KOI-1422.01</name>
+		<name>KIC 11497958 c</name>
+		<name>KIC 11497958.01 c</name>
+		<name>2MASS J19060960+4926143 c</name>
+		<id>Kepler-296 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.0214</mass>
@@ -55997,14 +57145,14 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-296 Ad</id_exoplaneteu>
-		<name>Kepler-296 Ad</name>
-		<name>KOI-1422 Ad</name>
-		<name>KOI-1422.02 Ad</name>
-		<name>KIC 11497958 Ad</name>
-		<name>KIC 11497958.02 Ad</name>
-		<name>2MASS J19060960+4926143 Ad</name>
-		<id>Kepler-296 Ad</id>
+		<id_exoplaneteu>Kepler-296 d</id_exoplaneteu>
+		<name>Kepler-296 d</name>
+		<name>KOI-1422 d</name>
+		<name>KOI-1422.02</name>
+		<name>KIC 11497958 d</name>
+		<name>KIC 11497958.02 d</name>
+		<name>2MASS J19060960+4926143 d</name>
+		<id>Kepler-296 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.0223</mass>
@@ -56046,14 +57194,14 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-296 Ae</id_exoplaneteu>
-		<name>Kepler-296 Ae</name>
-		<name>KOI-1422 Ae</name>
-		<name>KOI-1422.05 Ae</name>
-		<name>KIC 11497958 Ae</name>
-		<name>KIC 11497958.05 Ae</name>
-		<name>2MASS J19060960+4926143 Ae</name>
-		<id>Kepler-296 Ae</id>
+		<id_exoplaneteu>Kepler-296 e</id_exoplaneteu>
+		<name>Kepler-296 e</name>
+		<name>KOI-1422 e</name>
+		<name>KOI-1422.05</name>
+		<name>KIC 11497958 e</name>
+		<name>KIC 11497958.05 e</name>
+		<name>2MASS J19060960+4926143 e</name>
+		<id>Kepler-296 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.00714</mass>
@@ -56095,14 +57243,14 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-296 Af</id_exoplaneteu>
-		<name>Kepler-296 Af</name>
-		<name>KOI-1422 Af</name>
-		<name>KOI-1422.04 Af</name>
-		<name>KIC 11497958 Af</name>
-		<name>KIC 11497958.04 Af</name>
-		<name>2MASS J19060960+4926143 Af</name>
-		<id>Kepler-296 Af</id>
+		<id_exoplaneteu>Kepler-296 f</id_exoplaneteu>
+		<name>Kepler-296 f</name>
+		<name>KOI-1422 f</name>
+		<name>KOI-1422.04</name>
+		<name>KIC 11497958 f</name>
+		<name>KIC 11497958.04 f</name>
+		<name>2MASS J19060960+4926143 f</name>
+		<id>Kepler-296 f</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.0186</mass>
@@ -61637,11 +62785,13 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-34(AB) b</id_exoplaneteu>
-		<name>Kepler-34(AB) b</name>
+		<id_exoplaneteu>Kepler-34 (AB) b</id_exoplaneteu>
+		<name>Kepler-34 (AB) b</name>
 		<name>KIC 8572936 b</name>
 		<name>Kepler-34 b</name>
-		<id>Kepler-34(AB) b</id>
+		<name>KOI-2459.02</name>
+		<name>KOI-2459 (AB) b</name>
+		<id>Kepler-34 (AB) b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.22</mass>
@@ -62766,8 +63916,12 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-35 (AB) b</id_exoplaneteu>
 		<name>Kepler-35 (AB) b</name>
+		<name>KIC 9837578 (AB) b</name>
 		<name>KIC 9837578 b</name>
 		<name>Kepler-35 b</name>
+		<name>KOI-2937.02</name>
+		<name>KOI-2937 (AB) b</name>
+		<name>KOI-2937 b</name>
 		<id>Kepler-35 (AB) b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -65027,6 +66181,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-37 b</id_exoplaneteu>
 		<name>Kepler-37 b</name>
+		<name>KOI-245.03</name>
 		<name>KOI-245 b</name>
 		<name>KIC 8478994 b</name>
 		<name>UGA-1785 b</name>
@@ -65061,7 +66216,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/17</lastupdate>
 		<description>Kepler-37 b is a tiny planet, about the size of our Moon. Due to the high irradiation it has probably a rocky surface with no atmosphere or water, similar than Mercury. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
@@ -65073,6 +66228,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-37 c</id_exoplaneteu>
 		<name>Kepler-37 c</name>
+		<name>KOI-245.02</name>
 		<name>KOI-245 c</name>
 		<name>KIC 8478994 c</name>
 		<name>UGA-1785 c</name>
@@ -65107,7 +66263,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/17</lastupdate>
 		<description>Kepler-37 is a three planet system discovered by Kepler. The planet Kepler-37 c is about three quaters the size of Earth. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
@@ -65119,6 +66275,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-37 d</id_exoplaneteu>
 		<name>Kepler-37 d</name>
+		<name>KOI-245.01</name>
 		<name>KOI-245 d</name>
 		<name>KIC 8478994 d</name>
 		<name>UGA-1785 d</name>
@@ -65153,10 +66310,56 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/17</lastupdate>
 		<description>Kepler-37 d is the outermost planet in a three planet system discovered by Kepler. It is twice as big as Earth and therefore the largest known planet in the system. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-37 e</id_exoplaneteu>
+		<name>Kepler-37 e</name>
+		<name>KOI-245 e</name>
+		<name>KIC 8478994 e</name>
+		<name>UGA-1785 e</name>
+		<id>Kepler-37 e</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass />
+			<radius />
+			<orbit>
+				<period>51.196</period>
+				<semimajoraxis>0.2508</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.803</mass>
+			<radius>0.770</radius>
+			<metallicity>-0.32</metallicity>
+			<distance>66</distance>
+			<temperature>5417</temperature>
+			<rightascension>18 56 14</rightascension>
+			<declination>+44 31 05</declination>
+			<angulardistance />
+			<magV>9.77</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The fourth planet in the Kepler-37 system was discovered by transit timing variations. Very little is known of its properties.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -66199,8 +67402,9 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-38 (AB) b</id_exoplaneteu>
 		<name>Kepler-38 (AB) b</name>
-		<name>KIC 6762829</name>
-		<name>KOI-1740</name>
+		<name>KIC 6762829 (AB) b</name>
+		<name>KOI-1740.02</name>
+		<name>KOI-1740 (AB) b</name>
 		<name>2MASS J19071928+4216451</name>
 		<name>Kepler-38 b</name>
 		<id>Kepler-38 (AB) b</id>
@@ -69156,12 +70360,11 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-413 AB b</id_exoplaneteu>
-		<name>Kepler-413 AB b</name>
-		<name>Kepler-413 (AB) b</name>
+		<id_exoplaneteu>Kepler-413 b</id_exoplaneteu>
 		<name>Kepler-413 b</name>
-		<name>KIC 12351927 AB b</name>
-		<id>Kepler-413 AB b</id>
+		<name>Kepler-413 (AB) b</name>
+		<name>KIC 12351927 (AB) b</name>
+		<id>Kepler-413 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.210762</mass>
@@ -69243,6 +70446,51 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/05/27</lastupdate>
 		<description>Kepler-418b is one of two proposed planets in system Kepler-418.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-419 c</id_exoplaneteu>
+		<name>Kepler-419 c</name>
+		<name>KOI-1474 c</name>
+		<name>KIC 12365184 c</name>
+		<id>Kepler-419 c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>7.3</mass>
+			<radius />
+			<orbit>
+				<period>675.47</period>
+				<semimajoraxis>1.68</semimajoraxis>
+				<eccentricity>0.184</eccentricity>
+				<inclination>88</inclination>
+				<periastron>275.3</periastron>
+				<longitude />
+				<ascendingnode>4</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.39</mass>
+			<radius>1.75</radius>
+			<metallicity>0.14</metallicity>
+			<distance />
+			<temperature>6370</temperature>
+			<rightascension>19 41 40.30</rightascension>
+			<declination>+51 11 05.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet KOI-1474 c was initially identified by transit timing variations. The timing variations allowed for the planet's properties to be effectively constrained, revealing that the two giant planets in this system have well-aligned orbits.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -69444,10 +70692,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-422 b</id_exoplaneteu>
 		<name>Kepler-422 b</name>
-		<name>KOI-0022 b</name>
-		<name>KOI-0022 01</name>
 		<name>KOI-22 b</name>
-		<name>KOI-22 01</name>
+		<name>KOI-22.01</name>
+		<name>KIC 9631995 b</name>
 		<id>Kepler-422 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69491,10 +70738,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-423 b</id_exoplaneteu>
 		<name>Kepler-423 b</name>
-		<name>KOI-0183 b</name>
-		<name>KOI-0183 01</name>
 		<name>KOI-183 b</name>
-		<name>KOI-183 01</name>
+		<name>KOI-183.01</name>
+		<name>KIC 9651668 b</name>
 		<id>Kepler-423 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69538,8 +70784,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-424 b</id_exoplaneteu>
 		<name>Kepler-424 b</name>
-		<name>KOI-0214 b</name>
-		<name>KOI-0214 01</name>
+		<name>KOI-214 b</name>
+		<name>KOI-214.01</name>
+		<name>KIC 11046458 b</name>
 		<id>Kepler-424 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -69583,6 +70830,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-424 c</id_exoplaneteu>
 		<name>Kepler-424 c</name>
+		<name>KOI-214 c</name>
+		<name>KIC 11046458 c</name>
 		<id>Kepler-424 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -69618,6 +70867,236 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>Kepler-424 c has been discovered with the Hobby-Eberly Telescope and its High Resolution Spectrograph (HRS). Kepler-424 is a two planet system. This is unusual as the inner planet is a Hot Jupiter which come preferentially in single planet systems.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-430 b</id_exoplaneteu>
+		<name>Kepler-430 b</name>
+		<name>KOI-2365 b</name>
+		<name>KOI-2365.01</name>
+		<name>KIC 11560897 b</name>
+		<id>Kepler-430 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.290</radius>
+			<orbit>
+				<period>35.968</period>
+				<semimajoraxis>0.2244</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.166</mass>
+			<radius>1.485</radius>
+			<metallicity />
+			<distance />
+			<temperature>5884</temperature>
+			<rightascension>19 31 14.07</rightascension>
+			<declination>+49 34 46.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-430 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-430 c</id_exoplaneteu>
+		<name>Kepler-430 c</name>
+		<name>KOI-2365 c</name>
+		<name>KOI-2365.02</name>
+		<name>KIC 11560897 c</name>
+		<id>Kepler-430 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.156</radius>
+			<orbit>
+				<period>110.979</period>
+				<semimajoraxis>0.4757</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.166</mass>
+			<radius>1.485</radius>
+			<metallicity />
+			<distance />
+			<temperature>5884</temperature>
+			<rightascension>19 31 14.07</rightascension>
+			<declination>+49 34 46.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-430 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-431 b</id_exoplaneteu>
+		<name>Kepler-431 b</name>
+		<name>KOI-3097 b</name>
+		<name>KOI-3097.02</name>
+		<name>KIC 7582689 b</name>
+		<id>Kepler-431 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.0682</radius>
+			<orbit>
+				<period>6.803</period>
+				<semimajoraxis>0.0719</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.071</mass>
+			<radius>1.092</radius>
+			<metallicity />
+			<distance />
+			<temperature>6004</temperature>
+			<rightascension>18 44 26.96</rightascension>
+			<declination>+43 13 40.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-431 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-431 c</id_exoplaneteu>
+		<name>Kepler-431 c</name>
+		<name>KOI-3097 c</name>
+		<name>KOI-3097.03</name>
+		<name>KIC 7582689 c</name>
+		<id>Kepler-431 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.0596</radius>
+			<orbit>
+				<period>8.703</period>
+				<semimajoraxis>0.0847</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.071</mass>
+			<radius>1.092</radius>
+			<metallicity />
+			<distance />
+			<temperature>6004</temperature>
+			<rightascension>18 44 26.96</rightascension>
+			<declination>+43 13 40.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-431 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-431 d</id_exoplaneteu>
+		<name>Kepler-431 d</name>
+		<name>KOI-3097 d</name>
+		<name>KOI-3097.01</name>
+		<name>KIC 7582689 d</name>
+		<id>Kepler-431 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.0990</radius>
+			<orbit>
+				<period>11.922</period>
+				<semimajoraxis>0.1045</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.071</mass>
+			<radius>1.092</radius>
+			<metallicity />
+			<distance />
+			<temperature>6004</temperature>
+			<rightascension>18 44 26.96</rightascension>
+			<declination>+43 13 40.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-431 d was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -70841,13 +72320,13 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-47(AB) b</id_exoplaneteu>
-		<name>Kepler-47(AB) b</name>
+		<id_exoplaneteu>Kepler-47 (AB) b</id_exoplaneteu>
+		<name>Kepler-47 (AB) b</name>
 		<name>KIC 10020423 b</name>
 		<name>KOI-3154 b</name>
 		<name>2MASS J19411149+4655136 b</name>
 		<name>Kepler-47 b</name>
-		<id>Kepler-47(AB) b</id>
+		<id>Kepler-47 (AB) b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
@@ -70891,13 +72370,13 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Kepler-47(AB) c</id_exoplaneteu>
-		<name>Kepler-47(AB) c</name>
+		<id_exoplaneteu>Kepler-47 (AB) c</id_exoplaneteu>
+		<name>Kepler-47 (AB) c</name>
 		<name>KIC 10020423 c</name>
 		<name>KOI-3154 c</name>
 		<name>2MASS J19411149+4655136 c</name>
 		<name>Kepler-47 c</name>
-		<id>Kepler-47(AB) c</id>
+		<id>Kepler-47 (AB) c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
@@ -72252,17 +73731,18 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-56 b</id_exoplaneteu>
 		<name>Kepler-56 b</name>
 		<name>KOI-1241.02</name>
-		<name>KID 8150320 b</name>
+		<name>KOI-1241 b</name>
+		<name>KIC 6448890 b</name>
 		<id>Kepler-56 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.0695</mass>
-			<radius>0.593</radius>
+			<radius>0.581</radius>
 			<orbit>
-				<period>10.5016</period>
+				<period>10.51057</period>
 				<semimajoraxis>0.1028</semimajoraxis>
 				<eccentricity />
-				<inclination />
+				<inclination>83.92</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -72271,12 +73751,12 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<star>
 			<spectraltype />
 			<mass>1.32</mass>
-			<radius>4.23</radius>
+			<radius>4.22</radius>
 			<metallicity>0.20</metallicity>
-			<distance>511.70</distance>
+			<distance />
 			<temperature>4840</temperature>
-			<rightascension>19 35 02</rightascension>
-			<declination>+44 01 35</declination>
+			<rightascension>19 35 02.01</rightascension>
+			<declination>+41 52 18.7</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -72286,8 +73766,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>13/10/21</lastupdate>
-		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<lastupdate>15/04/14</lastupdate>
+		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature. The orbit is inclined relative to the stellar equator, which is tilted by 47 &#177; 6 degrees to the line of sight.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -72297,31 +73777,32 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id_exoplaneteu>Kepler-56 c</id_exoplaneteu>
 		<name>Kepler-56 c</name>
 		<name>KOI-1241.01</name>
-		<name>KID 8150320 c</name>
+		<name>KOI-1241 c</name>
+		<name>KIC 6448890 c</name>
 		<id>Kepler-56 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.569</mass>
-			<radius>0.893</radius>
+			<radius>0.874</radius>
 			<orbit>
-				<period>21.4050484</period>
+				<period>21.40239</period>
 				<semimajoraxis>0.1652</semimajoraxis>
 				<eccentricity />
-				<inclination />
+				<inclination>84.08</inclination>
 				<periastron />
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>-4.95</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
 			<mass>1.32</mass>
-			<radius>4.23</radius>
+			<radius>4.22</radius>
 			<metallicity>0.20</metallicity>
-			<distance>511.70</distance>
+			<distance />
 			<temperature>4840</temperature>
-			<rightascension>19 35 02</rightascension>
-			<declination>+44 01 35</declination>
+			<rightascension>19 35 02.01</rightascension>
+			<declination>+41 52 18.7</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -72331,8 +73812,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
-		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<lastupdate>15/04/14</lastupdate>
+		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature. The orbit is inclined relative to the stellar equator, which is tilted by 47 &#177; 6 degrees to the line of sight.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -72341,10 +73822,10 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-56 d</id_exoplaneteu>
 		<name>Kepler-56 d</name>
-		<name>KOI-1241.01</name>
-		<name>KID 8150320 d</name>
+		<name>KOI-1241 d</name>
+		<name>KIC 6448890 d</name>
 		<id>Kepler-56 d</id>
-		<discoverymethod>transit</discoverymethod>
+		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>3.3</mass>
 			<radius />
@@ -72361,12 +73842,12 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<star>
 			<spectraltype />
 			<mass>1.32</mass>
-			<radius>4.23</radius>
+			<radius>4.22</radius>
 			<metallicity>0.20</metallicity>
-			<distance>511.70</distance>
+			<distance />
 			<temperature>4840</temperature>
-			<rightascension>19 35 02</rightascension>
-			<declination>+44 01 35</declination>
+			<rightascension>19 35 02.01</rightascension>
+			<declination>+41 52 18.7</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -72376,12 +73857,12 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
-		<description />
+		<lastupdate>15/04/14</lastupdate>
+		<description>A linear trend in the radial velocity measurements indicate a third object orbiting Kepler-56, which has tilted the orbits of the inner planets with respect to the stellar equator. So far it has not been possible to confirm the nature of this object from the observations of the system, but it may be a giant planet in a 2 AU orbit.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-57 b</id_exoplaneteu>
@@ -76598,6 +78079,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>KIC 10001893 b</id_exoplaneteu>
 		<name>KIC 10001893 b</name>
 		<name>KIC 10001893_1</name>
+		<name>Kepler-429 b</name>
 		<id>KIC 10001893 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -76642,6 +78124,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>KIC 10001893 c</id_exoplaneteu>
 		<name>KIC 10001893 c</name>
 		<name>KIC 10001893_2</name>
+		<name>Kepler-429 c</name>
 		<id>KIC 10001893 c</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -76686,6 +78169,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<id_exoplaneteu>KIC 10001893 d</id_exoplaneteu>
 		<name>KIC 10001893 d</name>
 		<name>KIC 10001893_3</name>
+		<name>Kepler-429 d</name>
 		<id>KIC 10001893 d</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
@@ -76868,6 +78352,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KIC 9632895 b</id_exoplaneteu>
 		<name>KIC 9632895 b</name>
 		<name>KIC 9632895 (AB) b</name>
+		<name>KOI-1451 (AB) b</name>
 		<id>KIC 9632895 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77047,9 +78532,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-1257 b</id_exoplaneteu>
 		<name>KOI-1257 b</name>
-		<name>KOI-1257 01</name>
+		<name>KOI-1257 A b</name>
+		<name>Kepler-420 A b</name>
+		<name>Kepler-420 b</name>
 		<name>KOI-1257.01</name>
-		<name>KIC8751933 b</name>
+		<name>KIC 8751933 b</name>
 		<id>KOI-1257 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77330,10 +78817,55 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-1576 d</id_exoplaneteu>
-		<name>KOI-1576 d</name>
-		<name>KOI-1576 03</name>
-		<id>KOI-1576 d</id>
+		<id_exoplaneteu>KOI-1474 b</id_exoplaneteu>
+		<name>KOI-1474 b</name>
+		<name>KOI-1474.01</name>
+		<name>Kepler-419 b</name>
+		<name>KIC 12365184 b</name>
+		<id>KOI-1474 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.5</mass>
+			<radius>0.964</radius>
+			<orbit>
+				<period>69.7546</period>
+				<semimajoraxis>0.370</semimajoraxis>
+				<eccentricity>0.833</eccentricity>
+				<inclination>88.95</inclination>
+				<periastron>95.2</periastron>
+				<longitude />
+				<ascendingnode>0</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.39</mass>
+			<radius>1.75</radius>
+			<metallicity>0.14</metallicity>
+			<distance />
+			<temperature>6370</temperature>
+			<rightascension>19 41 40.30</rightascension>
+			<declination>+51 11 05.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet KOI-1474 b was identified as a potential proto-hot Jupiter in 2012. Transit timing variations revealed the presence of an outer companion, which was subsequently found to be well-aligned with the orbit of the inner planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1576.03</id_exoplaneteu>
+		<name>KOI-1576.03</name>
+		<id>KOI-1576.03</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
@@ -77425,6 +78957,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<name>KOI-1781 b</name>
 		<name>KOI-1781.02</name>
 		<name>Kepler-411 b</name>
+		<name>KIC 11551692 b</name>
 		<id>KOI-1781 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -77466,10 +78999,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-1781 c</id_exoplaneteu>
-		<name>KOI-1781 c</name>
+		<id_exoplaneteu>KOI-1781.01</id_exoplaneteu>
 		<name>KOI-1781.01</name>
-		<id>KOI-1781 c</id>
+		<id>KOI-1781.01</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
@@ -77503,17 +79035,16 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>14/01/06</lastupdate>
-		<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
+		<description>The KOI-1781 system was discovered by the Kepler spacecraft. The second and third planets in this system have not been confirmed.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
+		<list>Controversial</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KOI-1781 d</id_exoplaneteu>
-		<name>KOI-1781 d</name>
+		<id_exoplaneteu>KOI-1781.03</id_exoplaneteu>
 		<name>KOI-1781.03</name>
-		<id>KOI-1781 d</id>
+		<id>KOI-1781.03</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
@@ -77547,7 +79078,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>14/01/06</lastupdate>
-		<description>The KOI-1781 system was discovered by the Kepler spacecraft. This third planet candidate in the system has not been confirmed yet.</description>
+		<description>The KOI-1781 system was discovered by the Kepler spacecraft. The second and third planets in this system have not been confirmed.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -77556,9 +79087,10 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-183 b</id_exoplaneteu>
 		<name>KOI-183 b</name>
-		<name>KOI-0183 b</name>
-		<name>KOI-0183 01</name>
+		<name>Kepler-423 b</name>
 		<name>KOI-183.01</name>
+		<name>KOI-0183 b</name>
+		<name>KOI-0183.01</name>
 		<name>KIC 9651668 b</name>
 		<name>GSC2.3 N2JG036249 b</name>
 		<name>2MASS 19312537+4623282 b</name>
@@ -77732,9 +79264,187 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Controversial</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-1860 b</id_exoplaneteu>
+		<name>KOI-1860 b</name>
+		<name>Kepler-416 b</name>
+		<name>KOI-1860.01</name>
+		<name>KIC 4157325 b</name>
+		<id>KOI-1860 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.221</radius>
+			<orbit>
+				<period>6.319</period>
+				<semimajoraxis>0.0458</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.999</mass>
+			<radius>1.075</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 26 13.67</rightascension>
+			<declination>+39 13 38.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-416 b has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1860 c</id_exoplaneteu>
+		<name>KOI-1860 c</name>
+		<name>Kepler-416 c</name>
+		<name>KOI-1860.02</name>
+		<name>KIC 4157325 c</name>
+		<id>KOI-1860 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.227</radius>
+			<orbit>
+				<period>12.209</period>
+				<semimajoraxis>0.1038</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.999</mass>
+			<radius>1.075</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 26 13.67</rightascension>
+			<declination>+39 13 38.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-416 c has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1860.03</id_exoplaneteu>
+		<name>KOI-1860.03</name>
+		<id>KOI-1860.03</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.150</radius>
+			<orbit>
+				<period>3.076452083</period>
+				<semimajoraxis>0.0414</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.999</mass>
+			<radius>1.075</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 26 13.67</rightascension>
+			<declination>+39 13 38.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet candidate KOI-1860.03 has not yet been confirmed as a planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Kepler Objects of Interest</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-1860.04</id_exoplaneteu>
+		<name>KOI-1860.04</name>
+		<id>KOI-1860.04</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.131</radius>
+			<orbit>
+				<period>24.8435099</period>
+				<semimajoraxis>0.1667</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.999</mass>
+			<radius>1.075</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 26 13.67</rightascension>
+			<declination>+39 13 38.2</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet candidate KOI-1860.04 has not yet been confirmed as a planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Kepler Objects of Interest</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-1873.01</id_exoplaneteu>
 		<name>KOI-1873.01</name>
-		<name>KOI-1873 b</name>
+		<name>KOI-1873 c</name>
 		<name>Kepler-328 c</name>
 		<name>KIC 4939346 c</name>
 		<name>KIC 4939346.01</name>
@@ -77781,7 +79491,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-1873.02</id_exoplaneteu>
 		<name>KOI-1873.02</name>
-		<name>KOI-1873 c</name>
+		<name>KOI-1873 b</name>
 		<name>Kepler-328 b</name>
 		<name>KIC 4939346 b</name>
 		<name>KIC 4939346.02</name>
@@ -77828,6 +79538,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-188 b</id_exoplaneteu>
 		<name>KOI-188 b</name>
+		<name>Kepler-425 b</name>
+		<name>KOI-188.01</name>
 		<name>KOI-0188 b</name>
 		<name>2MASS 19212592+4034038 b</name>
 		<name>USNO-A2 1275-11218459 b</name>
@@ -77918,6 +79630,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-192 b</id_exoplaneteu>
 		<name>KOI-192 b</name>
+		<name>Kepler-427 b</name>
+		<name>KOI-192.01</name>
 		<name>KOI-0192 b</name>
 		<name>2MASS 19130109+4342175 b</name>
 		<name>USNO-A2 1275-10946568 b</name>
@@ -77965,6 +79679,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-195 b</id_exoplaneteu>
 		<name>KOI-195 b</name>
+		<name>Kepler-426 b</name>
+		<name>KOI-195.01</name>
 		<name>KOI-0195 b</name>
 		<name>2MASS 19174431+4928242 b</name>
 		<name>USNO-A2 1350-10395462 b</name>
@@ -78057,6 +79773,98 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-2113 b</id_exoplaneteu>
+		<name>KOI-2113 b</name>
+		<name>Kepler-417 b</name>
+		<name>KOI-2113.02</name>
+		<name>KIC 7207061 b</name>
+		<id>KOI-2113 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.206</radius>
+			<orbit>
+				<period>12.331</period>
+				<semimajoraxis>0.1006</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.897</mass>
+			<radius>0.806</radius>
+			<metallicity />
+			<distance />
+			<temperature>5376</temperature>
+			<rightascension>19 35 17.83</rightascension>
+			<declination>+42 46 46.9</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-417 b has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-2113 c</id_exoplaneteu>
+		<name>KOI-2113 c</name>
+		<name>Kepler-417 c</name>
+		<name>KOI-2113.01</name>
+		<name>KIC 7207061 c</name>
+		<id>KOI-2113 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.241</radius>
+			<orbit>
+				<period>15.943</period>
+				<semimajoraxis>0.1194</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.897</mass>
+			<radius>0.806</radius>
+			<metallicity />
+			<distance />
+			<temperature>5376</temperature>
+			<rightascension>19 35 17.83</rightascension>
+			<declination>+42 46 46.9</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/03/18</lastupdate>
+		<description>The planet Kepler-417 c has been confirmed by transit timing variations.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-2529.01</id_exoplaneteu>
 		<name>KOI-2529.01</name>
 		<id>KOI-2529.01</id>
@@ -78102,7 +79910,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-2672.01</id_exoplaneteu>
 		<name>KOI-2672.01</name>
-		<name>KOI-2672 b</name>
+		<name>KOI-2672 c</name>
 		<name>Kepler-396 c</name>
 		<name>KIC 11253827 c</name>
 		<name>KIC 11253827.01</name>
@@ -78149,7 +79957,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-2672.02</id_exoplaneteu>
 		<name>KOI-2672.02</name>
-		<name>KOI-2672 c</name>
+		<name>KOI-2672 b</name>
 		<name>Kepler-396 b</name>
 		<name>KIC 11253827 b</name>
 		<name>KIC 11253827.02</name>
@@ -78332,7 +80140,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-314 b</id_exoplaneteu>
 		<name>KOI-314 b</name>
 		<name>Kepler-138 c</name>
-		<name>KOI-314 01</name>
+		<name>KOI-314.01</name>
+		<name>KIC 7603200 c</name>
 		<id>KOI-314 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -78377,7 +80186,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>KOI-314 c</id_exoplaneteu>
 		<name>KOI-314 c</name>
 		<name>Kepler-138 d</name>
-		<name>KOI-314 02</name>
+		<name>KOI-314.02</name>
+		<name>KIC 7603200 d</name>
 		<id>KOI-314 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -78559,7 +80369,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-370.01</id_exoplaneteu>
 		<name>KOI-370.01</name>
-		<name>KOI-370 b</name>
+		<name>KOI-370 c</name>
 		<name>Kepler-145 c</name>
 		<name>KIC 8494142 c</name>
 		<name>KIC 8494142.01</name>
@@ -78606,7 +80416,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-370.02</id_exoplaneteu>
 		<name>KOI-370.02</name>
-		<name>KOI-370 c</name>
+		<name>KOI-370 b</name>
 		<name>Kepler-145 b</name>
 		<name>KIC 8494142 b</name>
 		<name>KIC 8494142.02</name>
@@ -78789,7 +80599,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-523.01</id_exoplaneteu>
 		<name>KOI-523.01</name>
-		<name>KOI-523 b</name>
+		<name>KOI-523 c</name>
 		<name>Kepler-177 c</name>
 		<name>KIC 8806123 c</name>
 		<name>KIC 8806123.01</name>
@@ -78836,7 +80646,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-523.02</id_exoplaneteu>
 		<name>KOI-523.02</name>
-		<name>KOI-523 c</name>
+		<name>KOI-523 b</name>
 		<name>Kepler-177 b</name>
 		<name>KIC 8806123 b</name>
 		<name>KIC 8806123.02</name>
@@ -79160,6 +80970,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 	<planet>
 		<id_exoplaneteu>KOI-830 b</id_exoplaneteu>
 		<name>KOI-830 b</name>
+		<name>Kepler-428 b</name>
+		<name>KOI-830.01</name>
 		<name>KOI-0830 b</name>
 		<name>2MASS 19221961+4034386 b</name>
 		<name>USNO-A2 1275-11249110 b</name>
@@ -88289,7 +90101,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id_exoplaneteu>WASP-90 b</id_exoplaneteu>
 		<name>WASP-90 b</name>
 		<name>1SWASP J210207.70+070323.7 b</name>
-		<name>2MASS 01463185+0242019 b</name>
 		<id>WASP-90 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
