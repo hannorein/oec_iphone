@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>KOI-1474 b</id_exoplaneteu>
+	<name>KOI-1474 b</name>
+	<name>KOI-1474.01</name>
+	<name>Kepler-419 b</name>
+	<name>KIC 12365184 b</name>
+	<id>KOI-1474 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.5</mass>
+		<radius>0.964</radius>
+		<orbit>
+			<period>69.7546</period>
+			<semimajoraxis>0.370</semimajoraxis>
+			<eccentricity>0.833</eccentricity>
+			<inclination>88.95</inclination>
+			<periastron>95.2</periastron>
+			<longitude />
+			<ascendingnode>0</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.39</mass>
+		<radius>1.75</radius>
+		<metallicity>0.14</metallicity>
+		<distance />
+		<temperature>6370</temperature>
+		<rightascension>19 41 40.30</rightascension>
+		<declination>+51 11 05.2</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/18</lastupdate>
+	<description>The planet KOI-1474 b was identified as a potential proto-hot Jupiter in 2012. Transit timing variations revealed the presence of an outer companion, which was subsequently found to be well-aligned with the orbit of the inner planet.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

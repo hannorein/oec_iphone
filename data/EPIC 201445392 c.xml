@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201445392 c</id_exoplaneteu>
+	<name>EPIC 201445392 c</name>
+	<name>EPIC 201445392.02</name>
+	<id>EPIC 201445392 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.200</radius>
+		<orbit>
+			<period>5.06442</period>
+			<semimajoraxis>0.052</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.75</mass>
+		<radius>0.71</radius>
+		<metallicity>-0.1</metallicity>
+		<distance>386</distance>
+		<temperature>4813</temperature>
+		<rightascension>11 19 10.48</rightascension>
+		<declination>-00 17 03.75</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

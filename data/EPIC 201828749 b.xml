@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201828749 b</id_exoplaneteu>
+	<name>EPIC 201828749 b</name>
+	<name>EPIC 201828749.01</name>
+	<id>EPIC 201828749 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.227</radius>
+		<orbit>
+			<period>33.50924</period>
+			<semimajoraxis>0.1903</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.85</mass>
+		<radius>0.8</radius>
+		<metallicity>-0.23</metallicity>
+		<distance>162</distance>
+		<temperature>5437</temperature>
+		<rightascension>11 42 37.042</rightascension>
+		<declination>+05 53 39.56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

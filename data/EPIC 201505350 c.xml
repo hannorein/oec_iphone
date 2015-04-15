@@ -1,14 +1,15 @@
 <planet>
-	<id_exoplaneteu>EPIC201505350 c</id_exoplaneteu>
-	<name>EPIC201505350 c</name>
-	<id>EPIC201505350 c</id>
+	<id_exoplaneteu>EPIC 201505350 c</id_exoplaneteu>
+	<name>EPIC 201505350 c</name>
+	<name>EPIC 201505350.02</name>
+	<id>EPIC 201505350 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>1.4</radius>
+		<radius>0.415</radius>
 		<orbit>
-			<period>11.90701</period>
-			<semimajoraxis>0.1032</semimajoraxis>
+			<period>11.90699</period>
+			<semimajoraxis>0.0961</semimajoraxis>
 			<eccentricity />
 			<inclination>89.91</inclination>
 			<periastron />
@@ -18,12 +19,12 @@
 	</properties>
 	<star>
 		<spectraltype>K</spectraltype>
-		<mass>0.92</mass>
-		<radius>1.03</radius>
+		<mass>0.84</mass>
+		<radius>0.79</radius>
 		<metallicity>0.38</metallicity>
-		<distance />
-		<temperature>5230</temperature>
-		<rightascension>11 39 50.476</rightascension>
+		<distance>280</distance>
+		<temperature>5408</temperature>
+		<rightascension>11 39 50.477</rightascension>
 		<declination>+00 36 12.87</declination>
 		<angulardistance />
 		<magV>12.8</magV>
@@ -34,9 +35,9 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/03/02</lastupdate>
-	<description>This planet is one of two planets orbiting a K dwarf extremely close to the 3:2 mean motion resonance.</description>
-	<new />
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

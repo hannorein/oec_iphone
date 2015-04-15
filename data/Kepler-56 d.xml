@@ -1,10 +1,10 @@
 <planet>
 	<id_exoplaneteu>Kepler-56 d</id_exoplaneteu>
 	<name>Kepler-56 d</name>
-	<name>KOI-1241.01</name>
-	<name>KID 8150320 d</name>
+	<name>KOI-1241 d</name>
+	<name>KIC 6448890 d</name>
 	<id>Kepler-56 d</id>
-	<discoverymethod>transit</discoverymethod>
+	<discoverymethod>RV</discoverymethod>
 	<properties>
 		<mass>3.3</mass>
 		<radius />
@@ -21,12 +21,12 @@
 	<star>
 		<spectraltype />
 		<mass>1.32</mass>
-		<radius>4.23</radius>
+		<radius>4.22</radius>
 		<metallicity>0.20</metallicity>
-		<distance>511.70</distance>
+		<distance />
 		<temperature>4840</temperature>
-		<rightascension>19 35 02</rightascension>
-		<declination>+44 01 35</declination>
+		<rightascension>19 35 02.01</rightascension>
+		<declination>+41 52 18.7</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -36,10 +36,10 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description />
+	<lastupdate>15/04/14</lastupdate>
+	<description>A linear trend in the radial velocity measurements indicate a third object orbiting Kepler-56, which has tilted the orbits of the inner planets with respect to the stellar equator. So far it has not been possible to confirm the nature of this object from the observations of the system, but it may be a giant planet in a 2 AU orbit.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 </planet>

@@ -2,31 +2,32 @@
 	<id_exoplaneteu>Kepler-56 c</id_exoplaneteu>
 	<name>Kepler-56 c</name>
 	<name>KOI-1241.01</name>
-	<name>KID 8150320 c</name>
+	<name>KOI-1241 c</name>
+	<name>KIC 6448890 c</name>
 	<id>Kepler-56 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>0.569</mass>
-		<radius>0.893</radius>
+		<radius>0.874</radius>
 		<orbit>
-			<period>21.4050484</period>
+			<period>21.40239</period>
 			<semimajoraxis>0.1652</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>84.08</inclination>
 			<periastron />
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>-4.95</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype />
 		<mass>1.32</mass>
-		<radius>4.23</radius>
+		<radius>4.22</radius>
 		<metallicity>0.20</metallicity>
-		<distance>511.70</distance>
+		<distance />
 		<temperature>4840</temperature>
-		<rightascension>19 35 02</rightascension>
-		<declination>+44 01 35</declination>
+		<rightascension>19 35 02.01</rightascension>
+		<declination>+41 52 18.7</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -36,8 +37,8 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature.</description>
+	<lastupdate>15/04/14</lastupdate>
+	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature. The orbit is inclined relative to the stellar equator, which is tilted by 47 &#177; 6 degrees to the line of sight.</description>
 	<new />
 	<image />
 	<imagedescription />

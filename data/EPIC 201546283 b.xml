@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201546283 b</id_exoplaneteu>
+	<name>EPIC 201546283 b</name>
+	<name>EPIC 201546283.01</name>
+	<id>EPIC 201546283 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.378</radius>
+		<orbit>
+			<period>6.77133</period>
+			<semimajoraxis>0.0658</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.86</mass>
+		<radius>0.8</radius>
+		<metallicity>-0.09</metallicity>
+		<distance>226</distance>
+		<temperature>5290</temperature>
+		<rightascension>11 26 03.639</rightascension>
+		<declination>+01 13 50.66</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

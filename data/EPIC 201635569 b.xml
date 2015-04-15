@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201635569 b</id_exoplaneteu>
+	<name>EPIC 201635569 b</name>
+	<name>EPIC 201635569.01</name>
+	<id>EPIC 201635569 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.472</radius>
+		<orbit>
+			<period>8.36807</period>
+			<semimajoraxis>0.0636</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.5</mass>
+		<radius>0.48</radius>
+		<metallicity>-0.31</metallicity>
+		<distance>237</distance>
+		<temperature>3829</temperature>
+		<rightascension>11 52 13.686</rightascension>
+		<declination>+02 35 39.28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

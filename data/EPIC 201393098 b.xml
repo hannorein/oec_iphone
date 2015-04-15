@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201393098 b</id_exoplaneteu>
+	<name>EPIC 201393098 b</name>
+	<name>EPIC 201393098.01</name>
+	<id>EPIC 201393098 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.215</radius>
+		<orbit>
+			<period>28.68077</period>
+			<semimajoraxis>0.1808</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.97</mass>
+		<radius>0.91</radius>
+		<metallicity>-0.04</metallicity>
+		<distance>405</distance>
+		<temperature>5688</temperature>
+		<rightascension>11 08 22.505</rightascension>
+		<declination>-01 03 56.72</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

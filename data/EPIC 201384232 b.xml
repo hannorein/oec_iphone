@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201384232 b</id_exoplaneteu>
+	<name>EPIC 201384232 b</name>
+	<name>EPIC 201384232.01</name>
+	<id>EPIC 201384232 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.247</radius>
+		<orbit>
+			<period>30.93716</period>
+			<semimajoraxis>0.1911</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.98</mass>
+		<radius>0.94</radius>
+		<metallicity>-0.05</metallicity>
+		<distance>335</distance>
+		<temperature>5772</temperature>
+		<rightascension>11 52 46.142</rightascension>
+		<declination>-01 11 54.52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

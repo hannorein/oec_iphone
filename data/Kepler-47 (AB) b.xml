@@ -1,20 +1,20 @@
 <planet>
-	<id_exoplaneteu>Kepler-47(AB) c</id_exoplaneteu>
-	<name>Kepler-47(AB) c</name>
-	<name>KIC 10020423 c</name>
-	<name>KOI-3154 c</name>
-	<name>2MASS J19411149+4655136 c</name>
-	<name>Kepler-47 c</name>
-	<id>Kepler-47(AB) c</id>
+	<id_exoplaneteu>Kepler-47 (AB) b</id_exoplaneteu>
+	<name>Kepler-47 (AB) b</name>
+	<name>KIC 10020423 b</name>
+	<name>KOI-3154 b</name>
+	<name>2MASS J19411149+4655136 b</name>
+	<name>Kepler-47 b</name>
+	<id>Kepler-47 (AB) b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.42011066</radius>
+		<radius>0.27156828</radius>
 		<orbit>
-			<period>303.158</period>
-			<semimajoraxis>0.989</semimajoraxis>
+			<period>49.514</period>
+			<semimajoraxis>0.2956</semimajoraxis>
 			<eccentricity />
-			<inclination>89.826</inclination>
+			<inclination>89.59</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -39,7 +39,7 @@
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2012</discoveryyear>
 	<lastupdate>12/08/28</lastupdate>
-	<description>Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star, the other one is roughly one-third the size of the Sun. The orbital period of the binary is 7.45 days. The outer planet Kepler-47(AB) c is located in the habitable zone where liquid water could exist.</description>
+	<description>Kepler-47(AB) is a multiplanetary system orbiting a binary star. This is the first system of its kind. One of the binary stars is a Sun-like star, the other one is roughly one-third the size of the Sun. The orbital period of the binary is 7.45 days.</description>
 	<new />
 	<image>Kepler47</image>
 	<imagedescription>An artists depiction of the Kepler-47 system. 

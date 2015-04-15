@@ -1,16 +1,17 @@
 <planet>
 	<id_exoplaneteu>EPIC 201367065 c</id_exoplaneteu>
 	<name>EPIC 201367065 c</name>
+	<name>EPIC 201367065.02</name>
 	<name>K2-3 c</name>
 	<name>2MASS 11292037-0127173 c</name>
 	<id>EPIC 201367065 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.156744</radius>
+		<radius>0.146</radius>
 		<orbit>
-			<period>24.6454</period>
-			<semimajoraxis>0.1399</semimajoraxis>
+			<period>24.64682</period>
+			<semimajoraxis>0.1361</semimajoraxis>
 			<eccentricity />
 			<inclination>89.55</inclination>
 			<periastron />
@@ -20,11 +21,11 @@
 	</properties>
 	<star>
 		<spectraltype>M0.2V</spectraltype>
-		<mass>0.601</mass>
-		<radius>0.561</radius>
-		<metallicity>-0.32</metallicity>
+		<mass>0.56</mass>
+		<radius>0.54</radius>
+		<metallicity>-0.16</metallicity>
 		<distance>45</distance>
-		<temperature>3896</temperature>
+		<temperature>3943</temperature>
 		<rightascension>11 29 20.388</rightascension>
 		<declination>-01 27 17.23</declination>
 		<angulardistance />
@@ -36,9 +37,9 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/01/17</lastupdate>
-	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
-	<new />
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>

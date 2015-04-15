@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201912552 b</id_exoplaneteu>
+	<name>EPIC 201912552 b</name>
+	<name>EPIC 201912552.01</name>
+	<id>EPIC 201912552 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.206</radius>
+		<orbit>
+			<period>32.94139</period>
+			<semimajoraxis>0.1491</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2.8</spectraltype>
+		<mass>0.413</mass>
+		<radius>0.394</radius>
+		<metallicity>0.09</metallicity>
+		<distance>34</distance>
+		<temperature>3503</temperature>
+		<rightascension>11 30 14.511</rightascension>
+		<declination>+07 35 18.21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

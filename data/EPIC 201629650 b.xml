@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>EPIC 201629650 b</id_exoplaneteu>
+	<name>EPIC 201629650 b</name>
+	<name>EPIC 201629650.01</name>
+	<id>EPIC 201629650 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.195</radius>
+		<orbit>
+			<period>40.04833</period>
+			<semimajoraxis>0.2153</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.83</mass>
+		<radius>0.78</radius>
+		<metallicity>-0.37</metallicity>
+		<distance>288</distance>
+		<temperature>5569</temperature>
+		<rightascension>11 20 37.327</rightascension>
+		<declination>+02 30 09.71</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/03/26</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
