@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GJ 422 b</id_exoplaneteu>
+	<name>GJ 422 b</name>
+	<name>Gliese 422 b</name>
+	<id>GJ 422 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.031</mass>
+		<radius />
+		<orbit>
+			<period>26.161</period>
+			<semimajoraxis>0.119</semimajoraxis>
+			<eccentricity>0.05</eccentricity>
+			<inclination />
+			<periastron>250</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3.5 V</spectraltype>
+		<mass>0.35</mass>
+		<radius />
+		<metallicity />
+		<distance>12.67</distance>
+		<temperature>3323</temperature>
+		<rightascension>11 16 00.20551</rightascension>
+		<declination>-57 32 51.5988</declination>
+		<angulardistance />
+		<magV>11.516</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/04/21</lastupdate>
+	<description>The planet candidate orbiting GJ 422 was identified by Bayesian analysis of 24 UVES and 25 HARPS radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

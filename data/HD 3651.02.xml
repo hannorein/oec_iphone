@@ -1,17 +1,17 @@
 <planet>
-	<id_exoplaneteu>HD 3651 b</id_exoplaneteu>
-	<name>HD 3651 b</name>
-	<id>HD 3651 b</id>
+	<id_exoplaneteu>HD 3651.02</id_exoplaneteu>
+	<name>HD 3651.02</name>
+	<id>HD 3651.02</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.2</mass>
+		<mass>0.09</mass>
 		<radius />
 		<orbit>
-			<period>62.23</period>
-			<semimajoraxis>0.284</semimajoraxis>
-			<eccentricity>0.63</eccentricity>
-			<inclination>83</inclination>
-			<periastron />
+			<period>31.08</period>
+			<semimajoraxis>0.186</semimajoraxis>
+			<eccentricity>0.04</eccentricity>
+			<inclination />
+			<periastron>55</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -33,11 +33,11 @@
 		<magK />
 	</star>
 	<multiplicity>2</multiplicity>
-	<discoveryyear>2003</discoveryyear>
-	<lastupdate>10/10/19</lastupdate>
-	<description />
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>15/04/23</lastupdate>
+	<description>The radial velocity data for HD 3651 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities in a 2:1 resonance.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 </planet>

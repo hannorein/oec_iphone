@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GJ 180 b</id_exoplaneteu>
+	<name>GJ 180 b</name>
+	<name>Gliese 180 b</name>
+	<id>GJ 180 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.026</mass>
+		<radius />
+		<orbit>
+			<period>17.380</period>
+			<semimajoraxis>0.103</semimajoraxis>
+			<eccentricity>0.11</eccentricity>
+			<inclination />
+			<periastron>10</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2 V</spectraltype>
+		<mass>0.43</mass>
+		<radius />
+		<metallicity />
+		<distance>12.1</distance>
+		<temperature>3371</temperature>
+		<rightascension>04 53 49.97976</rightascension>
+		<declination>-17 46 24.2944</declination>
+		<angulardistance />
+		<magV>10.894</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/04/21</lastupdate>
+	<description>The planet candidates orbiting GJ 180 were identified by Bayesian analysis of 56 UVES and 31 HARPS radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

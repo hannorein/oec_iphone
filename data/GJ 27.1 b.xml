@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GJ 27.1 b</id_exoplaneteu>
+	<name>GJ 27.1 b</name>
+	<name>Gliese 27.1 b</name>
+	<id>GJ 27.1 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.0409</mass>
+		<radius />
+		<orbit>
+			<period>15.819</period>
+			<semimajoraxis>0.101</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<inclination />
+			<periastron>150</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M0.5 V</spectraltype>
+		<mass>0.53</mass>
+		<radius />
+		<metallicity />
+		<distance>24.0</distance>
+		<temperature>3542</temperature>
+		<rightascension>00 39 58.82591</rightascension>
+		<declination>-44 15 11.5985</declination>
+		<angulardistance />
+		<magV>11.401</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/04/21</lastupdate>
+	<description>The planet candidate orbiting GJ 27.1 was identified by Bayesian analysis of 62 UVES and 50 HARPS radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

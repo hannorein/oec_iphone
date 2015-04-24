@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GJ 160.2 b</id_exoplaneteu>
+	<name>GJ 160.2 b</name>
+	<name>Gliese 160.2 b</name>
+	<id>GJ 160.2 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.0321</mass>
+		<radius />
+		<orbit>
+			<period>5.2354</period>
+			<semimajoraxis>0.053</semimajoraxis>
+			<eccentricity>0.06</eccentricity>
+			<inclination />
+			<periastron>350</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M0 V</spectraltype>
+		<mass>0.69</mass>
+		<radius />
+		<metallicity />
+		<distance>43.25</distance>
+		<temperature>4347</temperature>
+		<rightascension>04 06 34.84136</rightascension>
+		<declination>-20 51 11.2391</declination>
+		<angulardistance />
+		<magV>9.675</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/04/21</lastupdate>
+	<description>The planet candidate orbiting GJ 160.2 was identified by Bayesian analysis of 100 UVES and 7 HARPS radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

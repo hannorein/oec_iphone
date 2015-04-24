@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GJ 682 b</id_exoplaneteu>
+	<name>GJ 682 b</name>
+	<name>Gliese 682 b</name>
+	<id>GJ 682 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.014</mass>
+		<radius />
+		<orbit>
+			<period>17.478</period>
+			<semimajoraxis>0.080</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<inclination />
+			<periastron>90</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3.5 V</spectraltype>
+		<mass>0.27</mass>
+		<radius />
+		<metallicity />
+		<distance>5.079</distance>
+		<temperature>3028</temperature>
+		<rightascension>17 37 03.66242</rightascension>
+		<declination>-44 19 09.1697</declination>
+		<angulardistance />
+		<magV>10.946</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>15/04/21</lastupdate>
+	<description>The planet candidates orbiting GJ 682 were identified by Bayesian analysis of 49 UVES and 12 HARPS radial velocity measurements.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

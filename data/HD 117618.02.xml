@@ -1,17 +1,17 @@
 <planet>
-	<id_exoplaneteu>HD 117618 b</id_exoplaneteu>
-	<name>HD 117618 b</name>
-	<id>HD 117618 b</id>
+	<id_exoplaneteu>HD 117618.02</id_exoplaneteu>
+	<name>HD 117618.02</name>
+	<id>HD 117618.02</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.178</mass>
+		<mass>0.2</mass>
 		<radius />
 		<orbit>
-			<period>25.827</period>
-			<semimajoraxis>0.176</semimajoraxis>
-			<eccentricity>0.42</eccentricity>
+			<period>318</period>
+			<semimajoraxis>0.93</semimajoraxis>
+			<eccentricity>0.00</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -33,11 +33,11 @@
 		<magK />
 	</star>
 	<multiplicity>2</multiplicity>
-	<discoveryyear>2004</discoveryyear>
-	<lastupdate>09/10/06</lastupdate>
-	<description />
+	<discoveryyear>2013</discoveryyear>
+	<lastupdate>15/04/23</lastupdate>
+	<description>The radial velocity data for HD 117618 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 </planet>
