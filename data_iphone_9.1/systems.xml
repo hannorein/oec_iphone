@@ -1,4 +1,4 @@
-<systems name="systems" planets="1993">
+<systems name="systems" planets="2007">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -483,6 +483,42 @@
 			<temperature>2550.0</temperature>
 		</star>
 		<videolink>http://youtu.be/w7Ktw1kytF0</videolink>
+	</system>
+	<system>
+		<name>2MASS 0122-2439</name>
+		<rightascension>01 22 50.938</rightascension>
+		<declination>-24 39 50.65</declination>
+		<distance errorminus="4" errorplus="4">36</distance>
+		<star>
+			<name>2MASS J01225093-2439505 A</name>
+			<name>2MASS 0122-2439 A</name>
+			<magV errorminus="0.07" errorplus="0.07">14.24</magV>
+			<magR>13.2</magR>
+			<magI>11.3</magI>
+			<magJ errorminus="0.03" errorplus="0.03">10.02</magJ>
+			<magH errorminus="0.02" errorplus="0.02">9.47</magH>
+			<magK errorminus="0.03" errorplus="0.03">9.17</magK>
+			<spectraltype>M3.5&#177;0.5</spectraltype>
+			<mass errorminus="0.05" errorplus="0.05">0.40</mass>
+			<age errorminus="0.010" errorplus="0.010">0.120</age>
+			<planet>
+				<name>2MASS 0122-2439 B</name>
+				<name>2MASS J01225093-2439505 B</name>
+				<magJ errorminus="0.14" errorplus="0.14">16.81</magJ>
+				<magH errorminus="0.04" errorplus="0.04">15.65</magH>
+				<magK errorminus="0.05" errorplus="0.05">14.53</magK>
+				<spectraltype>L4&#8211;L6</spectraltype>
+				<mass lowerlimit="12" upperlimit="27" />
+				<separation errorminus="6" errorplus="6" unit="AU">52</separation>
+				<separation errorminus="0.007" errorplus="0.007" unit="arcsec">1.444</separation>
+				<positionangle errorminus="0.2" errorplus="0.2">216.7</positionangle>
+				<discoverymethod>imaging</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<list>Confirmed planets</list>
+				<description>2MASS 0122-2439 B is an L-dwarf companion to the star 2MASS J01225093-2439505. The age and luminosity of the object gives a dual-valued prediction for the mass, either in the range 12&#8211;13 or 22&#8211;27 Jupiter masses, assuming the system is a member of the AB Doradus moving group.</description>
+				<lastupdate>15/04/20</lastupdate>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>30 Ari</name>
@@ -3115,7 +3151,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>15/03/26</lastupdate>
-				<new>1</new>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -3146,7 +3181,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3178,7 +3212,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3193,7 +3226,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<temperature errorminus="26" errorplus="26">652</temperature>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
-				<new>1</new>
 				<istransiting>1</istransiting>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
@@ -3232,7 +3264,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<temperature errorminus="17" errorplus="17">507</temperature>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
-				<new>1</new>
 				<istransiting>1</istransiting>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
@@ -3252,7 +3283,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3299,7 +3329,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3331,7 +3360,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3363,7 +3391,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3395,7 +3422,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3411,7 +3437,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3443,7 +3468,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3478,7 +3502,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3495,7 +3518,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3527,7 +3549,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3559,7 +3580,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3591,7 +3611,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3623,7 +3642,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3655,7 +3673,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3687,7 +3704,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3719,7 +3735,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3751,7 +3766,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3783,7 +3797,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3815,7 +3828,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3847,7 +3859,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3879,7 +3890,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3895,7 +3905,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3927,7 +3936,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3959,7 +3967,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -3992,7 +3999,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/03/26</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
@@ -4452,6 +4458,314 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<temperature>4330.0</temperature>
 		</star>
 		<videolink>http://youtu.be/SmrgjErcQRc</videolink>
+	</system>
+	<system>
+		<name>GJ 160.2</name>
+		<rightascension>04 06 34.84136</rightascension>
+		<declination>-20 51 11.2391</declination>
+		<distance errorminus="0.8" errorplus="0.9">43.25</distance>
+		<star>
+			<name>GJ 160.2</name>
+			<name>Gliese 160.2</name>
+			<name>GJ 9144</name>
+			<name>HIP 19165</name>
+			<name>BD-21 784</name>
+			<name>CPD-21 472</name>
+			<name>LHS 1628</name>
+			<name>SAO 169128</name>
+			<name>TYC 5889-644-1</name>
+			<name>2MASS J04063483-2051103</name>
+			<magU>12.095</magU>
+			<magB>10.904</magB>
+			<magV>9.675</magV>
+			<magR>8.93</magR>
+			<magI>8.309</magI>
+			<magJ errorminus="0.021" errorplus="0.021">7.439</magJ>
+			<magH errorminus="0.051" errorplus="0.051">6.854</magH>
+			<magK errorminus="0.017" errorplus="0.017">6.702</magK>
+			<spectraltype>M0 V</spectraltype>
+			<mass>0.69</mass>
+			<temperature>4347</temperature>
+			<planet>
+				<name>GJ 160.2 b</name>
+				<name>Gliese 160.2 b</name>
+				<period errorminus="0.0065" errorplus="0.0027">5.2354</period>
+				<eccentricity errorminus="0.06" errorplus="0.20">0.06</eccentricity>
+				<periastron>350</periastron>
+				<meananomaly>10</meananomaly>
+				<mass errorminus="0.0186" errorplus="0.0227">0.0321</mass>
+				<semimajoraxis errorminus="0.007" errorplus="0.004">0.053</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidate orbiting GJ 160.2 was identified by Bayesian analysis of 100 UVES and 7 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>GJ 180</name>
+		<rightascension>04 53 49.97976</rightascension>
+		<declination>-17 46 24.2944</declination>
+		<distance errorminus="0.3" errorplus="0.4">12.1</distance>
+		<star>
+			<name>GJ 180</name>
+			<name>Gliese 180</name>
+			<name>HIP 22762</name>
+			<name>LHS 1712</name>
+			<name>2MASS J04534995-1746235</name>
+			<name>TYC 5903-680-1</name>
+			<magU>13.598</magU>
+			<magB>12.443</magB>
+			<magV>10.894</magV>
+			<magR>9.876</magR>
+			<magI>8.671</magI>
+			<magJ errorminus="0.020" errorplus="0.020">7.413</magJ>
+			<magH errorminus="0.038" errorplus="0.038">6.860</magH>
+			<magK errorminus="0.021" errorplus="0.021">6.598</magK>
+			<spectraltype>M2 V</spectraltype>
+			<mass>0.43</mass>
+			<temperature>3371</temperature>
+			<planet>
+				<name>GJ 180 b</name>
+				<name>Gliese 180 b</name>
+				<period errorminus="0.020" errorplus="0.018">17.380</period>
+				<eccentricity errorminus="0.11" errorplus="0.14">0.11</eccentricity>
+				<periastron>10</periastron>
+				<meananomaly>290</meananomaly>
+				<mass errorminus="0.017" errorplus="0.011">0.026</mass>
+				<semimajoraxis errorminus="0.014" errorplus="0.006">0.103</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidates orbiting GJ 180 were identified by Bayesian analysis of 56 UVES and 31 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+			<planet>
+				<name>GJ 180 c</name>
+				<name>Gliese 180 c</name>
+				<period errorminus="0.066" errorplus="0.052">24.329</period>
+				<eccentricity errorminus="0.09" errorplus="0.20">0.09</eccentricity>
+				<periastron>230</periastron>
+				<meananomaly>120</meananomaly>
+				<mass errorminus="0.013" errorplus="0.012">0.020</mass>
+				<semimajoraxis errorminus="0.017" errorplus="0.007">0.129</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidates orbiting GJ 180 were identified by Bayesian analysis of 56 UVES and 31 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>GJ 229</name>
+		<rightascension>06 10 34.61533</rightascension>
+		<declination>-21 51 52.7117</declination>
+		<distance errorminus="0.03" errorplus="0.03">5.75</distance>
+		<binary>
+			<name>GJ 229</name>
+			<name>Gliese 229</name>
+			<name>WDS J06106-2152</name>
+			<name>NAJ 1</name>
+			<separation unit="arcsec">6.80</separation>
+			<separation unit="AU">39.1</separation>
+			<positionangle>168</positionangle>
+			<star>
+				<name>GJ 229 A</name>
+				<name>Gliese 229 A</name>
+				<name>WDS J06106-2152 A</name>
+				<name>NAJ 1 A</name>
+				<name>HD 42581</name>
+				<name>HIP 29295</name>
+				<name>BD-21 1377</name>
+				<name>CPD-21 1138</name>
+				<name>LHS 1827</name>
+				<name>SAO 171334</name>
+				<name>TYC 5945-765-1</name>
+				<name>2MASS J06103462-2151521</name>
+				<magU>10.801</magU>
+				<magB>9.607</magB>
+				<magV>8.125</magV>
+				<magR>7.164</magR>
+				<magI>6.121</magI>
+				<magJ errorminus="0.037" errorplus="0.037">5.104</magJ>
+				<magH errorminus="0.254" errorplus="0.254">4.393</magH>
+				<magK errorminus="0.232" errorplus="0.232">4.166</magK>
+				<spectraltype>M1/M2 V</spectraltype>
+				<mass>0.58</mass>
+				<temperature>3564</temperature>
+				<planet>
+					<name>GJ 229 b</name>
+					<name>GJ 229 A b</name>
+					<name>Gliese 229 A b</name>
+					<period errorminus="12" errorplus="22">471</period>
+					<eccentricity errorminus="0.10" errorplus="0.22">0.10</eccentricity>
+					<periastron>150</periastron>
+					<meananomaly>230</meananomaly>
+					<mass errorminus="0.050" errorplus="0.053">0.101</mass>
+					<semimajoraxis errorminus="0.09" errorplus="0.12">0.97</semimajoraxis>
+					<discoverymethod>RV</discoverymethod>
+					<discoveryyear>2014</discoveryyear>
+					<description>This planet is in a binary system comprising the red dwarf star GJ 229 A and the brown dwarf GJ 229 B, which was the first identified methane brown dwarf. The planet candidate orbiting GJ 229 A was identified by Bayesian analysis of 73 UVES and 17 HARPS radial velocity measurements.</description>
+					<list>Controversial</list>
+					<lastupdate>15/04/21</lastupdate>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>GJ 229 B</name>
+				<name>Gliese 229 B</name>
+				<name>WDS 06102-2152 B</name>
+				<name>NAJ 1 B</name>
+				<magJ errorminus="0.05" errorplus="0.05">14.01</magJ>
+				<magH errorminus="0.05" errorplus="0.05">14.36</magH>
+				<magK errorminus="0.05" errorplus="0.05">14.36</magK>
+				<spectraltype>T6</spectraltype>
+				<mass lowerlimit="0.04" upperlimit="0.055" />
+				<temperature>1000</temperature>
+			</star>
+			<semimajoraxis>39.1</semimajoraxis>
+		</binary>
+	</system>
+	<system>
+		<name>GJ 27.1</name>
+		<rightascension>00 39 58.82591</rightascension>
+		<declination>-44 15 11.5985</declination>
+		<distance errorminus="1.5" errorplus="1.7">24.0</distance>
+		<star>
+			<name>GJ 27.1</name>
+			<name>Gliese 27.1</name>
+			<name>GJ 9018</name>
+			<name>HIP 3143</name>
+			<name>CD-44 170</name>
+			<name>LHS 1122</name>
+			<name>TYC 7531-1014-1</name>
+			<magU>14.079</magU>
+			<magB>12.888</magB>
+			<magV>11.401</magV>
+			<magR>10.433</magR>
+			<magI>9.371</magI>
+			<magJ errorminus="0.027" errorplus="0.027">8.225</magJ>
+			<magH errorminus="0.038" errorplus="0.038">7.609</magH>
+			<magK errorminus="0.029" errorplus="0.029">7.394</magK>
+			<spectraltype>M0.5 V</spectraltype>
+			<mass>0.53</mass>
+			<temperature>3542</temperature>
+			<planet>
+				<name>GJ 27.1 b</name>
+				<name>Gliese 27.1 b</name>
+				<period errorminus="0.026" errorplus="0.023">15.819</period>
+				<eccentricity errorminus="0.08" errorplus="0.18">0.08</eccentricity>
+				<periastron>150</periastron>
+				<meananomaly>330</meananomaly>
+				<mass errorminus="0.0208" errorplus="0.0129">0.0409</mass>
+				<semimajoraxis errorminus="0.013" errorplus="0.009">0.101</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidate orbiting GJ 27.1 was identified by Bayesian analysis of 62 UVES and 50 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>GJ 422</name>
+		<rightascension>11 16 00.20551</rightascension>
+		<declination>-57 32 51.5988</declination>
+		<distance errorminus="0.40" errorplus="0.43">12.67</distance>
+		<star>
+			<name>GJ 422</name>
+			<name>Gliese 422</name>
+			<name>Innes' star</name>
+			<name>HD 304043</name>
+			<name>HIP 55042</name>
+			<name>LHS 40</name>
+			<name>TYC 8624-3387-1</name>
+			<name>2MASS J11160018-5732513</name>
+			<magU>13.666</magU>
+			<magB>12.848</magB>
+			<magV>11.516</magV>
+			<magR>10.497</magR>
+			<magI>9.132</magI>
+			<magJ errorminus="0.020" errorplus="0.020">7.811</magJ>
+			<magH errorminus="0.053" errorplus="0.053">7.304</magH>
+			<magK errorminus="0.031" errorplus="0.031">7.035</magK>
+			<spectraltype>M3.5 V</spectraltype>
+			<mass>0.35</mass>
+			<temperature>3323</temperature>
+			<planet>
+				<name>GJ 422 b</name>
+				<name>Gliese 422 b</name>
+				<period errorminus="0.098" errorplus="0.082">26.161</period>
+				<eccentricity errorminus="0.05" errorplus="0.21">0.05</eccentricity>
+				<periastron>250</periastron>
+				<meananomaly>70</meananomaly>
+				<mass errorminus="0.013" errorplus="0.018">0.031</mass>
+				<semimajoraxis errorminus="0.011" errorplus="0.014">0.119</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidate orbiting GJ 422 was identified by Bayesian analysis of 24 UVES and 25 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>GJ 682</name>
+		<rightascension>17 37 03.66242</rightascension>
+		<declination>-44 19 09.1697</declination>
+		<distance errorminus="0.054" errorplus="0.056">5.079</distance>
+		<star>
+			<name>GJ 682</name>
+			<name>Gliese 682</name>
+			<name>HIP 86214</name>
+			<name>CD-44 11909</name>
+			<name>CPD-44 8635</name>
+			<name>LHS 451</name>
+			<name>2MASS J17370367-4419088</name>
+			<magU>13.791</magU>
+			<magB>12.593</magB>
+			<magV>10.946</magV>
+			<magR>9.729</magR>
+			<magI>8.145</magI>
+			<magJ errorminus="0.023" errorplus="0.023">6.544</magJ>
+			<magH errorminus="0.038" errorplus="0.038">5.917</magH>
+			<magK errorminus="0.020" errorplus="0.020">5.606</magK>
+			<spectraltype>M3.5 V</spectraltype>
+			<mass>0.27</mass>
+			<temperature>3028</temperature>
+			<planet>
+				<name>GJ 682 b</name>
+				<name>Gliese 682 b</name>
+				<period errorminus="0.040" errorplus="0.062">17.478</period>
+				<eccentricity errorminus="0.08" errorplus="0.19">0.08</eccentricity>
+				<periastron>90</periastron>
+				<meananomaly>30</meananomaly>
+				<mass errorminus="0.012" errorplus="0.012">0.014</mass>
+				<semimajoraxis errorminus="0.004" errorplus="0.014">0.080</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidates orbiting GJ 682 were identified by Bayesian analysis of 49 UVES and 12 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+			<planet>
+				<name>GJ 682 c</name>
+				<name>Gliese 682 c</name>
+				<period errorminus="0.48" errorplus="0.45">57.32</period>
+				<eccentricity errorminus="0.10" errorplus="0.19">0.10</eccentricity>
+				<periastron>320</periastron>
+				<meananomaly>240</meananomaly>
+				<mass errorminus="0.014" errorplus="0.018">0.027</mass>
+				<semimajoraxis errorminus="0.009" errorplus="0.030">0.176</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2014</discoveryyear>
+				<description>The planet candidates orbiting GJ 682 were identified by Bayesian analysis of 49 UVES and 12 HARPS radial velocity measurements.</description>
+				<list>Controversial</list>
+				<lastupdate>15/04/21</lastupdate>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>Gliese 1214</name>
@@ -5429,6 +5743,20 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<lastupdate>09/12/17</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<temperature>102.2</temperature>
+			</planet>
+			<planet>
+				<name>GJ 649.02</name>
+				<list>Controversial</list>
+				<period errorminus="0.0004" errorplus="0.0004">4.4762</period>
+				<mass errorminus="0.008" errorplus="0.008">0.030</mass>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.043</semimajoraxis>
+				<meananomaly errorminus="68" errorplus="68">334</meananomaly>
+				<eccentricity errorminus="0.15" errorplus="0.15">0.20</eccentricity>
+				<periastron errorminus="47" errorplus="47">334</periastron>
+				<description>The radial velocity data for GJ 649 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities.</description>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<lastupdate>15/04/23</lastupdate>
 			</planet>
 			<name>Gliese 649</name>
 			<temperature>3700.0</temperature>
@@ -10545,6 +10873,20 @@ Image credit: Vanessa Bailey</imagedescription>
 				<lastupdate>09/10/06</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 				<temperature>664.2</temperature>
+			</planet>
+			<planet>
+				<name>HD 117618.02</name>
+				<list>Controversial</list>
+				<period errorminus="2" errorplus="2">318</period>
+				<mass errorminus="0.1" errorplus="0.1">0.2</mass>
+				<semimajoraxis errorminus="0.01" errorplus="0.01">0.93</semimajoraxis>
+				<meananomaly errorminus="50" errorplus="50">304</meananomaly>
+				<eccentricity errorminus="0.26" errorplus="0.26">0.00</eccentricity>
+				<periastron errorminus="29" errorplus="29">0</periastron>
+				<description>The radial velocity data for HD 117618 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities.</description>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<lastupdate>15/04/23</lastupdate>
 			</planet>
 			<name>HD 117618</name>
 			<temperature>5861.0</temperature>
@@ -17655,6 +17997,20 @@ Image credit: Vanessa Bailey</imagedescription>
 				<lastupdate>10/10/19</lastupdate>
 				<discoveryyear>2003</discoveryyear>
 				<temperature>405.0</temperature>
+			</planet>
+			<planet>
+				<name>HD 3651.02</name>
+				<list>Controversial</list>
+				<period errorminus="0.02" errorplus="0.02">31.08</period>
+				<mass errorminus="0.03" errorplus="0.03">0.09</mass>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.186</semimajoraxis>
+				<meananomaly errorminus="42" errorplus="42">318</meananomaly>
+				<eccentricity errorminus="0.20" errorplus="0.20">0.04</eccentricity>
+				<periastron errorminus="66" errorplus="66">55</periastron>
+				<description>The radial velocity data for HD 3651 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities in a 2:1 resonance.</description>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<lastupdate>15/04/23</lastupdate>
 			</planet>
 			<name>HD 3651</name>
 			<temperature>5173.0</temperature>
@@ -49279,6 +49635,28 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>MOA-2011-BLG-262L</name>
+		<rightascension>18 00 23.48</rightascension>
+		<declination>-31 14 42.93</declination>
+		<distance errorminus="1000" errorplus="900">7000</distance>
+		<star>
+			<name>MOA-2011-BLG-262L</name>
+			<name>EWS 2011-BLG-703L</name>
+			<mass errorminus="0.06" errorplus="0.19">0.12</mass>
+			<planet>
+				<name>MOA-2011-BLG-262Lb</name>
+				<mass errorminus="0.031" errorplus="0.088">0.057</mass>
+				<separation errorminus="0.14" errorplus="0.25">0.84</separation>
+				<list>Confirmed planets</list>
+				<discoverymethod>microlensing</discoverymethod>
+				<discoveryyear>2013</discoveryyear>
+				<description>The microlensing event MOA-2011-BLG-262 allows for two possible interpretations of the lens system: either it is a relatively nearby free-floating 3.6 Jupiter masses object with a 0.54 Earth mass satellite, or it is a low-mass star in the galactic bulge with a Neptune-class planet. The values given here are for the latter scenario.</description>
+				<lastupdate>15/04/20</lastupdate>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>MOA-2011-BLG-293L</name>
 		<rightascension>17 55 39</rightascension>
 		<declination>-28 28 37</declination>
@@ -50390,6 +50768,8 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>0.63</mass>
 			<planet>
 				<name>OGLE235-MOA53 b</name>
+				<name>OGLE-2003-BLG-235 b</name>
+				<name>MOA-2003-BLG-53 b</name>
 				<list>Confirmed planets</list>
 				<mass>2.6</mass>
 				<semimajoraxis>5.1</semimajoraxis>
@@ -51016,6 +51396,53 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</planet>
 			<name>Qatar-2</name>
 			<temperature>4645.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>Rho Coronae Borealis</name>
+		<rightascension>16 01 02.662</rightascension>
+		<declination>+33 18 12.63</declination>
+		<distance errorminus="0.08" errorplus="0.08">17.24</distance>
+		<star>
+			<name>Rho Coronae Borealis</name>
+			<name>rho CrB</name>
+			<name>&#961; CrB</name>
+			<name>HD 143761</name>
+			<name>HIP 78459</name>
+			<name>HR 5968</name>
+			<name>Gliese 606.2</name>
+			<name>GJ 9537</name>
+			<name>BD+33 2663</name>
+			<name>TYC 2576-2228-1</name>
+			<name>SAO 65024</name>
+			<name>LHS 3145</name>
+			<magB>6.01</magB>
+			<magV errorminus="0.05" errorplus="0.05">5.41</magV>
+			<magR>5.0</magR>
+			<magI>4.8</magI>
+			<magJ>4.09</magJ>
+			<magH>3.99</magH>
+			<magK errorminus="0.05" errorplus="0.05">3.89</magK>
+			<mass>1.00</mass>
+			<temperature>5823</temperature>
+			<planet>
+				<name>Rho Coronae Borealis b</name>
+				<name>rho CrB b</name>
+				<name>&#961; CrB b</name>
+				<period errorminus="0.0063" errorplus="0.0063">39.8449</period>
+				<eccentricity errorminus="0.028" errorplus="0.028">0.057</eccentricity>
+				<periastron>303</periastron>
+				<periastrontime errorminus="4.1" errorplus="4.1">2450563.2</periastrontime>
+				<semimajoraxis>0.24</semimajoraxis>
+				<inclination lowerlimit="0.4" upperlimit="0.7">0.4</inclination>
+				<ascendingnode lowerlimit="242.3" upperlimit="290.6">266.4</ascendingnode>
+				<mass lowerlimit="100.1" upperlimit="199.6">169.7</mass>
+				<discoveryyear>1997</discoveryyear>
+				<discoverymethod>RV</discoverymethod>
+				<list>Controversial</list>
+				<description>The planet candidate orbiting Rho Coronae Borealis was one of the first exoplanet discoveries, with a radial velocity minimum mass of 1.093 Jupiter masses. Subsequent analysis of the Hipparcos astrometric data indicates that the companion is actually a low-mass star in a nearly face-on orbit.</description>
+				<lastupdate>15/04/20</lastupdate>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -55726,11 +56153,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.0346</semimajoraxis>
 				<inclination errorminus="0.12" errorplus="0.07">89.92</inclination>
 				<transittime errorminus="0.000052" errorplus="0.000067" unit="BJD">2456125.417512</transittime>
-				<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far.</description>
+				<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far. The transmission spectrum matches a hazy model with a temperature of 600 K.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/03/01</lastupdate>
+				<lastupdate>15/04/23</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<temperature>800</temperature>
+				<temperature>600</temperature>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
