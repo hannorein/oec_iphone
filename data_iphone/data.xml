@@ -1,4 +1,4 @@
-<planets date="2015-04-24" name="data" planets="2007">
+<planets date="2015-05-05" name="data" planets="2013">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -3581,6 +3581,35 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Controversial</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 201637175 b</id_exoplaneteu>
+		<name>EPIC 201637175 b</name>
+		<name>EPIC 201637175 A b</name>
+		<id>EPIC 201637175 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<orbit>
+				<period>0.381071</period>
+				<semimajoraxis>0.0088</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0V</spectraltype>
+			<mass>0.60</mass>
+			<radius>0.57</radius>
+			<metallicity>0.03</metallicity>
+			<distance>225</distance>
+			<temperature>3830</temperature>
+			<rightascension>11 17 55.856</rightascension>
+			<declination>+02 37 06.79</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/05/03</lastupdate>
+		<description>EPIC 201637175 b is a disintegrating planet orbiting the primary star of a binary system. It exhibits highly variable transit depths due to dust trails ejected from the planet.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 201702477 b</id_exoplaneteu>
 		<name>EPIC 201702477 b</name>
 		<name>EPIC 201702477.01</name>
@@ -4976,29 +5005,30 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Gliese 3470 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.04372523</mass>
-			<radius>0.440159</radius>
+			<mass>0.04320</mass>
+			<radius>0.346</radius>
 			<orbit>
-				<period>3.336649</period>
-				<semimajoraxis>0.03557</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<period>3.3366487</period>
+				<semimajoraxis>0.031</semimajoraxis>
+				<eccentricity>0.017</eccentricity>
 				<inclination>88.12</inclination>
+				<periastron>1.70</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M1.5</spectraltype>
-			<mass>0.539</mass>
-			<radius>0.568</radius>
-			<metallicity>0.20</metallicity>
+			<mass>0.51</mass>
+			<radius>0.48</radius>
+			<metallicity>0.17</metallicity>
 			<distance>30.7</distance>
-			<temperature>3600</temperature>
+			<temperature>3652</temperature>
 			<rightascension>07 59 06</rightascension>
 			<declination>+15 23 30</declination>
 			<magV>12.3</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>13/01/28</lastupdate>
+		<lastupdate>15/04/29</lastupdate>
 		<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -20242,30 +20272,108 @@ Image credit: Vanessa Bailey</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 7924 b</id_exoplaneteu>
 		<name>HD 7924 b</name>
+		<name>BD+75 58 b</name>
+		<name>Gliese 9054 b</name>
+		<name>HIP 6379 b</name>
+		<name>2MASS J01215911+76542372 b</name>
+		<name>PPM 4675 b</name>
+		<name>TYC 4494-1346-1 b</name>
 		<id>HD 7924 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.029</mass>
 			<orbit>
-				<period>5.3978</period>
-				<semimajoraxis>0.057</semimajoraxis>
+				<period>5.39792</period>
+				<semimajoraxis>0.05664</semimajoraxis>
 				<eccentricity>0.17</eccentricity>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
 			<mass>0.832</mass>
-			<radius>0.78</radius>
+			<radius>0.7821</radius>
 			<metallicity>-0.15</metallicity>
-			<distance>16.8</distance>
-			<temperature>842.9</temperature>
-			<rightascension>01 21 59</rightascension>
-			<declination>+76 42 37</declination>
+			<distance>16.82</distance>
+			<temperature>5075</temperature>
+			<rightascension>01 21 59.11491</rightascension>
+			<declination>+76 42 37.0335</declination>
 			<magV>7.185</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/01/29</lastupdate>
+		<lastupdate>15/04/24</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 7924 c</id_exoplaneteu>
+		<name>HD 7924 c</name>
+		<name>BD+75 58 c</name>
+		<name>Gliese 9054 c</name>
+		<name>HIP 6379 c</name>
+		<name>2MASS J01215911+76542372 c</name>
+		<name>PPM 4675 c</name>
+		<name>TYC 4494-1346-1 c</name>
+		<id>HD 7924 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0247</mass>
+			<orbit>
+				<period>15.299</period>
+				<semimajoraxis>0.1134</semimajoraxis>
+				<eccentricity>0.10</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.832</mass>
+			<radius>0.7821</radius>
+			<metallicity>-0.15</metallicity>
+			<distance>16.82</distance>
+			<temperature>5075</temperature>
+			<rightascension>01 21 59.11491</rightascension>
+			<declination>+76 42 37.0335</declination>
+			<magV>7.185</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/04/24</lastupdate>
+		<description>This super-Earth was discovered by performing joint analysis of high-precision radial velocity data from Keck/HIRES and the new Automated Planet Finder Telescope (APF).</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 7924 d</id_exoplaneteu>
+		<name>HD 7924 d</name>
+		<name>BD+75 58 d</name>
+		<name>Gliese 9054 d</name>
+		<name>HIP 6379 d</name>
+		<name>2MASS J01215911+76542372 d</name>
+		<name>PPM 4675 d</name>
+		<name>TYC 4494-1346-1 d</name>
+		<id>HD 7924 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0203</mass>
+			<orbit>
+				<period>24.451</period>
+				<semimajoraxis>0.1551</semimajoraxis>
+				<eccentricity>0.20</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0V</spectraltype>
+			<mass>0.832</mass>
+			<radius>0.7821</radius>
+			<metallicity>-0.15</metallicity>
+			<distance>16.82</distance>
+			<temperature>5075</temperature>
+			<rightascension>01 21 59.11491</rightascension>
+			<declination>+76 42 37.0335</declination>
+			<magV>7.185</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/04/24</lastupdate>
+		<description>This super-Earth was discovered by performing joint analysis of high-precision radial velocity data from Keck/HIRES and the new Automated Planet Finder Telescope (APF).</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -51994,6 +52102,35 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Kepler Objects of Interest</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-12 b</id_exoplaneteu>
+		<name>KOI-12 b</name>
+		<name>KOI-12.01</name>
+		<name>KIC 5812701 b</name>
+		<id>KOI-12 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>1.44</radius>
+			<orbit>
+				<period>17.8552332</period>
+				<semimajoraxis>0.151</semimajoraxis>
+				<inclination>88.90</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.452</mass>
+			<radius>1.63</radius>
+			<distance>426</distance>
+			<temperature>6820</temperature>
+			<rightascension>19 49 48.90</rightascension>
+			<declination>+41 00 39.56</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/05/03</lastupdate>
+		<description>The planet KOI-12 b was detected by transits and confirmed using Doppler spectroscopy and line-profile tomography. It is orbiting a rapidly-rotating star and has a low projected obliquity.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-1257 b</id_exoplaneteu>
 		<name>KOI-1257 b</name>
 		<name>KOI-1257 A b</name>
@@ -53280,6 +53417,69 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/09/13</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-372 b</id_exoplaneteu>
+		<name>KOI-372 b</name>
+		<name>KOI-372.01</name>
+		<name>KIC 6471021 b</name>
+		<id>KOI-372 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.25</mass>
+			<radius>0.882</radius>
+			<orbit>
+				<period>125.63243</period>
+				<semimajoraxis>0.4937</semimajoraxis>
+				<eccentricity>0.172</eccentricity>
+				<inclination>89.845</inclination>
+				<periastron>791</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.014</mass>
+			<radius>1.122</radius>
+			<metallicity>-0.01</metallicity>
+			<temperature>5820</temperature>
+			<rightascension>19 56 29.39</rightascension>
+			<declination>+41 52 00.3</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/05/03</lastupdate>
+		<description>KOI-372 b has been confirmed to be a planet using radial velocity measurements obtained with the CAFE spectrograph. It is a dense Jupiter-like planet with an eccentric orbit.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-372 c</id_exoplaneteu>
+		<name>KOI-372 c</name>
+		<name>KIC 6471021 c</name>
+		<id>KOI-372 c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>0.3194</mass>
+			<orbit>
+				<period>463.44</period>
+				<eccentricity>0.1701</eccentricity>
+				<inclination>91.78</inclination>
+				<periastron>178.88</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.014</mass>
+			<radius>1.122</radius>
+			<metallicity>-0.01</metallicity>
+			<temperature>5820</temperature>
+			<rightascension>19 56 29.39</rightascension>
+			<declination>+41 52 00.3</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/05/03</lastupdate>
+		<description>The existence of the planet KOI-372 c was detected by modelling transit timing variations of the inner planet KOI-372 b.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
