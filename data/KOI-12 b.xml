@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>KOI-12 b</id_exoplaneteu>
+	<name>KOI-12 b</name>
+	<name>KOI-12.01</name>
+	<name>KIC 5812701 b</name>
+	<id>KOI-12 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>1.44</radius>
+		<orbit>
+			<period>17.8552332</period>
+			<semimajoraxis>0.151</semimajoraxis>
+			<eccentricity />
+			<inclination>88.90</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.452</mass>
+		<radius>1.63</radius>
+		<metallicity />
+		<distance>426</distance>
+		<temperature>6820</temperature>
+		<rightascension>19 49 48.90</rightascension>
+		<declination>+41 00 39.56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/05/03</lastupdate>
+	<description>The planet KOI-12 b was detected by transits and confirmed using Doppler spectroscopy and line-profile tomography. It is orbiting a rapidly-rotating star and has a low projected obliquity.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

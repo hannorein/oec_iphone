@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>KOI-372 b</id_exoplaneteu>
+	<name>KOI-372 b</name>
+	<name>KOI-372.01</name>
+	<name>KIC 6471021 b</name>
+	<id>KOI-372 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.25</mass>
+		<radius>0.882</radius>
+		<orbit>
+			<period>125.63243</period>
+			<semimajoraxis>0.4937</semimajoraxis>
+			<eccentricity>0.172</eccentricity>
+			<inclination>89.845</inclination>
+			<periastron>791</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2V</spectraltype>
+		<mass>1.014</mass>
+		<radius>1.122</radius>
+		<metallicity>-0.01</metallicity>
+		<distance />
+		<temperature>5820</temperature>
+		<rightascension>19 56 29.39</rightascension>
+		<declination>+41 52 00.3</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/05/03</lastupdate>
+	<description>KOI-372 b has been confirmed to be a planet using radial velocity measurements obtained with the CAFE spectrograph. It is a dense Jupiter-like planet with an eccentric orbit.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
