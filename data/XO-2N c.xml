@@ -1,18 +1,17 @@
 <planet>
-	<id_exoplaneteu>XO-2S b</id_exoplaneteu>
-	<name>XO-2S b</name>
-	<name>TYC 3413-210-1 b</name>
-	<id>XO-2S b</id>
+	<id_exoplaneteu>XO-2N c</id_exoplaneteu>
+	<name>XO-2N c</name>
+	<id>XO-2N c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.259</mass>
+		<mass />
 		<radius />
 		<orbit>
-			<period>18.157</period>
-			<semimajoraxis>0.1344</semimajoraxis>
-			<eccentricity>0.18</eccentricity>
+			<period />
+			<semimajoraxis />
+			<eccentricity />
 			<inclination />
-			<periastron>311.0</periastron>
+			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -34,12 +33,12 @@
 		<magK />
 	</star>
 	<multiplicity>4</multiplicity>
-	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/07/02</lastupdate>
-	<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/05/10</lastupdate>
+	<description>The radial velocity measurements of the star XO-2 exhibit a long-term quadratic trend. This trend correlates with stellar activity indicators so is more likely due to the stellar activity cycle rather than being caused by reflex motion from a planet.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 	<list>Planets in binary systems, S-type</list>
 </planet>

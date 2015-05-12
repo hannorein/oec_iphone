@@ -1,15 +1,22 @@
 <planet>
 	<id_exoplaneteu>70 Vir b</id_exoplaneteu>
 	<name>70 Vir b</name>
+	<name>BD+14 2621 b</name>
+	<name>Gliese 9446 b</name>
+	<name>HD 117176 b</name>
+	<name>HIP 65721 b</name>
+	<name>2MASS J1328282584+1346447 b</name>
+	<name>PPM 129843 b</name>
+	<name>TYC 898-1042-1 b</name>
 	<id>70 Vir b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>6.6</mass>
+		<mass>7.4</mass>
 		<radius />
 		<orbit>
-			<period>116.67</period>
-			<semimajoraxis>0.48</semimajoraxis>
-			<eccentricity>0.43</eccentricity>
+			<period>116.6926</period>
+			<semimajoraxis>0.481</semimajoraxis>
+			<eccentricity>0.399</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -18,15 +25,15 @@
 	</properties>
 	<star>
 		<spectraltype>G4 V</spectraltype>
-		<mass>0.92</mass>
-		<radius>1.968</radius>
-		<metallicity>-0.11</metallicity>
-		<distance>22</distance>
-		<temperature>479.1</temperature>
-		<rightascension>13 28 26</rightascension>
-		<declination>+13 47 12</declination>
+		<mass>1.09</mass>
+		<radius>1.94</radius>
+		<metallicity>-0.09</metallicity>
+		<distance>18.1</distance>
+		<temperature>5439</temperature>
+		<rightascension>13 28 25.80861</rightascension>
+		<declination>+13 46 43.6386</declination>
 		<angulardistance />
-		<magV>5</magV>
+		<magV>4.970</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +41,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>1996</discoveryyear>
-	<lastupdate>10/12/29</lastupdate>
+	<lastupdate>15/04/15</lastupdate>
 	<description>The star 70 Virginis is located in the constellation Virgo and starting to evolve into the subgiant phase. It has a dust disc at 3.4 AU.</description>
 	<new />
 	<image />

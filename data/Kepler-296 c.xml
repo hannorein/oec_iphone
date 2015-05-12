@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>Kepler-296 c</id_exoplaneteu>
 	<name>Kepler-296 c</name>
+	<name>Kepler-296 Ac</name>
 	<name>KOI-1422 c</name>
 	<name>KOI-1422.01</name>
 	<name>KIC 11497958 c</name>
@@ -9,13 +10,13 @@
 	<id>Kepler-296 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.0214</mass>
-		<radius>0.2513</radius>
+		<mass />
+		<radius>0.178</radius>
 		<orbit>
-			<period>5.841648</period>
-			<semimajoraxis>0.054</semimajoraxis>
+			<period>5.8416366</period>
+			<semimajoraxis>0.0521</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>89.4</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -23,11 +24,11 @@
 	</properties>
 	<star>
 		<spectraltype>M2V</spectraltype>
-		<mass>0.626</mass>
-		<radius>0.595</radius>
-		<metallicity />
+		<mass>0.498</mass>
+		<radius>0.480</radius>
+		<metallicity>-0.08</metallicity>
 		<distance>558.5</distance>
-		<temperature>3821</temperature>
+		<temperature>3740</temperature>
 		<rightascension>19 06 09.602</rightascension>
 		<declination>+49 26 14.37</declination>
 		<angulardistance />
@@ -39,8 +40,8 @@
 	</star>
 	<multiplicity>5</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/07/03</lastupdate>
-	<description>Kepler-296 Ac has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ac are still unknown, the object is highly unlikely to be a false positive. New analysis with high resolution imaging by Hubble Space Telescope shows a binary star system, where it is not clear, if this planet orbits component A or B. The data presented here are the calculated values in case of orbiting component A.</description>
+	<lastupdate>15/05/11</lastupdate>
+	<description>Kepler-296 Ac has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-296 Ac are still unknown, the object is highly unlikely to be a false positive. Statistical analysis indicates that all five transiting planets in the system orbit the primary star Kepler-296 A.</description>
 	<new />
 	<image />
 	<imagedescription />
