@@ -4,25 +4,25 @@
 	<id>HD 47536 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>5</mass>
+		<mass>4.0</mass>
 		<radius />
 		<orbit>
-			<period>430</period>
-			<semimajoraxis>1.61</semimajoraxis>
-			<eccentricity>0.2</eccentricity>
+			<period>434.9</period>
+			<semimajoraxis>1.12</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>268.6</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K1 III</spectraltype>
-		<mass>0.94</mass>
+		<mass>0.99</mass>
 		<radius>23.47</radius>
-		<metallicity>-0.68</metallicity>
+		<metallicity>-0.65</metallicity>
 		<distance>121.36</distance>
-		<temperature>735.5</temperature>
+		<temperature>4380.0</temperature>
 		<rightascension>06 37 47</rightascension>
 		<declination>-32 20 23</declination>
 		<angulardistance />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>10/12/21</lastupdate>
-	<description />
+	<lastupdate>15/05/24</lastupdate>
+	<description>The planet HD 47536 b orbits a metal-poor red giant star.</description>
 	<new />
 	<image />
 	<imagedescription />

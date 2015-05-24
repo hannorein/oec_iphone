@@ -1,24 +1,25 @@
 <planet>
 	<id_exoplaneteu>51 Peg b</id_exoplaneteu>
 	<name>51 Peg b</name>
+	<name>Bellerophon</name>
 	<id>51 Peg b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.468</mass>
+		<mass>0.46</mass>
 		<radius />
 		<orbit>
-			<period>4.23077</period>
+			<period>4.231</period>
 			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>79</inclination>
-			<periastron />
+			<eccentricity>0</eccentricity>
+			<inclination>80</inclination>
+			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G2 IV</spectraltype>
-		<mass>1.11</mass>
+		<mass>1.04</mass>
 		<radius>1.266</radius>
 		<metallicity>0.2</metallicity>
 		<distance>14.7</distance>
@@ -34,8 +35,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>1995</discoveryyear>
-	<lastupdate>10/12/07</lastupdate>
-	<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon.</description>
+	<lastupdate>15/05/24</lastupdate>
+	<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon. The lower limit for the radius is given for the limit of a perfectly-reflecting Lambert sphere.</description>
 	<new />
 	<image />
 	<imagedescription />
