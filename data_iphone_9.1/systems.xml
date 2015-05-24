@@ -735,7 +735,15 @@
 		<declination>+20 46 07</declination>
 		<distance>14.7</distance>
 		<star>
-			<mass>1.11</mass>
+			<name>51 Peg</name>
+			<name>HD 217014</name>
+			<name>HIP 113357</name>
+			<name>HR 8729</name>
+			<name>BD+19 5036</name>
+			<name>Gliese 882</name>
+			<name>SAO 90896</name>
+			<name>TYC 1717-2193-1</name>
+			<mass>1.04</mass>
 			<radius>1.266</radius>
 			<magV>5.49</magV>
 			<magB>6.16</magB>
@@ -748,19 +756,22 @@
 			<spectraltype>G2 IV</spectraltype>
 			<planet>
 				<name>51 Peg b</name>
+				<name>Bellerophon</name>
 				<list>Confirmed planets</list>
-				<mass>0.468</mass>
-				<period>4.23077</period>
+				<mass errorminus="0.01" errorplus="0.06">0.46</mass>
+				<period>4.231</period>
 				<semimajoraxis>0.052</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>79</inclination>
-				<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon.</description>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="19" errorplus="10">80</inclination>
+				<radius lowerlimit="1.6" />
+				<periastron>0</periastron>
+				<periastrontime unit="BJD">2456021.256</periastrontime>
+				<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon. The lower limit for the radius is given for the limit of a perfectly-reflecting Lambert sphere.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/07</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>1995</discoveryyear>
 				<temperature>1260.3</temperature>
 			</planet>
-			<name>51 Peg</name>
 			<temperature>5793.0</temperature>
 		</star>
 	</system>
@@ -8806,16 +8817,16 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<star>
 				<name>HAT-P-7 A</name>
 				<spectraltype>F6</spectraltype>
-				<mass>1.4150</mass>
-				<radius>1.9276</radius>
+				<mass errorminus="0.03" errorplus="0.03">1.59</mass>
+				<radius errorminus="0.01" errorplus="0.01">2.02</radius>
 				<magV errorminus="0.05" errorplus="0.05">10.48</magV>
 				<magB errorminus="0.06" errorplus="0.06">10.97</magB>
 				<magJ errorminus="0.030" errorplus="0.030">9.555</magJ>
 				<magH errorminus="0.029" errorplus="0.029">9.344</magH>
 				<magK errorminus="0.018" errorplus="0.018">9.334</magK>
-				<temperature errorminus="32" errorplus="32">6259</temperature>
-				<age>2.2082</age>
-				<metallicity>0.26</metallicity>
+				<temperature errorminus="15" errorplus="15">6310</temperature>
+				<age errorminus="0.100" errorplus="0.100">1.770</age>
+				<metallicity errorminus="0.04" errorplus="0.04">0.32</metallicity>
 				<planet>
 					<name>HAT-P-7 b</name>
 					<name>HAT-P-7 A b</name>
@@ -8834,9 +8845,10 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 					<semimajoraxis>0.0379</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
 					<inclination>83.111</inclination>
-					<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect suggest that this planet is in a retrograde orbit. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
+					<spinorbitalignment errorminus="13" errorplus="14">157</spinorbitalignment>
+					<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect combined with determination of the stellar equator suggest an inclination of 120 degrees to the stellar equator. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
 					<discoverymethod>transit</discoverymethod>
-					<lastupdate>13/01/24</lastupdate>
+					<lastupdate>15/05/24</lastupdate>
 					<discoveryyear>2008</discoveryyear>
 					<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454342.42691</transittime>
 					<istransiting>1</istransiting>
@@ -10535,23 +10547,39 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-07 59 44</declination>
 		<distance>90</distance>
 		<star>
-			<mass>2.17</mass>
+			<mass>2.09</mass>
 			<radius>20.9</radius>
 			<magV>4.66</magV>
 			<magB>5.904</magB>
-			<metallicity>0.19</metallicity>
+			<metallicity>0.14</metallicity>
 			<spectraltype>K2III</spectraltype>
 			<planet>
 				<name>HD 110014 b</name>
 				<list>Confirmed planets</list>
-				<mass>11.09</mass>
-				<period>835.477</period>
-				<semimajoraxis>2.14</semimajoraxis>
-				<eccentricity>0.462</eccentricity>
+				<mass errorminus="1.0" errorplus="1.0">10.7</mass>
+				<period errorminus="21.5" errorplus="21.5">882.6</period>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">2.31</semimajoraxis>
+				<eccentricity errorminus="0.1" errorplus="0.1">0.26</eccentricity>
+				<periastron errorminus="15.5" errorplus="15.5">47.72</periastron>
+				<periastrontime errorminus="50.2" errorplus="50.2">2453739.4</periastrontime>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>09/07/31</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2009</discoveryyear>
-				<temperature>603.9</temperature>
+				<description>HD 110014 b is a planet in an eccentric orbit around a red giant star.</description>
+			</planet>
+			<planet>
+				<name>HD 110014 c</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.4" errorplus="0.4">3.1</mass>
+				<period errorminus="0.9" errorplus="0.9">130.0</period>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.64</semimajoraxis>
+				<eccentricity errorminus="0.2" errorplus="0.2">0.44</eccentricity>
+				<periastron errorminus="19.9" errorplus="19.9">307.6</periastron>
+				<periastrontime errorminus="3.78" errorplus="3.78">2454031.3</periastrontime>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/05/24</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<description>The planet HD 110014 c was discovered by the Reanalysis of Archival FEROS specTra (RAFT) program. The outer planet HD 110014 b was already known.</description>
 			</planet>
 			<name>HD 110014</name>
 			<temperature>4445.0</temperature>
@@ -11139,26 +11167,28 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-67 38 50</declination>
 		<distance>66.5</distance>
 		<star>
-			<mass>1.91</mass>
+			<mass>2.31</mass>
 			<radius>13</radius>
 			<magV>4.7</magV>
 			<magB>5.614</magB>
 			<magJ errorminus="0.01" errorplus="0.01">3.046</magJ>
 			<magH errorminus="0.01" errorplus="0.01">2.594</magH>
 			<magK errorminus="0.01" errorplus="0.01">2.486</magK>
-			<metallicity>-0.21</metallicity>
-			<spectraltype>G8.5 III</spectraltype>
+			<metallicity>-0.16</metallicity>
+			<spectraltype>G5 III</spectraltype>
 			<planet>
 				<name>HD 11977 b</name>
 				<list>Confirmed planets</list>
-				<mass>6.54</mass>
-				<period>711</period>
-				<semimajoraxis>1.93</semimajoraxis>
-				<eccentricity>0.4</eccentricity>
+				<mass errorminus="0.2" errorplus="0.2">6.5</mass>
+				<period errorminus="2.4" errorplus="2.4">621.6</period>
+				<semimajoraxis errorminus="0.005" errorplus="0.005">1.89</semimajoraxis>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.3</eccentricity>
+				<periastron errorminus="5.8" errorplus="5.8">35.5</periastron>
+				<periastrontime errorminus="10" errorplus="10">2452906.6</periastrontime>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/29</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2005</discoveryyear>
-				<temperature>563.4</temperature>
+				<description>HD 11977 b was the first planet confirmed to be orbiting an intermediate-mass star.</description>
 			</planet>
 			<name>HD 11977</name>
 			<temperature>4975.0</temperature>
@@ -11235,26 +11265,27 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-27 25 47</declination>
 		<distance>135</distance>
 		<star>
-			<mass>1.39</mass>
+			<mass>1.68</mass>
 			<radius>22.9</radius>
 			<magV>5.48</magV>
 			<magB>6.827</magB>
 			<magJ errorminus="0.272" errorplus="0.272">3.080</magJ>
 			<magH errorminus="0.216" errorplus="0.216">2.373</magH>
 			<magK errorminus="0.294" errorplus="0.294">2.261</magK>
-			<metallicity>-0.05</metallicity>
+			<metallicity>-0.09</metallicity>
 			<spectraltype>K3III</spectraltype>
 			<planet>
 				<name>HD 122430 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>3.71</mass>
 				<period>344.95</period>
 				<semimajoraxis>1.02</semimajoraxis>
 				<eccentricity>0.68</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/22</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2003</discoveryyear>
 				<temperature>868.8</temperature>
+				<description>The planet candidate HD 122430 b was not confirmed in follow-up measurements (Soto et al. 2015)</description>
 			</planet>
 			<name>HD 122430</name>
 			<temperature>4300.0</temperature>
@@ -19309,35 +19340,38 @@ Image credit: Vanessa Bailey</imagedescription>
 		<declination>-32 20 23</declination>
 		<distance>121.36</distance>
 		<star>
-			<mass>0.94</mass>
+			<mass>0.99</mass>
 			<radius>23.47</radius>
 			<magV>5.25</magV>
 			<magJ errorminus="0.27" errorplus="0.27">3.179</magJ>
 			<magH errorminus="0.21" errorplus="0.21">2.471</magH>
 			<magK errorminus="0.252" errorplus="0.252">2.383</magK>
 			<magB errorminus="0.01" errorplus="0.01">6.43</magB>
-			<metallicity>-0.68</metallicity>
+			<metallicity>-0.65</metallicity>
 			<spectraltype>K1 III</spectraltype>
 			<planet>
 				<name>HD 47536 b</name>
 				<list>Confirmed planets</list>
-				<mass>5</mass>
-				<period>430</period>
-				<semimajoraxis>1.61</semimajoraxis>
-				<eccentricity>0.2</eccentricity>
+				<mass errorminus="0.4" errorplus="0.4">4.0</mass>
+				<period errorminus="2.6" errorplus="2.6">434.9</period>
+				<semimajoraxis errorminus="0.005" errorplus="0.005">1.12</semimajoraxis>
+				<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
+				<periastron errorminus="17.3" errorplus="17.3">268.6</periastron>
+				<periastrontime errorminus="30" errorplus="30">2453040.8</periastrontime>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/21</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2003</discoveryyear>
-				<temperature>735.5</temperature>
+				<description>The planet HD 47536 b orbits a metal-poor red giant star.</description>
 			</planet>
 			<planet>
 				<name>HD 47536 c</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>7</mass>
 				<period>2500</period>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/21</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2007</discoveryyear>
+				<description>The planet candidate HD 47536 c was not confirmed in follow-up measurements (Soto et al. 2015).</description>
 			</planet>
 			<name>HD 47536</name>
 			<temperature>4380.0</temperature>
@@ -20194,15 +20228,16 @@ Image credit: Vanessa Bailey</imagedescription>
 			<spectraltype>G1-1.5V</spectraltype>
 			<planet>
 				<name>HD 70573 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>6.1</mass>
 				<period>851.8</period>
 				<semimajoraxis>1.76</semimajoraxis>
 				<eccentricity>0.4</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>08/01/18</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>167.4</temperature>
+				<description>The planet candidate HD 70573 b was not confirmed in follow-up measurements (Soto et al. 2015).</description>
 			</planet>
 			<name>HD 70573</name>
 			<temperature>5737.0</temperature>
@@ -23112,13 +23147,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<mass errorminus="0.003146" errorplus="0.002831">0.015099</mass>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/06/06</lastupdate>
-				<list>Confirmed planets</list>
-				<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability.</description>
-				<image>Kapteyn</image>
-				<imagedescription>This image shows an artists conception of the 11 billion year old planet Kapteyn b. 
-			
-Credit: Joe Gallagher.</imagedescription>
+				<lastupdate>15/05/24</lastupdate>
+				<list>Controversial</list>
+				<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability. Analysis by Robertson et al. (2015) indicates that the radial velocity signature attributed to this planet is an artifact of stellar activity.</description>
 			</planet>
 			<planet>
 				<name>Kapteyn c</name>
@@ -33045,8 +33076,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<name>Kepler-25</name>
 			<name>KOI-244</name>
 			<name>KIC 4349452</name>
-			<mass>1.22</mass>
-			<radius>1.36</radius>
+			<mass errorminus="0.03" errorplus="0.03">1.26</mass>
+			<radius errorminus="0.01" errorplus="0.01">1.34</radius>
 			<magB errorminus="0.07" errorplus="0.07">11.32</magB>
 			<magV errorminus="0.06" errorplus="0.06">10.77</magV>
 			<magR errorminus="0.021" errorplus="0.021">10.598</magR>
@@ -33054,7 +33085,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<magH errorminus="0.020" errorplus="0.020">9.532</magH>
 			<magK errorminus="0.017" errorplus="0.017">9.493</magK>
 			<spectraltype>F</spectraltype>
-			<temperature>6190.0</temperature>
+			<temperature errorminus="27" errorplus="27">6354</temperature>
+			<age errorminus="0.300" errorplus="0.300">2.750</age>
+			<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
 			<planet>
 				<name>Kepler-25 b</name>
 				<name>KIC 4349452 b</name>
@@ -33082,9 +33115,10 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 				<period>12.72</period>
 				<semimajoraxis>0.110</semimajoraxis>
 				<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2454986.0871</transittime>
-				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
+				<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. The orbit is aligned at 26.9 degrees from the stellar equator.</description>
+				<spinorbitalignment errorminus="7.1" errorplus="7.1">9.4</spinorbitalignment>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/08/06</lastupdate>
+				<lastupdate>15/05/24</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<temperature>959.7</temperature>
 				<istransiting>1</istransiting>
@@ -43406,42 +43440,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 	</system>
 	<system>
-		<name>Kepler-423</name>
-		<rightascension>19 31 25</rightascension>
-		<declination>+46 23 28</declination>
-		<distance>808.63</distance>
-		<star>
-			<name>Kepler-423</name>
-			<name>KOI-183</name>
-			<name>KIC 9651668</name>
-			<magJ errorminus="0.023" errorplus="0.023">13.142</magJ>
-			<magH errorminus="0.018" errorplus="0.018">12.847</magH>
-			<magK errorminus="0.03" errorplus="0.03">12.78</magK>
-			<temperature errorminus="86.00" errorplus="86.00">5976.00</temperature>
-			<radius errorminus="0.054" errorplus="0.054">0.99</radius>
-			<mass errorminus="0.05" errorplus="0.05">1.07</mass>
-			<age errorminus="2.5000" errorplus="2.5000">0.3000</age>
-			<planet>
-				<name>Kepler-423 b</name>
-				<name>KOI-183 b</name>
-				<name>KOI-183.01</name>
-				<name>KIC 9651668 b</name>
-				<radius errorminus="0.065" errorplus="0.065">1.2</radius>
-				<period errorminus="0.000000082" errorplus="0.000000082">2.68432848</period>
-				<transittime errorminus="0.000026" errorplus="0.000026" unit="BJD">2454966.3548</transittime>
-				<eccentricity>0.01</eccentricity>
-				<mass errorminus="0.12" errorplus="0.12">0.2</mass>
-				<semimajoraxis errorminus="0.003" errorplus="0.003">0.0396</semimajoraxis>
-				<list>Confirmed planets</list>
-				<description>Kepler-423 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-183 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>14/09/30</lastupdate>
-				<discoveryyear>2014</discoveryyear>
-			</planet>
-		</star>
-	</system>
-	<system>
 		<name>Kepler-424</name>
 		<rightascension>19 54 29</rightascension>
 		<declination>+48 34 38</declination>
@@ -49064,17 +49062,17 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<magH errorminus="0.019" errorplus="0.019">11.089</magH>
 			<magK errorminus="0.011" errorplus="0.011">11.081</magK>
 			<name>KOI-368</name>
+			<name>KIC 6693943</name>
 			<metallicity errorminus="0.1" errorplus="0.1">0.4</metallicity>
 			<temperature errorminus="200.00" errorplus="200.00">9257.00</temperature>
 			<radius errorminus="0.1" errorplus="0.1">2.5</radius>
 			<mass errorminus="0.1" errorplus="0.1">2.3</mass>
 			<age errorminus="0.07" errorplus="0.07">0.25</age>
 			<planet>
-				<name>KOI-368 b</name>
 				<name>KOI-368.01</name>
-				<name>KOI-368 b</name>
-				<name>KOI-368 01</name>
-				<list>Confirmed planets</list>
+				<name>KOI-368 B</name>
+				<name>KIC 6693943 B</name>
+				<list>Controversial</list>
 				<period errorminus="0.000006" errorplus="0.000003">110.321611</period>
 				<transittime errorminus="0.00001" errorplus="0.00001">24541030.36451</transittime>
 				<inclination errorminus="0.007" errorplus="0.003">89.215</inclination>
@@ -49082,7 +49080,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<semimajoraxis errorminus="0.2" errorplus="0.2">0.6</semimajoraxis>
 				<spinorbitalignment errorminus="2" errorplus="2">10</spinorbitalignment>
 				<eccentricity errorminus="0.07" errorplus="0.18">0.07</eccentricity>
-				<description>The planet KOI-368 b was flagged by the Kepler team as a planet candidate. A new study by Zhou and Huang has now excluded blend scenarios and argues that the object has to be of substellar nature. The planet has a very high obliquity of 64 degrees. KOI-368 is the hottest host star to date for systems with spin-orbit measurements.</description>
+				<temperature errorminus="50" errorplus="50">3060</temperature>
+				<description>KOI-368.01 was flagged by the Kepler team as a planet candidate. The secondary eclipse measurement by Zhou and Huang (2013) indicates that this object has a temperature consistent with it being an M-dwarf star. Contrary to the Zhou and Huang result, Ahlers et al. (2014) find that the orbit is likely well-aligned with the stellar equator.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/07/10</lastupdate>
 				<discoveryyear>2013</discoveryyear>
