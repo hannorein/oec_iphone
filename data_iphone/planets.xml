@@ -1141,8 +1141,8 @@
 		<id>55 Cnc e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.02561</mass>
-			<radius>0.1813</radius>
+			<mass>0.0254</mass>
+			<radius>0.171</radius>
 			<orbit>
 				<period>0.7365515</period>
 				<semimajoraxis>0.015690907</semimajoraxis>
@@ -1171,8 +1171,8 @@
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>12/05/11</lastupdate>
-		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+		<lastupdate>15/06/08</lastupdate>
+		<description>55 Cancri e is a super-Earth which appears to exhibit extreme variations in brightness temperature. The cause of these variations is unknown but may be due to large-scale volcanic activity on the planet. The latest estimates of the planetary radius are compatible with a rocky composition, but a thick water envelope or a carbon-rich composition cannot be ruled out.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -4049,13 +4049,13 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>CT Cha b</id_exoplaneteu>
-		<name>CT Cha b</name>
-		<id>CT Cha b</id>
+		<id_exoplaneteu>CT Cha B</id_exoplaneteu>
+		<name>CT Cha B</name>
+		<id>CT Cha B</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>17</mass>
-			<radius>2.2</radius>
+			<mass />
+			<radius>2.4</radius>
 			<orbit>
 				<period />
 				<semimajoraxis />
@@ -4068,11 +4068,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype>K7</spectraltype>
-			<mass>17</mass>
-			<radius>2.2</radius>
+			<mass />
+			<radius>2.4</radius>
 			<metallicity />
 			<distance>165</distance>
-			<temperature>2600</temperature>
+			<temperature>2500</temperature>
 			<rightascension>11 04 09</rightascension>
 			<declination>-76 27 19</declination>
 			<angulardistance />
@@ -4084,8 +4084,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/09/24</lastupdate>
-		<description>CT Chamaeleontis is a pre-main sequence T Tauri star. The companion might be a brown dwarf due to its large mass.</description>
+		<lastupdate>15/06/08</lastupdate>
+		<description>CT Chamaeleontis is a pre-main sequence T Tauri star. The companion might be a brown dwarf due to its large mass. There is evidence for material accreting onto the object at around 6&#215;10^-10 solar masses per year.</description>
 		<new />
 		<image>CT Cha</image>
 		<imagedescription>This image shows the young star CT Cha and a companion (on the right). Due to its large mass it is currently unclear if the companion is a planet or brown dwarf. Credit: Tobias Schmidt (AIU Jena).</imagedescription>
@@ -9010,25 +9010,25 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.2756</mass>
+			<mass>2.6697</mass>
 			<radius />
 			<orbit>
-				<period>61.1166</period>
-				<semimajoraxis>0.208317</semimajoraxis>
-				<eccentricity>0.0324</eccentricity>
-				<inclination>59</inclination>
-				<periastron>50.3</periastron>
-				<longitude>325.7</longitude>
-				<ascendingnode />
+				<period>61.087</period>
+				<semimajoraxis>0.218589</semimajoraxis>
+				<eccentricity>0.0340</eccentricity>
+				<inclination>52.82</inclination>
+				<periastron>112.27</periastron>
+				<longitude>-174.64</longitude>
+				<ascendingnode>0</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
-			<metallicity>0.05</metallicity>
-			<distance>4.7</distance>
-			<temperature>194.2</temperature>
+			<mass>0.37</mass>
+			<radius>0.3761</radius>
+			<metallicity>0.19</metallicity>
+			<distance>4.69</distance>
+			<temperature>3129</temperature>
 			<rightascension>22 53 13</rightascension>
 			<declination>-14 15 13</declination>
 			<angulardistance />
@@ -9040,7 +9040,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>15/06/08</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new />
 		<image />
@@ -9056,25 +9056,25 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.7142</mass>
+			<mass>0.8429</mass>
 			<radius />
 			<orbit>
-				<period>30.0881</period>
-				<semimajoraxis>0.129590</semimajoraxis>
-				<eccentricity>0.25591</eccentricity>
-				<inclination>59</inclination>
-				<periastron>48.76</periastron>
-				<longitude>294.59</longitude>
-				<ascendingnode />
+				<period>30.0766</period>
+				<semimajoraxis>0.135985</semimajoraxis>
+				<eccentricity>0.2539</eccentricity>
+				<inclination>53.06</inclination>
+				<periastron>117.12</periastron>
+				<longitude>-104.60</longitude>
+				<ascendingnode>-1.29</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
-			<metallicity>0.05</metallicity>
-			<distance>4.7</distance>
-			<temperature>194.2</temperature>
+			<mass>0.37</mass>
+			<radius>0.3761</radius>
+			<metallicity>0.19</metallicity>
+			<distance>4.69</distance>
+			<temperature>3129</temperature>
 			<rightascension>22 53 13</rightascension>
 			<declination>-14 15 13</declination>
 			<angulardistance />
@@ -9086,7 +9086,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>15/06/08</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new />
 		<image />
@@ -9102,25 +9102,25 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.021</mass>
+			<mass>0.0217</mass>
 			<radius />
 			<orbit>
-				<period>1.937780</period>
-				<semimajoraxis>0.02080665</semimajoraxis>
-				<eccentricity>0.207</eccentricity>
-				<inclination>59</inclination>
-				<periastron>234</periastron>
-				<longitude>355</longitude>
+				<period>1.937870</period>
+				<semimajoraxis>0.02183930</semimajoraxis>
+				<eccentricity>0.108</eccentricity>
+				<inclination>88.26</inclination>
+				<periastron>162.52</periastron>
+				<longitude>162.28</longitude>
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
-			<metallicity>0.05</metallicity>
-			<distance>4.7</distance>
-			<temperature>194.2</temperature>
+			<mass>0.37</mass>
+			<radius>0.3761</radius>
+			<metallicity>0.19</metallicity>
+			<distance>4.69</distance>
+			<temperature>3129</temperature>
 			<rightascension>22 53 13</rightascension>
 			<declination>-14 15 13</declination>
 			<angulardistance />
@@ -9132,7 +9132,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>15/06/08</lastupdate>
 		<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 		<new />
 		<image />
@@ -9148,25 +9148,25 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 876 e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.046</mass>
+			<mass>0.05399</mass>
 			<radius />
 			<orbit>
-				<period>124.26</period>
+				<period>124.72</period>
 				<semimajoraxis>0.3343</semimajoraxis>
-				<eccentricity>0.055</eccentricity>
-				<inclination>59</inclination>
-				<periastron>239</periastron>
-				<longitude>335</longitude>
-				<ascendingnode />
+				<eccentricity>0.031</eccentricity>
+				<inclination>53.29</inclination>
+				<periastron>-54.2</periastron>
+				<longitude>-42.46</longitude>
+				<ascendingnode>-1.29</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M4 V</spectraltype>
-			<mass>0.32</mass>
-			<radius>0.3</radius>
-			<metallicity>0.05</metallicity>
-			<distance>4.7</distance>
-			<temperature>194.2</temperature>
+			<mass>0.37</mass>
+			<radius>0.3761</radius>
+			<metallicity>0.19</metallicity>
+			<distance>4.69</distance>
+			<temperature>3129</temperature>
 			<rightascension>22 53 13</rightascension>
 			<declination>-14 15 13</declination>
 			<angulardistance />
@@ -9178,7 +9178,7 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>13/05/11</lastupdate>
+		<lastupdate>15/06/08</lastupdate>
 		<description />
 		<new />
 		<image>Gliese876e</image>
@@ -32623,47 +32623,136 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HU Aqr(AB) c</id_exoplaneteu>
-		<name>HU Aqr(AB) c</name>
-		<id>HU Aqr(AB) c</id>
+		<id_exoplaneteu>HU Aqr (AB) b</id_exoplaneteu>
+		<name>HU Aqr (AB) b</name>
+		<id>HU Aqr (AB) b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>5.9</mass>
+			<mass>4.758</mass>
 			<radius />
 			<orbit>
-				<period>5646</period>
-				<semimajoraxis>6.18</semimajoraxis>
-				<eccentricity>0.29</eccentricity>
-				<inclination />
-				<periastron />
+				<period />
+				<semimajoraxis>3.602</semimajoraxis>
+				<eccentricity>0.0218</eccentricity>
+				<inclination>90</inclination>
+				<periastron>173.01</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>0</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>Catac. var.</spectraltype>
-			<mass>1</mass>
+			<spectraltype>WD</spectraltype>
+			<mass>0.80</mass>
 			<radius />
 			<metallicity />
 			<distance />
-			<temperature>101.9</temperature>
+			<temperature />
 			<rightascension>21 07 58</rightascension>
 			<declination>-05 17 41</declination>
 			<angulardistance />
-			<magV>15</magV>
+			<magV>15.0</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/05/22</lastupdate>
-		<description />
+		<lastupdate>15/05/24</lastupdate>
+		<description>The eclipse timing data for HU Aquarii does not allow for any stable coplanar 2-planet systems and is not sufficient to uniquely constrain a stable 3-planet system. The data given here are for a stable coplanar 3-planet system where the middle planet orbits in a retrograde direction. The eclipse timing variations may be due to the Applegate mechanism rather than reflex motion due to circumbinary planets: the luminosity variations associated with this mechanism may be smoothed out by the long thermal timescale of the stellar convection zone.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Controversial</list>
+		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HU Aqr (AB) c</id_exoplaneteu>
+		<name>HU Aqr (AB) c</name>
+		<id>HU Aqr (AB) c</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>20.20</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>6.557</semimajoraxis>
+				<eccentricity>0.1365</eccentricity>
+				<inclination>90</inclination>
+				<periastron>10.77</periastron>
+				<longitude />
+				<ascendingnode>180</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>WD</spectraltype>
+			<mass>0.80</mass>
+			<radius />
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>21 07 58</rightascension>
+			<declination>-05 17 41</declination>
+			<angulardistance />
+			<magV>15.0</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>15/05/24</lastupdate>
+		<description>The eclipse timing data for HU Aquarii does not allow for any stable coplanar 2-planet systems and is not sufficient to uniquely constrain a stable 3-planet system. The data given here are for a stable coplanar 3-planet system where the middle planet orbits in a retrograde direction. The eclipse timing variations may be due to the Applegate mechanism rather than reflex motion due to circumbinary planets: the luminosity variations associated with this mechanism may be smoothed out by the long thermal timescale of the stellar convection zone.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HU Aqr (AB) d</id_exoplaneteu>
+		<name>HU Aqr (AB) d</name>
+		<id>HU Aqr (AB) d</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>80.00</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis>12.887</semimajoraxis>
+				<eccentricity>0.0158</eccentricity>
+				<inclination>90</inclination>
+				<periastron>311.94</periastron>
+				<longitude />
+				<ascendingnode>0</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>WD</spectraltype>
+			<mass>0.80</mass>
+			<radius />
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>21 07 58</rightascension>
+			<declination>-05 17 41</declination>
+			<angulardistance />
+			<magV>15.0</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>15/05/24</lastupdate>
+		<description>The eclipse timing data for HU Aquarii does not allow for any stable coplanar 2-planet systems and is not sufficient to uniquely constrain a stable 3-planet system. The data given here are for a stable coplanar 3-planet system where the middle planet orbits in a retrograde direction. The eclipse timing variations may be due to the Applegate mechanism rather than reflex motion due to circumbinary planets: the luminosity variations associated with this mechanism may be smoothed out by the long thermal timescale of the stellar convection zone.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HW Vir (AB) b</id_exoplaneteu>
@@ -86302,13 +86391,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>TrES-4 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.917</mass>
-			<radius>1.706</radius>
+			<mass>0.494</mass>
+			<radius>1.838</radius>
 			<orbit>
-				<period>3.5539268</period>
-				<semimajoraxis>0.05084</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>82.81</inclination>
+				<period>3.55392771</period>
+				<semimajoraxis>0.0516</semimajoraxis>
+				<eccentricity />
+				<inclination>83.07</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -86316,11 +86405,11 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>F8</spectraltype>
-			<mass>1.339</mass>
+			<mass>1.45</mass>
 			<radius>1.81</radius>
-			<metallicity>0.001</metallicity>
+			<metallicity>0.28</metallicity>
 			<distance>485</distance>
-			<temperature>6200</temperature>
+			<temperature>6295</temperature>
 			<rightascension>17 53 13</rightascension>
 			<declination>+37 12 42</declination>
 			<angulardistance />
@@ -86332,7 +86421,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>13/01/27</lastupdate>
+		<lastupdate>15/06/08</lastupdate>
 		<description>The planet TrES-4 b was discovered by the Trans-Atlantic Exoplanet Survey and is located in the constellation Hercules. The host star is a member of a binary system.</description>
 		<new />
 		<image />
