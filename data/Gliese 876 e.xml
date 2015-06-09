@@ -7,25 +7,25 @@
 	<id>Gliese 876 e</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.046</mass>
+		<mass>0.05399</mass>
 		<radius />
 		<orbit>
-			<period>124.26</period>
+			<period>124.72</period>
 			<semimajoraxis>0.3343</semimajoraxis>
-			<eccentricity>0.055</eccentricity>
-			<inclination>59</inclination>
-			<periastron>239</periastron>
-			<longitude>335</longitude>
-			<ascendingnode />
+			<eccentricity>0.031</eccentricity>
+			<inclination>53.29</inclination>
+			<periastron>-54.2</periastron>
+			<longitude>-42.46</longitude>
+			<ascendingnode>-1.29</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>M4 V</spectraltype>
-		<mass>0.32</mass>
-		<radius>0.3</radius>
-		<metallicity>0.05</metallicity>
-		<distance>4.7</distance>
-		<temperature>194.2</temperature>
+		<mass>0.37</mass>
+		<radius>0.3761</radius>
+		<metallicity>0.19</metallicity>
+		<distance>4.69</distance>
+		<temperature>3129</temperature>
 		<rightascension>22 53 13</rightascension>
 		<declination>-14 15 13</declination>
 		<angulardistance />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>4</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>13/05/11</lastupdate>
+	<lastupdate>15/06/08</lastupdate>
 	<description />
 	<new />
 	<image>Gliese876e</image>

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HU Aqr (AB) b</id_exoplaneteu>
+	<name>HU Aqr (AB) b</name>
+	<id>HU Aqr (AB) b</id>
+	<discoverymethod>timing</discoverymethod>
+	<properties>
+		<mass>4.758</mass>
+		<radius />
+		<orbit>
+			<period />
+			<semimajoraxis>3.602</semimajoraxis>
+			<eccentricity>0.0218</eccentricity>
+			<inclination>90</inclination>
+			<periastron>173.01</periastron>
+			<longitude />
+			<ascendingnode>0</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>WD</spectraltype>
+		<mass>0.80</mass>
+		<radius />
+		<metallicity />
+		<distance />
+		<temperature />
+		<rightascension>21 07 58</rightascension>
+		<declination>-05 17 41</declination>
+		<angulardistance />
+		<magV>15.0</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2011</discoveryyear>
+	<lastupdate>15/05/24</lastupdate>
+	<description>The eclipse timing data for HU Aquarii does not allow for any stable coplanar 2-planet systems and is not sufficient to uniquely constrain a stable 3-planet system. The data given here are for a stable coplanar 3-planet system where the middle planet orbits in a retrograde direction. The eclipse timing variations may be due to the Applegate mechanism rather than reflex motion due to circumbinary planets: the luminosity variations associated with this mechanism may be smoothed out by the long thermal timescale of the stellar convection zone.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+	<list>Planets in binary systems, P-type</list>
+</planet>
