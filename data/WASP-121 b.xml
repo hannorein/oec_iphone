@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-121 b</id_exoplaneteu>
+	<name>WASP-121 b</name>
+	<name>2MASS 07102406-3905506 b</name>
+	<name>TYC 7630-352-1 b</name>
+	<id>WASP-121 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.183</mass>
+		<radius>1.807</radius>
+		<orbit>
+			<period>1.2749255</period>
+			<semimajoraxis>0.02544</semimajoraxis>
+			<eccentricity />
+			<inclination>87.6</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F6 V</spectraltype>
+		<mass>1.353</mass>
+		<radius>1.458</radius>
+		<metallicity>0.13</metallicity>
+		<distance>270</distance>
+		<temperature>6459</temperature>
+		<rightascension>07 10 24.058</rightascension>
+		<declination>-39 05 50.55</declination>
+		<angulardistance />
+		<magV>10.51</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/06/08</lastupdate>
+	<description>This planet is a remarkable short-period transiting hot Jupiter discovered by the WASP-South survey in close collaboration with the Euler TRAPPIST telescopes.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,15 +1,18 @@
 <planet>
-	<id_exoplaneteu>KOI-285.03</id_exoplaneteu>
+	<id_exoplaneteu>KOI-285 d</id_exoplaneteu>
+	<name>KOI-285 d</name>
 	<name>KOI-285.03</name>
-	<id>KOI-285.03</id>
+	<name>Kepler-92 d</name>
+	<name>KIC 6196457 d</name>
+	<id>KOI-285 d</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.16768</radius>
+		<radius>0.1844</radius>
 		<orbit>
-			<period>49.358990000000</period>
+			<period>49.3568</period>
 			<semimajoraxis>0.2780000</semimajoraxis>
-			<eccentricity />
+			<eccentricity>0.07</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -18,11 +21,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.17</mass>
-		<radius>1.53</radius>
+		<mass>1.209</mass>
+		<radius>1.719</radius>
 		<metallicity />
 		<distance>367.56</distance>
-		<temperature>5883.00</temperature>
+		<temperature>5883</temperature>
 		<rightascension>19 16 21</rightascension>
 		<declination>+41 33 47</declination>
 		<angulardistance />
@@ -34,10 +37,10 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/25</lastupdate>
+	<lastupdate>15/06/09</lastupdate>
 	<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Kepler Objects of Interest</list>
+	<list>Confirmed planets</list>
 </planet>

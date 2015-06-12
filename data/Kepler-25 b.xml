@@ -8,11 +8,11 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.2369387</radius>
+		<radius>0.2411</radius>
 		<orbit>
-			<period>6.238</period>
+			<period>6.2385369</period>
 			<semimajoraxis>0.068</semimajoraxis>
-			<eccentricity />
+			<eccentricity>0.05</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/06</lastupdate>
+	<lastupdate>15/06/09</lastupdate>
 	<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 	<new />
 	<image />

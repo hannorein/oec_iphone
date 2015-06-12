@@ -1,0 +1,49 @@
+<planet>
+	<id_exoplaneteu>2M 1938+4603 b</id_exoplaneteu>
+	<name>2M 1938+4603 b</name>
+	<name>2M 1938+4603 (AB) b</name>
+	<name>Kepler-451 b</name>
+	<name>Kepler-451 (AB) b</name>
+	<name>KIC 9472174 b</name>
+	<name>KIC 9472174 (AB) b</name>
+	<id>2M 1938+4603 b</id>
+	<discoverymethod>timing</discoverymethod>
+	<properties>
+		<mass>1.9</mass>
+		<radius />
+		<orbit>
+			<period>416</period>
+			<semimajoraxis>0.92</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>sdBV</spectraltype>
+		<mass>0.48</mass>
+		<radius>0.223</radius>
+		<metallicity />
+		<distance />
+		<temperature>29564</temperature>
+		<rightascension>19 38 32.6</rightascension>
+		<declination>+46 03 59</declination>
+		<angulardistance />
+		<magV>12.69</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/06/11</lastupdate>
+	<description>2M 1938+4603 is an eclipsing post-common envelope binary in the Kepler field. Variations in the timing of the eclipses of the binary star have been used to infer the presence of a giant planet in a circumbinary orbit.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
+</planet>

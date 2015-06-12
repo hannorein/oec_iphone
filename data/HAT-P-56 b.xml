@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>HAT-P-56 b</id_exoplaneteu>
+	<name>HAT-P-56 b</name>
+	<name>GSC 1901-00976 b</name>
+	<name>2MASS 06432353+2715082 b</name>
+	<name>EPIC 202126852 b</name>
+	<name>HD 262389 b</name>
+	<id>HAT-P-56 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.18</mass>
+		<radius>1.466</radius>
+		<orbit>
+			<period>2.7908327</period>
+			<semimajoraxis>0.04230</semimajoraxis>
+			<eccentricity />
+			<inclination>82.13</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.296</mass>
+		<radius>1.428</radius>
+		<metallicity />
+		<distance>310.5</distance>
+		<temperature>6566</temperature>
+		<rightascension>06 43 23.52950</rightascension>
+		<declination>+27 15 08.2182</declination>
+		<angulardistance />
+		<magV>10.908</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/06/05</lastupdate>
+	<description>This planet was discovered by the HATNet transit survey. The star is located in field 0 of the NASA's K2 mission. The planet is a inflated hot Jupiter and transits its host star on a near-grazing orbit. The radius is among the largest known for a planet with a mass grater two Jupiter masses.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

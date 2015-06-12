@@ -8,12 +8,12 @@
 	<id>Kepler-68 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.02610931</mass>
-		<radius>0.2105109</radius>
+		<mass>0.026</mass>
+		<radius>0.206</radius>
 		<orbit>
 			<period>5.398763</period>
 			<semimajoraxis>0.06170</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity>0.02</eccentricity>
 			<inclination>87.60</inclination>
 			<periastron />
 			<longitude />
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/02/13</lastupdate>
+	<lastupdate>15/06/09</lastupdate>
 	<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 b has a density intermediate between that of ice giants and Earth.</description>
 	<new />
 	<image />

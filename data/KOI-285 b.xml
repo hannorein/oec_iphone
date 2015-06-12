@@ -7,12 +7,12 @@
 	<id>KOI-285 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.202310599</mass>
-		<radius>0.314</radius>
+		<mass />
+		<radius>0.326</radius>
 		<orbit>
-			<period>13.749</period>
+			<period>13.748933</period>
 			<semimajoraxis>0.11800</semimajoraxis>
-			<eccentricity />
+			<eccentricity>0.17</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -21,11 +21,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.17</mass>
-		<radius>1.53</radius>
+		<mass>1.209</mass>
+		<radius>1.719</radius>
 		<metallicity />
 		<distance>367.56</distance>
-		<temperature>5883.00</temperature>
+		<temperature>5883</temperature>
 		<rightascension>19 16 21</rightascension>
 		<declination>+41 33 47</declination>
 		<angulardistance />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>14/03/26</lastupdate>
+	<lastupdate>15/06/09</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 	<new />
 	<image />
