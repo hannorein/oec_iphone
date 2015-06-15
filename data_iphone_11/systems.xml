@@ -1,4 +1,4 @@
-<systems name="systems" planets="2023">
+<systems name="systems" planets="2026">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -8921,6 +8921,46 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HAT-P-55</name>
+		<rightascension>17 37 05.52</rightascension>
+		<declination>+25 43 52.3</declination>
+		<distance errorminus="19" errorplus="19">480</distance>
+		<star>
+			<name>HAT-P-55</name>
+			<name>GSC 2080-00517</name>
+			<name>2MASS 17370562+2543522</name>
+			<mass errorminus="0.037" errorplus="0.037">1.013</mass>
+			<radius errorminus="0.036" errorplus="0.036">1.011</radius>
+			<temperature errorminus="50" errorplus="50">5808</temperature>
+			<magB errorminus="0.039" errorplus="0.039">13.871</magB>
+			<magV errorminus="0.039" errorplus="0.039">13.207</magV>
+			<magI errorminus="0.140" errorplus="0.140">12.67</magI>
+			<magJ errorminus="0.022" errorplus="0.022">12.020</magJ>
+			<magH errorminus="0.026" errorplus="0.026">11.714</magH>
+			<magK errorminus="0.025" errorplus="0.025">11.627</magK>
+			<age errorminus="1.7" errorplus="1.7">4.2</age>
+			<metallicity errorminus="0.080" errorplus="0.080">-0.030</metallicity>
+			<planet>
+				<name>HAT-P-55 b</name>
+				<name>GSC 2080-00517 b</name>
+				<name>2MASS 17370562+2543522 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.056" errorplus="0.056">0.582</mass>
+				<radius errorminus="0.055" errorplus="0.055">1.182</radius>
+				<temperature errorminus="26" errorplus="26">1313</temperature>
+				<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.04604</semimajoraxis>
+				<eccentricity upperlimit="0.139" />
+				<inclination errorminus="0.56" errorplus="0.56">87.70</inclination>
+				<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2456730.83468</transittime>
+				<description>This planet was discovered by the HATNet transit survey. The planet is a typical hot Jupiter.</description>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>15/06/11</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HAT-P-56</name>
 		<rightascension>06 43 23.52950</rightascension>
 		<declination>+27 15 08.2182</declination>
@@ -11089,7 +11129,7 @@ Image credit: Vanessa Bailey</imagedescription>
 					<eccentricity>0.3354</eccentricity>
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>11/06/09</lastupdate>
-					<discoveryyear>1989</discoveryyear>
+					<discoveryyear>1992</discoveryyear>
 					<temperature>486.8</temperature>
 				</planet>
 				<name>HD 114762</name>
@@ -22396,6 +22436,48 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HIP 107773</name>
+		<rightascension>21 50 00.12563</rightascension>
+		<declination>-64 42 45.1275</declination>
+		<distance errorminus="4" errorplus="4">104</distance>
+		<star>
+			<name>HIP 107773</name>
+			<name>HR 8331</name>
+			<name>HD 207229</name>
+			<name>2MASS J21500013-6442451</name>
+			<name>PPM 365403</name>
+			<name>TYC 9119-2234-1</name>
+			<mass errorminus="0.27" errorplus="0.27">2.42</mass>
+			<radius errorminus="1.4" errorplus="1.4">11.6</radius>
+			<magB>6.632</magB>
+			<magV>5.628</magV>
+			<magJ errorminus="0.232" errorplus="0.232">3.942</magJ>
+			<magH errorminus="0.218" errorplus="0.218">3.366</magH>
+			<magK errorminus="0.250" errorplus="0.250">3.292</magK>
+			<spectraltype>K1III</spectraltype>
+			<temperature errorminus="100" errorplus="100">4945</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">0.03</metallicity>
+			<planet>
+				<name>HIP 107773 b</name>
+				<name>HR 8331 b</name>
+				<name>HD 207229 b</name>
+				<name>2MASS J21500013-6442451 b</name>
+				<name>PPM 365403 b</name>
+				<name>TYC 9119-2234-1 b</name>
+				<period errorminus="0.5" errorplus="0.5">144.3</period>
+				<periastrontime errorminus="12.8" errorplus="12.8">2456202.3</periastrontime>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.21" errorplus="0.21">1.98</mass>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">0.72</semimajoraxis>
+				<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/05/25</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HIP 116454</name>
 		<rightascension>23 35 49.281</rightascension>
 		<declination>+00 26 43.86</declination>
@@ -22779,6 +22861,47 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HIP 65891</name>
+		<rightascension>13 30 25.27310</rightascension>
+		<declination>-58 39 51.6746</declination>
+		<distance errorminus="11" errorplus="11">136</distance>
+		<star>
+			<name>HIP 65891</name>
+			<name>HD 117253</name>
+			<name>2MASS J13302527-5839517</name>
+			<name>PPM 341969</name>
+			<name>TYC 8674-592-1</name>
+			<mass errorminus="0.21" errorplus="0.21">2.5</mass>
+			<radius errorminus="1.02" errorplus="1.02">8.93</radius>
+			<magU>8.63</magU>
+			<magB>7.78</magB>
+			<magV>6.77</magV>
+			<magJ errorminus="0.037" errorplus="0.037">5.115</magJ>
+			<magH errorminus="0.076" errorplus="0.076">4.689</magH>
+			<magK errorminus="0.023" errorplus="0.023">4.453</magK>
+			<spectraltype>K0III</spectraltype>
+			<temperature errorminus="100" errorplus="100">5000</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">0.16</metallicity>
+			<planet>
+				<name>HIP 65891 b</name>
+				<name>HD 117253 b</name>
+				<name>2MASS J13302527-5839517 b</name>
+				<name>PPM 341969 b</name>
+				<name>TYC 8674-592-1 b</name>
+				<period errorminus="23.5" errorplus="23.5">1084.5</period>
+				<periastrontime errorminus="49.3" errorplus="49.3">2456014.8</periastrontime>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.49" errorplus="0.49">6.00</mass>
+				<semimajoraxis errorminus="0.09" errorplus="0.09">2.81</semimajoraxis>
+				<eccentricity errorminus="0.05" errorplus="0.05">0.13</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/05/25</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<description>HIP 65891 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HIP 67851</name>
 		<rightascension>13 53 52.06197</rightascension>
 		<declination>-35 18 51.7033</declination>
@@ -22804,30 +22927,30 @@ Credit: ESO/J. Rameau</imagedescription>
 			<planet>
 				<name>HIP 67851 b</name>
 				<name>HD 121056 b</name>
-				<period errorminus="0.11" errorplus="0.11">89.09</period>
-				<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+				<period errorminus="0.1" errorplus="0.1">88.9</period>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.05</eccentricity>
 				<periastron errorminus="132" errorplus="132">300</periastron>
-				<mass errorminus="0.04" errorplus="0.04">1.25</mass>
-				<semimajoraxis errorminus="0.020" errorplus="0.020">0.426</semimajoraxis>
+				<mass errorminus="0.15" errorplus="0.15">1.38</mass>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">0.46</semimajoraxis>
 				<discoveryyear>2014</discoveryyear>
 				<discoverymethod>RV</discoverymethod>
 				<list>Confirmed planets</list>
 				<description>HIP 67851 b is one of the rare examples of a close-in planet orbiting a red giant star.</description>
-				<lastupdate>15/01/06</lastupdate>
+				<lastupdate>15/05/25</lastupdate>
 			</planet>
 			<planet>
 				<name>HIP 67851 c</name>
 				<name>HD 121056 c</name>
-				<period errorminus="486" errorplus="486">2203</period>
-				<eccentricity errorminus="0.18" errorplus="0.18">0.07</eccentricity>
+				<period errorminus="88.3" errorplus="88.3">2131.8</period>
+				<eccentricity errorminus="0.06" errorplus="0.06">0.17</eccentricity>
 				<periastron errorminus="17" errorplus="17">205</periastron>
-				<mass errorminus="1.99" errorplus="1.99">6.14</mass>
-				<semimajoraxis errorminus="0.58" errorplus="0.58">3.62</semimajoraxis>
+				<mass errorminus="0.76" errorplus="0.76">5.98</mass>
+				<semimajoraxis errorminus="0.23" errorplus="0.23">3.82</semimajoraxis>
 				<discoveryyear>2014</discoveryyear>
 				<discoverymethod>RV</discoverymethod>
 				<list>Confirmed planets</list>
 				<description>HIP 67851 c orbits a red giant star. Currently the parameters are sufficiently uncertain that it is not clear whether or not it will be engulfed during the further expansion of its parent star.</description>
-				<lastupdate>15/01/06</lastupdate>
+				<lastupdate>15/05/25</lastupdate>
 			</planet>
 		</star>
 	</system>
