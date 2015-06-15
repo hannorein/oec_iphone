@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>HIP 107773 b</id_exoplaneteu>
+	<name>HIP 107773 b</name>
+	<name>HR 8331 b</name>
+	<name>HD 207229 b</name>
+	<name>2MASS J21500013-6442451 b</name>
+	<name>PPM 365403 b</name>
+	<name>TYC 9119-2234-1 b</name>
+	<id>HIP 107773 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.98</mass>
+		<radius />
+		<orbit>
+			<period>144.3</period>
+			<semimajoraxis>0.72</semimajoraxis>
+			<eccentricity>0.09</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1III</spectraltype>
+		<mass>2.42</mass>
+		<radius>11.6</radius>
+		<metallicity>0.03</metallicity>
+		<distance>104</distance>
+		<temperature>4945</temperature>
+		<rightascension>21 50 00.12563</rightascension>
+		<declination>-64 42 45.1275</declination>
+		<angulardistance />
+		<magV>5.628</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/05/25</lastupdate>
+	<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
