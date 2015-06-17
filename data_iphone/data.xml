@@ -1,4 +1,4 @@
-<planets date="2015-06-15" name="data" planets="2026">
+<planets date="2015-06-17" name="data" planets="2026">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -26435,23 +26435,25 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>Kepler-138 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.05559</radius>
+			<mass>0.000208</mass>
+			<radius>0.047570</radius>
 			<orbit>
-				<period>10.312364</period>
+				<period>10.3126</period>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M1V</spectraltype>
-			<mass>0.57</mass>
-			<radius>0.54</radius>
+			<mass>0.521</mass>
+			<radius>0.442</radius>
+			<metallicity>-0.280</metallicity>
 			<distance>114.07</distance>
-			<temperature>3871</temperature>
+			<temperature>3841</temperature>
 			<rightascension>19 21 31</rightascension>
 			<declination>+43 17 34</declination>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/06/17</lastupdate>
 		<description>Kepler-138 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-138 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -53589,10 +53591,10 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>KOI-314 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.012048</mass>
-			<radius>0.146720</radius>
+			<mass>0.006197</mass>
+			<radius>0.109083</radius>
 			<orbit>
-				<period>13.78164</period>
+				<period>13.7813</period>
 				<semimajoraxis>0.0910000</semimajoraxis>
 				<eccentricity>0.050</eccentricity>
 				<periastron>72</periastron>
@@ -53600,16 +53602,17 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>M1V</spectraltype>
-			<mass>0.57</mass>
-			<radius>0.54</radius>
+			<mass>0.521</mass>
+			<radius>0.442</radius>
+			<metallicity>-0.280</metallicity>
 			<distance>114.07</distance>
-			<temperature>3871</temperature>
+			<temperature>3841</temperature>
 			<rightascension>19 21 31</rightascension>
 			<declination>+43 17 34</declination>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/01/07</lastupdate>
+		<lastupdate>15/06/17</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -53622,26 +53625,27 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>KOI-314 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.003177</mass>
-			<radius>0.146720</radius>
+			<mass>0.002013</mass>
+			<radius>0.110450</radius>
 			<orbit>
-				<period>23.08933</period>
+				<period>23.0881</period>
 				<semimajoraxis>0.1280000</semimajoraxis>
 				<periastron>170</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M1V</spectraltype>
-			<mass>0.57</mass>
-			<radius>0.54</radius>
+			<mass>0.521</mass>
+			<radius>0.442</radius>
+			<metallicity>-0.280</metallicity>
 			<distance>114.07</distance>
-			<temperature>3871</temperature>
+			<temperature>3841</temperature>
 			<rightascension>19 21 31</rightascension>
 			<declination>+43 17 34</declination>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/01/07</lastupdate>
+		<lastupdate>15/06/17</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 		<list>Confirmed planets</list>
 	</planet>
