@@ -7,10 +7,10 @@
 	<id>KOI-314 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.003177</mass>
-		<radius>0.146720</radius>
+		<mass>0.002013</mass>
+		<radius>0.110450</radius>
 		<orbit>
-			<period>23.08933</period>
+			<period>23.0881</period>
 			<semimajoraxis>0.1280000</semimajoraxis>
 			<eccentricity />
 			<inclination />
@@ -21,11 +21,11 @@
 	</properties>
 	<star>
 		<spectraltype>M1V</spectraltype>
-		<mass>0.57</mass>
-		<radius>0.54</radius>
-		<metallicity />
+		<mass>0.521</mass>
+		<radius>0.442</radius>
+		<metallicity>-0.280</metallicity>
 		<distance>114.07</distance>
-		<temperature>3871</temperature>
+		<temperature>3841</temperature>
 		<rightascension>19 21 31</rightascension>
 		<declination>+43 17 34</declination>
 		<angulardistance />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/01/07</lastupdate>
+	<lastupdate>15/06/17</lastupdate>
 	<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 	<new />
 	<image />

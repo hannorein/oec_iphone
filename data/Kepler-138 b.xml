@@ -7,10 +7,10 @@
 	<id>Kepler-138 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.05559</radius>
+		<mass>0.000208</mass>
+		<radius>0.047570</radius>
 		<orbit>
-			<period>10.312364</period>
+			<period>10.3126</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -21,11 +21,11 @@
 	</properties>
 	<star>
 		<spectraltype>M1V</spectraltype>
-		<mass>0.57</mass>
-		<radius>0.54</radius>
-		<metallicity />
+		<mass>0.521</mass>
+		<radius>0.442</radius>
+		<metallicity>-0.280</metallicity>
 		<distance>114.07</distance>
-		<temperature>3871</temperature>
+		<temperature>3841</temperature>
 		<rightascension>19 21 31</rightascension>
 		<declination>+43 17 34</declination>
 		<angulardistance />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
+	<lastupdate>15/06/17</lastupdate>
 	<description>Kepler-138 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-138 b are still unknown, the object is highly unlikely to be a false positive.</description>
 	<new />
 	<image />
