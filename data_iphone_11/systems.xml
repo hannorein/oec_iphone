@@ -1,4 +1,4 @@
-<systems name="systems" planets="2026">
+<systems name="systems" planets="2028">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -1603,7 +1603,7 @@
 				<list>Confirmed planets</list>
 				<mass>1.11</mass>
 				<period errorminus="0.34" errorplus="0.34">137.48</period>
-				<transittime errorminus="16" errorplus="16" unit="MJD">53464</transittime>
+				<transittime errorminus="16" errorplus="16" unit="MJD">2453464</transittime>
 				<semimajoraxis>0.539</semimajoraxis>
 				<eccentricity errorminus="0.10" errorplus="0.10">0.26</eccentricity>
 				<periastron errorminus="33" errorplus="33">302</periastron>
@@ -6434,8 +6434,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 	</system>
 	<system>
 		<name>Gliese 777</name>
-		<rightascension>20 03 37</rightascension>
-		<declination>+29 53 48</declination>
+		<rightascension>20 03 37.405</rightascension>
+		<declination>+29 53 48.50</declination>
 		<distance>15.89</distance>
 		<binary>
 			<separation unit="arcsec">179</separation>
@@ -6458,13 +6458,14 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<name>HR 7670 A b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
-					<mass>1.502</mass>
-					<period>2891</period>
+					<mass errorminus="0.154" errorplus="1.154">1.495</mass>
+					<period errorminus="7.7" errorplus="7.7">2867.9</period>
+					<periastrontime errorminus="19" errorplus="19" unit="BJD">2459271</periastrontime>
 					<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
 					<semimajoraxis>3.92</semimajoraxis>
-					<eccentricity>0.36</eccentricity>
+					<eccentricity errorminus="0.017" errorplus="0.017">0.343</eccentricity>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>12/12/08</lastupdate>
+					<lastupdate>15/06/29</lastupdate>
 					<discoveryyear>2003</discoveryyear>
 				</planet>
 				<planet>
@@ -6475,12 +6476,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
-					<mass>0.057</mass>
-					<period>17.1</period>
+					<mass errorminus="0.01" errorplus="0.01">0.064</mass>
+					<period errorminus="0.0016" errorplus="0.0016">17.1186</period>
+					<periastrontime errorminus="2.9" errorplus="1.5" unit="BJD">2455570.3</periastrontime>
 					<semimajoraxis>0.128</semimajoraxis>
-					<eccentricity>0.01</eccentricity>
+					<eccentricity errorminus="0.07" errorplus="0.07">0.107</eccentricity>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>12/12/08</lastupdate>
+					<lastupdate>15/06/29</lastupdate>
 					<discoveryyear>2005</discoveryyear>
 				</planet>
 			</star>
@@ -7170,8 +7172,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HAT-P-15</name>
-		<rightascension>04 25 00</rightascension>
-		<declination>+39 27 38</declination>
+		<rightascension>04 24 59.534</rightascension>
+		<declination>+39 27 38.31</declination>
 		<distance>190</distance>
 		<star>
 			<mass>1.013</mass>
@@ -7198,7 +7200,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>10/05/31</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>819.9</temperature>
-				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">54638.56019</transittime>
+				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2454638.56019</transittime>
 				<istransiting>1</istransiting>
 			</planet>
 			<name>HAT-P-15</name>
@@ -7377,7 +7379,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>10/07/29</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>922.7</temperature>
-				<transittime errorminus="0.00034" errorplus="0.00034" unit="BJD">455091.53417</transittime>
+				<transittime errorminus="0.00034" errorplus="0.00034" unit="BJD">2455091.53417</transittime>
 				<istransiting>1</istransiting>
 			</planet>
 			<name>HAT-P-19</name>
@@ -8082,8 +8084,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HAT-P-34</name>
-		<rightascension>20 12 47</rightascension>
-		<declination>+18 06 18</declination>
+		<rightascension>20 12 46.885</rightascension>
+		<declination>+18 06 17.42</declination>
 		<distance>257</distance>
 		<star>
 			<spectraltype>F8</spectraltype>
@@ -8111,7 +8113,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<temperature>1335.3</temperature>
-				<transittime errorminus="0.00055" errorplus="0.00055" unit="BJD">55431.59629</transittime>
+				<transittime errorminus="0.00055" errorplus="0.00055" unit="BJD">2455431.59629</transittime>
 				<istransiting>1</istransiting>
 			</planet>
 			<name>HAT-P-34</name>
@@ -8158,8 +8160,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HAT-P-36</name>
-		<rightascension>12 33 04</rightascension>
-		<declination>+44 54 55</declination>
+		<rightascension>12 33 03.909</rightascension>
+		<declination>+44 54 55.18</declination>
 		<distance>317</distance>
 		<star>
 			<mass>1.022</mass>
@@ -8187,7 +8189,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>13/05/29</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<temperature>1669.2</temperature>
-				<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">455565.18144</transittime>
+				<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2455565.18144</transittime>
 				<istransiting>1</istransiting>
 			</planet>
 			<name>HAT-P-36</name>
@@ -8956,7 +8958,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>15/06/11</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -9221,8 +9222,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HATS-1</name>
-		<rightascension>11 42 06</rightascension>
-		<declination>-23 21 17</declination>
+		<rightascension>11 42 06.080</rightascension>
+		<declination>-23 21 17.44</declination>
 		<distance>303</distance>
 		<star>
 			<mass>0.986</mass>
@@ -9252,7 +9253,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>12/06/08</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<temperature>1250.3</temperature>
-				<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">55241.28722</transittime>
+				<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">2455241.28722</transittime>
 				<istransiting>1</istransiting>
 			</planet>
 			<name>HATS-1</name>
@@ -9568,6 +9569,45 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>14/08/07</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>HATS-7</name>
+		<rightascension>13 55 25.68</rightascension>
+		<declination>-21 12 27.7</declination>
+		<distance errorminus="12" errorplus="15">257</distance>
+		<star>
+			<name>HATS-7</name>
+			<name>GSC 6148-00422</name>
+			<name>2MASS J13552567-2112276</name>
+			<temperature errorminus="50" errorplus="50">4985</temperature>
+			<spectraltype>K2</spectraltype>
+			<metallicity errorminus="0.080" errorplus="0.080">0.250</metallicity>
+			<magB errorminus="0.020" errorplus="0.020">14.359</magB>
+			<magV errorminus="0.010" errorplus="0.010">13.340</magV>
+			<magJ errorminus="0.024" errorplus="0.024">11.528</magJ>
+			<magH errorminus="0.024" errorplus="0.024">11.085</magH>
+			<magK errorminus="0.026" errorplus="0.026">10.976</magK>
+			<mass errorminus="0.027" errorplus="0.027">0.849</mass>
+			<radius errorminus="0.035" errorplus="0.049">0.815</radius>
+			<age errorminus="5.0" errorplus="5.0">7.8</age>
+			<planet>
+				<name>HATS-7 b</name>
+				<period errorminus="0.0000054" errorplus="0.0000054">3.1853150</period>
+				<transittime errorminus="0.00058" errorplus="0.00058">2456528.29697</transittime>
+				<inclination errorminus="0.75" errorplus="0.75">87.92</inclination>
+				<eccentricity upperlimit="0.170" />
+				<mass errorminus="0.012" errorplus="0.012">0.120</mass>
+				<radius errorminus="0.034" errorplus="0.046">0.563</radius>
+				<semimajoraxis errorminus="0.00043" errorplus="0.00043">0.04012</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>HATS-7b is a hot super-Neptune orbiting a metal-rich K-dwarf star. The inferred composition based on its observed properties suggests it is mainly composed of heavy elements, which makes it more similar to Uranus and Neptune than Saturn.</description>
+				<lastupdate>15/07/07</lastupdate>
+				<istransiting>1</istransiting>
+				<list>Confirmed planets</list>
+				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -14118,6 +14158,49 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 164595</name>
+		<rightascension>18 00 38.89431</rightascension>
+		<declination>+29 34 18.9202</declination>
+		<distance errorminus="0.4" errorplus="0.4">28.93</distance>
+		<star>
+			<mass errorminus="0.03" errorplus="0.03">0.99</mass>
+			<magV>7.08</magV>
+			<magB>7.72</magB>
+			<magR>6.7</magR>
+			<magI>6.4</magI>
+			<magJ errorminus="0.019" errorplus="0.019">5.864</magJ>
+			<magH errorminus="0.020" errorplus="0.020">5.539</magH>
+			<magK errorminus="0.021" errorplus="0.021">5.482</magK>
+			<temperature errorminus="40" errorplus="40">5790</temperature>
+			<metallicity errorminus="0.08" errorplus="0.08">-0.04</metallicity>
+			<spectraltype>G2V</spectraltype>
+			<name>HD 164595</name>
+			<name>BD+29 3165</name>
+			<name>HIP 88194</name>
+			<name>2MASS J18003890+2934188</name>
+			<name>PPM 106642</name>
+			<name>TYC 2103-1620-1</name>
+			<planet>
+				<name>HD 164595 b</name>
+				<name>BD+29 3165 b</name>
+				<name>HIP 88194 b</name>
+				<name>2MASS J18003890+2934188 b</name>
+				<name>PPM 106642 b</name>
+				<name>TYC 2103-1620-1 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.008" errorplus="0.008">0.051</mass>
+				<period errorminus="0.24" errorplus="0.24">40.00</period>
+				<periastrontime errorminus="12" errorplus="12" unit="BJD">2456280</periastrontime>
+				<semimajoraxis>0.23</semimajoraxis>
+				<eccentricity errorminus="0.066" errorplus="0.12">0.088</eccentricity>
+				<description>As part of a dedicated radial velocity survey devoted to search for low-mass planets around a sample of 190 bright solar-type stars in the northern hemisphere, the SOPHIE search for northern extrasolar planets reports the detection of this warm Neptune.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/06/29</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 164604</name>
 		<rightascension>18 03 07</rightascension>
 		<declination>-28 33 38</declination>
@@ -17459,8 +17542,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 233604</name>
-		<rightascension>09 09 49</rightascension>
-		<declination>+53 34 05</declination>
+		<rightascension>09 09 48.8205</rightascension>
+		<declination>+53 34 05.623</declination>
 		<star>
 			<magB errorminus="0.09" errorplus="0.09">11.33</magB>
 			<magV errorminus="0.05" errorplus="0.05">10.29</magV>
@@ -17479,7 +17562,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<list>Confirmed planets</list>
 				<mass>6.575</mass>
 				<period errorminus="0.22" errorplus="0.22">192.00</period>
-				<transittime errorminus="77" errorplus="77">53022</transittime>
+				<transittime errorminus="77" errorplus="77">2453022</transittime>
 				<semimajoraxis>0.747</semimajoraxis>
 				<eccentricity errorminus="0.03" errorplus="0.03">0.05</eccentricity>
 				<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abundance which may be either a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
@@ -22472,7 +22555,6 @@ Credit: ESO/J. Rameau</imagedescription>
 				<lastupdate>15/05/25</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -22897,7 +22979,6 @@ Credit: ESO/J. Rameau</imagedescription>
 				<lastupdate>15/05/25</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<description>HIP 65891 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -28813,8 +28894,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-18</name>
-		<rightascension>19 52 19</rightascension>
-		<declination>+44 44 47</declination>
+		<rightascension>19 52 19.067</rightascension>
+		<declination>+44 44 46.94</declination>
 		<star>
 			<name>Kepler-18</name>
 			<name>KOI-137</name>
@@ -28882,7 +28963,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<period>14.85888</period>
 				<semimajoraxis>0.1172</semimajoraxis>
 				<inclination>88.07</inclination>
-				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">245169.1776</transittime>
+				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2455169.1776</transittime>
 				<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>11/10/05</lastupdate>
@@ -54232,7 +54313,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<radius errorminus="0.039" errorplus="0.039">1.807</radius>
 				<semimajoraxis errorminus="0.00050" errorplus="0.00049">0.02544</semimajoraxis>
 				<period errorminus="0.00000025" errorplus="0.00000020">1.2749255</period>
-				<transittime errorminus="0.00010" errorplus="0.00011" unit="HJD">245636.34578</transittime>
+				<transittime errorminus="0.00010" errorplus="0.00011" unit="HJD">2456636.34578</transittime>
 				<inclination errorminus="0.6" errorplus="0.6">87.6</inclination>
 				<temperature errorminus="52" errorplus="52">2358</temperature>
 				<description>This planet is a remarkable short-period transiting hot Jupiter discovered by the WASP-South survey in close collaboration with the Euler TRAPPIST telescopes.</description>
