@@ -1,4 +1,4 @@
-<planets date="2015-06-17" name="data" planets="2026">
+<planets date="2015-07-07" name="data" planets="2028">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -6054,11 +6054,11 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 777 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.502</mass>
+			<mass>1.495</mass>
 			<orbit>
-				<period>2891</period>
+				<period>2867.9</period>
 				<semimajoraxis>3.92</semimajoraxis>
-				<eccentricity>0.36</eccentricity>
+				<eccentricity>0.343</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -6067,13 +6067,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<radius>1.2</radius>
 			<metallicity>0.24</metallicity>
 			<distance>15.89</distance>
-			<rightascension>20 03 37</rightascension>
-			<declination>+29 53 48</declination>
+			<rightascension>20 03 37.405</rightascension>
+			<declination>+29 53 48.50</declination>
 			<magV>5.71</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>15/06/29</lastupdate>
 		<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -6087,11 +6087,11 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 777 A c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.057</mass>
+			<mass>0.064</mass>
 			<orbit>
-				<period>17.1</period>
+				<period>17.1186</period>
 				<semimajoraxis>0.128</semimajoraxis>
-				<eccentricity>0.01</eccentricity>
+				<eccentricity>0.107</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -6100,13 +6100,13 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<radius>1.2</radius>
 			<metallicity>0.24</metallicity>
 			<distance>15.89</distance>
-			<rightascension>20 03 37</rightascension>
-			<declination>+29 53 48</declination>
+			<rightascension>20 03 37.405</rightascension>
+			<declination>+29 53 48.50</declination>
 			<magV>5.71</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>15/06/29</lastupdate>
 		<description>The A component of the star system Gliese 777 hosts at least two planets. With 6.7 billion years, the host star is much older than our Sun. The binary companion is a dim red dwarf orbiting at a distance of 3000 astronomical units.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -6825,8 +6825,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.22</metallicity>
 			<distance>190</distance>
 			<temperature>819.9</temperature>
-			<rightascension>04 25 00</rightascension>
-			<declination>+39 27 38</declination>
+			<rightascension>04 24 59.534</rightascension>
+			<declination>+39 27 38.31</declination>
 			<magV>12.41</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -7560,8 +7560,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.22</metallicity>
 			<distance>257</distance>
 			<temperature>1335.3</temperature>
-			<rightascension>20 12 47</rightascension>
-			<declination>+18 06 18</declination>
+			<rightascension>20 12 46.885</rightascension>
+			<declination>+18 06 17.42</declination>
 			<magV>10.40</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -7626,8 +7626,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.26</metallicity>
 			<distance>317</distance>
 			<temperature>1669.2</temperature>
-			<rightascension>12 33 04</rightascension>
-			<declination>+44 54 55</declination>
+			<rightascension>12 33 03.909</rightascension>
+			<declination>+44 54 55.18</declination>
 			<magV>12.262</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -8310,7 +8310,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/06/11</lastupdate>
 		<description>This planet was discovered by the HATNet transit survey. The planet is a typical hot Jupiter.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -8513,8 +8512,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>-0.06</metallicity>
 			<distance>303</distance>
 			<temperature>1250.3</temperature>
-			<rightascension>11 42 06</rightascension>
-			<declination>-23 21 17</declination>
+			<rightascension>11 42 06.080</rightascension>
+			<declination>-23 21 17.44</declination>
 			<magV>12.053</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -8780,6 +8779,38 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/08/07</lastupdate>
 		<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-7 b</id_exoplaneteu>
+		<name>HATS-7 b</name>
+		<id>HATS-7 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.120</mass>
+			<radius>0.563</radius>
+			<orbit>
+				<period>3.1853150</period>
+				<semimajoraxis>0.04012</semimajoraxis>
+				<inclination>87.92</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2</spectraltype>
+			<mass>0.849</mass>
+			<radius>0.815</radius>
+			<metallicity>0.250</metallicity>
+			<distance>257</distance>
+			<temperature>4985</temperature>
+			<rightascension>13 55 25.68</rightascension>
+			<declination>-21 12 27.7</declination>
+			<magV>13.340</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/07</lastupdate>
+		<description>HATS-7b is a hot super-Neptune orbiting a metal-rich K-dwarf star. The inferred composition based on its observed properties suggests it is mainly composed of heavy elements, which makes it more similar to Uranus and Neptune than Saturn.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -13530,6 +13561,40 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 164595 b</id_exoplaneteu>
+		<name>HD 164595 b</name>
+		<name>BD+29 3165 b</name>
+		<name>HIP 88194 b</name>
+		<name>2MASS J18003890+2934188 b</name>
+		<name>PPM 106642 b</name>
+		<name>TYC 2103-1620-1 b</name>
+		<id>HD 164595 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.051</mass>
+			<orbit>
+				<period>40.00</period>
+				<semimajoraxis>0.23</semimajoraxis>
+				<eccentricity>0.088</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.99</mass>
+			<metallicity>-0.04</metallicity>
+			<distance>28.93</distance>
+			<temperature>5790</temperature>
+			<rightascension>18 00 38.89431</rightascension>
+			<declination>+29 34 18.9202</declination>
+			<magV>7.08</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/06/29</lastupdate>
+		<description>As part of a dedicated radial velocity survey devoted to search for low-mass planets around a sample of 190 bright solar-type stars in the northern hemisphere, the SOPHIE search for northern extrasolar planets reports the detection of this warm Neptune.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 164604 b</id_exoplaneteu>
 		<name>HD 164604 b</name>
 		<id>HD 164604 b</id>
@@ -16871,8 +16936,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<radius>10.9</radius>
 			<metallicity>-0.36</metallicity>
 			<temperature>4791</temperature>
-			<rightascension>09 09 49</rightascension>
-			<declination>+53 34 05</declination>
+			<rightascension>09 09 48.8205</rightascension>
+			<declination>+53 34 05.623</declination>
 			<magV>10.29</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -21913,7 +21978,6 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/05/25</lastupdate>
 		<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -22397,7 +22461,6 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/05/25</lastupdate>
 		<description>HIP 65891 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -29288,8 +29351,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>1.108</radius>
 			<metallicity>0.2</metallicity>
 			<temperature>5383.0</temperature>
-			<rightascension>19 52 19</rightascension>
-			<declination>+44 44 47</declination>
+			<rightascension>19 52 19.067</rightascension>
+			<declination>+44 44 46.94</declination>
 			<magV>14</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -29322,8 +29385,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>1.108</radius>
 			<metallicity>0.2</metallicity>
 			<temperature>5383.0</temperature>
-			<rightascension>19 52 19</rightascension>
-			<declination>+44 44 47</declination>
+			<rightascension>19 52 19.067</rightascension>
+			<declination>+44 44 46.94</declination>
 			<magV>14</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -29355,8 +29418,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>1.108</radius>
 			<metallicity>0.2</metallicity>
 			<temperature>5383.0</temperature>
-			<rightascension>19 52 19</rightascension>
-			<declination>+44 44 47</declination>
+			<rightascension>19 52 19.067</rightascension>
+			<declination>+44 44 46.94</declination>
 			<magV>14</magV>
 		</star>
 		<multiplicity>3</multiplicity>
