@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-7 b</id_exoplaneteu>
+	<name>HATS-7 b</name>
+	<id>HATS-7 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.120</mass>
+		<radius>0.563</radius>
+		<orbit>
+			<period>3.1853150</period>
+			<semimajoraxis>0.04012</semimajoraxis>
+			<eccentricity />
+			<inclination>87.92</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2</spectraltype>
+		<mass>0.849</mass>
+		<radius>0.815</radius>
+		<metallicity>0.250</metallicity>
+		<distance>257</distance>
+		<temperature>4985</temperature>
+		<rightascension>13 55 25.68</rightascension>
+		<declination>-21 12 27.7</declination>
+		<angulardistance />
+		<magV>13.340</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/07/07</lastupdate>
+	<description>HATS-7b is a hot super-Neptune orbiting a metal-rich K-dwarf star. The inferred composition based on its observed properties suggests it is mainly composed of heavy elements, which makes it more similar to Uranus and Neptune than Saturn.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
