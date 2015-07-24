@@ -8,11 +8,11 @@
 	<id>KOI-370.02</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.10821</mass>
-		<radius>0.24150</radius>
+		<mass />
+		<radius>0.228</radius>
 		<orbit>
-			<period>22.951</period>
-			<semimajoraxis />
+			<period>22.95102</period>
+			<semimajoraxis>0.178</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -22,7 +22,7 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.26</mass>
+		<mass>1.419</mass>
 		<radius>1.98</radius>
 		<metallicity />
 		<distance>589.92</distance>
