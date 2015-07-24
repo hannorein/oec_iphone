@@ -1,4 +1,4 @@
-<planets date="2015-07-07" name="data" planets="2028">
+<planets date="2015-07-23" name="data" planets="2032">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -8784,6 +8784,10 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	<planet>
 		<id_exoplaneteu>HATS-7 b</id_exoplaneteu>
 		<name>HATS-7 b</name>
+		<name>GSC 6148-00422 b</name>
+		<name>2MASS J13552567-2112276 b</name>
+		<name>UCAC3 138-154618 b</name>
+		<name>UCAC4 344-068641 b</name>
 		<id>HATS-7 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -8810,7 +8814,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/07/07</lastupdate>
 		<description>HATS-7b is a hot super-Neptune orbiting a metal-rich K-dwarf star. The inferred composition based on its observed properties suggests it is mainly composed of heavy elements, which makes it more similar to Uranus and Neptune than Saturn.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -15607,6 +15610,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<period>591.9</period>
 				<semimajoraxis>1.381</semimajoraxis>
 				<eccentricity>0.97</eccentricity>
+				<periastron>147.7</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -20763,16 +20767,17 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>3.94</mass>
 			<radius>0.921</radius>
 			<orbit>
-				<period>111.43637</period>
-				<semimajoraxis>0.449</semimajoraxis>
-				<eccentricity>0.93366</eccentricity>
-				<inclination>89.285</inclination>
+				<period>111.4273</period>
+				<semimajoraxis>0.463</semimajoraxis>
+				<eccentricity>0.93369</eccentricity>
+				<inclination>89.341</inclination>
+				<periastron>300.53</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
 			<mass>0.98</mass>
-			<radius>0.98</radius>
+			<radius>0.978</radius>
 			<metallicity>0.43</metallicity>
 			<distance>58.4</distance>
 			<temperature>5370</temperature>
@@ -20782,7 +20787,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2001</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>15/07/21</lastupdate>
 		<description>The star HD 80606 (also known as Struve 1341 B) is part of a binary star system with a separation of 1200 astronomical units. It hosts an extrasolar planet on a highly elliptical orbit. Because of the high eccentricity the temperature of the planet's surface can rise from 800K to 1500K in just 6 hours.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -23402,10 +23407,13 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>Kepler-100 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.023089</mass>
+			<mass>0.0231</mass>
 			<radius>0.120292</radius>
 			<orbit>
 				<period>6.88705</period>
+				<semimajoraxis>0.0727</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+				<inclination>87.1</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23436,6 +23444,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.200487</radius>
 			<orbit>
 				<period>12.8159</period>
+				<semimajoraxis>0.110</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>89.8</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23466,6 +23477,8 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.146720</radius>
 			<orbit>
 				<period>35.3331</period>
+				<semimajoraxis>0.216</semimajoraxis>
+				<inclination>88.62</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23715,6 +23728,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.307109</radius>
 			<orbit>
 				<period>15.9654</period>
+				<semimajoraxis>0.128</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>87.8</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23723,13 +23739,13 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<metallicity>0.07</metallicity>
 			<distance>476.8</distance>
 			<temperature>5845</temperature>
-			<rightascension>19 15 56</rightascension>
+			<rightascension>19 15 56.2</rightascension>
 			<declination>+40 03 52</declination>
 			<magV>11.88</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/24</lastupdate>
+		<lastupdate>15/06/12</lastupdate>
 		<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -23745,6 +23761,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.468410</radius>
 			<orbit>
 				<period>179.612</period>
+				<semimajoraxis>0.641</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>89.7</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -23753,13 +23772,13 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<metallicity>0.07</metallicity>
 			<distance>476.8</distance>
 			<temperature>5845</temperature>
-			<rightascension>19 15 56</rightascension>
+			<rightascension>19 15 56.2</rightascension>
 			<declination>+40 03 52</declination>
 			<magV>11.88</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/24</lastupdate>
+		<lastupdate>15/06/12</lastupdate>
 		<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -24043,11 +24062,15 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.14216</radius>
 			<orbit>
 				<period>3.179997</period>
+				<semimajoraxis>0.0448</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>87.1</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<mass>1.1830</mass>
 			<radius>1.411</radius>
+			<metallicity>0.27</metallicity>
 			<distance>512.66</distance>
 			<temperature>5851</temperature>
 			<rightascension>19 48 06</rightascension>
@@ -24072,11 +24095,15 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.16495</radius>
 			<orbit>
 				<period>4.901425</period>
+				<semimajoraxis>0.0597</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>85.1</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<mass>1.1830</mass>
 			<radius>1.411</radius>
+			<metallicity>0.27</metallicity>
 			<distance>512.66</distance>
 			<temperature>5851</temperature>
 			<rightascension>19 48 06</rightascension>
@@ -24101,11 +24128,15 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.09751</radius>
 			<orbit>
 				<period>7.958203</period>
+				<semimajoraxis>0.0825</semimajoraxis>
+				<eccentricity>0.14</eccentricity>
+				<inclination>88.8</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<mass>1.1830</mass>
 			<radius>1.411</radius>
+			<metallicity>0.27</metallicity>
 			<distance>512.66</distance>
 			<temperature>5851</temperature>
 			<rightascension>19 48 06</rightascension>
@@ -24130,11 +24161,15 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.31440</radius>
 			<orbit>
 				<period>14.749049</period>
+				<semimajoraxis>0.124</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>87.3</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<mass>1.1830</mass>
 			<radius>1.411</radius>
+			<metallicity>0.27</metallicity>
 			<distance>512.66</distance>
 			<temperature>5851</temperature>
 			<rightascension>19 48 06</rightascension>
@@ -24159,6 +24194,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.78828</radius>
 			<orbit>
 				<period>49.183921</period>
+				<semimajoraxis>0.25</semimajoraxis>
+				<eccentricity>0.22</eccentricity>
+				<inclination>89.9</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -24188,6 +24226,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.74545</radius>
 			<orbit>
 				<period>190.323494</period>
+				<semimajoraxis>0.62</semimajoraxis>
+				<eccentricity>0.04</eccentricity>
+				<inclination>89.2</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -24218,6 +24259,8 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.215979</radius>
 			<orbit>
 				<period>6.48163</period>
+				<semimajoraxis>0.069</semimajoraxis>
+				<inclination>87.0</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -24250,6 +24293,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<radius>0.229648</radius>
 			<orbit>
 				<period>21.2227</period>
+				<semimajoraxis>0.152</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>89.6</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25628,6 +25674,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.13852</radius>
 			<orbit>
 				<period>10.495711</period>
+				<semimajoraxis>0.097</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
+				<inclination>87.6</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25641,7 +25690,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-126 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25658,6 +25707,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.14399</radius>
 			<orbit>
 				<period>21.869741</period>
+				<semimajoraxis>0.158</semimajoraxis>
+				<eccentricity>0.19</eccentricity>
+				<inclination>88.4</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25671,7 +25723,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-126 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25688,6 +25740,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.22783</radius>
 			<orbit>
 				<period>100.283134</period>
+				<semimajoraxis>0.437</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>89.8</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25701,7 +25756,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-126 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 d are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25718,6 +25773,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.12758</radius>
 			<orbit>
 				<period>14.435889</period>
+				<semimajoraxis>0.126</semimajoraxis>
+				<inclination>88.6</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25731,7 +25788,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-127 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25748,6 +25805,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.24241</radius>
 			<orbit>
 				<period>29.393195</period>
+				<semimajoraxis>0.202</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>88.6</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25761,7 +25821,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-127 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25778,6 +25838,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.24058</radius>
 			<orbit>
 				<period>48.630408</period>
+				<semimajoraxis>0.282</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>89.2</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25791,7 +25854,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-127 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 d are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25872,6 +25935,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.21598</radius>
 			<orbit>
 				<period>15.791860</period>
+				<semimajoraxis>0.130</semimajoraxis>
+				<eccentricity>0.01</eccentricity>
+				<inclination>88.2</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25885,7 +25951,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-129 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-129 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25902,6 +25968,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.23238</radius>
 			<orbit>
 				<period>82.200170</period>
+				<semimajoraxis>0.392</semimajoraxis>
+				<eccentricity>0.2</eccentricity>
+				<inclination>89.9</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25915,7 +25984,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-129 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-129 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25969,6 +26038,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.09295</radius>
 			<orbit>
 				<period>8.457458</period>
+				<semimajoraxis>0.080</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+				<inclination>89.6</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -25982,7 +26054,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-130 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-130 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -25999,6 +26071,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.25608</radius>
 			<orbit>
 				<period>27.508653</period>
+				<semimajoraxis>0.176</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<inclination>89.8</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -26012,7 +26087,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-130 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-130 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -26029,6 +26104,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.14945</radius>
 			<orbit>
 				<period>87.517905</period>
+				<semimajoraxis>0.381</semimajoraxis>
+				<inclination>89.3</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -26042,7 +26119,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-130 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-130 d are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -26502,6 +26579,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.047570</radius>
 			<orbit>
 				<period>10.3126</period>
+				<semimajoraxis>0.075</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -26516,7 +26594,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/06/17</lastupdate>
+		<lastupdate>15/07/14</lastupdate>
 		<description>Kepler-138 b has been discovered by the Kepler spacecraft and was first announced in 2014. In June 2015, a team of astronomers has measured the mass and size of Kepler-138 b to find that it is in fact the smallest exoplanet yet. Kepler-138 b is a Mars-sized object orbiting a red dwarf star about 200 light years from our solar system. Current measurements are consistent with a variety of compositions, and favor compositions that are mostly rock. All three planets orbiting Kepler-138 are close to their star and are most likely are too hot to be habitable.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -30648,6 +30726,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.09295</radius>
 			<orbit>
 				<period>5.599308</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>88.9</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -30661,7 +30742,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-197 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -30678,6 +30759,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.11209</radius>
 			<orbit>
 				<period>10.349695</period>
+				<semimajoraxis>0.089</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<inclination>89.3</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -30691,7 +30775,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-197 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -30708,6 +30792,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.11118</radius>
 			<orbit>
 				<period>15.677563</period>
+				<semimajoraxis>0.117</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>88.3</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -30721,7 +30808,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-197 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 d are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -30738,6 +30825,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<radius>0.08293</radius>
 			<orbit>
 				<period>25.209715</period>
+				<semimajoraxis>0.160</semimajoraxis>
+				<eccentricity>0.38</eccentricity>
+				<inclination>89.7</inclination>
 			</orbit>
 		</properties>
 		<star>
@@ -30751,7 +30841,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/22</lastupdate>
 		<description>Kepler-197 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 e are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -48362,6 +48452,42 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-452 b</id_exoplaneteu>
+		<name>Kepler-452 b</name>
+		<name>KIC 8311864 b</name>
+		<name>KOI-7016.01</name>
+		<id>Kepler-452 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.148542</radius>
+			<orbit>
+				<period>384.843</period>
+				<semimajoraxis>1.046</semimajoraxis>
+				<inclination>89.806</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.037</mass>
+			<radius>1.11</radius>
+			<metallicity>0.21</metallicity>
+			<distance>430</distance>
+			<temperature>5757</temperature>
+			<rightascension>19 44 00</rightascension>
+			<declination>+44 16 39</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/23</lastupdate>
+		<description>Kepler-452b is a about 60% bigger than Earth and located in the habitable zone of a Sun-like star. It orbits it star every 385 days. The planet's star is 1400 light-years away and with an age of 6 billion years, roughly 1.5 billion years older than our Sun. At the speed of New Horizons, the fastest spacecraft yet launched by humanity, it would take about 25.8 million years to get there.</description>
+		<new>1</new>
+		<image>Kepler452</image>
+		<imagedescription>This artist's concept depicts one possible appearance of the planet Kepler-452b, the first near-Earth-size world to be found in the habitable zone of star that is similar to our sun. The habitable zone is a region around a star where temperatures are right for water -- an essential ingredient for life as we know it -- to pool on the surface. Scientists do not know if Kepler-452b can support life or not. What is known about the planet is that it is about 60 percent larger than Earth, placing it in a class of planets dubbed Super-Earths. While its mass and composition are not yet determined, previous research suggests that planets the size of Kepler-452b have a better than even chance of being rocky. Kepler-452b orbits its star every 385 days. The planet's star is about 1,400 light-years away in the constellation Cygnus. It is a G2-type star like our sun, with nearly the same temperature and mass. This star is 6 billion years old, 1.5 billion years older than our sun. As stars age, they grow in size and give out more energy, warming up their planets over time.
+
+Image credit: NASA Ames/JPL-Caltech/T. Pyle
+</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-46 b</id_exoplaneteu>
 		<name>Kepler-46 b</name>
 		<name>KOI-872 b</name>
@@ -52426,6 +52552,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<name>KIC 9632895 b</name>
 		<name>KIC 9632895 (AB) b</name>
 		<name>KOI-1451 (AB) b</name>
+		<name>Kepler-453 b</name>
+		<name>Kepler-453 (AB) b</name>
 		<id>KIC 9632895 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -52455,6 +52583,28 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<description>The circum-binary planet KIC 9632895b was discovered in the Kepler dataset. It orbits stellar binary every 240 days. The stars themselves have an orbital period of 27 days. The precession period is 103 years. During that cycle, only 8 percent of the transits are visible.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KMT-2015-1 b</id_exoplaneteu>
+		<name>KMT-2015-1 b</name>
+		<id>KMT-2015-1 b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>2.2</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.18</mass>
+			<distance>8200</distance>
+			<rightascension>17 58 39.01</rightascension>
+			<declination>-28 01 54.1</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/22</lastupdate>
+		<description>KMT-2015-1b is a Jovian planet orbiting a low-mass star, likely located in the galactic bulge. It was detected as part of the Korea Microlensing Telescope Network (KMTNet) lensing survey.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-1194 b</id_exoplaneteu>
@@ -53658,7 +53808,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius>0.109083</radius>
 			<orbit>
 				<period>13.7813</period>
-				<semimajoraxis>0.0910000</semimajoraxis>
+				<semimajoraxis>0.091</semimajoraxis>
 				<eccentricity>0.050</eccentricity>
 				<periastron>72</periastron>
 			</orbit>
@@ -53675,7 +53825,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/06/17</lastupdate>
+		<lastupdate>15/07/14</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -53692,7 +53842,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<radius>0.110450</radius>
 			<orbit>
 				<period>23.0881</period>
-				<semimajoraxis>0.1280000</semimajoraxis>
+				<semimajoraxis>0.128</semimajoraxis>
 				<periastron>170</periastron>
 			</orbit>
 		</properties>
@@ -53708,7 +53858,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/06/17</lastupdate>
+		<lastupdate>15/07/14</lastupdate>
 		<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -53810,14 +53960,15 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>KOI-370.01</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.23624</mass>
-			<radius>0.39368</radius>
+			<radius>0.350</radius>
 			<orbit>
-				<period>42.882</period>
+				<period>42.88254</period>
+				<semimajoraxis>0.269</semimajoraxis>
+				<eccentricity>0.11</eccentricity>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.26</mass>
+			<mass>1.419</mass>
 			<radius>1.98</radius>
 			<distance>589.92</distance>
 			<temperature>6022.00</temperature>
@@ -53840,14 +53991,14 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>KOI-370.02</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.10821</mass>
-			<radius>0.24150</radius>
+			<radius>0.228</radius>
 			<orbit>
-				<period>22.951</period>
+				<period>22.95102</period>
+				<semimajoraxis>0.178</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.26</mass>
+			<mass>1.419</mass>
 			<radius>1.98</radius>
 			<distance>589.92</distance>
 			<temperature>6022.00</temperature>
@@ -55695,6 +55846,51 @@ Credit: Kains et al (2013).</imagedescription>
 		<description>The planet OGLE-20130BLG-0341LB b was discovered with the gravitational microlensing method. The planet is orbiting a star with a very low luminosity. That is why even though the planet's semimajor axis is smaller than that of Earth, its temperature is well below freezing.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2013-BLG-0723LB b</id_exoplaneteu>
+		<name>OGLE-2013-BLG-0723LB b</name>
+		<id>OGLE-2013-BLG-0723LB b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0022</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.097</mass>
+			<distance>490</distance>
+			<rightascension>17 34 40.51</rightascension>
+			<declination>-27 26 53.2</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/22</lastupdate>
+		<description>OGLE-2013-BLG-0723LBb is a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It can therefore be considered either a scaled-up exommon system or a scaled-down planetary system. There is evidence that the system may also contain an additional, more luminous star around which the three known objects revolve.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2015-BLG-0563L b</id_exoplaneteu>
+		<name>OGLE-2015-BLG-0563L b</name>
+		<id>OGLE-2015-BLG-0563L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.39</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.34</mass>
+			<distance>1300</distance>
+			<rightascension>18 05 57.72</rightascension>
+			<declination>-27 42 43.2</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/22</lastupdate>
+		<description>OGLE-2015-BLG-0563Lb is a Saturn-mass planet orbiting a low-mass dwarf star. The close model for the microlensing event give an alternate value for the projected separation of 0.74+0.26-0.42 AU.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>OGLE-TR-10 b</id_exoplaneteu>
