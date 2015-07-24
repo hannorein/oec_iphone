@@ -1,4 +1,4 @@
-<systems name="systems" planets="2028">
+<systems name="systems" planets="2032">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -9567,6 +9567,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<name>HATS-7</name>
 			<name>GSC 6148-00422</name>
 			<name>2MASS J13552567-2112276</name>
+			<name>UCAC3 138-154618</name>
+			<name>UCAC4 344-068641</name>
 			<temperature errorminus="50" errorplus="50">4985</temperature>
 			<spectraltype>K2</spectraltype>
 			<metallicity errorminus="0.080" errorplus="0.080">0.250</metallicity>
@@ -9580,6 +9582,10 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<age errorminus="5.0" errorplus="5.0">7.8</age>
 			<planet>
 				<name>HATS-7 b</name>
+				<name>GSC 6148-00422 b</name>
+				<name>2MASS J13552567-2112276 b</name>
+				<name>UCAC3 138-154618 b</name>
+				<name>UCAC4 344-068641 b</name>
 				<period errorminus="0.0000054" errorplus="0.0000054">3.1853150</period>
 				<transittime errorminus="0.00058" errorplus="0.00058">2456528.29697</transittime>
 				<inclination errorminus="0.75" errorplus="0.75">87.92</inclination>
@@ -9593,7 +9599,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<lastupdate>15/07/07</lastupdate>
 				<istransiting>1</istransiting>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -16198,10 +16203,11 @@ Image credit: Vanessa Bailey</imagedescription>
 					<name>HD 20782 b</name>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
-					<mass>1.9</mass>
-					<period>591.9</period>
-					<semimajoraxis>1.381</semimajoraxis>
-					<eccentricity>0.97</eccentricity>
+					<mass errorminus="0.5" errorplus="0.5">1.9</mass>
+					<period errorminus="2.8" errorplus="2.8">591.9</period>
+					<semimajoraxis errorminus="0.005" errorplus="0.005">1.381</semimajoraxis>
+					<eccentricity errorminus="0.01" errorplus="0.01">0.97</eccentricity>
+					<periastron errorminus="6.5" errorplus="6.5">147.7</periastron>
 					<discoverymethod>RV</discoverymethod>
 					<description>The planet HD 20782 b is orbiting the main sequence star HD 20782, a star in a binary system in which both stars host a planetary systems. This is the first such system.</description>
 					<lastupdate>12/12/09</lastupdate>
@@ -21226,7 +21232,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>HD 80606</name>
 				<name>Struve 1341 B</name>
 				<mass>0.98</mass>
-				<radius>0.98</radius>
+				<radius errorminus="0.015" errorplus="0.015">0.978</radius>
 				<magV errorminus="0.02" errorplus="0.02">9.00</magV>
 				<magB errorminus="0.03" errorplus="0.03">9.78</magB>
 				<magJ errorminus="0.025" errorplus="0.025">7.702</magJ>
@@ -21242,15 +21248,17 @@ Image credit: Vanessa Bailey</imagedescription>
 					<list>Confirmed planets</list>
 					<list>Planets in binary systems, S-type</list>
 					<mass>3.94</mass>
-					<radius>0.921</radius>
-					<period>111.43637</period>
-					<semimajoraxis>0.449</semimajoraxis>
-					<eccentricity>0.93366</eccentricity>
-					<inclination>89.285</inclination>
-					<transittime errorminus="0.011" errorplus="0.011" unit="HJD">2454876.344</transittime>
+					<radius errorminus="0.0036" errorplus="0.0036">0.921</radius>
+					<period errorminus="0.0031" errorplus="0.0031">111.4273</period>
+					<semimajoraxis errorminus="0.025" errorplus="0.032">0.463</semimajoraxis>
+					<eccentricity errorminus="0.00068" errorplus="0.00068">0.93369</eccentricity>
+					<inclination errorminus="0.063" errorplus="0.073">89.341</inclination>
+					<periastron errorminus="0.19" errorplus="0.19">300.53</periastron>
+					<transittime errorminus="0.0036" errorplus="0.0036" unit="HJD">2454876.3173</transittime>
+					<periastrontime errorminus="0.0040" errorplus="0.0040" unit="HJD">2454424.8575</periastrontime>
 					<description>The star HD 80606 (also known as Struve 1341 B) is part of a binary star system with a separation of 1200 astronomical units. It hosts an extrasolar planet on a highly elliptical orbit. Because of the high eccentricity the temperature of the planet's surface can rise from 800K to 1500K in just 6 hours.</description>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>12/12/08</lastupdate>
+					<lastupdate>15/07/21</lastupdate>
 					<discoveryyear>2001</discoveryyear>
 					<temperature>339.6</temperature>
 					<istransiting>1</istransiting>
@@ -23919,7 +23927,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 6521045 c</name>
 				<period>12.8159</period>
 				<radius errorminus="0.004557" errorplus="0.004557">0.200487</radius>
-				<mass upperlimit="0.022177" />
+				<mass upperlimit="0.0222" />
+				<transittime unit="BJD">2454955.94713</transittime>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.110</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.1">89.8</inclination>
+				<eccentricity errorminus="0.01" errorplus="0.15">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -23934,7 +23946,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 6521045 b</name>
 				<period>6.88705</period>
 				<radius errorminus="0.003645" errorplus="0.003645">0.120292</radius>
-				<mass errorminus="0.010066" errorplus="0.010066">0.023089</mass>
+				<mass errorminus="0.010" errorplus="0.010">0.0231</mass>
+				<transittime unit="BJD">2454966.17797</transittime>
+				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0727</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.1">87.1</inclination>
+				<eccentricity errorminus="0.13" errorplus="0.27">0.13</eccentricity>
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -23949,7 +23965,10 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 6521045 d</name>
 				<period>35.3331</period>
 				<radius errorminus="0.004557" errorplus="0.004557">0.146720</radius>
-				<mass upperlimit="0.009437" />
+				<mass upperlimit="0.0094" />
+				<transittime unit="BJD">2454966.17797</transittime>
+				<semimajoraxis errorminus="0.004" errorplus="0.004">0.216</semimajoraxis>
+				<inclination errorminus="0.05" errorplus="0.05">88.62</inclination>
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24123,7 +24142,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<name>Kepler-103</name>
 		<name>KOI-108</name>
 		<name>KIC 4914423</name>
-		<rightascension>19 15 56</rightascension>
+		<rightascension>19 15 56.2</rightascension>
 		<declination>+40 03 52</declination>
 		<distance>476.8</distance>
 		<star>
@@ -24148,10 +24167,14 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<period>15.9654</period>
 				<radius errorminus="0.008202" errorplus="0.008202">0.307109</radius>
 				<mass upperlimit="0.094371" />
+				<transittime unit="BJD">2455128.32581</transittime>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.128</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.1">87.8</inclination>
+				<eccentricity errorminus="0.03" errorplus="0.20">0.03</eccentricity>
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/24</lastupdate>
+				<lastupdate>15/06/12</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -24163,10 +24186,14 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<period>179.612</period>
 				<radius errorminus="0.012758" errorplus="0.012758">0.468410</radius>
 				<mass upperlimit="0.298842" />
+				<transittime unit="BJD">2454969.27837</transittime>
+				<semimajoraxis errorminus="0.014" errorplus="0.014">0.641</semimajoraxis>
+				<inclination errorminus="0.02" errorplus="0.02">89.7</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.19">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/24</lastupdate>
+				<lastupdate>15/06/12</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -24387,9 +24414,10 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<name>Kepler-107</name>
 			<name>KOI-117</name>
 			<name>KIC 10875245</name>
-			<temperature errorminus="5" errorplus="75">5851</temperature>
-			<radius errorminus=".047" errorplus="0.047">1.411</radius>
+			<temperature errorminus="75" errorplus="75">5851</temperature>
+			<radius errorminus="0.047" errorplus="0.047">1.411</radius>
 			<mass errorminus="0.0390" errorplus="0.0390">1.1830</mass>
+			<metallicity errorminus="0.10" errorplus="0.10">0.27</metallicity>
 			<planet>
 				<name>Kepler-107 e</name>
 				<name>KOI-117 e</name>
@@ -24397,8 +24425,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 10875245 e</name>
 				<name>KIC 10875245.01</name>
 				<radius errorminus="0.02278" errorplus="0.02278">0.31440</radius>
-				<period errorminus=".000034" errorplus="0.000034">14.749049</period>
+				<period errorminus="0.000034" errorplus="0.000034">14.749049</period>
 				<transittime errorminus="0.0013400" errorplus="0.0013400">2454971.7799800</transittime>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.124</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="1.6">87.3</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.18">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-107 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 e are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24415,6 +24446,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<radius errorminus="0.01640" errorplus="0.01640">0.16495</radius>
 				<period errorminus=".000016" errorplus="0.000016">4.901425</period>
 				<transittime errorminus="0.0017400" errorplus="0.0017400">2454971.6074200</transittime>
+				<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0597</semimajoraxis>
+				<inclination errorminus="0.2" errorplus="3.5">85.1</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.26">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-107 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24429,8 +24463,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 10875245 b</name>
 				<name>KIC 10875245.03</name>
 				<radius errorminus="0.00547" errorplus="0.00547">0.14216</radius>
-				<period errorminus=".000011" errorplus="0.000011">3.179997</period>
+				<period errorminus="0.000011" errorplus="0.000011">3.179997</period>
 				<transittime errorminus="0.0020000" errorplus="0.0020000">2454966.4990400</transittime>
+				<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0448</semimajoraxis>
+				<inclination errorminus="1.2" errorplus="2.9">87.1</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.20">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-107 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24447,6 +24484,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<radius errorminus="0.00547" errorplus="0.00547">0.09751</radius>
 				<period errorminus=".000104" errorplus="0.000104">7.958203</period>
 				<transittime errorminus="0.0061200" errorplus="0.0061200">2454970.7996800</transittime>
+				<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0825</semimajoraxis>
+				<inclination errorminus="0.9" errorplus="1.2">88.8</inclination>
+				<eccentricity errorminus="0.14" errorplus="0.25">0.14</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-107 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 d are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24471,7 +24511,7 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<name>KOI-119</name>
 			<name>KIC 9471974</name>
 			<temperature errorminus="2" errorplus="92">5854</temperature>
-			<radius errorminus=".121" errorplus="0.121">2.192</radius>
+			<radius errorminus="0.121" errorplus="0.121">2.192</radius>
 			<mass errorminus="0.1700" errorplus="0.1700">0.8900</mass>
 			<planet>
 				<name>Kepler-108 b</name>
@@ -24480,8 +24520,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<name>KIC 9471974 b</name>
 				<name>KIC 9471974.01</name>
 				<radius errorminus="0.04374" errorplus="0.04374">0.78828</radius>
-				<period errorminus=".000054" errorplus="0.000054">49.183921</period>
+				<period errorminus="0.000054" errorplus="0.000054">49.183921</period>
 				<transittime errorminus="0.0006600" errorplus="0.0006600">2454974.9112300</transittime>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">0.25</semimajoraxis>
+				<inclination errorminus="0.6" errorplus="0.1">89.9</inclination>
+				<eccentricity errorminus="0.12" errorplus="0.19">0.22</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-108 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-108 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24498,6 +24541,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<radius errorminus="0.04648" errorplus="0.04648">0.74545</radius>
 				<period errorminus=".000988" errorplus="0.000988">190.323494</period>
 				<transittime errorminus="0.0025500" errorplus="0.0025500">2455145.6732300</transittime>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">0.62</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.1">89.2</inclination>
+				<eccentricity errorminus="0.04" errorplus="0.19">0.04</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-108 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-108 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24540,6 +24586,10 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<period>6.48163</period>
 				<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
 				<mass upperlimit="0.022964" />
+				<transittime unit="BJD">2454955.97755</transittime>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.069</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.1">87.0</inclination>
+				<eccentricity upperlimit="0.30" />
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -24557,6 +24607,10 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<period>21.2227</period>
 				<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
 				<mass upperlimit="0.068576" />
+				<transittime unit="BJD">2454970.57250</transittime>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.152</semimajoraxis>
+				<inclination errorminus="0.2" errorplus="0.2">89.6</inclination>
+				<eccentricity errorminus="0.03" errorplus="0.19">0.03</eccentricity>
 				<list>Confirmed planets</list>
 				<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 				<discoveryyear>2014</discoveryyear>
@@ -25701,8 +25755,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-126</name>
 			<name>KOI-260</name>
 			<name>KIC 8292840</name>
-			<temperature errorminus="4" errorplus="94">6239</temperature>
-			<radius errorminus=".024" errorplus="0.024">1.358</radius>
+			<temperature errorminus="94" errorplus="94">6239</temperature>
+			<radius errorminus="0.024" errorplus="0.024">1.358</radius>
 			<mass errorminus="0.0560" errorplus="0.0560">1.1100</mass>
 			<planet>
 				<name>Kepler-126 b</name>
@@ -25711,12 +25765,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 8292840 b</name>
 				<name>KIC 8292840.01</name>
 				<radius errorminus="0.00911" errorplus="0.00911">0.13852</radius>
-				<period errorminus=".000028" errorplus="0.000028">10.495711</period>
-				<transittime errorminus="0.0016500" errorplus="0.0016500">2455005.7896600</transittime>
+				<period errorminus="0.000028" errorplus="0.000028">10.495711</period>
+				<transittime errorminus="0.0016500" errorplus="0.0016500" unit="BJD">2455005.7896600</transittime>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.097</semimajoraxis>
+				<inclination errorminus="0.7" errorplus="1.6">87.6</inclination>
+				<eccentricity errorminus="0.07" errorplus="0.10">0.07</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-126 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25727,12 +25784,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 8292840 d</name>
 				<name>KIC 8292840.02</name>
 				<radius errorminus="0.00456" errorplus="0.00456">0.22783</radius>
-				<period errorminus=".000255" errorplus="0.000255">100.283134</period>
-				<transittime errorminus="0.0013100" errorplus="0.0013100">2455078.0443400</transittime>
+				<period errorminus="0.000255" errorplus="0.000255">100.283134</period>
+				<transittime errorminus="0.0013100" errorplus="0.0013100" unit="BJD">2455078.0443400</transittime>
+				<semimajoraxis errorminus="0.007" errorplus="0.007">0.437</semimajoraxis>
+				<inclination errorminus="0.2" errorplus="0.1">89.8</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.09">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-126 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 d are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25743,12 +25803,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 8292840 c</name>
 				<name>KIC 8292840.03</name>
 				<radius errorminus="0.01185" errorplus="0.01185">0.14399</radius>
-				<period errorminus=".000082" errorplus="0.000082">21.869741</period>
-				<transittime errorminus="0.0022300" errorplus="0.0022300">2454973.2915900</transittime>
+				<period errorminus="0.000082" errorplus="0.000082">21.869741</period>
+				<transittime errorminus="0.0022300" errorplus="0.0022300" unit="BJD">2454973.2915900</transittime>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.158</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="1.1">88.4</inclination>
+				<eccentricity errorminus="0.19" errorplus="0.18">0.19</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-126 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25770,8 +25833,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-127</name>
 			<name>KOI-271</name>
 			<name>KIC 9451706</name>
-			<temperature errorminus="06" errorplus="106">6106</temperature>
-			<radius errorminus=".035" errorplus="0.035">1.359</radius>
+			<temperature errorminus="106" errorplus="106">6106</temperature>
+			<radius errorminus="0.035" errorplus="0.035">1.359</radius>
 			<mass errorminus="0.0400" errorplus="0.0400">1.2690</mass>
 			<planet>
 				<name>Kepler-127 d</name>
@@ -25780,12 +25843,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 9451706 d</name>
 				<name>KIC 9451706.01</name>
 				<radius errorminus="0.01276" errorplus="0.01276">0.24058</radius>
-				<period errorminus=".000128" errorplus="0.000128">48.630408</period>
-				<transittime errorminus="0.0014300" errorplus="0.0014300">2455005.5470900</transittime>
+				<period errorminus="0.000128" errorplus="0.000128">48.630408</period>
+				<transittime errorminus="0.0014300" errorplus="0.0014300" unit="BJD">2455005.5470900</transittime>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.282</semimajoraxis>
+				<inclination errorminus="0.2" errorplus="0.5">89.2</inclination>
+				<eccentricity errorminus="0.03" errorplus="0.28">0.03</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-127 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 d are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25796,12 +25862,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 9451706 c</name>
 				<name>KIC 9451706.02</name>
 				<radius errorminus="0.01276" errorplus="0.01276">0.24241</radius>
-				<period errorminus=".000073" errorplus="0.000073">29.393195</period>
-				<transittime errorminus="0.0012100" errorplus="0.0012100">2455042.0670800</transittime>
+				<period errorminus="0.000073" errorplus="0.000073">29.393195</period>
+				<transittime errorminus="0.0012100" errorplus="0.0012100" unit="BJD">2455042.0670800</transittime>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.202</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.9">88.6</inclination>
+				<eccentricity errorminus="0.03" errorplus="0.14">0.03</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-127 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25812,12 +25881,14 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 9451706 b</name>
 				<name>KIC 9451706.03</name>
 				<radius errorminus="0.00456" errorplus="0.00456">0.12758</radius>
-				<period errorminus=".000063" errorplus="0.000063">14.435889</period>
-				<transittime errorminus="0.0024600" errorplus="0.0024600">2454974.5114000</transittime>
+				<period errorminus="0.000063" errorplus="0.000063">14.435889</period>
+				<transittime errorminus="0.0024600" errorplus="0.0024600" unit="BJD">2454974.5114000</transittime>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.126</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="1.3">88.6</inclination>
 				<list>Confirmed planets</list>
 				<description>Kepler-127 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25896,8 +25967,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-129</name>
 			<name>KOI-275</name>
 			<name>KIC 10586004</name>
-			<temperature errorminus="3" errorplus="83">5770</temperature>
-			<radius errorminus=".051" errorplus="0.051">1.641</radius>
+			<temperature errorminus="83" errorplus="83">5770</temperature>
+			<radius errorminus="0.051" errorplus="0.051">1.641</radius>
 			<mass errorminus="0.0690" errorplus="0.0690">1.1850</mass>
 			<planet>
 				<name>Kepler-129 b</name>
@@ -25906,12 +25977,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 10586004 b</name>
 				<name>KIC 10586004.01</name>
 				<radius errorminus="0.01914" errorplus="0.01914">0.21598</radius>
-				<period errorminus=".000068" errorplus="0.000068">15.791860</period>
-				<transittime errorminus="0.0022800" errorplus="0.0022800">2455009.8216600</transittime>
+				<period errorminus="0.000068" errorplus="0.000068">15.791860</period>
+				<transittime errorminus="0.0022800" errorplus="0.0022800" unit="BJD">2455009.8216600</transittime>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.130</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="1.5">88.2</inclination>
+				<eccentricity errorminus="0.01" errorplus="0.24">0.01</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-129 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-129 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -25922,12 +25996,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 10586004 c</name>
 				<name>KIC 10586004.02</name>
 				<radius errorminus="0.00911" errorplus="0.00911">0.23238</radius>
-				<period errorminus=".000680" errorplus="0.000680">82.200170</period>
-				<transittime errorminus="0.0047800" errorplus="0.0047800">2455041.7896300</transittime>
+				<period errorminus="0.000680" errorplus="0.000680">82.200170</period>
+				<transittime errorminus="0.0047800" errorplus="0.0047800" unit="BJD">2455041.7896300</transittime>
+				<semimajoraxis errorminus="0.008" errorplus="0.008">0.392</semimajoraxis>
+				<inclination errorminus="0.3" errorplus="0.1">89.9</inclination>
+				<eccentricity errorminus="0.2" errorplus="0.15">0.2</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-129 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-129 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -26041,8 +26118,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>Kepler-130</name>
 			<name>KOI-282</name>
 			<name>KIC 5088536</name>
-			<temperature errorminus="5" errorplus="75">5884</temperature>
-			<radius errorminus=".033" errorplus="0.033">1.127</radius>
+			<temperature errorminus="75" errorplus="75">5884</temperature>
+			<radius errorminus="0.033" errorplus="0.033">1.127</radius>
 			<mass errorminus="0.0400" errorplus="0.0400">0.9650</mass>
 			<planet>
 				<name>Kepler-130 c</name>
@@ -26051,12 +26128,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 5088536 c</name>
 				<name>KIC 5088536.01</name>
 				<radius errorminus="0.00820" errorplus="0.00820">0.25608</radius>
-				<period errorminus=".000033" errorplus="0.000033">27.508653</period>
-				<transittime errorminus="0.0006500" errorplus="0.0006500">2455015.1038700</transittime>
+				<period errorminus="0.000033" errorplus="0.000033">27.508653</period>
+				<transittime errorminus="0.0006500" errorplus="0.0006500" unit="BJD">2455015.1038700</transittime>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.176</semimajoraxis>
+				<inclination errorminus="0.3" errorplus="0.2">89.8</inclination>
+				<eccentricity errorminus="0.08" errorplus="0.15">0.08</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-130 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-130 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -26067,12 +26147,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 5088536 b</name>
 				<name>KIC 5088536.02</name>
 				<radius errorminus="0.00365" errorplus="0.00365">0.09295</radius>
-				<period errorminus=".000039" errorplus="0.000039">8.457458</period>
-				<transittime errorminus="0.0026900" errorplus="0.0026900">2454972.0666600</transittime>
+				<period errorminus="0.000039" errorplus="0.000039">8.457458</period>
+				<transittime errorminus="0.0026900" errorplus="0.0026900" unit="BJD">2454972.0666600</transittime>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.080</semimajoraxis>
+				<inclination errorminus="1.1" errorplus="0.4">89.6</inclination>
+				<eccentricity errorminus="0.15" errorplus="0.14">0.15</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-130 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-130 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -26083,12 +26166,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 5088536 d</name>
 				<name>KIC 5088536.03</name>
 				<radius errorminus="0.01458" errorplus="0.01458">0.14945</radius>
-				<period errorminus=".000744" errorplus="0.000744">87.517905</period>
-				<transittime errorminus="0.0046700" errorplus="0.0046700">2455034.1580500</transittime>
+				<period errorminus="0.000744" errorplus="0.000744">87.517905</period>
+				<transittime errorminus="0.0046700" errorplus="0.0046700" unit="BJD">2455034.1580500</transittime>
+				<semimajoraxis errorminus="0.005" errorplus="0.005">0.381</semimajoraxis>
+				<inclination errorminus="0.1" errorplus="0.02">89.3</inclination>
+				<eccentricity upperlimit="0.89" />
 				<list>Confirmed planets</list>
 				<description>Kepler-130 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-130 d are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -29984,8 +30070,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<magJ errorminus="0.025" errorplus="0.025">10.814</magJ>
 			<magH errorminus="0.023" errorplus="0.023">10.577</magH>
 			<magK errorminus="0.021" errorplus="0.021">10.535</magK>
-			<temperature errorminus="02" errorplus="102">6004</temperature>
-			<radius errorminus=".033" errorplus="0.033">1.120</radius>
+			<temperature errorminus="102" errorplus="102">6004</temperature>
+			<radius errorminus="0.033" errorplus="0.033">1.120</radius>
 			<mass errorminus="0.0350" errorplus="0.0350">0.8640</mass>
 			<planet>
 				<name>Kepler-197 c</name>
@@ -29994,12 +30080,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 12068975 c</name>
 				<name>KIC 12068975.01</name>
 				<radius errorminus="0.00365" errorplus="0.00365">0.11209</radius>
-				<period errorminus=".000045" errorplus="0.000045">10.349695</period>
-				<transittime errorminus="0.0025400" errorplus="0.0025400">2455007.0642100</transittime>
+				<period errorminus="0.000045" errorplus="0.000045">10.349695</period>
+				<transittime errorminus="0.0025400" errorplus="0.0025400" unit="BJD">2455007.0642100</transittime>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.089</semimajoraxis>
+				<inclination errorminus="0.7" errorplus="0.7">89.3</inclination>
+				<eccentricity errorminus="0.08" errorplus="0.21">0.08</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-197 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 c are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -30010,12 +30099,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 12068975 d</name>
 				<name>KIC 12068975.02</name>
 				<radius errorminus="0.00911" errorplus="0.00911">0.11118</radius>
-				<period errorminus=".000096" errorplus="0.000096">15.677563</period>
-				<transittime errorminus="0.0032800" errorplus="0.0032800">2455012.4688600</transittime>
+				<period errorminus="0.000096" errorplus="0.000096">15.677563</period>
+				<transittime errorminus="0.0032800" errorplus="0.0032800" unit="BJD">2455012.4688600</transittime>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.117</semimajoraxis>
+				<inclination errorminus="0.6" errorplus="1.1">88.3</inclination>
+				<eccentricity errorminus="0.03" errorplus="0.20">0.03</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-197 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 d are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -30026,12 +30118,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 12068975 b</name>
 				<name>KIC 12068975.03</name>
 				<radius errorminus="0.00365" errorplus="0.00365">0.09295</radius>
-				<period errorminus=".000023" errorplus="0.000023">5.599308</period>
-				<transittime errorminus="0.0022100" errorplus="0.0022100">2455004.4728200</transittime>
+				<period errorminus="0.000023" errorplus="0.000023">5.599308</period>
+				<transittime errorminus="0.0022100" errorplus="0.0022100" unit="BJD">2455004.4728200</transittime>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
+				<inclination errorminus="1.1" errorplus="1.1">88.9</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.23">0.02</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-197 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 b are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -30042,12 +30137,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<name>KIC 12068975 e</name>
 				<name>KIC 12068975.04</name>
 				<radius errorminus="0.00365" errorplus="0.00365">0.08293</radius>
-				<period errorminus=".000387" errorplus="0.000387">25.209715</period>
-				<transittime errorminus="0.0093400" errorplus="0.0093400">2454987.4134200</transittime>
+				<period errorminus="0.000387" errorplus="0.000387">25.209715</period>
+				<transittime errorminus="0.0093400" errorplus="0.0093400" unit="BJD">2454987.4134200</transittime>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.160</semimajoraxis>
+				<inclination errorminus="0.6" errorplus="0.3">89.7</inclination>
+				<eccentricity errorminus="0.17" errorplus="0.25">0.38</eccentricity>
 				<list>Confirmed planets</list>
 				<description>Kepler-197 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-197 e are still unknown, the object is highly unlikely to be a false positive.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/02/26</lastupdate>
+				<lastupdate>15/07/22</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -43793,7 +43891,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 				<radius>0.07108</radius>
 				<period>1.21376</period>
 				<semimajoraxis>0.0116</semimajoraxis>
-				<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">245503.48329</transittime>
+				<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455003.48329</transittime>
 				<description>KOI-961 is an M-dwarf with transit signals of at least three short-period planets. The properties of the star are very similar to those of Barnard's star, the fourth closest star to the Sun. All planets in the system are very close to their host star and thought to be rocky. The system is more similar in size to Jupiter and its moons than any other planetary system.</description>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>12/01/11</lastupdate>
@@ -44841,6 +44939,44 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<lastupdate>13/03/25</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>Kepler-452</name>
+		<name>KIC 8311864</name>
+		<rightascension>19 44 00</rightascension>
+		<declination>+44 16 39</declination>
+		<distance>430</distance>
+		<star>
+			<name>Kepler-452</name>
+			<name>KIC 8311864</name>
+			<mass errorminus="0.047" errorplus="0.054">1.037</mass>
+			<age errorminus="2" errorplus="2">6</age>
+			<radius errorminus="0.09" errorplus="0.15">1.11</radius>
+			<temperature errorminus="85" errorplus="85">5757</temperature>
+			<metallicity errorminus="0.09" errorplus="0.09">0.21</metallicity>
+			<planet>
+				<name>Kepler-452 b</name>
+				<name>KIC 8311864 b</name>
+				<name>KOI-7016.01</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.018226" errorplus="0.020960">0.148542</radius>
+				<temperature errorminus="13" errorplus="15">265</temperature>
+				<period errorminus="0.019" errorplus="0.015">384.843</period>
+				<semimajoraxis errorminus="0.015" errorplus="0.019">1.046</semimajoraxis>
+				<inclination errorminus="0.049" errorplus="0.134">89.806</inclination>
+				<discoverymethod>transit</discoverymethod>
+				<description>Kepler-452b is a about 60% bigger than Earth and located in the habitable zone of a Sun-like star. It orbits it star every 385 days. The planet's star is 1400 light-years away and with an age of 6 billion years, roughly 1.5 billion years older than our Sun. At the speed of New Horizons, the fastest spacecraft yet launched by humanity, it would take about 25.8 million years to get there.</description>
+				<new>1</new>
+				<image>Kepler452</image>
+				<imagedescription>This artist's concept depicts one possible appearance of the planet Kepler-452b, the first near-Earth-size world to be found in the habitable zone of star that is similar to our sun. The habitable zone is a region around a star where temperatures are right for water -- an essential ingredient for life as we know it -- to pool on the surface. Scientists do not know if Kepler-452b can support life or not. What is known about the planet is that it is about 60 percent larger than Earth, placing it in a class of planets dubbed Super-Earths. While its mass and composition are not yet determined, previous research suggests that planets the size of Kepler-452b have a better than even chance of being rocky. Kepler-452b orbits its star every 385 days. The planet's star is about 1,400 light-years away in the constellation Cygnus. It is a G2-type star like our sun, with nearly the same temperature and mass. This star is 6 billion years old, 1.5 billion years older than our sun. As stars age, they grow in size and give out more energy, warming up their planets over time.
+
+Image credit: NASA Ames/JPL-Caltech/T. Pyle
+</imagedescription>
+				<istransiting>1</istransiting>
+				<lastupdate>15/07/23</lastupdate>
+				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
 	</system>
@@ -48232,6 +48368,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<declination>+46 22 42</declination>
 		<distance>500</distance>
 		<binary>
+			<name>KIC 9632895</name>
+			<name>KOI-1451</name>
+			<name>Kepler-453</name>
 			<magJ errorminus="0.022" errorplus="0.022">12.349</magJ>
 			<magH errorminus="0.019" errorplus="0.019">11.970</magH>
 			<magK errorminus="0.020" errorplus="0.020">11.920</magK>
@@ -48243,6 +48382,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<star>
 				<name>KIC 9632895 A</name>
 				<name>KOI-1451 A</name>
+				<name>Kepler-453 A</name>
 				<mass errorminus="0.01" errorplus="0.01">0.934</mass>
 				<radius errorminus="0.011" errorplus="0.011">0.833</radius>
 				<temperature errorminus="100" errorplus="100">5527</temperature>
@@ -48253,6 +48393,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KIC 9632895 B</name>
 				<name>KOI-1451.01</name>
 				<name>KOI-1451 B</name>
+				<name>Kepler-453 B</name>
 				<mass errorminus="0.002" errorplus="0.002">0.1938</mass>
 				<radius errorminus="0.0014" errorplus="0.0014">0.2143</radius>
 				<temperature errorminus="100" errorplus="100">3309</temperature>
@@ -48262,6 +48403,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>KIC 9632895 b</name>
 				<name>KIC 9632895 (AB) b</name>
 				<name>KOI-1451 (AB) b</name>
+				<name>Kepler-453 b</name>
+				<name>Kepler-453 (AB) b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.050331" errorplus="0.050331">0.019503</mass>
 				<radius errorminus="0.003190" errorplus="0.003190">0.561818</radius>
@@ -48279,6 +48422,26 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<list>Planets in binary systems, P-type</list>
 			</planet>
 		</binary>
+	</system>
+	<system>
+		<name>KMT-2015-1</name>
+		<rightascension>17 58 39.01</rightascension>
+		<declination>-28 01 54.1</declination>
+		<distance errorminus="900" errorplus="900">8200</distance>
+		<star>
+			<name>KMT-2015-1</name>
+			<mass errorminus="0.12" errorplus="0.12">0.18</mass>
+			<planet>
+				<name>KMT-2015-1 b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="1.4" errorplus="1.4">2.2</mass>
+				<separation errorminus="0.08" errorplus="0.08">0.76</separation>
+				<discoverymethod>microlensing</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<lastupdate>15/07/22</lastupdate>
+				<description>KMT-2015-1b is a Jovian planet orbiting a low-mass star, likely located in the galactic bulge. It was detected as part of the Korea Microlensing Telescope Network (KMTNet) lensing survey.</description>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>KOI-1194</name>
@@ -49450,14 +49613,14 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<radius errorminus="0.006379" errorplus="0.006379">0.109083</radius>
 				<mass errorminus="0.003523" errorplus="0.006015">0.006197</mass>
 				<period errorminus="0.0001" errorplus="0.0001">13.7813</period>
-				<transittime>2455010.8521500</transittime>
+				<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2455686.1289</transittime>
 				<eccentricity errorminus="0.025" errorplus="0.049">0.050</eccentricity>
 				<periastron errorminus="28" errorplus="47">72</periastron>
-				<semimajoraxis>0.0910000</semimajoraxis>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.091</semimajoraxis>
 				<temperature>446.0</temperature>
 				<list>Confirmed planets</list>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/06/17</lastupdate>
+				<lastupdate>15/07/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 				<istransiting>1</istransiting>
@@ -49471,12 +49634,12 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<mass errorminus="0.001217" errorplus="0.002120">0.002013</mass>
 				<period errorminus="0.0008" errorplus="0.0009">23.0881</period>
 				<periastron errorminus="120" errorplus="130">170</periastron>
-				<transittime errorminus="0.0009700" errorplus="0.0009700">2455004.0047100</transittime>
-				<semimajoraxis>0.1280000</semimajoraxis>
+				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">24556996.6689</transittime>
+				<semimajoraxis errorminus="0.004" errorplus="0.004">0.128</semimajoraxis>
 				<temperature>376.0</temperature>
 				<list>Confirmed planets</list>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/06/17</lastupdate>
+				<lastupdate>15/07/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 				<istransiting>1</istransiting>
@@ -49489,11 +49652,12 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<radius errorminus="0.002916" errorplus="0.002916">0.047570</radius>
 				<mass errorminus="0.000116" errorplus="0.000186">0.000208</mass>
 				<period errorminus="0.0006" errorplus="0.0004">10.3126</period>
-				<transittime errorminus="0.0019100" errorplus="0.0019100">2454966.5442500</transittime>
+				<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2455688.4142</transittime>
+				<semimajoraxis errorminus="0.003" errorplus="0.003">0.075</semimajoraxis>
 				<list>Confirmed planets</list>
 				<description>Kepler-138 b has been discovered by the Kepler spacecraft and was first announced in 2014. In June 2015, a team of astronomers has measured the mass and size of Kepler-138 b to find that it is in fact the smallest exoplanet yet. Kepler-138 b is a Mars-sized object orbiting a red dwarf star about 200 light years from our solar system. Current measurements are consistent with a variety of compositions, and favor compositions that are mostly rock. All three planets orbiting Kepler-138 are close to their star and are most likely are too hot to be habitable.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>15/06/17</lastupdate>
+				<lastupdate>15/07/14</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -49601,18 +49765,18 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<magK errorminus="0.016" errorplus="0.016">10.628</magK>
 			<temperature errorminus="54.00" errorplus="54.00">6022.00</temperature>
 			<age errorminus="0.9700" errorplus="0.9700">4.2100</age>
-			<radius errorminus=".27" errorplus="0.27">1.98</radius>
-			<mass errorminus="0.39" errorplus="0.52">1.26</mass>
+			<radius errorminus="0.014" errorplus="0.012">1.98</radius>
+			<mass errorminus="0.030" errorplus="0.030">1.419</mass>
 			<planet>
 				<name>KOI-370.02</name>
 				<name>KOI-370 b</name>
 				<name>Kepler-145 b</name>
 				<name>KIC 8494142 b</name>
 				<name>KIC 8494142.02</name>
-				<radius errorminus="0.03281" errorplus="0.03281">0.24150</radius>
-				<mass errorminus="0.00157" errorplus="0.16798">0.10821</mass>
+				<radius errorminus="0.025" errorplus="0.025">0.228</radius>
 				<transittime errorminus="0.0034500" errorplus="0.0034500">2454984.5312600</transittime>
-				<period>22.951</period>
+				<period errorminus="0.00023" errorplus="0.00023">22.95102</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.178</semimajoraxis>
 				<list>Confirmed planets</list>
 				<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -49626,10 +49790,11 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>Kepler-145 c</name>
 				<name>KIC 8494142 c</name>
 				<name>KIC 8494142.01</name>
-				<radius errorminus="0.05377" errorplus="0.05377">0.39368</radius>
-				<mass errorminus="0.02737" errorplus="0.34760">0.23624</mass>
+				<radius errorminus="0.010" errorplus="0.010">0.350</radius>
 				<transittime errorminus="0.0018500" errorplus="0.0018500">2455036.6489000</transittime>
-				<period>42.882</period>
+				<period errorminus="0.00015" errorplus="0.00015">42.88254</period>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.269</semimajoraxis>
+				<eccentricity errorminus="0.11" errorplus="0.11">0.11</eccentricity>
 				<list>Confirmed planets</list>
 				<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 				<discoverymethod>transit</discoverymethod>
@@ -51214,6 +51379,26 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>OGLE-2012-BLG-0563L</name>
+		<rightascension>18 05 57.72</rightascension>
+		<declination>-27 42 43.2</declination>
+		<distance errorminus="800" errorplus="600">1300</distance>
+		<star>
+			<name>OGLE-2015-BLG-0563L</name>
+			<mass errorminus="0.20" errorplus="0.12">0.34</mass>
+			<planet>
+				<name>OGLE-2015-BLG-0563L b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.23" errorplus="0.14">0.39</mass>
+				<separation errorminus="2.5" errorplus="1.5" unit="AU">4.3</separation>
+				<discoverymethod>microlensing</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<lastupdate>15/07/22</lastupdate>
+				<description>OGLE-2015-BLG-0563Lb is a Saturn-mass planet orbiting a low-mass dwarf star. The close model for the microlensing event give an alternate value for the projected separation of 0.74+0.26-0.42 AU.</description>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>OGLE-2013-BLG-0102L</name>
 		<rightascension>17 52 07.08</rightascension>
 		<declination>-31 41 26.1</declination>
@@ -51261,6 +51446,36 @@ Credit: Kains et al (2013).</imagedescription>
 				<name>OGLE-2013-BLG-0341L A</name>
 				<mass errorminus="0.0094" errorplus="0.0094">0.1209</mass>
 			</star>
+		</binary>
+	</system>
+	<system>
+		<name>OGLE-2013-BLG-0723L</name>
+		<rightascension>17 34 40.51</rightascension>
+		<declination>-27 26 53.2</declination>
+		<distance errorminus="40" errorplus="40">490</distance>
+		<binary>
+			<name>OGLE-2013-BLG-0723L</name>
+			<separation errorminus="0.15" errorplus="0.15" unit="AU">1.74</separation>
+			<star>
+				<name>OGLE-2013-BLG-0723LA</name>
+				<mass errorminus="0.009" errorplus="0.009">0.097</mass>
+			</star>
+			<star>
+				<name>OGLE-2013-BLG-0723LB</name>
+				<mass errorminus="0.003" errorplus="0.003">0.031</mass>
+				<planet>
+					<name>OGLE-2013-BLG-0723LB b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.0002" errorplus="0.0002">0.0022</mass>
+					<separation errorminus="0.03" errorplus="0.03" unit="AU">0.34</separation>
+					<discoverymethod>microlensing</discoverymethod>
+					<discoveryyear>2015</discoveryyear>
+					<lastupdate>15/07/22</lastupdate>
+					<description>OGLE-2013-BLG-0723LBb is a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It can therefore be considered either a scaled-up exommon system or a scaled-down planetary system. There is evidence that the system may also contain an additional, more luminous star around which the three known objects revolve.</description>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<semimajoraxis>1.74</semimajoraxis>
 		</binary>
 	</system>
 	<system>
