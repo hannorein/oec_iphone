@@ -268,7 +268,7 @@
 		<id>1RXS1609 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>12</mass>
+			<mass />
 			<radius>1.7</radius>
 			<orbit>
 				<period />
@@ -281,7 +281,7 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K7&#177;1V</spectraltype>
+			<spectraltype>M0&#177;1V</spectraltype>
 			<mass>0.85</mass>
 			<radius>1.35</radius>
 			<metallicity />
@@ -298,8 +298,8 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>15/06/10</lastupdate>
-		<description>1RXS J160929.1-210524 is a 5 million year old pre-main sequence star in the constellation of Scorpius. The observed planet has a large separation, posing problems for current formation scenarios. Two possibilities are that the planet formed by gravitational instability or migrated outwards.</description>
+		<lastupdate>15/07/29</lastupdate>
+		<description>1RXS J160929.1-210524 is a 5 million year old pre-main sequence star in the constellation of Scorpius. The observed planet has a large separation, posing problems for current formation scenarios. Two possibilities are that the planet formed by gravitational instability or migrated outwards. There is evidence that 1RXS 1609 b is surrounded by a dust disc inclined to the line of sight.</description>
 		<new />
 		<image>1RXS1609</image>
 		<imagedescription>This image of the host star and the planet was taken with the Gemini North telescope and released in September 2008. Credit: Gemini Observatory.</imagedescription>
@@ -744,6 +744,50 @@
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>15/04/20</lastupdate>
 		<description>2MASS 0122-2439 B is an L-dwarf companion to the star 2MASS J01225093-2439505. The age and luminosity of the object gives a dual-valued prediction for the mass, either in the range 12&#8211;13 or 22&#8211;27 Jupiter masses, assuming the system is a member of the AB Doradus moving group.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>2MASS J0219-3925 B</id_exoplaneteu>
+		<name>2MASS J0219-3925 B</name>
+		<name>2MASS J02192210-3925225 B</name>
+		<id>2MASS J0219-3925 B</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>13.9</mass>
+			<radius>1.44</radius>
+			<orbit>
+				<period />
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M6&#947;</spectraltype>
+			<mass>0.108</mass>
+			<radius>0.281</radius>
+			<metallicity />
+			<distance>39.4</distance>
+			<temperature>3064</temperature>
+			<rightascension />
+			<declination />
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/24</lastupdate>
+		<description>2MASS J0219-3925 B is a low-mass L-type companion to an M-dwarf in the Tucana-Horologium association. The mass is close to the deuterium-burning limit.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -4328,14 +4372,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201208431 b</id_exoplaneteu>
 		<name>EPIC 201208431 b</name>
 		<name>EPIC 201208431.01</name>
+		<name>K2-4 b</name>
 		<id>EPIC 201208431 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.214</radius>
+			<radius>0.218</radius>
 			<orbit>
-				<period>10.00411</period>
-				<semimajoraxis>0.078</semimajoraxis>
+				<period>10.00329</period>
+				<semimajoraxis>0.0777</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4345,11 +4390,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.64</mass>
-			<radius>0.61</radius>
-			<metallicity>-0.05</metallicity>
-			<distance>222</distance>
-			<temperature>4180</temperature>
+			<mass>0.63</mass>
+			<radius>0.6</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>218</distance>
+			<temperature>4197</temperature>
 			<rightascension>11 38 58.953</rightascension>
 			<declination>-03 54 20.11</declination>
 			<angulardistance />
@@ -4361,12 +4406,13 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201295312 b</id_exoplaneteu>
@@ -4376,10 +4422,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.179</radius>
+			<radius>0.199</radius>
 			<orbit>
-				<period>5.65621</period>
-				<semimajoraxis>0.0629</semimajoraxis>
+				<period>5.65706</period>
+				<semimajoraxis>0.0633</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4389,11 +4435,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.05</mass>
-			<radius>1.01</radius>
+			<mass>1.07</mass>
+			<radius>1.09</radius>
 			<metallicity>-0.02</metallicity>
-			<distance>307</distance>
-			<temperature>5942</temperature>
+			<distance>331</distance>
+			<temperature>5989</temperature>
 			<rightascension>11 36 02.791</rightascension>
 			<declination>-02 31 15.17</declination>
 			<angulardistance />
@@ -4405,25 +4451,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201338508 b</id_exoplaneteu>
 		<name>EPIC 201338508 b</name>
-		<name>EPIC 201338508.01</name>
+		<name>EPIC 201338508.02</name>
+		<name>K2-5 b</name>
 		<id>EPIC 201338508 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.197</radius>
+			<radius>0.177</radius>
 			<orbit>
-				<period>10.93271</period>
-				<semimajoraxis>0.0804</semimajoraxis>
+				<period>5.73491</period>
+				<semimajoraxis>0.0509</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4433,11 +4481,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.58</mass>
-			<radius>0.56</radius>
-			<metallicity>-0.29</metallicity>
-			<distance>199</distance>
-			<temperature>4135</temperature>
+			<mass>0.53</mass>
+			<radius>0.52</radius>
+			<metallicity>-0.51</metallicity>
+			<distance>181</distance>
+			<temperature>4102</temperature>
 			<rightascension>11 17 12.84</rightascension>
 			<declination>-01 52 40.71</declination>
 			<angulardistance />
@@ -4449,25 +4497,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201338508 c</id_exoplaneteu>
 		<name>EPIC 201338508 c</name>
-		<name>EPIC 201338508.02</name>
+		<name>EPIC 201338508.01</name>
+		<name>K2-5 c</name>
 		<id>EPIC 201338508 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.187</radius>
+			<radius>0.177</radius>
 			<orbit>
-				<period>5.73501</period>
-				<semimajoraxis>0.0523</semimajoraxis>
+				<period>10.93406</period>
+				<semimajoraxis>0.0783</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4477,11 +4527,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.58</mass>
-			<radius>0.56</radius>
-			<metallicity>-0.29</metallicity>
-			<distance>199</distance>
-			<temperature>4135</temperature>
+			<mass>0.53</mass>
+			<radius>0.52</radius>
+			<metallicity>-0.51</metallicity>
+			<distance>181</distance>
+			<temperature>4102</temperature>
 			<rightascension>11 17 12.84</rightascension>
 			<declination>-01 52 40.71</declination>
 			<angulardistance />
@@ -4493,41 +4543,41 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201367065 b</id_exoplaneteu>
 		<name>EPIC 201367065 b</name>
 		<name>EPIC 201367065.01</name>
 		<name>K2-3 b</name>
-		<name>2MASS 11292037-0127173 b</name>
 		<id>EPIC 201367065 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.195</radius>
+			<radius>0.182</radius>
 			<orbit>
-				<period>10.05429</period>
-				<semimajoraxis>0.0749</semimajoraxis>
+				<period>10.05448</period>
+				<semimajoraxis>0.074</semimajoraxis>
 				<eccentricity />
-				<inclination>89.28</inclination>
+				<inclination />
 				<periastron />
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M0.2V</spectraltype>
-			<mass>0.56</mass>
-			<radius>0.54</radius>
-			<metallicity>-0.16</metallicity>
-			<distance>45</distance>
-			<temperature>3943</temperature>
+			<spectraltype />
+			<mass>0.53</mass>
+			<radius>0.52</radius>
+			<metallicity>-0.3</metallicity>
+			<distance>42</distance>
+			<temperature>3951</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4537,55 +4587,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
-		<new />
-		<image />
-		<imagedescription />
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>EPIC 201367065 c</id_exoplaneteu>
-		<name>EPIC 201367065 c</name>
-		<name>EPIC 201367065.02</name>
-		<name>K2-3 c</name>
-		<name>2MASS 11292037-0127173 c</name>
-		<id>EPIC 201367065 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass />
-			<radius>0.146</radius>
-			<orbit>
-				<period>24.64682</period>
-				<semimajoraxis>0.1361</semimajoraxis>
-				<eccentricity />
-				<inclination>89.55</inclination>
-				<periastron />
-				<longitude />
-				<ascendingnode />
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M0.2V</spectraltype>
-			<mass>0.56</mass>
-			<radius>0.54</radius>
-			<metallicity>-0.16</metallicity>
-			<distance>45</distance>
-			<temperature>3943</temperature>
-			<rightascension>11 29 20.388</rightascension>
-			<declination>-01 27 17.23</declination>
-			<angulardistance />
-			<magV />
-			<magI />
-			<magH />
-			<magJ />
-			<magK />
-		</star>
-		<multiplicity>3</multiplicity>
-		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -4613,12 +4617,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M0.2V</spectraltype>
-			<mass>0.56</mass>
-			<radius>0.54</radius>
-			<metallicity>-0.16</metallicity>
-			<distance>45</distance>
-			<temperature>3943</temperature>
+			<spectraltype />
+			<mass>0.53</mass>
+			<radius>0.52</radius>
+			<metallicity>-0.3</metallicity>
+			<distance>42</distance>
+			<temperature>3951</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4628,7 +4632,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/01/17</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
@@ -4641,14 +4645,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201384232 b</id_exoplaneteu>
 		<name>EPIC 201384232 b</name>
 		<name>EPIC 201384232.01</name>
+		<name>K2-6 b</name>
 		<id>EPIC 201384232 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.247</radius>
+			<radius>0.230</radius>
 			<orbit>
-				<period>30.93716</period>
-				<semimajoraxis>0.1911</semimajoraxis>
+				<period>30.94191</period>
+				<semimajoraxis>0.1898</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4658,11 +4663,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.98</mass>
-			<radius>0.94</radius>
-			<metallicity>-0.05</metallicity>
-			<distance>335</distance>
-			<temperature>5772</temperature>
+			<mass>0.97</mass>
+			<radius>0.96</radius>
+			<metallicity>-0.14</metallicity>
+			<distance>343</distance>
+			<temperature>5850</temperature>
 			<rightascension>11 52 46.142</rightascension>
 			<declination>-01 11 54.52</declination>
 			<angulardistance />
@@ -4674,25 +4679,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201393098 b</id_exoplaneteu>
 		<name>EPIC 201393098 b</name>
 		<name>EPIC 201393098.01</name>
+		<name>K2-7 b</name>
 		<id>EPIC 201393098 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.215</radius>
+			<radius>0.246</radius>
 			<orbit>
-				<period>28.68077</period>
-				<semimajoraxis>0.1808</semimajoraxis>
+				<period>28.67992</period>
+				<semimajoraxis>0.1814</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4703,10 +4710,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<spectraltype />
 			<mass>0.97</mass>
-			<radius>0.91</radius>
-			<metallicity>-0.04</metallicity>
-			<distance>405</distance>
-			<temperature>5688</temperature>
+			<radius>0.96</radius>
+			<metallicity>-0.07</metallicity>
+			<distance>433</distance>
+			<temperature>5772</temperature>
 			<rightascension>11 08 22.505</rightascension>
 			<declination>-01 03 56.72</declination>
 			<angulardistance />
@@ -4718,7 +4725,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -4733,10 +4740,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.176</radius>
+			<radius>0.188</radius>
 			<orbit>
-				<period>19.15379</period>
-				<semimajoraxis>0.1447</semimajoraxis>
+				<period>19.15344</period>
+				<semimajoraxis>0.1408</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4746,11 +4753,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.13</mass>
-			<radius>1.15</radius>
-			<metallicity>-0.14</metallicity>
-			<distance>372</distance>
-			<temperature>6340</temperature>
+			<mass>1.01</mass>
+			<radius>1.12</radius>
+			<metallicity>-0.5</metallicity>
+			<distance>362</distance>
+			<temperature>6445</temperature>
 			<rightascension>11 37 03.923</rightascension>
 			<declination>-00 54 26.14</declination>
 			<angulardistance />
@@ -4762,25 +4769,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201445392 b</id_exoplaneteu>
 		<name>EPIC 201445392 b</name>
 		<name>EPIC 201445392.01</name>
+		<name>K2-8 b</name>
 		<id>EPIC 201445392 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.252</radius>
+			<radius>0.273</radius>
 			<orbit>
-				<period>10.35262</period>
-				<semimajoraxis>0.0837</semimajoraxis>
+				<period>10.35176</period>
+				<semimajoraxis>0.0856</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4790,11 +4799,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.75</mass>
-			<radius>0.71</radius>
-			<metallicity>-0.1</metallicity>
-			<distance>386</distance>
-			<temperature>4813</temperature>
+			<mass>0.79</mass>
+			<radius>0.74</radius>
+			<metallicity>-0.01</metallicity>
+			<distance>405</distance>
+			<temperature>4890</temperature>
 			<rightascension>11 19 10.48</rightascension>
 			<declination>-00 17 03.75</declination>
 			<angulardistance />
@@ -4806,12 +4815,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201445392 c</id_exoplaneteu>
@@ -4821,10 +4830,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.200</radius>
+			<radius>0.213</radius>
 			<orbit>
-				<period>5.06442</period>
-				<semimajoraxis>0.052</semimajoraxis>
+				<period>5.06468</period>
+				<semimajoraxis>0.0531</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4834,11 +4843,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.75</mass>
-			<radius>0.71</radius>
-			<metallicity>-0.1</metallicity>
-			<distance>386</distance>
-			<temperature>4813</temperature>
+			<mass>0.79</mass>
+			<radius>0.74</radius>
+			<metallicity>-0.01</metallicity>
+			<distance>405</distance>
+			<temperature>4890</temperature>
 			<rightascension>11 19 10.48</rightascension>
 			<declination>-00 17 03.75</declination>
 			<angulardistance />
@@ -4850,7 +4859,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -4861,14 +4870,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201465501 b</id_exoplaneteu>
 		<name>EPIC 201465501 b</name>
 		<name>EPIC 201465501.01</name>
+		<name>K2-9 b</name>
 		<id>EPIC 201465501 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.160</radius>
+			<radius>0.147</radius>
 			<orbit>
-				<period>18.44878</period>
-				<semimajoraxis>0.0885</semimajoraxis>
+				<period>18.44883</period>
+				<semimajoraxis>0.0848</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -4878,11 +4888,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.32</mass>
-			<radius>0.32</radius>
-			<metallicity>-0.18</metallicity>
-			<distance>84</distance>
-			<temperature>3453</temperature>
+			<mass>0.24</mass>
+			<radius>0.25</radius>
+			<metallicity>-0.46</metallicity>
+			<distance>66</distance>
+			<temperature>3468</temperature>
 			<rightascension>11 45 03.472</rightascension>
 			<declination>+00 00 19.08</declination>
 			<angulardistance />
@@ -4894,43 +4904,44 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201505350 b</id_exoplaneteu>
 		<name>EPIC 201505350 b</name>
-		<name>EPIC 201505350.01</name>
+		<name>EPIC 201505350.02</name>
+		<name>K2-19 b</name>
 		<id>EPIC 201505350 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.586</radius>
+			<radius>0.654</radius>
 			<orbit>
-				<period>7.91933</period>
-				<semimajoraxis>0.0733</semimajoraxis>
+				<period>7.91943</period>
+				<semimajoraxis>0.0735</semimajoraxis>
 				<eccentricity />
-				<inclination>88.83</inclination>
+				<inclination />
 				<periastron />
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
+			<spectraltype />
 			<mass>0.84</mass>
-			<radius>0.79</radius>
-			<metallicity>0.38</metallicity>
-			<distance>280</distance>
-			<temperature>5408</temperature>
+			<radius>0.81</radius>
+			<metallicity>-0.27</metallicity>
+			<distance>291</distance>
+			<temperature>5519</temperature>
 			<rightascension>11 39 50.477</rightascension>
 			<declination>+00 36 12.87</declination>
 			<angulardistance />
-			<magV>12.8</magV>
+			<magV />
 			<magI />
 			<magH />
 			<magJ />
@@ -4938,7 +4949,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -4948,33 +4959,34 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201505350 c</id_exoplaneteu>
 		<name>EPIC 201505350 c</name>
-		<name>EPIC 201505350.02</name>
+		<name>EPIC 201505350.01</name>
+		<name>K2-19 c</name>
 		<id>EPIC 201505350 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.415</radius>
+			<radius>0.397</radius>
 			<orbit>
-				<period>11.90699</period>
-				<semimajoraxis>0.0961</semimajoraxis>
+				<period>11.90691</period>
+				<semimajoraxis>0.0965</semimajoraxis>
 				<eccentricity />
-				<inclination>89.91</inclination>
+				<inclination />
 				<periastron />
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
+			<spectraltype />
 			<mass>0.84</mass>
-			<radius>0.79</radius>
-			<metallicity>0.38</metallicity>
-			<distance>280</distance>
-			<temperature>5408</temperature>
+			<radius>0.81</radius>
+			<metallicity>-0.27</metallicity>
+			<distance>291</distance>
+			<temperature>5519</temperature>
 			<rightascension>11 39 50.477</rightascension>
 			<declination>+00 36 12.87</declination>
 			<angulardistance />
-			<magV>12.8</magV>
+			<magV />
 			<magI />
 			<magH />
 			<magJ />
@@ -4982,7 +4994,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -4997,10 +5009,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.378</radius>
+			<radius>0.531</radius>
 			<orbit>
-				<period>6.77133</period>
-				<semimajoraxis>0.0658</semimajoraxis>
+				<period>6.77131</period>
+				<semimajoraxis>0.0668</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5010,11 +5022,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.86</mass>
-			<radius>0.8</radius>
+			<mass>0.89</mass>
+			<radius>0.88</radius>
 			<metallicity>-0.09</metallicity>
-			<distance>226</distance>
-			<temperature>5290</temperature>
+			<distance>251</distance>
+			<temperature>5422</temperature>
 			<rightascension>11 26 03.639</rightascension>
 			<declination>+01 13 50.66</declination>
 			<angulardistance />
@@ -5026,12 +5038,13 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201549860 b</id_exoplaneteu>
@@ -5041,10 +5054,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.196</radius>
+			<radius>0.203</radius>
 			<orbit>
-				<period>5.60822</period>
-				<semimajoraxis>0.0548</semimajoraxis>
+				<period>5.6084</period>
+				<semimajoraxis>0.0555</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5054,11 +5067,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.71</mass>
-			<radius>0.67</radius>
-			<metallicity>-0.01</metallicity>
-			<distance>242</distance>
-			<temperature>4480</temperature>
+			<mass>0.73</mass>
+			<radius>0.69</radius>
+			<metallicity>0.05</metallicity>
+			<distance>249</distance>
+			<temperature>4523</temperature>
 			<rightascension>11 20 24.739</rightascension>
 			<declination>+01 17 09.44</declination>
 			<angulardistance />
@@ -5070,12 +5083,13 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201565013 b</id_exoplaneteu>
@@ -5085,10 +5099,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>1.118</radius>
+			<radius>1.472</radius>
 			<orbit>
-				<period>8.63811</period>
-				<semimajoraxis>0.066</semimajoraxis>
+				<period>8.6381</period>
+				<semimajoraxis>0.0669</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5100,9 +5114,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<spectraltype />
 			<mass>0.51</mass>
 			<radius>0.5</radius>
-			<metallicity>-0.42</metallicity>
-			<distance>501</distance>
-			<temperature>3955</temperature>
+			<metallicity>-0.44</metallicity>
+			<distance>506</distance>
+			<temperature>3987</temperature>
 			<rightascension>11 47 58.126</rightascension>
 			<declination>+01 30 36.9</declination>
 			<angulardistance />
@@ -5114,7 +5128,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5125,14 +5139,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201577035 b</id_exoplaneteu>
 		<name>EPIC 201577035 b</name>
 		<name>EPIC 201577035.01</name>
+		<name>K2-10 b</name>
 		<id>EPIC 201577035 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.330</radius>
+			<radius>0.361</radius>
 			<orbit>
-				<period>19.30622</period>
-				<semimajoraxis>0.1365</semimajoraxis>
+				<period>19.30691</period>
+				<semimajoraxis>0.1374</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5142,11 +5157,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.93</mass>
-			<radius>0.88</radius>
+			<mass>0.94</mass>
+			<radius>0.93</radius>
 			<metallicity>-0.04</metallicity>
-			<distance>256</distance>
-			<temperature>5553</temperature>
+			<distance>271</distance>
+			<temperature>5647</temperature>
 			<rightascension>11 28 29.27</rightascension>
 			<declination>+01 41 26.29</declination>
 			<angulardistance />
@@ -5158,25 +5173,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201596316 b</id_exoplaneteu>
 		<name>EPIC 201596316 b</name>
 		<name>EPIC 201596316.01</name>
+		<name>K2-11 b</name>
 		<id>EPIC 201596316 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.205</radius>
+			<radius>0.695</radius>
 			<orbit>
-				<period>39.84348</period>
-				<semimajoraxis>0.2126</semimajoraxis>
+				<period>39.93767</period>
+				<semimajoraxis>0.2257</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5186,11 +5203,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.83</mass>
-			<radius>0.77</radius>
-			<metallicity>-0.16</metallicity>
-			<distance>297</distance>
-			<temperature>5254</temperature>
+			<mass>1.35</mass>
+			<radius>5.15</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>2019</distance>
+			<temperature>5433</temperature>
 			<rightascension>11 16 10.08</rightascension>
 			<declination>+01 59 12.62</declination>
 			<angulardistance />
@@ -5202,25 +5219,26 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201613023 b</id_exoplaneteu>
 		<name>EPIC 201613023 b</name>
 		<name>EPIC 201613023.01</name>
+		<name>K2-12 b</name>
 		<id>EPIC 201613023 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.187</radius>
+			<radius>0.214</radius>
 			<orbit>
-				<period>8.28186</period>
-				<semimajoraxis>0.0786</semimajoraxis>
+				<period>8.28212</period>
+				<semimajoraxis>0.0802</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5230,11 +5248,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.96</mass>
-			<radius>0.9</radius>
-			<metallicity>-0.06</metallicity>
-			<distance>259</distance>
-			<temperature>5687</temperature>
+			<mass>1.01</mass>
+			<radius>1.01</radius>
+			<metallicity>0.03</metallicity>
+			<distance>294</distance>
+			<temperature>5800</temperature>
 			<rightascension>11 32 46.089</rightascension>
 			<declination>+02 14 41.58</declination>
 			<angulardistance />
@@ -5246,7 +5264,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5263,8 +5281,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<mass />
 			<radius>0.164</radius>
 			<orbit>
-				<period>7.2821</period>
-				<semimajoraxis>0.0573</semimajoraxis>
+				<period>7.28161</period>
+				<semimajoraxis>0.0586</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5274,11 +5292,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.5</mass>
-			<radius>0.48</radius>
-			<metallicity>-0.04</metallicity>
-			<distance>106</distance>
-			<temperature>3681</temperature>
+			<mass>0.52</mass>
+			<radius>0.49</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>111</distance>
+			<temperature>3742</temperature>
 			<rightascension>11 57 57.998</rightascension>
 			<declination>+02 19 17.31</declination>
 			<angulardistance />
@@ -5290,7 +5308,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5301,14 +5319,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201629650 b</id_exoplaneteu>
 		<name>EPIC 201629650 b</name>
 		<name>EPIC 201629650.01</name>
+		<name>K2-13 b</name>
 		<id>EPIC 201629650 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.195</radius>
+			<radius>0.174</radius>
 			<orbit>
-				<period>40.04833</period>
-				<semimajoraxis>0.2153</semimajoraxis>
+				<period>39.91488</period>
+				<semimajoraxis>0.2114</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5318,11 +5337,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.83</mass>
+			<mass>0.8</mass>
 			<radius>0.78</radius>
-			<metallicity>-0.37</metallicity>
-			<distance>288</distance>
-			<temperature>5569</temperature>
+			<metallicity>-0.54</metallicity>
+			<distance>290</distance>
+			<temperature>5698</temperature>
 			<rightascension>11 20 37.327</rightascension>
 			<declination>+02 30 09.71</declination>
 			<angulardistance />
@@ -5334,25 +5353,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201635569 b</id_exoplaneteu>
 		<name>EPIC 201635569 b</name>
 		<name>EPIC 201635569.01</name>
+		<name>K2-14 b</name>
 		<id>EPIC 201635569 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.472</radius>
+			<radius>0.443</radius>
 			<orbit>
-				<period>8.36807</period>
-				<semimajoraxis>0.0636</semimajoraxis>
+				<period>8.36802</period>
+				<semimajoraxis>0.0627</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5362,11 +5383,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.5</mass>
-			<radius>0.48</radius>
-			<metallicity>-0.31</metallicity>
-			<distance>237</distance>
-			<temperature>3829</temperature>
+			<mass>0.47</mass>
+			<radius>0.45</radius>
+			<metallicity>-0.37</metallicity>
+			<distance>219</distance>
+			<temperature>3789</temperature>
 			<rightascension>11 52 13.686</rightascension>
 			<declination>+02 35 39.28</declination>
 			<angulardistance />
@@ -5378,12 +5399,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201637175 b</id_exoplaneteu>
@@ -5438,10 +5459,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.705</radius>
+			<radius>0.670</radius>
 			<orbit>
-				<period>40.73649</period>
-				<semimajoraxis>0.2239</semimajoraxis>
+				<period>40.7362</period>
+				<semimajoraxis>0.2205</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5451,11 +5472,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.92</mass>
-			<radius>0.87</radius>
-			<metallicity>-0.08</metallicity>
-			<distance>684</distance>
-			<temperature>5551</temperature>
+			<mass>0.87</mass>
+			<radius>0.85</radius>
+			<metallicity>-0.26</metallicity>
+			<distance>673</distance>
+			<temperature>5618</temperature>
 			<rightascension>11 40 57.791</rightascension>
 			<declination>+03 40 53.7</declination>
 			<angulardistance />
@@ -5467,25 +5488,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Confirmed planets</list>
+		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201736247 b</id_exoplaneteu>
 		<name>EPIC 201736247 b</name>
 		<name>EPIC 201736247.01</name>
+		<name>K2-15 b</name>
 		<id>EPIC 201736247 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.260</radius>
+			<radius>0.228</radius>
 			<orbit>
-				<period>11.81037</period>
-				<semimajoraxis>0.0936</semimajoraxis>
+				<period>11.8104</period>
+				<semimajoraxis>0.091</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5495,11 +5518,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.8</mass>
-			<radius>0.76</radius>
-			<metallicity>-0.14</metallicity>
-			<distance>486</distance>
-			<temperature>5114</temperature>
+			<mass>0.72</mass>
+			<radius>0.68</radius>
+			<metallicity>-0.46</metallicity>
+			<distance>437</distance>
+			<temperature>5131</temperature>
 			<rightascension>11 52 26.591</rightascension>
 			<declination>+04 15 17.09</declination>
 			<angulardistance />
@@ -5511,7 +5534,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5521,15 +5544,16 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201754305 b</id_exoplaneteu>
 		<name>EPIC 201754305 b</name>
-		<name>EPIC 201754305.01</name>
+		<name>EPIC 201754305.02</name>
+		<name>K2-16 b</name>
 		<id>EPIC 201754305 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.203</radius>
+			<radius>0.196</radius>
 			<orbit>
-				<period>19.07246</period>
-				<semimajoraxis>0.1219</semimajoraxis>
+				<period>7.62067</period>
+				<semimajoraxis>0.0662</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5541,9 +5565,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<spectraltype />
 			<mass>0.67</mass>
 			<radius>0.64</radius>
-			<metallicity>-0.35</metallicity>
-			<distance>325</distance>
-			<temperature>4717</temperature>
+			<metallicity>-0.4</metallicity>
+			<distance>324</distance>
+			<temperature>4761</temperature>
 			<rightascension>11 40 23.342</rightascension>
 			<declination>+04 33 26.42</declination>
 			<angulardistance />
@@ -5555,7 +5579,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5565,15 +5589,16 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 201754305 c</id_exoplaneteu>
 		<name>EPIC 201754305 c</name>
-		<name>EPIC 201754305.02</name>
+		<name>EPIC 201754305.01</name>
+		<name>K2-16 c</name>
 		<id>EPIC 201754305 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.201</radius>
+			<radius>0.197</radius>
 			<orbit>
-				<period>7.62016</period>
-				<semimajoraxis>0.0661</semimajoraxis>
+				<period>19.07536</period>
+				<semimajoraxis>0.122</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5585,9 +5610,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<spectraltype />
 			<mass>0.67</mass>
 			<radius>0.64</radius>
-			<metallicity>-0.35</metallicity>
-			<distance>325</distance>
-			<temperature>4717</temperature>
+			<metallicity>-0.4</metallicity>
+			<distance>324</distance>
+			<temperature>4761</temperature>
 			<rightascension>11 40 23.342</rightascension>
 			<declination>+04 33 26.42</declination>
 			<angulardistance />
@@ -5599,7 +5624,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5614,10 +5639,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.227</radius>
+			<radius>0.353</radius>
 			<orbit>
-				<period>33.50924</period>
-				<semimajoraxis>0.1903</semimajoraxis>
+				<period>33.51569</period>
+				<semimajoraxis>0.1875</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5627,11 +5652,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.85</mass>
-			<radius>0.8</radius>
-			<metallicity>-0.23</metallicity>
-			<distance>162</distance>
-			<temperature>5437</temperature>
+			<mass>0.74</mass>
+			<radius>0.71</radius>
+			<metallicity>-0.69</metallicity>
+			<distance>146</distance>
+			<temperature>5552</temperature>
 			<rightascension>11 42 37.042</rightascension>
 			<declination>+05 53 39.56</declination>
 			<angulardistance />
@@ -5643,25 +5668,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201855371 b</id_exoplaneteu>
 		<name>EPIC 201855371 b</name>
 		<name>EPIC 201855371.01</name>
+		<name>K2-17 b</name>
 		<id>EPIC 201855371 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.202</radius>
+			<radius>0.205</radius>
 			<orbit>
-				<period>17.97149</period>
-				<semimajoraxis>0.1169</semimajoraxis>
+				<period>17.96753</period>
+				<semimajoraxis>0.119</semimajoraxis>
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -5671,11 +5698,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.68</mass>
-			<radius>0.64</radius>
-			<metallicity>0.01</metallicity>
-			<distance>131</distance>
-			<temperature>4288</temperature>
+			<mass>0.71</mass>
+			<radius>0.66</radius>
+			<metallicity>0.15</metallicity>
+			<distance>134</distance>
+			<temperature>4320</temperature>
 			<rightascension>11 53 19.146</rightascension>
 			<declination>+06 24 44.14</declination>
 			<angulardistance />
@@ -5687,7 +5714,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5698,13 +5725,14 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201912552 b</id_exoplaneteu>
 		<name>EPIC 201912552 b</name>
 		<name>EPIC 201912552.01</name>
+		<name>K2-18 b</name>
 		<id>EPIC 201912552 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
 			<radius>0.206</radius>
 			<orbit>
-				<period>32.94139</period>
+				<period>32.94488</period>
 				<semimajoraxis>0.1491</semimajoraxis>
 				<eccentricity />
 				<inclination />
@@ -5731,7 +5759,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
+		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets.</description>
 		<new />
 		<image />
@@ -56040,9 +56068,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<radius>0.37090</radius>
 			<orbit>
 				<period>30.160546</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<semimajoraxis>0.195</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>88.5</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -56052,7 +56080,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.0790</mass>
 			<radius>2.935</radius>
-			<metallicity />
+			<metallicity>0.28</metallicity>
 			<distance>511.95</distance>
 			<temperature>4991</temperature>
 			<rightascension>19 20 25</rightascension>
@@ -56066,7 +56094,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>Kepler-278 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-278 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -56087,9 +56115,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<radius>0.32716</radius>
 			<orbit>
 				<period>51.078775</period>
-				<semimajoraxis />
+				<semimajoraxis>0.276</semimajoraxis>
 				<eccentricity />
-				<inclination />
+				<inclination>87.8</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -56099,7 +56127,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.0790</mass>
 			<radius>2.935</radius>
-			<metallicity />
+			<metallicity>0.28</metallicity>
 			<distance>511.95</distance>
 			<temperature>4991</temperature>
 			<rightascension>19 20 25</rightascension>
@@ -56113,7 +56141,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>Kepler-278 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-278 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -63803,9 +63831,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<radius>0.22236</radius>
 			<orbit>
 				<period>13.726976</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<semimajoraxis>0.116</semimajoraxis>
+				<eccentricity>0.04</eccentricity>
+				<inclination>89.4</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -63815,7 +63843,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.1010</mass>
 			<radius>1.735</radius>
-			<metallicity />
+			<metallicity>-0.07</metallicity>
 			<distance>545.29</distance>
 			<temperature>5923</temperature>
 			<rightascension>18 51 54</rightascension>
@@ -63829,7 +63857,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/03/18</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>Kepler-338 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-338 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -63850,9 +63878,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<radius>0.21324</radius>
 			<orbit>
 				<period>24.310856</period>
-				<semimajoraxis />
-				<eccentricity />
-				<inclination />
+				<semimajoraxis>0.170</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination>89.9</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -63862,7 +63890,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.1010</mass>
 			<radius>1.735</radius>
-			<metallicity />
+			<metallicity>-0.07</metallicity>
 			<distance>545.29</distance>
 			<temperature>5923</temperature>
 			<rightascension>18 51 54</rightascension>
@@ -63876,7 +63904,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>Kepler-338 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-338 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -63898,7 +63926,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<orbit>
 				<period>44.431014</period>
 				<semimajoraxis />
-				<eccentricity />
+				<eccentricity>0.03</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -63909,7 +63937,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.1010</mass>
 			<radius>1.735</radius>
-			<metallicity />
+			<metallicity>-0.07</metallicity>
 			<distance>545.29</distance>
 			<temperature>5923</temperature>
 			<rightascension>18 51 54</rightascension>
@@ -63923,7 +63951,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>Kepler-338 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-338 d are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -63942,9 +63970,9 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.027</mass>
 			<radius>0.139</radius>
 			<orbit>
-				<period>9.341</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>9.34149</period>
+				<semimajoraxis>0.090</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -63955,7 +63983,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.1010</mass>
 			<radius>1.735</radius>
-			<metallicity />
+			<metallicity>-0.07</metallicity>
 			<distance>545.29</distance>
 			<temperature>5923</temperature>
 			<rightascension>18 51 54</rightascension>
@@ -63969,7 +63997,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/03/18</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>Kepler-338 e was confirmed by transit timing variations.</description>
 		<new />
 		<image />
@@ -67552,7 +67580,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>15/06/09</lastupdate>
-		<description>Kepler-37 b is a tiny planet, about the size of our Moon. Due to the high irradiation it has probably a rocky surface with no atmosphere or water, similar than Mercury. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
+		<description>Kepler-37 b is a tiny planet, about the size of our Moon. Due to the high irradiation it has probably a rocky surface with no atmosphere or water, similar to Mercury. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -72870,7 +72898,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<orbit>
 				<period>3.6001053</period>
 				<semimajoraxis>0.04178</semimajoraxis>
-				<eccentricity>0.16</eccentricity>
+				<eccentricity>0.08</eccentricity>
 				<inclination>88.0</inclination>
 				<periastron />
 				<longitude />
@@ -72895,7 +72923,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/02/01</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
 		<new />
 		<image />
@@ -72918,7 +72946,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<orbit>
 				<period>4.5458841</period>
 				<semimajoraxis>0.04881</semimajoraxis>
-				<eccentricity>0.31</eccentricity>
+				<eccentricity>0.12</eccentricity>
 				<inclination>88.2</inclination>
 				<periastron />
 				<longitude />
@@ -72943,7 +72971,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/02/01</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 21 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
 		<new />
 		<image />
@@ -72991,7 +73019,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/02/01</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
 		<new />
 		<image />
@@ -73014,7 +73042,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<orbit>
 				<period>7.743493</period>
 				<semimajoraxis>0.0696</semimajoraxis>
-				<eccentricity>0.1</eccentricity>
+				<eccentricity>0.02</eccentricity>
 				<inclination>89.13</inclination>
 				<periastron />
 				<longitude />
@@ -73039,7 +73067,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>5</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/02/01</lastupdate>
+		<lastupdate>15/07/28</lastupdate>
 		<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
 		<new />
 		<image />
@@ -73422,6 +73450,100 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-449 b</id_exoplaneteu>
+		<name>Kepler-449 b</name>
+		<name>KOI-270.01</name>
+		<name>KOI-270 b</name>
+		<name>KIC 6528464 b</name>
+		<id>Kepler-449 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.1834</radius>
+			<orbit>
+				<period>12.58242</period>
+				<semimajoraxis>0.105</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.969</mass>
+			<radius>1.570</radius>
+			<metallicity />
+			<distance />
+			<temperature>5588</temperature>
+			<rightascension>19 34 55.88</rightascension>
+			<declination>41 54 03.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/28</lastupdate>
+		<description>Kepler-449 b is a planet orbiting one of the two components of the binary star KOI-270.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-449 c</id_exoplaneteu>
+		<name>Kepler-449 c</name>
+		<name>KOI-270.02</name>
+		<name>KOI-270 c</name>
+		<name>KIC 6528464 c</name>
+		<id>Kepler-449 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.2466</radius>
+			<orbit>
+				<period>33.6727</period>
+				<semimajoraxis>0.202</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.969</mass>
+			<radius>1.570</radius>
+			<metallicity />
+			<distance />
+			<temperature>5588</temperature>
+			<rightascension>19 34 55.88</rightascension>
+			<declination>41 54 03.0</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/28</lastupdate>
+		<description>Kepler-449 c is a planet orbiting one of the two components of the binary star KOI-270.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-45 b</id_exoplaneteu>
 		<name>Kepler-45 b</name>
 		<name>KOI-254 b</name>
@@ -73466,6 +73588,149 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-450 b</id_exoplaneteu>
+		<name>Kepler-450 b</name>
+		<name>Kepler-450 A b</name>
+		<name>KOI-279.01</name>
+		<name>KOI-279 A b</name>
+		<name>KIC 12314973 A b</name>
+		<id>Kepler-450 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.548</radius>
+			<orbit>
+				<period>28.454851</period>
+				<semimajoraxis>0.201</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.346</mass>
+			<radius>1.570</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 41 56.76</rightascension>
+			<declination>+51 00 48.6</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate />
+		<description>Kepler-450 b is a planet orbiting the brighter member of the binary star KOI-279.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-450 c</id_exoplaneteu>
+		<name>Kepler-450 c</name>
+		<name>Kepler-450 A c</name>
+		<name>KOI-279.02</name>
+		<name>KOI-279 A c</name>
+		<name>KIC 12314973 A c</name>
+		<id>Kepler-450 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.234</radius>
+			<orbit>
+				<period>15.413135</period>
+				<semimajoraxis>0.134</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.346</mass>
+			<radius>1.570</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 41 56.76</rightascension>
+			<declination>+51 00 48.6</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate />
+		<description>Kepler-450 c is a planet orbiting the brighter member of the binary star KOI-279.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-450 d</id_exoplaneteu>
+		<name>Kepler-450 d</name>
+		<name>Kepler-450 A d</name>
+		<name>KOI-279.03</name>
+		<name>KOI-279 A d</name>
+		<id>Kepler-450 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.0747</radius>
+			<orbit>
+				<period>7.51464</period>
+				<semimajoraxis>0.083</semimajoraxis>
+				<eccentricity>0.14</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.346</mass>
+			<radius>1.570</radius>
+			<metallicity />
+			<distance />
+			<temperature />
+			<rightascension>19 41 56.76</rightascension>
+			<declination>+51 00 48.6</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate />
+		<description>Kepler-450 d is a planet orbiting the brighter member of the binary star KOI-279.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-452 b</id_exoplaneteu>
@@ -86019,6 +86284,51 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>PTFO 8-8695 b</id_exoplaneteu>
+		<name>PTFO 8-8695 b</name>
+		<name>2MASS J05250755+0134243 b</name>
+		<name>CVSO 30 b</name>
+		<id>PTFO 8-8695 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>1.91</radius>
+			<orbit>
+				<period>0.448413</period>
+				<semimajoraxis>0.00800</semimajoraxis>
+				<eccentricity />
+				<inclination>61.8</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3</spectraltype>
+			<mass>0.34</mass>
+			<radius>1.07</radius>
+			<metallicity />
+			<distance>330</distance>
+			<temperature>3470</temperature>
+			<rightascension>05 25 07.55</rightascension>
+			<declination>+01 34 24.3</declination>
+			<angulardistance />
+			<magV>16.26</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>15/07/29</lastupdate>
+		<description>PTFO 8-8695 b is a Jupiter-sized candidate planet orbiting a T Tauri star. The orbit is rapidly precessing, causing it to stop transiting during part of its orbital evolution.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Qatar-1 b</id_exoplaneteu>
 		<name>Qatar-1 b</name>
 		<name>2MASS J20133160+6509433 b</name>
@@ -87622,6 +87932,51 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<image />
 		<imagedescription />
 		<list>Solar System</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>VHS 1256-1257 b</id_exoplaneteu>
+		<name>VHS 1256-1257 b</name>
+		<name>VHS J125602.15-125721.7 b</name>
+		<name>2MASS J125601.83-125727.6</name>
+		<id>VHS 1256-1257 b</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>11.2</mass>
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M7.5 &#177; 0.5</spectraltype>
+			<mass>0.070</mass>
+			<radius />
+			<metallicity />
+			<distance>12.7</distance>
+			<temperature>2620</temperature>
+			<rightascension>12 56 01.922</rightascension>
+			<declination>-12 57 23.990</declination>
+			<angulardistance />
+			<magV>17.759</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/23</lastupdate>
+		<description>VHS 1256-1257 b is a common-proper motion L-dwarf companion of a nearby red dwarf star. It is cooler than expected for a field L-dwarf, and its mass is close to the deuterium-burning limit.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-1 b</id_exoplaneteu>
