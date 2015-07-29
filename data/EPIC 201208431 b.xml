@@ -2,14 +2,15 @@
 	<id_exoplaneteu>EPIC 201208431 b</id_exoplaneteu>
 	<name>EPIC 201208431 b</name>
 	<name>EPIC 201208431.01</name>
+	<name>K2-4 b</name>
 	<id>EPIC 201208431 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.214</radius>
+		<radius>0.218</radius>
 		<orbit>
-			<period>10.00411</period>
-			<semimajoraxis>0.078</semimajoraxis>
+			<period>10.00329</period>
+			<semimajoraxis>0.0777</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -19,11 +20,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.64</mass>
-		<radius>0.61</radius>
-		<metallicity>-0.05</metallicity>
-		<distance>222</distance>
-		<temperature>4180</temperature>
+		<mass>0.63</mass>
+		<radius>0.6</radius>
+		<metallicity>-0.12</metallicity>
+		<distance>218</distance>
+		<temperature>4197</temperature>
 		<rightascension>11 38 58.953</rightascension>
 		<declination>-03 54 20.11</declination>
 		<angulardistance />
@@ -35,10 +36,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/03/26</lastupdate>
+	<lastupdate>15/07/07</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

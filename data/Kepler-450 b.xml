@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>Kepler-450 b</id_exoplaneteu>
+	<name>Kepler-450 b</name>
+	<name>Kepler-450 A b</name>
+	<name>KOI-279.01</name>
+	<name>KOI-279 A b</name>
+	<name>KIC 12314973 A b</name>
+	<id>Kepler-450 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.548</radius>
+		<orbit>
+			<period>28.454851</period>
+			<semimajoraxis>0.201</semimajoraxis>
+			<eccentricity>0.02</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.346</mass>
+		<radius>1.570</radius>
+		<metallicity />
+		<distance />
+		<temperature />
+		<rightascension>19 41 56.76</rightascension>
+		<declination>+51 00 48.6</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate />
+	<description>Kepler-450 b is a planet orbiting the brighter member of the binary star KOI-279.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

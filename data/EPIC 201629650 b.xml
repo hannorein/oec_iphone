@@ -2,14 +2,15 @@
 	<id_exoplaneteu>EPIC 201629650 b</id_exoplaneteu>
 	<name>EPIC 201629650 b</name>
 	<name>EPIC 201629650.01</name>
+	<name>K2-13 b</name>
 	<id>EPIC 201629650 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.195</radius>
+		<radius>0.174</radius>
 		<orbit>
-			<period>40.04833</period>
-			<semimajoraxis>0.2153</semimajoraxis>
+			<period>39.91488</period>
+			<semimajoraxis>0.2114</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -19,11 +20,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.83</mass>
+		<mass>0.8</mass>
 		<radius>0.78</radius>
-		<metallicity>-0.37</metallicity>
-		<distance>288</distance>
-		<temperature>5569</temperature>
+		<metallicity>-0.54</metallicity>
+		<distance>290</distance>
+		<temperature>5698</temperature>
 		<rightascension>11 20 37.327</rightascension>
 		<declination>+02 30 09.71</declination>
 		<angulardistance />
@@ -35,10 +36,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/03/26</lastupdate>
+	<lastupdate>15/07/07</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

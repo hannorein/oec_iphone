@@ -10,9 +10,9 @@
 		<mass>0.027</mass>
 		<radius>0.139</radius>
 		<orbit>
-			<period>9.341</period>
-			<semimajoraxis />
-			<eccentricity />
+			<period>9.34149</period>
+			<semimajoraxis>0.090</semimajoraxis>
+			<eccentricity>0.05</eccentricity>
 			<inclination />
 			<periastron />
 			<longitude />
@@ -23,7 +23,7 @@
 		<spectraltype />
 		<mass>1.1010</mass>
 		<radius>1.735</radius>
-		<metallicity />
+		<metallicity>-0.07</metallicity>
 		<distance>545.29</distance>
 		<temperature>5923</temperature>
 		<rightascension>18 51 54</rightascension>
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>4</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>15/03/18</lastupdate>
+	<lastupdate>15/07/28</lastupdate>
 	<description>Kepler-338 e was confirmed by transit timing variations.</description>
 	<new />
 	<image />

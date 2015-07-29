@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>PTFO 8-8695 b</id_exoplaneteu>
+	<name>PTFO 8-8695 b</name>
+	<name>2MASS J05250755+0134243 b</name>
+	<name>CVSO 30 b</name>
+	<id>PTFO 8-8695 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>1.91</radius>
+		<orbit>
+			<period>0.448413</period>
+			<semimajoraxis>0.00800</semimajoraxis>
+			<eccentricity />
+			<inclination>61.8</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3</spectraltype>
+		<mass>0.34</mass>
+		<radius>1.07</radius>
+		<metallicity />
+		<distance>330</distance>
+		<temperature>3470</temperature>
+		<rightascension>05 25 07.55</rightascension>
+		<declination>+01 34 24.3</declination>
+		<angulardistance />
+		<magV>16.26</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>15/07/29</lastupdate>
+	<description>PTFO 8-8695 b is a Jupiter-sized candidate planet orbiting a T Tauri star. The orbit is rapidly precessing, causing it to stop transiting during part of its orbital evolution.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

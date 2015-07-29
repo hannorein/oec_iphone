@@ -1,15 +1,16 @@
 <planet>
 	<id_exoplaneteu>EPIC 201754305 b</id_exoplaneteu>
 	<name>EPIC 201754305 b</name>
-	<name>EPIC 201754305.01</name>
+	<name>EPIC 201754305.02</name>
+	<name>K2-16 b</name>
 	<id>EPIC 201754305 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.203</radius>
+		<radius>0.196</radius>
 		<orbit>
-			<period>19.07246</period>
-			<semimajoraxis>0.1219</semimajoraxis>
+			<period>7.62067</period>
+			<semimajoraxis>0.0662</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -21,9 +22,9 @@
 		<spectraltype />
 		<mass>0.67</mass>
 		<radius>0.64</radius>
-		<metallicity>-0.35</metallicity>
-		<distance>325</distance>
-		<temperature>4717</temperature>
+		<metallicity>-0.4</metallicity>
+		<distance>324</distance>
+		<temperature>4761</temperature>
 		<rightascension>11 40 23.342</rightascension>
 		<declination>+04 33 26.42</declination>
 		<angulardistance />
@@ -35,7 +36,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/03/26</lastupdate>
+	<lastupdate>15/07/07</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 	<new />
 	<image />
