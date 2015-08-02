@@ -4556,28 +4556,29 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>EPIC 201367065 b</name>
 		<name>EPIC 201367065.01</name>
 		<name>K2-3 b</name>
+		<name>2MASS 11292037-0127173 b</name>
 		<id>EPIC 201367065 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.182</radius>
+			<radius>0.195</radius>
 			<orbit>
-				<period>10.05448</period>
-				<semimajoraxis>0.074</semimajoraxis>
+				<period>10.05429</period>
+				<semimajoraxis>0.0749</semimajoraxis>
 				<eccentricity />
-				<inclination />
+				<inclination>89.28</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>0.53</mass>
-			<radius>0.52</radius>
-			<metallicity>-0.3</metallicity>
-			<distance>42</distance>
-			<temperature>3951</temperature>
+			<spectraltype>M0.2V</spectraltype>
+			<mass>0.56</mass>
+			<radius>0.54</radius>
+			<metallicity>-0.16</metallicity>
+			<distance>45</distance>
+			<temperature>3943</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4587,9 +4588,55 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>15/03/26</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201367065 c</id_exoplaneteu>
+		<name>EPIC 201367065 c</name>
+		<name>EPIC 201367065.02</name>
+		<name>K2-3 c</name>
+		<name>2MASS 11292037-0127173 c</name>
+		<id>EPIC 201367065 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.146</radius>
+			<orbit>
+				<period>24.64682</period>
+				<semimajoraxis>0.1361</semimajoraxis>
+				<eccentricity />
+				<inclination>89.55</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0.2V</spectraltype>
+			<mass>0.56</mass>
+			<radius>0.54</radius>
+			<metallicity>-0.16</metallicity>
+			<distance>45</distance>
+			<temperature>3943</temperature>
+			<rightascension>11 29 20.388</rightascension>
+			<declination>-01 27 17.23</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/03/26</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -4617,12 +4664,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype />
-			<mass>0.53</mass>
-			<radius>0.52</radius>
-			<metallicity>-0.3</metallicity>
-			<distance>42</distance>
-			<temperature>3951</temperature>
+			<spectraltype>M0.2V</spectraltype>
+			<mass>0.56</mass>
+			<radius>0.54</radius>
+			<metallicity>-0.16</metallicity>
+			<distance>45</distance>
+			<temperature>3943</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4632,7 +4679,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/01/17</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
@@ -5761,6 +5808,94 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/07/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 206011691 b</id_exoplaneteu>
+		<name>EPIC 206011691 b</name>
+		<name>2MASS J22411288-1429202 b</name>
+		<id>EPIC 206011691 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>1.59</radius>
+			<orbit>
+				<period>9.32414</period>
+				<semimajoraxis>0.0731</semimajoraxis>
+				<eccentricity />
+				<inclination>88.3</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0.0&#177;0.5V</spectraltype>
+			<mass>0.64</mass>
+			<radius>0.60</radius>
+			<metallicity>-0.11</metallicity>
+			<distance>65</distance>
+			<temperature>4043</temperature>
+			<rightascension>22 41 12.89</rightascension>
+			<declination>-14 29 20.35</declination>
+			<angulardistance />
+			<magV>12.85</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/31</lastupdate>
+		<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 206011691 c</id_exoplaneteu>
+		<name>EPIC 206011691 c</name>
+		<name>2MASS J22411288-1429202 c</name>
+		<id>EPIC 206011691 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>1.92</radius>
+			<orbit>
+				<period>15.50120</period>
+				<semimajoraxis>0.1026</semimajoraxis>
+				<eccentricity />
+				<inclination>89.08</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0.0&#177;0.5V</spectraltype>
+			<mass>0.64</mass>
+			<radius>0.60</radius>
+			<metallicity>-0.11</metallicity>
+			<distance>65</distance>
+			<temperature>4043</temperature>
+			<rightascension>22 41 12.89</rightascension>
+			<declination>-14 29 20.35</declination>
+			<angulardistance />
+			<magV>12.85</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/31</lastupdate>
+		<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -11800,6 +11935,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<name>2MASS 06432353+2715082 b</name>
 		<name>EPIC 202126852 b</name>
 		<name>HD 262389 b</name>
+		<name>K2-20 b</name>
 		<id>HAT-P-56 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -23817,6 +23953,206 @@ Image credit: Vanessa Bailey</imagedescription>
 		<lastupdate>12/11/29</lastupdate>
 		<description />
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 219134 b</id_exoplaneteu>
+		<name>HD 219134 b</name>
+		<name>BD+56 2966 b</name>
+		<name>GJ 892 b</name>
+		<name>HIP 114622 b</name>
+		<name>HR 8832 b</name>
+		<name>2MASS J23131692+5710059 b</name>
+		<name>PPM 41599 b</name>
+		<name>TYC 4006-1866-1 b</name>
+		<id>HD 219134 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.014</mass>
+			<radius />
+			<orbit>
+				<period>3.0937</period>
+				<semimajoraxis>0.0382</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.78</mass>
+			<radius>0.778</radius>
+			<metallicity>0.11</metallicity>
+			<distance>6.53</distance>
+			<temperature>4699</temperature>
+			<rightascension>23 13 16.97632</rightascension>
+			<declination>+57 10 06.0823</declination>
+			<angulardistance />
+			<magV>5.570</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/30</lastupdate>
+		<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. Spitzer observations allowed the discoverers to detect the transit of one planet in front of the star making HD 219134 b the nearest known transiting planet to date.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 219134 c</id_exoplaneteu>
+		<name>HD 219134 c</name>
+		<name>BD+56 2966 c</name>
+		<name>GJ 892 c</name>
+		<name>HIP 114622 c</name>
+		<name>HR 8832 c</name>
+		<name>2MASS J23131692+5710059 c</name>
+		<name>PPM 41599 c</name>
+		<name>TYC 4006-1866-1 c</name>
+		<id>HD 219134 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0084</mass>
+			<radius />
+			<orbit>
+				<period>6.765</period>
+				<semimajoraxis>0.064</semimajoraxis>
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.78</mass>
+			<radius>0.778</radius>
+			<metallicity>0.11</metallicity>
+			<distance>6.53</distance>
+			<temperature>4699</temperature>
+			<rightascension>23 13 16.97632</rightascension>
+			<declination>+57 10 06.0823</declination>
+			<angulardistance />
+			<magV>5.570</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/30</lastupdate>
+		<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 219134 d</id_exoplaneteu>
+		<name>HD 219134 d</name>
+		<name>BD+56 2966 d</name>
+		<name>GJ 892 d</name>
+		<name>HIP 114622 d</name>
+		<name>HR 8832 d</name>
+		<name>2MASS J23131692+5710059 d</name>
+		<name>PPM 41599 d</name>
+		<name>TYC 4006-1866-1 d</name>
+		<id>HD 219134 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.027</mass>
+			<radius />
+			<orbit>
+				<period>46.78</period>
+				<semimajoraxis>0.234</semimajoraxis>
+				<eccentricity>0.32</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.78</mass>
+			<radius>0.778</radius>
+			<metallicity>0.11</metallicity>
+			<distance>6.53</distance>
+			<temperature>4699</temperature>
+			<rightascension>23 13 16.97632</rightascension>
+			<declination>+57 10 06.0823</declination>
+			<angulardistance />
+			<magV>5.570</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/30</lastupdate>
+		<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 219134 e</id_exoplaneteu>
+		<name>HD 219134 e</name>
+		<name>BD+56 2966 e</name>
+		<name>GJ 892 e</name>
+		<name>HIP 114622 e</name>
+		<name>HR 8832 e</name>
+		<name>2MASS J23131692+5710059 e</name>
+		<name>PPM 41599 e</name>
+		<name>TYC 4006-1866-1 e</name>
+		<id>HD 219134 e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.195</mass>
+			<radius />
+			<orbit>
+				<period>1190</period>
+				<semimajoraxis>2.14</semimajoraxis>
+				<eccentricity>0.27</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.78</mass>
+			<radius>0.778</radius>
+			<metallicity>0.11</metallicity>
+			<distance>6.53</distance>
+			<temperature>4699</temperature>
+			<rightascension>23 13 16.97632</rightascension>
+			<declination>+57 10 06.0823</declination>
+			<angulardistance />
+			<magV>5.570</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/30</lastupdate>
+		<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -73477,8 +73813,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity />
 			<distance />
 			<temperature>5588</temperature>
-			<rightascension>19 34 55.88</rightascension>
-			<declination>41 54 03.0</declination>
+			<rightascension>19 34 55.874</rightascension>
+			<declination>+41 54 02.98</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -73524,8 +73860,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<metallicity />
 			<distance />
 			<temperature>5588</temperature>
-			<rightascension>19 34 55.88</rightascension>
-			<declination>41 54 03.0</declination>
+			<rightascension>19 34 55.874</rightascension>
+			<declination>+41 54 02.98</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -73772,7 +74108,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/07/23</lastupdate>
 		<description>Kepler-452 b is about 60% larger in size than Earth and located in the habitable zone of a Sun-like star located 1400 light years away. At the speed of New Horizons, the fastest spacecraft yet launched by humanity, it would take over 25 million years to get there. The planet orbits its host star every 385 days. With an age of 6 billion years it is roughly 1.5 billion years older than our Sun.</description>
-		<new>1</new>
+		<new />
 		<image>Kepler452</image>
 		<imagedescription>This artist's concept depicts one possible appearance of the planet Kepler-452b, the first near-Earth-size world to be found in the habitable zone of star that is similar to our sun. The habitable zone is a region around a star where temperatures are right for water -- an essential ingredient for life as we know it -- to pool on the surface. Scientists do not know if Kepler-452b can support life or not. What is known about the planet is that it is about 60 percent larger than Earth, placing it in a class of planets dubbed Super-Earths. While its mass and composition are not yet determined, previous research suggests that planets the size of Kepler-452b have a better than even chance of being rocky. Kepler-452b orbits its star every 385 days. The planet's star is about 1,400 light-years away in the constellation Cygnus. It is a G2-type star like our sun, with nearly the same temperature and mass. This star is 6 billion years old, 1.5 billion years older than our sun. As stars age, they grow in size and give out more energy, warming up their planets over time.
 
