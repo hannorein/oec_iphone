@@ -1,4 +1,4 @@
-<systems name="systems" planets="2046">
+<systems name="systems" planets="2047">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -845,6 +845,91 @@
 			<name>47 Uma</name>
 			<temperature>5892.0</temperature>
 		</star>
+	</system>
+	<system>
+		<name>51 Eri</name>
+		<rightascension>04 37 36.13234</rightascension>
+		<declination>-02 28 24.7749</declination>
+		<distance errorminus="0.3" errorplus="0.3">29.4</distance>
+		<binary>
+			<name>WAL 32</name>
+			<separation unit="arcsec">66.70</separation>
+			<separation unit="AU">1960</separation>
+			<positionangle>163</positionangle>
+			<star>
+				<name>51 Eri</name>
+				<name>51 Eridani</name>
+				<name>c Eri</name>
+				<name>c Eridani</name>
+				<name>HD 29391</name>
+				<name>HIP 21547</name>
+				<name>TYC 4739-1551-1</name>
+				<name>2MASS J04373613-0228248</name>
+				<name>HR 1474</name>
+				<name>BD-02 963</name>
+				<name>WDS J04376-0228 A</name>
+				<name>WAL 32 A</name>
+				<spectraltype>F0IV</spectraltype>
+				<mass errorminus="0.05" errorplus="0.05">1.75</mass>
+				<age errorminus="0.006" errorplus="0.006">0.020</age>
+				<metallicity>-0.027</metallicity>
+				<magB>5.485</magB>
+				<magV>5.223</magV>
+				<magJ>4.68</magJ>
+				<magH>4.60</magH>
+				<magK>4.56</magK>
+				<planet>
+					<name>51 Eri b</name>
+					<name>51 Eridani b</name>
+					<separation errorminus="0.007" errorplus="0.007" unit="arcsec">0.449</separation>
+					<separation errorminus="0.2" errorplus="0.2" unit="AU">13.2</separation>
+					<positionangle errorminus="0.3" errorplus="0.3">170.8</positionangle>
+					<temperature errorminus="150" errorplus="50">700</temperature>
+					<magJ errorminus="0.40" errorplus="0.40">19.09</magJ>
+					<magH errorminus="0.21" errorplus="0.21">19.20</magH>
+					<spectraltype>T4.5&#8211;T6</spectraltype>
+					<radius>1</radius>
+					<mass>2</mass>
+					<discoverymethod>imaging</discoverymethod>
+					<discoveryyear>2015</discoveryyear>
+					<description>51 Eri b is a directly-imaged exoplanet located at a projected separation of 13.2 AU from its star. The system also exhibits an infrared excess indicating the presence of debris belts at around 5.5 AU and 82 AU from the star. It is a member of the Beta Pictoris moving group.</description>
+					<lastupdate>15/08/14</lastupdate>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<new>1</new>
+					<semimajoraxis>13.2</semimajoraxis>
+				</planet>
+			</star>
+			<binary>
+				<name>GJ 3305</name>
+				<name>WDS J04376-0228 C</name>
+				<name>KAS 1</name>
+				<name>2MASS J04373746-0229282</name>
+				<name>WAL 32 B</name>
+				<semimajoraxis>8.5</semimajoraxis>
+				<inclination>93.2</inclination>
+				<eccentricity>0.06</eccentricity>
+				<period>7850</period>
+				<ascendingnode>196</ascendingnode>
+				<star>
+					<name>GJ 3305 A</name>
+					<name>WDS J04376-0228 Ca</name>
+					<name>KAS 1 A</name>
+					<spectraltype>M0</spectraltype>
+					<magV>7.70</magV>
+					<mass>0.590</mass>
+				</star>
+				<star>
+					<name>GJ 3305 B</name>
+					<name>WDS J04376-0228 Cb</name>
+					<name>KAS 1 B</name>
+					<spectraltype>M3</spectraltype>
+					<magV>10.90</magV>
+					<mass>0.290</mass>
+				</star>
+			</binary>
+			<semimajoraxis>1960</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>51 Peg</name>
@@ -17367,7 +17452,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/07/30</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 			<planet>
 				<name>HD 219134 c</name>
@@ -17389,7 +17473,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/07/30</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 			<planet>
 				<name>HD 219134 d</name>
@@ -17409,7 +17492,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/07/30</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 			<planet>
 				<name>HD 219134 e</name>
@@ -17429,7 +17511,6 @@ Image credit: Vanessa Bailey</imagedescription>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/07/30</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -51598,22 +51679,25 @@ Image credit: Joe Gallagher</imagedescription>
 		<name>OGLE-05-169L</name>
 		<rightascension>18 06 05</rightascension>
 		<declination>-30 43 57</declination>
-		<distance>2700</distance>
+		<distance errorminus="400" errorplus="400">4100</distance>
 		<star>
-			<mass>0.49</mass>
+			<name>OGLE-2005-BLG-169L</name>
+			<magV errorminus="0.067" errorplus="0.067">22.783</magV>
+			<magI errorminus="0.051" errorplus="0.051">20.493</magI>
+			<mass errorminus="0.02" errorplus="0.02">0.69</mass>
+			<spectraltype>K</spectraltype>
 			<planet>
 				<name>OGLE-05-169L b</name>
 				<name>OGLE 2005-BLG-169L b</name>
 				<list>Confirmed planets</list>
-				<mass>0.04</mass>
-				<period>3300</period>
-				<semimajoraxis>2.8</semimajoraxis>
+				<mass errorminus="0.0028" errorplus="0.0028">0.0444</mass>
+				<separation errorminus="0.3" errorplus="0.3" unit="AU">3.5</separation>
 				<discoverymethod>microlensing</discoverymethod>
-				<lastupdate>06/04/12</lastupdate>
+				<lastupdate>15/08/01</lastupdate>
 				<discoveryyear>2005</discoveryyear>
+				<description>The planetary signal in the microlensing event OGLE-2005-BLG-169 was confirmed in 2015 with follow-up measurements of the relative proper motion of the source and lens stars. The lens system consists of a 14.1 Earth mass planet orbiting a 0.69 solar mass K-dwarf with a projected separation of 3.5 AU. Assuming random orientation of the system, the 3D separation is 4.0+2.2-0.6 AU, locating it well beyond the star's snowline. The planet likely represents a "failed Jupiter core".</description>
+				<semimajoraxis>3.5</semimajoraxis>
 			</planet>
-			<name>OGLE-05-169L</name>
-			<temperature>5700.0</temperature>
 		</star>
 	</system>
 	<system>
