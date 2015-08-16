@@ -1091,7 +1091,7 @@
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/08/14</lastupdate>
 		<description>51 Eri b is a directly-imaged exoplanet located at a projected separation of 13.2 AU from its star. The system also exhibits an infrared excess indicating the presence of debris belts at around 5.5 AU and 82 AU from the star. It is a member of the Beta Pictoris moving group.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -9181,29 +9181,29 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 849 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.900</mass>
+			<mass>0.911</mass>
 			<radius />
 			<orbit>
-				<period>1915</period>
-				<semimajoraxis>2.38</semimajoraxis>
-				<eccentricity>0.02</eccentricity>
+				<period>1924</period>
+				<semimajoraxis>2.39</semimajoraxis>
+				<eccentricity>0.038</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>66</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5</spectraltype>
-			<mass>0.49</mass>
+			<spectraltype>M3.5V</spectraltype>
+			<mass>0.490</mass>
 			<radius>0.52</radius>
-			<metallicity>0.16</metallicity>
-			<distance>8.8</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>22 09 40</rightascension>
-			<declination>-04 38 27</declination>
+			<metallicity>0.31</metallicity>
+			<distance>9.10</distance>
+			<temperature>3601</temperature>
+			<rightascension>22 09 40.3</rightascension>
+			<declination>-04 38 26.6</declination>
 			<angulardistance />
-			<magV>10.42</magV>
+			<magV>10.366</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -9211,8 +9211,8 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>11/11/23</lastupdate>
-		<description>The star Gliese 849 is a red dwarf in the constellation of Aquarius.</description>
+		<lastupdate>15/08/15</lastupdate>
+		<description>The star Gliese 849 is a red dwarf in the constellation of Aquarius. Gliese 849 b is the inner of the system's two known planets.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -9225,29 +9225,29 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Gliese 849 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.702</mass>
+			<mass>0.944</mass>
 			<radius />
 			<orbit>
-				<period>7067</period>
-				<semimajoraxis>5.7</semimajoraxis>
-				<eccentricity>0.3</eccentricity>
+				<period>5520</period>
+				<semimajoraxis>4.82</semimajoraxis>
+				<eccentricity>0.087</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>172</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5</spectraltype>
-			<mass>0.49</mass>
+			<spectraltype>M3.5V</spectraltype>
+			<mass>0.490</mass>
 			<radius>0.52</radius>
-			<metallicity>0.16</metallicity>
-			<distance>8.8</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>22 09 40</rightascension>
-			<declination>-04 38 27</declination>
+			<metallicity>0.31</metallicity>
+			<distance>9.10</distance>
+			<temperature>3601</temperature>
+			<rightascension>22 09 40.3</rightascension>
+			<declination>-04 38 26.6</declination>
 			<angulardistance />
-			<magV>10.42</magV>
+			<magV>10.366</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -9255,12 +9255,12 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate />
-		<description>The orbital parameters of the outer planet of Gliese 849 are not well-constrained.</description>
+		<lastupdate>15/08/15</lastupdate>
+		<description>The radial velocity date for Gliese 849 has poor phase coverage for the orbit of Gliese 849 c, however its parameters can be better constrained by considering the dynamical stability of the two-planet system.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 86 b</id_exoplaneteu>
@@ -10135,13 +10135,13 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.292</mass>
-			<radius>1.132</radius>
+			<radius>1.109</radius>
 			<orbit>
-				<period>4.008778</period>
+				<period>4.0087844</period>
 				<semimajoraxis>0.0466</semimajoraxis>
 				<eccentricity>0.067</eccentricity>
-				<inclination>88.2</inclination>
-				<periastron />
+				<inclination>88.89</inclination>
+				<periastron>256</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -10152,11 +10152,11 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<radius>0.82</radius>
 			<metallicity>0.23</metallicity>
 			<distance>215</distance>
-			<temperature>922.7</temperature>
-			<rightascension>00 38 04</rightascension>
-			<declination>+34 42 42</declination>
+			<temperature>4990</temperature>
+			<rightascension>00 38 04.012</rightascension>
+			<declination>+34 42 41.56</declination>
 			<angulardistance />
-			<magV>12.9</magV>
+			<magV>12.901</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -10164,8 +10164,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/07/29</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HAT-P-19 b is an inflated Saturn-mass planet in a short-period orbit around a K-dwarf star. The star has a rotation period of 35.5 days and varies by 4.7 millimagnitudes in the V-band as it rotates.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -17813,7 +17813,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<rightascension>16 13 09.9</rightascension>
 			<declination>+13 14 22.1</declination>
 			<angulardistance />
-			<magV>8.5</magV>
+			<magV>8.49</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -17821,7 +17821,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/01/06</lastupdate>
+		<lastupdate>15/08/15</lastupdate>
 		<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
 		<new />
 		<image />
@@ -21052,27 +21052,27 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 183263 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.67</mass>
+			<mass>3.635</mass>
 			<radius />
 			<orbit>
-				<period>626.5</period>
-				<semimajoraxis>1.51</semimajoraxis>
-				<eccentricity>0.357</eccentricity>
+				<period>625.10</period>
+				<semimajoraxis>1.486</semimajoraxis>
+				<eccentricity>0.3728</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>232.9</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G2IV</spectraltype>
-			<mass>1.17</mass>
-			<radius>1.21</radius>
-			<metallicity>0.3</metallicity>
-			<distance>53</distance>
-			<temperature>230.5</temperature>
-			<rightascension>19 28 24</rightascension>
-			<declination>+08 21 28</declination>
+			<mass>1.121</mass>
+			<radius>1.117</radius>
+			<metallicity>0.302</metallicity>
+			<distance>55.1</distance>
+			<temperature>5936</temperature>
+			<rightascension>19 28 24.6</rightascension>
+			<declination>+08 21 28.9</declination>
 			<angulardistance />
 			<magV>7.86</magV>
 			<magI />
@@ -21082,8 +21082,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>10/12/17</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 183263 b is a giant planet in an elliptical orbit.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -21095,27 +21095,27 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 183263 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.82</mass>
+			<mass>6.90</mass>
 			<radius />
 			<orbit>
-				<period>2950</period>
-				<semimajoraxis>4.25</semimajoraxis>
-				<eccentricity>0.253</eccentricity>
+				<period>4684</period>
+				<semimajoraxis>5.69</semimajoraxis>
+				<eccentricity>0.051</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>299</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G2IV</spectraltype>
-			<mass>1.17</mass>
-			<radius>1.21</radius>
-			<metallicity>0.3</metallicity>
-			<distance>53</distance>
-			<temperature>230.5</temperature>
-			<rightascension>19 28 24</rightascension>
-			<declination>+08 21 28</declination>
+			<mass>1.121</mass>
+			<radius>1.117</radius>
+			<metallicity>0.302</metallicity>
+			<distance>55.1</distance>
+			<temperature>5936</temperature>
+			<rightascension>19 28 24.6</rightascension>
+			<declination>+08 21 28.9</declination>
 			<angulardistance />
 			<magV>7.86</magV>
 			<magI />
@@ -21125,8 +21125,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/12/10</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 183263 c is a massive Jupiter-analogue in a system containing an inner giant planet in an eccentric orbit.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -21224,29 +21224,29 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 187123 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.52</mass>
+			<mass>0.5074</mass>
 			<radius />
 			<orbit>
-				<period>3.0965828</period>
-				<semimajoraxis>0.0426</semimajoraxis>
-				<eccentricity>0.01</eccentricity>
+				<period>3.0965886</period>
+				<semimajoraxis>0.04213</semimajoraxis>
+				<eccentricity>0.0093</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>360</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G5</spectraltype>
-			<mass>1.06</mass>
-			<radius>1.17</radius>
-			<metallicity>0.16</metallicity>
-			<distance>50</distance>
-			<temperature>1320.4</temperature>
-			<rightascension>19 46 57</rightascension>
-			<declination>+34 25 15</declination>
+			<spectraltype>G5V</spectraltype>
+			<mass>1.037</mass>
+			<radius>1.143</radius>
+			<metallicity>0.121</metallicity>
+			<distance>48.3</distance>
+			<temperature>5815</temperature>
+			<rightascension>19 46 58.1</rightascension>
+			<declination>+34 25 10.3</declination>
 			<angulardistance />
-			<magV>7.86</magV>
+			<magV>7.83</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -21254,8 +21254,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>1998</discoveryyear>
-		<lastupdate>10/12/17</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 187123 b is a hot Jupiter discovered by precision radial velocity measurements. It is a member of a hierarchical 2-planet system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -21267,38 +21267,38 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 187123 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.99</mass>
+			<mass>1.818</mass>
 			<radius />
 			<orbit>
-				<period>3810</period>
-				<semimajoraxis>4.89</semimajoraxis>
-				<eccentricity>0.252</eccentricity>
+				<period>3324</period>
+				<semimajoraxis>4.417</semimajoraxis>
+				<eccentricity>0.280</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>258.5</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G5</spectraltype>
-			<mass>1.06</mass>
-			<radius>1.17</radius>
-			<metallicity>0.16</metallicity>
-			<distance>50</distance>
-			<temperature>1320.4</temperature>
-			<rightascension>19 46 57</rightascension>
-			<declination>+34 25 15</declination>
+			<spectraltype>G5V</spectraltype>
+			<mass>1.037</mass>
+			<radius>1.143</radius>
+			<metallicity>0.121</metallicity>
+			<distance>48.3</distance>
+			<temperature>5815</temperature>
+			<rightascension>19 46 58.1</rightascension>
+			<declination>+34 25 10.3</declination>
 			<angulardistance />
-			<magV>7.86</magV>
+			<magV>7.83</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
 		<multiplicity>2</multiplicity>
-		<discoveryyear>1998</discoveryyear>
-		<lastupdate>10/12/17</lastupdate>
-		<description />
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 187123 c is a long-period giant planet on an eccentric orbit. It is a member of a hierarchical 2-planet system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -23793,27 +23793,27 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 217107 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.33</mass>
+			<mass>1.4135</mass>
 			<radius />
 			<orbit>
-				<period>7.12689</period>
-				<semimajoraxis>0.073</semimajoraxis>
-				<eccentricity>0.132</eccentricity>
+				<period>7.126846</period>
+				<semimajoraxis>0.07505</semimajoraxis>
+				<eccentricity>0.1283</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>24.0</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G8 IV</spectraltype>
-			<mass>1.02</mass>
-			<radius>1.08</radius>
-			<metallicity>0.37</metallicity>
-			<distance>19.72</distance>
-			<temperature>959.9</temperature>
-			<rightascension>22 58 15</rightascension>
-			<declination>-02 23 42</declination>
+			<mass>1.108</mass>
+			<radius>1.500</radius>
+			<metallicity>0.389</metallicity>
+			<distance>19.86</distance>
+			<temperature>5704</temperature>
+			<rightascension>22 58 15.5</rightascension>
+			<declination>-02 23 43.4</declination>
 			<angulardistance />
 			<magV>6.16</magV>
 			<magI />
@@ -23823,8 +23823,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>1998</discoveryyear>
-		<lastupdate>06/09/06</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 217107 b is a short-period gas giant, though its orbit has a longer period than the majority of hot Jupiters and is significantly elliptical. It is a member of a hierarchical two-planet system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -23836,27 +23836,27 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 217107 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.49</mass>
+			<mass>4.513</mass>
 			<radius />
 			<orbit>
-				<period>4210</period>
-				<semimajoraxis>5.27</semimajoraxis>
-				<eccentricity>0.517</eccentricity>
+				<period>5189</period>
+				<semimajoraxis>6.074</semimajoraxis>
+				<eccentricity>0.3848</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>206.3</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G8 IV</spectraltype>
-			<mass>1.02</mass>
-			<radius>1.08</radius>
-			<metallicity>0.37</metallicity>
-			<distance>19.72</distance>
-			<temperature>959.9</temperature>
-			<rightascension>22 58 15</rightascension>
-			<declination>-02 23 42</declination>
+			<mass>1.108</mass>
+			<radius>1.500</radius>
+			<metallicity>0.389</metallicity>
+			<distance>19.86</distance>
+			<temperature>5704</temperature>
+			<rightascension>22 58 15.5</rightascension>
+			<declination>-02 23 43.4</declination>
 			<angulardistance />
 			<magV>6.16</magV>
 			<magI />
@@ -23865,9 +23865,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<magK />
 		</star>
 		<multiplicity>2</multiplicity>
-		<discoveryyear>1998</discoveryyear>
-		<lastupdate>10/12/17</lastupdate>
-		<description />
+		<discoveryyear>2005</discoveryyear>
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 217107 c is a giant planet in a long-period, eccentric orbit. It is a member of a hierarchical two-planet system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -24947,14 +24947,14 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 24040 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>4.01</mass>
+			<mass>4.10</mass>
 			<radius />
 			<orbit>
-				<period>3668</period>
-				<semimajoraxis>4.92</semimajoraxis>
-				<eccentricity>0.04</eccentricity>
+				<period>3490</period>
+				<semimajoraxis>4.637</semimajoraxis>
+				<eccentricity>0.047</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>67</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -24962,12 +24962,12 @@ Image credit: Vanessa Bailey</imagedescription>
 		<star>
 			<spectraltype>G0</spectraltype>
 			<mass>1.18</mass>
-			<radius />
+			<radius>1.154</radius>
 			<metallicity>0.206</metallicity>
-			<distance>46.51</distance>
-			<temperature>133.9</temperature>
-			<rightascension>03 50 23</rightascension>
-			<declination>+17 28 35</declination>
+			<distance>46.6</distance>
+			<temperature>5853</temperature>
+			<rightascension>03 50 22.9</rightascension>
+			<declination>+17 28 34.9</declination>
 			<angulardistance />
 			<magV>7.52</magV>
 			<magI />
@@ -24977,8 +24977,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>12/05/25</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 24040 b is a massive Jupiter-analogue orbiting a sunlike star. The radial velocity measurements for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -29086,29 +29086,29 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 66428 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.82</mass>
+			<mass>3.194</mass>
 			<radius />
 			<orbit>
-				<period>1973</period>
-				<semimajoraxis>3.18</semimajoraxis>
-				<eccentricity>0.465</eccentricity>
+				<period>2293</period>
+				<semimajoraxis>3.471</semimajoraxis>
+				<eccentricity>0.440</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>180.4</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass>1.14552</mass>
-			<radius />
-			<metallicity>0.31</metallicity>
-			<distance>55</distance>
-			<temperature>151.0</temperature>
-			<rightascension>08 03 28</rightascension>
-			<declination>-01 09 45</declination>
+			<mass>1.061</mass>
+			<radius>0.980</radius>
+			<metallicity>0.310</metallicity>
+			<distance>54.9</distance>
+			<temperature>5752</temperature>
+			<rightascension>08 03 28.7</rightascension>
+			<declination>-01 09 45.7</declination>
 			<angulardistance />
-			<magV>8.25</magV>
+			<magV>8.26</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29116,8 +29116,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>06/07/15</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 66428 b is a long-period giant planaet in an eccentric orbit. The radial velocities for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -29827,29 +29827,29 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 74156 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.88</mass>
+			<mass>1.778</mass>
 			<radius />
 			<orbit>
-				<period>51.65</period>
-				<semimajoraxis>0.294</semimajoraxis>
-				<eccentricity>0.64</eccentricity>
+				<period>51.6385</period>
+				<semimajoraxis>0.2916</semimajoraxis>
+				<eccentricity>0.6380</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>175.35</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G1V</spectraltype>
-			<mass>1.24</mass>
-			<radius>1.64</radius>
-			<metallicity>0.13</metallicity>
-			<distance>64.56</distance>
-			<temperature>602.9</temperature>
-			<rightascension>08 42 25</rightascension>
-			<declination>+04 34 41</declination>
+			<spectraltype>G0</spectraltype>
+			<mass>1.238</mass>
+			<radius>1.345</radius>
+			<metallicity>0.131</metallicity>
+			<distance>64.4</distance>
+			<temperature>6068</temperature>
+			<rightascension>08 42 25.1</rightascension>
+			<declination>+04 34 41.1</declination>
 			<angulardistance />
-			<magV>7.62</magV>
+			<magV>7.61</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29857,8 +29857,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>10/12/21</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 74156 b is a giant planet in a highly eccentric orbit. It is the inner member of a hierarchical system of two planets.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -29870,29 +29870,29 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 74156 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>8.03</mass>
+			<mass>7.997</mass>
 			<radius />
 			<orbit>
-				<period>2476</period>
-				<semimajoraxis>3.4</semimajoraxis>
-				<eccentricity>0.43</eccentricity>
+				<period>2448.9</period>
+				<semimajoraxis>3.820</semimajoraxis>
+				<eccentricity>0.3829</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>268.9</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G1V</spectraltype>
-			<mass>1.24</mass>
-			<radius>1.64</radius>
-			<metallicity>0.13</metallicity>
-			<distance>64.56</distance>
-			<temperature>602.9</temperature>
-			<rightascension>08 42 25</rightascension>
-			<declination>+04 34 41</declination>
+			<spectraltype>G0</spectraltype>
+			<mass>1.238</mass>
+			<radius>1.345</radius>
+			<metallicity>0.131</metallicity>
+			<distance>64.4</distance>
+			<temperature>6068</temperature>
+			<rightascension>08 42 25.1</rightascension>
+			<declination>+04 34 41.1</declination>
 			<angulardistance />
-			<magV>7.62</magV>
+			<magV>7.61</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -29900,8 +29900,8 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>10/12/21</lastupdate>
-		<description />
+		<lastupdate>15/08/15</lastupdate>
+		<description>HD 74156 c is a long-period giant planet in an eccentric orbit. It is the outer member of a hierarchical system of two planets.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -32245,6 +32245,49 @@ Credit: ESO/J. Rameau</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 11915 b</id_exoplaneteu>
+		<name>HIP 11915 b</name>
+		<id>HIP 11915 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.99</mass>
+			<radius />
+			<orbit>
+				<period>3830</period>
+				<semimajoraxis>4.8</semimajoraxis>
+				<eccentricity>0.10</eccentricity>
+				<inclination />
+				<periastron>150</periastron>
+				<longitude>172</longitude>
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>0.993</mass>
+			<radius />
+			<metallicity>-0.059</metallicity>
+			<distance>57.3</distance>
+			<temperature>5760</temperature>
+			<rightascension>02 33 49.02495</rightascension>
+			<declination>-19 36 42.5032</declination>
+			<angulardistance />
+			<magV>8.58</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/08/15</lastupdate>
+		<description>HIP 11915 b is a candidate Jupiter-twin planet orbiting a solar-twin star. Although unlikely, the possibility remains that the radial velocity variations may be induced by stellar activity rather than an orbiting planet. No gas giants are present in the system with orbital periods below 1000 days, which leaves room for inner terrestrial planets.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HIP 11952 b</id_exoplaneteu>
@@ -90606,16 +90649,17 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	<planet>
 		<id_exoplaneteu>WASP-47 b</id_exoplaneteu>
 		<name>WASP-47 b</name>
+		<name>2MASS J22044873-1201079 b</name>
 		<id>WASP-47 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.14</mass>
-			<radius>1.15</radius>
+			<mass>1.06</mass>
+			<radius>1.17</radius>
 			<orbit>
-				<period>4.1591399</period>
+				<period>4.1591282</period>
 				<semimajoraxis>0.052</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>89.2</inclination>
+				<inclination>89.41</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -90623,13 +90667,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>G9V</spectraltype>
-			<mass>1.084</mass>
+			<mass>1.04</mass>
 			<radius>1.15</radius>
-			<metallicity>0.18</metallicity>
+			<metallicity>0.36</metallicity>
 			<distance>200</distance>
-			<temperature>1119.7</temperature>
-			<rightascension>22 04 49</rightascension>
-			<declination>-12 01 08</declination>
+			<temperature>5576</temperature>
+			<rightascension>22 04 48.731</rightascension>
+			<declination>-12 01 07.99</declination>
 			<angulardistance />
 			<magV>11.9</magV>
 			<magI />
@@ -90637,11 +90681,99 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/04/24</lastupdate>
-		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<lastupdate>15/08/10</lastupdate>
+		<description>This hot Jupiter planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The K2 mission discovers two additional transiting planets in 2015.</description>
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-47 c</id_exoplaneteu>
+		<name>WASP-47 c</name>
+		<name>2MASS J22044873-1201079 c</name>
+		<id>WASP-47 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.167</radius>
+			<orbit>
+				<period>0.789593</period>
+				<semimajoraxis>0.017</semimajoraxis>
+				<eccentricity />
+				<inclination>86.66</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9V</spectraltype>
+			<mass>1.04</mass>
+			<radius>1.15</radius>
+			<metallicity>0.36</metallicity>
+			<distance>200</distance>
+			<temperature>5576</temperature>
+			<rightascension>22 04 48.731</rightascension>
+			<declination>-12 01 07.99</declination>
+			<angulardistance />
+			<magV>11.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/08/10</lastupdate>
+		<description>This super-Earth planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-47 d</id_exoplaneteu>
+		<name>WASP-47 d</name>
+		<name>2MASS J22044873-1201079 d</name>
+		<id>WASP-47 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.027</mass>
+			<radius>0.33</radius>
+			<orbit>
+				<period>9.03079</period>
+				<semimajoraxis>0.088</semimajoraxis>
+				<eccentricity />
+				<inclination>89.47</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9V</spectraltype>
+			<mass>1.04</mass>
+			<radius>1.15</radius>
+			<metallicity>0.36</metallicity>
+			<distance>200</distance>
+			<temperature>5576</temperature>
+			<rightascension>22 04 48.731</rightascension>
+			<declination>-12 01 07.99</declination>
+			<angulardistance />
+			<magV>11.9</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/08/10</lastupdate>
+		<description>This Neptune-sized outer planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
