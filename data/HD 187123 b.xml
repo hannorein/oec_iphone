@@ -4,29 +4,29 @@
 	<id>HD 187123 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.52</mass>
+		<mass>0.5074</mass>
 		<radius />
 		<orbit>
-			<period>3.0965828</period>
-			<semimajoraxis>0.0426</semimajoraxis>
-			<eccentricity>0.01</eccentricity>
+			<period>3.0965886</period>
+			<semimajoraxis>0.04213</semimajoraxis>
+			<eccentricity>0.0093</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>360</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G5</spectraltype>
-		<mass>1.06</mass>
-		<radius>1.17</radius>
-		<metallicity>0.16</metallicity>
-		<distance>50</distance>
-		<temperature>1320.4</temperature>
-		<rightascension>19 46 57</rightascension>
-		<declination>+34 25 15</declination>
+		<spectraltype>G5V</spectraltype>
+		<mass>1.037</mass>
+		<radius>1.143</radius>
+		<metallicity>0.121</metallicity>
+		<distance>48.3</distance>
+		<temperature>5815</temperature>
+		<rightascension>19 46 58.1</rightascension>
+		<declination>+34 25 10.3</declination>
 		<angulardistance />
-		<magV>7.86</magV>
+		<magV>7.83</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>1998</discoveryyear>
-	<lastupdate>10/12/17</lastupdate>
-	<description />
+	<lastupdate>15/08/15</lastupdate>
+	<description>HD 187123 b is a hot Jupiter discovered by precision radial velocity measurements. It is a member of a hierarchical 2-planet system.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -4,29 +4,29 @@
 	<id>HD 74156 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>8.03</mass>
+		<mass>7.997</mass>
 		<radius />
 		<orbit>
-			<period>2476</period>
-			<semimajoraxis>3.4</semimajoraxis>
-			<eccentricity>0.43</eccentricity>
+			<period>2448.9</period>
+			<semimajoraxis>3.820</semimajoraxis>
+			<eccentricity>0.3829</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>268.9</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G1V</spectraltype>
-		<mass>1.24</mass>
-		<radius>1.64</radius>
-		<metallicity>0.13</metallicity>
-		<distance>64.56</distance>
-		<temperature>602.9</temperature>
-		<rightascension>08 42 25</rightascension>
-		<declination>+04 34 41</declination>
+		<spectraltype>G0</spectraltype>
+		<mass>1.238</mass>
+		<radius>1.345</radius>
+		<metallicity>0.131</metallicity>
+		<distance>64.4</distance>
+		<temperature>6068</temperature>
+		<rightascension>08 42 25.1</rightascension>
+		<declination>+04 34 41.1</declination>
 		<angulardistance />
-		<magV>7.62</magV>
+		<magV>7.61</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>10/12/21</lastupdate>
-	<description />
+	<lastupdate>15/08/15</lastupdate>
+	<description>HD 74156 c is a long-period giant planet in an eccentric orbit. It is the outer member of a hierarchical system of two planets.</description>
 	<new />
 	<image />
 	<imagedescription />

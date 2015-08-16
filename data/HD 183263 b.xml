@@ -4,27 +4,27 @@
 	<id>HD 183263 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>3.67</mass>
+		<mass>3.635</mass>
 		<radius />
 		<orbit>
-			<period>626.5</period>
-			<semimajoraxis>1.51</semimajoraxis>
-			<eccentricity>0.357</eccentricity>
+			<period>625.10</period>
+			<semimajoraxis>1.486</semimajoraxis>
+			<eccentricity>0.3728</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>232.9</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G2IV</spectraltype>
-		<mass>1.17</mass>
-		<radius>1.21</radius>
-		<metallicity>0.3</metallicity>
-		<distance>53</distance>
-		<temperature>230.5</temperature>
-		<rightascension>19 28 24</rightascension>
-		<declination>+08 21 28</declination>
+		<mass>1.121</mass>
+		<radius>1.117</radius>
+		<metallicity>0.302</metallicity>
+		<distance>55.1</distance>
+		<temperature>5936</temperature>
+		<rightascension>19 28 24.6</rightascension>
+		<declination>+08 21 28.9</declination>
 		<angulardistance />
 		<magV>7.86</magV>
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2004</discoveryyear>
-	<lastupdate>10/12/17</lastupdate>
-	<description />
+	<lastupdate>15/08/15</lastupdate>
+	<description>HD 183263 b is a giant planet in an elliptical orbit.</description>
 	<new />
 	<image />
 	<imagedescription />

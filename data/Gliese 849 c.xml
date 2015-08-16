@@ -5,29 +5,29 @@
 	<id>Gliese 849 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.702</mass>
+		<mass>0.944</mass>
 		<radius />
 		<orbit>
-			<period>7067</period>
-			<semimajoraxis>5.7</semimajoraxis>
-			<eccentricity>0.3</eccentricity>
+			<period>5520</period>
+			<semimajoraxis>4.82</semimajoraxis>
+			<eccentricity>0.087</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>172</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>M3.5</spectraltype>
-		<mass>0.49</mass>
+		<spectraltype>M3.5V</spectraltype>
+		<mass>0.490</mass>
 		<radius>0.52</radius>
-		<metallicity>0.16</metallicity>
-		<distance>8.8</distance>
-		<temperature>3840.0</temperature>
-		<rightascension>22 09 40</rightascension>
-		<declination>-04 38 27</declination>
+		<metallicity>0.31</metallicity>
+		<distance>9.10</distance>
+		<temperature>3601</temperature>
+		<rightascension>22 09 40.3</rightascension>
+		<declination>-04 38 26.6</declination>
 		<angulardistance />
-		<magV>10.42</magV>
+		<magV>10.366</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -35,10 +35,10 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate />
-	<description>The orbital parameters of the outer planet of Gliese 849 are not well-constrained.</description>
+	<lastupdate>15/08/15</lastupdate>
+	<description>The radial velocity date for Gliese 849 has poor phase coverage for the orbit of Gliese 849 c, however its parameters can be better constrained by considering the dynamical stability of the two-planet system.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Controversial</list>
+	<list>Confirmed planets</list>
 </planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HIP 11915 b</id_exoplaneteu>
+	<name>HIP 11915 b</name>
+	<id>HIP 11915 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.99</mass>
+		<radius />
+		<orbit>
+			<period>3830</period>
+			<semimajoraxis>4.8</semimajoraxis>
+			<eccentricity>0.10</eccentricity>
+			<inclination />
+			<periastron>150</periastron>
+			<longitude>172</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.993</mass>
+		<radius />
+		<metallicity>-0.059</metallicity>
+		<distance>57.3</distance>
+		<temperature>5760</temperature>
+		<rightascension>02 33 49.02495</rightascension>
+		<declination>-19 36 42.5032</declination>
+		<angulardistance />
+		<magV>8.58</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/08/15</lastupdate>
+	<description>HIP 11915 b is a candidate Jupiter-twin planet orbiting a solar-twin star. Although unlikely, the possibility remains that the radial velocity variations may be induced by stellar activity rather than an orbiting planet. No gas giants are present in the system with orbital periods below 1000 days, which leaves room for inner terrestrial planets.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>
