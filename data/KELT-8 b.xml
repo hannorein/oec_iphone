@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>KELT-8 b</id_exoplaneteu>
+	<name>KELT-8 b</name>
+	<name>HD 343246 b</name>
+	<name>2MASS J18531332+2407385 b</name>
+	<name>TYC 2109-49-1 b</name>
+	<name>WDS 18533+2407 b</name>
+	<id>KELT-8 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.867</mass>
+		<radius>1.86</radius>
+		<orbit>
+			<period>3.24406</period>
+			<semimajoraxis>0.04571</semimajoraxis>
+			<eccentricity>0.035</eccentricity>
+			<inclination>82.65</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2V</spectraltype>
+		<mass>1.211</mass>
+		<radius>1.67</radius>
+		<metallicity>0.272</metallicity>
+		<distance>236</distance>
+		<temperature>5754</temperature>
+		<rightascension>18 53 13.322</rightascension>
+		<declination>+24 07 38.6</declination>
+		<angulardistance />
+		<magV>10.833</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/05/25</lastupdate>
+	<description>This highly inflated transiting hot Jupiter was discovered by the Kilodegree Extremely Little Telescope (KELT)-North survey. This planet is one of the most inflated of all known transiting exoplanets, making it one of the few members of a class of extremely low density, highly-irradiated gas giants.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

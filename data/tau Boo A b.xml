@@ -6,31 +6,32 @@
 	<name>HD 120136 A b</name>
 	<name>GJ 527 A b</name>
 	<name>Gliese 527 A b</name>
+	<name>HR 5185 b</name>
 	<name>tau Boo b</name>
 	<id>tau Boo A b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>5.90</mass>
+		<mass>6.13</mass>
 		<radius />
 		<orbit>
-			<period>3.312</period>
-			<semimajoraxis>0.046</semimajoraxis>
-			<eccentricity>0.023</eccentricity>
-			<inclination>45</inclination>
-			<periastron />
+			<period>3.3124568</period>
+			<semimajoraxis>0.049</semimajoraxis>
+			<eccentricity>0.011</eccentricity>
+			<inclination>44.5</inclination>
+			<periastron>113.4</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>F7 V</spectraltype>
-		<mass>1.341</mass>
-		<radius>1.331</radius>
-		<metallicity>0.25</metallicity>
+		<mass>1.39</mass>
+		<radius>1.42</radius>
+		<metallicity>0.26</metallicity>
 		<distance>15.62</distance>
-		<temperature>6375</temperature>
-		<rightascension>13 47 17</rightascension>
-		<declination>+17 27 22</declination>
+		<temperature>6399</temperature>
+		<rightascension>13 47 15.74340</rightascension>
+		<declination>+17 27 24.8552</declination>
 		<angulardistance />
 		<magV>4.5</magV>
 		<magI />

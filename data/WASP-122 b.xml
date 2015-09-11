@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-122 b</id_exoplaneteu>
+	<name>WASP-122 b</name>
+	<name>TYC 7638-00981-1 b</name>
+	<name>USNO-B 0475-0113097 b</name>
+	<id>WASP-122 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.372</mass>
+		<radius>1.972</radius>
+		<orbit>
+			<period>1.7100567</period>
+			<semimajoraxis>0.03107</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>78.35</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G4</spectraltype>
+		<mass>1.4</mass>
+		<radius>1.567</radius>
+		<metallicity>0.32</metallicity>
+		<distance />
+		<temperature>5720</temperature>
+		<rightascension>07 13 12.34</rightascension>
+		<declination>-42 24 35.1</declination>
+		<angulardistance />
+		<magV>11.00</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/09/07</lastupdate>
+	<description>WASP-122 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter in a 1.7-day orbit about a G4 star.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
