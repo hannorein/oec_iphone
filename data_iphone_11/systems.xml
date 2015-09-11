@@ -1,4 +1,4 @@
-<systems name="systems" planets="2050">
+<systems name="systems" planets="2056">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -852,6 +852,7 @@
 		<declination>-02 28 24.7749</declination>
 		<distance errorminus="0.3" errorplus="0.3">29.4</distance>
 		<binary>
+			<name>WDS J04376-0228</name>
 			<name>WAL 32</name>
 			<separation unit="arcsec">66.70</separation>
 			<separation unit="AU">1960</separation>
@@ -905,18 +906,20 @@
 				<name>KAS 1</name>
 				<name>2MASS J04373746-0229282</name>
 				<name>WAL 32 B</name>
-				<semimajoraxis>8.5</semimajoraxis>
-				<inclination>93.2</inclination>
-				<eccentricity>0.06</eccentricity>
-				<period>7850</period>
-				<ascendingnode>196</ascendingnode>
+				<semimajoraxis errorminus="0.15" errorplus="0.15">9.80</semimajoraxis>
+				<inclination errorminus="0.2" errorplus="0.2">92.1</inclination>
+				<eccentricity errorminus="0.02" errorplus="0.02">0.19</eccentricity>
+				<period errorminus="237" errorplus="237">10650</period>
+				<periastron errorminus="3" errorplus="3">-69</periastron>
+				<periastrontime errorminus="66" errorplus="66">2451592</periastrontime>
+				<ascendingnode errorminus="0.2">18.8</ascendingnode>
 				<star>
 					<name>GJ 3305 A</name>
 					<name>WDS J04376-0228 Ca</name>
 					<name>KAS 1 A</name>
 					<spectraltype>M0</spectraltype>
 					<magV>7.70</magV>
-					<mass>0.590</mass>
+					<mass errorminus="0.05" errorplus="0.05">0.67</mass>
 				</star>
 				<star>
 					<name>GJ 3305 B</name>
@@ -924,7 +927,7 @@
 					<name>KAS 1 B</name>
 					<spectraltype>M3</spectraltype>
 					<magV>10.90</magV>
-					<mass>0.290</mass>
+					<mass errorminus="0.05" errorplus="0.05">0.44</mass>
 				</star>
 			</binary>
 			<semimajoraxis>1960</semimajoraxis>
@@ -2120,7 +2123,12 @@
 			<name>Beta Pictoris</name>
 			<name>HR 2020</name>
 			<name>HD 39060</name>
-			<mass>1.8</mass>
+			<name>HIP 27321</name>
+			<name>SAO 234134</name>
+			<name>TYC 8099-1392-1</name>
+			<name>CD-51 1620</name>
+			<name>2MASS J05471708-5103594</name>
+			<mass errorminus="0.05" errorplus="0.05">1.60</mass>
 			<magV>3.86</magV>
 			<magR>3.74</magR>
 			<magI>3.58</magI>
@@ -2128,7 +2136,7 @@
 			<magJ errorminus="0.24" errorplus="0.24">3.67</magJ>
 			<magH errorminus="0.20" errorplus="0.20">3.54</magH>
 			<magK errorminus="0.22" errorplus="0.22">3.53</magK>
-			<age errorminus="0.004" errorplus="0.004">0.012</age>
+			<age errorminus="0.003" errorplus="0.003">0.023</age>
 			<spectraltype>A6V</spectraltype>
 			<planet>
 				<name>beta Pic b</name>
@@ -2137,18 +2145,22 @@
 				<name>HR 2020 b</name>
 				<name>HD 39060 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="4" errorplus="3">7</mass>
-				<period errorminus="511.339078" errorplus="1059.20238">7487.46508</period>
-				<semimajoraxis errorminus="0.41" errorplus="0.82">9.04</semimajoraxis>
-				<eccentricity errorminus="0.04" errorplus="0.07">0.06</eccentricity>
-				<inclination errorminus="0.68" errorplus="0.68">90.69</inclination>
+				<mass errorminus="5" errorplus="5">11</mass>
+				<radius errorminus="0.06" errorplus="0.06">1.65</radius>
+				<period errorminus="599" errorplus="1947">8167</period>
+				<semimajoraxis errorminus="0.45" errorplus="1.46">9.25</semimajoraxis>
+				<eccentricity errorminus="0.05" errorplus="0.11">0.07</eccentricity>
+				<inclination errorminus="0.30" errorplus="0.30">89.01</inclination>
+				<periastron errorminus="80.76" errorplus="33.07">155.85</periastron>
+				<ascendingnode errorminus="0.15" errorplus="0.15">31.75</ascendingnode>
+				<periastrontime errorminus="1000" errorplus="1400">2454737</periastrontime>
 				<discoverymethod>imaging</discoverymethod>
-				<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours.</description>
-				<lastupdate>14/05/01</lastupdate>
+				<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours. The planet or material in orbit around it may have been responsible for a transit-like event observed in November 1981.</description>
+				<lastupdate>15/08/22</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<image>beta Pic</image>
 				<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
-				<temperature>154.0</temperature>
+				<temperature errorminus="25" errorplus="50">1600</temperature>
 			</planet>
 			<temperature>9790.0</temperature>
 		</star>
@@ -15641,8 +15653,8 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 18742</name>
-		<rightascension>03 00 07</rightascension>
-		<declination>+20 49 12</declination>
+		<rightascension>03 00 10.656</rightascension>
+		<declination>-20 48 09.38</declination>
 		<distance>135</distance>
 		<star>
 			<mass>1.60</mass>
@@ -24186,6 +24198,46 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KELT-10</name>
+		<rightascension>18 58 11.601</rightascension>
+		<declination>-47 00 11.68</declination>
+		<distance errorminus="14" errorplus="14">183</distance>
+		<star>
+			<name>KELT-10</name>
+			<name>TYC 8378-64-1</name>
+			<name>2MASS J18581160-4700116</name>
+			<magB errorminus="0.08" errorplus="0.08">11.34</magB>
+			<magV errorminus="0.06" errorplus="0.06">10.62</magV>
+			<magJ errorminus="0.019" errorplus="0.019">9.693</magJ>
+			<magH errorminus="0.022" errorplus="0.022">9.388</magH>
+			<magK errorminus="0.021" errorplus="0.021">9.338</magK>
+			<mass errorminus="0.061" errorplus="0.055">1.112</mass>
+			<radius errorminus="0.035" errorplus="0.047">1.209</radius>
+			<temperature errorminus="74" errorplus="74">5948</temperature>
+			<metallicity errorminus="0.1" errorplus="0.11">0.09</metallicity>
+			<planet>
+				<name>KELT-10 b</name>
+				<name>TYC 8378-64-1 b</name>
+				<name>2MASS J18581160-4700116 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.049" errorplus="0.069">1.399</radius>
+				<mass errorminus="0.038" errorplus="0.039">0.679</mass>
+				<period errorminus="0.00057" errorplus="0.00057">4.166286</period>
+				<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2457175.0438</transittime>
+				<semimajoraxis errorminus="0.00097" errorplus="0.00086">0.05250</semimajoraxis>
+				<temperature errorminus="23" errorplus="28">1377</temperature>
+				<inclination errorminus="0.72" errorplus="0.85">88.63</inclination>
+				<eccentricity>0</eccentricity>
+				<description>KELT-10 b is the first transiting exoplanet discovered using the Kilodegree Extremely Little Telescope (KELT)-South telescope. KELT-10 b is a highly inflated sub-Jupiter mass planet. This planet joins a group of highly inflated transiting exoplanets with a radius much larger and a mass much less than those of Jupiter. The planet boasts with deep transits of 1.4%.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/09/08</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>KELT-2A</name>
 		<rightascension>06 10 39</rightascension>
 		<declination>+30 57 26</declination>
@@ -24276,43 +24328,62 @@ Credit: J. Carson et al 2012.</imagedescription>
 	</system>
 	<system>
 		<name>KELT-6</name>
-		<rightascension>13 03 56</rightascension>
-		<declination>+30 38 24</declination>
+		<rightascension>13 03 55.648</rightascension>
+		<declination>+30 38 24.18</declination>
 		<distance errorminus="8" errorplus="8">222</distance>
 		<star>
 			<name>KELT-6</name>
 			<name>TYC 2532-556-1</name>
 			<name>BD+31 2447</name>
-			<mass errorminus="0.04" errorplus="0.04">1.09</mass>
-			<radius errorminus="0.09" errorplus="0.16">1.58</radius>
-			<temperature errorminus="43" errorplus="43">6102</temperature>
+			<name>2MASS J13035564+3038241</name>
+			<mass errorminus="0.058" errorplus="0.058">1.126</mass>
+			<radius errorminus="0.137" errorplus="0.143">1.529</radius>
+			<temperature errorminus="61" errorplus="61">6272</temperature>
 			<magV errorminus="0.054" errorplus="0.054">10.337</magV>
 			<magI errorminus="0.061" errorplus="0.061">9.745</magI>
 			<magH errorminus="0.022" errorplus="0.022">9.137</magH>
 			<magB>10.81</magB>
 			<magJ>9.30</magJ>
 			<magK>9.08</magK>
-			<metallicity errorminus="0.04" errorplus="0.04">-0.28</metallicity>
+			<metallicity errorminus="0.06" errorplus="0.06">-0.27</metallicity>
 			<spectraltype>F8</spectraltype>
-			<age errorminus="0.2" errorplus="0.2">6.1</age>
+			<age errorminus="0.46" errorplus="0.66">4.90</age>
 			<planet>
 				<name>KELT-6 b</name>
 				<name>TYC 2532-556-1 b</name>
 				<name>BD+31 2447 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.046" errorplus="0.045">0.430</mass>
-				<radius errorminus="0.077" errorplus="0.130">1.193</radius>
-				<temperature errorminus="38" errorplus="59">1313</temperature>
-				<period errorminus="0.000046" errorplus="0.000046">7.845631</period>
-				<semimajoraxis errorminus="0.001" errorplus="0.001">0.079</semimajoraxis>
-				<eccentricity errorminus="0.1" errorplus="0.12">0.22</eccentricity>
+				<mass errorminus="0.019" errorplus="0.019">0.442</mass>
+				<radius errorminus="0.11" errorplus="0.11">1.18</radius>
+				<period errorminus="0.000007" errorplus="0.000007">7.845582</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.080</semimajoraxis>
+				<eccentricity errorminus="0.013" errorplus="0.016">0.029</eccentricity>
 				<inclination errorminus="0.91" errorplus="0.79">88.81</inclination>
-				<transittime errorminus="0.00036" errorplus="0.00036">2456347.79679</transittime>
+				<transittime errorminus="0.00057" errorplus="0.00057" unit="BJD">2457124.50954</transittime>
+				<periastron errorminus="272" errorplus="30">308</periastron>
+				<spinorbitalignment errorminus="11" errorplus="11">-36</spinorbitalignment>
 				<description>KELT-6b is a Saturn-mass planet transiting a metal-poor host star. The planet candidate was originally discovered by the KELT-North survey. Follow up observations confirmed the planetary nature of the candidate using a combination of photometry, high-resolution imaging, high resolution spectroscopy and radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/08/13</lastupdate>
+				<lastupdate>15/08/27</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+			<planet>
+				<name>KELT-6 c</name>
+				<name>TYC 2532-556-1 c</name>
+				<name>BD+31 2447 c</name>
+				<list>Confirmed planets</list>
+				<period errorminus="67" errorplus="81">1276</period>
+				<eccentricity errorminus="0.036" errorplus="0.039">0.21</eccentricity>
+				<periastron errorminus="8.8" errorplus="8.8">268.7</periastron>
+				<transittime errorminus="32" errorplus="39">2457432</transittime>
+				<mass errorminus="0.21" errorplus="0.21">3.71</mass>
+				<semimajoraxis errorminus="0.11" errorplus="0.11">2.39</semimajoraxis>
+				<description>KELT-6c is a long-period giant planet, one of only a small number known where there is an inner transiting planet with a measured Rossiter-McLaughlin effect. Its presence was suspected based on a trend in the radial velocity data for the system and was finally confirmed in 2015 with data from the HARPS-N spectrograph.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/08/27</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<istransiting>0</istransiting>
 			</planet>
 		</star>
 	</system>
@@ -24361,6 +24432,51 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<lastupdate>15/01/22</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>KELT-8</name>
+		<rightascension>18 53 13.322</rightascension>
+		<declination>+24 07 38.6</declination>
+		<distance errorminus="9" errorplus="9">236</distance>
+		<star>
+			<name>KELT-8</name>
+			<name>HD 343246</name>
+			<name>2MASS J18531332+2407385</name>
+			<name>TYC 2109-49-1</name>
+			<name>WDS 18533+2407</name>
+			<magB errorminus="0.065" errorplus="0.065">11.545</magB>
+			<magV errorminus="0.054" errorplus="0.054">10.833</magV>
+			<magJ errorminus="0.026" errorplus="0.026">9.586</magJ>
+			<magH errorminus="0.032" errorplus="0.032">9.269</magH>
+			<magK errorminus="0.021" errorplus="0.021">9.177</magK>
+			<mass errorminus="0.066" errorplus="0.078">1.211</mass>
+			<radius errorminus="0.12" errorplus="0.14">1.67</radius>
+			<temperature errorminus="55" errorplus="54">5754</temperature>
+			<metallicity errorminus="0.038" errorplus="0.038">0.272</metallicity>
+			<spectraltype>G2V</spectraltype>
+			<planet>
+				<name>KELT-8 b</name>
+				<name>HD 343246 b</name>
+				<name>2MASS J18531332+2407385 b</name>
+				<name>TYC 2109-49-1 b</name>
+				<name>WDS 18533+2407 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.16" errorplus="0.18">1.86</radius>
+				<mass errorminus="0.061" errorplus="0.065">0.867</mass>
+				<period errorminus="0.00016" errorplus="0.00016">3.24406</period>
+				<transittime errorminus="0.0007" errorplus="0.0007" unit="BJD">2456883.4803</transittime>
+				<semimajoraxis errorminus="0.00084" errorplus="0.000096">0.04571</semimajoraxis>
+				<temperature errorminus="55" errorplus="61">1675</temperature>
+				<inclination errorminus="1" errorplus="0.81">82.65</inclination>
+				<eccentricity errorminus="0.025" errorplus="0.05">0.035</eccentricity>
+				<description>This highly inflated transiting hot Jupiter was discovered by the Kilodegree Extremely Little Telescope (KELT)-North survey. This planet is one of the most inflated of all known transiting exoplanets, making it one of the few members of a class of extremely low density, highly-irradiated gas giants.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/05/25</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -50729,14 +50845,14 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>Kepler-70 b</name>
 				<name>KOI-55.01</name>
 				<name>KIC 5807616 b</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>0.0014</mass>
 				<radius>0.068</radius>
 				<period>0.2401</period>
 				<semimajoraxis>0.006</semimajoraxis>
-				<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations.</description>
+				<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations. This planet's existence has been challenged on the basis of the extended dataset showing amplitude variations and complex frequency structure around this period.</description>
 				<discoverymethod>imaging</discoverymethod>
-				<lastupdate>12/01/16</lastupdate>
+				<lastupdate>15/08/26</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<temperature>7112.0</temperature>
 			</planet>
@@ -50745,14 +50861,14 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<name>Kepler-70 c</name>
 				<name>KOI-55.02</name>
 				<name>KIC 5807616 c</name>
-				<list>Confirmed planets</list>
+				<list>Controversial</list>
 				<mass>0.0021</mass>
 				<radius>0.078</radius>
 				<period>0.34289</period>
 				<semimajoraxis>0.0076</semimajoraxis>
-				<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations.</description>
+				<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations. This planet's existence has been challenged on the basis of the extended dataset showing amplitude variations and complex frequency structure around this period.</description>
 				<discoverymethod>imaging</discoverymethod>
-				<lastupdate>12/01/16</lastupdate>
+				<lastupdate>15/08/26</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<temperature>6319.1</temperature>
 			</planet>
@@ -53891,12 +54007,20 @@ You can view Rosetta's complex orbit in the Exoplanet App. Tap the settings butt
 	</system>
 	<system>
 		<name>tau Boo</name>
-		<rightascension>13 47 17</rightascension>
-		<declination>+17 27 22</declination>
+		<rightascension>13 47 15.74340</rightascension>
+		<declination>+17 27 24.8552</declination>
 		<distance errorminus="0.05" errorplus="0.05">15.62</distance>
 		<binary>
-			<semimajoraxis>245</semimajoraxis>
-			<eccentricity>0.91</eccentricity>
+			<name>tau Boo</name>
+			<name>WDS J13473+1727</name>
+			<name>HIP 67275</name>
+			<semimajoraxis errorminus="110" errorplus="110">120</semimajoraxis>
+			<eccentricity errorminus="0.074" errorplus="0.074">0.836</eccentricity>
+			<ascendingnode errorminus="50.3">171.9</ascendingnode>
+			<inclination errorminus="39.7" errorplus="39.7">37.0</inclination>
+			<period errorminus="482500" errorplus="482500">352100</period>
+			<periastrontime errorminus="1800" errorplus="1800">2462500</periastrontime>
+			<periastron errorminus="28.6" errorplus="28.6">334.2</periastron>
 			<star>
 				<name>tau Boo A</name>
 				<name>Tau Bo&#246;tis A</name>
@@ -53904,8 +54028,11 @@ You can view Rosetta's complex orbit in the Exoplanet App. Tap the settings butt
 				<name>HD 120136 A</name>
 				<name>GJ 527 A</name>
 				<name>Gliese 527 A</name>
-				<mass errorminus="0.039" errorplus="0.054">1.341</mass>
-				<radius errorminus="0.027" errorplus="0.027">1.331</radius>
+				<name>HIP 67275 A</name>
+				<name>WDS J13473+1727 A</name>
+				<name>HR 5185</name>
+				<mass errorminus="0.25" errorplus="0.25">1.39</mass>
+				<radius errorminus="0.08" errorplus="0.08">1.42</radius>
 				<magV>4.5</magV>
 				<magB>4.98</magB>
 				<magR>4.2</magR>
@@ -53913,9 +54040,9 @@ You can view Rosetta's complex orbit in the Exoplanet App. Tap the settings butt
 				<magJ>3.62</magJ>
 				<magH>3.55</magH>
 				<magK errorminus="0.05" errorplus="0.05">3.36</magK>
-				<metallicity>0.25</metallicity>
-				<temperature>6375</temperature>
-				<age errorminus="0.35" errorplus="0.35">1.95</age>
+				<metallicity errorminus="0.03" errorplus="0.03">0.26</metallicity>
+				<temperature errorminus="45" errorplus="45">6399</temperature>
+				<age errorminus="0.5" errorplus="0.5">0.9</age>
 				<spectraltype>F7 V</spectraltype>
 				<planet>
 					<name>tau Boo A b</name>
@@ -53924,13 +54051,16 @@ You can view Rosetta's complex orbit in the Exoplanet App. Tap the settings butt
 					<name>HD 120136 A b</name>
 					<name>GJ 527 A b</name>
 					<name>Gliese 527 A b</name>
+					<name>HR 5185 b</name>
 					<name>tau Boo b</name>
 					<list>Confirmed planets</list>
-					<mass errorminus="0.2" errorplus="0.35">5.90</mass>
-					<period>3.312</period>
-					<semimajoraxis>0.046</semimajoraxis>
-					<eccentricity>0.023</eccentricity>
-					<inclination errorminus="4" errorplus="3">45</inclination>
+					<mass errorminus="0.17" errorplus="0.17">6.13</mass>
+					<period errorminus="0.0000069" errorplus="0.0000069">3.3124568</period>
+					<semimajoraxis errorminus="0.003" errorplus="0.003">0.049</semimajoraxis>
+					<eccentricity errorminus="0.006" errorplus="0.006">0.011</eccentricity>
+					<inclination errorminus="1.5" errorplus="1.5">44.5</inclination>
+					<periastron errorminus="32.2" errorplus="32.2">113.4</periastron>
+					<periastrontime errorminus="0.30" errorplus="0.30" unit="BJD">2456400.94</periastrontime>
 					<description>The planet Tau Bo&#246;tis b was one of the first exoplanets to be discovered back in 1996. In 2012, astronomers have detected the faint glow that is emitted from the planet, reliably probing the structure of the atmosphere of Tau Bootis b and deducing its mass accurately for the first time.</description>
 					<temperature>2000</temperature>
 					<discoverymethod>RV</discoverymethod>
@@ -53950,7 +54080,11 @@ You can view Rosetta's complex orbit in the Exoplanet App. Tap the settings butt
 				<name>HD 120136 B</name>
 				<name>GJ 527 B</name>
 				<name>Gliese 527 B</name>
+				<name>HIP 67275 B</name>
+				<name>WDS J13473+1727 B</name>
 				<mass>0.40</mass>
+				<spectraltype>M2</spectraltype>
+				<magV>11.1</magV>
 			</star>
 		</binary>
 	</system>
@@ -55246,6 +55380,48 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</binary>
 	</system>
 	<system>
+		<name>WASP-120</name>
+		<rightascension>04 10 27.85</rightascension>
+		<declination>-45 53 53.5</declination>
+		<star>
+			<name>WASP-120</name>
+			<name>TYC 8068-01208-1</name>
+			<name>USNO-B 0441-0033568</name>
+			<name>PPM 308371</name>
+			<magB errorminus="0.06" errorplus="0.06">11.48</magB>
+			<magV errorminus="0.06" errorplus="0.06">10.96</magV>
+			<magJ errorminus="0.024" errorplus="0.024">10.148</magJ>
+			<magH errorminus="0.034" errorplus="0.034">9.952</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.877</magK>
+			<mass errorminus="0.11" errorplus="0.11">1.45</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.93</radius>
+			<temperature errorminus="120" errorplus="120">6450</temperature>
+			<metallicity errorminus="0.07" errorplus="0.07">-0.05</metallicity>
+			<spectraltype>F5</spectraltype>
+			<planet>
+				<name>WASP-120 b</name>
+				<name>TYC 8068-01208-1 b</name>
+				<name>USNO-B 0441-0033568 b</name>
+				<name>PPM 308371 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.083" errorplus="0.083">1.515</radius>
+				<mass errorminus="0.26" errorplus="0.26">5.01</mass>
+				<period errorminus="0.0000038" errorplus="0.0000038">3.6112706</period>
+				<transittime errorminus="0.00044" errorplus="0.00044" unit="HJD">2456779.4352</transittime>
+				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0522</semimajoraxis>
+				<temperature errorminus="50" errorplus="50">1890</temperature>
+				<inclination errorminus="0.48" errorplus="0.48">82.29</inclination>
+				<eccentricity errorminus="0.018" errorplus="0.025">0.059</eccentricity>
+				<description>WASP-120 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a massive (5.0MJup) planet in a 3.6-day orbit around an F5 star.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/09/07</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-121</name>
 		<rightascension>07 10 24.058</rightascension>
 		<declination>-39 05 50.55</declination>
@@ -55282,6 +55458,83 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<lastupdate>15/06/08</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-122</name>
+		<rightascension>07 13 12.34</rightascension>
+		<declination>-42 24 35.1</declination>
+		<star>
+			<name>WASP-122</name>
+			<name>TYC 7638-00981-1</name>
+			<name>USNO-B 0475-0113097</name>
+			<magB errorminus="0.09" errorplus="0.09">11.78</magB>
+			<magV errorminus="0.07" errorplus="0.07">11.00</magV>
+			<magJ errorminus="0.024" errorplus="0.024">9.808</magJ>
+			<magH errorminus="0.024" errorplus="0.024">9.487</magH>
+			<magK errorminus="0.023" errorplus="0.023">9.424</magK>
+			<mass errorminus="0.1" errorplus="0.1">1.4</mass>
+			<radius errorminus="0.051" errorplus="0.051">1.567</radius>
+			<temperature errorminus="130" errorplus="130">5720</temperature>
+			<metallicity errorminus="0.09" errorplus="0.09">0.32</metallicity>
+			<spectraltype>G4</spectraltype>
+			<planet>
+				<name>WASP-122 b</name>
+				<name>TYC 7638-00981-1 b</name>
+				<name>USNO-B 0475-0113097 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.069" errorplus="0.069">1.972</radius>
+				<mass errorminus="0.072" errorplus="0.072">1.372</mass>
+				<period errorminus="0.0000036" errorplus="0.0000036">1.7100567</period>
+				<transittime errorminus="0.00022" errorplus="0.00022" unit="HJD">2456665.22403</transittime>
+				<semimajoraxis errorminus="0.00079" errorplus="0.00079">0.03107</semimajoraxis>
+				<temperature errorminus="50" errorplus="50">1960</temperature>
+				<inclination errorminus="0.31" errorplus="0.31">78.35</inclination>
+				<eccentricity>0</eccentricity>
+				<description>WASP-122 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter in a 1.7-day orbit about a G4 star.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/09/07</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-123</name>
+		<rightascension>19 17 55.04</rightascension>
+		<declination>-32 51 35.8</declination>
+		<star>
+			<name>WASP-123</name>
+			<name>TYC 7427-00581-1</name>
+			<name>USNO-B 0571-1147509</name>
+			<magB errorminus="0.11" errorplus="0.11">11.49</magB>
+			<magV errorminus="0.12" errorplus="0.12">11.03</magV>
+			<mass errorminus="0.089" errorplus="0.089">1.207</mass>
+			<radius errorminus="0.061" errorplus="0.061">1.296</radius>
+			<temperature errorminus="130" errorplus="130">5740</temperature>
+			<metallicity errorminus="0.08" errorplus="0.08">0.18</metallicity>
+			<spectraltype>G5</spectraltype>
+			<planet>
+				<name>WASP-123 b</name>
+				<name>TYC 7427-00581-1 b</name>
+				<name>USNO-B 0571-1147509 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.074" errorplus="0.074">1.327</radius>
+				<mass errorminus="0.05" errorplus="0.05">0.92</mass>
+				<period errorminus="0.0000024" errorplus="0.0000024">2.9776410</period>
+				<transittime errorminus="0.00041" errorplus="0.00041" unit="HJD">2456845.17081</transittime>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0431</semimajoraxis>
+				<temperature errorminus="40" errorplus="40">1510</temperature>
+				<inclination errorminus="0.51" errorplus="0.51">85.79</inclination>
+				<eccentricity>0</eccentricity>
+				<description>WASP-123 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter (0.92MJup, 1.33RJup) in a 3.0-day orbit around an old (~ 7 Gyr) G5 star.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/09/07</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -56685,7 +56938,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>15/08/10</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 			<planet>
@@ -56702,7 +56954,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>15/08/10</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 				<istransiting>1</istransiting>
 			</planet>
 			<name>WASP-47</name>
