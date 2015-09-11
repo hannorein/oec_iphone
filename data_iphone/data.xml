@@ -1,4 +1,4 @@
-<planets date="2015-08-16" name="data" planets="2050">
+<planets date="2015-09-11" name="data" planets="2056">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1856,27 +1856,31 @@
 		<id>beta Pic b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>7</mass>
+			<mass>11</mass>
+			<radius>1.65</radius>
 			<orbit>
-				<period>7487.46508</period>
-				<semimajoraxis>9.04</semimajoraxis>
-				<eccentricity>0.06</eccentricity>
-				<inclination>90.69</inclination>
+				<period>8167</period>
+				<semimajoraxis>9.25</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
+				<inclination>89.01</inclination>
+				<periastron>155.85</periastron>
+				<ascendingnode>31.75</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>A6V</spectraltype>
-			<mass>1.8</mass>
+			<mass>1.60</mass>
+			<radius>1.65</radius>
 			<distance>19.3</distance>
-			<temperature>154.0</temperature>
+			<temperature>1600</temperature>
 			<rightascension>05 47 17</rightascension>
 			<declination>-51 03 59</declination>
 			<magV>3.86</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>14/05/01</lastupdate>
-		<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours.</description>
+		<lastupdate>15/08/22</lastupdate>
+		<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours. The planet or material in orbit around it may have been responsible for a transit-like event observed in November 1981.</description>
 		<image>beta Pic</image>
 		<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
 		<list>Confirmed planets</list>
@@ -14878,8 +14882,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.04</metallicity>
 			<distance>135</distance>
 			<temperature>354.4</temperature>
-			<rightascension>03 00 07</rightascension>
-			<declination>+20 49 12</declination>
+			<rightascension>03 00 10.656</rightascension>
+			<declination>-20 48 09.38</declination>
 			<magV>7.97</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -23526,6 +23530,40 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KELT-10 b</id_exoplaneteu>
+		<name>KELT-10 b</name>
+		<name>TYC 8378-64-1 b</name>
+		<name>2MASS J18581160-4700116 b</name>
+		<id>KELT-10 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.679</mass>
+			<radius>1.399</radius>
+			<orbit>
+				<period>4.166286</period>
+				<semimajoraxis>0.05250</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.63</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.112</mass>
+			<radius>1.209</radius>
+			<metallicity>0.09</metallicity>
+			<distance>183</distance>
+			<temperature>5948</temperature>
+			<rightascension>18 58 11.601</rightascension>
+			<declination>-47 00 11.68</declination>
+			<magV>10.62</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/09/08</lastupdate>
+		<description>KELT-10 b is the first transiting exoplanet discovered using the Kilodegree Extremely Little Telescope (KELT)-South telescope. KELT-10 b is a highly inflated sub-Jupiter mass planet. This planet joins a group of highly inflated transiting exoplanets with a radius much larger and a mass much less than those of Jupiter. The planet boasts with deep transits of 1.4%.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KELT-2A b</id_exoplaneteu>
 		<name>KELT-2A b</name>
 		<name>HIP 29301 b</name>
@@ -23609,30 +23647,64 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>KELT-6 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.430</mass>
-			<radius>1.193</radius>
+			<mass>0.442</mass>
+			<radius>1.18</radius>
 			<orbit>
-				<period>7.845631</period>
-				<semimajoraxis>0.079</semimajoraxis>
-				<eccentricity>0.22</eccentricity>
+				<period>7.845582</period>
+				<semimajoraxis>0.080</semimajoraxis>
+				<eccentricity>0.029</eccentricity>
 				<inclination>88.81</inclination>
+				<periastron>308</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F8</spectraltype>
-			<mass>1.09</mass>
-			<radius>1.58</radius>
-			<metallicity>-0.28</metallicity>
+			<mass>1.126</mass>
+			<radius>1.529</radius>
+			<metallicity>-0.27</metallicity>
 			<distance>222</distance>
-			<temperature>6102</temperature>
-			<rightascension>13 03 56</rightascension>
-			<declination>+30 38 24</declination>
+			<temperature>6272</temperature>
+			<rightascension>13 03 55.648</rightascension>
+			<declination>+30 38 24.18</declination>
 			<magV>10.337</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/08/13</lastupdate>
+		<lastupdate>15/08/27</lastupdate>
 		<description>KELT-6b is a Saturn-mass planet transiting a metal-poor host star. The planet candidate was originally discovered by the KELT-North survey. Follow up observations confirmed the planetary nature of the candidate using a combination of photometry, high-resolution imaging, high resolution spectroscopy and radial velocity measurements.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-6 c</id_exoplaneteu>
+		<name>KELT-6 c</name>
+		<name>TYC 2532-556-1 c</name>
+		<name>BD+31 2447 c</name>
+		<id>KELT-6 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.71</mass>
+			<orbit>
+				<period>1276</period>
+				<semimajoraxis>2.39</semimajoraxis>
+				<eccentricity>0.21</eccentricity>
+				<periastron>268.7</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.126</mass>
+			<radius>1.529</radius>
+			<metallicity>-0.27</metallicity>
+			<distance>222</distance>
+			<temperature>6272</temperature>
+			<rightascension>13 03 55.648</rightascension>
+			<declination>+30 38 24.18</declination>
+			<magV>10.337</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/08/27</lastupdate>
+		<description>KELT-6c is a long-period giant planet, one of only a small number known where there is an inner transiting planet with a measured Rossiter-McLaughlin effect. Its presence was suspected based on a trend in the radial velocity data for the system and was finally confirmed in 2015 with data from the HARPS-N spectrograph.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23670,6 +23742,43 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/01/22</lastupdate>
 		<description>KELT-7b is a hot Jupiter hosted by a rapid rotating star. This results in a Rossiter-McLaughlin effect with an unusually large amplitude.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-8 b</id_exoplaneteu>
+		<name>KELT-8 b</name>
+		<name>HD 343246 b</name>
+		<name>2MASS J18531332+2407385 b</name>
+		<name>TYC 2109-49-1 b</name>
+		<name>WDS 18533+2407 b</name>
+		<id>KELT-8 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.867</mass>
+			<radius>1.86</radius>
+			<orbit>
+				<period>3.24406</period>
+				<semimajoraxis>0.04571</semimajoraxis>
+				<eccentricity>0.035</eccentricity>
+				<inclination>82.65</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.211</mass>
+			<radius>1.67</radius>
+			<metallicity>0.272</metallicity>
+			<distance>236</distance>
+			<temperature>5754</temperature>
+			<rightascension>18 53 13.322</rightascension>
+			<declination>+24 07 38.6</declination>
+			<magV>10.833</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/05/25</lastupdate>
+		<description>This highly inflated transiting hot Jupiter was discovered by the Kilodegree Extremely Little Telescope (KELT)-North survey. This planet is one of the most inflated of all known transiting exoplanets, making it one of the few members of a class of extremely low density, highly-irradiated gas giants.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -54769,9 +54878,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/01/16</lastupdate>
-		<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>15/08/26</lastupdate>
+		<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations. This planet's existence has been challenged on the basis of the extended dataset showing amplitude variations and complex frequency structure around this period.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-55 c</id_exoplaneteu>
@@ -54801,9 +54910,9 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/01/16</lastupdate>
-		<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>15/08/26</lastupdate>
+		<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations. This planet's existence has been challenged on the basis of the extended dataset showing amplitude variations and complex frequency structure around this period.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-680 b</id_exoplaneteu>
@@ -57613,27 +57722,29 @@ Credit: ESO/L. Calcada</imagedescription>
 		<name>HD 120136 A b</name>
 		<name>GJ 527 A b</name>
 		<name>Gliese 527 A b</name>
+		<name>HR 5185 b</name>
 		<name>tau Boo b</name>
 		<id>tau Boo A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>5.90</mass>
+			<mass>6.13</mass>
 			<orbit>
-				<period>3.312</period>
-				<semimajoraxis>0.046</semimajoraxis>
-				<eccentricity>0.023</eccentricity>
-				<inclination>45</inclination>
+				<period>3.3124568</period>
+				<semimajoraxis>0.049</semimajoraxis>
+				<eccentricity>0.011</eccentricity>
+				<inclination>44.5</inclination>
+				<periastron>113.4</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F7 V</spectraltype>
-			<mass>1.341</mass>
-			<radius>1.331</radius>
-			<metallicity>0.25</metallicity>
+			<mass>1.39</mass>
+			<radius>1.42</radius>
+			<metallicity>0.26</metallicity>
 			<distance>15.62</distance>
-			<temperature>6375</temperature>
-			<rightascension>13 47 17</rightascension>
-			<declination>+17 27 22</declination>
+			<temperature>6399</temperature>
+			<rightascension>13 47 15.74340</rightascension>
+			<declination>+17 27 24.8552</declination>
 			<magV>4.5</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -58891,6 +59002,41 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-120 b</id_exoplaneteu>
+		<name>WASP-120 b</name>
+		<name>TYC 8068-01208-1 b</name>
+		<name>USNO-B 0441-0033568 b</name>
+		<name>PPM 308371 b</name>
+		<id>WASP-120 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>5.01</mass>
+			<radius>1.515</radius>
+			<orbit>
+				<period>3.6112706</period>
+				<semimajoraxis>0.0522</semimajoraxis>
+				<eccentricity>0.059</eccentricity>
+				<inclination>82.29</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5</spectraltype>
+			<mass>1.45</mass>
+			<radius>1.93</radius>
+			<metallicity>-0.05</metallicity>
+			<temperature>6450</temperature>
+			<rightascension>04 10 27.85</rightascension>
+			<declination>-45 53 53.5</declination>
+			<magV>10.96</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/09/07</lastupdate>
+		<description>WASP-120 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a massive (5.0MJup) planet in a 3.6-day orbit around an F5 star.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-121 b</id_exoplaneteu>
 		<name>WASP-121 b</name>
 		<name>2MASS 07102406-3905506 b</name>
@@ -58921,6 +59067,74 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/06/08</lastupdate>
 		<description>This planet is a remarkable short-period transiting hot Jupiter discovered by the WASP-South survey in close collaboration with the Euler TRAPPIST telescopes.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-122 b</id_exoplaneteu>
+		<name>WASP-122 b</name>
+		<name>TYC 7638-00981-1 b</name>
+		<name>USNO-B 0475-0113097 b</name>
+		<id>WASP-122 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.372</mass>
+			<radius>1.972</radius>
+			<orbit>
+				<period>1.7100567</period>
+				<semimajoraxis>0.03107</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>78.35</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G4</spectraltype>
+			<mass>1.4</mass>
+			<radius>1.567</radius>
+			<metallicity>0.32</metallicity>
+			<temperature>5720</temperature>
+			<rightascension>07 13 12.34</rightascension>
+			<declination>-42 24 35.1</declination>
+			<magV>11.00</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/09/07</lastupdate>
+		<description>WASP-122 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter in a 1.7-day orbit about a G4 star.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-123 b</id_exoplaneteu>
+		<name>WASP-123 b</name>
+		<name>TYC 7427-00581-1 b</name>
+		<name>USNO-B 0571-1147509 b</name>
+		<id>WASP-123 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.92</mass>
+			<radius>1.327</radius>
+			<orbit>
+				<period>2.9776410</period>
+				<semimajoraxis>0.0431</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.79</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.207</mass>
+			<radius>1.296</radius>
+			<metallicity>0.18</metallicity>
+			<temperature>5740</temperature>
+			<rightascension>19 17 55.04</rightascension>
+			<declination>-32 51 35.8</declination>
+			<magV>11.03</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/09/07</lastupdate>
+		<description>WASP-123 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter (0.92MJup, 1.33RJup) in a 3.0-day orbit around an old (~ 7 Gyr) G5 star.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -60106,7 +60320,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/08/10</lastupdate>
 		<description>This super-Earth planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -60139,7 +60352,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/08/10</lastupdate>
 		<description>This Neptune-sized outer planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
