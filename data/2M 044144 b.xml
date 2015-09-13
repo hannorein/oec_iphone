@@ -1,11 +1,13 @@
 <planet>
 	<id_exoplaneteu>2M 044144 b</id_exoplaneteu>
 	<name>2M 044144 b</name>
-	<name>2MASS J04414489+2301513 b</name>
+	<name>2M 044144 B</name>
+	<name>2MASS J04414489+2301513 B</name>
+	<name>2M0441+2301 Bb</name>
 	<id>2M 044144 b</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>7.5</mass>
+		<mass>9.8</mass>
 		<radius />
 		<orbit>
 			<period />
@@ -18,14 +20,14 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>M8.5</spectraltype>
-		<mass>0.02</mass>
-		<radius />
+		<spectraltype>M4.5</spectraltype>
+		<mass>0.2</mass>
+		<radius>1.1</radius>
 		<metallicity />
-		<distance>140</distance>
-		<temperature>3840.0</temperature>
-		<rightascension>04 41 45</rightascension>
-		<declination>+23 01 51</declination>
+		<distance>145</distance>
+		<temperature>3400</temperature>
+		<rightascension>04 41 45.652</rightascension>
+		<declination>+23 01 58.07</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -35,10 +37,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/04/06</lastupdate>
-	<description />
+	<lastupdate>15/09/12</lastupdate>
+	<description>2M 044144 b is the lowest-mass member of the quadruple system 2M0441+2301. Despite having a mass below the deuterium-fusion limit, the low mass ratio between 2M 044144 A and B suggests it likely formed by turbulent fragmentation rather than core accretion.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

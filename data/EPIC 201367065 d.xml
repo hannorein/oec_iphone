@@ -7,24 +7,24 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.138518</radius>
+		<radius>0.1365</radius>
 		<orbit>
-			<period>44.5631</period>
-			<semimajoraxis>0.2076</semimajoraxis>
+			<period>44.5705</period>
+			<semimajoraxis>0.2086</semimajoraxis>
 			<eccentricity />
-			<inclination>89.68</inclination>
-			<periastron />
+			<inclination>89.79</inclination>
+			<periastron>351</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>180.0</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>M0.2V</spectraltype>
-		<mass>0.56</mass>
-		<radius>0.54</radius>
-		<metallicity>-0.16</metallicity>
+		<mass>0.612</mass>
+		<radius>0.553</radius>
+		<metallicity>-0.32</metallicity>
 		<distance>45</distance>
-		<temperature>3943</temperature>
+		<temperature>3900</temperature>
 		<rightascension>11 29 20.388</rightascension>
 		<declination>-01 27 17.23</declination>
 		<angulardistance />
@@ -36,8 +36,8 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/01/17</lastupdate>
-	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
+	<lastupdate>15/09/12</lastupdate>
+	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 	<new />
 	<image />
 	<imagedescription />
