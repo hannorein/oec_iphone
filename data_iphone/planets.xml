@@ -439,11 +439,13 @@
 	<planet>
 		<id_exoplaneteu>2M 044144 b</id_exoplaneteu>
 		<name>2M 044144 b</name>
-		<name>2MASS J04414489+2301513 b</name>
+		<name>2M 044144 B</name>
+		<name>2MASS J04414489+2301513 B</name>
+		<name>2M0441+2301 Bb</name>
 		<id>2M 044144 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>7.5</mass>
+			<mass>9.8</mass>
 			<radius />
 			<orbit>
 				<period />
@@ -456,14 +458,14 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M8.5</spectraltype>
-			<mass>0.02</mass>
-			<radius />
+			<spectraltype>M4.5</spectraltype>
+			<mass>0.2</mass>
+			<radius>1.1</radius>
 			<metallicity />
-			<distance>140</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>04 41 45</rightascension>
-			<declination>+23 01 51</declination>
+			<distance>145</distance>
+			<temperature>3400</temperature>
+			<rightascension>04 41 45.652</rightascension>
+			<declination>+23 01 58.07</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -473,12 +475,13 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/04/06</lastupdate>
-		<description />
+		<lastupdate>15/09/12</lastupdate>
+		<description>2M 044144 b is the lowest-mass member of the quadruple system 2M0441+2301. Despite having a mass below the deuterium-fusion limit, the low mass ratio between 2M 044144 A and B suggests it likely formed by turbulent fragmentation rather than core accretion.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>2M 0746+20 b</id_exoplaneteu>
@@ -4605,25 +4608,25 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id>EPIC 201367065 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.195</radius>
+			<mass>0.0264</mass>
+			<radius>0.1854</radius>
 			<orbit>
 				<period>10.05429</period>
-				<semimajoraxis>0.0749</semimajoraxis>
+				<semimajoraxis>0.0775</semimajoraxis>
 				<eccentricity />
-				<inclination>89.28</inclination>
-				<periastron />
+				<inclination>89.59</inclination>
+				<periastron>180</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>180</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M0.2V</spectraltype>
-			<mass>0.56</mass>
-			<radius>0.54</radius>
-			<metallicity>-0.16</metallicity>
+			<mass>0.612</mass>
+			<radius>0.553</radius>
+			<metallicity>-0.32</metallicity>
 			<distance>45</distance>
-			<temperature>3943</temperature>
+			<temperature>3900</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4635,8 +4638,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<lastupdate>15/09/12</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. Its mass has been determined through radial velocity measurements taken with HARPS, indicating it is rocky with up to 50% of the mass in a water envelope.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -4652,24 +4655,24 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.146</radius>
+			<radius>0.1467</radius>
 			<orbit>
-				<period>24.64682</period>
-				<semimajoraxis>0.1361</semimajoraxis>
+				<period>24.6491</period>
+				<semimajoraxis>0.1405</semimajoraxis>
 				<eccentricity />
-				<inclination>89.55</inclination>
-				<periastron />
+				<inclination>89.70</inclination>
+				<periastron>89</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>180.0</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M0.2V</spectraltype>
-			<mass>0.56</mass>
-			<radius>0.54</radius>
-			<metallicity>-0.16</metallicity>
+			<mass>0.612</mass>
+			<radius>0.553</radius>
+			<metallicity>-0.32</metallicity>
 			<distance>45</distance>
-			<temperature>3943</temperature>
+			<temperature>3900</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4681,8 +4684,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/03/26</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+		<lastupdate>15/09/12</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -4697,24 +4700,24 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.138518</radius>
+			<radius>0.1365</radius>
 			<orbit>
-				<period>44.5631</period>
-				<semimajoraxis>0.2076</semimajoraxis>
+				<period>44.5705</period>
+				<semimajoraxis>0.2086</semimajoraxis>
 				<eccentricity />
-				<inclination>89.68</inclination>
-				<periastron />
+				<inclination>89.79</inclination>
+				<periastron>351</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>180.0</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M0.2V</spectraltype>
-			<mass>0.56</mass>
-			<radius>0.54</radius>
-			<metallicity>-0.16</metallicity>
+			<mass>0.612</mass>
+			<radius>0.553</radius>
+			<metallicity>-0.32</metallicity>
 			<distance>45</distance>
-			<temperature>3943</temperature>
+			<temperature>3900</temperature>
 			<rightascension>11 29 20.388</rightascension>
 			<declination>-01 27 17.23</declination>
 			<angulardistance />
@@ -4726,8 +4729,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/01/17</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy.</description>
+		<lastupdate>15/09/12</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -72337,10 +72340,10 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.1</mass>
-			<radius>9.7</radius>
+			<radius>1.2</radius>
 			<orbit>
 				<period>86.67856</period>
-				<semimajoraxis>84.4</semimajoraxis>
+				<semimajoraxis />
 				<eccentricity>0.20</eccentricity>
 				<inclination>89.952</inclination>
 				<periastron />
