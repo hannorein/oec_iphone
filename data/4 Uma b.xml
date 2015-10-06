@@ -1,7 +1,18 @@
 <planet>
-	<id_exoplaneteu>4 Uma b</id_exoplaneteu>
-	<name>4 Uma b</name>
-	<id>4 Uma b</id>
+	<id_exoplaneteu>4 UMa b</id_exoplaneteu>
+	<name>4 UMa b</name>
+	<name>4 Ursae Majoris b</name>
+	<name>pi.02 UMa b</name>
+	<name>Pi-2 Ursae Majoris b</name>
+	<name>&#960;2 Ursae Majoris b</name>
+	<name>HD 73108 b</name>
+	<name>HIP 42527 b</name>
+	<name>TYC 4130-2355-1 b</name>
+	<name>SAO 14616 b</name>
+	<name>BD+64 698 b</name>
+	<name>HR 3404 b</name>
+	<name>2MASS J08401279+6419405 b</name>
+	<id>4 UMa b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
 		<mass>7.1</mass>
@@ -11,7 +22,7 @@
 			<semimajoraxis>0.87</semimajoraxis>
 			<eccentricity>0.432</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>23.81</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -19,14 +30,14 @@
 	<star>
 		<spectraltype>K1III</spectraltype>
 		<mass>1.234</mass>
-		<radius />
+		<radius>18.11</radius>
 		<metallicity>-0.25</metallicity>
 		<distance>78.5</distance>
-		<temperature>877.3</temperature>
-		<rightascension>08 40 13</rightascension>
-		<declination>+64 19 41</declination>
+		<temperature>4415</temperature>
+		<rightascension>08 40 12.81767</rightascension>
+		<declination>+64 19 40.5700</declination>
 		<angulardistance />
-		<magV>5.79</magV>
+		<magV>5.787</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +45,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>07/03/28</lastupdate>
-	<description>4 Ursae Majoris is also known as Muscida.</description>
+	<lastupdate>15/09/20</lastupdate>
+	<description>4 Ursae Majoris is also known as Muscida, a name that is shared with 3 Ursae Majoris and Omicron Ursae Majoris.</description>
 	<new />
 	<image />
 	<imagedescription />

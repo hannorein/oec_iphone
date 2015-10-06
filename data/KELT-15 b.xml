@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>KELT-15 b</id_exoplaneteu>
+	<name>KELT-15 b</name>
+	<name>TYC 8146-86-1 b</name>
+	<name>2MASS J07493960-5207136 b</name>
+	<id>KELT-15 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.91</mass>
+		<radius>1.443</radius>
+		<orbit>
+			<period>3.329441</period>
+			<semimajoraxis>0.04613</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0</spectraltype>
+		<mass>1.181</mass>
+		<radius>1.481</radius>
+		<metallicity>0.047</metallicity>
+		<distance>291</distance>
+		<temperature>6003</temperature>
+		<rightascension>07 49 39.601</rightascension>
+		<declination>-52 07 13.55</declination>
+		<angulardistance />
+		<magV>11.745</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/09/29</lastupdate>
+	<description>KELT-15 b was discovered by the KELT-South survey.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

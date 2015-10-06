@@ -3,8 +3,8 @@
 	<name>Gamma Leonis b</name>
 	<name>gamma 1 Leo b</name>
 	<name>gam 1 Leo b</name>
-	<name>Algieba b</name>
-	<name>Al Gieba b</name>
+	<name>Algieba A b</name>
+	<name>Al Gieba A b</name>
 	<id>Gamma Leonis b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -15,9 +15,9 @@
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.144</eccentricity>
 			<inclination>172.1</inclination>
-			<periastron />
+			<periastron>206.7</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>157.4</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
@@ -26,9 +26,9 @@
 		<radius>31.88</radius>
 		<metallicity>-0.51</metallicity>
 		<distance>38.5</distance>
-		<temperature>986.9</temperature>
-		<rightascension>10 19 58</rightascension>
-		<declination>+19 50 29</declination>
+		<temperature>4330</temperature>
+		<rightascension>10 19 58.427</rightascension>
+		<declination>+19 50 28.53</declination>
 		<angulardistance />
 		<magV>2.01</magV>
 		<magI />
@@ -38,10 +38,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2009</discoveryyear>
-	<lastupdate>11/01/11</lastupdate>
+	<lastupdate>15/09/22</lastupdate>
 	<description />
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

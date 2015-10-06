@@ -4,14 +4,14 @@
 	<id>HD 200964 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.9</mass>
+		<mass>0.895</mass>
 		<radius />
 		<orbit>
-			<period>825</period>
-			<semimajoraxis>1.95</semimajoraxis>
+			<period>825.0</period>
+			<semimajoraxis>1.950</semimajoraxis>
 			<eccentricity>0.181</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>182.6</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -22,9 +22,9 @@
 		<radius>4.3</radius>
 		<metallicity>-0.15</metallicity>
 		<distance>68.4</distance>
-		<temperature>373.1</temperature>
-		<rightascension>21 06 40</rightascension>
-		<declination>+03 48 11</declination>
+		<temperature>5164</temperature>
+		<rightascension>21 06 39.84239</rightascension>
+		<declination>+03 48 11.2280</declination>
 		<angulardistance />
 		<magV>6.64</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/07/28</lastupdate>
+	<lastupdate>15/09/23</lastupdate>
 	<description />
 	<new />
 	<image />

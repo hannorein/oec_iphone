@@ -1,6 +1,8 @@
 <planet>
 	<id_exoplaneteu>18 Del b</id_exoplaneteu>
 	<name>18 Del b</name>
+	<name>18 Delphini b</name>
+	<name>HD 199665 b</name>
 	<id>18 Del b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -11,7 +13,7 @@
 			<semimajoraxis>2.6</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>166.1</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,12 +23,12 @@
 		<mass>2.3</mass>
 		<radius>8.5</radius>
 		<metallicity>-0.052</metallicity>
-		<distance>73.1</distance>
-		<temperature>396.8</temperature>
-		<rightascension>20 58 26</rightascension>
-		<declination>+10 50 21</declination>
+		<distance>75.3</distance>
+		<temperature>4979</temperature>
+		<rightascension>20 58 25.93397</rightascension>
+		<declination>+10 50 21.4289</declination>
 		<angulardistance />
-		<magV>5.52</magV>
+		<magV>5.522</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +36,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2008</discoveryyear>
-	<lastupdate>08/02/20</lastupdate>
+	<lastupdate>15/09/23</lastupdate>
 	<description>18 Delphini is a star in the constellation of Delphinus.</description>
 	<new />
 	<image />

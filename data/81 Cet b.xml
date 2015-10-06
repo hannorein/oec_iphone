@@ -1,6 +1,8 @@
 <planet>
 	<id_exoplaneteu>81 Cet b</id_exoplaneteu>
 	<name>81 Cet b</name>
+	<name>81 Ceti b</name>
+	<name>HD 16400 b</name>
 	<id>81 Cet b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -11,7 +13,7 @@
 			<semimajoraxis>2.5</semimajoraxis>
 			<eccentricity>0.206</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>175.0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +23,10 @@
 		<mass>2.4</mass>
 		<radius>11</radius>
 		<metallicity>-0.06</metallicity>
-		<distance>97.2</distance>
-		<temperature>565.2</temperature>
-		<rightascension>02 37 42</rightascension>
-		<declination>-03 23 46</declination>
+		<distance>92.5</distance>
+		<temperature>4790.0</temperature>
+		<rightascension>02 37 42.80105</rightascension>
+		<declination>-03 23 46.2201</declination>
 		<angulardistance />
 		<magV>5.65</magV>
 		<magI />
@@ -34,7 +36,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2008</discoveryyear>
-	<lastupdate>08/07/03</lastupdate>
+	<lastupdate>15/09/20</lastupdate>
 	<description>The star 81 Ceti is a G-type giant in the constellation of Cetus.</description>
 	<new />
 	<image />

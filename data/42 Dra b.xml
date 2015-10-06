@@ -1,6 +1,8 @@
 <planet>
 	<id_exoplaneteu>42 Dra b</id_exoplaneteu>
 	<name>42 Dra b</name>
+	<name>42 Draconis b</name>
+	<name>HD 170693 b</name>
 	<id>42 Dra b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -11,7 +13,7 @@
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.38</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>218.7</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,12 +23,12 @@
 		<mass>0.98</mass>
 		<radius>22.03</radius>
 		<metallicity>-0.46</metallicity>
-		<distance>97.3</distance>
-		<temperature>789.4</temperature>
-		<rightascension>18 25 59</rightascension>
-		<declination>+65 33 49</declination>
+		<distance>96.5</distance>
+		<temperature>4200</temperature>
+		<rightascension>18 25 59.13734</rightascension>
+		<declination>+65 33 48.5288</declination>
 		<angulardistance />
-		<magV>4.83</magV>
+		<magV>4.833</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +36,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2009</discoveryyear>
-	<lastupdate>09/03/23</lastupdate>
+	<lastupdate>15/09/24</lastupdate>
 	<description>42 Draconis is a metal poor star.</description>
 	<new />
 	<image />

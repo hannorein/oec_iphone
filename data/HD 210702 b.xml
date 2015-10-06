@@ -4,27 +4,27 @@
 	<id>HD 210702 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2</mass>
+		<mass>1.97</mass>
 		<radius />
 		<orbit>
-			<period>341.1</period>
-			<semimajoraxis>1.17</semimajoraxis>
-			<eccentricity>0.152</eccentricity>
+			<period>354.29</period>
+			<semimajoraxis>1.20</semimajoraxis>
+			<eccentricity>0.036</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>282.3</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K1III</spectraltype>
+		<spectraltype>K1 IV</spectraltype>
 		<mass>1.85</mass>
-		<radius>4.72</radius>
+		<radius>4.45</radius>
 		<metallicity>0.12</metallicity>
-		<distance>56</distance>
-		<temperature>454.7</temperature>
-		<rightascension>22 11 51</rightascension>
-		<declination>+16 02 26</declination>
+		<distance>54.9</distance>
+		<temperature>5010.0</temperature>
+		<rightascension>22 11 51.33086</rightascension>
+		<declination>+16 02 25.9903</declination>
 		<angulardistance />
 		<magV>5.93</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>07/04/20</lastupdate>
+	<lastupdate>15/09/20</lastupdate>
 	<description />
 	<new />
 	<image />

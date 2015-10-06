@@ -4,29 +4,29 @@
 	<id>HD 104985 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>6.3</mass>
+		<mass>8.3</mass>
 		<radius />
 		<orbit>
-			<period>198.2</period>
-			<semimajoraxis>0.78</semimajoraxis>
-			<eccentricity>0.03</eccentricity>
+			<period>199.505</period>
+			<semimajoraxis>0.95</semimajoraxis>
+			<eccentricity>0.090</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>203.5</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G9 III</spectraltype>
-		<mass>1.6</mass>
-		<radius>10.87</radius>
-		<metallicity>-0.35</metallicity>
-		<distance>102</distance>
-		<temperature>787.7</temperature>
-		<rightascension>12 05 15</rightascension>
-		<declination>+76 54 20</declination>
+		<mass>2.3</mass>
+		<radius>11</radius>
+		<metallicity>-0.15</metallicity>
+		<distance>97.1</distance>
+		<temperature>4877</temperature>
+		<rightascension>12 05 15.11890</rightascension>
+		<declination>+76 54 20.6475</declination>
 		<angulardistance />
-		<magV>5.79</magV>
+		<magV>5.797</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>10/12/29</lastupdate>
+	<lastupdate>15/09/23</lastupdate>
 	<description />
 	<new />
 	<image />

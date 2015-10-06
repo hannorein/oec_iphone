@@ -8,13 +8,13 @@
 		<mass>2</mass>
 		<radius>1</radius>
 		<orbit>
-			<period />
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
-			<periastron />
+			<period>15000</period>
+			<semimajoraxis>14</semimajoraxis>
+			<eccentricity>0.21</eccentricity>
+			<inclination>138</inclination>
+			<periastron>90</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>75</ascendingnode>
 		</orbit>
 	</properties>
 	<star>

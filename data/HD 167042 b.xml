@@ -4,27 +4,27 @@
 	<id>HD 167042 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1.6</mass>
+		<mass>1.70</mass>
 		<radius />
 		<orbit>
-			<period>416.1</period>
-			<semimajoraxis>1.3</semimajoraxis>
-			<eccentricity>0.03</eccentricity>
+			<period>420.77</period>
+			<semimajoraxis>1.32</semimajoraxis>
+			<eccentricity>0.089</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>85.7</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K1III</spectraltype>
-		<mass>1.64</mass>
-		<radius>4.3</radius>
+		<spectraltype>K1 IV</spectraltype>
+		<mass>1.72</mass>
+		<radius>4.30</radius>
 		<metallicity>0.05</metallicity>
-		<distance>50</distance>
-		<temperature>402.5</temperature>
-		<rightascension>18 10 32</rightascension>
-		<declination>+54 17 12</declination>
+		<distance>50.23</distance>
+		<temperature>5020.0</temperature>
+		<rightascension>18 10 31.64008</rightascension>
+		<declination>+54 17 11.5922</declination>
 		<angulardistance />
 		<magV>5.97</magV>
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>07/10/19</lastupdate>
-	<description />
+	<lastupdate>15/09/20</lastupdate>
+	<description>HD 167042 b is a giant planet orbiting a subgiant star.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -4,13 +4,13 @@
 	<id>WASP-85 A b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>1.22</mass>
-		<radius>1.48</radius>
+		<mass>1.265</mass>
+		<radius>1.24</radius>
 		<orbit>
-			<period>2.6556734</period>
-			<semimajoraxis>0.0382</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>89.72</inclination>
+			<period>2.65567770</period>
+			<semimajoraxis>0.039</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>89.69</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -18,11 +18,11 @@
 	</properties>
 	<star>
 		<spectraltype>G5</spectraltype>
-		<mass>1.04</mass>
-		<radius>0.96</radius>
+		<mass>1.09</mass>
+		<radius>0.935</radius>
 		<metallicity>0.08</metallicity>
 		<distance>128</distance>
-		<temperature>5685</temperature>
+		<temperature>6112</temperature>
 		<rightascension>11 43 38.01</rightascension>
 		<declination>+06 33 49.4</declination>
 		<angulardistance />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/12/30</lastupdate>
-	<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1.</description>
+	<lastupdate>15/09/15</lastupdate>
+	<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1. The star has starspots which are occulted by the planet, indicating that the orbit is misaligned with the stellar equator.</description>
 	<new />
 	<image />
 	<imagedescription />

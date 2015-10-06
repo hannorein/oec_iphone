@@ -1,17 +1,18 @@
 <planet>
 	<id_exoplaneteu>24 Sex c</id_exoplaneteu>
 	<name>24 Sex c</name>
+	<name>24 Sextantis c</name>
 	<id>24 Sex c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
 		<mass>0.86</mass>
 		<radius />
 		<orbit>
-			<period>883</period>
+			<period>883.0</period>
 			<semimajoraxis>2.08</semimajoraxis>
 			<eccentricity>0.29</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>220.5</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -22,9 +23,9 @@
 		<radius>4.9</radius>
 		<metallicity>-0.03</metallicity>
 		<distance>74.8</distance>
-		<temperature>430.8</temperature>
-		<rightascension>10 23 28</rightascension>
-		<declination>-00 54 08</declination>
+		<temperature>5098</temperature>
+		<rightascension>10 23 28.370</rightascension>
+		<declination>-00 54 08.09</declination>
 		<angulardistance />
 		<magV>7.38</magV>
 		<magI />
@@ -34,7 +35,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/07/28</lastupdate>
+	<lastupdate>15/09/23</lastupdate>
 	<description>14 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
 	<new />
 	<image />
