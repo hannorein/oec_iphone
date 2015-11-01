@@ -1,4 +1,4 @@
-<systems name="systems" planets="2064">
+<systems name="systems" planets="2074">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -444,7 +444,7 @@
 				<eccentricity errorminus="0.06" errorplus="0.14">0.09</eccentricity>
 				<periastron errorminus="165.4" errorplus="277.9">9.2</periastron>
 				<periastrontime errorminus="172.3" errorplus="67.3">2454762</periastrontime>
-				<description>14 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
+				<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/09/23</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -459,7 +459,7 @@
 				<eccentricity errorminus="0.09" errorplus="0.16">0.29</eccentricity>
 				<periastron errorminus="320.9" errorplus="182.2">220.5</periastron>
 				<periastrontime errorminus="96.5" errorplus="209.9">2454930</periastrontime>
-				<description>14 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
+				<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/09/23</lastupdate>
 				<discoveryyear>2010</discoveryyear>
@@ -778,6 +778,8 @@
 	</system>
 	<system>
 		<name>2MASS J0219-3925</name>
+		<rightascension>02 19 22.10</rightascension>
+		<declination>-39 25 22.5</declination>
 		<distance errorminus="2.6" errorplus="2.6">39.4</distance>
 		<star>
 			<name>2MASS J0219-3925</name>
@@ -1507,15 +1509,15 @@
 				<name>7 Canis Majoris b</name>
 				<name>HD 47205 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.6" errorplus="0.6" type="msini">2.6</mass>
-				<period errorminus="17" errorplus="17">763</period>
-				<semimajoraxis errorminus="0.1" errorplus="0.1">1.9</semimajoraxis>
-				<eccentricity errorminus="0.06" errorplus="0.06">0.14</eccentricity>
-				<periastron errorminus="41" errorplus="41">12</periastron>
-				<periastrontime errorminus="89" errorplus="89">2455520</periastrontime>
+				<mass errorminus="0.14" errorplus="0.14" type="msini">2.46</mass>
+				<period errorminus="7.4" errorplus="7.4">796.0</period>
+				<semimajoraxis errorminus="0.01" errorplus="0.01">1.93</semimajoraxis>
+				<eccentricity errorminus="0.07" errorplus="0.07">0.22</eccentricity>
+				<periastron errorminus="14" errorplus="14">77</periastron>
+				<periastrontime errorminus="34" errorplus="34" unit="BJD">2454093</periastrontime>
 				<description>This planet is orbiting the star 7 CMa and was discovered by the Pan-Pacific Planet Search (PPPS). It is the first detection from this ongoing survey.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/09/20</lastupdate>
+				<lastupdate>15/10/25</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
 		</star>
@@ -4642,16 +4644,21 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>EPIC 201637175</name>
+		<name>K2-22</name>
 		<rightascension>11 17 55.856</rightascension>
 		<declination>+02 37 06.79</declination>
 		<distance errorminus="50" errorplus="50">225</distance>
 		<binary>
 			<name>EPIC 201637175</name>
+			<name>K2-22</name>
+			<name>2MASS J11175587+0237086</name>
 			<separation unit="arcsec">1.9</separation>
 			<separation unit="AU">430</separation>
 			<positionangle>227</positionangle>
 			<star>
 				<name>EPIC 201637175 A</name>
+				<name>K2-22 A</name>
+				<name>2MASS J11175587+0237086 A</name>
 				<magJ errorminus="0.05" errorplus="0.05">12.74</magJ>
 				<magH errorminus="0.05" errorplus="0.05">12.09</magH>
 				<magK errorminus="0.05" errorplus="0.05">11.91</magK>
@@ -4663,6 +4670,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<planet>
 					<name>EPIC 201637175 b</name>
 					<name>EPIC 201637175 A b</name>
+					<name>K2-22 b</name>
+					<name>K2-22 A b</name>
 					<period errorminus="0.000001" errorplus="0.000001">0.381071</period>
 					<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2456811.1216</transittime>
 					<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0088</semimajoraxis>
@@ -4680,6 +4689,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</star>
 			<star>
 				<name>EPIC 201637175 B</name>
+				<name>K2-22 B</name>
+				<name>2MASS J11175587+0237086 B</name>
 				<magJ errorminus="0.05" errorplus="0.05">14.87</magJ>
 				<magH errorminus="0.05" errorplus="0.05">14.27</magH>
 				<magK errorminus="0.05" errorplus="0.05">13.93</magK>
@@ -4946,7 +4957,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<period errorminus="0.00063" errorplus="0.00059">9.32414</period>
 				<inclination errorminus="1.1" errorplus="1.3">88.3</inclination>
 				<semimajoraxis errorminus="0.0067" errorplus="0.0057">0.0731</semimajoraxis>
-				<radius errorminus="0.44" errorplus="0.42">1.59</radius>
+				<radius errorminus="0.039" errorplus="0.037">0.142</radius>
 				<istransiting>1</istransiting>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
@@ -4962,7 +4973,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<period errorminus="0.00099" errorplus="0.00093">15.50120</period>
 				<inclination errorminus="0.75" errorplus="0.63">89.08</inclination>
 				<semimajoraxis errorminus="0.0094" errorplus="0.0079">0.1026</semimajoraxis>
-				<radius errorminus="0.52" errorplus="0.54">1.92</radius>
+				<radius errorminus="0.046" errorplus="0.048">0.171</radius>
 				<istransiting>1</istransiting>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
@@ -9791,6 +9802,75 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HAT-P-57</name>
+		<rightascension>18 18 58.32</rightascension>
+		<declination>10 35 50.3</declination>
+		<distance errorminus="13" errorplus="13">303</distance>
+		<binary>
+			<name>HAT-P-57</name>
+			<separation errorminus="0.001" errorplus="0.001" unit="arcsec">2.667</separation>
+			<separation errorminus="30" errorplus="30" unit="AU">800</separation>
+			<positionangle>234</positionangle>
+			<star>
+				<name>HAT-P-57 A</name>
+				<name>GSC 01014-00973</name>
+				<name>2MASS J18185842+1035502</name>
+				<name>1SWASP J181858.42+103550.1</name>
+				<name>TYC 1014-973-1</name>
+				<temperature errorminus="250" errorplus="250">7500</temperature>
+				<metallicity errorminus="0.25" errorplus="0.25">-0.25</metallicity>
+				<magB errorminus="0.021" errorplus="0.021">10.916</magB>
+				<magV errorminus="0.029" errorplus="0.029">10.465</magV>
+				<magI errorminus="0.063" errorplus="0.063">10.007</magI>
+				<magJ errorminus="0.027" errorplus="0.027">9.670</magJ>
+				<magH errorminus="0.029" errorplus="0.029">9.497</magH>
+				<magK errorminus="0.024" errorplus="0.024">9.433</magK>
+				<mass errorminus="0.12" errorplus="0.12">1.47</mass>
+				<radius errorminus="0.050" errorplus="0.050">1.500</radius>
+				<age errorminus="0.51" errorplus="0.67">1.00</age>
+				<spectraltype>A8V</spectraltype>
+				<planet>
+					<name>HAT-P-57 b</name>
+					<name>HAT-P-57 A b</name>
+					<period errorminus="0.0000032" errorplus="0.0000032">2.4652950</period>
+					<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455113.48127</transittime>
+					<inclination errorminus="0.85" errorplus="0.85">88.26</inclination>
+					<spinorbitalignment lowerlimit="27.6" upperlimit="57.4" />
+					<mass upperlimit="1.85" />
+					<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0406</semimajoraxis>
+					<eccentricity>0</eccentricity>
+					<radius errorminus="0.054" errorplus="0.054">1.413</radius>
+					<discoverymethod>transit</discoverymethod>
+					<discoveryyear>2015</discoveryyear>
+					<description>HAT-P-57 b is a hot Jupiter orbiting an A-type star. There is an alternative possibility for the spin alignment to be in the range -16.7&#176; &lt; &#955; &lt; 3.3&#176; with probability 26%.</description>
+					<lastupdate>15/11/01</lastupdate>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<istransiting>1</istransiting>
+					<new>1</new>
+				</planet>
+			</star>
+			<binary>
+				<name>HAT-P-57 BC</name>
+				<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.225</separation>
+				<separation errorminus="3" errorplus="3" unit="AU">68</separation>
+				<positionangle>165</positionangle>
+				<star>
+					<name>HAT-P-57 B</name>
+					<magH errorminus="0.10" errorplus="0.10">12.25</magH>
+					<mass errorminus="0.10" errorplus="0.10">0.61</mass>
+				</star>
+				<star>
+					<name>HAT-P-57 C</name>
+					<magH errorminus="0.11" errorplus="0.11">13.26</magH>
+					<mass errorminus="0.08" errorplus="0.08">0.53</mass>
+				</star>
+				<semimajoraxis>68</semimajoraxis>
+			</binary>
+			<semimajoraxis>800</semimajoraxis>
+		</binary>
+	</system>
+	<system>
 		<name>HAT-P-6</name>
 		<rightascension>23 39 06</rightascension>
 		<declination>+42 27 58</declination>
@@ -10125,47 +10205,87 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HATS-14</name>
-		<rightascension>20 52 51.60</rightascension>
-		<declination>-25 41 14.4</declination>
+		<rightascension>20 52 51.715</rightascension>
+		<declination>-25 41 14.40</declination>
 		<distance errorminus="14" errorplus="14">513</distance>
 		<star>
 			<name>HATS-14</name>
 			<name>2MASS J20525171-2541144</name>
-			<name>GSC 6926-00259</name>
-			<mass errorminus="0.024" errorplus="0.024">0.967</mass>
-			<radius errorminus="0.015" errorplus="0.023">0.933</radius>
-			<temperature errorminus="60" errorplus="60">5346</temperature>
+			<name>GSC 06926-00259</name>
+			<mass errorminus="0.02" errorplus="0.02">0.97</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.93</radius>
+			<temperature errorminus="65" errorplus="65">5408</temperature>
 			<magB errorminus="0.10" errorplus="0.10">13.820</magB>
 			<magV errorminus="0.10" errorplus="0.10">13.79</magV>
 			<magJ errorminus="0.026" errorplus="0.026">12.518</magJ>
 			<magH errorminus="0.023" errorplus="0.023">12.129</magH>
 			<magK errorminus="0.019" errorplus="0.019">12.037</magK>
 			<age errorminus="1.7" errorplus="1.7">4.9</age>
-			<metallicity errorminus="0.060" errorplus="0.060">0.330</metallicity>
+			<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
 			<planet>
 				<name>HATS-14 b</name>
 				<name>2MASS J20525171-2541144 b</name>
-				<name>GSC 6926-00259 b</name>
+				<name>GSC 06926-00259 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.070" errorplus="0.070">1.071</mass>
-				<radius errorminus="0.022" errorplus="0.032">1.039</radius>
+				<mass errorminus="0.07" errorplus="0.07">1.07</mass>
+				<radius errorminus="0.02" errorplus="0.03">1.04</radius>
 				<temperature errorminus="20" errorplus="20">1276</temperature>
-				<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2456408.76462</transittime>
-				<period errorminus="0.0000027" errorplus="0.0000027">2.7667641</period>
+				<transittime errorminus="0.0002" errorplus="0.0003" unit="BJD">2456408.7646</transittime>
+				<period errorminus="0.000002" errorplus="0.000003">2.766764</period>
 				<semimajoraxis errorminus="0.00032" errorplus="0.00032">0.03815</semimajoraxis>
-				<inclination errorminus="0.66" errorplus="0.66">88.83</inclination>
-				<description>HATS-14 b is a hot-Jupiter transiting planet that was discovered by the HATSouth survey.</description>
+				<inclination errorminus="0.4" errorplus="0.3">89.0</inclination>
+				<spinorbitalignment errorminus="5" errorplus="4">76</spinorbitalignment>
+				<description>HATS-14 b is a hot-Jupiter transiting planet that was discovered by the HATSouth survey. Unlike many such planets orbiting relatively cool stars, it exhibits a substantial orbital obliquity.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/03/11</lastupdate>
+				<lastupdate>15/11/01</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
 	</system>
 	<system>
+		<name>HATS-17</name>
+		<rightascension>12 48 45.72</rightascension>
+		<declination>-47 36 49.3</declination>
+		<distance errorminus="16" errorplus="22">339</distance>
+		<star>
+			<name>HATS-17</name>
+			<name>GSC 08249-00170</name>
+			<name>2MASS J12484555-4736492</name>
+			<magB errorminus="0.090" errorplus="0.090">13.105</magB>
+			<magV errorminus="0.10" errorplus="0.10">12.39</magV>
+			<magJ errorminus="0.023" errorplus="0.023">11.082</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.837</magH>
+			<magK errorminus="0.021" errorplus="0.021">10.698</magK>
+			<temperature errorminus="78" errorplus="78">5846</temperature>
+			<spectraltype>G</spectraltype>
+			<metallicity errorminus="0.030" errorplus="0.030">0.300</metallicity>
+			<mass errorminus="0.030" errorplus="0.030">1.131</mass>
+			<radius errorminus="0.046" errorplus="0.070">1.091</radius>
+			<age errorminus="1.3" errorplus="1.3">2.1</age>
+			<planet>
+				<name>HATS-17 b</name>
+				<period errorminus="0.000073" errorplus="0.000073">16.254611</period>
+				<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2457139.1672</transittime>
+				<inclination errorminus="0.26" errorplus="0.26">89.08</inclination>
+				<eccentricity upperlimit="0.070" />
+				<mass errorminus="0.065" errorplus="0.065">1.338</mass>
+				<radius errorminus="0.056" errorplus="0.056">0.777</radius>
+				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.1308</semimajoraxis>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>HATS-17 b is the first warm Jupiter discovered by the HATSouth transit survey. It is a compact planet that may have up to 50% of its mass as heavy elements.</description>
+				<lastupdate>15/11/01</lastupdate>
+				<list>Confirmed planets</list>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HATS-2</name>
-		<rightascension>11 46 57</rightascension>
-		<declination>-22 21 46</declination>
+		<rightascension>11 46 57.370</rightascension>
+		<declination>-22 21 46.82</declination>
 		<distance>360</distance>
 		<star>
 			<name>HATS-2</name>
@@ -10327,14 +10447,19 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 	</system>
 	<system>
 		<name>HATS-6</name>
-		<rightascension>05 52 35</rightascension>
-		<declination>-19 01 54</declination>
+		<rightascension>05 52 35.231</rightascension>
+		<declination>-19 01 53.96</declination>
 		<distance errorminus="5.5" errorplus="5.5">172.6</distance>
 		<star>
 			<name>HATS-6</name>
 			<name>2MASS 05523523-1901539</name>
 			<mass errorminus="0.027" errorplus="0.020">0.574</mass>
 			<radius errorminus="0.011" errorplus="0.011">0.570</radius>
+			<magB errorminus="0.043" errorplus="0.043">16.664</magB>
+			<magV errorminus="0.024" errorplus="0.024">15.160</magV>
+			<magJ errorminus="0.024" errorplus="0.024">12.046</magJ>
+			<magH errorminus="0.023" errorplus="0.023">11.397</magH>
+			<magK errorminus="0.023" errorplus="0.023">11.224</magK>
 			<temperature errorminus="18" errorplus="18">3724</temperature>
 			<age errorminus="4.3" errorplus="4.3">8.1</age>
 			<metallicity errorminus="0.091" errorplus="0.091">0.2</metallicity>
@@ -14416,6 +14541,46 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 155233</name>
+		<rightascension>17 11 04.36474</rightascension>
+		<declination>-20 39 16.4509</declination>
+		<distance errorminus="3.3" errorplus="3.3">75.1</distance>
+		<star>
+			<name>HD 155233</name>
+			<name>HIP 84056</name>
+			<name>TYC 6244-136-1</name>
+			<name>SAO 185116</name>
+			<name>BD-20 4659</name>
+			<name>CPD-20 6481</name>
+			<name>2MASS J17110436-2039162</name>
+			<magB>7.836</magB>
+			<magV>6.813</magV>
+			<magJ errorminus="0.037" errorplus="0.037">5.071</magJ>
+			<magH errorminus="0.076" errorplus="0.076">4.728</magH>
+			<magK errorminus="0.036" errorplus="0.036">4.493</magK>
+			<spectraltype>K1 III</spectraltype>
+			<mass errorminus="0.20" errorplus="0.20">1.50</mass>
+			<metallicity errorminus="0.07" errorplus="0.07">0.10</metallicity>
+			<temperature errorminus="100" errorplus="100">4845</temperature>
+			<radius errorminus="0.22" errorplus="0.22">5.03</radius>
+			<planet>
+				<name>HD 155233 b</name>
+				<list>Confirmed planets</list>
+				<period errorminus="63" errorplus="63">885</period>
+				<periastrontime errorminus="412" errorplus="412" unit="BJD">2455112</periastrontime>
+				<eccentricity errorminus="0.20" errorplus="0.20">0.03</eccentricity>
+				<periastron errorminus="90" errorplus="90">95</periastron>
+				<mass errorminus="0.5" errorplus="0.5" type="msini">2.0</mass>
+				<semimajoraxis errorminus="0.10" errorplus="0.10">2.07</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<lastupdate>15/10/25</lastupdate>
+				<description>HD 155233 b is a giant planet orbiting a giant star and was found by the Pan-Pacific Planet Search.</description>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 155358</name>
 		<rightascension>17 09 35</rightascension>
 		<declination>+33 21 21</declination>
@@ -18064,7 +18229,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		<name>HD 219134</name>
 		<rightascension>23 13 16.97632</rightascension>
 		<declination>+57 10 06.0823</declination>
-		<distance errorminus="0.03" errorplus="0.03">6.53</distance>
+		<distance errorminus="0.012" errorplus="0.012">6.546</distance>
 		<star>
 			<name>HD 219134</name>
 			<name>BD+56 2966</name>
@@ -18074,7 +18239,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<name>2MASS J23131692+5710059</name>
 			<name>PPM 41599</name>
 			<name>TYC 4006-1866-1</name>
-			<mass errorminus="0.02" errorplus="0.02">0.78</mass>
+			<mass errorminus="0.022" errorplus="0.037">0.794</mass>
 			<radius errorminus="0.005" errorplus="0.005">0.778</radius>
 			<magU errorminus="0.010" errorplus="0.010">7.460</magU>
 			<magB errorminus="0.007" errorplus="0.007">6.560</magB>
@@ -18087,6 +18252,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity errorminus="0.04" errorplus="0.04">0.11</metallicity>
 			<spectraltype>K3V</spectraltype>
 			<temperature errorminus="16" errorplus="16">4699</temperature>
+			<age>12.9</age>
 			<planet>
 				<name>HD 219134 b</name>
 				<name>BD+56 2966 b</name>
@@ -18097,15 +18263,19 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>PPM 41599 b</name>
 				<name>TYC 4006-1866-1 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.001" errorplus="0.001">0.014</mass>
-				<period errorminus="0.0004" errorplus="0.0004">3.0937</period>
-				<transittime errorminus="0.001" errorplus="0.001">2457126.7001</transittime>
-				<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.0382</semimajoraxis>
-				<eccentricity lowerlimit="0.00" upperlimit="0.13" />
-				<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. Spitzer observations allowed the discoverers to detect the transit of one planet in front of the star making HD 219134 b the nearest known transiting planet to date.</description>
+				<mass errorminus="0.001" errorplus="0.001" type="msini">0.012</mass>
+				<period errorminus="0.0001" errorplus="0.0001">3.0931</period>
+				<meananomaly errorminus="20" errorplus="20">57</meananomaly>
+				<transittime errorminus="0.001" errorplus="0.001" unit="BJD">245126.7001</transittime>
+				<semimajoraxis errorminus="0.0000008" errorplus="0.0000008">0.0384740</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
+				<radius errorminus="0.0077" errorplus="0.0077">0.1433</radius>
+				<inclination errorminus="0.080" errorplus="0.080">85.058</inclination>
+				<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. Spitzer observations allowed the discoverers to detect the transit of the innermost planet in front of the star making HD 219134 b the nearest known transiting planet to date.</description>
 				<discoverymethod>RV</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/30</lastupdate>
+				<lastupdate>15/10/20</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -18118,15 +18288,15 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>PPM 41599 c</name>
 				<name>TYC 4006-1866-1 c</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.0019" errorplus="0.0019">0.0084</mass>
-				<period errorminus="0.005" errorplus="0.005">6.765</period>
-				<transittime errorminus="0.45" errorplus="0.45">2457129.46</transittime>
-				<semimajoraxis errorminus="0.001" errorplus="0.001">0.064</semimajoraxis>
-				<eccentricity lowerlimit="0.00" upperlimit="0.26" />
-				<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+				<mass errorminus="0.002" errorplus="0.002" type="msini">0.011</mass>
+				<period errorminus="0.0006" errorplus="0.0006">6.7635</period>
+				<meananomaly errorminus="27" errorplus="27">78</meananomaly>
+				<semimajoraxis errorminus="0.000004" errorplus="0.000004">0.064816</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
+				<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively</description>
 				<discoverymethod>RV</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>15/07/30</lastupdate>
+				<lastupdate>15/10/20</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -18139,13 +18309,15 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>PPM 41599 d</name>
 				<name>TYC 4006-1866-1 d</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.004" errorplus="0.004">0.027</mass>
-				<period errorminus="0.16" errorplus="0.16">46.78</period>
-				<semimajoraxis errorminus="0.002" errorplus="0.002">0.234</semimajoraxis>
-				<eccentricity errorminus="0.14" errorplus="0.14">0.32</eccentricity>
-				<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+				<period errorminus="0.005" errorplus="0.005">22.805</period>
+				<mass errorminus="0.003" errorplus="0.003" type="msini">0.028</mass>
+				<meananomaly errorminus="20" errorplus="20">263</meananomaly>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
+				<semimajoraxis errorminus="0.00002" errorplus="0.00002">0.14574</semimajoraxis>
+				<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/07/30</lastupdate>
+				<lastupdate>15/10/20</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -18158,13 +18330,57 @@ Image credit: Vanessa Bailey</imagedescription>
 				<name>PPM 41599 e</name>
 				<name>TYC 4006-1866-1 e</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.019" errorplus="0.019">0.195</mass>
-				<period errorminus="34" errorplus="379">1190</period>
-				<semimajoraxis errorminus="0.02" errorplus="0.43">2.14</semimajoraxis>
-				<eccentricity errorminus="0.11" errorplus="0.11">0.27</eccentricity>
-				<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+				<mass errorminus="0.004" errorplus="0.004" type="msini">0.067</mass>
+				<period errorminus="0.01" errorplus="0.01">46.71</period>
+				<semimajoraxis errorminus="0.00005" errorplus="0.00005">0.23508</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
+				<meananomaly errorminus="11" errorplus="11">277</meananomaly>
+				<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. This planet was designated HD 219134 d in the HARPS-N announcement.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/07/30</lastupdate>
+				<lastupdate>15/10/20</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+			<planet>
+				<name>HD 219134 f</name>
+				<name>BD+56 2966 f</name>
+				<name>GJ 892 f</name>
+				<name>HIP 114622 f</name>
+				<name>HR 8832 f</name>
+				<name>2MASS J23131692+5710059 f</name>
+				<name>PPM 41599 f</name>
+				<name>TYC 4006-1866-1 f</name>
+				<list>Confirmed planets</list>
+				<period errorminus="0.2" errorplus="0.2">94.2</period>
+				<mass errorminus="0.004" errorplus="0.004" type="msini">0.034</mass>
+				<meananomaly errorminus="35" errorplus="35">107</meananomaly>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
+				<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.3753</semimajoraxis>
+				<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/10/20</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+			<planet>
+				<name>HD 219134 g</name>
+				<name>BD+56 2966 g</name>
+				<name>GJ 892 g</name>
+				<name>HIP 114622 g</name>
+				<name>HR 8832 g</name>
+				<name>2MASS J23131692+5710059 g</name>
+				<name>PPM 41599 g</name>
+				<name>TYC 4006-1866-1 g</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.02" errorplus="0.02" type="msini">0.34</mass>
+				<period errorminus="43" errorplus="43">2247</period>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">3.11</semimajoraxis>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+				<periastron errorminus="50" errorplus="50">215</periastron>
+				<meananomaly errorminus="56" errorplus="56">209</meananomaly>
+				<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. In the HARPS-N solution, this planet was designated HD 219134 e and was assigned a shorter-period, more eccentric orbit.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/10/20</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -21371,33 +21587,42 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 6434</name>
-		<rightascension>01 04 40</rightascension>
-		<declination>-39 29 17</declination>
-		<distance>40.32</distance>
+		<rightascension>01 04 40.15077</rightascension>
+		<declination>-39 29 17.5822</declination>
+		<distance errorminus="1.03" errorplus="1.03">41.4</distance>
 		<star>
-			<mass>0.79</mass>
-			<radius>0.57</radius>
-			<magV>7.72</magV>
+			<name>HD 6434</name>
+			<name>HIP 5054</name>
+			<name>TYC 7533-1111-1</name>
+			<name>SAO 192911</name>
+			<name>GJ 9037</name>
+			<name>CD-40 239</name>
+			<name>CPD-40 98</name>
+			<name>2MASS J01044015-3929173</name>
+			<mass errorminus="0.04" errorplus="0.04">0.89</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.14</radius>
+			<magV errorminus="0.12" errorplus="0.12">7.72</magV>
 			<magB>8.32</magB>
 			<magJ errorminus="0.020" errorplus="0.020">6.577</magJ>
 			<magH errorminus="0.03" errorplus="0.03">6.27</magH>
 			<magK errorminus="0.026" errorplus="0.026">6.187</magK>
-			<metallicity>-0.52</metallicity>
+			<temperature errorminus="92" errorplus="92">5690</temperature>
+			<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
 			<spectraltype>G3 IV</spectraltype>
+			<age errorminus="2.12" errorplus="2.12">11.27</age>
 			<planet>
 				<name>HD 6434 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.39</mass>
-				<period>21.998</period>
-				<semimajoraxis>0.14</semimajoraxis>
-				<eccentricity>0.17</eccentricity>
+				<mass errorminus="0.01" errorplus="0.01" type="msini">0.44</mass>
+				<period errorminus="0.0008" errorplus="0.0008">22.0170</period>
+				<semimajoraxis errorminus="0.002" errorplus="0.002">0.148</semimajoraxis>
+				<eccentricity errorminus="0.025" errorplus="0.025">0.146</eccentricity>
+				<periastron errorminus="10.5" errorplus="10.5">163.2</periastron>
+				<periastrontime errorminus="0.638" errorplus="0.638">2451909.308</periastrontime>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/30</lastupdate>
+				<lastupdate>15/10/16</lastupdate>
 				<discoveryyear>2000</discoveryyear>
-				<temperature>518.2</temperature>
 			</planet>
-			<name>HD 6434</name>
-			<temperature>5835.0</temperature>
 		</star>
 	</system>
 	<system>
@@ -22885,13 +23110,13 @@ Image credit: Vanessa Bailey</imagedescription>
 			<planet>
 				<name>HD 87883 b</name>
 				<list>Confirmed planets</list>
-				<mass>12.1</mass>
+				<mass>1.78</mass>
 				<period>2754</period>
 				<semimajoraxis>3.6</semimajoraxis>
 				<eccentricity>0.53</eccentricity>
 				<inclination>8.5</inclination>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/01/11</lastupdate>
+				<lastupdate>15/10/07</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 			</planet>
 			<name>HD 87883</name>
@@ -24938,7 +25163,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<istransiting>1</istransiting>
 				<lastupdate>15/09/29</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -25067,6 +25291,71 @@ Credit: J. Carson et al 2012.</imagedescription>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
+	</system>
+	<system>
+		<name>KELT-4</name>
+		<rightascension>10 28 15.011</rightascension>
+		<declination>+25 34 23.5</declination>
+		<distance errorminus="10" errorplus="10">210</distance>
+		<binary>
+			<separation unit="arcsec">1.5</separation>
+			<separation errorminus="16" errorplus="16" unit="AU">328</separation>
+			<period errorminus="105923" errorplus="105923">1380645</period>
+			<star>
+				<name>KELT-4A</name>
+				<name>BD+26 2091</name>
+				<name>HIP 51260</name>
+				<name>2MASS J10281500+2534236</name>
+				<name>TYC 1973-954-1</name>
+				<name>WDS 10283+2534</name>
+				<name>CCDM J10283+2534A</name>
+				<magB errorminus="0.03" errorplus="0.03">10.47</magB>
+				<magV errorminus="0.03" errorplus="0.03">9.98</magV>
+				<magJ errorminus="0.021" errorplus="0.021">9.017</magJ>
+				<magH errorminus="0.023" errorplus="0.023">8.790</magH>
+				<magK errorminus="0.020" errorplus="0.020">8.689</magK>
+				<mass errorminus="0.061" errorplus="0.067">1.201</mass>
+				<radius errorminus="0.068" errorplus="0.078">1.610</radius>
+				<temperature errorminus="75" errorplus="75">6206</temperature>
+				<metallicity errorminus="0.069" errorplus="0.065">-0.116</metallicity>
+				<spectraltype>F</spectraltype>
+				<planet>
+					<name>KELT-4A b</name>
+					<name>BD+26 2091 b</name>
+					<name>HIP 51260 b</name>
+					<name>2MASS J10281500+2534236 b</name>
+					<name>TYC 1973-954-1 b</name>
+					<name>WDS 10283+2534 b</name>
+					<name>CCDM J10283+2534A b</name>
+					<radius errorminus="0.045" errorplus="0.046">1.699</radius>
+					<mass errorminus="0.059" errorplus="0.060">0.902</mass>
+					<period errorminus="0.0000048" errorplus="0.0000048">2.9895936</period>
+					<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2456193.29157</transittime>
+					<description>KELT-4A b is an inflated, transiting Hot Jupiter orbiting the brightest component of a hierarchical triple stellar system.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>15/09/30</lastupdate>
+					<discoveryyear>2015</discoveryyear>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+					<new>1</new>
+				</planet>
+			</star>
+			<binary>
+				<name>KELT-4BC</name>
+				<separation unit="arcsec">0.034</separation>
+				<separation errorminus="0.74" errorplus="0.74" unit="AU">10.3</separation>
+				<period errorminus="1315" errorplus="1315">10738</period>
+				<star>
+					<name>KELT-4B</name>
+				</star>
+				<star>
+					<name>KELT-4C</name>
+				</star>
+				<semimajoraxis>10.3</semimajoraxis>
+			</binary>
+			<semimajoraxis>328</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>KELT-6</name>
@@ -45666,8 +45955,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 				<name>KOI-2529.01</name>
 				<list>Controversial</list>
 				<radius errorminus="0.015" errorplus="0.012">0.152</radius>
-				<period errorminus="0.000131" errorplus="0.000131">16.796995</period>
-				<transittime errorminus="0.00425" errorplus="0.00425">2454967.04279</transittime>
+				<period errorminus="0.0008561" errorplus="0.0008561">16.79713874</period>
+				<transittime errorminus="0.00404" errorplus="0.00404">2454967.04221</transittime>
 				<description>KOI-2529.01 is an unconfirmed exoplanet candidate that was identified in the Q1-Q6 Kepler KOI list.</description>
 				<inclination>89.95</inclination>
 				<discoverymethod>transit</discoverymethod>
@@ -51801,6 +52090,57 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>KOI-89</name>
+		<rightascension>19 59 17.084</rightascension>
+		<declination>+43 48 51.43</declination>
+		<star>
+			<name>KOI-89</name>
+			<name>KIC 8056665</name>
+			<name>TYC 3149-1163-1</name>
+			<name>2MASS J19591707+4348513</name>
+			<temperature errorminus="225" errorplus="225">7717</temperature>
+			<mass errorminus="0.256" errorplus="0.256">1.965</mass>
+			<radius errorminus="0.2" errorplus="0.2">2.3</radius>
+			<magB errorminus="0.10" errorplus="0.10">11.95</magB>
+			<magV>11.731</magV>
+			<magJ errorminus="0.027" errorplus="0.027">10.983</magJ>
+			<magH errorminus="0.029" errorplus="0.029">10.876</magH>
+			<magK errorminus="0.020" errorplus="0.020">10.851</magK>
+			<planet>
+				<name>KOI-89.01</name>
+				<period>84.69</period>
+				<radius errorminus="0.03" errorplus="0.03">0.45</radius>
+				<eccentricity lowerlimit="0.056" />
+				<inclination errorminus="0.05" errorplus="0.05">89.340</inclination>
+				<transittime errorminus="0.0046" errorplus="0.0046">2455237.6389</transittime>
+				<spinorbitalignment errorminus="11" errorplus="11">-32</spinorbitalignment>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2011</discoveryyear>
+				<description>KOI-89.01 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32&#176; with respect to the stellar equator, while the derived true orbital obliquity is 72&#176;.</description>
+				<lastupdate>15/10/30</lastupdate>
+				<list>Confirmed planets</list>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+			<planet>
+				<name>KOI-89.02</name>
+				<period>207.58</period>
+				<radius errorminus="0.05" errorplus="0.05">0.43</radius>
+				<eccentricity lowerlimit="0.50" />
+				<inclination errorminus="0.06" errorplus="0.06">90.64</inclination>
+				<transittime errorminus="0.0081" errorplus="0.0081">2455122.8310</transittime>
+				<spinorbitalignment errorminus="40" errorplus="40">-32</spinorbitalignment>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2011</discoveryyear>
+				<description>KOI-89.02 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32&#176; with respect to the stellar equator, while the derived true orbital obliquity is 73&#176;.</description>
+				<lastupdate>15/10/30</lastupdate>
+				<list>Confirmed planets</list>
+				<istransiting>1</istransiting>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>LkCa 15</name>
 		<rightascension>04 39 18</rightascension>
 		<declination>+22 21 03</declination>
@@ -56273,6 +56613,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<name>WASP-122</name>
 			<name>TYC 7638-00981-1</name>
 			<name>USNO-B 0475-0113097</name>
+			<name>KELT-14</name>
 			<magB errorminus="0.09" errorplus="0.09">11.78</magB>
 			<magV errorminus="0.07" errorplus="0.07">11.00</magV>
 			<magJ errorminus="0.024" errorplus="0.024">9.808</magJ>
@@ -56283,10 +56624,12 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<temperature errorminus="130" errorplus="130">5720</temperature>
 			<metallicity errorminus="0.09" errorplus="0.09">0.32</metallicity>
 			<spectraltype>G4</spectraltype>
+			<age errorminus="0.7" errorplus="0.3">5.0</age>
 			<planet>
 				<name>WASP-122 b</name>
 				<name>TYC 7638-00981-1 b</name>
 				<name>USNO-B 0475-0113097 b</name>
+				<name>KELT-14 b</name>
 				<list>Confirmed planets</list>
 				<radius errorminus="0.069" errorplus="0.069">1.972</radius>
 				<mass errorminus="0.072" errorplus="0.072">1.372</mass>
@@ -56296,7 +56639,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<temperature errorminus="50" errorplus="50">1960</temperature>
 				<inclination errorminus="0.31" errorplus="0.31">78.35</inclination>
 				<eccentricity>0</eccentricity>
-				<description>WASP-122 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter in a 1.7-day orbit about a G4 star.</description>
+				<description>WASP-122 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter in a 1.7-day orbit around a G4 star. The planet was later discovered independently by the KELT-South survey where he was named KELT-14 b.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 				<lastupdate>15/09/07</lastupdate>
@@ -57468,41 +57811,60 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>WASP-41</name>
-		<rightascension>12 42 28</rightascension>
-		<declination>-30 38 24</declination>
-		<distance>180</distance>
+		<rightascension>12 42 28.497</rightascension>
+		<declination>-30 38 23.55</declination>
+		<distance errorminus="60" errorplus="60">180</distance>
 		<star>
-			<mass>0.95</mass>
-			<radius>1.01</radius>
-			<magV>11.6</magV>
+			<name>WASP-41</name>
+			<name>TYC 7247-587-1</name>
+			<name>2MASS J12422849-3038235</name>
+			<name>1SWASP J124228.50-303823.5</name>
+			<mass errorminus="0.07" errorplus="0.07">0.93</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.87</radius>
 			<magB errorminus="0.18" errorplus="0.18">12.36</magB>
+			<magV errorminus="0.12" errorplus="0.12">11.63</magV>
 			<magR errorminus="0.04" errorplus="0.04">11.39</magR>
 			<magI errorminus="0.04" errorplus="0.04">10.78</magI>
 			<magJ errorminus="0.024" errorplus="0.024">10.096</magJ>
 			<magH errorminus="0.024" errorplus="0.024">9.752</magH>
 			<magK errorminus="0.019" errorplus="0.019">9.677</magK>
-			<metallicity>-0.08</metallicity>
+			<temperature errorminus="33" errorplus="33">5545</temperature>
+			<metallicity errorminus="0.02" errorplus="0.02">0.06</metallicity>
 			<spectraltype>G8V</spectraltype>
 			<planet>
 				<name>WASP-41 b</name>
-				<name>TYC 7247-00587-1 b</name>
+				<name>TYC 7247-587-1 b</name>
 				<name>2MASS J12422849-3038235 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.92</mass>
-				<radius>1.21</radius>
-				<period>3.052394</period>
-				<semimajoraxis>0.04</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>87.3</inclination>
+				<mass errorminus="0.05" errorplus="0.05">0.94</mass>
+				<radius errorminus="0.03" errorplus="0.03">1.18</radius>
+				<period errorminus="0.0000009" errorplus="0.0000009">3.0524040</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.040</semimajoraxis>
+				<eccentricity upperlimit="0.026" />
+				<inclination errorminus="0.3" errorplus="0.3">89.4</inclination>
+				<spinorbitalignment errorminus="10" errorplus="14">-29</spinorbitalignment>
 				<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455343.464</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>10/12/15</lastupdate>
+				<lastupdate>15/10/16</lastupdate>
 				<discoveryyear>2010</discoveryyear>
-				<temperature>1207.5</temperature>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-41</name>
-			<temperature>5450.0</temperature>
+			<planet>
+				<name>WASP-41 c</name>
+				<name>TYC 7247-587-1 c</name>
+				<name>2MASS J12422849-3038235 c</name>
+				<list>Confirmed planets</list>
+				<period errorminus="2" errorplus="2">421</period>
+				<transittime errorminus="3" errorplus="3" unit="BJD">2456011</transittime>
+				<mass errorminus="0.20" errorplus="0.20" type="msini">3.18</mass>
+				<eccentricity errorminus="0.024" errorplus="0.024">0.294</eccentricity>
+				<periastron errorminus="6" errorplus="6">353</periastron>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">1.07</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/10/16</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<istransiting>0</istransiting>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -57697,9 +58059,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<name>WASP-47</name>
 		<rightascension>22 04 48.731</rightascension>
 		<declination>-12 01 07.99</declination>
-		<distance>200</distance>
+		<distance errorminus="30" errorplus="30">200</distance>
 		<star>
-			<mass errorminus="0.08" errorplus="0.08">1.04</mass>
+			<name>WASP-47</name>
+			<name>2MASS J22044873-1201079</name>
+			<name>K2-23</name>
+			<name>EPIC 206103150</name>
+			<mass errorminus="0.076" errorplus="0.076">1.026</mass>
 			<radius errorminus="0.04" errorplus="0.04">1.15</radius>
 			<magV>11.9</magV>
 			<magJ errorminus="0.022" errorplus="0.022">10.613</magJ>
@@ -57711,56 +58077,77 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<planet>
 				<name>WASP-47 b</name>
 				<name>2MASS J22044873-1201079 b</name>
+				<name>K2-23 b</name>
+				<name>EPIC 206103150 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.11" errorplus="0.07">1.06</mass>
-				<radius errorminus="0.04" errorplus="0.04">1.17</radius>
-				<period errorminus="0.0000046" errorplus="0.0000046">4.1591282</period>
-				<semimajoraxis>0.052</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination errorminus="0.23" errorplus="0.23">89.41</inclination>
-				<transittime errorminus="0.000061" errorplus="0.000061" unit="BJD">2457007.932132</transittime>
+				<mass errorminus="0.091" errorplus="0.091">1.164</mass>
+				<radius errorminus="0.039" errorplus="0.039">1.139</radius>
+				<period errorminus="0.0000049" errorplus="0.0000049">4.1591287</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.051</semimajoraxis>
+				<eccentricity upperlimit="0.026" />
+				<inclination errorminus="0.27" errorplus="0.27">89.03</inclination>
+				<transittime errorminus="0.000023" errorplus="0.000023" unit="BJD">2457007.932131</transittime>
 				<spinorbitalignment errorminus="24" errorplus="24">0</spinorbitalignment>
-				<description>This hot Jupiter planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The K2 mission discovers two additional transiting planets in 2015.</description>
+				<description>This hot Jupiter planet was announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The K2 mission discovered two additional transiting planets in 2015, and an outer giant planet was discovered by radial velocity measurements.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/09/20</lastupdate>
+				<lastupdate>15/10/17</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<temperature>1119.7</temperature>
 				<istransiting>1</istransiting>
 			</planet>
 			<planet>
-				<name>WASP-47 c</name>
-				<name>2MASS J22044873-1201079 c</name>
+				<name>WASP-47 e</name>
+				<name>2MASS J22044873-1201079 e</name>
+				<name>K2-23 e</name>
+				<name>EPIC 206103150 e</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.028" />
-				<radius errorminus="0.006" errorplus="0.006">0.167</radius>
-				<period errorminus="0.000012" errorplus="0.000012">0.789593</period>
+				<mass errorminus="0.0116" errorplus="0.0116">0.0384</mass>
+				<radius errorminus="0.0062" errorplus="0.0062">0.1631</radius>
+				<period errorminus="0.000013" errorplus="0.000013">0.789597</period>
 				<semimajoraxis>0.017</semimajoraxis>
-				<inclination errorminus="0.87" errorplus="0.87">86.66</inclination>
-				<transittime errorminus="0.00031" errorplus="0.00031" unit="BJD">2457011.34859</transittime>
-				<description>This super-Earth planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
+				<inclination errorminus="3.1" errorplus="3.1">87.0</inclination>
+				<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2457011.34849</transittime>
+				<description>This super-Earth planet was discovered by the K2 mission which measured transit timing variations at the inner hot Jupiter. Radial velocity measurements indicate this is a rocky planet.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/08/10</lastupdate>
+				<lastupdate>15/10/17</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
 			<planet>
 				<name>WASP-47 d</name>
 				<name>2MASS J22044873-1201079 d</name>
+				<name>K2-23 d</name>
+				<name>EPIC 206103150 d</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.011" errorplus="0.012">0.027</mass>
-				<radius errorminus="0.01" errorplus="0.01">0.33</radius>
-				<period errorminus="0.00017" errorplus="0.00017">9.03079</period>
+				<mass errorminus="0.0264" errorplus="0.0264">0.0328</mass>
+				<radius errorminus="0.012" errorplus="0.012">0.324</radius>
+				<period errorminus="0.00019" errorplus="0.00019">9.03081</period>
 				<semimajoraxis>0.088</semimajoraxis>
-				<inclination errorminus="0.18" errorplus="0.18">89.47</inclination>
-				<transittime errorminus="0.00052" errorplus="0.00052" unit="BJD">2457006.36922</transittime>
-				<description>This Neptune-sized outer planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
+				<inclination errorminus="0.67" errorplus="0.67">89.36</inclination>
+				<transittime errorminus="0.00044" errorplus="0.00044" unit="BJD">2457006.36927</transittime>
+				<description>This Neptune-sized outer planet was discovered by the K2 mission which measured transit timing variations at the inner hot Jupiter.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/08/10</lastupdate>
+				<lastupdate>15/10/17</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
-			<name>WASP-47</name>
-			<name>2MASS J22044873-1201079</name>
+			<planet>
+				<name>WASP-47 c</name>
+				<name>2MASS J22044873-1201079 c</name>
+				<name>K2-23 c</name>
+				<name>EPIC 206103150 c</name>
+				<list>Confirmed planets</list>
+				<period errorminus="7" errorplus="7">572</period>
+				<transittime errorminus="16" errorplus="16" unit="BJD">2455981</transittime>
+				<istransiting>0</istransiting>
+				<mass errorminus="0.22" errorplus="0.22" type="msini">1.24</mass>
+				<eccentricity errorminus="0.10" errorplus="0.10">0.13</eccentricity>
+				<periastron errorminus="53" errorplus="53">144</periastron>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">1.36</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<description>WASP-47c was discovered from radial velocity follow-up of the WASP-47 system.</description>
+				<lastupdate>15/10/17</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
 		</star>
 	</system>
 	<system>
