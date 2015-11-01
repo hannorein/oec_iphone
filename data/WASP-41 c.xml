@@ -1,19 +1,19 @@
 <planet>
-	<id_exoplaneteu>WASP-41 b</id_exoplaneteu>
-	<name>WASP-41 b</name>
-	<name>TYC 7247-587-1 b</name>
-	<name>2MASS J12422849-3038235 b</name>
-	<id>WASP-41 b</id>
-	<discoverymethod>transit</discoverymethod>
+	<id_exoplaneteu>WASP-41 c</id_exoplaneteu>
+	<name>WASP-41 c</name>
+	<name>TYC 7247-587-1 c</name>
+	<name>2MASS J12422849-3038235 c</name>
+	<id>WASP-41 c</id>
+	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.94</mass>
-		<radius>1.18</radius>
+		<mass>3.18</mass>
+		<radius />
 		<orbit>
-			<period>3.0524040</period>
-			<semimajoraxis>0.040</semimajoraxis>
-			<eccentricity />
-			<inclination>89.4</inclination>
-			<periastron />
+			<period>421</period>
+			<semimajoraxis>1.07</semimajoraxis>
+			<eccentricity>0.294</eccentricity>
+			<inclination />
+			<periastron>353</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -35,7 +35,7 @@
 		<magK />
 	</star>
 	<multiplicity>2</multiplicity>
-	<discoveryyear>2010</discoveryyear>
+	<discoveryyear>2015</discoveryyear>
 	<lastupdate>15/10/16</lastupdate>
 	<description />
 	<new />

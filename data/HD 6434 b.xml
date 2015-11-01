@@ -4,27 +4,27 @@
 	<id>HD 6434 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.39</mass>
+		<mass>0.44</mass>
 		<radius />
 		<orbit>
-			<period>21.998</period>
-			<semimajoraxis>0.14</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
+			<period>22.0170</period>
+			<semimajoraxis>0.148</semimajoraxis>
+			<eccentricity>0.146</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>163.2</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G3 IV</spectraltype>
-		<mass>0.79</mass>
-		<radius>0.57</radius>
-		<metallicity>-0.52</metallicity>
-		<distance>40.32</distance>
-		<temperature>518.2</temperature>
-		<rightascension>01 04 40</rightascension>
-		<declination>-39 29 17</declination>
+		<mass>0.89</mass>
+		<radius>1.14</radius>
+		<metallicity>-0.48</metallicity>
+		<distance>41.4</distance>
+		<temperature>5690</temperature>
+		<rightascension>01 04 40.15077</rightascension>
+		<declination>-39 29 17.5822</declination>
 		<angulardistance />
 		<magV>7.72</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2000</discoveryyear>
-	<lastupdate>10/12/30</lastupdate>
+	<lastupdate>15/10/16</lastupdate>
 	<description />
 	<new />
 	<image />

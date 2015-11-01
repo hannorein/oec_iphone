@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HAT-P-57 b</id_exoplaneteu>
+	<name>HAT-P-57 b</name>
+	<name>HAT-P-57 A b</name>
+	<id>HAT-P-57 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>1.413</radius>
+		<orbit>
+			<period>2.4652950</period>
+			<semimajoraxis>0.0406</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.26</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A8V</spectraltype>
+		<mass>1.47</mass>
+		<radius>1.500</radius>
+		<metallicity>-0.25</metallicity>
+		<distance>303</distance>
+		<temperature>7500</temperature>
+		<rightascension>18 18 58.32</rightascension>
+		<declination>10 35 50.3</declination>
+		<angulardistance />
+		<magV>10.465</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/11/01</lastupdate>
+	<description>HAT-P-57 b is a hot Jupiter orbiting an A-type star. There is an alternative possibility for the spin alignment to be in the range -16.7&#176; &lt; &#955; &lt; 3.3&#176; with probability 26%.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

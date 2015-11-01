@@ -1,0 +1,50 @@
+<planet>
+	<id_exoplaneteu>KELT-4A b</id_exoplaneteu>
+	<name>KELT-4A b</name>
+	<name>BD+26 2091 b</name>
+	<name>HIP 51260 b</name>
+	<name>2MASS J10281500+2534236 b</name>
+	<name>TYC 1973-954-1 b</name>
+	<name>WDS 10283+2534 b</name>
+	<name>CCDM J10283+2534A b</name>
+	<id>KELT-4A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.902</mass>
+		<radius>1.699</radius>
+		<orbit>
+			<period>2.9895936</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.201</mass>
+		<radius>1.610</radius>
+		<metallicity>-0.116</metallicity>
+		<distance>210</distance>
+		<temperature>6206</temperature>
+		<rightascension>10 28 15.011</rightascension>
+		<declination>+25 34 23.5</declination>
+		<angulardistance />
+		<magV>9.98</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/09/30</lastupdate>
+	<description>KELT-4A b is an inflated, transiting Hot Jupiter orbiting the brightest component of a hierarchical triple stellar system.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

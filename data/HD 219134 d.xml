@@ -11,24 +11,24 @@
 	<id>HD 219134 d</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.027</mass>
+		<mass>0.028</mass>
 		<radius />
 		<orbit>
-			<period>46.78</period>
-			<semimajoraxis>0.234</semimajoraxis>
-			<eccentricity>0.32</eccentricity>
+			<period>22.805</period>
+			<semimajoraxis>0.14574</semimajoraxis>
+			<eccentricity>0</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.78</mass>
+		<mass>0.794</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
-		<distance>6.53</distance>
+		<distance>6.546</distance>
 		<temperature>4699</temperature>
 		<rightascension>23 13 16.97632</rightascension>
 		<declination>+57 10 06.0823</declination>
@@ -39,10 +39,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>4</multiplicity>
+	<multiplicity>6</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/07/30</lastupdate>
-	<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma.</description>
+	<lastupdate>15/10/20</lastupdate>
+	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 	<new />
 	<image />
 	<imagedescription />

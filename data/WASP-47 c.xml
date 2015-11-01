@@ -2,24 +2,26 @@
 	<id_exoplaneteu>WASP-47 c</id_exoplaneteu>
 	<name>WASP-47 c</name>
 	<name>2MASS J22044873-1201079 c</name>
+	<name>K2-23 c</name>
+	<name>EPIC 206103150 c</name>
 	<id>WASP-47 c</id>
-	<discoverymethod>transit</discoverymethod>
+	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.167</radius>
+		<mass>1.24</mass>
+		<radius />
 		<orbit>
-			<period>0.789593</period>
-			<semimajoraxis>0.017</semimajoraxis>
-			<eccentricity />
-			<inclination>86.66</inclination>
-			<periastron />
+			<period>572</period>
+			<semimajoraxis>1.36</semimajoraxis>
+			<eccentricity>0.13</eccentricity>
+			<inclination />
+			<periastron>144</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G9V</spectraltype>
-		<mass>1.04</mass>
+		<mass>1.026</mass>
 		<radius>1.15</radius>
 		<metallicity>0.36</metallicity>
 		<distance>200</distance>
@@ -33,10 +35,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>3</multiplicity>
+	<multiplicity>4</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/08/10</lastupdate>
-	<description>This super-Earth planet was discovered by the K2 mission which measured transition timing variations at the inner hot Jupiter.</description>
+	<lastupdate>15/10/17</lastupdate>
+	<description>WASP-47c was discovered from radial velocity follow-up of the WASP-47 system.</description>
 	<new />
 	<image />
 	<imagedescription />
