@@ -4,14 +4,14 @@
 	<id>HD 31253 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.5</mass>
+		<mass>0.50</mass>
 		<radius />
 		<orbit>
 			<period>466</period>
-			<semimajoraxis>1.26</semimajoraxis>
+			<semimajoraxis>1.260</semimajoraxis>
 			<eccentricity>0.3</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>244</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>1.23</mass>
 		<radius>1.71</radius>
 		<metallicity>0.16</metallicity>
-		<distance>53.82</distance>
-		<temperature>304.4</temperature>
-		<rightascension>04 54 44</rightascension>
-		<declination>+12 21 08</declination>
+		<distance>50.3</distance>
+		<temperature>5960</temperature>
+		<rightascension>04 54 43.65327</rightascension>
+		<declination>+12 21 07.9133</declination>
 		<angulardistance />
 		<magV>7.13</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/11/19</lastupdate>
+	<lastupdate>15/11/03</lastupdate>
 	<description />
 	<new />
 	<image />

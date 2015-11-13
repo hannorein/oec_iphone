@@ -4,14 +4,14 @@
 	<id>HD 5608 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>3.0</mass>
+		<mass>1.4</mass>
 		<radius />
 		<orbit>
 			<period>792.6</period>
 			<semimajoraxis>1.9</semimajoraxis>
 			<eccentricity>0.190</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>269</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -20,13 +20,13 @@
 		<spectraltype>K0IV</spectraltype>
 		<mass>1.55</mass>
 		<radius>5.5</radius>
-		<metallicity />
-		<distance>58</distance>
+		<metallicity>0.06</metallicity>
+		<distance>56.4</distance>
 		<temperature>4854</temperature>
 		<rightascension>00 58 14.21893</rightascension>
 		<declination>+33 57 03.1843</declination>
 		<angulardistance />
-		<magV>5.99</magV>
+		<magV>5.999</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/07/13</lastupdate>
-	<description />
+	<lastupdate>15/11/02</lastupdate>
+	<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 	<new />
 	<image />
 	<imagedescription />

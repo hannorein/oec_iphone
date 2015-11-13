@@ -11,7 +11,7 @@
 			<semimajoraxis>0.2175</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>341</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -19,14 +19,14 @@
 	<star>
 		<spectraltype>G5V</spectraltype>
 		<mass>0.95</mass>
-		<radius>0.94</radius>
-		<metallicity>-0.01</metallicity>
+		<radius>0.963</radius>
+		<metallicity>0.05</metallicity>
 		<distance>8.52</distance>
-		<temperature>1054.4</temperature>
-		<rightascension>13 18 24</rightascension>
-		<declination>-18 18 40</declination>
+		<temperature>5571</temperature>
+		<rightascension>13 18 24.31427</rightascension>
+		<declination>-18 18 40.3047</declination>
 		<angulardistance />
-		<magV>4.74</magV>
+		<magV>4.740</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2009</discoveryyear>
-	<lastupdate>09/12/15</lastupdate>
-	<description />
+	<lastupdate>15/11/02</lastupdate>
+	<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -9,25 +9,25 @@
 	<id>kappa CrB b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2.01</mass>
+		<mass>1.6</mass>
 		<radius />
 		<orbit>
-			<period>1261.94</period>
-			<semimajoraxis>2.80</semimajoraxis>
-			<eccentricity>0.044</eccentricity>
+			<period>1251</period>
+			<semimajoraxis>2.6</semimajoraxis>
+			<eccentricity>0.073</eccentricity>
 			<inclination />
-			<periastron>148.4</periastron>
+			<periastron>210</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K1IVa</spectraltype>
-		<mass>1.84</mass>
+		<spectraltype>K0III-IV</spectraltype>
+		<mass>1.51</mass>
 		<radius>4.71</radius>
-		<metallicity>0.14</metallicity>
+		<metallicity>0.10</metallicity>
 		<distance>30.50</distance>
-		<temperature>4960.0</temperature>
+		<temperature>4877</temperature>
 		<rightascension>15 51 13.93127</rightascension>
 		<declination>+35 39 26.5671</declination>
 		<angulardistance />
@@ -39,7 +39,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>15/09/20</lastupdate>
+	<lastupdate>15/11/02</lastupdate>
 	<description />
 	<new />
 	<image />

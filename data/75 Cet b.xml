@@ -11,7 +11,7 @@
 			<semimajoraxis>2.1</semimajoraxis>
 			<eccentricity>0.117</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>165</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -20,13 +20,13 @@
 		<spectraltype>G3III:</spectraltype>
 		<mass>2.49</mass>
 		<radius>10.5</radius>
-		<metallicity />
-		<distance>81</distance>
+		<metallicity>0.00</metallicity>
+		<distance>81.4</distance>
 		<temperature>4846</temperature>
 		<rightascension>02 32 09.42200</rightascension>
 		<declination>-01 02 05.6236</declination>
 		<angulardistance />
-		<magV>5.36</magV>
+		<magV>5.364</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/07/13</lastupdate>
-	<description />
+	<lastupdate>15/11/02</lastupdate>
+	<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 	<new />
 	<image />
 	<imagedescription />
