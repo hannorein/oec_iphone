@@ -1,4 +1,4 @@
-<planets date="2015-11-01" name="data" planets="2074">
+<planets date="2015-11-12" name="data" planets="2075">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1074,25 +1074,27 @@
 		<properties>
 			<mass>0.016</mass>
 			<orbit>
-				<period>4.215</period>
+				<period>4.2150</period>
 				<semimajoraxis>0.050201</semimajoraxis>
 				<eccentricity>0.12</eccentricity>
+				<periastron>105</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
 			<mass>0.95</mass>
-			<radius>0.94</radius>
-			<metallicity>-0.01</metallicity>
+			<radius>0.963</radius>
+			<metallicity>0.05</metallicity>
 			<distance>8.52</distance>
-			<temperature>1054.4</temperature>
-			<rightascension>13 18 24</rightascension>
-			<declination>-18 18 40</declination>
-			<magV>4.74</magV>
+			<temperature>5571</temperature>
+			<rightascension>13 18 24.31427</rightascension>
+			<declination>-18 18 40.3047</declination>
+			<magV>4.740</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/12/15</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1106,22 +1108,24 @@
 				<period>38.021</period>
 				<semimajoraxis>0.2175</semimajoraxis>
 				<eccentricity>0.14</eccentricity>
+				<periastron>341</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
 			<mass>0.95</mass>
-			<radius>0.94</radius>
-			<metallicity>-0.01</metallicity>
+			<radius>0.963</radius>
+			<metallicity>0.05</metallicity>
 			<distance>8.52</distance>
-			<temperature>1054.4</temperature>
-			<rightascension>13 18 24</rightascension>
-			<declination>-18 18 40</declination>
-			<magV>4.74</magV>
+			<temperature>5571</temperature>
+			<rightascension>13 18 24.31427</rightascension>
+			<declination>-18 18 40.3047</declination>
+			<magV>4.740</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/12/15</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1130,27 +1134,29 @@
 		<id>61 Vir d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.072</mass>
+			<mass>0.0721</mass>
 			<orbit>
 				<period>123.01</period>
 				<semimajoraxis>0.476</semimajoraxis>
 				<eccentricity>0.35</eccentricity>
+				<periastron>314</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
 			<mass>0.95</mass>
-			<radius>0.94</radius>
-			<metallicity>-0.01</metallicity>
+			<radius>0.963</radius>
+			<metallicity>0.05</metallicity>
 			<distance>8.52</distance>
-			<temperature>1054.4</temperature>
-			<rightascension>13 18 24</rightascension>
-			<declination>-18 18 40</declination>
-			<magV>4.74</magV>
+			<temperature>5571</temperature>
+			<rightascension>13 18 24.31427</rightascension>
+			<declination>-18 18 40.3047</declination>
+			<magV>4.740</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/12/15</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1234,21 +1240,24 @@
 				<period>691.9</period>
 				<semimajoraxis>2.1</semimajoraxis>
 				<eccentricity>0.117</eccentricity>
+				<periastron>165</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G3III:</spectraltype>
 			<mass>2.49</mass>
 			<radius>10.5</radius>
-			<distance>81</distance>
+			<metallicity>0.00</metallicity>
+			<distance>81.4</distance>
 			<temperature>4846</temperature>
 			<rightascension>02 32 09.42200</rightascension>
 			<declination>-01 02 05.6236</declination>
-			<magV>5.36</magV>
+			<magV>5.364</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/07/13</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1324,33 +1333,34 @@
 	<planet>
 		<id_exoplaneteu>83 Leonis B b</id_exoplaneteu>
 		<name>83 Leonis B b</name>
+		<name>83 Leo B b</name>
 		<name>HD 99492 b</name>
 		<name>Gliese 429 B b</name>
 		<name>GJ 429 B b</name>
 		<id>83 Leonis B b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.109</mass>
+			<mass>0.087</mass>
 			<orbit>
-				<period>17.0431</period>
-				<semimajoraxis>0.1232</semimajoraxis>
-				<eccentricity>0.254</eccentricity>
+				<period>17.054</period>
+				<semimajoraxis>0.12186</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+				<periastron>196</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K2V</spectraltype>
-			<mass>0.83</mass>
-			<radius>0.96</radius>
-			<metallicity>0.36</metallicity>
-			<distance>18</distance>
-			<temperature>4740</temperature>
-			<rightascension>11 26 46</rightascension>
-			<declination>+03 00 22</declination>
-			<magV>7.38</magV>
+			<spectraltype>K0IV</spectraltype>
+			<mass>0.995</mass>
+			<radius>0.93</radius>
+			<distance>17.79</distance>
+			<temperature>5509</temperature>
+			<rightascension>11 26 45.32180</rightascension>
+			<declination>+03 00 47.1551</declination>
+			<magV>6.50</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
 		<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -1358,7 +1368,10 @@
 	<planet>
 		<id_exoplaneteu>83 Leonis B c</id_exoplaneteu>
 		<name>83 Leonis B c</name>
+		<name>83 Leo B c</name>
 		<name>HD 99492 c</name>
+		<name>Gliese 429 B c</name>
+		<name>GJ 429 B c</name>
 		<id>83 Leonis B c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -1366,23 +1379,23 @@
 			<orbit>
 				<period>4970</period>
 				<semimajoraxis>5.4</semimajoraxis>
-				<eccentricity>0.106</eccentricity>
+				<eccentricity>0.1</eccentricity>
+				<periastron>38</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K2V</spectraltype>
-			<mass>0.83</mass>
-			<radius>0.96</radius>
-			<metallicity>0.36</metallicity>
-			<distance>18</distance>
-			<temperature>4740</temperature>
-			<rightascension>11 26 46</rightascension>
-			<declination>+03 00 22</declination>
-			<magV>7.38</magV>
+			<spectraltype>K0IV</spectraltype>
+			<mass>0.995</mass>
+			<radius>0.93</radius>
+			<distance>17.79</distance>
+			<temperature>5509</temperature>
+			<rightascension>11 26 45.32180</rightascension>
+			<declination>+03 00 47.1551</declination>
+			<magV>6.50</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
 		<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -1401,7 +1414,7 @@
 			<mass>3.2</mass>
 			<orbit>
 				<period>181.4</period>
-				<semimajoraxis>0.7</semimajoraxis>
+				<semimajoraxis>0.70</semimajoraxis>
 				<eccentricity>0.027</eccentricity>
 				<periastron>177.3</periastron>
 			</orbit>
@@ -1411,15 +1424,15 @@
 			<mass>1.4</mass>
 			<radius>11.0</radius>
 			<metallicity>-0.03</metallicity>
-			<distance>45.9</distance>
+			<distance>45.93</distance>
 			<temperature>4665</temperature>
-			<rightascension>23 15 53</rightascension>
-			<declination>-09 05 15</declination>
+			<rightascension>23 15 53.49482</rightascension>
+			<declination>-09 05 15.8546</declination>
 			<magV>4.24</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>13/05/23</lastupdate>
+		<lastupdate>15/11/03</lastupdate>
 		<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the naked eye and is host to at least one extrasolar planet.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -4592,6 +4605,34 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<lastupdate>15/09/22</lastupdate>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>GJ 1132 b</id_exoplaneteu>
+		<name>GJ 1132 b</name>
+		<id>GJ 1132 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.005096</mass>
+			<radius>0.105711</radius>
+			<orbit>
+				<period>1.628930</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.181</mass>
+			<radius>0.207</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>12.04</distance>
+			<temperature>3270</temperature>
+			<rightascension>10 14 52.1</rightascension>
+			<declination>-47 09 12</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/12</lastupdate>
+		<description>GJ 1132b is orbiting a red dwarf star. The planet is three times closer to Earth than any other rocky exoplanet. Although the planet is not habitable, it is expected to tbe cool enough to hold on to an atmosphere. Because of its proximity to Earth, it might be possible to determine the composition of the atmosphere in the future.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>GJ 160.2 b</id_exoplaneteu>
@@ -8684,14 +8725,13 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<distance>303</distance>
 			<temperature>7500</temperature>
 			<rightascension>18 18 58.32</rightascension>
-			<declination>10 35 50.3</declination>
+			<declination>+10 35 50.3</declination>
 			<magV>10.465</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/01</lastupdate>
 		<description>HAT-P-57 b is a hot Jupiter orbiting an A-type star. There is an alternative possibility for the spin alignment to be in the range -16.7&#176; &lt; &#955; &lt; 3.3&#176; with probability 26%.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
@@ -8997,7 +9037,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/01</lastupdate>
 		<description>HATS-17 b is the first warm Jupiter discovered by the HATSouth transit survey. It is a compact planet that may have up to 50% of its mass as heavy elements.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -13411,7 +13450,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/10/25</lastupdate>
 		<description>HD 155233 b is a giant planet orbiting a giant star and was found by the Pan-Pacific Planet Search.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -14678,7 +14716,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<orbit>
 				<period>406.6</period>
 				<semimajoraxis>1.2218</semimajoraxis>
-				<eccentricity>0.0009</eccentricity>
+				<eccentricity>0.009</eccentricity>
+				<periastron>85</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -14686,14 +14725,14 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.47</mass>
 			<radius>2.99</radius>
 			<metallicity>0.55</metallicity>
-			<distance>59</distance>
-			<rightascension>19 05 20</rightascension>
-			<declination>+25 55 14</declination>
-			<magV>7.18</magV>
+			<distance>59.0</distance>
+			<rightascension>19 05 20.77341</rightascension>
+			<declination>+25 55 14.3797</declination>
+			<magV>7.177</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>1999</discoveryyear>
-		<lastupdate>12/12/07</lastupdate>
+		<lastupdate>15/11/03</lastupdate>
 		<description>The star HD 177830 A hosts at least two planets. The planets are close to the 4:1 resonance. The star is four times brighter than our Sun but only visible with binoculars from the Earth.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -14709,7 +14748,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<orbit>
 				<period>110.9</period>
 				<semimajoraxis>0.5137</semimajoraxis>
-				<eccentricity>0.3495</eccentricity>
+				<eccentricity>0.3</eccentricity>
+				<periastron>110</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -14717,14 +14757,14 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.47</mass>
 			<radius>2.99</radius>
 			<metallicity>0.55</metallicity>
-			<distance>59</distance>
-			<rightascension>19 05 20</rightascension>
-			<declination>+25 55 14</declination>
-			<magV>7.18</magV>
+			<distance>59.0</distance>
+			<rightascension>19 05 20.77341</rightascension>
+			<declination>+25 55 14.3797</declination>
+			<magV>7.177</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/12/07</lastupdate>
+		<lastupdate>15/11/03</lastupdate>
 		<description>The star HD 177830 A hosts at least two planets. The planets are close to the 4:1 resonance. The star is four times brighter than our Sun but only visible with binoculars from the Earth.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -16439,28 +16479,28 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 210702 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.97</mass>
+			<mass>1.9</mass>
 			<orbit>
-				<period>354.29</period>
-				<semimajoraxis>1.20</semimajoraxis>
-				<eccentricity>0.036</eccentricity>
-				<periastron>282.3</periastron>
+				<period>354.8</period>
+				<semimajoraxis>1.2</semimajoraxis>
+				<eccentricity>0.094</eccentricity>
+				<periastron>126</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K1 IV</spectraltype>
-			<mass>1.85</mass>
-			<radius>4.45</radius>
+			<mass>1.68</mass>
+			<radius>5.1</radius>
 			<metallicity>0.12</metallicity>
 			<distance>54.9</distance>
-			<temperature>5010.0</temperature>
+			<temperature>4967</temperature>
 			<rightascension>22 11 51.33086</rightascension>
 			<declination>+16 02 25.9903</declination>
-			<magV>5.93</magV>
+			<magV>5.939</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>15/09/20</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -16993,6 +17033,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<period>225.7</period>
 				<semimajoraxis>0.6873</semimajoraxis>
 				<eccentricity>0.3</eccentricity>
+				<periastron>36</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -17000,15 +17041,15 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>0.85</mass>
 			<radius>0.86</radius>
 			<metallicity>0.38</metallicity>
-			<distance>29.94</distance>
-			<temperature>236.4</temperature>
-			<rightascension>23 09 11</rightascension>
-			<declination>-02 15 39</declination>
-			<magV>8.63</magV>
+			<distance>28.55</distance>
+			<temperature>4820.0</temperature>
+			<rightascension>23 09 10.72771</rightascension>
+			<declination>-02 15 38.6775</declination>
+			<magV>8.628</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/11/19</lastupdate>
+		<lastupdate>15/11/03</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -18290,11 +18331,12 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 31253 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.5</mass>
+			<mass>0.50</mass>
 			<orbit>
 				<period>466</period>
-				<semimajoraxis>1.26</semimajoraxis>
+				<semimajoraxis>1.260</semimajoraxis>
 				<eccentricity>0.3</eccentricity>
+				<periastron>244</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -18302,15 +18344,15 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.23</mass>
 			<radius>1.71</radius>
 			<metallicity>0.16</metallicity>
-			<distance>53.82</distance>
-			<temperature>304.4</temperature>
-			<rightascension>04 54 44</rightascension>
-			<declination>+12 21 08</declination>
+			<distance>50.3</distance>
+			<temperature>5960</temperature>
+			<rightascension>04 54 43.65327</rightascension>
+			<declination>+12 21 07.9133</declination>
 			<magV>7.13</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/11/19</lastupdate>
+		<lastupdate>15/11/03</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -20239,26 +20281,29 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 5608 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.0</mass>
+			<mass>1.4</mass>
 			<orbit>
 				<period>792.6</period>
 				<semimajoraxis>1.9</semimajoraxis>
 				<eccentricity>0.190</eccentricity>
+				<periastron>269</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0IV</spectraltype>
 			<mass>1.55</mass>
 			<radius>5.5</radius>
-			<distance>58</distance>
+			<metallicity>0.06</metallicity>
+			<distance>56.4</distance>
 			<temperature>4854</temperature>
 			<rightascension>00 58 14.21893</rightascension>
 			<declination>+33 57 03.1843</declination>
-			<magV>5.99</magV>
+			<magV>5.999</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/07/13</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -23905,28 +23950,28 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>kappa CrB b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.01</mass>
+			<mass>1.6</mass>
 			<orbit>
-				<period>1261.94</period>
-				<semimajoraxis>2.80</semimajoraxis>
-				<eccentricity>0.044</eccentricity>
-				<periastron>148.4</periastron>
+				<period>1251</period>
+				<semimajoraxis>2.6</semimajoraxis>
+				<eccentricity>0.073</eccentricity>
+				<periastron>210</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K1IVa</spectraltype>
-			<mass>1.84</mass>
+			<spectraltype>K0III-IV</spectraltype>
+			<mass>1.51</mass>
 			<radius>4.71</radius>
-			<metallicity>0.14</metallicity>
+			<metallicity>0.10</metallicity>
 			<distance>30.50</distance>
-			<temperature>4960.0</temperature>
+			<temperature>4877</temperature>
 			<rightascension>15 51 13.93127</rightascension>
 			<declination>+35 39 26.5671</declination>
 			<magV>4.79</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>15/09/20</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -24173,7 +24218,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/09/30</lastupdate>
 		<description>KELT-4A b is an inflated, transiting Hot Jupiter orbiting the brightest component of a hierarchical triple stellar system.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
@@ -55653,7 +55697,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>15/10/30</lastupdate>
 		<description>KOI-89.01 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32&#176; with respect to the stellar equator, while the derived true orbital obliquity is 72&#176;.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -55680,7 +55723,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>15/10/30</lastupdate>
 		<description>KOI-89.02 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32&#176; with respect to the stellar equator, while the derived true orbital obliquity is 73&#176;.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -56588,21 +56630,24 @@ Image credit: Joe Gallagher</imagedescription>
 				<period>530.32</period>
 				<semimajoraxis>1.9</semimajoraxis>
 				<eccentricity>0.1256</eccentricity>
+				<periastron>9.6</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0III</spectraltype>
 			<mass>3.04</mass>
 			<radius>15.1</radius>
-			<distance>46.8</distance>
+			<metallicity>0.13</metallicity>
+			<distance>46.21</distance>
 			<temperature>4928</temperature>
-			<rightascension>17 59 02</rightascension>
-			<declination>-09 46 25</declination>
+			<rightascension>17 59 01.59191</rightascension>
+			<declination>-09 46 25.0798</declination>
 			<magV>3.33</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>11/01/05</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -56616,21 +56661,24 @@ Image credit: Joe Gallagher</imagedescription>
 				<period>3186</period>
 				<semimajoraxis>6.1</semimajoraxis>
 				<eccentricity>0.165</eccentricity>
+				<periastron>4.6</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0III</spectraltype>
 			<mass>3.04</mass>
 			<radius>15.1</radius>
-			<distance>46.8</distance>
+			<metallicity>0.13</metallicity>
+			<distance>46.21</distance>
 			<temperature>4928</temperature>
-			<rightascension>17 59 02</rightascension>
-			<declination>-09 46 25</declination>
+			<rightascension>17 59 01.59191</rightascension>
+			<declination>-09 46 25.0798</declination>
 			<magV>3.33</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/01/05</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
+		<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -57437,7 +57485,7 @@ Credit: Kains et al (2013).</imagedescription>
 		<id_exoplaneteu>omi CrB b</id_exoplaneteu>
 		<name>omi CrB b</name>
 		<name>Omicron Coronae Borealis b</name>
-		<name>o CrB b</name>
+		<name>&#959; CrB b</name>
 		<name>HD 136512 b</name>
 		<name>HR 5709 b</name>
 		<name>HIP 75049 b</name>
@@ -57457,15 +57505,15 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>2.13</mass>
 			<radius>10.5</radius>
 			<metallicity>-0.29</metallicity>
-			<distance>84</distance>
+			<distance>82.8</distance>
 			<temperature>4749</temperature>
-			<rightascension>15 20 08</rightascension>
-			<declination>+29 36 58</declination>
+			<rightascension>15 20 08.55879</rightascension>
+			<declination>+29 36 58.3488</declination>
 			<magV>5.51</magV>
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/05/15</lastupdate>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>15/11/02</lastupdate>
 		<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -57474,7 +57522,7 @@ Credit: Kains et al (2013).</imagedescription>
 		<name>omi UMa b</name>
 		<name>Omicron Ursae Majoris b</name>
 		<name>Muscida b</name>
-		<name>o UMa b</name>
+		<name>&#959; UMa b</name>
 		<name>HD 71369 b</name>
 		<name>HIP 41704 b</name>
 		<id>omi UMa b</id>
@@ -57493,15 +57541,15 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>3.09</mass>
 			<radius>14.1</radius>
 			<metallicity>-0.09</metallicity>
-			<distance>56</distance>
+			<distance>54.91</distance>
 			<temperature>5242</temperature>
-			<rightascension>08 30 15</rightascension>
-			<declination>+60 43 05</declination>
+			<rightascension>08 30 15.87064</rightascension>
+			<declination>+60 43 05.4115</declination>
 			<magV>3.35</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>14/04/15</lastupdate>
+		<lastupdate>15/11/02</lastupdate>
 		<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -58569,14 +58617,15 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>0.14</metallicity>
 			<distance>98.4</distance>
 			<temperature>4388</temperature>
-			<rightascension>07 11 08</rightascension>
-			<declination>+30 14 43</declination>
+			<rightascension>07 11 08.37042</rightascension>
+			<declination>+30 14 42.5831</declination>
 			<magV>4.41</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>13/05/23</lastupdate>
+		<lastupdate>15/11/03</lastupdate>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>TrES-1 b</id_exoplaneteu>
