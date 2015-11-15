@@ -1,4 +1,4 @@
-<systems name="systems" planets="2075">
+<systems name="systems" planets="2076">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -5044,6 +5044,39 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 	</system>
 	<system>
+		<name>EPIC 204129699</name>
+		<rightascension>16 21 48.801</rightascension>
+		<declination>-23 32 52.32</declination>
+		<star>
+			<name>EPIC 204129699</name>
+			<name>TYC 6794-471-1</name>
+			<name>2MASS J16214578-2332520</name>
+			<magV>10.8</magV>
+			<mass errorminus="0.06" errorplus="0.06">0.91</mass>
+			<radius errorminus="0.07" errorplus="0.07">0.78</radius>
+			<temperature errorminus="70" errorplus="70">5280</temperature>
+			<metallicity errorminus="0.05" errorplus="0.05">0.08</metallicity>
+			<spectraltype>G7 V</spectraltype>
+			<planet>
+				<name>EPIC 204129699 b</name>
+				<period errorminus="0.000002" errorplus="0.000002">1.257850</period>
+				<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2457191.70889</transittime>
+				<inclination lowerlimit="79.1" upperlimit="80.7" />
+				<eccentricity>0</eccentricity>
+				<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.0220</semimajoraxis>
+				<mass errorminus="0.079" errorplus="0.079">1.774</mass>
+				<radius lowerlimit="0.71" upperlimit="1.41" />
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 204129699 b is the first confirmed transiting hot Jupiter discovered by the K2 mission. The transits are grazing which results in poor constraints on the planetary radius.</description>
+				<lastupdate>15/11/15</lastupdate>
+				<list>Confirmed planets</list>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>EPIC 206011691</name>
 		<name>K2-21</name>
 		<rightascension>22 41 12.89</rightascension>
@@ -5657,18 +5690,28 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>GJ 1132</name>
-		<rightascension>10 14 52.1</rightascension>
-		<declination>-47 09 12</declination>
+		<rightascension>10 14 51.846</rightascension>
+		<declination>-47 09 24.47</declination>
 		<distance errorminus="0.24" errorplus="0.24">12.04</distance>
 		<star>
 			<name>GJ 1132</name>
+			<name>LHS 281</name>
+			<name>2MASS J10145184-4709244</name>
+			<magV>13.52</magV>
+			<magB>15.25</magB>
+			<magJ errorminus="0.026" errorplus="0.026">9.245</magJ>
+			<magH errorminus="0.03" errorplus="0.03">8.67</magH>
+			<magK errorminus="0.027" errorplus="0.027">8.322</magK>
 			<mass errorminus="0.019" errorplus="0.019">0.181</mass>
 			<radius errorminus="0.016" errorplus="0.016">0.207</radius>
 			<temperature errorminus="140" errorplus="140">3270</temperature>
 			<metallicity errorminus="0.15" errorplus="0.15">-0.12</metallicity>
+			<spectraltype>M3.5</spectraltype>
 			<age lowerlimit="5" />
 			<planet>
 				<name>GJ 1132 b</name>
+				<name>LHS 281 b</name>
+				<name>2MASS J10145184-4709244 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.001730" errorplus="0.001730">0.005096</mass>
 				<radius errorminus="0.010024" errorplus="0.010024">0.105711</radius>
@@ -5677,7 +5720,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>GJ 1132b is orbiting a red dwarf star. The planet is three times closer to Earth than any other rocky exoplanet. Although the planet is not habitable, it is expected to be cool enough to hold on to an atmosphere. Because of its proximity to Earth, it might be possible to determine the composition of the atmosphere in the future.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<new>1</new>
 				<lastupdate>15/11/12</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
