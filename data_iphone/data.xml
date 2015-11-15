@@ -1,4 +1,4 @@
-<planets date="2015-11-12" name="data" planets="2075">
+<planets date="2015-11-15" name="data" planets="2076">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4203,6 +4203,36 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 204129699 b</id_exoplaneteu>
+		<name>EPIC 204129699 b</name>
+		<id>EPIC 204129699 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.774</mass>
+			<orbit>
+				<period>1.257850</period>
+				<semimajoraxis>0.0220</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G7 V</spectraltype>
+			<mass>0.91</mass>
+			<radius>0.78</radius>
+			<metallicity>0.08</metallicity>
+			<temperature>5280</temperature>
+			<rightascension>16 21 48.801</rightascension>
+			<declination>-23 32 52.32</declination>
+			<magV>10.8</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/15</lastupdate>
+		<description>EPIC 204129699 b is the first confirmed transiting hot Jupiter discovered by the K2 mission. The transits are grazing which results in poor constraints on the planetary radius.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 206011691 b</id_exoplaneteu>
 		<name>EPIC 206011691 b</name>
 		<name>2MASS J22411288-1429202 b</name>
@@ -4609,6 +4639,8 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>GJ 1132 b</id_exoplaneteu>
 		<name>GJ 1132 b</name>
+		<name>LHS 281 b</name>
+		<name>2MASS J10145184-4709244 b</name>
 		<id>GJ 1132 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -4619,19 +4651,20 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M3.5</spectraltype>
 			<mass>0.181</mass>
 			<radius>0.207</radius>
 			<metallicity>-0.12</metallicity>
 			<distance>12.04</distance>
 			<temperature>3270</temperature>
-			<rightascension>10 14 52.1</rightascension>
-			<declination>-47 09 12</declination>
+			<rightascension>10 14 51.846</rightascension>
+			<declination>-47 09 24.47</declination>
+			<magV>13.52</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/12</lastupdate>
 		<description>GJ 1132b is orbiting a red dwarf star. The planet is three times closer to Earth than any other rocky exoplanet. Although the planet is not habitable, it is expected to be cool enough to hold on to an atmosphere. Because of its proximity to Earth, it might be possible to determine the composition of the atmosphere in the future.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
