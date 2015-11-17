@@ -8,10 +8,10 @@
 		<radius />
 		<orbit>
 			<period>392.6</period>
-			<semimajoraxis>1</semimajoraxis>
+			<semimajoraxis>1.0</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>358.9</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -20,13 +20,13 @@
 		<spectraltype>K0III</spectraltype>
 		<mass>0.74</mass>
 		<radius>11</radius>
-		<metallicity>-0.2</metallicity>
+		<metallicity>-0.20</metallicity>
 		<distance />
-		<temperature>643.9</temperature>
-		<rightascension>02 42 50</rightascension>
-		<declination>+49 35 13</declination>
+		<temperature>4414</temperature>
+		<rightascension>02 42 50.463</rightascension>
+		<declination>+49 35 13.08</declination>
 		<angulardistance />
-		<magV>9.14</magV>
+		<magV>9.139</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>12/03/19</lastupdate>
+	<lastupdate>15/11/17</lastupdate>
 	<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope.</description>
 	<new />
 	<image />

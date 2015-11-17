@@ -4,13 +4,13 @@
 	<id>OGLE-TR-113 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>1.24</mass>
-		<radius>1.11</radius>
+		<mass>1.26</mass>
+		<radius>1.051</radius>
 		<orbit>
-			<period>1.4324772</period>
-			<semimajoraxis>0.0229</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>89.4</inclination>
+			<period>1.43247506</period>
+			<semimajoraxis>0.02288</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.80</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -18,13 +18,13 @@
 	</properties>
 	<star>
 		<spectraltype>K</spectraltype>
-		<mass>0.78</mass>
-		<radius>0.765</radius>
-		<metallicity>0.14</metallicity>
+		<mass>0.779</mass>
+		<radius>0.774</radius>
+		<metallicity>0.09</metallicity>
 		<distance>1500</distance>
-		<temperature>1211.0</temperature>
-		<rightascension>10 52 24</rightascension>
-		<declination>-61 26 48</declination>
+		<temperature>4790</temperature>
+		<rightascension>10 52 24.40</rightascension>
+		<declination>-61 26 48.5</declination>
 		<angulardistance />
 		<magV>16.08</magV>
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2004</discoveryyear>
-	<lastupdate>10/06/24</lastupdate>
-	<description />
+	<lastupdate>15/11/16</lastupdate>
+	<description>OGLE-TR-113b is a hot Jupiter orbiting a K-type star.</description>
 	<new />
 	<image />
 	<imagedescription />

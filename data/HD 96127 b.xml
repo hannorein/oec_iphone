@@ -4,14 +4,14 @@
 	<id>HD 96127 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>4</mass>
+		<mass>4.0</mass>
 		<radius />
 		<orbit>
 			<period>647.3</period>
 			<semimajoraxis>1.4</semimajoraxis>
 			<eccentricity>0.3</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>162.0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,12 +21,12 @@
 		<mass>0.91</mass>
 		<radius>35</radius>
 		<metallicity>-0.24</metallicity>
-		<distance>540</distance>
-		<temperature>910.1</temperature>
-		<rightascension>11 05 46</rightascension>
-		<declination>+44 18 06</declination>
+		<distance>483</distance>
+		<temperature>4152</temperature>
+		<rightascension>11 05 45.94825</rightascension>
+		<declination>+44 18 5.6092</declination>
 		<angulardistance />
-		<magV>7.43</magV>
+		<magV>7.407</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/10/11</lastupdate>
+	<lastupdate>15/11/17</lastupdate>
 	<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The host star is a K2 giant.</description>
 	<new />
 	<image />

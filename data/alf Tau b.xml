@@ -2,23 +2,29 @@
 	<id_exoplaneteu>alf Tau b</id_exoplaneteu>
 	<name>alf Tau b</name>
 	<name>Aldebaran b</name>
+	<name>alf Tau A b</name>
+	<name>Alpha Tauri A b</name>
+	<name>&#945; Tau A b</name>
+	<name>&#945; Tauri A b</name>
+	<name>87 Tau A b</name>
+	<name>87 Tauri A b</name>
 	<name>HR 1457 b</name>
 	<name>HD 29139 b</name>
 	<name>HIP 21421 b</name>
 	<name>TYC 1266-1416-1 b</name>
-	<name>BD +16 629 b</name>
+	<name>BD+16 629 b</name>
 	<name>PPM 120061 b</name>
 	<id>alf Tau b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass />
+		<mass>6.47</mass>
 		<radius />
 		<orbit>
 			<period>628.96</period>
 			<semimajoraxis>1.46</semimajoraxis>
 			<eccentricity>0.10</eccentricity>
 			<inclination />
-			<periastron>2451297.0</periastron>
+			<periastron>287</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -41,7 +47,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/05/13</lastupdate>
+	<lastupdate>15/11/17</lastupdate>
 	<description>Investigations of long-period radial velocity in Aldebaran first reported over 20 years ago and further photometric investigations provide further evidence of a planetary companion to Aldebaran.</description>
 	<new />
 	<image />

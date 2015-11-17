@@ -6,22 +6,22 @@
 	<id>EPIC 201505350 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
-		<radius>0.397</radius>
+		<mass>0.0500</mass>
+		<radius>0.402</radius>
 		<orbit>
-			<period>11.90691</period>
-			<semimajoraxis>0.0965</semimajoraxis>
-			<eccentricity />
-			<inclination />
-			<periastron />
+			<period>11.9068</period>
+			<semimajoraxis>0.1001</semimajoraxis>
+			<eccentricity>0.095</eccentricity>
+			<inclination>88.92</inclination>
+			<periastron>237</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>173.1</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.84</mass>
-		<radius>0.81</radius>
+		<mass>0.949</mass>
+		<radius>0.913</radius>
 		<metallicity>-0.27</metallicity>
 		<distance>291</distance>
 		<temperature>5519</temperature>
@@ -36,7 +36,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/07/07</lastupdate>
+	<lastupdate>15/11/16</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 	<new />
 	<image />

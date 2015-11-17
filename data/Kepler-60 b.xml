@@ -7,27 +7,27 @@
 	<id>Kepler-60 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.017182</mass>
-		<radius>0.207777</radius>
+		<mass>0.0129</mass>
+		<radius>0.196</radius>
 		<orbit>
-			<period>7.1316185</period>
-			<semimajoraxis />
-			<eccentricity />
+			<period>7.1320</period>
+			<semimajoraxis>0.07497</semimajoraxis>
+			<eccentricity>0.0108</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>175.56</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.11</mass>
+		<mass>1.105</mass>
 		<radius>1.5</radius>
 		<metallicity />
 		<distance>664.24</distance>
 		<temperature>5915.0</temperature>
-		<rightascension>19 15 50</rightascension>
-		<declination>+45 47 20</declination>
+		<rightascension>19 15 50.698</rightascension>
+		<declination>+42 15 54.04</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -37,8 +37,8 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/08/19</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature.</description>
+	<lastupdate>15/11/16</lastupdate>
+	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 	<new />
 	<image />
 	<imagedescription />
