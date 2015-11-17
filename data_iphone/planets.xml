@@ -2051,7 +2051,7 @@
 				<semimajoraxis>1.2</semimajoraxis>
 				<eccentricity>0.25</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>89.16</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2061,10 +2061,10 @@
 			<mass>1.5</mass>
 			<radius>13.9</radius>
 			<metallicity>-0.09</metallicity>
-			<distance>20.2</distance>
-			<temperature>680.5</temperature>
-			<rightascension>02 07 10</rightascension>
-			<declination>+23 27 44</declination>
+			<distance>20.18</distance>
+			<temperature>4553</temperature>
+			<rightascension>02 07 10.40570</rightascension>
+			<declination>+23 27 44.7032</declination>
 			<angulardistance />
 			<magV>2.01</magV>
 			<magI />
@@ -2074,7 +2074,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/04/19</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -2085,23 +2085,29 @@
 		<id_exoplaneteu>alf Tau b</id_exoplaneteu>
 		<name>alf Tau b</name>
 		<name>Aldebaran b</name>
+		<name>alf Tau A b</name>
+		<name>Alpha Tauri A b</name>
+		<name>&#945; Tau A b</name>
+		<name>&#945; Tauri A b</name>
+		<name>87 Tau A b</name>
+		<name>87 Tauri A b</name>
 		<name>HR 1457 b</name>
 		<name>HD 29139 b</name>
 		<name>HIP 21421 b</name>
 		<name>TYC 1266-1416-1 b</name>
-		<name>BD +16 629 b</name>
+		<name>BD+16 629 b</name>
 		<name>PPM 120061 b</name>
 		<id>alf Tau b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass />
+			<mass>6.47</mass>
 			<radius />
 			<orbit>
 				<period>628.96</period>
 				<semimajoraxis>1.46</semimajoraxis>
 				<eccentricity>0.10</eccentricity>
 				<inclination />
-				<periastron>2451297.0</periastron>
+				<periastron>287</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2124,7 +2130,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/05/13</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>Investigations of long-period radial velocity in Aldebaran first reported over 20 years ago and further photometric investigations provide further evidence of a planetary companion to Aldebaran.</description>
 		<new />
 		<image />
@@ -2144,11 +2150,62 @@
 		<id>Alpha Centauri B b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0035546417</mass>
+			<mass>0.00356</mass>
 			<radius />
 			<orbit>
-				<period>3.235</period>
+				<period>3.2357</period>
 				<semimajoraxis>0.04</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2 V</spectraltype>
+			<mass>1.100</mass>
+			<radius>1.227</radius>
+			<metallicity>0.20</metallicity>
+			<distance>1.3417</distance>
+			<temperature>5790</temperature>
+			<rightascension>14 39 36.204</rightascension>
+			<declination>-60 50 08.23</declination>
+			<angulardistance />
+			<magV>0.01</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>15/11/17</lastupdate>
+		<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). The planet candidate Alpha Centauri Bb was announced as the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The candidate was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile. The planet's existence was challenged by Hatzes (2013) and was shown to be likely an artifact caused by the data sampling by Rajpaul et al. (2015).</description>
+		<new />
+		<image>AlphaCentauriB</image>
+		<imagedescription>This artist's impression shows the planet orbiting the star Alpha Centauri B, a member of the triple star system that is the closest to Earth. Alpha Centauri B is the most brilliant object in the sky and the other dazzling object is Alpha Centauri A. Our own Sun is visible to the upper right. The tiny signal of the planet was found with the HARPS spectrograph on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.
+			
+				Credit:	ESO/L. Calcada</imagedescription>
+		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Alpha Centauri B c</id_exoplaneteu>
+		<name>Alpha Centauri B c</name>
+		<name>GJ 559 B c</name>
+		<name>HR 5460 c</name>
+		<name>HD 128621 c</name>
+		<name>HIP 71681 c</name>
+		<name>alf Cen B c</name>
+		<id>Alpha Centauri B c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.92</radius>
+			<orbit>
+				<period />
+				<semimajoraxis />
 				<eccentricity />
 				<inclination />
 				<periastron />
@@ -2158,29 +2215,27 @@
 		</properties>
 		<star>
 			<spectraltype>G2 V</spectraltype>
-			<mass>1.105</mass>
+			<mass>1.100</mass>
 			<radius>1.227</radius>
-			<metallicity />
-			<distance>1.339</distance>
+			<metallicity>0.20</metallicity>
+			<distance>1.3417</distance>
 			<temperature>5790</temperature>
-			<rightascension>14 39 35</rightascension>
-			<declination>-60 50 14</declination>
+			<rightascension>14 39 36.204</rightascension>
+			<declination>-60 50 08.23</declination>
 			<angulardistance />
-			<magV>-0.1</magV>
+			<magV>0.01</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>13/04/24</lastupdate>
-		<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). European astronomers have discovered a planet with about the mass of the Earth orbiting Alpha Centauri B. It is the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The planet was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile. The planet is currently labelled as controversial as no consensus on its status has been reached in the literature yet.</description>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/17</lastupdate>
+		<description>A possible transit event was detected in Hubble Space Telescope photometry of Alpha Centauri B while searching for transits of the planet candidate Alpha Centauri Bb. This may be due to the presence of a roughly Earth-sized planet in an orbit less than 20 days.</description>
 		<new />
-		<image>AlphaCentauriB</image>
-		<imagedescription>This artist's impression shows the planet orbiting the star Alpha Centauri B, a member of the triple star system that is the closest to Earth. Alpha Centauri B is the most brilliant object in the sky and the other dazzling object is Alpha Centauri A. Our own Sun is visible to the upper right. The tiny signal of the planet was found with the HARPS spectrograph on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.
-			
-				Credit:	ESO/L. Calcada</imagedescription>
+		<image />
+		<imagedescription />
 		<list>Controversial</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
@@ -2194,10 +2249,10 @@
 			<radius />
 			<orbit>
 				<period>392.6</period>
-				<semimajoraxis>1</semimajoraxis>
+				<semimajoraxis>1.0</semimajoraxis>
 				<eccentricity>0.2</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>358.9</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2206,13 +2261,13 @@
 			<spectraltype>K0III</spectraltype>
 			<mass>0.74</mass>
 			<radius>11</radius>
-			<metallicity>-0.2</metallicity>
+			<metallicity>-0.20</metallicity>
 			<distance />
-			<temperature>643.9</temperature>
-			<rightascension>02 42 50</rightascension>
-			<declination>+49 35 13</declination>
+			<temperature>4414</temperature>
+			<rightascension>02 42 50.463</rightascension>
+			<declination>+49 35 13.08</declination>
 			<angulardistance />
-			<magV>9.14</magV>
+			<magV>9.139</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2220,7 +2275,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/03/19</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope.</description>
 		<new />
 		<image />
@@ -2420,11 +2475,11 @@
 			<mass>0.045</mass>
 			<radius />
 			<orbit>
-				<period>5.6</period>
+				<period>5.60</period>
 				<semimajoraxis>0.056</semimajoraxis>
 				<eccentricity>0.15</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>30</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2434,10 +2489,10 @@
 			<mass>0.74</mass>
 			<radius />
 			<metallicity>-0.07</metallicity>
-			<distance>42.2</distance>
-			<temperature>759.6</temperature>
-			<rightascension>10 00 48</rightascension>
-			<declination>-09 31 00</declination>
+			<distance>42.5</distance>
+			<temperature>4746</temperature>
+			<rightascension>10 00 47.72035</rightascension>
+			<declination>-09 31 00.0340</declination>
 			<angulardistance />
 			<magV>9.86</magV>
 			<magI />
@@ -2447,7 +2502,7 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>10/12/15</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>The star BD-82823 is a K-type main sequence star in the constellation Sextans. It has only one fifth of our Sun's luminosity.</description>
 		<new />
 		<image />
@@ -2471,7 +2526,7 @@
 				<semimajoraxis>0.68</semimajoraxis>
 				<eccentricity>0.19</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>-233</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2481,10 +2536,10 @@
 			<mass>0.74</mass>
 			<radius />
 			<metallicity>-0.07</metallicity>
-			<distance>42.2</distance>
-			<temperature>759.6</temperature>
-			<rightascension>10 00 48</rightascension>
-			<declination>-09 31 00</declination>
+			<distance>42.5</distance>
+			<temperature>4746</temperature>
+			<rightascension>10 00 47.72035</rightascension>
+			<declination>-09 31 00.0340</declination>
 			<angulardistance />
 			<magV>9.86</magV>
 			<magI />
@@ -2494,7 +2549,7 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/12/16</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>The star BD-82823 is a K-type main sequence star in the constellation Sextans. It has only one fifth of our Sun's luminosity.</description>
 		<new />
 		<image />
@@ -2507,29 +2562,29 @@
 		<id>BD-10 3166 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.48</mass>
+			<mass>0.408</mass>
 			<radius />
 			<orbit>
-				<period>3.487</period>
-				<semimajoraxis>0.046</semimajoraxis>
-				<eccentricity>0.05</eccentricity>
+				<period>3.48777</period>
+				<semimajoraxis>0.0427</semimajoraxis>
+				<eccentricity>0.0190</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>334</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G4 V</spectraltype>
-			<mass>0.99</mass>
-			<radius>1.71</radius>
+			<spectraltype>K3.0 V</spectraltype>
+			<mass>0.85</mass>
+			<radius>0.81</radius>
 			<metallicity>0.382</metallicity>
-			<distance>66</distance>
-			<temperature>1451.5</temperature>
-			<rightascension>10 58 28</rightascension>
-			<declination>-10 46 13</declination>
+			<distance>65.19</distance>
+			<temperature>5393</temperature>
+			<rightascension>10 58 28.7798</rightascension>
+			<declination>-10 46 13.386</declination>
 			<angulardistance />
-			<magV>10.08</magV>
+			<magV>10.01</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2537,7 +2592,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>10/12/25</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>The star BD-103166 is a K-type main sequence star in the constellation Crater. It is three times as metal-rich as our Sun.</description>
 		<new />
 		<image />
@@ -2600,7 +2655,7 @@
 				<semimajoraxis>1.34</semimajoraxis>
 				<eccentricity>0.54</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>112.2</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2610,10 +2665,10 @@
 			<mass>0.74</mass>
 			<radius>0.69</radius>
 			<metallicity>-0.03</metallicity>
-			<distance>34.6</distance>
-			<temperature>146.2</temperature>
-			<rightascension>00 28 34</rightascension>
-			<declination>-16 13 35</declination>
+			<distance>35.7</distance>
+			<temperature>4714</temperature>
+			<rightascension>00 28 34.30654</rightascension>
+			<declination>-16 13 34.8458</declination>
 			<angulardistance />
 			<magV>9.62</magV>
 			<magI />
@@ -2623,7 +2678,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/28</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>The star BD-1763 is a K-type star in the constellation Cetus. It is five times less luminous than our Sun.</description>
 		<new />
 		<image />
@@ -5153,22 +5208,22 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id>EPIC 201505350 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.654</radius>
+			<mass>0.138</mass>
+			<radius>0.666</radius>
 			<orbit>
-				<period>7.91943</period>
-				<semimajoraxis>0.0735</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
+				<period>7.92008</period>
+				<semimajoraxis>0.0762</semimajoraxis>
+				<eccentricity>0.119</eccentricity>
+				<inclination>88.87</inclination>
+				<periastron>179</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>180</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.84</mass>
-			<radius>0.81</radius>
+			<mass>0.949</mass>
+			<radius>0.913</radius>
 			<metallicity>-0.27</metallicity>
 			<distance>291</distance>
 			<temperature>5519</temperature>
@@ -5183,7 +5238,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>15/11/16</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -5198,22 +5253,22 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id>EPIC 201505350 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.397</radius>
+			<mass>0.0500</mass>
+			<radius>0.402</radius>
 			<orbit>
-				<period>11.90691</period>
-				<semimajoraxis>0.0965</semimajoraxis>
-				<eccentricity />
-				<inclination />
-				<periastron />
+				<period>11.9068</period>
+				<semimajoraxis>0.1001</semimajoraxis>
+				<eccentricity>0.095</eccentricity>
+				<inclination>88.92</inclination>
+				<periastron>237</periastron>
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>173.1</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.84</mass>
-			<radius>0.81</radius>
+			<mass>0.949</mass>
+			<radius>0.913</radius>
 			<metallicity>-0.27</metallicity>
 			<distance>291</distance>
 			<temperature>5519</temperature>
@@ -5228,7 +5283,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>15/11/16</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
@@ -6369,6 +6424,52 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>FL Lyr b</id_exoplaneteu>
+		<name>FL Lyr b</name>
+		<name>FL Lyrae b</name>
+		<name>FL Lyrae (AB) b</name>
+		<id>FL Lyr b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass />
+			<radius />
+			<orbit>
+				<period />
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.218</mass>
+			<radius>1.128</radius>
+			<metallicity />
+			<distance>130</distance>
+			<temperature>6152</temperature>
+			<rightascension>19 12 04.86170</rightascension>
+			<declination>+46 19 26.8632</declination>
+			<angulardistance />
+			<magV>9.58</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/16</lastupdate>
+		<description>The presence of a substellar companion in orbit around the binary star FL Lyrae is inferred from eclipse timing variations detected by Kepler. Measurements over a longer term are required to confirm the existence of the planet.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Fomalhaut b</id_exoplaneteu>
@@ -18133,7 +18234,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>0.45</semimajoraxis>
 				<eccentricity>0.307</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>138.1</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -18143,10 +18244,10 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.12</mass>
 			<radius>1.14</radius>
 			<metallicity>0.12</metallicity>
-			<distance>57.7</distance>
-			<temperature>421.8</temperature>
-			<rightascension>16 11 36</rightascension>
-			<declination>-27 04 41</declination>
+			<distance>55.0</distance>
+			<temperature>6046</temperature>
+			<rightascension>16 11 36.44543</rightascension>
+			<declination>-27 04 41.4286</declination>
 			<angulardistance />
 			<magV>8.12</magV>
 			<magI />
@@ -18156,7 +18257,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/28</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -18869,7 +18970,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>1.28</semimajoraxis>
 				<eccentricity>0.34</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>308.2</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -18879,10 +18980,10 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.12</mass>
 			<radius>1.34</radius>
 			<metallicity>-0.01</metallicity>
-			<distance>49.6</distance>
-			<temperature>272.1</temperature>
-			<rightascension>17 04 31</rightascension>
-			<declination>-43 18 35</declination>
+			<distance>49.5</distance>
+			<temperature>6076</temperature>
+			<rightascension>17 04 30.86989</rightascension>
+			<declination>-43 18 35.1765</declination>
 			<angulardistance />
 			<magV>7.39</magV>
 			<magI />
@@ -18892,7 +18993,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/28</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -20945,6 +21046,92 @@ Image credit: Vanessa Bailey</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 175607 b</id_exoplaneteu>
+		<name>HD 175607 b</name>
+		<id>HD 175607 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0283</mass>
+			<radius />
+			<orbit>
+				<period>8.98</period>
+				<semimajoraxis />
+				<eccentricity>0.11</eccentricity>
+				<inclination />
+				<periastron>142</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6V</spectraltype>
+			<mass>0.71</mass>
+			<radius>0.70</radius>
+			<metallicity>-0.62</metallicity>
+			<distance>45.27</distance>
+			<temperature>5392</temperature>
+			<rightascension>19 01 05.49</rightascension>
+			<declination>-66 11 33.65</declination>
+			<angulardistance />
+			<magV>8.61</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/15</lastupdate>
+		<description>HD 175607 b is a sub-Neptune planet orbiting a metal-poor star.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 175607 c</id_exoplaneteu>
+		<name>HD 175607 c</name>
+		<id>HD 175607 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.1100</mass>
+			<radius />
+			<orbit>
+				<period>1336.61</period>
+				<semimajoraxis />
+				<eccentricity>0.42</eccentricity>
+				<inclination />
+				<periastron>14</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6V</spectraltype>
+			<mass>0.71</mass>
+			<radius>0.70</radius>
+			<metallicity>-0.62</metallicity>
+			<distance>45.27</distance>
+			<temperature>5392</temperature>
+			<rightascension>19 01 05.49</rightascension>
+			<declination>-66 11 33.65</declination>
+			<angulardistance />
+			<magV>8.61</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/15</lastupdate>
+		<description>The origin of the ~1400 day signal in the radial velocity data for HD 175607 is unclear. It may be due to an outer planet or it may be due to activity.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 176051 b</id_exoplaneteu>
@@ -23439,22 +23626,22 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>0.947</semimajoraxis>
 				<eccentricity>0.75</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>356.2</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K3/4IV</spectraltype>
+			<spectraltype>K3/4 IV</spectraltype>
 			<mass>0.78</mass>
 			<radius>0.79</radius>
 			<metallicity>0.04</metallicity>
-			<distance>48.9</distance>
-			<temperature>185.1</temperature>
-			<rightascension>03 20 43</rightascension>
-			<declination>-33 43 48</declination>
+			<distance>46.2</distance>
+			<temperature>4795</temperature>
+			<rightascension>03 20 42.69404</rightascension>
+			<declination>-33 43 48.3916</declination>
 			<angulardistance />
-			<magV>9.92</magV>
+			<magV>9.93</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -23462,7 +23649,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/28</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -25475,7 +25662,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>1.9</semimajoraxis>
 				<eccentricity>0.4</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>108.1</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -25485,12 +25672,12 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.69</mass>
 			<radius>32</radius>
 			<metallicity>-0.26</metallicity>
-			<distance>1500</distance>
-			<temperature>780.9</temperature>
-			<rightascension>23 15 42</rightascension>
-			<declination>+58 02 36</declination>
+			<distance />
+			<temperature>4361</temperature>
+			<rightascension>23 15 42.22361</rightascension>
+			<declination>+58 02 35.6654</declination>
 			<angulardistance />
-			<magV>8.19</magV>
+			<magV>8.17</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -25498,7 +25685,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/10/11</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The star HD 240237 is a K2 giant.</description>
 		<new />
 		<image />
@@ -30275,7 +30462,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>2.198</semimajoraxis>
 				<eccentricity>0.256</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>229.1</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -30285,12 +30472,12 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>0.89</mass>
 			<radius>1.04</radius>
 			<metallicity>0.03</metallicity>
-			<distance>54.91</distance>
-			<temperature>160.6</temperature>
-			<rightascension>08 36 18</rightascension>
-			<declination>-34 27 36</declination>
+			<distance>54.2</distance>
+			<temperature>5317</temperature>
+			<rightascension>08 36 17.77517</rightascension>
+			<declination>-34 27 35.9219</declination>
 			<angulardistance />
-			<magV>8.9</magV>
+			<magV>8.87</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -30298,7 +30485,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>08/10/28</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -32377,14 +32564,14 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HD 96127 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>4</mass>
+			<mass>4.0</mass>
 			<radius />
 			<orbit>
 				<period>647.3</period>
 				<semimajoraxis>1.4</semimajoraxis>
 				<eccentricity>0.3</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>162.0</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -32394,12 +32581,12 @@ Credit: ESO/J. Rameau</imagedescription>
 			<mass>0.91</mass>
 			<radius>35</radius>
 			<metallicity>-0.24</metallicity>
-			<distance>540</distance>
-			<temperature>910.1</temperature>
-			<rightascension>11 05 46</rightascension>
-			<declination>+44 18 06</declination>
+			<distance>483</distance>
+			<temperature>4152</temperature>
+			<rightascension>11 05 45.94825</rightascension>
+			<declination>+44 18 5.6092</declination>
 			<angulardistance />
-			<magV>7.43</magV>
+			<magV>7.407</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -32407,7 +32594,7 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/11</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The host star is a K2 giant.</description>
 		<new />
 		<image />
@@ -77119,27 +77306,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>Kepler-60 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.017182</mass>
-			<radius>0.207777</radius>
+			<mass>0.0129</mass>
+			<radius>0.196</radius>
 			<orbit>
-				<period>7.1316185</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>7.1320</period>
+				<semimajoraxis>0.07497</semimajoraxis>
+				<eccentricity>0.0108</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>175.56</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.11</mass>
+			<mass>1.105</mass>
 			<radius>1.5</radius>
 			<metallicity />
 			<distance>664.24</distance>
 			<temperature>5915.0</temperature>
-			<rightascension>19 15 50</rightascension>
-			<declination>+45 47 20</declination>
+			<rightascension>19 15 50.698</rightascension>
+			<declination>+42 15 54.04</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -77149,8 +77336,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
-		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<lastupdate>15/11/16</lastupdate>
+		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -77165,27 +77352,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>Kepler-60 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.020262</mass>
-			<radius>0.225092</radius>
+			<mass>0.0151</mass>
+			<radius>0.212</radius>
 			<orbit>
-				<period>8.9193459</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>8.9177</period>
+				<semimajoraxis>0.08701</semimajoraxis>
+				<eccentricity>0.0291</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>14.61</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.11</mass>
+			<mass>1.105</mass>
 			<radius>1.5</radius>
 			<metallicity />
 			<distance>664.24</distance>
 			<temperature>5915.0</temperature>
-			<rightascension>19 15 50</rightascension>
-			<declination>+45 47 20</declination>
+			<rightascension>19 15 50.698</rightascension>
+			<declination>+42 15 54.04</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -77195,8 +77382,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
-		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.92 days for 4.4059 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<lastupdate>15/11/16</lastupdate>
+		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.92 days for 4.4059 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -77211,27 +77398,27 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>Kepler-60 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.021637</mass>
+			<mass>0.0120</mass>
 			<radius>0.232382</radius>
 			<orbit>
-				<period>11.9016171</period>
-				<semimajoraxis />
-				<eccentricity />
+				<period>11.903</period>
+				<semimajoraxis>0.10548</semimajoraxis>
+				<eccentricity>0.0151</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>148.19</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.11</mass>
+			<mass>1.105</mass>
 			<radius>1.5</radius>
 			<metallicity />
 			<distance>664.24</distance>
 			<temperature>5915.0</temperature>
-			<rightascension>19 15 50</rightascension>
-			<declination>+45 47 20</declination>
+			<rightascension>19 15 50.698</rightascension>
+			<declination>+42 15 54.04</declination>
 			<angulardistance />
 			<magV />
 			<magI />
@@ -77241,8 +77428,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/08/19</lastupdate>
-		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature.</description>
+		<lastupdate>15/11/16</lastupdate>
+		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -86600,13 +86787,13 @@ Credit: Kains et al (2013).</imagedescription>
 		<id>OGLE-TR-113 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.24</mass>
-			<radius>1.11</radius>
+			<mass>1.26</mass>
+			<radius>1.051</radius>
 			<orbit>
-				<period>1.4324772</period>
-				<semimajoraxis>0.0229</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>89.4</inclination>
+				<period>1.43247506</period>
+				<semimajoraxis>0.02288</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.80</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -86614,13 +86801,13 @@ Credit: Kains et al (2013).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>K</spectraltype>
-			<mass>0.78</mass>
-			<radius>0.765</radius>
-			<metallicity>0.14</metallicity>
+			<mass>0.779</mass>
+			<radius>0.774</radius>
+			<metallicity>0.09</metallicity>
 			<distance>1500</distance>
-			<temperature>1211.0</temperature>
-			<rightascension>10 52 24</rightascension>
-			<declination>-61 26 48</declination>
+			<temperature>4790</temperature>
+			<rightascension>10 52 24.40</rightascension>
+			<declination>-61 26 48.5</declination>
 			<angulardistance />
 			<magV>16.08</magV>
 			<magI />
@@ -86630,8 +86817,8 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>10/06/24</lastupdate>
-		<description />
+		<lastupdate>15/11/16</lastupdate>
+		<description>OGLE-TR-113b is a hot Jupiter orbiting a K-type star.</description>
 		<new />
 		<image />
 		<imagedescription />
