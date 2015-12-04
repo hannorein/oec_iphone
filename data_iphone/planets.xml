@@ -1226,13 +1226,19 @@
 	<planet>
 		<id_exoplaneteu>55 Cnc b</id_exoplaneteu>
 		<name>55 Cnc b</name>
+		<name>rho01 Cnc b</name>
+		<name>&#961;1 Cnc b</name>
+		<name>HR 3522 b</name>
+		<name>55 Cnc A b</name>
+		<name>rho01 Cnc A b</name>
+		<name>&#961;1 Cnc A b</name>
 		<id>55 Cnc b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.8306</mass>
 			<radius />
 			<orbit>
-				<period>14.651262</period>
+				<period>14.65152</period>
 				<semimajoraxis>0.11522725</semimajoraxis>
 				<eccentricity>0.0034</eccentricity>
 				<inclination />
@@ -1243,13 +1249,13 @@
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.943</radius>
-			<metallicity>0.31</metallicity>
-			<distance>12.3</distance>
-			<temperature>660.7</temperature>
-			<rightascension>08 52 37</rightascension>
-			<declination>+28 20 02</declination>
+			<mass>0.960</mass>
+			<radius>0.960</radius>
+			<metallicity>0.3</metallicity>
+			<distance>12.34</distance>
+			<temperature>5219</temperature>
+			<rightascension>08 52 35.81093</rightascension>
+			<declination>+28 19 50.9511</declination>
 			<angulardistance />
 			<magV>5.95</magV>
 			<magI />
@@ -1270,6 +1276,12 @@
 	<planet>
 		<id_exoplaneteu>55 Cnc c</id_exoplaneteu>
 		<name>55 Cnc c</name>
+		<name>rho01 Cnc c</name>
+		<name>&#961;1 Cnc c</name>
+		<name>HR 3522 c</name>
+		<name>55 Cnc A c</name>
+		<name>rho01 Cnc A c</name>
+		<name>&#961;1 Cnc A c</name>
 		<id>55 Cnc c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -1287,13 +1299,13 @@
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.943</radius>
-			<metallicity>0.31</metallicity>
-			<distance>12.3</distance>
-			<temperature>660.7</temperature>
-			<rightascension>08 52 37</rightascension>
-			<declination>+28 20 02</declination>
+			<mass>0.960</mass>
+			<radius>0.960</radius>
+			<metallicity>0.3</metallicity>
+			<distance>12.34</distance>
+			<temperature>5219</temperature>
+			<rightascension>08 52 35.81093</rightascension>
+			<declination>+28 19 50.9511</declination>
 			<angulardistance />
 			<magV>5.95</magV>
 			<magI />
@@ -1314,6 +1326,12 @@
 	<planet>
 		<id_exoplaneteu>55 Cnc d</id_exoplaneteu>
 		<name>55 Cnc d</name>
+		<name>rho01 Cnc d</name>
+		<name>&#961;1 Cnc d</name>
+		<name>HR 3522 d</name>
+		<name>55 Cnc A d</name>
+		<name>rho01 Cnc A d</name>
+		<name>&#961;1 Cnc A d</name>
 		<id>55 Cnc d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -1331,13 +1349,13 @@
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.943</radius>
-			<metallicity>0.31</metallicity>
-			<distance>12.3</distance>
-			<temperature>660.7</temperature>
-			<rightascension>08 52 37</rightascension>
-			<declination>+28 20 02</declination>
+			<mass>0.960</mass>
+			<radius>0.960</radius>
+			<metallicity>0.3</metallicity>
+			<distance>12.34</distance>
+			<temperature>5219</temperature>
+			<rightascension>08 52 35.81093</rightascension>
+			<declination>+28 19 50.9511</declination>
 			<angulardistance />
 			<magV>5.95</magV>
 			<magI />
@@ -1358,11 +1376,17 @@
 	<planet>
 		<id_exoplaneteu>55 Cnc e</id_exoplaneteu>
 		<name>55 Cnc e</name>
+		<name>rho01 Cnc e</name>
+		<name>&#961;1 Cnc e</name>
+		<name>HR 3522 e</name>
+		<name>55 Cnc A e</name>
+		<name>rho01 Cnc A e</name>
+		<name>&#961;1 Cnc A e</name>
 		<id>55 Cnc e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.0254</mass>
-			<radius>0.171</radius>
+			<radius>0.1746</radius>
 			<orbit>
 				<period>0.7365515</period>
 				<semimajoraxis>0.015690907</semimajoraxis>
@@ -1375,13 +1399,13 @@
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.943</radius>
-			<metallicity>0.31</metallicity>
-			<distance>12.3</distance>
-			<temperature>660.7</temperature>
-			<rightascension>08 52 37</rightascension>
-			<declination>+28 20 02</declination>
+			<mass>0.960</mass>
+			<radius>0.960</radius>
+			<metallicity>0.3</metallicity>
+			<distance>12.34</distance>
+			<temperature>5219</temperature>
+			<rightascension>08 52 35.81093</rightascension>
+			<declination>+28 19 50.9511</declination>
 			<angulardistance />
 			<magV>5.95</magV>
 			<magI />
@@ -1402,6 +1426,12 @@
 	<planet>
 		<id_exoplaneteu>55 Cnc f</id_exoplaneteu>
 		<name>55 Cnc f</name>
+		<name>rho01 Cnc f</name>
+		<name>&#961;1 Cnc f</name>
+		<name>HR 3522 f</name>
+		<name>55 Cnc A f</name>
+		<name>rho01 Cnc A f</name>
+		<name>&#961;1 Cnc A f</name>
 		<id>55 Cnc f</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
@@ -1419,13 +1449,13 @@
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.95</mass>
-			<radius>0.943</radius>
-			<metallicity>0.31</metallicity>
-			<distance>12.3</distance>
-			<temperature>660.7</temperature>
-			<rightascension>08 52 37</rightascension>
-			<declination>+28 20 02</declination>
+			<mass>0.960</mass>
+			<radius>0.960</radius>
+			<metallicity>0.3</metallicity>
+			<distance>12.34</distance>
+			<temperature>5219</temperature>
+			<rightascension>08 52 35.81093</rightascension>
+			<declination>+28 19 50.9511</declination>
 			<angulardistance />
 			<magV>5.95</magV>
 			<magI />
@@ -2306,7 +2336,7 @@
 			<mass>1.1</mass>
 			<radius>14.7</radius>
 			<metallicity>0.28</metallicity>
-			<distance>585</distance>
+			<distance>508</distance>
 			<temperature>4796</temperature>
 			<rightascension>16 00 22.93827</rightascension>
 			<declination>+15 32 48.9291</declination>
@@ -2319,7 +2349,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/04/26</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description>The planet BD+15 2940 b was discovered by the Penn State - Torun Planet Search (PTPS) using ground based spectrometer. It is the closest-in planet around a giant star. It might soon be swallowed by the star as a consequence of stellar evolution.</description>
 		<new />
 		<image />
@@ -2330,6 +2360,7 @@
 		<id_exoplaneteu>BD+20 1790 b</id_exoplaneteu>
 		<name>BD+20 1790 b</name>
 		<name>V429 Gem b</name>
+		<name>V429 Geminorum b</name>
 		<name>2MASS J07234358+2024588 b</name>
 		<name>TYC 1355-214-1 b</name>
 		<id>BD+20 1790 b</id>
@@ -2342,7 +2373,7 @@
 				<semimajoraxis>0.066</semimajoraxis>
 				<eccentricity>0.22</eccentricity>
 				<inclination>50.41</inclination>
-				<periastron />
+				<periastron>262</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2365,7 +2396,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/02/18</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description>The existance of planet BD+20 1790 b was proposed first in 2010. New Bayesian analysis supports the hypothesis of the planetary companion.</description>
 		<new />
 		<image />
@@ -2389,7 +2420,7 @@
 				<semimajoraxis>1.3</semimajoraxis>
 				<eccentricity>0.21</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>108.5</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2400,11 +2431,11 @@
 			<radius>17.3</radius>
 			<metallicity>-0.46</metallicity>
 			<distance />
-			<temperature>587.2</temperature>
-			<rightascension>01 43 40</rightascension>
-			<declination>+21 00 19</declination>
+			<temperature>4296</temperature>
+			<rightascension>01 43 40.877</rightascension>
+			<declination>+21 00 19.04</declination>
 			<angulardistance />
-			<magV>9.36</magV>
+			<magV>9.367</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2412,7 +2443,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/09/13</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is another low-mass stellar companion in the system.</description>
 		<new />
 		<image />
@@ -2455,7 +2486,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/01/29</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -2612,7 +2643,7 @@
 				<semimajoraxis>2.28</semimajoraxis>
 				<eccentricity>0.05</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>231</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2622,10 +2653,10 @@
 			<mass>0.571</mass>
 			<radius>0.52</radius>
 			<metallicity>-0.48</metallicity>
-			<distance />
+			<distance>27.3</distance>
 			<temperature>4475</temperature>
-			<rightascension>18 33 28.832</rightascension>
-			<declination>-11 38 09.73</declination>
+			<rightascension>18 33 28.83271</rightascension>
+			<declination>-11 38 09.7315</declination>
 			<angulardistance />
 			<magV>9.99</magV>
 			<magI />
@@ -2635,7 +2666,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 		<new />
 		<image />
@@ -2699,7 +2730,7 @@
 				<semimajoraxis>0.777</semimajoraxis>
 				<eccentricity>0.29</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>87.64</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2708,13 +2739,13 @@
 			<spectraltype>K2V</spectraltype>
 			<mass>0.86</mass>
 			<radius />
-			<metallicity>0.1</metallicity>
-			<distance>50</distance>
-			<temperature>204.6</temperature>
-			<rightascension>21 13 36</rightascension>
-			<declination>+14 41 22</declination>
+			<metallicity>0.10</metallicity>
+			<distance>48.36</distance>
+			<temperature>5008</temperature>
+			<rightascension>21 13 35.99143</rightascension>
+			<declination>+14 41 21.7994</declination>
 			<angulardistance />
-			<magV>9.63</magV>
+			<magV>9.66</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2722,7 +2753,7 @@
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/06/10</lastupdate>
+		<lastupdate>15/11/26</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -2743,7 +2774,7 @@
 				<semimajoraxis>1.45</semimajoraxis>
 				<eccentricity>0.15</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>207.64</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2752,13 +2783,13 @@
 			<spectraltype>K2II</spectraltype>
 			<mass>2.8</mass>
 			<radius />
-			<metallicity>-1</metallicity>
-			<distance>200</distance>
-			<temperature>986.8</temperature>
-			<rightascension>10 16 45</rightascension>
-			<declination>+19 53 29</declination>
+			<metallicity>-1.00</metallicity>
+			<distance />
+			<temperature>4137</temperature>
+			<rightascension>10 16 44.8635</rightascension>
+			<declination>+19 53 28.974</declination>
 			<angulardistance />
-			<magV>9.75</magV>
+			<magV>9.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2766,8 +2797,8 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/06/11</lastupdate>
-		<description>The star BD+20 2457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun.</description>
+		<lastupdate>15/11/26</lastupdate>
+		<description>The star BD+20 2457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun. The orbital parameters given in the discovery paper have been shown to be dynamically unstable on astronomically short timescales.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -2787,7 +2818,7 @@
 				<semimajoraxis>2.01</semimajoraxis>
 				<eccentricity>0.18</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>126.02</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -2796,13 +2827,13 @@
 			<spectraltype>K2II</spectraltype>
 			<mass>2.8</mass>
 			<radius />
-			<metallicity>-1</metallicity>
-			<distance>200</distance>
-			<temperature>986.8</temperature>
-			<rightascension>10 16 45</rightascension>
-			<declination>+19 53 29</declination>
+			<metallicity>-1.00</metallicity>
+			<distance />
+			<temperature>4137</temperature>
+			<rightascension>10 16 44.8635</rightascension>
+			<declination>+19 53 28.974</declination>
 			<angulardistance />
-			<magV>9.75</magV>
+			<magV>9.74</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -2810,8 +2841,8 @@
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/06/10</lastupdate>
-		<description />
+		<lastupdate>15/11/26</lastupdate>
+		<description>The star BD+20 2457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun. The orbital parameters given in the discovery paper have been shown to be dynamically unstable on astronomically short timescales.</description>
 		<new />
 		<image />
 		<imagedescription />
@@ -6058,6 +6089,92 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 203771098 b</id_exoplaneteu>
+		<name>EPIC 203771098 b</name>
+		<id>EPIC 203771098 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.066</mass>
+			<radius>0.507</radius>
+			<orbit>
+				<period>20.8851</period>
+				<semimajoraxis>0.154</semimajoraxis>
+				<eccentricity />
+				<inclination>89.25</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G3V</spectraltype>
+			<mass>1.12</mass>
+			<radius>1.21</radius>
+			<metallicity>0.42</metallicity>
+			<distance>181</distance>
+			<temperature>5743</temperature>
+			<rightascension>16 10 17.69</rightascension>
+			<declination>-24 59 25.19</declination>
+			<angulardistance />
+			<magV>11.28</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/21</lastupdate>
+		<description>EPIC 203771098 is a metal-rich G3 dwarf hosting two low-density, sub-Saturn planets in orbits close to the 2:1 mean-motion resonance. The system was discovered using K2 photometry and radial velocities were measured with Keck/HIRES, allowing determination of the planetary masses.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 203771098 c</id_exoplaneteu>
+		<name>EPIC 203771098 c</name>
+		<id>EPIC 203771098 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.0850</mass>
+			<radius>0.698</radius>
+			<orbit>
+				<period>42.3633</period>
+				<semimajoraxis>0.247</semimajoraxis>
+				<eccentricity />
+				<inclination>89.76</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G3V</spectraltype>
+			<mass>1.12</mass>
+			<radius>1.21</radius>
+			<metallicity>0.42</metallicity>
+			<distance>181</distance>
+			<temperature>5743</temperature>
+			<rightascension>16 10 17.69</rightascension>
+			<declination>-24 59 25.19</declination>
+			<angulardistance />
+			<magV>11.28</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/21</lastupdate>
+		<description>EPIC 203771098 is a metal-rich G3 dwarf hosting two low-density, sub-Saturn planets in orbits close to the 2:1 mean-motion resonance. The system was discovered using K2 photometry and radial velocities were measured with Keck/HIRES, allowing determination of the planetary masses.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 204129699 b</id_exoplaneteu>
 		<name>EPIC 204129699 b</name>
 		<id>EPIC 204129699 b</id>
@@ -6095,7 +6212,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/15</lastupdate>
 		<description>EPIC 204129699 b is the first confirmed transiting hot Jupiter discovered by the K2 mission. The transits are grazing which results in poor constraints on the planetary radius.</description>
-		<new>1</new>
+		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -12775,6 +12892,92 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-15 b</id_exoplaneteu>
+		<name>HATS-15 b</name>
+		<id>HATS-15 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.17</mass>
+			<radius>1.105</radius>
+			<orbit>
+				<period>1.74748753</period>
+				<semimajoraxis>0.02712</semimajoraxis>
+				<eccentricity />
+				<inclination>87.13</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9V</spectraltype>
+			<mass>0.871</mass>
+			<radius>0.922</radius>
+			<metallicity>0.000</metallicity>
+			<distance>689</distance>
+			<temperature>5311</temperature>
+			<rightascension>20 44 22.20</rightascension>
+			<declination>-19 26 15.0</declination>
+			<angulardistance />
+			<magV>14.774</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/26</lastupdate>
+		<description>HATS-15b is a massive planet transiting a G9V star.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-16 b</id_exoplaneteu>
+		<name>HATS-16 b</name>
+		<id>HATS-16 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.27</mass>
+			<radius>1.30</radius>
+			<orbit>
+				<period>2.686502</period>
+				<semimajoraxis>0.03744</semimajoraxis>
+				<eccentricity />
+				<inclination>83.53</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G3V</spectraltype>
+			<mass>0.970</mass>
+			<radius>1.238</radius>
+			<metallicity>0.100</metallicity>
+			<distance>774</distance>
+			<temperature>5738</temperature>
+			<rightascension>23 54 14.04</rightascension>
+			<declination>-30 00 46.8</declination>
+			<angulardistance />
+			<magV>13.834</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/26</lastupdate>
+		<description>HATS-16b is a massive planet transiting a G3V star.</description>
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HATS-17 b</id_exoplaneteu>
 		<name>HATS-17 b</name>
 		<id>HATS-17 b</id>
@@ -14130,14 +14333,14 @@ Credit: ESO/L. Calcada</imagedescription>
 		<id>HD 103720 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.62</mass>
+			<mass>0.620</mass>
 			<radius />
 			<orbit>
 				<period>4.5557</period>
 				<semimajoraxis>0.0498</semimajoraxis>
 				<eccentricity>0.086</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>262</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -14147,10 +14350,10 @@ Credit: ESO/L. Calcada</imagedescription>
 			<mass>0.794</mass>
 			<radius>0.73</radius>
 			<metallicity>-0.02</metallicity>
-			<distance>41.6</distance>
+			<distance>41.58</distance>
 			<temperature>5017</temperature>
-			<rightascension>11 56 41.18</rightascension>
-			<declination>-02 46 44.24</declination>
+			<rightascension>11 56 41.18534</rightascension>
+			<declination>-02 46 44.2430</declination>
 			<angulardistance />
 			<magV>9.49</magV>
 			<magI />
@@ -14160,7 +14363,7 @@ Credit: ESO/L. Calcada</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/21</lastupdate>
 		<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
 		<new />
 		<image />
@@ -14704,7 +14907,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>2</semimajoraxis>
 				<eccentricity>0.85</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>190</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -14716,8 +14919,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.04</metallicity>
 			<distance>49.4</distance>
 			<temperature>5122</temperature>
-			<rightascension>12 27 31.38</rightascension>
-			<declination>-71 25 22.70</declination>
+			<rightascension>12 27 31.38999</rightascension>
+			<declination>-71 25 22.7053</declination>
 			<angulardistance />
 			<magV>9.36</magV>
 			<magI />
@@ -14727,7 +14930,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/21</lastupdate>
 		<description>Further data to be collected in August 2015 will result in more accurate parameters.</description>
 		<new />
 		<image />
@@ -15226,7 +15429,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>1.24</semimajoraxis>
 				<eccentricity>0.14</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>74</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -15236,10 +15439,10 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>0.585</mass>
 			<radius>0.53</radius>
 			<metallicity>-0.24</metallicity>
-			<distance>15.9</distance>
+			<distance>15.87</distance>
 			<temperature>4462</temperature>
-			<rightascension>13 04 57</rightascension>
-			<declination>-52 26 35</declination>
+			<rightascension>13 04 57.47691</rightascension>
+			<declination>-52 26 34.5223</declination>
 			<angulardistance />
 			<magV>9.057</magV>
 			<magI />
@@ -15249,7 +15452,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/21</lastupdate>
 		<description>These planet parameters have been derived from ten years of HARPS data.</description>
 		<new />
 		<image />
@@ -15269,7 +15472,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>2.44</semimajoraxis>
 				<eccentricity>0.2</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>280</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -15279,10 +15482,10 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>0.585</mass>
 			<radius>0.53</radius>
 			<metallicity>-0.24</metallicity>
-			<distance>15.9</distance>
+			<distance>15.87</distance>
 			<temperature>4462</temperature>
-			<rightascension>13 04 57</rightascension>
-			<declination>-52 26 35</declination>
+			<rightascension>13 04 57.47691</rightascension>
+			<declination>-52 26 34.5223</declination>
 			<angulardistance />
 			<magV>9.057</magV>
 			<magI />
@@ -15292,7 +15495,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/21</lastupdate>
 		<description>These planet parameters have been derived from ten years of HARPS data.</description>
 		<new />
 		<image />
@@ -24970,7 +25173,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>3.2</semimajoraxis>
 				<eccentricity>0.40</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>207.0</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -24979,13 +25182,13 @@ Image credit: Vanessa Bailey</imagedescription>
 			<spectraltype>K0 III</spectraltype>
 			<mass>1.0</mass>
 			<radius>2.9</radius>
-			<metallicity>-0.46</metallicity>
+			<metallicity>-0.04</metallicity>
 			<distance />
-			<temperature>202.3</temperature>
-			<rightascension>23 14 53.82</rightascension>
-			<declination>+56 43 49.15</declination>
+			<temperature>4820</temperature>
+			<rightascension>23 14 53.8203</rightascension>
+			<declination>+56 43 49.154</declination>
 			<angulardistance />
-			<magV>8.94</magV>
+			<magV>8.91</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -24993,7 +25196,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/09/13</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The planet is in a nearly 6 year orbit.</description>
 		<new />
 		<image />
@@ -25533,7 +25736,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>0.747</semimajoraxis>
 				<eccentricity>0.05</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>281</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -25556,7 +25759,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/04/26</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abundance which may be either a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
 		<new />
 		<image />
@@ -25612,29 +25815,29 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>HD 240210 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>6.9</mass>
+			<mass>5.21</mass>
 			<radius />
 			<orbit>
 				<period>501.75</period>
 				<semimajoraxis>1.33</semimajoraxis>
 				<eccentricity>0.15</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>277.59</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3III</spectraltype>
-			<mass>1.25</mass>
+			<mass>0.82</mass>
 			<radius />
 			<metallicity>-0.18</metallicity>
 			<distance>143</distance>
-			<temperature>386.6</temperature>
-			<rightascension>23 10 29</rightascension>
-			<declination>+57 01 46</declination>
+			<temperature>4297</temperature>
+			<rightascension>23 10 29.2303</rightascension>
+			<declination>+57 01 46.035</declination>
 			<angulardistance />
-			<magV>8.33</magV>
+			<magV>8.27</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -25642,7 +25845,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/06/10</lastupdate>
+		<lastupdate>15/11/26</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -26364,7 +26567,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>2.69</semimajoraxis>
 				<eccentricity>0.18</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>82</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -26376,8 +26579,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.13</metallicity>
 			<distance>57.1</distance>
 			<temperature>5400</temperature>
-			<rightascension>04 48 28.48</rightascension>
-			<declination>-28 25 09.46</declination>
+			<rightascension>04 48 28.48561</rightascension>
+			<declination>-28 25 09.4699</declination>
 			<angulardistance />
 			<magV>9.11</magV>
 			<magI />
@@ -26387,7 +26590,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/21</lastupdate>
 		<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 		<new />
 		<image />
@@ -29372,7 +29575,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>1.2</semimajoraxis>
 				<eccentricity>0.096</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>314</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -29384,8 +29587,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.2</metallicity>
 			<distance>53.6</distance>
 			<temperature>5902</temperature>
-			<rightascension>00 09 52.82</rightascension>
-			<declination>-50 16 04.16</declination>
+			<rightascension>00 09 52.82123</rightascension>
+			<declination>-50 16 04.1606</declination>
 			<angulardistance />
 			<magV>8.29</magV>
 			<magI />
@@ -29395,7 +29598,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/12/23</lastupdate>
+		<lastupdate>15/11/17</lastupdate>
 		<description>HD 564 is a metal poor star. The planet around this star has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 		<new />
 		<image />
@@ -32452,7 +32655,7 @@ Credit: ESO/J. Rameau</imagedescription>
 			<mass>1.20</mass>
 			<radius>20</radius>
 			<metallicity>-0.18</metallicity>
-			<distance>330</distance>
+			<distance>327</distance>
 			<temperature>4218</temperature>
 			<rightascension>10 59 35.08667</rightascension>
 			<declination>+43 48 52.0823</declination>
@@ -32465,7 +32668,7 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/01/29</lastupdate>
+		<lastupdate>15/11/23</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -34131,32 +34334,33 @@ Credit: ESO/J. Rameau</imagedescription>
 	<planet>
 		<id_exoplaneteu>HR 8799 b</id_exoplaneteu>
 		<name>HR 8799 b</name>
+		<name>HD 218396 b</name>
 		<id>HR 8799 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>7</mass>
-			<radius>1.1</radius>
+			<mass>5</mass>
+			<radius>0.7</radius>
 			<orbit>
-				<period>164250</period>
-				<semimajoraxis>68</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>28</inclination>
+				<period>166510</period>
+				<semimajoraxis>67.96</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>30.27</inclination>
 				<periastron />
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>60.89</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>A5V</spectraltype>
-			<mass>1.56</mass>
-			<radius>1.5</radius>
+			<spectraltype>kA5hF0mA5 V</spectraltype>
+			<mass>1.516</mass>
+			<radius>1.44</radius>
 			<metallicity>-0.47</metallicity>
-			<distance>39.4</distance>
-			<temperature>104.0</temperature>
-			<rightascension>23 07 29</rightascension>
-			<declination>+21 08 03</declination>
+			<distance>39.40</distance>
+			<temperature>7193</temperature>
+			<rightascension>23 07 28.71507</rightascension>
+			<declination>+21 08 03.3053</declination>
 			<angulardistance />
-			<magV>5.96</magV>
+			<magV>5.953</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34164,8 +34368,8 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>11/10/13</lastupdate>
-		<description>The star HR 8799 is a young star in the constellation of Pegasus. It hosts a debris disk and at least 3 planets. The objects are near the upper limit for being planets. Objects are classified as brown dwarfs if they are capable of deuterium fusion (above 13 Jupiter masses).</description>
+		<lastupdate>15/11/26</lastupdate>
+		<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The outer two planets have peculiar spectral energy distributions that match a blend of L and T-type spectra.</description>
 		<new />
 		<image>HR 8799</image>
 		<imagedescription>This image shows three planets orbiting the star HR 8799. It was obtained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
@@ -34174,32 +34378,33 @@ Credit: ESO/J. Rameau</imagedescription>
 	<planet>
 		<id_exoplaneteu>HR 8799 c</id_exoplaneteu>
 		<name>HR 8799 c</name>
+		<name>HD 218396 c</name>
 		<id>HR 8799 c</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>10</mass>
-			<radius>1.3</radius>
+			<mass>7</mass>
+			<radius>1.0</radius>
 			<orbit>
-				<period>82145</period>
-				<semimajoraxis>42.9</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>28</inclination>
+				<period>83255</period>
+				<semimajoraxis>42.81</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>29.43</inclination>
 				<periastron />
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>65.68</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>A5V</spectraltype>
-			<mass>1.56</mass>
-			<radius>1.5</radius>
+			<spectraltype>kA5hF0mA5 V</spectraltype>
+			<mass>1.516</mass>
+			<radius>1.44</radius>
 			<metallicity>-0.47</metallicity>
-			<distance>39.4</distance>
-			<temperature>104.0</temperature>
-			<rightascension>23 07 29</rightascension>
-			<declination>+21 08 03</declination>
+			<distance>39.40</distance>
+			<temperature>7193</temperature>
+			<rightascension>23 07 28.71507</rightascension>
+			<declination>+21 08 03.3053</declination>
 			<angulardistance />
-			<magV>5.96</magV>
+			<magV>5.953</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34207,8 +34412,8 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>11/10/13</lastupdate>
-		<description>The star HR 8799 is a young star in the constellation of Pegasus. It hosts a debris disk and at least 3 planets. The objects are near the upper limit for being planets. Objects are classified as brown dwarfs if they are capable of deuterium fusion (above 13 Jupiter masses).</description>
+		<lastupdate>15/11/26</lastupdate>
+		<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The outer two planets have peculiar spectral energy distributions that match a blend of L and T-type spectra.</description>
 		<new />
 		<image>HR 8799</image>
 		<imagedescription>This image shows three planets orbiting the star HR 8799. It was obtained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
@@ -34217,32 +34422,33 @@ Credit: ESO/J. Rameau</imagedescription>
 	<planet>
 		<id_exoplaneteu>HR 8799 d</id_exoplaneteu>
 		<name>HR 8799 d</name>
+		<name>HD 218396 d</name>
 		<id>HR 8799 d</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>10</mass>
-			<radius>1.2</radius>
+			<mass>7</mass>
+			<radius>1.1</radius>
 			<orbit>
-				<period>41054</period>
-				<semimajoraxis>27</semimajoraxis>
-				<eccentricity>0.1</eccentricity>
-				<inclination>28</inclination>
+				<period>41628</period>
+				<semimajoraxis>26.97</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>38.63</inclination>
 				<periastron />
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>56.09</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>A5V</spectraltype>
-			<mass>1.56</mass>
-			<radius>1.5</radius>
+			<spectraltype>kA5hF0mA5 V</spectraltype>
+			<mass>1.516</mass>
+			<radius>1.44</radius>
 			<metallicity>-0.47</metallicity>
-			<distance>39.4</distance>
-			<temperature>104.0</temperature>
-			<rightascension>23 07 29</rightascension>
-			<declination>+21 08 03</declination>
+			<distance>39.40</distance>
+			<temperature>7193</temperature>
+			<rightascension>23 07 28.71507</rightascension>
+			<declination>+21 08 03.3053</declination>
 			<angulardistance />
-			<magV>5.96</magV>
+			<magV>5.953</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34250,8 +34456,8 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>11/10/13</lastupdate>
-		<description>The star HR 8799 is a young star in the constellation of Pegasus. It hosts a debris disk and at least 3 planets. The objects are near the upper limit for being planets. Objects are classified as brown dwarfs if they are capable of deuterium fusion (above 13 Jupiter masses).</description>
+		<lastupdate>15/11/26</lastupdate>
+		<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The inner two planets have spectral energy distributions that best match dusty L7 dwarfs.</description>
 		<new />
 		<image>HR 8799</image>
 		<imagedescription>This image shows three planets orbiting the star HR 8799. It was obtained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
@@ -34260,32 +34466,33 @@ Credit: ESO/J. Rameau</imagedescription>
 	<planet>
 		<id_exoplaneteu>HR 8799 e</id_exoplaneteu>
 		<name>HR 8799 e</name>
+		<name>HD 218396 e</name>
 		<id>HR 8799 e</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>9</mass>
-			<radius />
+			<mass>7</mass>
+			<radius>1.0</radius>
 			<orbit>
-				<period>18000</period>
-				<semimajoraxis>14.5</semimajoraxis>
-				<eccentricity />
-				<inclination />
+				<period>20816</period>
+				<semimajoraxis>16.99</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>30.95</inclination>
 				<periastron />
 				<longitude />
-				<ascendingnode />
+				<ascendingnode>145.73</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>A5V</spectraltype>
-			<mass>1.56</mass>
-			<radius>1.5</radius>
+			<spectraltype>kA5hF0mA5 V</spectraltype>
+			<mass>1.516</mass>
+			<radius>1.44</radius>
 			<metallicity>-0.47</metallicity>
-			<distance>39.4</distance>
-			<temperature>104.0</temperature>
-			<rightascension>23 07 29</rightascension>
-			<declination>+21 08 03</declination>
+			<distance>39.40</distance>
+			<temperature>7193</temperature>
+			<rightascension>23 07 28.71507</rightascension>
+			<declination>+21 08 03.3053</declination>
 			<angulardistance />
-			<magV>5.96</magV>
+			<magV>5.953</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -34293,8 +34500,8 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/11/23</lastupdate>
-		<description>The star HR 8799 is a young star in the constellation of Pegasus. It hosts a debris disk and at least 3 planets. The objects are near the upper limit for being planets. Objects are classified as brown dwarfs if they are capable of deuterium fusion (above 13 Jupiter masses).</description>
+		<lastupdate>15/11/26</lastupdate>
+		<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The inner two planets have spectral energy distributions that best match dusty L7 dwarfs.</description>
 		<new />
 		<image>HR 8799</image>
 		<imagedescription>This image shows three planets orbiting the star HR 8799. It was obtained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
@@ -37913,8 +38120,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>Kepler-12 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.431</mass>
-			<radius>1.695</radius>
+			<mass>0.43</mass>
+			<radius>1.75</radius>
 			<orbit>
 				<period>4.4379637</period>
 				<semimajoraxis>0.0556</semimajoraxis>
@@ -37927,9 +38134,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G0</spectraltype>
-			<mass>1.166</mass>
-			<radius>1.483</radius>
-			<metallicity>0.07</metallicity>
+			<mass>1.09</mass>
+			<radius>1.42</radius>
+			<metallicity>0.08</metallicity>
 			<distance>600</distance>
 			<temperature>1354.2</temperature>
 			<rightascension>19 04 58</rightascension>
@@ -37943,7 +38150,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/09</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -39185,8 +39392,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>Kepler-13 A b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>1.406</radius>
+			<mass>9.28</mass>
+			<radius>1.51</radius>
 			<orbit>
 				<period>1.76358799</period>
 				<semimajoraxis>0.03423</semimajoraxis>
@@ -39200,8 +39407,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<star>
 			<spectraltype>A</spectraltype>
 			<mass>1.72</mass>
-			<radius>1.71</radius>
-			<metallicity>0.2</metallicity>
+			<radius>1.74</radius>
+			<metallicity>0.20</metallicity>
 			<distance>530</distance>
 			<temperature>7650</temperature>
 			<rightascension>19 07 53.1072</rightascension>
@@ -39215,7 +39422,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>15/03/07</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
 		<new />
 		<image />
@@ -41219,8 +41426,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G</spectraltype>
-			<mass>1.018</mass>
-			<radius>0.992</radius>
+			<mass>1.00</mass>
+			<radius>0.98</radius>
 			<metallicity>0.36</metallicity>
 			<distance />
 			<temperature>1027.9</temperature>
@@ -41235,7 +41442,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/08/02</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>Kepler-15b is a planet discovered by NASA's Kepler mission and confirmed by the Hobby-Eberly Telescope. The density of the planet is high, suggesting an enrichment in heavy elements.</description>
 		<new />
 		<image />
@@ -43462,8 +43669,8 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>Kepler-17 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.45</mass>
-			<radius>1.312</radius>
+			<mass>2.47</mass>
+			<radius>1.33</radius>
 			<orbit>
 				<period>1.4857108</period>
 				<semimajoraxis>0.02591</semimajoraxis>
@@ -43492,7 +43699,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/26</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>Kepler-17b is a planet on a short orbit around a solar mass star. One year on this planet equals 1.5 days on Earth. Star spots on the host star constrain the eccentricity and obliquity of the planet.</description>
 		<new />
 		<image />
@@ -60137,11 +60344,11 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.0700</mass>
-			<radius>0.915</radius>
-			<metallicity />
+			<mass>1.04</mass>
+			<radius>1.04</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>684.83</distance>
-			<temperature>5619</temperature>
+			<temperature>6150</temperature>
 			<rightascension>18 52 50</rightascension>
 			<declination>+48 46 39</declination>
 			<angulardistance />
@@ -60170,8 +60377,8 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>Kepler-297 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.59599</radius>
+			<mass>0.13</mass>
+			<radius>0.66</radius>
 			<orbit>
 				<period>74.920137</period>
 				<semimajoraxis />
@@ -60184,11 +60391,11 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.0700</mass>
-			<radius>0.915</radius>
-			<metallicity />
+			<mass>1.04</mass>
+			<radius>1.04</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>684.83</distance>
-			<temperature>5619</temperature>
+			<temperature>6150</temperature>
 			<rightascension>18 52 50</rightascension>
 			<declination>+48 46 39</declination>
 			<angulardistance />
@@ -60200,7 +60407,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>Kepler-297 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-297 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<new />
 		<image />
@@ -73049,7 +73256,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
 			<mass>0.56</mass>
-			<radius>1.29</radius>
+			<radius>1.04</radius>
 			<orbit>
 				<period>1.85555820</period>
 				<semimajoraxis>0.03101</semimajoraxis>
@@ -73062,11 +73269,11 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G2V</spectraltype>
-			<mass>1.15</mass>
-			<radius>1.29</radius>
-			<metallicity>0.38</metallicity>
+			<mass>1.12</mass>
+			<radius>1.02</radius>
+			<metallicity>0.29</metallicity>
 			<distance>771.43</distance>
-			<temperature>5750</temperature>
+			<temperature>5620</temperature>
 			<rightascension>19 38 03</rightascension>
 			<declination>+48 58 54</declination>
 			<angulardistance />
@@ -73078,7 +73285,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>15/01/27</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>KOI-196 b, also known as Kepler-41 b, is transiting its host star and was tagged as a planet candidate by the Kepler spacecraft. Astronomers then used the SOPHIE spectrograph at the Observatoire de Haute-Provence in France to confirm the planet. The day side temperature on the planet is almost 1700 degree Celsius. In 2013, it was independently confirmed by a phase curve analysis.</description>
 		<new />
 		<image />
@@ -73236,8 +73443,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id>Kepler-418 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.1</mass>
-			<radius>1.2</radius>
+			<mass />
+			<radius>1.20</radius>
 			<orbit>
 				<period>86.67856</period>
 				<semimajoraxis />
@@ -73250,11 +73457,11 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.98</mass>
-			<radius>1.09</radius>
-			<metallicity>-0.05</metallicity>
+			<mass>1.29</mass>
+			<radius>1.60</radius>
+			<metallicity>0.31</metallicity>
 			<distance />
-			<temperature>5820</temperature>
+			<temperature>6029</temperature>
 			<rightascension>19 37 44.04</rightascension>
 			<declination>+38 21 19.62</declination>
 			<angulardistance />
@@ -73266,7 +73473,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/05/27</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>Kepler-418b is one of two proposed planets in system Kepler-418.</description>
 		<new />
 		<image />
@@ -73536,9 +73743,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<spectraltype />
 			<mass>1.15</mass>
 			<radius>1.24</radius>
-			<metallicity />
+			<metallicity>0.23</metallicity>
 			<distance>651.31</distance>
-			<temperature>5972.00</temperature>
+			<temperature>5972</temperature>
 			<rightascension>18 50 31</rightascension>
 			<declination>+46 19 24</declination>
 			<angulardistance />
@@ -73566,7 +73773,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id>Kepler-424 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
+			<mass>1.03</mass>
 			<radius>0.89</radius>
 			<orbit>
 				<period>3.3118644</period>
@@ -73596,7 +73803,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/09/30</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>Kepler-424 b is a Hot Jupiter in a two-planet system. It was discovered using the Keple Space Telescope. The mass was determined using radial velocity measurements from the Hobby-Eberly Telescope and its High Resolution Spectrograph (HRS).</description>
 		<new />
 		<image />
@@ -74119,8 +74326,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id>Kepler-44 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.02</mass>
-			<radius>1.24</radius>
+			<mass>1.00</mass>
+			<radius>1.09</radius>
 			<orbit>
 				<period>3.2467293</period>
 				<semimajoraxis>0.0446</semimajoraxis>
@@ -74135,7 +74342,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<spectraltype>G2IV</spectraltype>
 			<mass>1.12</mass>
 			<radius>1.35</radius>
-			<metallicity>0.15</metallicity>
+			<metallicity>0.42</metallicity>
 			<distance>2250</distance>
 			<temperature>5800</temperature>
 			<rightascension>20 00 25</rightascension>
@@ -74149,7 +74356,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>15/01/27</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -77260,8 +77467,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<id>Kepler-6 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.669</mass>
-			<radius>1.323</radius>
+			<mass>0.67</mass>
+			<radius>1.30</radius>
 			<orbit>
 				<period>3.234723</period>
 				<semimajoraxis>0.04567</semimajoraxis>
@@ -77274,8 +77481,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.209</mass>
-			<radius>1.391</radius>
+			<mass>1.05</mass>
+			<radius>1.29</radius>
 			<metallicity>0.34</metallicity>
 			<distance />
 			<temperature>1374.1</temperature>
@@ -77290,7 +77497,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/12/01</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -78242,8 +78449,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>Kepler-7 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.433</mass>
-			<radius>1.614</radius>
+			<mass>0.44</mass>
+			<radius>1.62</radius>
 			<orbit>
 				<period>4.885525</period>
 				<semimajoraxis>0.06246</semimajoraxis>
@@ -78256,9 +78463,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G0</spectraltype>
-			<mass>1.36</mass>
-			<radius>2.02</radius>
-			<metallicity>0.11</metallicity>
+			<mass>1.32</mass>
+			<radius>1.96</radius>
+			<metallicity>0.10</metallicity>
 			<distance />
 			<temperature>1486.8</temperature>
 			<rightascension>19 14 20</rightascension>
@@ -78272,7 +78479,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/05/27</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -78429,8 +78636,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>Kepler-76 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.00</mass>
-			<radius>1.25</radius>
+			<mass>2.01</mass>
+			<radius>1.36</radius>
 			<orbit>
 				<period>1.54492875</period>
 				<semimajoraxis />
@@ -78443,9 +78650,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G2V</spectraltype>
-			<mass>1.2</mass>
+			<mass>1.20</mass>
 			<radius>1.32</radius>
-			<metallicity>-0.1</metallicity>
+			<metallicity>-0.10</metallicity>
 			<distance />
 			<temperature>6409</temperature>
 			<rightascension>19 36 46</rightascension>
@@ -78459,7 +78666,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/05/14</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname "Einstein's Planet" because the confirmation method makes use of special relativity.</description>
 		<new />
 		<image />
@@ -78494,9 +78701,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<spectraltype>G5V</spectraltype>
 			<mass>0.95</mass>
 			<radius>0.99</radius>
-			<metallicity>0.2</metallicity>
+			<metallicity>0.20</metallicity>
 			<distance>570</distance>
-			<temperature>5520.00</temperature>
+			<temperature>5520</temperature>
 			<rightascension>19 18 25</rightascension>
 			<declination>+44 20 44</declination>
 			<angulardistance />
@@ -78717,8 +78924,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>Kepler-8 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.603</mass>
-			<radius>1.419</radius>
+			<mass>0.59</mass>
+			<radius>1.42</radius>
 			<orbit>
 				<period>3.52254</period>
 				<semimajoraxis>0.0483</semimajoraxis>
@@ -78731,9 +78938,9 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>F</spectraltype>
-			<mass>1.213</mass>
-			<radius>1.486</radius>
-			<metallicity>-0.055</metallicity>
+			<mass>1.13</mass>
+			<radius>1.45</radius>
+			<metallicity>0.05</metallicity>
 			<distance>1330</distance>
 			<temperature>1519.5</temperature>
 			<rightascension>18 45 09</rightascension>
@@ -78747,7 +78954,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>13/06/04</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -79844,8 +80051,8 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>Kepler-87 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.019836</mass>
-			<radius>1.229348</radius>
+			<mass>1.02</mass>
+			<radius>1.20</radius>
 			<orbit>
 				<period>114.7309</period>
 				<semimajoraxis>0.471</semimajoraxis>
@@ -79858,7 +80065,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.05</mass>
+			<mass>1.10</mass>
 			<radius>1.82</radius>
 			<metallicity>-0.17</metallicity>
 			<distance>781.83</distance>
@@ -79874,7 +80081,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/10</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>The Kepler-87 system consists of at least two planets which have been confirmed using transit timing variations (TTV). There might be two more planets in the system which have not been confirmed yet.</description>
 		<new />
 		<image />
@@ -79904,7 +80111,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.05</mass>
+			<mass>1.10</mass>
 			<radius>1.82</radius>
 			<metallicity>-0.17</metallicity>
 			<distance>781.83</distance>
@@ -79953,9 +80160,9 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>F</spectraltype>
-			<mass>1.277</mass>
+			<mass>1.28</mass>
 			<radius>1.52</radius>
-			<metallicity>0.0228</metallicity>
+			<metallicity>0.02</metallicity>
 			<distance>426.2</distance>
 			<temperature>6182</temperature>
 			<rightascension>19 49 19</rightascension>
@@ -80000,9 +80207,9 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>F</spectraltype>
-			<mass>1.277</mass>
+			<mass>1.28</mass>
 			<radius>1.52</radius>
-			<metallicity>0.0228</metallicity>
+			<metallicity>0.02</metallicity>
 			<distance>426.2</distance>
 			<temperature>6182</temperature>
 			<rightascension>19 49 19</rightascension>
@@ -80033,8 +80240,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Kepler-89 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.33344427</mass>
-			<radius>1.0270384</radius>
+			<mass>0.33</mass>
+			<radius>1.00</radius>
 			<orbit>
 				<period>22.3429890</period>
 				<semimajoraxis>0.1684</semimajoraxis>
@@ -80047,9 +80254,9 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>F</spectraltype>
-			<mass>1.277</mass>
+			<mass>1.28</mass>
 			<radius>1.52</radius>
-			<metallicity>0.0228</metallicity>
+			<metallicity>0.02</metallicity>
 			<distance>426.2</distance>
 			<temperature>6182</temperature>
 			<rightascension>19 49 19</rightascension>
@@ -80063,7 +80270,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>13/03/15</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>This planetary system was discovered by the Kepler spacecraft. The planets were confirmed by an analysis of the Rossiter-McLaughlin (RM) effect.</description>
 		<new />
 		<image />
@@ -80094,9 +80301,9 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>F</spectraltype>
-			<mass>1.277</mass>
+			<mass>1.28</mass>
 			<radius>1.52</radius>
-			<metallicity>0.0228</metallicity>
+			<metallicity>0.02</metallicity>
 			<distance>426.2</distance>
 			<temperature>6182</temperature>
 			<rightascension>19 49 19</rightascension>
@@ -80127,8 +80334,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Kepler-9 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.141900591</mass>
-			<radius>1.011544678</radius>
+			<mass>0.25</mass>
+			<radius>0.84</radius>
 			<orbit>
 				<period>19.22418</period>
 				<semimajoraxis>0.143</semimajoraxis>
@@ -80141,11 +80348,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G2</spectraltype>
-			<mass>1.05</mass>
-			<radius>1.23</radius>
-			<metallicity>0.17</metallicity>
+			<mass>1.07</mass>
+			<radius>1.02</radius>
+			<metallicity>0.12</metallicity>
 			<distance>650</distance>
-			<temperature>5722.0</temperature>
+			<temperature>5777</temperature>
 			<rightascension>19 02 17</rightascension>
 			<declination>+38 24 03</declination>
 			<angulardistance />
@@ -80157,7 +80364,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>14/03/10</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -80174,8 +80381,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>Kepler-9 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0975369917</mass>
-			<radius>0.9750926178</radius>
+			<mass>0.17</mass>
+			<radius>0.82</radius>
 			<orbit>
 				<period>39.03106</period>
 				<semimajoraxis>0.229</semimajoraxis>
@@ -80188,11 +80395,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G2</spectraltype>
-			<mass>1.05</mass>
-			<radius>1.23</radius>
-			<metallicity>0.17</metallicity>
+			<mass>1.07</mass>
+			<radius>1.02</radius>
+			<metallicity>0.12</metallicity>
 			<distance>650</distance>
-			<temperature>5722.0</temperature>
+			<temperature>5777</temperature>
 			<rightascension>19 02 17</rightascension>
 			<declination>+38 24 03</declination>
 			<angulardistance />
@@ -80204,7 +80411,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>14/03/10</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -80235,11 +80442,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G2</spectraltype>
-			<mass>1.05</mass>
-			<radius>1.23</radius>
-			<metallicity>0.17</metallicity>
+			<mass>1.07</mass>
+			<radius>1.02</radius>
+			<metallicity>0.12</metallicity>
 			<distance>650</distance>
-			<temperature>5722.0</temperature>
+			<temperature>5777</temperature>
 			<rightascension>19 02 17</rightascension>
 			<declination>+38 24 03</declination>
 			<angulardistance />
@@ -80282,11 +80489,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80329,11 +80536,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80376,11 +80583,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80423,11 +80630,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80470,11 +80677,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80504,7 +80711,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.738155</radius>
+			<radius>0.72</radius>
 			<orbit>
 				<period>210.60697</period>
 				<semimajoraxis>0.71</semimajoraxis>
@@ -80517,11 +80724,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80533,7 +80740,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<new />
 		<image />
@@ -80551,7 +80758,7 @@ Credit: Joe Gallagher.</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>1.029772</radius>
+			<radius>1.01</radius>
 			<orbit>
 				<period>331.60059</period>
 				<semimajoraxis>1.01</semimajoraxis>
@@ -80564,11 +80771,11 @@ Credit: Joe Gallagher.</imagedescription>
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.1400</mass>
-			<radius>1.2</radius>
-			<metallicity>-0.17</metallicity>
+			<mass>1.20</mass>
+			<radius>1.20</radius>
+			<metallicity>-0.12</metallicity>
 			<distance>834.52</distance>
-			<temperature>5930</temperature>
+			<temperature>6080</temperature>
 			<rightascension>18 57 44</rightascension>
 			<declination>+49 18 19</declination>
 			<angulardistance />
@@ -80580,7 +80787,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<new />
 		<image />
@@ -81616,7 +81823,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<spectraltype />
 			<mass>1.452</mass>
 			<radius>1.63</radius>
-			<metallicity />
+			<metallicity>0.09</metallicity>
 			<distance>426</distance>
 			<temperature>6820</temperature>
 			<rightascension>19 49 48.90</rightascension>
@@ -81796,8 +82003,8 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>KOI-135 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.00</mass>
-			<radius>1.09</radius>
+			<mass>3.23</mass>
+			<radius>1.22</radius>
 			<orbit>
 				<period>3.02409309</period>
 				<semimajoraxis>0.0444</semimajoraxis>
@@ -81826,7 +82033,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>15/01/27</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -82834,6 +83041,51 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-201.01</id_exoplaneteu>
+		<name>KOI-201.01</name>
+		<name>KOI-201 b</name>
+		<name>KIC 6849046 b</name>
+		<id>KOI-201.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.82</radius>
+			<orbit>
+				<period>4.225384512</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.07</mass>
+			<radius>1.05</radius>
+			<metallicity>0.48</metallicity>
+			<distance />
+			<temperature>5649</temperature>
+			<rightascension>19 08 31.338</rightascension>
+			<declination>+42 21 00.56</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/12/03</lastupdate>
+		<description />
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-206 b</id_exoplaneteu>
 		<name>KOI-206 b</name>
 		<name>KOI-206.01</name>
@@ -83471,6 +83723,139 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/07/10</lastupdate>
 		<description>KOI-368.01 was flagged by the Kepler team as a planet candidate. The secondary eclipse measurement by Zhou and Huang (2013) indicates that this object has a temperature consistent with it being an M-dwarf star. Contrary to the Zhou and Huang result, Ahlers et al. (2014) find that the orbit is likely well-aligned with the stellar equator.</description>
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-3680.01</id_exoplaneteu>
+		<name>KOI-3680.01</name>
+		<name>KOI-3680 b</name>
+		<name>KIC 9025971 b</name>
+		<id>KOI-3680.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.20</mass>
+			<radius>0.95</radius>
+			<orbit>
+				<period>141.24164672</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.00</mass>
+			<radius>0.91</radius>
+			<metallicity>-0.12</metallicity>
+			<distance />
+			<temperature>5926</temperature>
+			<rightascension>19 33 07.574</rightascension>
+			<declination>+45 18 34.81</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/12/03</lastupdate>
+		<description />
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-3681.01</id_exoplaneteu>
+		<name>KOI-3681.01</name>
+		<name>KOI-3681 b</name>
+		<name>KIC 2581316 b</name>
+		<id>KOI-3681.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>4.20</mass>
+			<radius>1.97</radius>
+			<orbit>
+				<period>217.8317626</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.09</mass>
+			<radius>2.27</radius>
+			<metallicity>-0.84</metallicity>
+			<distance />
+			<temperature>6382</temperature>
+			<rightascension>19 30 30.582</rightascension>
+			<declination>+37 51 36.63</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/12/03</lastupdate>
+		<description />
+		<new>1</new>
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KOI-3681.02</id_exoplaneteu>
+		<name>KOI-3681.02</name>
+		<id>KOI-3681.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass />
+			<radius>0.171</radius>
+			<orbit>
+				<period>10.51420148</period>
+				<semimajoraxis />
+				<eccentricity />
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype />
+			<mass>1.09</mass>
+			<radius>2.27</radius>
+			<metallicity>-0.84</metallicity>
+			<distance />
+			<temperature>6382</temperature>
+			<rightascension>19 30 30.582</rightascension>
+			<declination>+37 51 36.63</declination>
+			<angulardistance />
+			<magV />
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/12/03</lastupdate>
+		<description />
 		<new />
 		<image />
 		<imagedescription />
@@ -87342,7 +87727,7 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.922238</radius>
+			<radius>0.90</radius>
 			<orbit>
 				<period>282.5255</period>
 				<semimajoraxis>0.828</semimajoraxis>
@@ -87356,10 +87741,10 @@ Credit: Kains et al (2013).</imagedescription>
 		<star>
 			<spectraltype />
 			<mass>0.94</mass>
-			<radius>1.0</radius>
-			<metallicity>-0.07</metallicity>
+			<radius>1.00</radius>
+			<metallicity>-0.08</metallicity>
 			<distance>369.8</distance>
-			<temperature>6529</temperature>
+			<temperature>5629</temperature>
 			<rightascension>19 19 03</rightascension>
 			<declination>+51 57 45.36</declination>
 			<angulardistance />
@@ -87371,7 +87756,7 @@ Credit: Kains et al (2013).</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>14/03/25</lastupdate>
+		<lastupdate>15/12/03</lastupdate>
 		<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
 		<new />
 		<image>PH2</image>
@@ -90510,6 +90895,49 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<lastupdate>14/03/20</lastupdate>
 		<description />
 		<new />
+		<image />
+		<imagedescription />
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-135 b</id_exoplaneteu>
+		<name>WASP-135 b</name>
+		<id>WASP-135 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.90</mass>
+			<radius>1.30</radius>
+			<orbit>
+				<period>1.4013794</period>
+				<semimajoraxis>0.0243</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>82.0</inclination>
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>0.98</mass>
+			<radius>0.96</radius>
+			<metallicity>0.02</metallicity>
+			<distance>300</distance>
+			<temperature>5675</temperature>
+			<rightascension>17 49 08.4</rightascension>
+			<declination>+29 52 45.0</declination>
+			<angulardistance />
+			<magV>13.28</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/11/21</lastupdate>
+		<description>WASP-135b is a highly-irradiated and inflated hot Jupiter.</description>
+		<new>1</new>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
@@ -94977,13 +95405,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>XO-4 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.72</mass>
-			<radius>1.34</radius>
+			<mass>1.615</mass>
+			<radius>1.615</radius>
 			<orbit>
-				<period>4.1250823</period>
-				<semimajoraxis>0.0555</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>88.7</inclination>
+				<period>4.1250707</period>
+				<semimajoraxis>0.05485</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.26</inclination>
 				<periastron />
 				<longitude />
 				<ascendingnode />
@@ -94991,15 +95419,15 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</properties>
 		<star>
 			<spectraltype>F5V</spectraltype>
-			<mass>1.32</mass>
-			<radius>1.55</radius>
-			<metallicity>-0.04</metallicity>
+			<mass>1.293</mass>
+			<radius>1.554</radius>
+			<metallicity>-0.040</metallicity>
 			<distance>293</distance>
-			<temperature>1328.2</temperature>
-			<rightascension>07 21 33</rightascension>
-			<declination>+58 16 05</declination>
+			<temperature>6390</temperature>
+			<rightascension>07 21 33.1657</rightascension>
+			<declination>+58 16 05.005</declination>
 			<angulardistance />
-			<magV>10.7</magV>
+			<magV>10.81</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -95007,7 +95435,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>11/11/28</lastupdate>
+		<lastupdate>15/11/29</lastupdate>
 		<description />
 		<new />
 		<image />
