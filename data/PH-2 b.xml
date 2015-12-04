@@ -11,7 +11,7 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.922238</radius>
+		<radius>0.90</radius>
 		<orbit>
 			<period>282.5255</period>
 			<semimajoraxis>0.828</semimajoraxis>
@@ -25,10 +25,10 @@
 	<star>
 		<spectraltype />
 		<mass>0.94</mass>
-		<radius>1.0</radius>
-		<metallicity>-0.07</metallicity>
+		<radius>1.00</radius>
+		<metallicity>-0.08</metallicity>
 		<distance>369.8</distance>
-		<temperature>6529</temperature>
+		<temperature>5629</temperature>
 		<rightascension>19 19 03</rightascension>
 		<declination>+51 57 45.36</declination>
 		<angulardistance />
@@ -40,7 +40,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>14/03/25</lastupdate>
+	<lastupdate>15/12/03</lastupdate>
 	<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
 	<new />
 	<image>PH2</image>

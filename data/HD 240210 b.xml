@@ -4,29 +4,29 @@
 	<id>HD 240210 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>6.9</mass>
+		<mass>5.21</mass>
 		<radius />
 		<orbit>
 			<period>501.75</period>
 			<semimajoraxis>1.33</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>277.59</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3III</spectraltype>
-		<mass>1.25</mass>
+		<mass>0.82</mass>
 		<radius />
 		<metallicity>-0.18</metallicity>
 		<distance>143</distance>
-		<temperature>386.6</temperature>
-		<rightascension>23 10 29</rightascension>
-		<declination>+57 01 46</declination>
+		<temperature>4297</temperature>
+		<rightascension>23 10 29.2303</rightascension>
+		<declination>+57 01 46.035</declination>
 		<angulardistance />
-		<magV>8.33</magV>
+		<magV>8.27</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2009</discoveryyear>
-	<lastupdate>09/06/10</lastupdate>
+	<lastupdate>15/11/26</lastupdate>
 	<description />
 	<new />
 	<image />

@@ -1,13 +1,19 @@
 <planet>
 	<id_exoplaneteu>55 Cnc b</id_exoplaneteu>
 	<name>55 Cnc b</name>
+	<name>rho01 Cnc b</name>
+	<name>&#961;1 Cnc b</name>
+	<name>HR 3522 b</name>
+	<name>55 Cnc A b</name>
+	<name>rho01 Cnc A b</name>
+	<name>&#961;1 Cnc A b</name>
 	<id>55 Cnc b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
 		<mass>0.8306</mass>
 		<radius />
 		<orbit>
-			<period>14.651262</period>
+			<period>14.65152</period>
 			<semimajoraxis>0.11522725</semimajoraxis>
 			<eccentricity>0.0034</eccentricity>
 			<inclination />
@@ -18,13 +24,13 @@
 	</properties>
 	<star>
 		<spectraltype>K0V</spectraltype>
-		<mass>0.95</mass>
-		<radius>0.943</radius>
-		<metallicity>0.31</metallicity>
-		<distance>12.3</distance>
-		<temperature>660.7</temperature>
-		<rightascension>08 52 37</rightascension>
-		<declination>+28 20 02</declination>
+		<mass>0.960</mass>
+		<radius>0.960</radius>
+		<metallicity>0.3</metallicity>
+		<distance>12.34</distance>
+		<temperature>5219</temperature>
+		<rightascension>08 52 35.81093</rightascension>
+		<declination>+28 19 50.9511</declination>
 		<angulardistance />
 		<magV>5.95</magV>
 		<magI />

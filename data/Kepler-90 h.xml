@@ -9,7 +9,7 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>1.029772</radius>
+		<radius>1.01</radius>
 		<orbit>
 			<period>331.60059</period>
 			<semimajoraxis>1.01</semimajoraxis>
@@ -22,11 +22,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.1400</mass>
-		<radius>1.2</radius>
-		<metallicity>-0.17</metallicity>
+		<mass>1.20</mass>
+		<radius>1.20</radius>
+		<metallicity>-0.12</metallicity>
 		<distance>834.52</distance>
-		<temperature>5930</temperature>
+		<temperature>6080</temperature>
 		<rightascension>18 57 44</rightascension>
 		<declination>+49 18 19</declination>
 		<angulardistance />
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>7</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/10/24</lastupdate>
+	<lastupdate>15/12/03</lastupdate>
 	<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 	<new />
 	<image />

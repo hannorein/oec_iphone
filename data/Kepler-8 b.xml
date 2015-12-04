@@ -8,8 +8,8 @@
 	<id>Kepler-8 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.603</mass>
-		<radius>1.419</radius>
+		<mass>0.59</mass>
+		<radius>1.42</radius>
 		<orbit>
 			<period>3.52254</period>
 			<semimajoraxis>0.0483</semimajoraxis>
@@ -22,9 +22,9 @@
 	</properties>
 	<star>
 		<spectraltype>F</spectraltype>
-		<mass>1.213</mass>
-		<radius>1.486</radius>
-		<metallicity>-0.055</metallicity>
+		<mass>1.13</mass>
+		<radius>1.45</radius>
+		<metallicity>0.05</metallicity>
 		<distance>1330</distance>
 		<temperature>1519.5</temperature>
 		<rightascension>18 45 09</rightascension>
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>13/06/04</lastupdate>
+	<lastupdate>15/12/03</lastupdate>
 	<description />
 	<new />
 	<image />

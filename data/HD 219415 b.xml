@@ -15,7 +15,7 @@
 			<semimajoraxis>3.2</semimajoraxis>
 			<eccentricity>0.40</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>207.0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -24,13 +24,13 @@
 		<spectraltype>K0 III</spectraltype>
 		<mass>1.0</mass>
 		<radius>2.9</radius>
-		<metallicity>-0.46</metallicity>
+		<metallicity>-0.04</metallicity>
 		<distance />
-		<temperature>202.3</temperature>
-		<rightascension>23 14 53.82</rightascension>
-		<declination>+56 43 49.15</declination>
+		<temperature>4820</temperature>
+		<rightascension>23 14 53.8203</rightascension>
+		<declination>+56 43 49.154</declination>
 		<angulardistance />
-		<magV>8.94</magV>
+		<magV>8.91</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/09/13</lastupdate>
+	<lastupdate>15/11/23</lastupdate>
 	<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The planet is in a nearly 6 year orbit.</description>
 	<new />
 	<image />

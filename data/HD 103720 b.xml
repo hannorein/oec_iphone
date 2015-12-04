@@ -4,14 +4,14 @@
 	<id>HD 103720 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.62</mass>
+		<mass>0.620</mass>
 		<radius />
 		<orbit>
 			<period>4.5557</period>
 			<semimajoraxis>0.0498</semimajoraxis>
 			<eccentricity>0.086</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>262</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>0.794</mass>
 		<radius>0.73</radius>
 		<metallicity>-0.02</metallicity>
-		<distance>41.6</distance>
+		<distance>41.58</distance>
 		<temperature>5017</temperature>
-		<rightascension>11 56 41.18</rightascension>
-		<declination>-02 46 44.24</declination>
+		<rightascension>11 56 41.18534</rightascension>
+		<declination>-02 46 44.2430</declination>
 		<angulardistance />
 		<magV>9.49</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/12/23</lastupdate>
+	<lastupdate>15/11/21</lastupdate>
 	<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
 	<new />
 	<image />

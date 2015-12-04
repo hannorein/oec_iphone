@@ -11,7 +11,7 @@
 			<semimajoraxis>2.44</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>280</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>0.585</mass>
 		<radius>0.53</radius>
 		<metallicity>-0.24</metallicity>
-		<distance>15.9</distance>
+		<distance>15.87</distance>
 		<temperature>4462</temperature>
-		<rightascension>13 04 57</rightascension>
-		<declination>-52 26 35</declination>
+		<rightascension>13 04 57.47691</rightascension>
+		<declination>-52 26 34.5223</declination>
 		<angulardistance />
 		<magV>9.057</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>14/12/23</lastupdate>
+	<lastupdate>15/11/21</lastupdate>
 	<description>These planet parameters have been derived from ten years of HARPS data.</description>
 	<new />
 	<image />

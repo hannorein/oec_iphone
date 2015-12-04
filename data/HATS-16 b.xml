@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-16 b</id_exoplaneteu>
+	<name>HATS-16 b</name>
+	<id>HATS-16 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.27</mass>
+		<radius>1.30</radius>
+		<orbit>
+			<period>2.686502</period>
+			<semimajoraxis>0.03744</semimajoraxis>
+			<eccentricity />
+			<inclination>83.53</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G3V</spectraltype>
+		<mass>0.970</mass>
+		<radius>1.238</radius>
+		<metallicity>0.100</metallicity>
+		<distance>774</distance>
+		<temperature>5738</temperature>
+		<rightascension>23 54 14.04</rightascension>
+		<declination>-30 00 46.8</declination>
+		<angulardistance />
+		<magV>13.834</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/11/26</lastupdate>
+	<description>HATS-16b is a massive planet transiting a G3V star.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

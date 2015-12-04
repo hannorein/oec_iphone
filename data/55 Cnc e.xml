@@ -1,11 +1,17 @@
 <planet>
 	<id_exoplaneteu>55 Cnc e</id_exoplaneteu>
 	<name>55 Cnc e</name>
+	<name>rho01 Cnc e</name>
+	<name>&#961;1 Cnc e</name>
+	<name>HR 3522 e</name>
+	<name>55 Cnc A e</name>
+	<name>rho01 Cnc A e</name>
+	<name>&#961;1 Cnc A e</name>
 	<id>55 Cnc e</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>0.0254</mass>
-		<radius>0.171</radius>
+		<radius>0.1746</radius>
 		<orbit>
 			<period>0.7365515</period>
 			<semimajoraxis>0.015690907</semimajoraxis>
@@ -18,13 +24,13 @@
 	</properties>
 	<star>
 		<spectraltype>K0V</spectraltype>
-		<mass>0.95</mass>
-		<radius>0.943</radius>
-		<metallicity>0.31</metallicity>
-		<distance>12.3</distance>
-		<temperature>660.7</temperature>
-		<rightascension>08 52 37</rightascension>
-		<declination>+28 20 02</declination>
+		<mass>0.960</mass>
+		<radius>0.960</radius>
+		<metallicity>0.3</metallicity>
+		<distance>12.34</distance>
+		<temperature>5219</temperature>
+		<rightascension>08 52 35.81093</rightascension>
+		<declination>+28 19 50.9511</declination>
 		<angulardistance />
 		<magV>5.95</magV>
 		<magI />

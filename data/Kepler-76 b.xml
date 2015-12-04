@@ -8,8 +8,8 @@
 	<id>Kepler-76 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>2.00</mass>
-		<radius>1.25</radius>
+		<mass>2.01</mass>
+		<radius>1.36</radius>
 		<orbit>
 			<period>1.54492875</period>
 			<semimajoraxis />
@@ -22,9 +22,9 @@
 	</properties>
 	<star>
 		<spectraltype>G2V</spectraltype>
-		<mass>1.2</mass>
+		<mass>1.20</mass>
 		<radius>1.32</radius>
-		<metallicity>-0.1</metallicity>
+		<metallicity>-0.10</metallicity>
 		<distance />
 		<temperature>6409</temperature>
 		<rightascension>19 36 46</rightascension>
@@ -38,7 +38,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/05/14</lastupdate>
+	<lastupdate>15/12/03</lastupdate>
 	<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname "Einstein's Planet" because the confirmation method makes use of special relativity.</description>
 	<new />
 	<image />
