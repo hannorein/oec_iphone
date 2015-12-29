@@ -1,4 +1,4 @@
-<systems name="systems" planets="2089">
+<systems name="systems" planets="2113">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -2819,17 +2819,29 @@
 	<system>
 		<name>beta Cancri</name>
 		<name>HD 69267</name>
-		<rightascension>08 16 31</rightascension>
-		<declination>+09 11 08</declination>
-		<distance errorminus="7.7" errorplus="7.7">90</distance>
+		<rightascension>08 16 30.92101</rightascension>
+		<declination>+09 11 07.9579</declination>
+		<distance errorminus="1.6" errorplus="1.6">93.0</distance>
 		<star>
 			<name>beta Cancri</name>
+			<name>bet Cnc</name>
+			<name>&#946; Cnc</name>
+			<name>&#946; Cancri</name>
+			<name>17 Cnc</name>
+			<name>17 Cancri</name>
+			<name>Al Tarf</name>
 			<name>HD 69267</name>
+			<name>HIP 40526</name>
+			<name>TYC 794-1622-1</name>
+			<name>SAO 116569</name>
+			<name>HR 3249</name>
+			<name>BD+09 1917</name>
+			<name>2MASS J08163090+0911080</name>
 			<mass errorminus="0.1" errorplus="0.1">1.7</mass>
-			<radius>47.2</radius>
+			<radius errorminus="1.3" errorplus="1.3">47.2</radius>
 			<temperature errorminus="17.5" errorplus="17.5">4092.1</temperature>
 			<age errorminus="0.34" errorplus="0.34">1.85</age>
-			<magV>3.52</magV>
+			<magV errorminus="0.009" errorplus="0.009">3.520</magV>
 			<magB errorminus="0.007" errorplus="0.007">5.000</magB>
 			<magR>2.42</magR>
 			<magI>1.62</magI>
@@ -2844,14 +2856,15 @@
 				<name>bet Cnc b</name>
 				<name>HD 69267 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.8" errorplus="0.8">7.8</mass>
+				<mass errorminus="0.8" errorplus="0.8" type="msini">7.8</mass>
 				<period errorminus="4" errorplus="4">605.2</period>
 				<semimajoraxis errorminus="0.1" errorplus="0.1">1.7</semimajoraxis>
 				<eccentricity errorminus="0.02" errorplus="0.02">0.08</eccentricity>
 				<periastron errorminus="5.9" errorplus="5.9">58.9</periastron>
+				<periastrontime errorminus="9.8" errorplus="9.8">2453229.8</periastrontime>
 				<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once every 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>14/05/13</lastupdate>
+				<lastupdate>15/11/26</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
@@ -2913,14 +2926,25 @@
 	<system>
 		<name>beta Ursae Minoris</name>
 		<name>HD 131873</name>
-		<rightascension>14 50 42</rightascension>
-		<declination>+74 09 20</declination>
-		<distance errorminus="0.8" errorplus="0.8">38.7</distance>
+		<rightascension>14 50 42.32580</rightascension>
+		<declination>+74 09 19.8142</declination>
+		<distance errorminus="0.19" errorplus="0.19">40.14</distance>
 		<star>
 			<name>beta Ursae Minoris</name>
 			<name>HD 131873</name>
 			<name>beta UMi</name>
+			<name>bet UMi</name>
+			<name>&#946; Ursae Minoris</name>
+			<name>&#946; UMi</name>
+			<name>7 Ursae Minoris</name>
+			<name>7 UMi</name>
 			<name>Kochab</name>
+			<name>HIP 72607</name>
+			<name>TYC 4416-1799-1</name>
+			<name>SAO 8102</name>
+			<name>HR 5563</name>
+			<name>BD+74 595</name>
+			<name>2MASS J14504235+7409199</name>
 			<mass errorminus="0.2" errorplus="0.2">1.4</mass>
 			<radius errorminus="1.1" errorplus="1.1">38.3</radius>
 			<temperature errorminus="25" errorplus="25">4126</temperature>
@@ -2938,14 +2962,15 @@
 				<name>bet UMi b</name>
 				<name>Kochab b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="1.0" errorplus="1.0">6.1</mass>
+				<mass errorminus="1.0" errorplus="1.0" type="msini">6.1</mass>
 				<period errorminus="2.7" errorplus="2.7">522.3</period>
 				<semimajoraxis errorminus="0.1" errorplus="0.1">1.4</semimajoraxis>
 				<eccentricity errorminus="0.02" errorplus="0.02">0.19</eccentricity>
 				<periastron errorminus="2.8" errorplus="2.8">307.4</periastron>
+				<periastrontime errorminus="4.6" errorplus="4.6">2453175.3</periastrontime>
 				<description>This planet is orbiting the brighest star in the bowl of the Little Dipper. The star is K giant, 130 times more luminous than the Sun and about 130 light years away. The planet was found using data collected from the Bohyunsan Observatory.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>14/05/13</lastupdate>
+				<lastupdate>15/11/26</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
@@ -4334,60 +4359,55 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>EPIC 201338508</name>
+		<name>K2-5</name>
 		<rightascension>11 17 12.84</rightascension>
 		<declination>-01 52 40.71</declination>
 		<distance errorminus="7" errorplus="7">181</distance>
-		<binary>
-			<star>
-				<name>EPIC 201338508</name>
-				<name>K2-5</name>
-				<mass errorminus="0.01" errorplus="0.01">0.53</mass>
-				<radius errorminus="0.01" errorplus="0.01">0.52</radius>
-				<temperature errorminus="41" errorplus="45">4102</temperature>
-				<magJ errorminus="0.03" errorplus="0.03">12.45</magJ>
-				<magH errorminus="0.02" errorplus="0.02">11.76</magH>
-				<magK errorminus="0.02" errorplus="0.02">11.6</magK>
-				<metallicity errorminus="0.06" errorplus="0.04">-0.51</metallicity>
-				<planet>
-					<name>EPIC 201338508 c</name>
-					<name>EPIC 201338508.01</name>
-					<name>K2-5 c</name>
-					<list>Confirmed planets</list>
-					<radius errorminus="0.018" errorplus="0.018">0.177</radius>
-					<period errorminus="0.00205" errorplus="0.00205">10.93406</period>
-					<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2456814.5947</transittime>
-					<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0783</semimajoraxis>
-					<temperature errorminus="9" errorplus="9">511</temperature>
-					<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
-					<discoverymethod>transit</discoverymethod>
-					<istransiting>1</istransiting>
-					<lastupdate>15/07/07</lastupdate>
-					<discoveryyear>2015</discoveryyear>
-					<list>Planets in binary systems, S-type</list>
-				</planet>
-				<planet>
-					<name>EPIC 201338508 b</name>
-					<name>EPIC 201338508.02</name>
-					<name>K2-5 b</name>
-					<list>Confirmed planets</list>
-					<radius errorminus="0.021" errorplus="0.021">0.177</radius>
-					<period errorminus="0.00061" errorplus="0.00061">5.73491</period>
-					<transittime errorminus="0.0063" errorplus="0.0063" unit="BJD">2456808.864</transittime>
-					<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0509</semimajoraxis>
-					<temperature errorminus="12" errorplus="12">634</temperature>
-					<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
-					<discoverymethod>transit</discoverymethod>
-					<istransiting>1</istransiting>
-					<lastupdate>15/07/07</lastupdate>
-					<discoveryyear>2015</discoveryyear>
-					<list>Planets in binary systems, S-type</list>
-				</planet>
-			</star>
-			<star>
-				<name>EPIC 201338508 B</name>
-			</star>
-			<separation errorminus="0.07" errorplus="0.07" unit="arcsec">22.92</separation>
-		</binary>
+		<star>
+			<name>EPIC 201338508</name>
+			<name>K2-5</name>
+			<name>2MASS J11171284-0152406</name>
+			<mass errorminus="0.13" errorplus="0.13">0.61</mass>
+			<radius errorminus="0.12" errorplus="0.12">0.57</radius>
+			<temperature errorminus="375" errorplus="375">3930</temperature>
+			<magV errorminus="0.03" errorplus="0.03">14.91</magV>
+			<magJ errorminus="0.03" errorplus="0.03">12.45</magJ>
+			<magH errorminus="0.02" errorplus="0.02">11.76</magH>
+			<magK errorminus="0.02" errorplus="0.02">11.6</magK>
+			<metallicity errorminus="0.19" errorplus="0.19">-0.33</metallicity>
+			<planet>
+				<name>EPIC 201338508 c</name>
+				<name>EPIC 201338508.01</name>
+				<name>K2-5 c</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.055" errorplus="0.055">0.202</radius>
+				<period errorminus="0.00134" errorplus="0.00134">10.93241</period>
+				<transittime errorminus="0.0052" errorplus="0.0052" unit="BJD">2456814.6010</transittime>
+				<semimajoraxis errorminus="0.0059" errorplus="0.0059">0.0818</semimajoraxis>
+				<inclination errorminus="2.47" errorplus="2.47">86.95</inclination>
+				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/12/06</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+			<planet>
+				<name>EPIC 201338508 b</name>
+				<name>EPIC 201338508.02</name>
+				<name>K2-5 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.039" errorplus="0.039">0.170</radius>
+				<period errorminus="0.00064" errorplus="0.00064">5.73594</period>
+				<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2456808.8600</transittime>
+				<semimajoraxis errorminus="0.0038" errorplus="0.0038">0.0532</semimajoraxis>
+				<inclination errorminus="3.37" errorplus="1.88">87.35</inclination>
+				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/12/06</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>EPIC 201367065</name>
@@ -4397,10 +4417,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<name>EPIC 201367065</name>
 			<name>K2-3</name>
-			<name>2MASS 11292037-0127173</name>
-			<mass errorminus="0.086" errorplus="0.086">0.612</mass>
-			<radius errorminus="0.041" errorplus="0.041">0.553</radius>
-			<temperature errorminus="190" errorplus="190">3900</temperature>
+			<name>2MASS J11292037-0127173</name>
+			<mass errorminus="0.09" errorplus="0.09">0.60</mass>
+			<radius errorminus="0.07" errorplus="0.07">0.56</radius>
+			<temperature errorminus="189" errorplus="189">3896</temperature>
+			<magV errorminus="0.01" errorplus="0.01">12.17</magV>
 			<magJ errorminus="0.03" errorplus="0.03">9.42</magJ>
 			<magH errorminus="0.04" errorplus="0.04">8.8</magH>
 			<magK errorminus="0.02" errorplus="0.02">8.56</magK>
@@ -4411,13 +4432,13 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>EPIC 201367065 b</name>
 				<name>EPIC 201367065.01</name>
 				<name>K2-3 b</name>
-				<name>2MASS 11292037-0127173 b</name>
+				<name>2MASS J11292037-0127173 b</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.0083" errorplus="0.0161">0.1854</radius>
-				<period errorminus="0.00022" errorplus="0.00022">10.05429</period>
-				<transittime errorminus="0.00082" errorplus="0.00082" unit="BJD">2456813.41817</transittime>
-				<semimajoraxis errorminus="0.0039" errorplus="0.0039">0.0775</semimajoraxis>
-				<inclination errorminus="0.40" errorplus="0.24">89.59</inclination>
+				<radius errorminus="0.027" errorplus="0.027">0.194</radius>
+				<period errorminus="0.00026" errorplus="0.00026">10.05449</period>
+				<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2456813.4173</transittime>
+				<semimajoraxis errorminus="0.0039" errorplus="0.0039">0.0769</semimajoraxis>
+				<inclination errorminus="1.12" errorplus="0.84">88.80</inclination>
 				<eccentricity upperlimit="0.29" />
 				<periastron errorminus="70" errorplus="70">180</periastron>
 				<ascendingnode>180</ascendingnode>
@@ -4425,46 +4446,46 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. Its mass has been determined through radial velocity measurements taken with HARPS, indicating it is rocky with up to 50% of the mass in a water envelope.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/09/12</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
 				<name>EPIC 201367065 c</name>
 				<name>EPIC 201367065.02</name>
 				<name>K2-3 c</name>
-				<name>2MASS 11292037-0127173 c</name>
+				<name>2MASS J11292037-0127173 c</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.0058" errorplus="0.0143">0.1467</radius>
-				<period errorminus="0.0033" errorplus="0.0033">24.6491</period>
-				<transittime errorminus="0.0018" errorplus="0.0018" unit="BJD">2456812.2784</transittime>
-				<semimajoraxis errorminus="0.0036" errorplus="0.0036">0.1405</semimajoraxis>
-				<inclination errorminus="0.20" errorplus="0.20">89.70</inclination>
+				<radius errorminus="0.024" errorplus="0.024">0.165</radius>
+				<period errorminus="0.00117" errorplus="0.00117">24.64354</period>
+				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2456812.2812</transittime>
+				<semimajoraxis errorminus="0.0070" errorplus="0.0070">0.1399</semimajoraxis>
+				<inclination errorminus="0.86" errorplus="0.62">89.12</inclination>
 				<eccentricity upperlimit="0.20" />
 				<periastron errorminus="110" errorplus="110">89</periastron>
-				<ascendingnode errorminus="1.8">180.0</ascendingnode>
+				<ascendingnode errorminus="1.8">180</ascendingnode>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/09/12</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
 				<name>EPIC 201367065 d</name>
 				<name>K2-3 d</name>
-				<name>2MASS 11292037-0127173 d</name>
+				<name>2MASS J11292037-0127173 d</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.0098" errorplus="0.0098">0.1365</radius>
-				<period errorminus="0.00059" errorplus="0.0059">44.5705</period>
-				<semimajoraxis errorminus="0.010" errorplus="0.010">0.2086</semimajoraxis>
-				<inclination errorminus="0.15" errorplus="0.15">89.79</inclination>
+				<radius errorminus="0.021" errorplus="0.021">0.135</radius>
+				<period errorminus="0.00590" errorplus="0.00590">44.55983</period>
+				<semimajoraxis errorminus="0.0104" errorplus="0.0104">0.2076</semimajoraxis>
+				<inclination errorminus="0.64" errorplus="0.43">89.38</inclination>
 				<eccentricity upperlimit="0.19" />
 				<periastron errorminus="66" errorplus="66">351</periastron>
-				<ascendingnode errorminus="1.8">180.0</ascendingnode>
-				<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2456826.2272</transittime>
+				<ascendingnode errorminus="1.8">180</ascendingnode>
+				<transittime errorminus="0.0034" errorplus="0.0034" unit="BJD">2456826.2288</transittime>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/09/12</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -4582,44 +4603,48 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>EPIC 201445392</name>
+		<name>K2-8</name>
 		<rightascension>11 19 10.48</rightascension>
 		<declination>-00 17 03.75</declination>
 		<distance errorminus="16" errorplus="14">405</distance>
 		<star>
 			<name>EPIC 201445392</name>
 			<name>K2-8</name>
-			<mass errorminus="0.04" errorplus="0.03">0.79</mass>
-			<radius errorminus="0.03" errorplus="0.02">0.74</radius>
-			<temperature errorminus="58" errorplus="38">4890</temperature>
+			<name>2MASS J11191047-0017036</name>
+			<mass errorminus="0.04" errorplus="0.04">0.78</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.74</radius>
+			<temperature errorminus="60" errorplus="60">4870</temperature>
+			<magV errorminus="0.03" errorplus="0.03">14.61</magV>
 			<magJ errorminus="0.03" errorplus="0.03">12.83</magJ>
 			<magH errorminus="0.03" errorplus="0.03">12.32</magH>
 			<magK errorminus="0.03" errorplus="0.03">12.24</magK>
-			<metallicity errorminus="0.13" errorplus="0.11">-0.01</metallicity>
+			<metallicity errorminus="0.04" errorplus="0.04">-0.02</metallicity>
 			<planet>
 				<name>EPIC 201445392 b</name>
 				<name>EPIC 201445392.01</name>
 				<name>K2-8 b</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.047" errorplus="0.047">0.273</radius>
-				<period errorminus="0.00133" errorplus="0.00133">10.35176</period>
-				<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2456813.6119</transittime>
-				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0856</semimajoraxis>
-				<temperature errorminus="14" errorplus="14">691</temperature>
+				<radius errorminus="0.063" errorplus="0.063">0.319</radius>
+				<period errorminus="0.00086" errorplus="0.00086">10.35239</period>
+				<transittime errorminus="0.0030" errorplus="0.0030" unit="BJD">2456813.6114</transittime>
+				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0856</semimajoraxis>
+				<inclination errorminus="1.37" errorplus="2.56">86.42</inclination>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/07</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
 				<name>EPIC 201445392 c</name>
 				<name>EPIC 201445392.02</name>
-				<list>Controversial</list>
-				<radius errorminus="0.030" errorplus="0.030">0.213</radius>
-				<period errorminus="0.00063" errorplus="0.00063">5.06468</period>
-				<transittime errorminus="0.0071" errorplus="0.0071" unit="BJD">2456813.0663</transittime>
-				<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0531</semimajoraxis>
-				<temperature errorminus="17" errorplus="17">877</temperature>
+				<name>K2-8 c</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.029" errorplus="0.029">0.215</radius>
+				<period errorminus="0.00041" errorplus="0.00041">5.06416</period>
+				<transittime errorminus="0.0033" errorplus="0.0033" unit="BJD">2456813.0707</transittime>
+				<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0532</semimajoraxis>
+				<inclination errorminus="2.48" errorplus="2.48">86.70</inclination>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
@@ -4672,32 +4697,32 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<name>K2-19</name>
 			<name>2MASS J11395048+0036129</name>
 			<name>WISE J113950.46+003612.9</name>
-			<mass errorminus="0.077" errorplus="0.077">0.949</mass>
-			<radius errorminus="0.004" errorplus="0.094">0.913</radius>
-			<temperature errorminus="82" errorplus="49">5519</temperature>
+			<mass errorminus="0.05" errorplus="0.05">0.93</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.86</radius>
+			<temperature errorminus="60" errorplus="60">5430</temperature>
 			<magJ errorminus="0.02" errorplus="0.02">11.6</magJ>
 			<magH errorminus="0.02" errorplus="0.02">11.21</magH>
 			<magK errorminus="0.03" errorplus="0.03">11.16</magK>
-			<metallicity errorminus="0.1" errorplus="0.1">-0.27</metallicity>
+			<metallicity errorminus="0.04" errorplus="0.04">0.10</metallicity>
 			<planet>
 				<name>EPIC 201505350 c</name>
 				<name>EPIC 201505350.01</name>
 				<name>K2-19 c</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.0088" errorplus="0.0242">0.0500</mass>
-				<radius errorminus="0.042" errorplus="0.042">0.402</radius>
-				<period errorminus="0.0013" errorplus="0.0013">11.9068</period>
-				<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2456817.2732</transittime>
-				<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.1001</semimajoraxis>
+				<radius errorminus="0.039" errorplus="0.055">0.434</radius>
+				<period errorminus="0.00150" errorplus="0.00150">11.90715</period>
+				<transittime errorminus="0.0051" errorplus="0.0051" unit="BJD">2456817.2755</transittime>
+				<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0971</semimajoraxis>
 				<eccentricity errorminus="0.035" errorplus="0.073">0.095</eccentricity>
-				<inclination errorminus="0.41" errorplus="0.14">88.92</inclination>
+				<inclination errorminus="1.99" errorplus="1.42">87.99</inclination>
 				<periastron errorminus="68" errorplus="15">237</periastron>
 				<ascendingnode errorminus="5.6" errorplus="2.9">173.1</ascendingnode>
 				<meananomaly errorminus="34" errorplus="54">110</meananomaly>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/11/16</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -4706,20 +4731,34 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>K2-19 b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.038" errorplus="0.038">0.138</mass>
-				<radius errorminus="0.068" errorplus="0.068">0.666</radius>
-				<period errorminus="0.00040" errorplus="0.00040">7.92008</period>
-				<transittime errorminus="0.00045" errorplus="0.00045" unit="BJD">2456813.38356</transittime>
-				<semimajoraxis errorminus="0.0022" errorplus="0.0022">0.0762</semimajoraxis>
+				<radius errorminus="0.035" errorplus="0.035">0.691</radius>
+				<period errorminus="0.00005" errorplus="0.00005">7.91940</period>
+				<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2456813.3837</transittime>
+				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0740</semimajoraxis>
 				<eccentricity errorminus="0.035" errorplus="0.082">0.119</eccentricity>
-				<inclination errorminus="0.60" errorplus="0.16">88.87</inclination>
+				<inclination errorminus="0.41" errorplus="0.41">89.47</inclination>
 				<periastron errorminus="52" errorplus="52">179</periastron>
 				<ascendingnode>180</ascendingnode>
 				<meananomaly errorminus="27" errorplus="61">253</meananomaly>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/11/16</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
+			</planet>
+			<planet>
+				<name>EPIC 201505350 d</name>
+				<name>K2-19 d</name>
+				<list>Confirmed planets</list>
+				<transittime errorminus="0.0086" errorplus="0.0086" unit="BJD">24546808.9207</transittime>
+				<period errorminus="0.00041" errorplus="0.00041">2.50856</period>
+				<inclination errorminus="4.74" errorplus="2.97">85.83</inclination>
+				<radius errorminus="0.012" errorplus="0.012">0.102</radius>
+				<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0344</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<lastupdate>15/12/06</lastupdate>
 			</planet>
 		</star>
 	</system>
@@ -5140,6 +5179,53 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</binary>
 	</system>
 	<system>
+		<name>EPIC 201713348</name>
+		<rightascension>11 17 47.78</rightascension>
+		<declination>+03 51 59.0</declination>
+		<star>
+			<name>EPIC 201713348</name>
+			<name>TYC 266-622-1</name>
+			<name>2MASS J11174778+0351590</name>
+			<magB errorminus="0.378" errorplus="0.378">12.569</magB>
+			<magV errorminus="0.03" errorplus="0.03">11.80</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.034</magJ>
+			<magH errorminus="0.021" errorplus="0.021">9.549</magH>
+			<magK errorminus="0.025" errorplus="0.025">9.454</magK>
+			<temperature errorminus="60" errorplus="60">4924</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
+			<mass errorminus="0.04" errorplus="0.04">0.80</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.74</radius>
+			<planet>
+				<name>EPIC 201713348 b</name>
+				<transittime errorminus="0.0017" errorplus="0.0017" unit="BJD">2456809.4684</transittime>
+				<period errorminus="0.00005" errorplus="0.00005">1.42266</period>
+				<inclination errorminus="2.40" errorplus="1.62">87.75</inclination>
+				<radius errorminus="0.008" errorplus="0.008">0.118</radius>
+				<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0230</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 201713348 is a multi-transiting system in the K2 mission campaign 1 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>EPIC 201713348 c</name>
+				<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2456812.8422</transittime>
+				<period errorminus="0.00010" errorplus="0.00010">5.34059</period>
+				<inclination errorminus="1.63" errorplus="1.19">88.33</inclination>
+				<radius errorminus="0.028" errorplus="0.038">0.250</radius>
+				<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0555</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 201713348 is a multi-transiting system in the K2 mission campaign 1 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>EPIC 201736247</name>
 		<rightascension>11 52 26.591</rightascension>
 		<declination>+04 15 17.09</declination>
@@ -5174,33 +5260,36 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>EPIC 201754305</name>
+		<name>K2-16</name>
 		<rightascension>11 40 23.342</rightascension>
 		<declination>+04 33 26.42</declination>
 		<distance errorminus="16" errorplus="16">324</distance>
 		<star>
 			<name>EPIC 201754305</name>
 			<name>K2-16</name>
-			<mass errorminus="0.03" errorplus="0.04">0.67</mass>
-			<radius errorminus="0.03" errorplus="0.03">0.64</radius>
-			<temperature errorminus="57" errorplus="50">4761</temperature>
+			<name>2MASS J11402333+0433264</name>
+			<mass errorminus="0.03" errorplus="0.03">0.68</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.66</radius>
+			<temperature errorminus="60" errorplus="60">4742</temperature>
+			<magV errorminus="0.04" errorplus="0.04">14.67</magV>
 			<magJ errorminus="0.03" errorplus="0.03">12.76</magJ>
 			<magH errorminus="0.03" errorplus="0.03">12.21</magH>
 			<magK errorminus="0.02" errorplus="0.02">12.09</magK>
-			<metallicity errorminus="0.17" errorplus="0.12">-0.4</metallicity>
+			<metallicity errorminus="0.04" errorplus="0.04">-0.33</metallicity>
 			<planet>
 				<name>EPIC 201754305 c</name>
 				<name>EPIC 201754305.01</name>
 				<name>K2-16 c</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.038" errorplus="0.038">0.197</radius>
-				<period errorminus="0.0049" errorplus="0.0049">19.07536</period>
-				<transittime errorminus="0.0119" errorplus="0.0119" unit="BJD">2456809.4854</transittime>
-				<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.122</semimajoraxis>
-				<temperature errorminus="12" errorplus="12">523</temperature>
+				<radius errorminus="0.042" errorplus="0.100">0.227</radius>
+				<period errorminus="0.00327" errorplus="0.00327">19.07863</period>
+				<transittime errorminus="0.0091" errorplus="0.0091" unit="BJD">2456809.4800</transittime>
+				<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.1229</semimajoraxis>
+				<inclination errorminus="1.68" errorplus="1.68">87.83</inclination>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/07</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -5208,15 +5297,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>EPIC 201754305.02</name>
 				<name>K2-16 b</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.034" errorplus="0.034">0.196</radius>
-				<period errorminus="0.00095" errorplus="0.00095">7.62067</period>
-				<transittime errorminus="0.0054" errorplus="0.0054" unit="BJD">2456811.6802</transittime>
-				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0662</semimajoraxis>
-				<temperature errorminus="16" errorplus="16">710</temperature>
+				<radius errorminus="0.021" errorplus="0.021">0.180</radius>
+				<period errorminus="0.00087" errorplus="0.00087">7.61880</period>
+				<transittime errorminus="0.0038" errorplus="0.0038" unit="BJD">2456811.6871</transittime>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0667</semimajoraxis>
+				<inclination errorminus="1.86" errorplus="1.47">87.97</inclination>
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/07</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -5334,6 +5423,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<name>EPIC 203771098</name>
 			<name>2MASS J16101770-2459251</name>
+			<name>TYC 6784-837-1</name>
 			<magB errorminus="0.20" errorplus="0.20">12.22</magB>
 			<magV errorminus="0.10" errorplus="0.10">11.28</magV>
 			<magJ errorminus="0.02" errorplus="0.02">9.63</magJ>
@@ -5341,40 +5431,99 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magK errorminus="0.02" errorplus="0.02">9.18</magK>
 			<temperature errorminus="60" errorplus="60">5743</temperature>
 			<metallicity errorminus="0.04" errorplus="0.04">0.42</metallicity>
-			<mass errorminus="0.05" errorplus="0.05">1.12</mass>
-			<radius errorminus="0.11" errorplus="0.11">1.21</radius>
+			<mass errorminus="0.06" errorplus="0.06">1.12</mass>
+			<radius errorminus="0.12" errorplus="0.12">1.21</radius>
 			<age lowerlimit="3.2" upperlimit="6.9" />
 			<spectraltype>G3V</spectraltype>
 			<planet>
 				<name>EPIC 203771098 b</name>
-				<transittime errorminus="0.0007" errorplus="0.0007" unit="BJD">2456905.7948</transittime>
-				<period errorminus="0.0003" errorplus="0.0003">20.8851</period>
-				<inclination errorminus="0.61" errorplus="0.49">89.25</inclination>
-				<semimajoraxis errorminus="0.002" errorplus="0.002">0.154</semimajoraxis>
-				<radius errorminus="0.050" errorplus="0.050">0.507</radius>
+				<transittime errorminus="0.0007" errorplus="0.0007" unit="BJD">2456905.7950</transittime>
+				<period errorminus="0.00036" errorplus="0.00036">20.88508</period>
+				<inclination errorminus="0.62" errorplus="0.62">88.95</inclination>
+				<semimajoraxis errorminus="0.0026" errorplus="0.0026">0.1542</semimajoraxis>
+				<radius errorminus="0.054" errorplus="0.054">0.520</radius>
 				<mass errorminus="0.017" errorplus="0.017">0.066</mass>
 				<istransiting>1</istransiting>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
 				<description>EPIC 203771098 is a metal-rich G3 dwarf hosting two low-density, sub-Saturn planets in orbits close to the 2:1 mean-motion resonance. The system was discovered using K2 photometry and radial velocities were measured with Keck/HIRES, allowing determination of the planetary masses.</description>
-				<lastupdate>15/11/21</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<list>Confirmed planets</list>
 			</planet>
 			<planet>
 				<name>EPIC 203771098 c</name>
-				<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2456915.6251</transittime>
-				<period errorminus="0.0006" errorplus="0.0006">42.3633</period>
-				<inclination errorminus="0.21" errorplus="0.18">89.76</inclination>
-				<semimajoraxis errorminus="0.004" errorplus="0.004">0.247</semimajoraxis>
-				<radius errorminus="0.064" errorplus="0.064">0.698</radius>
+				<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2456915.6250</transittime>
+				<period errorminus="0.00063" errorplus="0.00063">42.36342</period>
+				<inclination errorminus="0.17" errorplus="0.26">89.43</inclination>
+				<semimajoraxis errorminus="0.0041" errorplus="0.0041">0.2471</semimajoraxis>
+				<radius errorminus="0.073" errorplus="0.073">0.723</radius>
 				<mass errorminus="0.0217" errorplus="0.0217">0.0850</mass>
 				<istransiting>1</istransiting>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
 				<description>EPIC 203771098 is a metal-rich G3 dwarf hosting two low-density, sub-Saturn planets in orbits close to the 2:1 mean-motion resonance. The system was discovered using K2 photometry and radial velocities were measured with Keck/HIRES, allowing determination of the planetary masses.</description>
-				<lastupdate>15/11/21</lastupdate>
+				<lastupdate>15/12/06</lastupdate>
 				<list>Confirmed planets</list>
-				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>EPIC 203826436</name>
+		<rightascension>16 13 48.24</rightascension>
+		<declination>-24 47 13.4</declination>
+		<star>
+			<name>EPIC 203826436</name>
+			<name>J16134824-2447132</name>
+			<magB errorminus="0.010" errorplus="0.010">13.463</magB>
+			<magV errorminus="0.030" errorplus="0.030">12.568</magV>
+			<magJ errorminus="0.022" errorplus="0.022">10.692</magJ>
+			<magH errorminus="0.021" errorplus="0.021">10.214</magH>
+			<magK errorminus="0.021" errorplus="0.021">10.142</magK>
+			<temperature errorminus="60" errorplus="60">5413</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
+			<mass errorminus="0.05" errorplus="0.05">0.90</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.85</radius>
+			<planet>
+				<name>EPIC 203826436 b</name>
+				<transittime errorminus="0.0080" errorplus="0.0080" unit="BJD">2456893.7013</transittime>
+				<period errorminus="0.00075" errorplus="0.00075">4.44117</period>
+				<inclination errorminus="3.37" errorplus="1.95">87.28</inclination>
+				<radius errorminus="0.015" errorplus="0.015">0.144</radius>
+				<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0511</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>EPIC 203826436 c</name>
+				<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2456898.8603</transittime>
+				<period errorminus="0.00036" errorplus="0.00036">6.42904</period>
+				<inclination errorminus="2.50" errorplus="1.83">87.37</inclination>
+				<radius errorminus="0.024" errorplus="0.024">0.245</radius>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0654</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>EPIC 203826436 d</name>
+				<transittime errorminus="0.0031" errorplus="0.0031" unit="BJD">2456907.2315</transittime>
+				<period errorminus="0.00135" errorplus="0.00135">14.09189</period>
+				<inclination errorminus="1.65" errorplus="1.18">88.34</inclination>
+				<radius errorminus="0.032" errorplus="0.032">0.244</radius>
+				<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.1103</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
 			</planet>
 		</star>
 	</system>
@@ -5406,6 +5555,115 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<discoveryyear>2015</discoveryyear>
 				<description>EPIC 204129699 b is the first confirmed transiting hot Jupiter discovered by the K2 mission. The transits are grazing which results in poor constraints on the planetary radius.</description>
 				<lastupdate>15/11/15</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>EPIC 204221263</name>
+		<rightascension>16 00 08.06</rightascension>
+		<declination>-23 11 21.4</declination>
+		<star>
+			<name>EPIC 204221263</name>
+			<name>TYC 6779-268-1</name>
+			<name>2MASS J16000805-2311213</name>
+			<magB errorminus="0.246" errorplus="0.246">12.344</magB>
+			<magV errorminus="0.03" errorplus="0.03">11.39</magV>
+			<magJ errorminus="0.024" errorplus="0.024">9.911</magJ>
+			<magH errorminus="0.026" errorplus="0.026">9.600</magH>
+			<magK errorminus="0.021" errorplus="0.021">9.470</magK>
+			<temperature errorminus="60" errorplus="60">5757</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">0.28</metallicity>
+			<mass errorminus="0.05" errorplus="0.05">1.07</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.10</radius>
+			<planet>
+				<name>EPIC 204221263 b</name>
+				<transittime errorminus="0.0054" errorplus="0.0054" unit="BJD">2456896.8786</transittime>
+				<period errorminus="0.00050" errorplus="0.00050">4.01593</period>
+				<inclination errorminus="3.08" errorplus="1.88">87.28</inclination>
+				<radius errorminus="0.014" errorplus="0.014">0.138</radius>
+				<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0506</semimajoraxis>
+				<mass errorminus="0.0091" errorplus="0.0091">0.0378</mass>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 204221263 is a multi-transiting system in the K2 mission campaign 2 field. Radial velocity measurements with Keck/HIRES have allowed the determination of the planetary masses. The radial velocities exhibit a linear trend indicating the presence of an additional non-transiting companion in the system.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>EPIC 204221263 c</name>
+				<transittime errorminus="0.0033" errorplus="0.0033" unit="BJD">2456900.4752</transittime>
+				<period errorminus="0.00090" errorplus="0.00090">10.56103</period>
+				<inclination errorminus="1.67" errorplus="1.00">88.61</inclination>
+				<radius errorminus="0.026" errorplus="0.026">0.216</radius>
+				<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0964</semimajoraxis>
+				<mass errorminus="0.014" errorplus="0.014">0.031</mass>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 204221263 is a multi-transiting system in the K2 mission campaign 2 field. Radial velocity measurements with Keck/HIRES have allowed the determination of the planetary masses. The radial velocities exhibit a linear trend indicating the presence of an additional non-transiting companion in the system.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>EPIC 205071984</name>
+		<rightascension>16 49 42.26</rightascension>
+		<declination>-19 32 34.2</declination>
+		<star>
+			<name>EPIC 205071984</name>
+			<name>2MASS J16494226-1932340</name>
+			<magB errorminus="0.042" errorplus="0.042">13.278</magB>
+			<magV errorminus="0.030" errorplus="0.030">12.307</magV>
+			<magJ errorminus="0.024" errorplus="0.024">10.404</magJ>
+			<magH errorminus="0.025" errorplus="0.025">9.993</magH>
+			<magK errorminus="0.019" errorplus="0.019">9.821</magK>
+			<temperature errorminus="60" errorplus="60">5315</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
+			<mass errorminus="0.04" errorplus="0.04">0.87</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.87</radius>
+			<planet>
+				<name>EPIC 205071984 b</name>
+				<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2456900.9258</transittime>
+				<period errorminus="0.00020" errorplus="0.00020">8.99218</period>
+				<inclination errorminus="0.90" errorplus="0.69">89.00</inclination>
+				<radius errorminus="0.031" errorplus="0.031">0.480</radius>
+				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0808</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>EPIC 205071984 c</name>
+				<transittime errorminus="0.0101" errorplus="0.0101" unit="BJD">2456899.4306</transittime>
+				<period errorminus="0.00598" errorplus="0.00598">20.65614</period>
+				<inclination errorminus="2.68" errorplus="1.32">88.23</inclination>
+				<radius errorminus="0.037" errorplus="0.087">0.310</radius>
+				<semimajoraxis errorminus="0.0031" errorplus="0.0031">0.1873</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>EPIC 205071984 d</name>
+				<transittime errorminus="0.0031" errorplus="0.0031" unit="BJD">2456903.7846</transittime>
+				<period errorminus="0.00236" errorplus="0.00236">31.71922</period>
+				<inclination errorminus="0.65" errorplus="1.06">88.40</inclination>
+				<radius errorminus="0.036" errorplus="0.036">0.335</radius>
+				<semimajoraxis errorminus="0.0031" errorplus="0.0031">0.1873</semimajoraxis>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
+				<lastupdate>15/12/06</lastupdate>
 				<list>Confirmed planets</list>
 			</planet>
 		</star>
@@ -5462,6 +5720,79 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
 				<lastupdate>15/07/31</lastupdate>
 				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>EPIC 206318379</name>
+		<rightascension>22 22 29.85</rightascension>
+		<declination>-07 57 19.3</declination>
+		<distance errorminus="8" errorplus="8">53</distance>
+		<star>
+			<name>EPIC 206318379</name>
+			<name>2MASS J22222988-0757195</name>
+			<magJ errorminus="0.03" errorplus="0.03">11.70</magJ>
+			<magH errorminus="0.02" errorplus="0.02">11.03</magH>
+			<magK errorminus="0.02" errorplus="0.02">10.75</magK>
+			<temperature errorminus="60" errorplus="60">3214</temperature>
+			<metallicity errorminus="0.13" errorplus="0.13">0.31</metallicity>
+			<radius errorminus="0.030" errorplus="0.030">0.293</radius>
+			<mass errorminus="0.050" errorplus="0.050">0.264</mass>
+			<spectraltype>M4V</spectraltype>
+			<planet>
+				<name>EPIC 206318379 b</name>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="0.88" errorplus="0.57">89.14</inclination>
+				<radius errorminus="0.022" errorplus="0.022">0.212</radius>
+				<period errorminus="0.000018" errorplus="0.000018">2.260410</period>
+				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0216</semimajoraxis>
+				<transittime errorminus="0.00058" errorplus="0.00058">2457242.46140</transittime>
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 206318379 b is a validated super-Earth candidate in the K2 Campaign 3 field. The planet has a similar radius and insolation to GJ 1214 b.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>EPIC 210490365</name>
+		<rightascension>04 13 05.61</rightascension>
+		<declination>+15 14 52.00</declination>
+		<distance errorminus="3.3" errorplus="3.3">45.7</distance>
+		<star>
+			<name>EPIC 210490365</name>
+			<name>2MASS J04130560+1514520</name>
+			<name>Melotte 25 VA 50</name>
+			<name>Melotte 25 HAN 87</name>
+			<magB errorminus="0.289" errorplus="0.289">17.760</magB>
+			<magV errorminus="0.030" errorplus="0.030">15.881</magV>
+			<magJ errorminus="0.021" errorplus="0.021">11.303</magJ>
+			<magH errorminus="0.020" errorplus="0.020">10.732</magH>
+			<magK errorminus="0.019" errorplus="0.019">10.444</magK>
+			<spectraltype errorminus="0.3">M4.5</spectraltype>
+			<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
+			<temperature errorminus="60" errorplus="60">3180</temperature>
+			<mass errorminus="0.021" errorplus="0.021">0.294</mass>
+			<radius errorminus="0.020" errorplus="0.020">0.295</radius>
+			<age lowerlimit="650" upperlimit="800" />
+			<planet>
+				<name>EPIC 210490365 b</name>
+				<period errorminus="0.000037" errorplus="0.000031">3.484552</period>
+				<transittime errorminus="0.00024" errorplus="0.00049" unit="BJD">2457062.57935</transittime>
+				<inclination errorminus="0.70" errorplus="1.16">88.32</inclination>
+				<eccentricity errorminus="0.21" errorplus="0.16">0.27</eccentricity>
+				<periastron errorminus="39.28" errorplus="44.46">62.10</periastron>
+				<radius errorminus="0.028" errorplus="0.085">0.306</radius>
+				<mass upperlimit="3" />
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>EPIC 210490365 b is a Neptune-sized planet orbiting a red dwarf star in the Hyades cluster.</description>
+				<lastupdate>15/12/06</lastupdate>
+				<list>Confirmed planets</list>
+				<list>Planets in open clusters</list>
 			</planet>
 		</star>
 	</system>
@@ -5544,16 +5875,28 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>eps Eridani</name>
-		<rightascension>03 32 55</rightascension>
-		<declination>-09 27 29</declination>
-		<distance>3.2</distance>
+		<rightascension>03 32 55.84496</rightascension>
+		<declination>-09 27 29.7312</declination>
+		<distance errorminus="0.0017" errorplus="0.0017">3.2161</distance>
 		<star>
 			<name>eps Eridani</name>
 			<name>eps Eri</name>
+			<name>Epsilon Eridani</name>
+			<name>&#949; Eri</name>
+			<name>&#949; Eridani</name>
+			<name>18 Eri</name>
+			<name>18 Eridani</name>
 			<name>HR 1084</name>
 			<name>HD 22049</name>
-			<mass>0.83</mass>
-			<radius>0.895</radius>
+			<name>HIP 16537</name>
+			<name>TYC 5296-1533-1</name>
+			<name>SAO 130564</name>
+			<name>Gliese 144</name>
+			<name>GJ 144</name>
+			<name>BD-09 697</name>
+			<name>2MASS J03325591-0927298</name>
+			<mass>0.82</mass>
+			<radius errorminus="0.010" errorplus="0.010">0.743</radius>
 			<magV>3.73</magV>
 			<magR>3.00</magR>
 			<magI>2.54</magI>
@@ -5561,72 +5904,109 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<magJ errorminus="0.298" errorplus="0.298">2.228</magJ>
 			<magH errorminus="0.276" errorplus="0.276">1.880</magH>
 			<magK errorminus="0.286" errorplus="0.286">1.776</magK>
-			<metallicity>-0.13</metallicity>
+			<temperature errorminus="100" errorplus="100">5135</temperature>
+			<metallicity>-0.07</metallicity>
 			<spectraltype>K2 V</spectraltype>
+			<age errorminus="0.2" errorplus="0.2">0.7</age>
 			<planet>
 				<name>eps Eridani b</name>
 				<name>eps Eri b</name>
+				<name>Epsilon Eridani b</name>
+				<name>&#949; Eri b</name>
+				<name>&#949; Eridani b</name>
+				<name>18 Eri b</name>
+				<name>18 Eridani b</name>
 				<name>HR 1084 b</name>
 				<name>HD 22049 b</name>
 				<list>Controversial</list>
-				<mass>1.55</mass>
-				<period>2502</period>
-				<semimajoraxis>3.39</semimajoraxis>
-				<eccentricity>0.702</eccentricity>
-				<inclination>30.1</inclination>
+				<mass errorminus="0.058" errorplus="0.058" type="msini">0.645</mass>
+				<period errorminus="36" errorplus="36">2651</period>
+				<semimajoraxis>3.51</semimajoraxis>
+				<eccentricity errorminus="0.11" errorplus="0.11">0.40</eccentricity>
+				<periastron errorminus="9.8" errorplus="9.8">141.4</periastron>
+				<meananomaly errorminus="12" errorplus="12">9</meananomaly>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/10/19</lastupdate>
+				<lastupdate>15/11/12</lastupdate>
 				<discoveryyear>2000</discoveryyear>
-				<temperature>111.8</temperature>
+				<description>The planet eps Eri b has been inferred from radial velocities. The host star is active and recent studies have resulted in either non-detection of the planet (Zechmeister et al. 2013) or orbital parameters incompatible with previous solutions (Anglada-Escud&#233; &amp; Butler 2012). The radial velocity variations may therefore be related to a stellar activity cycle rather than an orbiting planet.</description>
 			</planet>
-			<temperature>5116.0</temperature>
 		</star>
 		<videolink>http://youtu.be/gUwIp4_smcY</videolink>
 	</system>
 	<system>
 		<name>eps Tau</name>
-		<rightascension>04 28 37</rightascension>
-		<declination>+19 10 50</declination>
-		<distance>45</distance>
+		<rightascension>04 28 36.99882</rightascension>
+		<declination>+19 10 49.5446</declination>
+		<distance errorminus="0.51" errorplus="0.51">44.96</distance>
 		<star>
-			<mass>2.7</mass>
-			<radius>13.7</radius>
-			<magV>3.53</magV>
+			<name>eps Tau</name>
+			<name>eps Tauri</name>
+			<name>Epsilon Tauri</name>
+			<name>&#949; Tau</name>
+			<name>&#949; Tauri</name>
+			<name>74 Tau</name>
+			<name>74 Tauri</name>
+			<name>Ain</name>
+			<name>Oculus Borealis</name>
+			<name>HD 28305</name>
+			<name>HIP 20889</name>
+			<name>TYC 1273-1104-1</name>
+			<name>SAO 93954</name>
+			<name>HR 1409</name>
+			<name>BD+18 640</name>
+			<name>2MASS J04283697+1910494</name>
+			<name>Melotte 25 S 3</name>
+			<name>Melotte 25 MMU 70</name>
+			<mass errorminus="0.1" errorplus="0.1">2.7</mass>
+			<radius errorminus="0.6" errorplus="0.6">13.7</radius>
+			<magV errorminus="0.05" errorplus="0.05">3.53</magV>
 			<magB>4.549</magB>
 			<magJ errorminus="0.284" errorplus="0.284">1.748</magJ>
 			<magH errorminus="0.226" errorplus="0.226">1.314</magH>
 			<magK errorminus="0.05" errorplus="0.05">1.31</magK>
-			<metallicity>0.17</metallicity>
 			<spectraltype>K0 III</spectraltype>
+			<temperature errorminus="20" errorplus="20">4901</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">0.17</metallicity>
 			<planet>
 				<name>eps Tau b</name>
+				<name>eps Tauri b</name>
+				<name>Epsilon Tauri b</name>
+				<name>&#949; Tau b</name>
+				<name>&#949; Tauri b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in open clusters</list>
-				<mass>7.6</mass>
-				<period>594.9</period>
-				<semimajoraxis>1.93</semimajoraxis>
-				<eccentricity>0.151</eccentricity>
+				<mass errorminus="0.2" errorplus="0.2" type="msini">7.6</mass>
+				<period errorminus="5.3" errorplus="5.3">594.9</period>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">1.93</semimajoraxis>
+				<eccentricity errorminus="0.023" errorplus="0.023">0.151</eccentricity>
+				<periastron errorminus="7.4" errorplus="7.4">94.4</periastron>
+				<periastrontime errorminus="12" errorplus="12">2452879</periastrontime>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>07/02/07</lastupdate>
+				<description>Epsilon Tauri b orbits a giant star in the Hyades cluster.</description>
+				<lastupdate>15/12/11</lastupdate>
 				<discoveryyear>2007</discoveryyear>
-				<temperature>574.9</temperature>
 			</planet>
-			<name>eps Tau</name>
-			<temperature>4901.0</temperature>
 		</star>
 	</system>
 	<system>
 		<name>eta Cet</name>
 		<rightascension>01 08 35.39148</rightascension>
 		<declination>-10 10 56.1570</declination>
-		<distance errorminus="0.2" errorplus="0.2">37.99</distance>
+		<distance errorminus="0.20" errorplus="0.20">37.99</distance>
 		<star>
 			<name>eta Cet</name>
 			<name>Eta Ceti</name>
+			<name>&#951; Cet</name>
+			<name>&#951; Ceti</name>
 			<name>Deneb Algenubi</name>
 			<name>HIP 5364</name>
 			<name>HD 6805</name>
 			<name>HR 334</name>
+			<name>TYC 5273-2657-1</name>
+			<name>SAO 147632</name>
+			<name>BD-10 240</name>
+			<name>GJ 3075</name>
+			<name>2MASS J01083539-1010560</name>
 			<magV>3.45</magV>
 			<magB>4.61</magB>
 			<magR>2.61</magR>
@@ -5637,7 +6017,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<radius errorminus="0.2" errorplus="0.2">14.3</radius>
 			<mass errorminus="0.1" errorplus="0.1">1.7</mass>
 			<spectraltype>K1III</spectraltype>
-			<temperature errorminus="19" errorplus="19">4528.0</temperature>
+			<temperature errorminus="19" errorplus="19">4528</temperature>
 			<metallicity errorminus="0.1" errorplus="0.1">0.12</metallicity>
 			<planet>
 				<name>eta Cet b</name>
@@ -5648,13 +6028,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>HR 334 b</name>
 				<list>Confirmed planets</list>
 				<semimajoraxis>1.27</semimajoraxis>
-				<periastron errorminus="20.5" errorplus="20.5">250.6</periastron>
-				<eccentricity errorminus="0.05" errorplus="0.05">0.13</eccentricity>
-				<period errorminus="1.5" errorplus="1.5">403.5</period>
-				<mass errorminus="0.13" errorplus="0.13">2.55</mass>
+				<periastron errorminus="13.5" errorplus="13.5">247.2</periastron>
+				<eccentricity errorminus="0.05" errorplus="0.05">0.17</eccentricity>
+				<period errorminus="2.1" errorplus="2.1">407.3</period>
+				<mass errorminus="0.12" errorplus="0.12">2.46</mass>
+				<meananomaly errorminus="16.1" errorplus="16.1">208.9</meananomaly>
+				<inclination>81.9</inclination>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/07/05</lastupdate>
+				<lastupdate>15/12/11</lastupdate>
 			</planet>
 			<planet>
 				<name>eta Cet c</name>
@@ -5665,13 +6047,15 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<name>HR 334 c</name>
 				<list>Confirmed planets</list>
 				<semimajoraxis>1.93</semimajoraxis>
-				<periastron errorminus="5.2" errorplus="5.2">67.54</periastron>
-				<eccentricity errorminus="0.06" errorplus="0.06">0.1</eccentricity>
-				<period errorminus="3.8" errorplus="3.8">751.9</period>
-				<mass errorminus="0.18" errorplus="0.18">3.32</mass>
+				<periastron errorminus="41.1" errorplus="41.1">36.67</periastron>
+				<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
+				<period errorminus="4.1" errorplus="4.1">744.3</period>
+				<mass errorminus="0.2" errorplus="0.2">3.16</mass>
+				<meananomaly errorminus="41.2" errorplus="41.2">262.7</meananomaly>
+				<inclination>81.9</inclination>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/07/05</lastupdate>
+				<lastupdate>15/12/11</lastupdate>
 				<description>The planetary system eta Ceti contains at least two planets. The planets are in, or at least close, to a 2:1 mean motion resonance. Such resonances occur naturally as a consequence of convergent planetary migration.</description>
 			</planet>
 		</star>
@@ -5941,18 +6325,58 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>HR 8974</name>
 		<name>HD 222404</name>
 		<name>HIP 116727</name>
-		<rightascension>23 39 20</rightascension>
-		<declination>+77 37 56</declination>
-		<distance>13.79</distance>
+		<rightascension>23 39 20.85153</rightascension>
+		<declination>+77 37 56.1876</declination>
+		<distance errorminus="0.080" errorplus="0.080">14.102</distance>
 		<binary>
+			<name>gamma Cephei</name>
+			<name>Gamma Cephei</name>
+			<name>gam Cep</name>
+			<name>&#947; Cep</name>
+			<name>&#947; Cephei</name>
+			<name>35 Cep</name>
+			<name>35 Cephei</name>
+			<name>Errai</name>
+			<name>Alrai</name>
+			<name>Gliese 903</name>
+			<name>GJ 903</name>
+			<name>HR 8974</name>
+			<name>HD 222404</name>
+			<name>HIP 116727</name>
+			<name>TYC 4606-3584-1</name>
+			<name>BD+76 928</name>
+			<name>2MASS J23392083+7737563</name>
+			<name>WDS J23393+7738</name>
+			<name>NHR 9</name>
 			<semimajoraxis errorminus="0.66" errorplus="0.66">20.18</semimajoraxis>
 			<eccentricity errorminus="0.0063" errorplus="0.0063">0.4112</eccentricity>
-			<period errorminus="1.4" errorplus="1.4">67.5</period>
+			<period errorminus="511" errorplus="511">24654</period>
+			<periastron errorminus="0.40" errorplus="0.40">161.01</periastron>
+			<periastrontime errorminus="11.3" errorplus="11.3">2448478.3</periastrontime>
+			<ascendingnode errorminus="0.98">18.04</ascendingnode>
 			<star>
+				<name>gamma Cephei A</name>
 				<name>Gamma Cephei A</name>
-				<mass errorminus="0.12" errorplus="0.12">1.4</mass>
+				<name>gam Cep A</name>
+				<name>&#947; Cep A</name>
+				<name>&#947; Cephei A</name>
+				<name>35 Cep A</name>
+				<name>35 Cephei A</name>
+				<name>Errai A</name>
+				<name>Alrai A</name>
+				<name>Gliese 903 A</name>
+				<name>GJ 903 A</name>
+				<name>HR 8974 A</name>
+				<name>HD 222404 A</name>
+				<name>HIP 116727 A</name>
+				<name>TYC 4606-3584-1 A</name>
+				<name>BD+76 928 A</name>
+				<name>2MASS J23392083+7737563 A</name>
+				<name>WDS J23393+7738 A</name>
+				<name>NHR 9 A</name>
+				<mass errorminus="0.12" errorplus="0.12">1.40</mass>
 				<radius>4.9</radius>
-				<magV>3.22</magV>
+				<magV errorminus="0.009" errorplus="0.009">3.220</magV>
 				<magB errorminus="0.007" errorplus="0.007">4.250</magB>
 				<magR>2.6</magR>
 				<magI>2.1</magI>
@@ -5965,24 +6389,44 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<planet>
 					<name>Gamma Cephei b</name>
 					<name>Gamma Cephei A b</name>
-					<name>gam Cep b</name>
-					<name>HD 222404b</name>
+					<name>gam Cep A b</name>
+					<name>HD 222404 A b</name>
 					<list>Confirmed planets</list>
-					<mass errorminus="0.16" errorplus="0.16">1.85</mass>
+					<mass errorminus="0.16" errorplus="0.16" type="msini">1.85</mass>
 					<period errorminus="1.5" errorplus="1.5">903.3</period>
 					<semimajoraxis errorminus="0.06" errorplus="0.06">2.05</semimajoraxis>
 					<eccentricity errorminus="0.034" errorplus="0.034">0.049</eccentricity>
-					<inclination>5.7</inclination>
+					<periastron errorminus="34.6" errorplus="34.6">94.6</periastron>
+					<periastrontime errorminus="87" errorplus="87">2453227</periastrontime>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>11/01/14</lastupdate>
+					<lastupdate>15/12/12</lastupdate>
 					<discoveryyear>2003</discoveryyear>
-					<temperature>327.2</temperature>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 			<star>
+				<name>gamma Cephei B</name>
 				<name>Gamma Cephei B</name>
+				<name>gam Cep B</name>
+				<name>&#947; Cep B</name>
+				<name>&#947; Cephei B</name>
+				<name>35 Cep B</name>
+				<name>35 Cephei B</name>
+				<name>Errai B</name>
+				<name>Alrai B</name>
+				<name>Gliese 903 B</name>
+				<name>GJ 903 B</name>
+				<name>HR 8974 B</name>
+				<name>HD 222404 B</name>
+				<name>HIP 116727 B</name>
+				<name>TYC 4606-3584-1 B</name>
+				<name>BD+76 928 B</name>
+				<name>2MASS J23392083+7737563 B</name>
+				<name>WDS J23393+7738 B</name>
+				<name>NHR 9 B</name>
+				<magK errorminus="0.2" errorplus="0.2">7.3</magK>
 				<mass errorminus="0.018" errorplus="0.018">0.409</mass>
+				<spectraltype>M4</spectraltype>
 			</star>
 		</binary>
 		<videolink>http://youtu.be/lJ3HMtDK4ms</videolink>
@@ -6156,7 +6600,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<eccentricity errorminus="0.06" errorplus="0.20">0.06</eccentricity>
 				<periastron>350</periastron>
 				<meananomaly>10</meananomaly>
-				<mass errorminus="0.0186" errorplus="0.0227">0.0321</mass>
+				<mass errorminus="0.0186" errorplus="0.0227" type="msini">0.0321</mass>
 				<semimajoraxis errorminus="0.007" errorplus="0.004">0.053</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -6196,7 +6640,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<eccentricity errorminus="0.11" errorplus="0.14">0.11</eccentricity>
 				<periastron>10</periastron>
 				<meananomaly>290</meananomaly>
-				<mass errorminus="0.017" errorplus="0.011">0.026</mass>
+				<mass errorminus="0.017" errorplus="0.011" type="msini">0.026</mass>
 				<semimajoraxis errorminus="0.014" errorplus="0.006">0.103</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -6266,7 +6710,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 					<eccentricity errorminus="0.10" errorplus="0.22">0.10</eccentricity>
 					<periastron>150</periastron>
 					<meananomaly>230</meananomaly>
-					<mass errorminus="0.050" errorplus="0.053">0.101</mass>
+					<mass errorminus="0.050" errorplus="0.053" type="msini">0.101</mass>
 					<semimajoraxis errorminus="0.09" errorplus="0.12">0.97</semimajoraxis>
 					<discoverymethod>RV</discoverymethod>
 					<discoveryyear>2014</discoveryyear>
@@ -6322,7 +6766,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<eccentricity errorminus="0.08" errorplus="0.18">0.08</eccentricity>
 				<periastron>150</periastron>
 				<meananomaly>330</meananomaly>
-				<mass errorminus="0.0208" errorplus="0.0129">0.0409</mass>
+				<mass errorminus="0.0208" errorplus="0.0129" type="msini">0.0409</mass>
 				<semimajoraxis errorminus="0.013" errorplus="0.009">0.101</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -6364,7 +6808,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<eccentricity errorminus="0.05" errorplus="0.21">0.05</eccentricity>
 				<periastron>250</periastron>
 				<meananomaly>70</meananomaly>
-				<mass errorminus="0.013" errorplus="0.018">0.031</mass>
+				<mass errorminus="0.013" errorplus="0.018" type="msini">0.031</mass>
 				<semimajoraxis errorminus="0.011" errorplus="0.014">0.119</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -6405,7 +6849,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<eccentricity errorminus="0.08" errorplus="0.19">0.08</eccentricity>
 				<periastron>90</periastron>
 				<meananomaly>30</meananomaly>
-				<mass errorminus="0.012" errorplus="0.012">0.014</mass>
+				<mass errorminus="0.012" errorplus="0.012" type="msini">0.014</mass>
 				<semimajoraxis errorminus="0.004" errorplus="0.014">0.080</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -6420,7 +6864,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<eccentricity errorminus="0.10" errorplus="0.19">0.10</eccentricity>
 				<periastron>320</periastron>
 				<meananomaly>240</meananomaly>
-				<mass errorminus="0.014" errorplus="0.018">0.027</mass>
+				<mass errorminus="0.014" errorplus="0.018" type="msini">0.027</mass>
 				<semimajoraxis errorminus="0.009" errorplus="0.030">0.176</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2014</discoveryyear>
@@ -6481,24 +6925,41 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<name>Gliese 15</name>
 		<rightascension>00 18 22.88532</rightascension>
 		<declination>+44 01 22.6282</declination>
-		<distance errorminus="0.01" errorplus="0.01">3.587</distance>
+		<distance errorminus="0.010" errorplus="0.010">3.587</distance>
 		<binary>
-			<period>949650</period>
-			<magV errorminus="0.01" errorplus="0.01">8.13</magV>
-			<magB>9.63</magB>
-			<magI>6.4</magI>
-			<magJ>5.25</magJ>
-			<magH>4.48</magH>
-			<magK>4.02</magK>
-			<separation unit="AU">146</separation>
-			<separation unit="arcsec" />
+			<name>Gliese 15</name>
+			<name>GJ 15</name>
+			<name>Groombridge 34</name>
+			<name>BD+43 44</name>
+			<name>WDS J00184+4401</name>
+			<period errorminus="94600" errorplus="94600">457700</period>
+			<semimajoraxis errorminus="12.7" errorplus="12.7">95.9</semimajoraxis>
+			<inclination errorminus="11" errorplus="11">46</inclination>
+			<ascendingnode errorminus="25">243</ascendingnode>
+			<periastrontime errorminus="29600" errorplus="29600">2571000</periastrontime>
+			<eccentricity errorminus="0.19" errorplus="0.19">0.59</eccentricity>
+			<periastron errorminus="32" errorplus="32">331</periastron>
 			<star>
 				<name>Gliese 15 A</name>
+				<name>GJ 15 A</name>
 				<name>HD 1326 A</name>
 				<name>HIP 1475</name>
+				<name>TYC 2794-157-1</name>
+				<name>SAO 36248</name>
 				<name>GX Andromedae</name>
 				<name>GX And</name>
 				<name>Groombridge 34</name>
+				<name>BD+43 44 A</name>
+				<name>WDS J00184+4401 A</name>
+				<name>2MASS J00182256+4401222</name>
+				<magU>10.30</magU>
+				<magB>9.63</magB>
+				<magV errorminus="0.01" errorplus="0.01">8.13</magV>
+				<magR>7.3</magR>
+				<magI>6.4</magI>
+				<magJ>5.25</magJ>
+				<magH>4.48</magH>
+				<magK>4.02</magK>
 				<mass errorminus="0.057" errorplus="0.057">0.375</mass>
 				<radius errorminus="0.0021" errorplus="0.0021">0.3863</radius>
 				<temperature errorminus="11" errorplus="11">3567</temperature>
@@ -6511,26 +6972,40 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 					<name>GX Andromedae b</name>
 					<name>Groombridge 34 b</name>
 					<list>Confirmed planets</list>
-					<mass errorminus="0.002359" errorplus="0.002359">0.016829</mass>
+					<mass errorminus="0.00236" errorplus="0.00236" type="msini">0.01683</mass>
 					<period errorminus="0.0016" errorplus="0.0016">11.4433</period>
 					<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.0717</semimajoraxis>
 					<eccentricity>0</eccentricity>
+					<transittime errorminus="0.21" errorplus="0.21">2455874.95</transittime>
+					<istransiting>0</istransiting>
 					<description>Gliese 15 A b, also known as Groombridge 34 b, is a 5 Earth-mass planet in a nearby M-dwarf binary.</description>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>14/08/26</lastupdate>
+					<lastupdate>15/12/12</lastupdate>
 					<discoveryyear>2014</discoveryyear>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 			<star>
 				<name>Gliese 15 B</name>
+				<name>GJ 15 B</name>
 				<name>HD 1326 B</name>
+				<name>GQ And</name>
+				<name>GQ Andromedae</name>
+				<name>Groombridge 34 B</name>
+				<name>BD+43 44 B</name>
+				<name>WDS J00184+4401 B</name>
+				<name>2MASS J00182549+4401376</name>
+				<magB>12.84</magB>
+				<magV>11.04</magV>
+				<magR>10.3</magR>
+				<magJ errorminus="0.024" errorplus="0.024">6.789</magJ>
+				<magH errorminus="0.016" errorplus="0.016">6.191</magH>
+				<magK errorminus="0.024" errorplus="0.024">5.948</magK>
 				<spectraltype>M3.5</spectraltype>
 				<mass>0.163</mass>
 				<radius>0.19</radius>
 				<name>GQ And</name>
 			</star>
-			<semimajoraxis>146</semimajoraxis>
 		</binary>
 	</system>
 	<system>
@@ -10852,7 +11327,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<description>HATS-15b is a massive planet transiting a G9V star.</description>
 				<lastupdate>15/11/26</lastupdate>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -10891,7 +11365,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<description>HATS-16b is a massive planet transiting a G3V star.</description>
 				<lastupdate>15/11/26</lastupdate>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -20497,6 +20970,44 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>HD 32963</name>
+		<rightascension>05 07 55.76384</rightascension>
+		<declination>+26 19 40.6623</declination>
+		<distance errorminus="0.95" errorplus="0.95">36.39</distance>
+		<star>
+			<name>HD 32963</name>
+			<name>HIP 23884</name>
+			<name>TYC 1853-1187-1</name>
+			<name>SAO 76970</name>
+			<name>BD+26 789</name>
+			<name>2MASS J05075576+2619408</name>
+			<magB>8.22</magB>
+			<magV>7.59</magV>
+			<magJ errorminus="0.023" errorplus="0.023">6.420</magJ>
+			<magH errorminus="0.018" errorplus="0.018">6.098</magH>
+			<magK errorminus="0.016" errorplus="0.016">6.024</magK>
+			<spectraltype>G3V</spectraltype>
+			<temperature errorminus="32" errorplus="32">5727</temperature>
+			<metallicity errorminus="0.05" errorplus="0.05">0.11</metallicity>
+			<age errorminus="3.55" errorplus="6.71">4.99</age>
+			<mass>0.94</mass>
+			<planet>
+				<name>HD 32963 b</name>
+				<period errorminus="26" errorplus="26">2372</period>
+				<mass errorminus="0.03" errorplus="0.03" type="msini">0.70</mass>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.07</eccentricity>
+				<periastron errorminus="35" errorplus="35">107</periastron>
+				<semimajoraxis errorminus="0.02" errorplus="0.02">3.41</semimajoraxis>
+				<periastrontime errorminus="324" errorplus="324">2450532</periastrontime>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>HD 32963 b is a Jupiter-analogue planet orbiting a G-type star.</description>
+				<lastupdate>15/12/18</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>HD 330075</name>
 		<rightascension>15 49 37</rightascension>
 		<declination>-49 57 48</declination>
@@ -20617,6 +21128,59 @@ Image credit: Vanessa Bailey</imagedescription>
 			</planet>
 			<name>HD 33564</name>
 			<temperature>6250.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 33844</name>
+		<rightascension>05 12 36.10097</rightascension>
+		<declination>-14 57 04.0084</declination>
+		<distance errorminus="6.5" errorplus="6.5">100.9</distance>
+		<star>
+			<name>HD 33844</name>
+			<name>HIP 24275</name>
+			<name>TYC 5342-401-1</name>
+			<name>SAO 150228</name>
+			<name>BD-15 971</name>
+			<name>2MASS J05123609-1457039</name>
+			<magB errorminus="0.02" errorplus="0.02">8.33</magB>
+			<magV errorminus="0.01" errorplus="0.01">7.29</magV>
+			<magJ errorminus="0.018" errorplus="0.018">5.574</magJ>
+			<magH errorminus="0.044" errorplus="0.044">5.132</magH>
+			<magK errorminus="0.018" errorplus="0.018">4.945</magK>
+			<spectraltype>K0 III</spectraltype>
+			<mass errorminus="0.18" errorplus="0.18">1.78</mass>
+			<metallicity errorminus="0.09" errorplus="0.09">0.27</metallicity>
+			<temperature errorminus="100" errorplus="100">4861</temperature>
+			<radius errorminus="0.41" errorplus="0.41">5.29</radius>
+			<age errorminus="0.48" errorplus="0.76">1.88</age>
+			<planet>
+				<name>HD 33844 b</name>
+				<period errorminus="6.4" errorplus="6.4">547.9</period>
+				<eccentricity errorminus="0.07" errorplus="0.07">0.16</eccentricity>
+				<periastron errorminus="62" errorplus="62">190</periastron>
+				<periastrontime errorminus="50" errorplus="50">2454578</periastrontime>
+				<mass errorminus="0.11" errorplus="0.11" type="msini">1.92</mass>
+				<semimajoraxis errorminus="0.01" errorplus="0.01">1.59</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
+				<lastupdate>15/12/28</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>HD 33844 c</name>
+				<period errorminus="32.5" errorplus="32.5">924.3</period>
+				<eccentricity errorminus="0.08" errorplus="0.08">0.09</eccentricity>
+				<periastron errorminus="30" errorplus="30">5</periastron>
+				<periastrontime errorminus="281" errorplus="281">2454356</periastrontime>
+				<mass errorminus="0.16" errorplus="0.16" type="msini">1.68</mass>
+				<semimajoraxis errorminus="0.03" errorplus="0.03">2.25</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
+				<lastupdate>15/12/28</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -24399,6 +24963,42 @@ Credit: ESO/J. Rameau</imagedescription>
 			</planet>
 			<name>HD 9578</name>
 			<temperature>5940.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>HD 95872</name>
+		<rightascension>11 03 28.071</rightascension>
+		<declination>-22 05 38.41</declination>
+		<star>
+			<name>HD 95872</name>
+			<name>TYC 6083-1275-1</name>
+			<name>BD-21 3221</name>
+			<name>CPD-21 4847</name>
+			<name>2MASS J11032810-2205383</name>
+			<magB>10.722</magB>
+			<magV>9.895</magV>
+			<magJ errorminus="0.023" errorplus="0.023">8.406</magJ>
+			<magH errorminus="0.023" errorplus="0.023">8.040</magH>
+			<magK errorminus="0.026" errorplus="0.026">7.956</magK>
+			<spectraltype>K0V</spectraltype>
+			<mass errorminus="0.04" errorplus="0.04">0.95</mass>
+			<temperature errorminus="100" errorplus="100">5312</temperature>
+			<metallicity errorminus="0.09" errorplus="0.09">0.41</metallicity>
+			<age errorminus="3.7" errorplus="3.7">10.0</age>
+			<planet>
+				<name>HD 95872 b</name>
+				<period errorminus="169" errorplus="169">4375</period>
+				<mass errorminus="0.3" errorplus="0.3" type="msini">4.6</mass>
+				<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+				<periastron errorminus="67" errorplus="67">17</periastron>
+				<semimajoraxis errorminus="0.1" errorplus="0.1">5.2</semimajoraxis>
+				<periastrontime errorminus="744" errorplus="744">2449869</periastrontime>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>HD 95872 b is a super-Jupiter planet orbiting in a Jupiter-like orbit around a metal-rich solar-mass star.</description>
+				<lastupdate>15/12/28</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -47149,7 +47749,7 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<rightascension>19 19 00.54910</rightascension>
 		<declination>+41 38 04.5682</declination>
 		<distance errorminus="1.1" errorplus="1.1">35.7</distance>
-		<star>
+		<binary>
 			<name>Kepler-444</name>
 			<name>HIP 94931</name>
 			<name>KOI-3158</name>
@@ -47158,118 +47758,173 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<name>PPM 58152</name>
 			<name>TYC 3129-329-1</name>
 			<name>BD+41 3306</name>
-			<mass errorminus="0.043" errorplus="0.043">0.758</mass>
-			<radius errorminus="0.014" errorplus="0.014">0.752</radius>
-			<temperature errorminus="74" errorplus="74">5046</temperature>
-			<age errorminus="0.99" errorplus="0.91">11.23</age>
-			<magB>6.67</magB>
-			<magV>8.86</magV>
-			<magR>8.18</magR>
-			<magI>7.66</magI>
-			<magJ errorminus="0.026" errorplus="0.026">7.244</magJ>
-			<magH errorminus="0.047" errorplus="0.047">6.772</magH>
-			<magK errorminus="0.020" errorplus="0.020">6.703</magK>
-			<metallicity errorminus="0.07" errorplus="0.07">-0.55</metallicity>
-			<spectraltype>K0V</spectraltype>
-			<planet>
-				<name>Kepler-444 b</name>
-				<name>HIP 94931 b</name>
-				<name>KOI-3158.01</name>
-				<name>KOI-3158 b</name>
-				<name>KIC 6278762 b</name>
-				<name>LHS 3450 b</name>
-				<name>PPM 58152 b</name>
-				<name>TYC 3129-329-1 b</name>
-				<name>BD+41 3306 b</name>
-				<list>Confirmed planets</list>
-				<radius errorminus="0.001276" errorplus="0.001458">0.036726</radius>
-				<period errorminus="0.0000080" errorplus="0.0000083">3.6001053</period>
-				<semimajoraxis errorminus="0.00079" errorplus="0.00079">0.04178</semimajoraxis>
-				<eccentricity errorminus="0.08" errorplus="0.22">0.08</eccentricity>
-				<inclination errorminus="0.6" errorplus="1.2">88.0</inclination>
-				<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>15/07/28</lastupdate>
-				<discoveryyear>2015</discoveryyear>
-			</planet>
-			<planet>
-				<name>Kepler-444 c</name>
-				<name>HIP 94931 c</name>
-				<name>KOI-3158.02</name>
-				<name>KOI-3158 c</name>
-				<name>KIC 6278762 c</name>
-				<name>LHS 3450 c</name>
-				<list>Confirmed planets</list>
-				<radius errorminus="0.001549" errorplus="0.001914">0.045292</radius>
-				<period errorminus="0.0000071" errorplus="0.0000070">4.5458841</period>
-				<semimajoraxis errorminus="0.00093" errorplus="0.00093">0.04881</semimajoraxis>
-				<eccentricity errorminus="0.12" errorplus="0.17">0.12</eccentricity>
-				<inclination errorminus="1.0" errorplus="1.2">88.2</inclination>
-				<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 21 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>15/07/28</lastupdate>
-				<discoveryyear>2015</discoveryyear>
-			</planet>
-			<planet>
-				<name>Kepler-444 d</name>
-				<name>HIP 94931 d</name>
-				<name>KOI-3158.03</name>
-				<name>KOI-3158 d</name>
-				<name>KIC 6278762 d</name>
-				<name>LHS 3450 d</name>
-				<list>Confirmed planets</list>
-				<radius errorminus="0.001731" errorplus="0.002005">0.048299</radius>
-				<period errorminus="0.000012" errorplus="0.000012">6.189392</period>
-				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0600</semimajoraxis>
-				<eccentricity errorminus="0.18" errorplus="0.16">0.18</eccentricity>
-				<inclination errorminus="0.55" errorplus="0.81">88.16</inclination>
-				<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>15/07/28</lastupdate>
-				<discoveryyear>2015</discoveryyear>
-			</planet>
-			<planet>
-				<name>Kepler-444 e</name>
-				<name>HIP 94931 e</name>
-				<name>KOI-3158.04</name>
-				<name>KOI-3158 e</name>
-				<name>KIC 6278762 e</name>
-				<name>LHS 3450 e</name>
-				<list>Confirmed planets</list>
-				<radius errorminus="0.001367" errorplus="0.001549">0.049757</radius>
-				<period errorminus="0.000016" errorplus="0.000017">7.743493</period>
-				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0696</semimajoraxis>
-				<eccentricity errorminus="0.02" errorplus="0.27">0.02</eccentricity>
-				<inclination errorminus="0.52" errorplus="0.54">89.13</inclination>
-				<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>15/07/28</lastupdate>
-				<discoveryyear>2015</discoveryyear>
-			</planet>
-			<planet>
-				<name>Kepler-444 f</name>
-				<name>HIP 94931 f</name>
-				<name>KOI-3158.05</name>
-				<name>KOI-3158 f</name>
-				<name>KIC 6278762 f</name>
-				<name>LHS 3450 f</name>
-				<list>Confirmed planets</list>
-				<radius errorminus="0.003645" errorplus="0.003736">0.067528</radius>
-				<period errorminus="0.000013" errorplus="0.000013">9.740486</period>
-				<eccentricity errorminus="0.19" errorplus="0.2">0.29</eccentricity>
-				<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0811</semimajoraxis>
-				<inclination errorminus="0.31" errorplus="0.36">87.96</inclination>
-				<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets.</description>
-				<discoverymethod>transit</discoverymethod>
-				<istransiting>1</istransiting>
-				<lastupdate>15/02/01</lastupdate>
-				<discoveryyear>2015</discoveryyear>
-			</planet>
-		</star>
+			<semimajoraxis errorminus="0.9" errorplus="0.7">36.7</semimajoraxis>
+			<eccentricity errorminus="0.023" errorplus="0.023">0.864</eccentricity>
+			<inclination errorminus="3.6" errorplus="3.4">90.4</inclination>
+			<ascendingnode errorminus="0.9">73.1</ascendingnode>
+			<periastron errorminus="2.6" errorplus="3.2">342.8</periastron>
+			<period errorminus="3300" errorplus="2900">1584</period>
+			<periastrontime errorminus="900" errorplus="900">2488500</periastrontime>
+			<star>
+				<name>Kepler-444 A</name>
+				<name>HIP 94931 A</name>
+				<name>KOI-3158 A</name>
+				<name>KIC 6278762 A</name>
+				<name>LHS 3450 A</name>
+				<name>PPM 58152 A</name>
+				<name>TYC 3129-329-1</name>
+				<name>BD+41 3306 A</name>
+				<mass errorminus="0.043" errorplus="0.043">0.758</mass>
+				<radius errorminus="0.014" errorplus="0.014">0.752</radius>
+				<temperature errorminus="74" errorplus="74">5046</temperature>
+				<age errorminus="0.99" errorplus="0.91">11.23</age>
+				<magB>6.67</magB>
+				<magV>8.86</magV>
+				<magR>8.18</magR>
+				<magI>7.66</magI>
+				<magJ errorminus="0.026" errorplus="0.026">7.244</magJ>
+				<magH errorminus="0.047" errorplus="0.047">6.772</magH>
+				<magK errorminus="0.020" errorplus="0.020">6.703</magK>
+				<metallicity errorminus="0.07" errorplus="0.07">-0.55</metallicity>
+				<spectraltype>K0V</spectraltype>
+				<planet>
+					<name>Kepler-444 b</name>
+					<name>Kepler-444 A b</name>
+					<name>HIP 94931 A b</name>
+					<name>KOI-3158.01</name>
+					<name>KOI-3158 A b</name>
+					<name>KIC 6278762 A b</name>
+					<name>LHS 3450 A b</name>
+					<name>PPM 58152 A b</name>
+					<name>TYC 3129-329-1 b</name>
+					<name>BD+41 3306 A b</name>
+					<list>Confirmed planets</list>
+					<radius errorminus="0.001276" errorplus="0.001458">0.036726</radius>
+					<period errorminus="0.0000080" errorplus="0.0000083">3.6001053</period>
+					<semimajoraxis errorminus="0.00079" errorplus="0.00079">0.04178</semimajoraxis>
+					<eccentricity errorminus="0.08" errorplus="0.22">0.08</eccentricity>
+					<inclination errorminus="0.6" errorplus="1.2">88.0</inclination>
+					<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets. The star has a companion binary that gets as close as 5 AU at periastron.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>15/07/28</lastupdate>
+					<discoveryyear>2015</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Kepler-444 c</name>
+					<name>Kepler-444 A c</name>
+					<name>HIP 94931 A c</name>
+					<name>KOI-3158.02</name>
+					<name>KOI-3158 A c</name>
+					<name>KIC 6278762 A c</name>
+					<name>LHS 3450 A c</name>
+					<list>Confirmed planets</list>
+					<radius errorminus="0.001549" errorplus="0.001914">0.045292</radius>
+					<period errorminus="0.0000071" errorplus="0.0000070">4.5458841</period>
+					<semimajoraxis errorminus="0.00093" errorplus="0.00093">0.04881</semimajoraxis>
+					<eccentricity errorminus="0.12" errorplus="0.17">0.12</eccentricity>
+					<inclination errorminus="1.0" errorplus="1.2">88.2</inclination>
+					<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 21 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets. The star has a companion binary that gets as close as 5 AU at periastron.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>15/07/28</lastupdate>
+					<discoveryyear>2015</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Kepler-444 d</name>
+					<name>Kepler-444 A d</name>
+					<name>HIP 94931 A d</name>
+					<name>KOI-3158.03</name>
+					<name>KOI-3158 A d</name>
+					<name>KIC 6278762 A d</name>
+					<name>LHS 3450 A d</name>
+					<list>Confirmed planets</list>
+					<radius errorminus="0.001731" errorplus="0.002005">0.048299</radius>
+					<period errorminus="0.000012" errorplus="0.000012">6.189392</period>
+					<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0600</semimajoraxis>
+					<eccentricity errorminus="0.18" errorplus="0.16">0.18</eccentricity>
+					<inclination errorminus="0.55" errorplus="0.81">88.16</inclination>
+					<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets. The star has a companion binary that gets as close as 5 AU at periastron.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>15/07/28</lastupdate>
+					<discoveryyear>2015</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Kepler-444 e</name>
+					<name>Kepler-444 A e</name>
+					<name>HIP 94931 A e</name>
+					<name>KOI-3158.04</name>
+					<name>KOI-3158 A e</name>
+					<name>KIC 6278762 A e</name>
+					<name>LHS 3450 A e</name>
+					<list>Confirmed planets</list>
+					<radius errorminus="0.001367" errorplus="0.001549">0.049757</radius>
+					<period errorminus="0.000016" errorplus="0.000017">7.743493</period>
+					<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0696</semimajoraxis>
+					<eccentricity errorminus="0.02" errorplus="0.27">0.02</eccentricity>
+					<inclination errorminus="0.52" errorplus="0.54">89.13</inclination>
+					<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets. The star has a companion binary that gets as close as 5 AU at periastron.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>15/07/28</lastupdate>
+					<discoveryyear>2015</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Kepler-444 f</name>
+					<name>Kepler-444 A f</name>
+					<name>HIP 94931 A f</name>
+					<name>KOI-3158.05</name>
+					<name>KOI-3158 A f</name>
+					<name>KIC 6278762 A f</name>
+					<name>LHS 3450 A f</name>
+					<list>Confirmed planets</list>
+					<radius errorminus="0.003645" errorplus="0.003736">0.067528</radius>
+					<period errorminus="0.000013" errorplus="0.000013">9.740486</period>
+					<eccentricity errorminus="0.19" errorplus="0.2">0.29</eccentricity>
+					<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0811</semimajoraxis>
+					<inclination errorminus="0.31" errorplus="0.36">87.96</inclination>
+					<description>This planet is part of the Kepler-444 system. The planetary system is tightly placked with at least 5 terrestrial planets. The host star formed 11 billion years ago, when the universe was less than 20 percent of its current age. This makes Kepler-444 the oldest known system of terrestrial size planets. The star has a companion binary that gets as close as 5 AU at periastron.</description>
+					<discoverymethod>transit</discoverymethod>
+					<istransiting>1</istransiting>
+					<lastupdate>15/02/01</lastupdate>
+					<discoveryyear>2015</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<binary>
+				<semimajoraxis upperlimit="0.3" />
+				<star>
+					<name>Kepler-444 B</name>
+					<name>HIP 94931 B</name>
+					<name>KOI-3158 B</name>
+					<name>KIC 6278762 B</name>
+					<name>LHS 3450 B</name>
+					<name>PPM 58152 B</name>
+					<name>BD+41 3306 B</name>
+					<magK>9.67</magK>
+					<temperature errorminus="200" errorplus="200">3464</temperature>
+					<mass errorminus="0.03" errorplus="0.03">0.29</mass>
+					<spectraltype>M</spectraltype>
+				</star>
+				<star>
+					<name>Kepler-444 C</name>
+					<name>HIP 94931 C</name>
+					<name>KOI-3158 C</name>
+					<name>KIC 6278762 C</name>
+					<name>LHS 3450 C</name>
+					<name>PPM 58152 C</name>
+					<name>BD+41 3306 C</name>
+					<magK>9.97</magK>
+					<mass errorminus="0.03" errorplus="0.03">0.25</mass>
+					<spectraltype>M</spectraltype>
+				</star>
+			</binary>
+		</binary>
 	</system>
 	<system>
 		<name>Kepler-445</name>
@@ -48098,33 +48753,36 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<system>
 		<name>Kepler-51</name>
 		<name>KOI-620</name>
-		<rightascension>19 45 55</rightascension>
-		<declination>+49 56 15</declination>
-		<distance>986.91</distance>
+		<rightascension>19 45 55.146</rightascension>
+		<declination>+49 56 15.66</declination>
 		<star>
 			<name>Kepler-51</name>
 			<name>KOI-620</name>
 			<name>KIC 11773022</name>
+			<name>2MASS J19455514+4956156</name>
 			<magJ errorminus="0.023" errorplus="0.023">13.562</magJ>
 			<magH errorminus="0.023" errorplus="0.023">13.219</magH>
 			<magK errorminus="0.037" errorplus="0.037">13.197</magK>
-			<radius errorminus="0.5000" errorplus="0.5000">0.9400</radius>
-			<mass errorminus="0.1200" errorplus="0.1200">1.0400</mass>
-			<age errorminus="2.3000" errorplus="2.3000">0.3000</age>
-			<temperature errorminus="107.00" errorplus="107.00">6018.00</temperature>
+			<radius errorminus="0.04" errorplus="0.04">0.88</radius>
+			<mass errorminus="0.12" errorplus="0.12">1.04</mass>
+			<age errorminus="2.3" errorplus="2.3">0.3</age>
+			<temperature errorminus="107" errorplus="107">6018</temperature>
 			<planet>
 				<name>Kepler-51 b</name>
 				<name>KOI-620.01</name>
 				<name>KOI-620 b</name>
 				<name>KIC 11773022 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.175787</mass>
-				<radius>0.642469</radius>
-				<period errorminus="0.000019" errorplus="0.000019">45.155314</period>
-				<transittime errorminus="0.00062" errorplus="0.00062" unit="BJD">2455092.10435</transittime>
-				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature.</description>
+				<mass errorminus="0.0025" errorplus="0.0047">0.0066</mass>
+				<radius errorminus="0.027" errorplus="0.027">0.633</radius>
+				<period errorminus="0.0002" errorplus="0.0002">45.1540</period>
+				<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2455714.5977</transittime>
+				<semimajoraxis errorminus="0.0097" errorplus="0.0097">0.2514</semimajoraxis>
+				<eccentricity errorminus="0.01" errorplus="0.01">0.04</eccentricity>
+				<inclination>89.8</inclination>
+				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>14/03/05</lastupdate>
+				<lastupdate>15/12/12</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
@@ -48134,13 +48792,16 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>KOI-620 c</name>
 				<name>KIC 11773022 c</name>
 				<list>Confirmed planets</list>
-				<mass>0.113864</mass>
-				<radius>0.520354</radius>
-				<period errorminus="0.00022" errorplus="0.00022">85.31644</period>
-				<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455228.32095</transittime>
-				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature.</description>
+				<mass errorminus="0.0013" errorplus="0.0013">0.0126</mass>
+				<radius errorminus="0.152" errorplus="0.250">0.803</radius>
+				<period errorminus="0.002" errorplus="0.003">85.312</period>
+				<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2455725.509</transittime>
+				<semimajoraxis errorminus="0.015" errorplus="0.015">0.384</semimajoraxis>
+				<eccentricity errorminus="0.009" errorplus="0.013">0.014</eccentricity>
+				<inclination>89.4</inclination>
+				<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>14/03/05</lastupdate>
+				<lastupdate>15/12/12</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<istransiting>1</istransiting>
 			</planet>
@@ -48150,16 +48811,16 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 				<name>KOI-620.02</name>
 				<name>KIC 11773022 d</name>
 				<name>KIC 11773022.02</name>
-				<radius errorminus="0.48299" errorplus="0.48299">0.91130</radius>
-				<period errorminus="0.000071" errorplus="0.000071">130.178058</period>
-				<transittime errorminus="0.0006200" errorplus="0.0006200">2455045.0234500</transittime>
-				<semimajoraxis errorminus="0.02" errorplus="0.02">0.509</semimajoraxis>
-				<temperature>381.0</temperature>
-				<mass errorminus="0.00346096970078" errorplus="0.00346096970078">0.0239121542963</mass>
+				<radius errorminus="0.045" errorplus="0.045">0.865</radius>
+				<period errorminus="0.002" errorplus="0.005">130.194</period>
+				<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2455695.9323</transittime>
+				<semimajoraxis errorminus="0.020" errorplus="0.020">0.509</semimajoraxis>
+				<mass errorminus="0.0035" errorplus="0.0035">0.0239</mass>
+				<inclination>89.9</inclination>
 				<list>Confirmed planets</list>
-				<description>Kepler-51 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-51 d are still unknown, the object is highly unlikely to be a false positive.</description>
+				<description>Kepler-51 d has been discovered by the Kepler spacecraft. Its mass has been determined by analysis of transit timing variations, indicating that it is a very low density planet.</description>
 				<discoveryyear>2014</discoveryyear>
-				<lastupdate>14/03/05</lastupdate>
+				<lastupdate>15/12/12</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
@@ -52106,7 +52767,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -52526,7 +53186,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -52559,7 +53218,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 			<planet>
 				<name>KOI-3681.02</name>
@@ -53408,6 +54066,26 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>MOA-2010-BLG-353L</name>
+		<rightascension>18 05 12.94</rightascension>
+		<declination>-27 17 35.64</declination>
+		<distance errorminus="1120" errorplus="870">7170</distance>
+		<star>
+			<name>MOA-2010-BLG-353L</name>
+			<mass errorminus="0.09" errorplus="0.28">0.16</mass>
+			<planet>
+				<name>MOA-2010-BLG-353L b</name>
+				<mass errorminus="0.13" errorplus="0.42">0.23</mass>
+				<separation errorminus="0.51" errorplus="0.63" unit="AU">1.85</separation>
+				<discoverymethod>microlensing</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>MOA-2010-BLG-353Lb is a Saturn-mass planet orbiting a low-mass star. It was discovered in archived light curve data for a microlensing event that occurred in 2010.</description>
+				<lastupdate>15/12/11</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>MOA-2010-BLG-477L</name>
 		<rightascension>18 06 07</rightascension>
 		<declination>-31 27 16</declination>
@@ -53429,6 +54107,29 @@ Credit: Joe Gallagher.</imagedescription>
 			</planet>
 			<name>MOA-2010-BLG-477L</name>
 			<temperature>5150.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>MOA-2011-BLG-028L</name>
+		<name>OGLE-2011-BLG-0203L</name>
+		<rightascension>18 03 24.96</rightascension>
+		<declination>-29 12 48.3</declination>
+		<distance errorminus="620" errorplus="520">7380</distance>
+		<star>
+			<name>MOA-2011-BLG-028L</name>
+			<name>OGLE-2011-BLG-0203L</name>
+			<mass errorminus="0.30" errorplus="0.35">0.75</mass>
+			<planet>
+				<name>MOA-2011-BLG-028L b</name>
+				<name>OGLE-2011-BLG-0203L b</name>
+				<mass errorminus="0.038" errorplus="0.050">0.094</mass>
+				<separation errorminus="0.64" errorplus="0.64" unit="AU">4.14</separation>
+				<discoverymethod>microlensing</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>MOA-2011-BLG-028Lb is a Neptune-mass planet orbiting a star in the galactic bulge.</description>
+				<lastupdate>15/12/11</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -53544,6 +54245,28 @@ Image credit: Joe Gallagher</imagedescription>
 		</star>
 	</system>
 	<system>
+		<name>MOA-2013-BLG-605L</name>
+		<rightascension>17 5 42.85</rightascension>
+		<declination>-29 23 53.66</declination>
+		<distance errorminus="800" errorplus="600">3600</distance>
+		<star>
+			<name>MOA-2013-BLG-605L</name>
+			<name>OGLE-2013-BLG-1835L</name>
+			<mass errorminus="0.06" errorplus="0.05">0.19</mass>
+			<planet>
+				<name>MOA-2013-BLG-605L b</name>
+				<name>OGLE-2013-BLG-1835L b</name>
+				<mass errorminus="0.022" errorplus="0.019">0.066</mass>
+				<separation errorminus="0.9" errorplus="0.7" unit="AU">4.2</separation>
+				<discoverymethod>microlensing</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>Because of degeneracies involved in modelling the microlensing event MOA-2013-BLG-605, there are three possible models for the lens system. In the first, a 21 Earth-mass planet orbits a 0.19 solar mass star at a distance of 4.2 AU. This would make the planet a Neptune-analogue. In the second, a 7.9 Earth-mass planet orbits a 71 Jupiter-mass brown dwarf at 2.1 AU, and in the third a 3.2 Earth-mass planet orbits a 26 Jupiter-mass brown dwarf at 0.94 AU. Future observations taken when the lens system has moved sufficiently far away from the source star will be able to determine whether the stellar model is the correct one.</description>
+				<lastupdate>15/12/11</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>MOA-bin-1</name>
 		<rightascension>17 51 10</rightascension>
 		<declination>-29 47 38</declination>
@@ -53651,15 +54374,26 @@ Image credit: Joe Gallagher</imagedescription>
 	<system>
 		<name>mu Leo</name>
 		<name>HD 85503</name>
-		<rightascension>09 52 45</rightascension>
-		<declination>+26 00 23</declination>
-		<distance errorminus="1.3" errorplus="1.3">40.9</distance>
+		<rightascension>09 52 45.81654</rightascension>
+		<declination>+26 00 25.0319</declination>
+		<distance errorminus="0.23" errorplus="0.23">38.05</distance>
 		<star>
 			<name>mu Leo</name>
 			<name>HD 85503</name>
 			<name>mu Leonis</name>
+			<name>&#956; Leo</name>
+			<name>&#956; Leonis</name>
+			<name>mu. Leo</name>
+			<name>24 Leonis</name>
+			<name>24 Leo</name>
 			<name>Rasalas</name>
 			<name>Alshemali</name>
+			<name>HIP 48455</name>
+			<name>TYC 1964-1473-1</name>
+			<name>SAO 81064</name>
+			<name>HR 3905</name>
+			<name>BD+26 2019</name>
+			<name>2MASS J09524585+2600248</name>
 			<mass errorminus="0.1" errorplus="0.1">1.5</mass>
 			<radius errorminus="0.2" errorplus="0.2">11.4</radius>
 			<temperature errorminus="27.5" errorplus="27.5">4538.2</temperature>
@@ -53680,14 +54414,15 @@ Image credit: Joe Gallagher</imagedescription>
 				<name>Rasalas b</name>
 				<name>Alshemali b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.4" errorplus="0.4">2.4</mass>
+				<mass errorminus="0.4" errorplus="0.4" type="msini">2.4</mass>
 				<period errorminus="1.2" errorplus="1.2">357.8</period>
 				<semimajoraxis errorminus="0.1" errorplus="0.1">1.1</semimajoraxis>
 				<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
 				<periastron errorminus="16" errorplus="16">227.1</periastron>
+				<periastrontime errorminus="17.3" errorplus="17.3">2452921.0</periastrontime>
 				<description>The planet mu Leo b is orbiting the K giant mu Leonis, also known as Rasalas (the northern star of the lion's head). It was found using data from the Bohyunsan Observatory.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>14/05/13</lastupdate>
+				<lastupdate>15/11/26</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 			</planet>
 		</star>
@@ -55119,6 +55854,150 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			</planet>
 			<name>Pr0211</name>
 		</star>
+	</system>
+	<system>
+		<name>Psi-1 Draconis</name>
+		<name>&#968;1 Dra</name>
+		<name>&#968;1 Draconis</name>
+		<name>psi01 Dra</name>
+		<name>psi01 Draconis</name>
+		<rightascension>17 41 56.35536</rightascension>
+		<declination>+72 08 55.8481</declination>
+		<distance errorminus="0.06" errorplus="0.06">22.93</distance>
+		<binary>
+			<name>Psi-1 Draconis</name>
+			<name>&#968;1 Dra</name>
+			<name>&#968;1 Draconis</name>
+			<name>psi01 Dra</name>
+			<name>psi01 Draconis</name>
+			<name>31 Dra</name>
+			<name>31 Draconis</name>
+			<name>Gliese 694.1</name>
+			<name>GJ 694.1</name>
+			<name>GJ 9602</name>
+			<name>WDS J17419+7209</name>
+			<separation unit="arcsec">30.104</separation>
+			<separation unit="AU">690</separation>
+			<positionangle>15.49</positionangle>
+			<binary>
+				<name>HD 162003</name>
+				<name>HIP 86614</name>
+				<name>TYC 4436-1425-1</name>
+				<name>SAO 8890</name>
+				<name>BD+72 804</name>
+				<name>STF 2241 A</name>
+				<period errorminus="160" errorplus="160">6649</period>
+				<eccentricity errorminus="0.004" errorplus="0.004">0.674</eccentricity>
+				<periastron errorminus="0.7" errorplus="0.7">32.9</periastron>
+				<semimajoraxis errorminus="0.1" errorplus="0.1">8.7</semimajoraxis>
+				<periastrontime errorminus="162" errorplus="162">2450515</periastrontime>
+				<star>
+					<name>Psi-1 Draconis A</name>
+					<name>&#968;1 Dra A</name>
+					<name>&#968;1 Draconis A</name>
+					<name>psi01 Dra A</name>
+					<name>psi01 Draconis A</name>
+					<name>31 Dra A</name>
+					<name>31 Draconis A</name>
+					<name>HD 162003 A</name>
+					<name>HIP 86614 A</name>
+					<name>TYC 4436-1425-1 A</name>
+					<name>SAO 8890 A</name>
+					<name>HR 6636 A</name>
+					<name>Gliese 694.1 A</name>
+					<name>GJ 694.1 A</name>
+					<name>GJ 9602 A</name>
+					<name>BD+72 804 A</name>
+					<name>2MASS J17415635+7208561</name>
+					<name>WDS J17419+7209 A</name>
+					<mass>1.430</mass>
+					<magB>5.00</magB>
+					<magV>4.56</magV>
+					<magR>4.3</magR>
+					<magI>4.1</magI>
+					<magJ errorminus="0.264" errorplus="0.264">3.803</magJ>
+					<magH errorminus="0.248" errorplus="0.248">3.648</magH>
+					<magK errorminus="0.362" errorplus="0.362">3.502</magK>
+					<spectraltype>F5IV-V</spectraltype>
+					<temperature errorminus="56" errorplus="56">6546</temperature>
+					<metallicity errorminus="0.07" errorplus="0.07">-0.10</metallicity>
+					<age errorminus="0.3" errorplus="0.3">2.3</age>
+				</star>
+				<star>
+					<name>Psi-1 Draconis C</name>
+					<name>&#968;1 Dra C</name>
+					<name>&#968;1 Draconis C</name>
+					<name>psi01 Dra C</name>
+					<name>psi01 Draconis C</name>
+					<name>31 Dra C</name>
+					<name>31 Draconis C</name>
+					<name>HD 162003 B</name>
+					<name>HIP 86614 B</name>
+					<name>TYC 4436-1425-1 B</name>
+					<name>SAO 8890 A</name>
+					<name>HR 6636 B</name>
+					<name>Gliese 694.1 C</name>
+					<name>GJ 694.1 C</name>
+					<name>GJ 9602 C</name>
+					<name>BD+72 804 B</name>
+					<spectraltype>K/M</spectraltype>
+					<mass errorminus="0.005" errorplus="0.005" type="msini">0.526</mass>
+				</star>
+			</binary>
+			<star>
+				<name>Psi-1 Draconis B</name>
+				<name>&#968;1 Dra B</name>
+				<name>&#968;1 Draconis B</name>
+				<name>psi01 Dra B</name>
+				<name>psi01 Draconis B</name>
+				<name>31 Dra B</name>
+				<name>31 Draconis B</name>
+				<name>HD 162004</name>
+				<name>HIP 86620</name>
+				<name>TYC 4436-1424-1</name>
+				<name>SAO 8891</name>
+				<name>HR 6637</name>
+				<name>Gliese 694.1 B</name>
+				<name>GJ 694.1 B</name>
+				<name>GJ 9602 B</name>
+				<name>BD+72 805</name>
+				<name>2MASS J17415811+7209251</name>
+				<name>WDS J17419+7209 B</name>
+				<name>STF 2241 B</name>
+				<magB>6.261</magB>
+				<magV>5.699</magV>
+				<magR>5.2</magR>
+				<magI>5.0</magI>
+				<magJ>5.00</magJ>
+				<magH>4.59</magH>
+				<magK>4.53</magK>
+				<spectraltype>G0V</spectraltype>
+				<mass errorminus="0.07" errorplus="0.07">1.19</mass>
+				<temperature errorminus="20" errorplus="20">6213</temperature>
+				<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
+				<age errorminus="0.3" errorplus="0.3">2.5</age>
+				<planet>
+					<name>Psi-1 Draconis B b</name>
+					<name>&#968;1 Dra B b</name>
+					<name>&#968;1 Draconis B b</name>
+					<name>psi01 Dra B b</name>
+					<name>psi01 Draconis B b</name>
+					<period errorminus="42" errorplus="42">3117</period>
+					<mass errorminus="0.10" errorplus="0.10" type="msini">1.53</mass>
+					<eccentricity errorminus="0.05" errorplus="0.05">0.40</eccentricity>
+					<periastron errorminus="9" errorplus="9">64</periastron>
+					<semimajoraxis errorminus="0.04" errorplus="0.04">4.43</semimajoraxis>
+					<periastrontime errorminus="76" errorplus="76">2449344</periastrontime>
+					<discoverymethod>RV</discoverymethod>
+					<discoveryyear>2015</discoveryyear>
+					<description>Psi-1 Draconis is a triple star system containing the spectroscopic binary Psi-1 Draconis AC, and their distant companion Psi-1 Draconis B. The radial velocities of Psi-1 Draconis B indicate the presence of a jovian planet on an eccentric, long-period orbit and a trend indicating the presence of an additional companion. The trend is not compatible with being caused by Psi-1 Draconis AC, so indicates the presence of an additional, likely substellar object outside the orbit of the known jovian planet.</description>
+					<lastupdate>15/12/28</lastupdate>
+					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<semimajoraxis>690</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>PSO J318.5-22</name>
@@ -57680,7 +58559,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 				<description>WASP-135b is a highly-irradiated and inflated hot Jupiter.</description>
 				<lastupdate>15/11/21</lastupdate>
 				<list>Confirmed planets</list>
-				<new>1</new>
 			</planet>
 		</star>
 	</system>
@@ -61135,6 +62013,76 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<name>WD 0806-661</name>
 			<name>GJ 3483</name>
 			<temperature>5700.0</temperature>
+		</star>
+	</system>
+	<system>
+		<name>Wolf 1061</name>
+		<rightascension>16 30 18.05803</rightascension>
+		<declination>-12 39 45.3232</declination>
+		<distance errorminus="0.0295" errorplus="0.0295">4.2922</distance>
+		<star>
+			<name>Wolf 1061</name>
+			<name>HIP 80824</name>
+			<name>TYC 5635-1241-1</name>
+			<name>Gliese 628</name>
+			<name>GJ 628</name>
+			<name>V2306 Oph</name>
+			<name>V2306 Ophiuchi</name>
+			<name>BD-12 4523</name>
+			<name>2MASS J16301808-1239434</name>
+			<magB errorminus="0.0021" errorplus="0.0021">11.638</magB>
+			<magV errorminus="0.0021" errorplus="0.0021">10.072</magV>
+			<magR errorminus="0.0021" errorplus="0.0021">8.917</magR>
+			<magI errorminus="0.0021" errorplus="0.0021">7.421</magI>
+			<magJ errorminus="0.024" errorplus="0.024">5.950</magJ>
+			<magH errorminus="0.040" errorplus="0.040">5.373</magH>
+			<magK errorminus="0.024" errorplus="0.024">5.075</magK>
+			<spectraltype>M3.5</spectraltype>
+			<mass errorminus="0.12" errorplus="0.12">0.25</mass>
+			<radius errorminus="0.10" errorplus="0.10">0.26</radius>
+			<temperature errorminus="69" errorplus="69">3345</temperature>
+			<metallicity errorminus="0.09" errorplus="0.09">-0.05</metallicity>
+			<planet>
+				<name>Wolf 1061 b</name>
+				<period errorminus="0.0014" errorplus="0.0014">4.8876</period>
+				<mass errorminus="0.00072" errorplus="0.00072" type="msini">0.00428</mass>
+				<eccentricity>0</eccentricity>
+				<meananomaly errorminus="41" errorplus="41">61</meananomaly>
+				<semimajoraxis errorminus="0.000007" errorplus="0.000007">0.035509</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>Wolf 1061 b is the innermost planet in a system of super-Earths located 14 light years from the solar system. It has a minimum mass of 1.36 Earth masses.</description>
+				<lastupdate>15/12/27</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>Wolf 1061 c</name>
+				<period errorminus="0.011" errorplus="0.011">17.867</period>
+				<mass errorminus="0.0012" errorplus="0.0012" type="msini">0.0134</mass>
+				<eccentricity errorminus="0.13" errorplus="0.13">0.19</eccentricity>
+				<periastron errorminus="47" errorplus="47">37</periastron>
+				<meananomaly errorminus="59" errorplus="59">313</meananomaly>
+				<semimajoraxis errorminus="0.00004" errorplus="0.00004">0.08427</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>Wolf 1061 c is a planet with a minimum mass of 4.25 Earth masses located near the inner edge of its host star's habitable zone. It is the middle planet of a system of super-Earths located 14 light years from the solar system.</description>
+				<lastupdate>15/12/27</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
+			<planet>
+				<name>Wolf 1061 d</name>
+				<period errorminus="0.12" errorplus="0.12">67.27</period>
+				<mass errorminus="0.0021" errorplus="0.0021" type="msini">0.0164</mass>
+				<eccentricity errorminus="0.16" errorplus="0.16">0.32</eccentricity>
+				<periastron errorminus="70" errorplus="70">102</periastron>
+				<meananomaly errorminus="41" errorplus="41">170</meananomaly>
+				<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.2039</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2015</discoveryyear>
+				<description>Wolf 1061 d is a planet with a minimum mass of 5.21 Earth masses located slightly beyond the outer edge of its host star's habitable zone. It is the outermost planet of a system of super-Earths located 14 light years from the solar system.</description>
+				<lastupdate>15/12/27</lastupdate>
+				<list>Confirmed planets</list>
+			</planet>
 		</star>
 	</system>
 	<system>
