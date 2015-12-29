@@ -2,8 +2,8 @@
 	<id_exoplaneteu>Gamma Cephei b</id_exoplaneteu>
 	<name>Gamma Cephei b</name>
 	<name>Gamma Cephei A b</name>
-	<name>gam Cep b</name>
-	<name>HD 222404b</name>
+	<name>gam Cep A b</name>
+	<name>HD 222404 A b</name>
 	<id>Gamma Cephei b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -13,23 +13,23 @@
 			<period>903.3</period>
 			<semimajoraxis>2.05</semimajoraxis>
 			<eccentricity>0.049</eccentricity>
-			<inclination>5.7</inclination>
-			<periastron />
+			<inclination />
+			<periastron>94.6</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K1 III-IV</spectraltype>
-		<mass>1.4</mass>
+		<mass>1.40</mass>
 		<radius>4.9</radius>
 		<metallicity>0.18</metallicity>
-		<distance>13.79</distance>
+		<distance>14.102</distance>
 		<temperature>4800.0</temperature>
-		<rightascension>23 39 20</rightascension>
-		<declination>+77 37 56</declination>
+		<rightascension>23 39 20.85153</rightascension>
+		<declination>+77 37 56.1876</declination>
 		<angulardistance />
-		<magV>3.22</magV>
+		<magV>3.220</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>11/01/14</lastupdate>
+	<lastupdate>15/12/12</lastupdate>
 	<description />
 	<new />
 	<image />

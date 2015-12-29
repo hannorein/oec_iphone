@@ -3,33 +3,33 @@
 	<name>EPIC 201367065 c</name>
 	<name>EPIC 201367065.02</name>
 	<name>K2-3 c</name>
-	<name>2MASS 11292037-0127173 c</name>
+	<name>2MASS J11292037-0127173 c</name>
 	<id>EPIC 201367065 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.1467</radius>
+		<radius>0.165</radius>
 		<orbit>
-			<period>24.6491</period>
-			<semimajoraxis>0.1405</semimajoraxis>
+			<period>24.64354</period>
+			<semimajoraxis>0.1399</semimajoraxis>
 			<eccentricity />
-			<inclination>89.70</inclination>
+			<inclination>89.12</inclination>
 			<periastron>89</periastron>
 			<longitude />
-			<ascendingnode>180.0</ascendingnode>
+			<ascendingnode>180</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>M0.2V</spectraltype>
-		<mass>0.612</mass>
-		<radius>0.553</radius>
+		<mass>0.60</mass>
+		<radius>0.56</radius>
 		<metallicity>-0.32</metallicity>
 		<distance>45</distance>
-		<temperature>3900</temperature>
+		<temperature>3896</temperature>
 		<rightascension>11 29 20.388</rightascension>
 		<declination>-01 27 17.23</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.17</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/09/12</lastupdate>
+	<lastupdate>15/12/06</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 	<new />
 	<image />

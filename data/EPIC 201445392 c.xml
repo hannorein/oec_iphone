@@ -2,16 +2,17 @@
 	<id_exoplaneteu>EPIC 201445392 c</id_exoplaneteu>
 	<name>EPIC 201445392 c</name>
 	<name>EPIC 201445392.02</name>
+	<name>K2-8 c</name>
 	<id>EPIC 201445392 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.213</radius>
+		<radius>0.215</radius>
 		<orbit>
-			<period>5.06468</period>
-			<semimajoraxis>0.0531</semimajoraxis>
+			<period>5.06416</period>
+			<semimajoraxis>0.0532</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>86.70</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -19,15 +20,15 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.79</mass>
+		<mass>0.78</mass>
 		<radius>0.74</radius>
-		<metallicity>-0.01</metallicity>
+		<metallicity>-0.02</metallicity>
 		<distance>405</distance>
-		<temperature>4890</temperature>
+		<temperature>4870</temperature>
 		<rightascension>11 19 10.48</rightascension>
 		<declination>-00 17 03.75</declination>
 		<angulardistance />
-		<magV />
+		<magV>14.61</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -40,5 +41,5 @@
 	<new />
 	<image />
 	<imagedescription />
-	<list>Controversial</list>
+	<list>Confirmed planets</list>
 </planet>

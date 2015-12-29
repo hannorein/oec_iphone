@@ -9,14 +9,14 @@
 	<id>eta Cet c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>3.32</mass>
+		<mass>3.16</mass>
 		<radius />
 		<orbit>
-			<period>751.9</period>
+			<period>744.3</period>
 			<semimajoraxis>1.93</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
-			<inclination />
-			<periastron>67.54</periastron>
+			<eccentricity>0.02</eccentricity>
+			<inclination>81.9</inclination>
+			<periastron>36.67</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -27,7 +27,7 @@
 		<radius>14.3</radius>
 		<metallicity>0.12</metallicity>
 		<distance>37.99</distance>
-		<temperature>4528.0</temperature>
+		<temperature>4528</temperature>
 		<rightascension>01 08 35.39148</rightascension>
 		<declination>-10 10 56.1570</declination>
 		<angulardistance />
@@ -39,7 +39,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/07/05</lastupdate>
+	<lastupdate>15/12/11</lastupdate>
 	<description>The planetary system eta Ceti contains at least two planets. The planets are in, or at least close, to a 2:1 mean motion resonance. Such resonances occur naturally as a consequence of convergent planetary migration.</description>
 	<new />
 	<image />

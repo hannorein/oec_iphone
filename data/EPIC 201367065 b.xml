@@ -3,17 +3,17 @@
 	<name>EPIC 201367065 b</name>
 	<name>EPIC 201367065.01</name>
 	<name>K2-3 b</name>
-	<name>2MASS 11292037-0127173 b</name>
+	<name>2MASS J11292037-0127173 b</name>
 	<id>EPIC 201367065 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>0.0264</mass>
-		<radius>0.1854</radius>
+		<radius>0.194</radius>
 		<orbit>
-			<period>10.05429</period>
-			<semimajoraxis>0.0775</semimajoraxis>
+			<period>10.05449</period>
+			<semimajoraxis>0.0769</semimajoraxis>
 			<eccentricity />
-			<inclination>89.59</inclination>
+			<inclination>88.80</inclination>
 			<periastron>180</periastron>
 			<longitude />
 			<ascendingnode>180</ascendingnode>
@@ -21,15 +21,15 @@
 	</properties>
 	<star>
 		<spectraltype>M0.2V</spectraltype>
-		<mass>0.612</mass>
-		<radius>0.553</radius>
+		<mass>0.60</mass>
+		<radius>0.56</radius>
 		<metallicity>-0.32</metallicity>
 		<distance>45</distance>
-		<temperature>3900</temperature>
+		<temperature>3896</temperature>
 		<rightascension>11 29 20.388</rightascension>
 		<declination>-01 27 17.23</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.17</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/09/12</lastupdate>
+	<lastupdate>15/12/06</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. Its mass has been determined through radial velocity measurements taken with HARPS, indicating it is rocky with up to 50% of the mass in a water envelope.</description>
 	<new />
 	<image />

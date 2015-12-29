@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>EPIC 204221263 c</id_exoplaneteu>
+	<name>EPIC 204221263 c</name>
+	<id>EPIC 204221263 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.031</mass>
+		<radius>0.216</radius>
+		<orbit>
+			<period>10.56103</period>
+			<semimajoraxis>0.0964</semimajoraxis>
+			<eccentricity />
+			<inclination>88.61</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.07</mass>
+		<radius>1.10</radius>
+		<metallicity>0.28</metallicity>
+		<distance />
+		<temperature>5757</temperature>
+		<rightascension>16 00 08.06</rightascension>
+		<declination>-23 11 21.4</declination>
+		<angulardistance />
+		<magV>11.39</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>15/12/06</lastupdate>
+	<description>EPIC 204221263 is a multi-transiting system in the K2 mission campaign 2 field. Radial velocity measurements with Keck/HIRES have allowed the determination of the planetary masses. The radial velocities exhibit a linear trend indicating the presence of an additional non-transiting companion in the system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

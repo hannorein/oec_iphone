@@ -2,33 +2,33 @@
 	<id_exoplaneteu>EPIC 201367065 d</id_exoplaneteu>
 	<name>EPIC 201367065 d</name>
 	<name>K2-3 d</name>
-	<name>2MASS 11292037-0127173 d</name>
+	<name>2MASS J11292037-0127173 d</name>
 	<id>EPIC 201367065 d</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.1365</radius>
+		<radius>0.135</radius>
 		<orbit>
-			<period>44.5705</period>
-			<semimajoraxis>0.2086</semimajoraxis>
+			<period>44.55983</period>
+			<semimajoraxis>0.2076</semimajoraxis>
 			<eccentricity />
-			<inclination>89.79</inclination>
+			<inclination>89.38</inclination>
 			<periastron>351</periastron>
 			<longitude />
-			<ascendingnode>180.0</ascendingnode>
+			<ascendingnode>180</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>M0.2V</spectraltype>
-		<mass>0.612</mass>
-		<radius>0.553</radius>
+		<mass>0.60</mass>
+		<radius>0.56</radius>
 		<metallicity>-0.32</metallicity>
 		<distance>45</distance>
-		<temperature>3900</temperature>
+		<temperature>3896</temperature>
 		<rightascension>11 29 20.388</rightascension>
 		<declination>-01 27 17.23</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.17</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -36,7 +36,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/09/12</lastupdate>
+	<lastupdate>15/12/06</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission. The planetary system consists of three transiting Super-Earths. The low-mass star is bright and nearby, which makes this system an excellent laboratory to determine the planets' masses via Doppler spectroscopy and to constrain their atmospheric compositions via transit spectroscopy. The radial velocity signature of this planet is masked by variations due to stellar activity, preventing an accurate mass determination.</description>
 	<new />
 	<image />

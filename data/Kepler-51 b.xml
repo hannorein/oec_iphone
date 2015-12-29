@@ -7,13 +7,13 @@
 	<id>Kepler-51 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.175787</mass>
-		<radius>0.642469</radius>
+		<mass>0.0066</mass>
+		<radius>0.633</radius>
 		<orbit>
-			<period>45.155314</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<period>45.1540</period>
+			<semimajoraxis>0.2514</semimajoraxis>
+			<eccentricity>0.04</eccentricity>
+			<inclination>89.8</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -21,13 +21,13 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.0400</mass>
-		<radius>0.9400</radius>
+		<mass>1.04</mass>
+		<radius>0.88</radius>
 		<metallicity />
-		<distance>986.91</distance>
-		<temperature>6018.00</temperature>
-		<rightascension>19 45 55</rightascension>
-		<declination>+49 56 15</declination>
+		<distance />
+		<temperature>6018</temperature>
+		<rightascension>19 45 55.146</rightascension>
+		<declination>+49 56 15.66</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -37,8 +37,8 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>14/03/05</lastupdate>
-	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature.</description>
+	<lastupdate>15/12/12</lastupdate>
+	<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -7,12 +7,12 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.177</radius>
+		<radius>0.170</radius>
 		<orbit>
-			<period>5.73491</period>
-			<semimajoraxis>0.0509</semimajoraxis>
+			<period>5.73594</period>
+			<semimajoraxis>0.0532</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>87.35</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -20,15 +20,15 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.53</mass>
-		<radius>0.52</radius>
-		<metallicity>-0.51</metallicity>
+		<mass>0.61</mass>
+		<radius>0.57</radius>
+		<metallicity>-0.33</metallicity>
 		<distance>181</distance>
-		<temperature>4102</temperature>
+		<temperature>3930</temperature>
 		<rightascension>11 17 12.84</rightascension>
 		<declination>-01 52 40.71</declination>
 		<angulardistance />
-		<magV />
+		<magV>14.91</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -36,11 +36,10 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/07/07</lastupdate>
+	<lastupdate>15/12/06</lastupdate>
 	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
-	<list>Planets in binary systems, S-type</list>
 </planet>

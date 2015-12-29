@@ -1,6 +1,10 @@
 <planet>
 	<id_exoplaneteu>eps Tau b</id_exoplaneteu>
 	<name>eps Tau b</name>
+	<name>eps Tauri b</name>
+	<name>Epsilon Tauri b</name>
+	<name>&#949; Tau b</name>
+	<name>&#949; Tauri b</name>
 	<id>eps Tau b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -11,7 +15,7 @@
 			<semimajoraxis>1.93</semimajoraxis>
 			<eccentricity>0.151</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>94.4</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +25,10 @@
 		<mass>2.7</mass>
 		<radius>13.7</radius>
 		<metallicity>0.17</metallicity>
-		<distance>45</distance>
-		<temperature>574.9</temperature>
-		<rightascension>04 28 37</rightascension>
-		<declination>+19 10 50</declination>
+		<distance>44.96</distance>
+		<temperature>4901</temperature>
+		<rightascension>04 28 36.99882</rightascension>
+		<declination>+19 10 49.5446</declination>
 		<angulardistance />
 		<magV>3.53</magV>
 		<magI />
@@ -34,8 +38,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>07/02/07</lastupdate>
-	<description />
+	<lastupdate>15/12/11</lastupdate>
+	<description>Epsilon Tauri b orbits a giant star in the Hyades cluster.</description>
 	<new />
 	<image />
 	<imagedescription />
