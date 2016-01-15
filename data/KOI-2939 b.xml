@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>KOI-2939 b</id_exoplaneteu>
+	<name>KOI-2939 b</name>
+	<name>KOI-2939 (AB) b</name>
+	<name>KIC 5473556 (AB) b</name>
+	<id>KOI-2939 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.520</mass>
+		<radius>1.059320</radius>
+		<orbit>
+			<period>1107.5923</period>
+			<semimajoraxis>2.7205</semimajoraxis>
+			<eccentricity>0.0581</eccentricity>
+			<inclination>90.0972</inclination>
+			<periastron>155.0464</periastron>
+			<longitude />
+			<ascendingnode>-2.0393</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.2207</mass>
+		<radius>1.7903</radius>
+		<metallicity>-0.14</metallicity>
+		<distance />
+		<temperature>6210</temperature>
+		<rightascension>19 52 36.02</rightascension>
+		<declination>+40 39 22.2</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>16/01/09</lastupdate>
+	<description>KOI-2939 b is a large planet orbiting an 11-day eclipsing binary star. Despite the long orbital period, its orbit lies within the habitable zone of the binary star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
+</planet>

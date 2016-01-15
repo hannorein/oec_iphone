@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Kepler-454 b</id_exoplaneteu>
+	<name>Kepler-454 b</name>
+	<name>KOI-273.01</name>
+	<name>KOI-273 b</name>
+	<name>KIC 3102384 b</name>
+	<id>Kepler-454 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.02152</mass>
+		<radius>0.2114</radius>
+		<orbit>
+			<period>10.57375339</period>
+			<semimajoraxis>0.0954</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.090</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.028</mass>
+		<radius>1.066</radius>
+		<metallicity>0.27</metallicity>
+		<distance>200</distance>
+		<temperature>5687</temperature>
+		<rightascension>19 09 54.841</rightascension>
+		<declination>+38 13 43.95</declination>
+		<angulardistance />
+		<magV>11.57</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>16/01/09</lastupdate>
+	<description>Kepler-454 b is a small but non-rocky planet orbiting the star every 10.6 days. Its mass has been determined using radial velocities from HARPS-N.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

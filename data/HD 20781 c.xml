@@ -4,7 +4,7 @@
 	<id>HD 20781 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.0496</mass>
+		<mass>0.049649</mass>
 		<radius />
 		<orbit>
 			<period>85.131</period>
@@ -17,16 +17,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G2 V</spectraltype>
-		<mass>0.9</mass>
-		<radius />
-		<metallicity>-0.05</metallicity>
-		<distance>36.02</distance>
-		<temperature>211.4</temperature>
-		<rightascension>03 20 03</rightascension>
-		<declination>-28 51 14</declination>
+		<spectraltype>G1.5 V</spectraltype>
+		<mass>1.02</mass>
+		<radius>1.09</radius>
+		<metallicity>0.01</metallicity>
+		<distance>35.49</distance>
+		<temperature>5798</temperature>
+		<rightascension>03 20 03.57791</rightascension>
+		<declination>-28 51 14.6651</declination>
 		<angulardistance />
-		<magV>7.366</magV>
+		<magV>7.38</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>12/12/09</lastupdate>
+	<lastupdate>16/01/10</lastupdate>
 	<description>The planet HD 20781 c is orbiting a star in a binary system in which both stars host a planetary systems. This is the first such system. It was announced as part of a large data release by the Euopean HARPS team.</description>
 	<new />
 	<image />
