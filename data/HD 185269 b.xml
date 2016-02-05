@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>HD 185269 b</id_exoplaneteu>
 	<name>HD 185269 b</name>
+	<name>HD 185269 A b</name>
 	<id>HD 185269 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -9,9 +10,9 @@
 		<orbit>
 			<period>6.838</period>
 			<semimajoraxis>0.077</semimajoraxis>
-			<eccentricity>0.3</eccentricity>
+			<eccentricity>0.30</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>173</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,12 +22,12 @@
 		<mass>1.28</mass>
 		<radius>1.88</radius>
 		<metallicity>0.11</metallicity>
-		<distance>47</distance>
-		<temperature>1295.4</temperature>
-		<rightascension>19 37 12</rightascension>
-		<declination>+28 30 00</declination>
+		<distance>50.28</distance>
+		<temperature>5980</temperature>
+		<rightascension>19 37 11.74092</rightascension>
+		<declination>+28 29 59.5055</declination>
 		<angulardistance />
-		<magV>6.67</magV>
+		<magV>6.683</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2006</discoveryyear>
-	<lastupdate>06/08/16</lastupdate>
+	<lastupdate>16/01/22</lastupdate>
 	<description />
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

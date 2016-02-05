@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-129 b</id_exoplaneteu>
+	<name>WASP-129 b</name>
+	<name>TYC 7749-508-1 b</name>
+	<name>2MASS J11451175-4203501 b</name>
+	<id>WASP-129 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1</mass>
+		<radius>0.93</radius>
+		<orbit>
+			<period>5.748145</period>
+			<semimajoraxis>0.0628</semimajoraxis>
+			<eccentricity />
+			<inclination>87.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G1</spectraltype>
+		<mass>1.00</mass>
+		<radius>0.93</radius>
+		<metallicity>0.15</metallicity>
+		<distance>246</distance>
+		<temperature>5900</temperature>
+		<rightascension>11 45 11.75</rightascension>
+		<declination>-42 03 50.1</declination>
+		<angulardistance />
+		<magV>12.18</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/02/04</lastupdate>
+	<description>This Hot Jupiter was discovered by WASP-South.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

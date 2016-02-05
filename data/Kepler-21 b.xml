@@ -1,25 +1,28 @@
 <planet>
 	<id_exoplaneteu>Kepler-21 b</id_exoplaneteu>
 	<name>Kepler-21 b</name>
+	<name>Kepler-21 A b</name>
 	<name>HIP 94112 b</name>
 	<name>TYC 3120-00963-1 b</name>
 	<name>HD 179070 b</name>
-	<name>BD+38 3455 b</name>
+	<name>HD 179070 A b</name>
+	<name>BD+38 3455 A b</name>
 	<name>SAO 67891 b</name>
 	<name>2MASS J19092683+3842505 b</name>
 	<name>KIC 3632418 b</name>
 	<name>KOI-975.01</name>
 	<name>KOI-975 b</name>
+	<name>KOI-975 A b</name>
 	<id>Kepler-21 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.033</mass>
-		<radius>0.1459</radius>
+		<mass />
+		<radius>0.1456</radius>
 		<orbit>
 			<period>2.785755</period>
-			<semimajoraxis>0.042507</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>82.58</inclination>
+			<semimajoraxis>0.042509</semimajoraxis>
+			<eccentricity />
+			<inclination>82.59</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -27,15 +30,15 @@
 	</properties>
 	<star>
 		<spectraltype>F6IV</spectraltype>
-		<mass>1.34</mass>
-		<radius>1.86</radius>
+		<mass>1.340</mass>
+		<radius>1.860</radius>
 		<metallicity>-0.15</metallicity>
-		<distance>108</distance>
-		<temperature>1788.2</temperature>
-		<rightascension>19 09 27</rightascension>
-		<declination>+38 42 50</declination>
+		<distance>112.9</distance>
+		<temperature>6131</temperature>
+		<rightascension>19 09 26.83535</rightascension>
+		<declination>+38 42 50.4593</declination>
 		<angulardistance />
-		<magV>8.27</magV>
+		<magV>8.25</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -43,10 +46,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/12/12</lastupdate>
+	<lastupdate>16/01/22</lastupdate>
 	<description>This planet has been discovered with the Kepler spacecraft. It is orbiting Kepler's brightest host star and is only 1.6 times larger than the Earth.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

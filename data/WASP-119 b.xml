@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-119 b</id_exoplaneteu>
+	<name>WASP-119 b</name>
+	<name>2MASS J03434402-6511378 b</name>
+	<id>WASP-119 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.23</mass>
+		<radius>1.4</radius>
+		<orbit>
+			<period>2.49979</period>
+			<semimajoraxis>0.0363</semimajoraxis>
+			<eccentricity />
+			<inclination>85</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>1.02</mass>
+		<radius>1.4</radius>
+		<metallicity>0.14</metallicity>
+		<distance>333</distance>
+		<temperature>5650</temperature>
+		<rightascension>03 43 44.02</rightascension>
+		<declination>-65 11 37.8</declination>
+		<angulardistance />
+		<magV>12.2</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/02/04</lastupdate>
+	<description>This Hot Jupiter was discovered by WASP-South.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

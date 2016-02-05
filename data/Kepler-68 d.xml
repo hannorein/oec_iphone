@@ -1,10 +1,13 @@
 <planet>
 	<id_exoplaneteu>Kepler-68 d</id_exoplaneteu>
 	<name>Kepler-68 d</name>
+	<name>Kepler-68 A d</name>
 	<name>KIC 11295426 d</name>
+	<name>KIC 11295426 A d</name>
 	<name>2MASS J19240775+4902249 d</name>
 	<name>KOI-246.20</name>
 	<name>KOI-246 d</name>
+	<name>KOI-246 A d</name>
 	<id>Kepler-68 d</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
@@ -27,8 +30,8 @@
 		<metallicity>0.12</metallicity>
 		<distance>135</distance>
 		<temperature>5793</temperature>
-		<rightascension>19 24 07</rightascension>
-		<declination>+49 02 25</declination>
+		<rightascension>19 24 07.7644</rightascension>
+		<declination>+49 02 24.957</declination>
 		<angulardistance />
 		<magV>9.997</magV>
 		<magI />
@@ -39,9 +42,10 @@
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2013</discoveryyear>
 	<lastupdate>15/06/09</lastupdate>
-	<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefor a lower limit.</description>
+	<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefore a lower limit.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

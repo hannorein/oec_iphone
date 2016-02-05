@@ -1,17 +1,18 @@
 <planet>
 	<id_exoplaneteu>HD 7449 c</id_exoplaneteu>
 	<name>HD 7449 c</name>
+	<name>HD 7449 A c</name>
 	<id>HD 7449 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2</mass>
+		<mass>2.00</mass>
 		<radius />
 		<orbit>
 			<period>4046</period>
 			<semimajoraxis>4.96</semimajoraxis>
 			<eccentricity>0.53</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>11</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +22,10 @@
 		<mass>1.05</mass>
 		<radius>1.01</radius>
 		<metallicity>-0.11</metallicity>
-		<distance>39</distance>
-		<temperature>166.9</temperature>
-		<rightascension>01 14 29</rightascension>
-		<declination>-05 02 51</declination>
+		<distance>38.9</distance>
+		<temperature>6024.0</temperature>
+		<rightascension>01 14 29.32198</rightascension>
+		<declination>-05 02 50.5942</declination>
 		<angulardistance />
 		<magV>7.5</magV>
 		<magI />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/08/02</lastupdate>
-	<description>HD 7449 c was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 b. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
+	<lastupdate>16/02/04</lastupdate>
+	<description>HD 7449 c was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows signs of short-term activity due to magnetic features on the stellar surface. Subsequently the long term trend in the system was ascribed to the stellar companion, HD 7449 B.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

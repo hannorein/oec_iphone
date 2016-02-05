@@ -5,11 +5,11 @@
 	<id>OGLE-2012-BLG-0026L c</id>
 	<discoverymethod>microlensing</discoverymethod>
 	<properties>
-		<mass>0.68</mass>
+		<mass>0.86</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>4.63</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -19,15 +19,15 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.82</mass>
+		<mass>1.06</mass>
 		<radius />
 		<metallicity />
-		<distance>4080</distance>
+		<distance>4019</distance>
 		<temperature />
-		<rightascension>17 34 18</rightascension>
-		<declination>-27 08 33</declination>
+		<rightascension>17 34 18.70</rightascension>
+		<declination>-27 08 33.9</declination>
 		<angulardistance />
-		<magV />
+		<magV>20.66</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -35,8 +35,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/10/17</lastupdate>
-	<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models.</description>
+	<lastupdate>16/01/21</lastupdate>
+	<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models. Adaptive optics imaging was used to detect the flux from the host star.</description>
 	<new />
 	<image />
 	<imagedescription />

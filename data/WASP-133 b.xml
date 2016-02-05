@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-133 b</id_exoplaneteu>
+	<name>WASP-133 b</name>
+	<name>2MASS J20581808-3547475 b</name>
+	<id>WASP-133 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.16</mass>
+		<radius>1.21</radius>
+		<orbit>
+			<period>2.176423</period>
+			<semimajoraxis>0.0345</semimajoraxis>
+			<eccentricity />
+			<inclination>87</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G4</spectraltype>
+		<mass>1.16</mass>
+		<radius>1.21</radius>
+		<metallicity>0.29</metallicity>
+		<distance>547</distance>
+		<temperature>5700</temperature>
+		<rightascension>20 58 18.08</rightascension>
+		<declination>-35 47 47.5</declination>
+		<angulardistance />
+		<magV>12.9</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/02/04</lastupdate>
+	<description>This Hot Jupiter was discovered by WASP-South.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

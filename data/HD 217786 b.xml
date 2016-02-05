@@ -1,17 +1,18 @@
 <planet>
 	<id_exoplaneteu>HD 217786 b</id_exoplaneteu>
 	<name>HD 217786 b</name>
+	<name>HD 217786 A b</name>
 	<id>HD 217786 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>13</mass>
+		<mass>13.0</mass>
 		<radius />
 		<orbit>
 			<period>1319</period>
 			<semimajoraxis>2.38</semimajoraxis>
-			<eccentricity>0.4</eccentricity>
+			<eccentricity>0.40</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>100</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,12 +22,12 @@
 		<mass>1.02</mass>
 		<radius>1.27</radius>
 		<metallicity>-0.135</metallicity>
-		<distance>54.8</distance>
-		<temperature>190.2</temperature>
-		<rightascension>23 03 08</rightascension>
-		<declination>-00 25 47</declination>
+		<distance>54.9</distance>
+		<temperature>5966</temperature>
+		<rightascension>23 03 08.205</rightascension>
+		<declination>-00 25 46.66</declination>
 		<angulardistance />
-		<magV>7.8</magV>
+		<magV>7.779</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/12/20</lastupdate>
+	<lastupdate>16/01/22</lastupdate>
 	<description />
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

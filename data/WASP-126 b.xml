@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-126 b</id_exoplaneteu>
+	<name>WASP-126 b</name>
+	<name>TYC 9153-833-1 b</name>
+	<name>2MASS J04132972-6913365 b</name>
+	<id>WASP-126 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.28</mass>
+		<radius>0.96</radius>
+		<orbit>
+			<period>3.28880</period>
+			<semimajoraxis>0.0449</semimajoraxis>
+			<eccentricity />
+			<inclination>87.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2</spectraltype>
+		<mass>1.12</mass>
+		<radius>0.96</radius>
+		<metallicity>0.17</metallicity>
+		<distance>234</distance>
+		<temperature>5800</temperature>
+		<rightascension>04 13 29.72</rightascension>
+		<declination>-69 13 36.5</declination>
+		<angulardistance />
+		<magV>10.8</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/02/04</lastupdate>
+	<description>This Hot Jupiter was discovered by WASP-South. This low mass planet with a large radius is a good target for Transmission spectroscopy.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

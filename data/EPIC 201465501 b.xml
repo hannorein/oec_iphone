@@ -7,28 +7,28 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.147</radius>
+		<radius>0.2007</radius>
 		<orbit>
-			<period>18.44883</period>
-			<semimajoraxis>0.0848</semimajoraxis>
+			<period>18.4498</period>
+			<semimajoraxis>0.091</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>87.983</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.24</mass>
-		<radius>0.25</radius>
-		<metallicity>-0.46</metallicity>
-		<distance>66</distance>
-		<temperature>3468</temperature>
+		<spectraltype>M2.5V</spectraltype>
+		<mass>0.30</mass>
+		<radius>0.31</radius>
+		<metallicity>-0.25</metallicity>
+		<distance>110</distance>
+		<temperature>3390</temperature>
 		<rightascension>11 45 03.472</rightascension>
 		<declination>+00 00 19.08</declination>
 		<angulardistance />
-		<magV />
+		<magV>15.63</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -36,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/07/07</lastupdate>
-	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<lastupdate>16/01/21</lastupdate>
+	<description>K2-9b was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. It receives approximately Earth-like insolation and has a radius intermediate between that of Earth and Neptune. The orbit most likely has a low eccentricity.</description>
 	<new />
 	<image />
 	<imagedescription />
