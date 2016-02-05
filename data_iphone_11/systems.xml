@@ -1,4 +1,4 @@
-<systems name="systems" planets="2129">
+<systems name="systems" planets="2135">
 	<system>
 		<name>11 Com</name>
 		<rightascension>12 20 43</rightascension>
@@ -3569,10 +3569,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	</system>
 	<system>
 		<name>CoRoT-22</name>
-		<rightascension>18 42 40</rightascension>
-		<declination>+06 13 09</declination>
+		<rightascension>18 42 40.109</rightascension>
+		<declination>+06 13 08.97</declination>
 		<distance errorminus="42" errorplus="25">592.0</distance>
 		<star>
+			<magB errorminus="0.041" errorplus="0.041">14.740</magB>
+			<magV errorminus="0.083" errorplus="0.083">13.944</magV>
 			<magR errorminus="0.10" errorplus="0.10">14.03</magR>
 			<magJ errorminus="0.027" errorplus="0.027">12.414</magJ>
 			<magH errorminus="0.027" errorplus="0.027">12.099</magH>
@@ -4674,32 +4676,35 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<name>K2-9</name>
 		<rightascension>11 45 03.472</rightascension>
 		<declination>+00 00 19.08</declination>
-		<distance errorminus="7" errorplus="11">66</distance>
+		<distance errorminus="12" errorplus="12">110</distance>
 		<star>
 			<name>EPIC 201465501</name>
 			<name>K2-9</name>
 			<name>2MASS J11450348+0000190</name>
-			<mass errorminus="0.03" errorplus="0.05">0.24</mass>
-			<radius errorminus="0.03" errorplus="0.04">0.25</radius>
-			<temperature errorminus="19" errorplus="20">3468</temperature>
-			<magJ errorminus="0.02" errorplus="0.02">12.45</magJ>
-			<magH errorminus="0.02" errorplus="0.02">11.71</magH>
-			<magK errorminus="0.02" errorplus="0.02">11.49</magK>
-			<metallicity errorminus="0.1" errorplus="0.12">-0.46</metallicity>
+			<spectraltype errorminus="0.5">M2.5V</spectraltype>
+			<mass errorminus="0.14" errorplus="0.14">0.30</mass>
+			<radius errorminus="0.11" errorplus="0.11">0.31</radius>
+			<temperature errorminus="150" errorplus="150">3390</temperature>
+			<magV>15.63</magV>
+			<magJ errorminus="0.024" errorplus="0.024">12.451</magJ>
+			<magH errorminus="0.022" errorplus="0.022">11.710</magH>
+			<magK errorminus="0.023" errorplus="0.023">11.495</magK>
+			<metallicity errorminus="0.20" errorplus="0.20">-0.25</metallicity>
+			<age lowerlimit="1" />
 			<planet>
 				<name>EPIC 201465501 b</name>
 				<name>EPIC 201465501.01</name>
 				<name>K2-9 b</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.039" errorplus="0.039">0.147</radius>
-				<period errorminus="0.00137" errorplus="0.00137">18.44883</period>
-				<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2456822.6723</transittime>
-				<semimajoraxis errorminus="0.005" errorplus="0.005">0.0848</semimajoraxis>
-				<temperature errorminus="14" errorplus="14">284</temperature>
-				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+				<radius errorminus="0.0856" errorplus="0.0473">0.2007</radius>
+				<period errorminus="0.0015" errorplus="0.0015">18.4498</period>
+				<transittime errorminus="0.0033" errorplus="0.0025" unit="BJD">2456822.6712</transittime>
+				<semimajoraxis errorminus="0.016" errorplus="0.013">0.091</semimajoraxis>
+				<inclination errorminus="0.080" errorplus="1.593">87.983</inclination>
+				<description>K2-9b was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. It receives approximately Earth-like insolation and has a radius intermediate between that of Earth and Neptune. The orbit most likely has a low eccentricity.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/07</lastupdate>
+				<lastupdate>16/01/21</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -7049,16 +7054,18 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	</system>
 	<system>
 		<name>Gliese 163</name>
-		<rightascension>04 09 16</rightascension>
-		<declination>-53 22 23</declination>
-		<distance errorminus="0.4" errorplus="0.4">15</distance>
+		<rightascension>04 09 15.66350</rightascension>
+		<declination>-53 22 23.3050</declination>
+		<distance errorminus="0.4" errorplus="0.4">15.0</distance>
 		<star>
 			<name>Gliese 163</name>
 			<name>GJ 163</name>
 			<name>HIP 19394</name>
 			<name>LHS 188</name>
+			<name>TYC 8502-1934-1</name>
+			<name>2MASS J04091567-5322254</name>
 			<mass errorminus="0.04" errorplus="0.04">0.40</mass>
-			<magV>10.93</magV>
+			<magV errorminus="0.012" errorplus="0.012">11.811</magV>
 			<magB>13.302</magB>
 			<magR>10.734</magR>
 			<magI>9.32</magI>
@@ -7073,15 +7080,15 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<name>HIP 19394 b</name>
 				<name>LHS 188 b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.001887" errorplus="0.001887">0.033344</mass>
+				<mass errorminus="0.001887" errorplus="0.001887" type="msini">0.033344</mass>
 				<period errorminus="0.00155" errorplus="0.00155">8.63182</period>
-				<semimajoraxis errorminus="0.00001" errorplus="0.00001">0.0607</semimajoraxis>
+				<semimajoraxis errorminus="0.00001" errorplus="0.00001">0.06070</semimajoraxis>
 				<eccentricity errorminus="0.05" errorplus="0.05">0.073</eccentricity>
 				<periastron errorminus="54.602878" errorplus="54.602878">70.702992</periastron>
 				<longitude errorminus="15.699044" errorplus="15.699044">6.359832</longitude>
 				<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. The outer planet lies within the habitable zone.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>13/07/14</lastupdate>
+				<lastupdate>16/02/03</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 			</planet>
 			<planet>
@@ -7090,7 +7097,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<name>HIP 19394 c</name>
 				<name>LHS 188 c</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.002831" errorplus="0.002831">0.021391</mass>
+				<mass errorminus="0.002831" errorplus="0.002831" type="msini">0.021391</mass>
 				<temperature errorminus="10" errorplus="10">302</temperature>
 				<period errorminus="0.02550" errorplus="0.02550">25.63058</period>
 				<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.1254</semimajoraxis>
@@ -7099,7 +7106,7 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 				<longitude errorminus="30.022988" errorplus="30.022988">24.522594</longitude>
 				<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. Gliese 163 c lies within the habitable zone for a wide range of albedo values and has an equilibrium temperature of 60C (140F).</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>13/07/14</lastupdate>
+				<lastupdate>16/02/03</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<image>Gliese163c</image>
 				<imagedescription>Artist's impression of the exoplanet Gliese 163 showing a thick water vapour atmosphere.
@@ -7112,28 +7119,34 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>HIP 19394 d</name>
 				<name>LHS 188 d</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.009123" errorplus="0.009123">0.092484</mass>
+				<mass errorminus="0.009123" errorplus="0.009123" type="msini">0.092484</mass>
 				<eccentricity errorminus="0.077" errorplus="0.077">0.373</eccentricity>
 				<periastron errorminus="20.454593" errorplus="20.454593">118.258489</periastron>
 				<longitude errorminus="17.246030" errorplus="17.246030">144.958322</longitude>
 				<semimajoraxis errorminus="0.0086" errorplus="0.0086">1.0304</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>13/07/14</lastupdate>
+				<lastupdate>16/02/03</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<description>The HARPS team announced the discovery of the third planet arounf the M dwarf GJ 163 in a paper posted on June 4th 2013. The systems contains further periodig signals which could me caused by additional planets. However, more data is required to confirm the planetary nature of the signal.</description>
+				<description>The HARPS team announced the discovery of the third planet arounf the M dwarf GJ 163 in a paper posted on June 4th 2013. The systems contains further periodic signals which could me caused by additional planets. However, more data is required to confirm the planetary nature of the signal.</description>
 			</planet>
 		</star>
 	</system>
 	<system>
 		<name>Gliese 176</name>
-		<rightascension>04 42 56</rightascension>
-		<declination>+18 57 29</declination>
-		<distance>9.42</distance>
+		<rightascension>04 42 55.77497</rightascension>
+		<declination>+18 57 29.4043</declination>
+		<distance errorminus="0.22" errorplus="0.22">9.42</distance>
 		<star>
 			<name>Gliese 176</name>
+			<name>GJ 176</name>
 			<name>HD 285968</name>
+			<name>HIP 21932</name>
+			<name>TYC 1275-2034-1</name>
+			<name>BD+18 683</name>
+			<name>2MASS J04425581+1857285</name>
 			<mass>0.49</mass>
 			<radius>0.53</radius>
+			<magU>12.668</magU>
 			<magV>9.97</magV>
 			<magB>11.49</magB>
 			<magR>8.931</magR>
@@ -7141,7 +7154,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<magJ errorminus="0.024" errorplus="0.024">6.462</magJ>
 			<magH errorminus="0.033" errorplus="0.033">5.824</magH>
 			<magK errorminus="0.034" errorplus="0.034">5.607</magK>
-			<metallicity>-0.1</metallicity>
+			<metallicity errorminus="0.2" errorplus="0.2">-0.1</metallicity>
 			<spectraltype>M2.5V</spectraltype>
 			<planet>
 				<name>Gliese 176 b</name>
@@ -7150,17 +7163,18 @@ Credit: Joe Gallagher.</imagedescription>
 				<name>Gl 176 b</name>
 				<name>HD 285968 b</name>
 				<list>Confirmed planets</list>
-				<mass>0.0265</mass>
-				<period>8.7836</period>
+				<mass type="msini">0.0264</mass>
+				<period errorminus="0.0054" errorplus="0.0054">8.7836</period>
 				<semimajoraxis>0.066</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
+				<periastrontime errorminus="0.33" errorplus="0.33">2454399.79</periastrontime>
 				<description>Gliese 176 is a red dwarf located in the constellation Taurus. It has half the mass of our Sun. The planet consists mainly of rock but probably has a thick gas atmosphere.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/17</lastupdate>
+				<lastupdate>16/02/03</lastupdate>
 				<discoveryyear>2007</discoveryyear>
-				<temperature>439.8</temperature>
 			</planet>
-			<temperature>3520.0</temperature>
+			<temperature>3520</temperature>
 		</star>
 	</system>
 	<system>
@@ -8555,15 +8569,35 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 	</system>
 	<system>
 		<name>Gliese 86</name>
-		<rightascension>02 10 14</rightascension>
-		<declination>-50 50 00</declination>
-		<distance>10.9</distance>
+		<rightascension>02 10 25.93425</rightascension>
+		<declination>-50 49 25.4179</declination>
+		<distance errorminus="0.037" errorplus="0.037">10.783</distance>
 		<binary>
-			<semimajoraxis>27.8</semimajoraxis>
+			<name>Gliese 86</name>
+			<name>GJ 86</name>
+			<name>HD 13445</name>
+			<name>CD-51 532</name>
+			<name>CPD-51 282</name>
+			<name>WDS J02104-5049</name>
+			<period lowerlimit="43830" upperlimit="57720" />
+			<semimajoraxis lowerlimit="27.8" upperlimit="69.8" />
+			<periastrontime lowerlimit="2427100" upperlimit="2476000" />
+			<eccentricity upperlimit="0.61" />
+			<inclination lowerlimit="114.7" upperlimit="122.6" />
+			<ascendingnode lowerlimit="63.7" upperlimit="76.1" />
+			<periastron lowerlimit="0" upperlimit="358" />
 			<star>
 				<name>Gliese 86 A</name>
+				<name>GJ 86 A</name>
 				<name>HR 637</name>
-				<name>HD 13445</name>
+				<name>HD 13445 A</name>
+				<name>HIP 10138</name>
+				<name>TYC 8048-1022-1</name>
+				<name>SAO 232658</name>
+				<name>CD-51 532 A</name>
+				<name>CPD-51 282 A</name>
+				<name>2MASS J02102587-5049258</name>
+				<name>WDS J02104-5049 A</name>
 				<mass>0.8</mass>
 				<radius>0.855</radius>
 				<magV>6.17</magV>
@@ -8572,31 +8606,41 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 				<magJ errorminus="0.25" errorplus="0.25">4.79</magJ>
 				<magH errorminus="0.28" errorplus="0.28">4.25</magH>
 				<magK>4.125</magK>
+				<temperature errorminus="50" errorplus="50">5188</temperature>
 				<metallicity>-0.24</metallicity>
 				<spectraltype>K1V</spectraltype>
+				<age>2.5</age>
 				<planet>
 					<name>Gliese 86 b</name>
+					<name>Gliese 86 A b</name>
 					<name>GJ 86 b</name>
+					<name>GJ 86 A b</name>
 					<name>Gj 86 b</name>
 					<name>Gl 86 b</name>
+					<name>HD 13445 b</name>
+					<name>HD 13445 A b</name>
 					<list>Confirmed planets</list>
-					<mass>4.01</mass>
-					<period errorminus="0.04" errorplus="0.04">15.766</period>
-					<semimajoraxis>0.11</semimajoraxis>
-					<eccentricity errorminus="0.004" errorplus="0.004">0.046</eccentricity>
+					<mass errorminus="0.32" errorplus="0.32" type="msini">3.91</mass>
+					<period errorminus="0.00039" errorplus="0.00039">15.76491</period>
+					<semimajoraxis errorminus="0.0065" errorplus="0.0065">0.1130</semimajoraxis>
+					<eccentricity errorminus="0.0072" errorplus="0.0072">0.0416</eccentricity>
+					<periastron errorminus="16" errorplus="16">269</periastron>
+					<periastrontime errorminus="0.59" errorplus="0.59">2451903.36</periastrontime>
 					<description>The star Gliese 86 is a K-type dwarf star and a member of a binary system in the constellation Eridanus. A linear trend in the radial velocity data may be associated with the stellar companion or another planetary companion.</description>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>09/10/07</lastupdate>
+					<lastupdate>16/02/03</lastupdate>
 					<discoveryyear>2000</discoveryyear>
-					<temperature>657.6</temperature>
 					<list>Planets in binary systems, S-type</list>
 				</planet>
-				<temperature errorminus="50" errorplus="50">5188</temperature>
-				<age>2.5</age>
 			</star>
 			<star>
 				<name>Gliese 86 B</name>
 				<name>WD 0208-510</name>
+				<name>HD 13445 B</name>
+				<name>CD-51 532 B</name>
+				<name>CPD-51 282 B</name>
+				<name>2MASS J02102587-5049258</name>
+				<name>WDS J02104-5049 B</name>
 				<mass errorminus="0.01" errorplus="0.01">0.59</mass>
 				<radius errorminus="0.0015" errorplus="0.0015">0.01245</radius>
 				<magV>13.2</magV>
@@ -17557,31 +17601,69 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 185269</name>
-		<rightascension>19 37 12</rightascension>
-		<declination>+28 30 00</declination>
-		<distance>47</distance>
-		<star>
-			<mass>1.28</mass>
-			<radius>1.88</radius>
-			<magV>6.67</magV>
-			<magB>7.238</magB>
-			<metallicity>0.11</metallicity>
-			<spectraltype>G0IV</spectraltype>
-			<planet>
-				<name>HD 185269 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.94</mass>
-				<period>6.838</period>
-				<semimajoraxis>0.077</semimajoraxis>
-				<eccentricity>0.3</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>06/08/16</lastupdate>
-				<discoveryyear>2006</discoveryyear>
-				<temperature>1295.4</temperature>
-			</planet>
+		<rightascension>19 37 11.74092</rightascension>
+		<declination>+28 29 59.5055</declination>
+		<distance errorminus="1.42" errorplus="1.42">50.28</distance>
+		<binary>
 			<name>HD 185269</name>
-			<temperature>5980.0</temperature>
-		</star>
+			<name>BD+28 3412</name>
+			<separation errorminus="0.011" errorplus="0.011" unit="arcsec">4.547</separation>
+			<separation errorminus="6.5" errorplus="6.5" unit="AU">228.6</separation>
+			<positionangle errorminus="0.14" errorplus="0.14">8.15</positionangle>
+			<star>
+				<name>HD 185269 A</name>
+				<name>HIP 96507</name>
+				<name>TYC 2150-5013-1</name>
+				<name>SAO 87464</name>
+				<name>BD+28 3412 A</name>
+				<name>2MASS J19371174+2829597</name>
+				<mass errorminus="0.1" errorplus="0.1">1.28</mass>
+				<radius errorminus="0.1" errorplus="0.1">1.88</radius>
+				<magB>7.238</magB>
+				<magV>6.683</magV>
+				<magJ errorminus="0.027" errorplus="0.027">5.518</magJ>
+				<magH errorminus="0.069" errorplus="0.069">5.400</magH>
+				<magK errorminus="0.018" errorplus="0.018">5.260</magK>
+				<temperature errorminus="50" errorplus="50">5980</temperature>
+				<metallicity errorminus="0.05" errorplus="0.05">0.11</metallicity>
+				<spectraltype>G0IV</spectraltype>
+				<age>4.2</age>
+				<planet>
+					<name>HD 185269 b</name>
+					<name>HD 185269 A b</name>
+					<list>Confirmed planets</list>
+					<mass type="msini">0.94</mass>
+					<period errorminus="0.001" errorplus="0.001">6.838</period>
+					<semimajoraxis>0.077</semimajoraxis>
+					<eccentricity errorminus="0.04" errorplus="0.04">0.30</eccentricity>
+					<periastron errorminus="6.8" errorplus="6.8">173</periastron>
+					<periastrontime errorminus="0.18" errorplus="0.18">2453154.1</periastrontime>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>16/01/22</lastupdate>
+					<discoveryyear>2006</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<binary>
+				<separation errorminus="0.0028" errorplus="0.0028" unit="arcsec">0.0956</separation>
+				<separation errorminus="0.20" errorplus="0.20" unit="AU">4.81</separation>
+				<positionangle errorminus="1.3" errorplus="1.3">221.1</positionangle>
+				<star>
+					<name>HD 185269 Ba</name>
+					<name>BD+28 3412 Ba</name>
+					<mass errorminus="0.08" errorplus="0.08">0.165</mass>
+					<magJ errorminus="0.09" errorplus="0.09">12.48</magJ>
+				</star>
+				<star>
+					<name>HD 185269 Bb</name>
+					<name>BD+28 3412 Bb</name>
+					<mass errorminus="0.008" errorplus="0.009">0.154</mass>
+					<magJ errorminus="0.09" errorplus="0.09">12.61</magJ>
+				</star>
+				<semimajoraxis>4.81</semimajoraxis>
+			</binary>
+			<semimajoraxis>228.6</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HD 187085</name>
@@ -18136,36 +18218,58 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 197037</name>
-		<rightascension>20 39 33</rightascension>
-		<declination>+42 14 55</declination>
-		<distance>33</distance>
-		<star>
-			<mass>1.11</mass>
-			<magV>6.81</magV>
-			<magB errorminus="0.01" errorplus="0.01">7.31</magB>
-			<magR>6.61</magR>
-			<magI>6.3</magI>
-			<magJ errorminus="0.024" errorplus="0.024">5.772</magJ>
-			<magH errorminus="0.024" errorplus="0.024">5.568</magH>
-			<magK errorminus="0.018" errorplus="0.018">5.488</magK>
-			<metallicity>-0.2</metallicity>
-			<spectraltype>F7V</spectraltype>
-			<planet>
-				<name>HD 197037 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.79</mass>
-				<period>1035.7</period>
-				<semimajoraxis>2.07</semimajoraxis>
-				<eccentricity>0.22</eccentricity>
-				<description>This planet was found by looking at 113 radial velocity data points which have been obtained over the last 10 years with a 2.7m telescope.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/02/04</lastupdate>
-				<discoveryyear>2012</discoveryyear>
-				<temperature>200.0</temperature>
-			</planet>
+		<rightascension>20 39 32.96014</rightascension>
+		<declination>+42 14 54.7845</declination>
+		<distance errorminus="0.4" errorplus="0.4">32.3</distance>
+		<binary>
 			<name>HD 197037</name>
-			<temperature>6150.0</temperature>
-		</star>
+			<name>BD+41 3845</name>
+			<separation errorminus="0.011" errorplus="0.011" unit="arcsec">3.676</separation>
+			<separation errorminus="1.5" errorplus="1.5" unit="AU">118.7</separation>
+			<positionangle errorminus="0.17" errorplus="0.17">182.14</positionangle>
+			<star>
+				<name>HD 197037 A</name>
+				<name>HIP 101948</name>
+				<name>TYC 3161-126-1</name>
+				<name>SAO 49900</name>
+				<name>BD+41 3845 A</name>
+				<name>2MASS J20393296+4214549</name>
+				<mass>1.11</mass>
+				<magV errorminus="0.010" errorplus="0.010">6.813</magV>
+				<magB errorminus="0.01" errorplus="0.01">7.31</magB>
+				<magR>6.61</magR>
+				<magI>6.3</magI>
+				<magJ errorminus="0.024" errorplus="0.024">5.772</magJ>
+				<magH errorminus="0.024" errorplus="0.024">5.568</magH>
+				<magK errorminus="0.018" errorplus="0.018">5.488</magK>
+				<temperature errorminus="100" errorplus="100">6150</temperature>
+				<metallicity errorminus="0.06" errorplus="0.06">-0.20</metallicity>
+				<spectraltype>F7V</spectraltype>
+				<age>1.90</age>
+				<planet>
+					<name>HD 197037 b</name>
+					<name>HD 197037 A b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.05" errorplus="0.05" type="msini">0.79</mass>
+					<period errorminus="13" errorplus="13">1035.7</period>
+					<semimajoraxis errorminus="0.05" errorplus="0.05">2.07</semimajoraxis>
+					<eccentricity errorminus="0.07" errorplus="0.07">0.22</eccentricity>
+					<periastron errorminus="26" errorplus="26">298</periastron>
+					<periastrontime errorminus="86" errorplus="86" unit="BJD">2451353.1</periastrontime>
+					<description>This planet was found by looking at 113 radial velocity data points which have been obtained over the last 10 years with a 2.7m telescope.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>16/01/22</lastupdate>
+					<discoveryyear>2012</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 197037 B</name>
+				<name>BD+41 3845 B</name>
+				<mass errorminus="0.0477" errorplus="0.0098">0.3412</mass>
+			</star>
+			<semimajoraxis>118.7</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HD 19994</name>
@@ -19439,35 +19543,57 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 217786</name>
-		<rightascension>23 03 08</rightascension>
-		<declination>-00 25 47</declination>
-		<distance>54.8</distance>
-		<star>
-			<mass>1.02</mass>
-			<radius>1.27</radius>
-			<magV>7.8</magV>
-			<magB errorminus="0.016" errorplus="0.016">8.360</magB>
-			<magR>7.60</magR>
-			<magJ errorminus="0.021" errorplus="0.021">6.685</magJ>
-			<magH errorminus="0.038" errorplus="0.038">6.416</magH>
-			<magK errorminus="0.020" errorplus="0.020">6.352</magK>
-			<metallicity>-0.135</metallicity>
-			<spectraltype>F8V</spectraltype>
-			<planet>
-				<name>HD 217786 b</name>
-				<list>Confirmed planets</list>
-				<mass>13</mass>
-				<period>1319</period>
-				<semimajoraxis>2.38</semimajoraxis>
-				<eccentricity>0.4</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/12/20</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<temperature>190.2</temperature>
-			</planet>
+		<rightascension>23 03 08.205</rightascension>
+		<declination>-00 25 46.66</declination>
+		<distance errorminus="2.3" errorplus="2.3">54.9</distance>
+		<binary>
 			<name>HD 217786</name>
-			<temperature>5966.0</temperature>
-		</star>
+			<name>BD-01 4382</name>
+			<separation errorminus="0.0069" errorplus="0.0069" unit="arcsec">2.8560</separation>
+			<separation errorminus="6.6" errorplus="6.6" unit="AU">156.8</separation>
+			<positionangle errorminus="0.16" errorplus="0.16">170.34</positionangle>
+			<star>
+				<name>HD 217786 A</name>
+				<name>HIP 113834</name>
+				<name>TYC 5242-591-1</name>
+				<name>SAO 146477</name>
+				<name>BD-01 4382 A</name>
+				<name>2MASS J23030822-0025465</name>
+				<mass errorminus="0.03" errorplus="0.03">1.02</mass>
+				<radius errorminus="0.06" errorplus="0.06">1.27</radius>
+				<magV errorminus="0.012" errorplus="0.012">7.779</magV>
+				<magB errorminus="0.016" errorplus="0.016">8.360</magB>
+				<magR>7.60</magR>
+				<magJ errorminus="0.021" errorplus="0.021">6.685</magJ>
+				<magH errorminus="0.038" errorplus="0.038">6.416</magH>
+				<magK errorminus="0.020" errorplus="0.020">6.352</magK>
+				<temperature errorminus="65" errorplus="65">5966</temperature>
+				<metallicity errorminus="0.043" errorplus="0.043">-0.135</metallicity>
+				<spectraltype>F8V</spectraltype>
+				<age>7.6</age>
+				<planet>
+					<name>HD 217786 b</name>
+					<name>HD 217786 A b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.8" errorplus="0.8" type="msini">13.0</mass>
+					<period errorminus="4" errorplus="4">1319</period>
+					<semimajoraxis errorminus="0.04" errorplus="0.04">2.38</semimajoraxis>
+					<eccentricity errorminus="0.05" errorplus="0.05">0.40</eccentricity>
+					<periastron errorminus="2" errorplus="2">100</periastron>
+					<periastrontime errorminus="7" errorplus="7">2456053</periastrontime>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>16/01/22</lastupdate>
+					<discoveryyear>2010</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 217786 B</name>
+				<name>BD-01 4382 B</name>
+				<mass errorminus="0.0068" errorplus="0.0071">0.1622</mass>
+			</star>
+			<semimajoraxis>156.8</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>HD 218566</name>
@@ -23708,48 +23834,78 @@ Image credit: Vanessa Bailey</imagedescription>
 	</system>
 	<system>
 		<name>HD 7449</name>
-		<rightascension>01 14 29</rightascension>
-		<declination>-05 02 51</declination>
-		<distance>39</distance>
-		<star>
-			<mass>1.05</mass>
-			<radius>1.01</radius>
-			<magV>7.5</magV>
-			<magB errorminus="0.02" errorplus="0.02">8.08</magB>
-			<magJ errorminus="0.023" errorplus="0.023">6.425</magJ>
-			<magH errorminus="0.042" errorplus="0.042">6.179</magH>
-			<magK errorminus="0.029" errorplus="0.029">6.084</magK>
-			<metallicity>-0.11</metallicity>
-			<spectraltype>F8V</spectraltype>
-			<planet>
-				<name>HD 7449 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.11</mass>
-				<period>1275</period>
-				<semimajoraxis>2.3</semimajoraxis>
-				<eccentricity>0.82</eccentricity>
-				<description>HD 7449 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 c. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/08/02</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<temperature>166.9</temperature>
-			</planet>
-			<planet>
-				<name>HD 7449 c</name>
-				<list>Confirmed planets</list>
-				<mass>2</mass>
-				<period>4046</period>
-				<semimajoraxis>4.96</semimajoraxis>
-				<eccentricity>0.53</eccentricity>
-				<description>HD 7449 c was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planetary system contains at least one other planet, HD 7449 b. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/08/02</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<temperature>117.6</temperature>
-			</planet>
+		<rightascension>01 14 29.32198</rightascension>
+		<declination>-05 02 50.5942</declination>
+		<distance errorminus="0.71" errorplus="0.74">38.9</distance>
+		<binary>
 			<name>HD 7449</name>
-			<temperature>6024.0</temperature>
-		</star>
+			<name>BD-05 215</name>
+			<semimajoraxis errorminus="12.9" errorplus="32">17.9</semimajoraxis>
+			<inclination errorminus="25.8" errorplus="20.1">59.7</inclination>
+			<period errorminus="20500" errorplus="82900">24000</period>
+			<eccentricity upperlimit="0.5" />
+			<star>
+				<name>HD 7449 A</name>
+				<name>HIP 5806</name>
+				<name>TYC 4683-883-1</name>
+				<name>SAO 129195</name>
+				<name>BD-05 215 A</name>
+				<name>2MASS J01142933-0502504</name>
+				<mass errorminus="0.09" errorplus="0.09">1.05</mass>
+				<radius>1.01</radius>
+				<magV>7.5</magV>
+				<magB errorminus="0.02" errorplus="0.02">8.08</magB>
+				<magJ errorminus="0.023" errorplus="0.023">6.425</magJ>
+				<magH errorminus="0.042" errorplus="0.042">6.179</magH>
+				<magK errorminus="0.029" errorplus="0.029">6.084</magK>
+				<temperature>6024.0</temperature>
+				<metallicity errorminus="0.01" errorplus="0.01">-0.11</metallicity>
+				<spectraltype>F8V</spectraltype>
+				<age errorminus="0.24" errorplus="0.24">2.10</age>
+				<planet>
+					<name>HD 7449 b</name>
+					<name>HD 7449 A b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.19" errorplus="0.52" type="msini">1.09</mass>
+					<period errorminus="12.1" errorplus="5.92">1270.5</period>
+					<semimajoraxis errorminus="0.02" errorplus="0.01">2.33</semimajoraxis>
+					<eccentricity errorminus="0.06" errorplus="0.08">0.80</eccentricity>
+					<periastron errorminus="5.22" errorplus="6.87">-25.2</periastron>
+					<periastrontime errorminus="22" errorplus="31">2455298</periastrontime>
+					<description>HD 7449 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows signs of short-term activity due to magnetic features on the stellar surface.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>16/02/04</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>HD 7449 c</name>
+					<name>HD 7449 A c</name>
+					<list>Controversial</list>
+					<mass errorminus="0.54" errorplus="0.36" type="msini">2.00</mass>
+					<period errorminus="366" errorplus="186">4046</period>
+					<semimajoraxis errorminus="0.30" errorplus="0.20">4.96</semimajoraxis>
+					<eccentricity errorminus="0.08" errorplus="0.08">0.53</eccentricity>
+					<periastron errorminus="8" errorplus="8">11</periastron>
+					<periastrontime errorminus="172" errorplus="85">2455883</periastrontime>
+					<description>HD 7449 c was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows signs of short-term activity due to magnetic features on the stellar surface. Subsequently the long term trend in the system was ascribed to the stellar companion, HD 7449 B.</description>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>16/02/04</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>HD 7449 B</name>
+				<name>BD-05 215 B</name>
+				<magJ errorminus="0.11" errorplus="0.11">12.24</magJ>
+				<magH errorminus="0.12" errorplus="0.12">11.29</magH>
+				<magK errorminus="0.04" errorplus="0.04">10.93</magK>
+				<spectraltype errorminus="0.5">M4.5</spectraltype>
+				<mass errorminus="0.05" errorplus="0.05">0.15</mass>
+				<temperature>3000</temperature>
+			</star>
+		</binary>
 	</system>
 	<system>
 		<name>HD 75289</name>
@@ -26485,6 +26641,46 @@ Credit: ESO/J. Rameau</imagedescription>
 			</star>
 		</binary>
 		<videolink>http://youtu.be/YIUT9gGHzfo</videolink>
+	</system>
+	<system>
+		<name>K2-26</name>
+		<name>EPIC 202083828</name>
+		<rightascension>06 16 49.579</rightascension>
+		<declination>+24 35 47.08</declination>
+		<distance errorminus="7" errorplus="7">93</distance>
+		<star>
+			<name>K2-26</name>
+			<name>EPIC 202083828</name>
+			<name>2MASS J06164957+2435470</name>
+			<magB errorminus="0.13" errorplus="0.13">15.97</magB>
+			<magV errorminus="0.03" errorplus="0.03">14.53</magV>
+			<magJ errorminus="0.024" errorplus="0.024">11.350</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.762</magH>
+			<magK errorminus="0.018" errorplus="0.018">10.530</magK>
+			<spectraltype errorminus="0.5">M1.0V</spectraltype>
+			<temperature errorminus="185" errorplus="185">3785</temperature>
+			<metallicity errorminus="0.15" errorplus="0.15">-0.13</metallicity>
+			<radius errorminus="0.08" errorplus="0.08">0.52</radius>
+			<mass errorminus="0.10" errorplus="0.10">0.56</mass>
+			<age lowerlimit="1" />
+			<planet>
+				<name>K2-26 b</name>
+				<name>EPIC 202083828 b</name>
+				<transittime errorminus="0.0021" errorplus="0.0028" unit="BJD">2456775.1659</transittime>
+				<period errorminus="0.0020" errorplus="0.0016">14.5665</period>
+				<inclination errorminus="1.5" errorplus="1.2">88.4</inclination>
+				<semimajoraxis errorminus="0.0061" errorplus="0.0054">0.0962</semimajoraxis>
+				<radius errorminus="0.0375" errorplus="0.0410">0.2382</radius>
+				<eccentricity lowerlimit="0.14" />
+				<istransiting>1</istransiting>
+				<discoverymethod>transit</discoverymethod>
+				<discoveryyear>2016</discoveryyear>
+				<description>K2-26b is a temperate sub-Neptune orbiting an M1 dwarf star. The orbit is likely to be eccentric, with a lower limit of 0.14 at 95% confidence.</description>
+				<lastupdate>16/01/21</lastupdate>
+				<list>Confirmed planets</list>
+				<new>1</new>
+			</planet>
+		</star>
 	</system>
 	<system>
 		<name>Kappa Andromedae</name>
@@ -34195,52 +34391,77 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-21</name>
-		<rightascension>19 09 27</rightascension>
-		<declination>+38 42 50</declination>
-		<distance>108</distance>
-		<star>
-			<mass>1.34</mass>
-			<radius>1.86</radius>
-			<magV>8.27</magV>
-			<magB errorminus="0.017" errorplus="0.017">8.767</magB>
-			<magR errorminus="0.07" errorplus="0.07">8.00</magR>
-			<magJ errorminus="0.03" errorplus="0.03">7.23</magJ>
-			<magH errorminus="0.023" errorplus="0.023">7.031</magH>
-			<magK errorminus="0.018" errorplus="0.018">6.945</magK>
-			<metallicity>-0.15</metallicity>
-			<spectraltype>F6IV</spectraltype>
-			<planet>
-				<name>Kepler-21 b</name>
-				<name>HIP 94112 b</name>
-				<name>TYC 3120-00963-1 b</name>
-				<name>HD 179070 b</name>
-				<name>BD+38 3455 b</name>
-				<name>SAO 67891 b</name>
-				<name>2MASS J19092683+3842505 b</name>
-				<name>KIC 3632418 b</name>
-				<name>KOI-975.01</name>
-				<name>KOI-975 b</name>
-				<list>Confirmed planets</list>
-				<mass>0.033</mass>
-				<radius>0.1459</radius>
-				<period>2.785755</period>
-				<semimajoraxis>0.042507</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>82.58</inclination>
-				<description>This planet has been discovered with the Kepler spacecraft. It is orbiting Kepler's brightest host star and is only 1.6 times larger than the Earth.</description>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/12/12</lastupdate>
-				<discoveryyear>2011</discoveryyear>
-				<temperature>1788.2</temperature>
-				<transittime unit="HJD">2455093.8369</transittime>
-				<istransiting>1</istransiting>
-			</planet>
+		<rightascension>19 09 26.83535</rightascension>
+		<declination>+38 42 50.4593</declination>
+		<distance errorminus="7.4" errorplus="7.4">112.9</distance>
+		<binary>
 			<name>Kepler-21</name>
 			<name>KOI-975</name>
 			<name>KIC 3632418</name>
-			<name>HIP 94112</name>
-			<temperature>6131.0</temperature>
-		</star>
+			<name>HD 179070</name>
+			<name>BD+38 3455</name>
+			<separation errorminus="0.0099" errorplus="0.0099" unit="arcsec">0.7739</separation>
+			<separation errorminus="5.8" errorplus="5.8" unit="AU">87.3</separation>
+			<positionangle errorminus="0.63" errorplus="0.63">129.53</positionangle>
+			<star>
+				<name>Kepler-21 A</name>
+				<name>KOI-975 A</name>
+				<name>KIC 3632418 A</name>
+				<name>HIP 94112</name>
+				<name>TYC 3120-963-1</name>
+				<name>SAO 67891</name>
+				<name>BD+38 3455 A</name>
+				<name>2MASS J19092683+3842505</name>
+				<mass errorminus="0.010" errorplus="0.010">1.340</mass>
+				<radius errorminus="0.020" errorplus="0.020">1.860</radius>
+				<magV errorminus="0.01" errorplus="0.01">8.25</magV>
+				<magB errorminus="0.017" errorplus="0.017">8.767</magB>
+				<magR errorminus="0.07" errorplus="0.07">8.00</magR>
+				<magJ errorminus="0.03" errorplus="0.03">7.23</magJ>
+				<magH errorminus="0.023" errorplus="0.023">7.031</magH>
+				<magK errorminus="0.018" errorplus="0.018">6.945</magK>
+				<temperature errorminus="44" errorplus="44">6131</temperature>
+				<metallicity errorminus="0.06" errorplus="0.06">-0.15</metallicity>
+				<spectraltype>F6IV</spectraltype>
+				<planet>
+					<name>Kepler-21 b</name>
+					<name>Kepler-21 A b</name>
+					<name>HIP 94112 b</name>
+					<name>TYC 3120-00963-1 b</name>
+					<name>HD 179070 b</name>
+					<name>HD 179070 A b</name>
+					<name>BD+38 3455 A b</name>
+					<name>SAO 67891 b</name>
+					<name>2MASS J19092683+3842505 b</name>
+					<name>KIC 3632418 b</name>
+					<name>KOI-975.01</name>
+					<name>KOI-975 b</name>
+					<name>KOI-975 A b</name>
+					<list>Confirmed planets</list>
+					<mass upperlimit="0.0327" />
+					<radius errorminus="0.0038" errorplus="0.0034">0.1456</radius>
+					<period errorminus="0.000034" errorplus="0.000031">2.785755</period>
+					<semimajoraxis errorminus="0.000119" errorplus="0.000098">0.042509</semimajoraxis>
+					<inclination errorminus="0.31" errorplus="0.28">82.59</inclination>
+					<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455093.8368</transittime>
+					<description>This planet has been discovered with the Kepler spacecraft. It is orbiting Kepler's brightest host star and is only 1.6 times larger than the Earth.</description>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>16/01/22</lastupdate>
+					<discoveryyear>2011</discoveryyear>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>Kepler-21 B</name>
+				<name>KOI-975 B</name>
+				<name>KIC 3632418 A</name>
+				<name>HD 179070 B</name>
+				<name>BD+38 3455 B</name>
+				<mass errorminus="0.32" errorplus="0.14">0.42</mass>
+			</star>
+			<semimajoraxis>87.3</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>Kepler-210</name>
@@ -50002,82 +50223,110 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	</system>
 	<system>
 		<name>Kepler-68</name>
-		<rightascension>19 24 07</rightascension>
-		<declination>+49 02 25</declination>
+		<rightascension>19 24 07.7644</rightascension>
+		<declination>+49 02 24.957</declination>
 		<distance errorminus="10" errorplus="10">135</distance>
-		<star>
+		<binary>
 			<name>Kepler-68</name>
 			<name>KOI-246</name>
 			<name>KIC 11295426</name>
-			<name>2MASS J19240775+4902249</name>
-			<mass errorminus="0.051" errorplus="0.051">1.079</mass>
-			<radius errorminus="0.019" errorplus="0.019">1.243</radius>
-			<temperature errorminus="74" errorplus="74">5793</temperature>
-			<magV errorminus="0.001" errorplus="0.001">9.997</magV>
-			<magB errorminus="0.04" errorplus="0.04">10.73</magB>
-			<magJ errorminus="0.046" errorplus="0.046">8.975</magJ>
-			<magH errorminus="0.029" errorplus="0.029">8.662</magH>
-			<magK errorminus="0.022" errorplus="0.022">8.588</magK>
-			<age errorminus="1.7" errorplus="1.7">6.3</age>
-			<metallicity errorminus="0.074" errorplus="0.074">0.12</metallicity>
-			<spectraltype>G</spectraltype>
-			<planet>
-				<name>Kepler-68 b</name>
-				<name>KIC 11295426 b</name>
-				<name>2MASS J19240775+4902249 b</name>
-				<name>KOI-246.01</name>
-				<name>KOI-246 b</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.007" errorplus="0.008">0.026</mass>
-				<radius errorminus="0.008" errorplus="0.005">0.206</radius>
-				<temperature errorminus="90" errorplus="90">1280</temperature>
-				<period errorminus="0.000004" errorplus="0.000004">5.398763</period>
-				<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.06170</semimajoraxis>
-				<eccentricity errorminus="0.02" errorplus="0.13">0.02</eccentricity>
-				<inclination errorminus="0.90" errorplus="0.90">87.60</inclination>
-				<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455006.85729</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/06/09</lastupdate>
-				<discoveryyear>2013</discoveryyear>
-				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 b has a density intermediate between that of ice giants and Earth.</description>
-				<istransiting>1</istransiting>
-			</planet>
-			<planet>
-				<name>Kepler-68 c</name>
-				<name>KIC 11295426 c</name>
-				<name>2MASS J19240775+4902249 c</name>
-				<name>KOI-246.02</name>
-				<name>KOI-246 c</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.011" errorplus="0.008">0.015</mass>
-				<radius errorminus="0.0037" errorplus="0.0033">0.0850</radius>
-				<period errorminus="0.000072" errorplus="0.000072">9.605085</period>
-				<semimajoraxis errorminus="0.00082" errorplus="0.00082">0.09059</semimajoraxis>
-				<inclination errorminus="0.41" errorplus="0.41">86.93</inclination>
-				<transittime errorminus="0.0041" errorplus="0.0041" unit="BJD">2454969.3805</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/06/09</lastupdate>
-				<discoveryyear>2013</discoveryyear>
-				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 c is Earth-sized.</description>
-				<istransiting>1</istransiting>
-			</planet>
-			<planet>
-				<name>Kepler-68 d</name>
-				<name>KIC 11295426 d</name>
-				<name>2MASS J19240775+4902249 d</name>
-				<name>KOI-246.20</name>
-				<name>KOI-246 d</name>
-				<list>Confirmed planets</list>
-				<mass errorminus="0.035" errorplus="0.035">0.947</mass>
-				<period errorminus="15" errorplus="15">580</period>
-				<semimajoraxis errorminus="0.03" errorplus="0.03">1.40</semimajoraxis>
-				<eccentricity errorminus="0.05" errorplus="0.05">0.18</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/06/09</lastupdate>
-				<discoveryyear>2013</discoveryyear>
-				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefor a lower limit.</description>
-			</planet>
-		</star>
+			<separation errorminus="0.030" errorplus="0.030" unit="arcsec">10.979</separation>
+			<separation errorminus="110" errorplus="110" unit="AU">1482</separation>
+			<positionangle errorminus="0.18" errorplus="0.18">145.43</positionangle>
+			<star>
+				<name>Kepler-68 A</name>
+				<name>KOI-246 A</name>
+				<name>KIC 11295426 A</name>
+				<name>2MASS J19240775+4902249</name>
+				<name>TYC 3551-189-1</name>
+				<mass errorminus="0.051" errorplus="0.051">1.079</mass>
+				<radius errorminus="0.019" errorplus="0.019">1.243</radius>
+				<temperature errorminus="74" errorplus="74">5793</temperature>
+				<magV errorminus="0.001" errorplus="0.001">9.997</magV>
+				<magB errorminus="0.04" errorplus="0.04">10.73</magB>
+				<magJ errorminus="0.046" errorplus="0.046">8.975</magJ>
+				<magH errorminus="0.029" errorplus="0.029">8.662</magH>
+				<magK errorminus="0.022" errorplus="0.022">8.588</magK>
+				<age errorminus="1.7" errorplus="1.7">6.3</age>
+				<metallicity errorminus="0.074" errorplus="0.074">0.12</metallicity>
+				<spectraltype>G</spectraltype>
+				<planet>
+					<name>Kepler-68 b</name>
+					<name>Kepler-68 A b</name>
+					<name>KIC 11295426 b</name>
+					<name>KIC 11295426 A b</name>
+					<name>2MASS J19240775+4902249 b</name>
+					<name>KOI-246.01</name>
+					<name>KOI-246 b</name>
+					<name>KOI-246 A b</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.007" errorplus="0.008">0.026</mass>
+					<radius errorminus="0.008" errorplus="0.005">0.206</radius>
+					<temperature errorminus="90" errorplus="90">1280</temperature>
+					<period errorminus="0.000004" errorplus="0.000004">5.398763</period>
+					<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.06170</semimajoraxis>
+					<eccentricity errorminus="0.02" errorplus="0.13">0.02</eccentricity>
+					<inclination errorminus="0.90" errorplus="0.90">87.60</inclination>
+					<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455006.85729</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>15/06/09</lastupdate>
+					<discoveryyear>2013</discoveryyear>
+					<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 b has a density intermediate between that of ice giants and Earth.</description>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Kepler-68 c</name>
+					<name>Kepler-68 A c</name>
+					<name>KIC 11295426 c</name>
+					<name>KIC 11295426 A c</name>
+					<name>2MASS J19240775+4902249 c</name>
+					<name>KOI-246.02</name>
+					<name>KOI-246 c</name>
+					<name>KOI-246 A c</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.011" errorplus="0.008">0.015</mass>
+					<radius errorminus="0.0037" errorplus="0.0033">0.0850</radius>
+					<period errorminus="0.000072" errorplus="0.000072">9.605085</period>
+					<semimajoraxis errorminus="0.00082" errorplus="0.00082">0.09059</semimajoraxis>
+					<inclination errorminus="0.41" errorplus="0.41">86.93</inclination>
+					<transittime errorminus="0.0041" errorplus="0.0041" unit="BJD">2454969.3805</transittime>
+					<discoverymethod>transit</discoverymethod>
+					<lastupdate>15/06/09</lastupdate>
+					<discoveryyear>2013</discoveryyear>
+					<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 c is Earth-sized.</description>
+					<istransiting>1</istransiting>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+				<planet>
+					<name>Kepler-68 d</name>
+					<name>Kepler-68 A d</name>
+					<name>KIC 11295426 d</name>
+					<name>KIC 11295426 A d</name>
+					<name>2MASS J19240775+4902249 d</name>
+					<name>KOI-246.20</name>
+					<name>KOI-246 d</name>
+					<name>KOI-246 A d</name>
+					<list>Confirmed planets</list>
+					<mass errorminus="0.035" errorplus="0.035" type="msini">0.947</mass>
+					<period errorminus="15" errorplus="15">580</period>
+					<semimajoraxis errorminus="0.03" errorplus="0.03">1.40</semimajoraxis>
+					<eccentricity errorminus="0.05" errorplus="0.05">0.18</eccentricity>
+					<discoverymethod>RV</discoverymethod>
+					<lastupdate>15/06/09</lastupdate>
+					<discoveryyear>2013</discoveryyear>
+					<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefore a lower limit.</description>
+					<list>Planets in binary systems, S-type</list>
+				</planet>
+			</star>
+			<star>
+				<name>Kepler-68 B</name>
+				<name>KOI-246 B</name>
+				<name>KIC 11295426 B</name>
+				<mass errorminus="0.010" errorplus="0.013">0.175</mass>
+			</star>
+			<semimajoraxis>1482</semimajoraxis>
+		</binary>
 	</system>
 	<system>
 		<name>Kepler-69</name>
@@ -55451,34 +55700,41 @@ Credit: Kains et al (2013).</imagedescription>
 	</system>
 	<system>
 		<name>OGLE-2012-BLG-0026L</name>
-		<rightascension>17 34 18</rightascension>
-		<declination>-27 08 33</declination>
-		<distance>4080</distance>
+		<rightascension>17 34 18.70</rightascension>
+		<declination>-27 08 33.9</declination>
+		<distance errorminus="380" errorplus="380">4019</distance>
 		<star>
-			<mass>0.82</mass>
+			<name>OGLE-2012-BLG-0026L</name>
+			<name>EWS 2012-BLG-26L</name>
+			<mass errorminus="0.05" errorplus="0.05">1.06</mass>
+			<magH errorminus="0.13" errorplus="0.13">16.36</magH>
+			<magI errorminus="0.23" errorplus="0.23">19.00</magI>
+			<magV errorminus="0.15" errorplus="0.15">20.66</magV>
+			<age lowerlimit="4" upperlimit="9" />
 			<planet>
 				<name>OGLE-2012-BLG-0026L b</name>
 				<name>OGLE 2012-BLG-026L b</name>
 				<list>Confirmed planets</list>
-				<mass>0.11</mass>
-				<semimajoraxis>3.82</semimajoraxis>
-				<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models.</description>
+				<mass errorminus="0.008" errorplus="0.008">0.145</mass>
+				<separation errorminus="0.5" errorplus="0.5" unit="AU">4.0</separation>
+				<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models. Adaptive optics imaging was used to detect the flux from the host star.</description>
 				<discoverymethod>microlensing</discoverymethod>
-				<lastupdate>12/10/17</lastupdate>
+				<lastupdate>16/01/21</lastupdate>
 				<discoveryyear>2012</discoveryyear>
+				<semimajoraxis>4.0</semimajoraxis>
 			</planet>
 			<planet>
 				<name>OGLE-2012-BLG-0026L c</name>
 				<name>OGLE 2012-BLG-026L c</name>
 				<list>Confirmed planets</list>
-				<mass>0.68</mass>
-				<semimajoraxis>4.63</semimajoraxis>
-				<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models.</description>
+				<mass errorminus="0.06" errorplus="0.06">0.86</mass>
+				<separation errorminus="0.7" errorplus="0.7" unit="AU">4.8</separation>
+				<description>This multi-planetary system was discovered during a high-magnification gravitational microlensing event. Both planets are located beyond the snow-line, an important clue for planet formation models. Adaptive optics imaging was used to detect the flux from the host star.</description>
 				<discoverymethod>microlensing</discoverymethod>
-				<lastupdate>12/10/17</lastupdate>
+				<lastupdate>16/01/21</lastupdate>
 				<discoveryyear>2012</discoveryyear>
+				<semimajoraxis>4.8</semimajoraxis>
 			</planet>
-			<name>OGLE-2012-BLG-0026L</name>
 		</star>
 	</system>
 	<system>
@@ -56994,13 +57250,18 @@ Credit: Thayne Currie.</imagedescription>
 	<system>
 		<name>SAND364</name>
 		<name>NGC 2682 SAND 364</name>
-		<rightascension>08 49 57</rightascension>
-		<declination>+11 41 33</declination>
+		<rightascension>08 49 56.5208</rightascension>
+		<declination>+11 41 32.989</declination>
 		<distance errorminus="50" errorplus="50">750</distance>
 		<star>
 			<name>SAND364</name>
 			<name>NGC 2682 SAND 364</name>
 			<name>BD+12 1917</name>
+			<magB>11.22</magB>
+			<magV>9.77</magV>
+			<magJ errorminus="0.027" errorplus="0.027">7.542</magJ>
+			<magH errorminus="0.018" errorplus="0.018">6.915</magH>
+			<magK>6.69</magK>
 			<mass errorminus="0.05" errorplus="0.05">1.35</mass>
 			<radius errorminus="0.7" errorplus="0.7">21.8</radius>
 			<temperature errorminus="9" errorplus="9">4284</temperature>
@@ -58929,6 +59190,40 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 	</system>
 	<system>
+		<name>WASP-119</name>
+		<rightascension>03 43 44.02</rightascension>
+		<declination>-65 11 37.8</declination>
+		<distance errorminus="29" errorplus="29">333</distance>
+		<star>
+			<name>WASP-119</name>
+			<name>2MASS J03434402-6511378</name>
+			<magV errorminus="0.4" errorplus="0.4">12.2</magV>
+			<mass errorminus="0.06" errorplus="0.06">1.02</mass>
+			<temperature errorminus="100" errorplus="100">5650</temperature>
+			<metallicity errorminus="0.1" errorplus="0.10">0.14</metallicity>
+			<spectraltype>G5</spectraltype>
+			<planet>
+				<name>WASP-119 b</name>
+				<name>2MASS J03434402-6511378 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.02" errorplus="0.02">1.4</radius>
+				<mass errorminus="0.08" errorplus="0.08">1.23</mass>
+				<period>2.49979</period>
+				<transittime>6537.547</transittime>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0363</semimajoraxis>
+				<temperature errorminus="80" errorplus="80">1600</temperature>
+				<inclination errorminus="2" errorplus="2">85</inclination>
+				<eccentricity upperlimit="0.058" />
+				<description>This Hot Jupiter was discovered by WASP-South.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>16/02/04</lastupdate>
+				<discoveryyear>2016</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-12</name>
 		<rightascension>06 30 33</rightascension>
 		<declination>+29 40 20</declination>
@@ -59158,6 +59453,120 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		</star>
 	</system>
 	<system>
+		<name>WASP-124</name>
+		<rightascension>22 10 51.43</rightascension>
+		<declination>-30 44 58.8</declination>
+		<distance errorminus="11" errorplus="11">433</distance>
+		<star>
+			<name>WASP-124</name>
+			<name>2MASS J22105143-3044588</name>
+			<magV errorminus="0.4" errorplus="0.4">12.7</magV>
+			<mass errorminus="0.05" errorplus="0.05">1.07</mass>
+			<temperature errorminus="100" errorplus="100">6050</temperature>
+			<metallicity errorminus="0.11" errorplus="0.11">-0.02</metallicity>
+			<spectraltype>F9</spectraltype>
+			<planet>
+				<name>WASP-124 b</name>
+				<name>2MASS J22105143-3044588 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.03" errorplus="0.03">1.24</radius>
+				<mass errorminus="0.07" errorplus="0.07">0.6</mass>
+				<period>3.372650</period>
+				<transittime>7028.5834</transittime>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0449</semimajoraxis>
+				<temperature errorminus="30" errorplus="30">1400</temperature>
+				<inclination errorminus="0.2" errorplus="0.2">86.3</inclination>
+				<eccentricity upperlimit="0.017" />
+				<description>This Hot Jupiter was discovered by WASP-South.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>16/02/04</lastupdate>
+				<discoveryyear>2016</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-126</name>
+		<rightascension>04 13 29.72</rightascension>
+		<declination>-69 13 36.5</declination>
+		<distance errorminus="15" errorplus="15">234</distance>
+		<star>
+			<name>WASP-126</name>
+			<name>TYC 9153-833-1</name>
+			<name>2MASS J04132972-6913365</name>
+			<magB errorminus="0.022" errorplus="0.022">11.904</magB>
+			<magV errorminus="0.5" errorplus="0.5">10.8</magV>
+			<magJ errorminus="0.021" errorplus="0.021">9.962</magJ>
+			<magH errorminus="0.023" errorplus="0.023">9.659</magH>
+			<magK errorminus="0.021" errorplus="0.021">9.598</magK>
+			<mass errorminus="0.06" errorplus="0.06">1.12</mass>
+			<temperature errorminus="100" errorplus="100">5800</temperature>
+			<metallicity errorminus="0.08" errorplus="0.08">0.17</metallicity>
+			<spectraltype>G2</spectraltype>
+			<planet>
+				<name>WASP-126 b</name>
+				<name>TYC 9153-833-1 b</name>
+				<name>2MASS J04132972-6913365 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.05" errorplus="0.10">0.96</radius>
+				<mass errorminus="0.04" errorplus="0.04">0.28</mass>
+				<period>3.28880</period>
+				<transittime>6890.3191</transittime>
+				<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0449</semimajoraxis>
+				<temperature errorminus="60" errorplus="60">1480</temperature>
+				<inclination errorminus="1.5" errorplus="1.5">87.9</inclination>
+				<eccentricity upperlimit="0.18" />
+				<description>This Hot Jupiter was discovered by WASP-South. This low mass planet with a large radius is a good target for Transmission spectroscopy.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>16/02/04</lastupdate>
+				<discoveryyear>2016</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
+		<name>WASP-129</name>
+		<rightascension>11 45 11.75</rightascension>
+		<declination>-42 03 50.1</declination>
+		<distance errorminus="7" errorplus="7">246</distance>
+		<star>
+			<name>WASP-129</name>
+			<name>TYC 7749-508-1</name>
+			<name>2MASS J11451175-4203501</name>
+			<magB errorminus="0.15" errorplus="0.15">12.32</magB>
+			<magV errorminus="0.16" errorplus="0.16">12.18</magV>
+			<magJ errorminus="0.023" errorplus="0.023">10.725</magJ>
+			<magH errorminus="0.022" errorplus="0.022">10.471</magH>
+			<magK errorminus="0.023" errorplus="0.023">10.412</magK>
+			<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+			<temperature errorminus="100" errorplus="100">5900</temperature>
+			<metallicity errorminus="0.09" errorplus="0.09">0.15</metallicity>
+			<spectraltype>G1</spectraltype>
+			<planet>
+				<name>WASP-129 b</name>
+				<name>TYC 7749-508-1 b</name>
+				<name>2MASS J11451175-4203501 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.03" errorplus="0.03">0.93</radius>
+				<mass errorminus="0.1" errorplus="0.1">1</mass>
+				<period>5.748145</period>
+				<transittime>7027.4373</transittime>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0628</semimajoraxis>
+				<temperature errorminus="25" errorplus="25">1100</temperature>
+				<inclination errorminus="0.2" errorplus="0.2">87.7</inclination>
+				<eccentricity upperlimit="0.096" />
+				<description>This Hot Jupiter was discovered by WASP-South.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>16/02/04</lastupdate>
+				<discoveryyear>2016</discoveryyear>
+				<new>1</new>
+			</planet>
+		</star>
+	</system>
+	<system>
 		<name>WASP-13</name>
 		<rightascension>09 20 25</rightascension>
 		<declination>+33 52 57</declination>
@@ -59191,6 +59600,40 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			</planet>
 			<name>WASP-13</name>
 			<temperature errorminus="48" errorplus="48">5989</temperature>
+		</star>
+	</system>
+	<system>
+		<name>WASP-133</name>
+		<rightascension>20 58 18.08</rightascension>
+		<declination>-35 47 47.5</declination>
+		<distance errorminus="21" errorplus="21">547</distance>
+		<star>
+			<name>WASP-133</name>
+			<name>2MASS J20581808-3547475</name>
+			<magV errorminus="0.4" errorplus="0.4">12.9</magV>
+			<mass errorminus="0.08" errorplus="0.08">1.16</mass>
+			<temperature errorminus="100" errorplus="100">5700</temperature>
+			<metallicity errorminus="0.12" errorplus="0.12">0.29</metallicity>
+			<spectraltype>G4</spectraltype>
+			<planet>
+				<name>WASP-133 b</name>
+				<name>2MASS J20581808-3547475 b</name>
+				<list>Confirmed planets</list>
+				<radius errorminus="0.05" errorplus="0.05">1.21</radius>
+				<mass errorminus="0.09" errorplus="0.09">1.16</mass>
+				<period>2.176423</period>
+				<transittime>7116.9874</transittime>
+				<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0345</semimajoraxis>
+				<temperature errorminus="40" errorplus="40">1790</temperature>
+				<inclination errorminus="1" errorplus="1">87</inclination>
+				<eccentricity upperlimit="0.17" />
+				<description>This Hot Jupiter was discovered by WASP-South.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>16/02/04</lastupdate>
+				<discoveryyear>2016</discoveryyear>
+				<new>1</new>
+			</planet>
 		</star>
 	</system>
 	<system>
@@ -63137,11 +63580,17 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 	</system>
 	<system>
 		<name>YBP1194</name>
-		<rightascension>08 51 01</rightascension>
-		<declination>+11 48 53</declination>
+		<rightascension>08 51 00.807</rightascension>
+		<declination>+11 48 52.76</declination>
 		<distance errorminus="50" errorplus="50">850</distance>
 		<star>
 			<name>YBP1194</name>
+			<magB>15.28</magB>
+			<magV>14.61</magV>
+			<magR>14.100</magR>
+			<magJ errorminus="0.024" errorplus="0.024">13.366</magJ>
+			<magH errorminus="0.026" errorplus="0.026">13.041</magH>
+			<magK errorminus="0.029" errorplus="0.029">12.965</magK>
 			<mass errorminus="0.01" errorplus="0.01">1.01</mass>
 			<radius errorminus="0.02" errorplus="0.02">0.99</radius>
 			<temperature errorminus="27" errorplus="27">5780</temperature>
@@ -63169,12 +63618,18 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 	<system>
 		<name>YBP1514</name>
 		<name>NGC 2682 YBP 1514</name>
-		<rightascension>08 51 01</rightascension>
-		<declination>+11 53 12</declination>
+		<rightascension>08 51 00.766</rightascension>
+		<declination>+11 53 11.51</declination>
 		<distance errorminus="50" errorplus="50">750</distance>
 		<star>
 			<name>YBP1514</name>
 			<name>NGC 2682 YBP 1514</name>
+			<magB>15.50</magB>
+			<magV>14.78</magV>
+			<magR>14.300</magR>
+			<magJ errorminus="0.024" errorplus="0.024">13.474</magJ>
+			<magH errorminus="0.023" errorplus="0.023">13.157</magH>
+			<magK errorminus="0.028" errorplus="0.028">13.105</magK>
 			<mass errorminus="0.01" errorplus="0.01">0.96</mass>
 			<radius errorminus="0.02" errorplus="0.02">0.89</radius>
 			<temperature errorminus="45" errorplus="45">5725</temperature>
