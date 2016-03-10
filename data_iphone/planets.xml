@@ -4695,11 +4695,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass />
-			<radius>0.199</radius>
+			<radius>0.2453</radius>
 			<orbit>
-				<period>5.65706</period>
-				<semimajoraxis>0.0633</semimajoraxis>
-				<eccentricity />
+				<period>5.65639</period>
+				<semimajoraxis />
+				<eccentricity>0.12</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -4708,11 +4708,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>1.07</mass>
-			<radius>1.09</radius>
-			<metallicity>-0.02</metallicity>
+			<mass>1.13</mass>
+			<radius>1.52</radius>
+			<metallicity>0.13</metallicity>
 			<distance>331</distance>
-			<temperature>5989</temperature>
+			<temperature>5830</temperature>
 			<rightascension>11 36 02.791</rightascension>
 			<declination>-02 31 15.17</declination>
 			<angulardistance />
@@ -4724,13 +4724,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>16/03/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
-		<list>Planets in binary systems, S-type</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201338508 b</id_exoplaneteu>
@@ -5368,15 +5367,16 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>EPIC 201546283 b</id_exoplaneteu>
 		<name>EPIC 201546283 b</name>
 		<name>EPIC 201546283.01</name>
+		<name>K2-27 b</name>
 		<id>EPIC 201546283 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.531</radius>
+			<mass>0.09156</mass>
+			<radius>0.3970</radius>
 			<orbit>
-				<period>6.77131</period>
-				<semimajoraxis>0.0668</semimajoraxis>
-				<eccentricity />
+				<period>6.77145</period>
+				<semimajoraxis />
+				<eccentricity>0.16</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -5386,10 +5386,10 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<star>
 			<spectraltype />
 			<mass>0.89</mass>
-			<radius>0.88</radius>
-			<metallicity>-0.09</metallicity>
+			<radius>0.85</radius>
+			<metallicity>0.14</metallicity>
 			<distance>251</distance>
-			<temperature>5422</temperature>
+			<temperature>5320</temperature>
 			<rightascension>11 26 03.639</rightascension>
 			<declination>+01 13 50.66</declination>
 			<angulardistance />
@@ -5401,13 +5401,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>16/03/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
-		<list>Controversial</list>
-		<list>Planets in binary systems, S-type</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201549860 b</id_exoplaneteu>
@@ -5506,12 +5505,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id>EPIC 201577035 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass />
-			<radius>0.361</radius>
+			<mass>0.0850</mass>
+			<radius>0.3426</radius>
 			<orbit>
-				<period>19.30691</period>
-				<semimajoraxis>0.1374</semimajoraxis>
-				<eccentricity />
+				<period>19.3044</period>
+				<semimajoraxis />
+				<eccentricity>0.31</eccentricity>
 				<inclination />
 				<periastron />
 				<longitude />
@@ -5520,11 +5519,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</properties>
 		<star>
 			<spectraltype />
-			<mass>0.94</mass>
-			<radius>0.93</radius>
-			<metallicity>-0.04</metallicity>
+			<mass>0.92</mass>
+			<radius>0.98</radius>
+			<metallicity>-0.07</metallicity>
 			<distance>271</distance>
-			<temperature>5647</temperature>
+			<temperature>5620</temperature>
 			<rightascension>11 28 29.27</rightascension>
 			<declination>+01 41 26.29</declination>
 			<angulardistance />
@@ -5536,13 +5535,12 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>16/03/07</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<new />
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201596316 b</id_exoplaneteu>
@@ -6220,6 +6218,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 203771098 b</id_exoplaneteu>
 		<name>EPIC 203771098 b</name>
+		<name>K2-24 b</name>
 		<id>EPIC 203771098 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -6263,6 +6262,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 203771098 c</id_exoplaneteu>
 		<name>EPIC 203771098 c</name>
+		<name>K2-24 c</name>
 		<id>EPIC 203771098 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -6783,6 +6783,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 	<planet>
 		<id_exoplaneteu>EPIC 206318379 b</id_exoplaneteu>
 		<name>EPIC 206318379 b</name>
+		<name>K2-28 b</name>
 		<id>EPIC 206318379 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -6816,7 +6817,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/12/06</lastupdate>
+		<lastupdate>16/03/07</lastupdate>
 		<description>EPIC 206318379 b is a validated super-Earth candidate in the K2 Campaign 3 field. The planet has a similar radius and insolation to GJ 1214 b.</description>
 		<new />
 		<image />
@@ -8140,22 +8141,22 @@ Credit: Joe Gallagher.</imagedescription>
 				<semimajoraxis>2.41</semimajoraxis>
 				<eccentricity>0.21</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>153</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5</spectraltype>
+			<spectraltype>M3.5 V</spectraltype>
 			<mass>0.357</mass>
 			<radius>0.38</radius>
-			<metallicity>0.3</metallicity>
-			<distance>12.3</distance>
-			<temperature>3370.0</temperature>
-			<rightascension>04 52 06</rightascension>
-			<declination>+06 28 36</declination>
+			<metallicity>0.30</metallicity>
+			<distance>12.29</distance>
+			<temperature>3370</temperature>
+			<rightascension>04 52 05.731</rightascension>
+			<declination>+06 28 35.64</declination>
 			<angulardistance />
-			<magV>11.96</magV>
+			<magV>12.018</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -8163,7 +8164,7 @@ Credit: Joe Gallagher.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/03/19</lastupdate>
+		<lastupdate>16/03/09</lastupdate>
 		<description>The star Gliese 170 is located in the constellation Orion. The planet was discovered with the Keck Observatory on Mauna Kea in Hawaii.</description>
 		<new />
 		<image />
@@ -17325,7 +17326,7 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>2.35</semimajoraxis>
 				<eccentricity>0.41</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>243</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
@@ -17335,12 +17336,12 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>1.145</mass>
 			<radius>1.09</radius>
 			<metallicity>0.56</metallicity>
-			<distance>72.4</distance>
-			<temperature>165.9</temperature>
+			<distance>72.6</distance>
+			<temperature>5585</temperature>
 			<rightascension>14 26 48.28070</rightascension>
 			<declination>-05 10 40.0074</declination>
 			<angulardistance />
-			<magV>8.81</magV>
+			<magV>8.787</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -17348,7 +17349,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/03/19</lastupdate>
+		<lastupdate>16/03/09</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -18447,22 +18448,22 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>5.15</semimajoraxis>
 				<eccentricity>0.02</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>290</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0</spectraltype>
-			<mass>1.02</mass>
+			<spectraltype>G0 V</spectraltype>
+			<mass>1.022</mass>
 			<radius>1.23</radius>
 			<metallicity>0.03</metallicity>
 			<distance>44.2</distance>
-			<temperature>125.6</temperature>
-			<rightascension>02 16 47</rightascension>
-			<declination>+43 46 23</declination>
+			<temperature>5829</temperature>
+			<rightascension>02 16 47.37946</rightascension>
+			<declination>+43 46 22.7907</declination>
 			<angulardistance />
-			<magV>7.61</magV>
+			<magV>7.60</magV>
 			<magI />
 			<magH />
 			<magJ />
@@ -18470,7 +18471,7 @@ Image credit: Vanessa Bailey</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/03/19</lastupdate>
+		<lastupdate>16/03/09</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -27749,30 +27750,30 @@ Image credit: Vanessa Bailey</imagedescription>
 				<semimajoraxis>2.07</semimajoraxis>
 				<eccentricity>0.27</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>104</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0</spectraltype>
+			<spectraltype>G0 V</spectraltype>
 			<mass>1.07</mass>
 			<radius>1.38</radius>
 			<metallicity>0.14</metallicity>
 			<distance>46.5</distance>
-			<temperature>209.1</temperature>
-			<rightascension>05 17 41</rightascension>
-			<declination>+07 21 12</declination>
+			<temperature>5836</temperature>
+			<rightascension>05 17 40.98051</rightascension>
+			<declination>+07 21 12.0508</declination>
 			<angulardistance />
-			<magV>7.31</magV>
+			<magV>7.33</magV>
 			<magI />
 			<magH />
 			<magJ />
 			<magK />
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2004</discoveryyear>
-		<lastupdate>10/03/19</lastupdate>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>16/03/09</lastupdate>
 		<description />
 		<new />
 		<image />
@@ -28472,6 +28473,49 @@ Image credit: Vanessa Bailey</imagedescription>
 		<image />
 		<imagedescription />
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 39392 b</id_exoplaneteu>
+		<name>HD 39392 b</name>
+		<id>HD 39392 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>13.2</mass>
+			<radius />
+			<orbit>
+				<period>394.3</period>
+				<semimajoraxis>0.11</semimajoraxis>
+				<eccentricity>0.394</eccentricity>
+				<inclination />
+				<periastron />
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.08</mass>
+			<radius />
+			<metallicity>-0.32</metallicity>
+			<distance />
+			<temperature>5951</temperature>
+			<rightascension>05 53 19</rightascension>
+			<declination>+22 04 20</declination>
+			<angulardistance />
+			<magV>8.38</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/03/02</lastupdate>
+		<description />
+		<new />
+		<image />
+		<imagedescription />
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 40307 b</id_exoplaneteu>
@@ -89618,31 +89662,31 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>Pr0211 b</id_exoplaneteu>
 		<name>Pr0211 b</name>
-		<name>2MASS J08421149+1916373</name>
+		<name>2MASS J08421149+1916373 b</name>
 		<id>Pr0211 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.844</mass>
+			<mass>1.88</mass>
 			<radius />
 			<orbit>
-				<period>2.1451</period>
-				<semimajoraxis />
-				<eccentricity>0</eccentricity>
+				<period>2.14609</period>
+				<semimajoraxis>0.03184</semimajoraxis>
+				<eccentricity>0.017</eccentricity>
 				<inclination />
-				<periastron />
+				<periastron>329</periastron>
 				<longitude />
 				<ascendingnode />
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G9.3</spectraltype>
-			<mass>0.92</mass>
-			<radius>0.868</radius>
-			<metallicity>0.187</metallicity>
+			<mass>0.935</mass>
+			<radius>0.827</radius>
+			<metallicity>0.18</metallicity>
 			<distance>177</distance>
-			<temperature>5326</temperature>
-			<rightascension>08 42 11</rightascension>
-			<declination>+19 16 37</declination>
+			<temperature>5300</temperature>
+			<rightascension>08 42 11.492</rightascension>
+			<declination>+19 16 37.36</declination>
 			<angulardistance />
 			<magV>12.15</magV>
 			<magI />
@@ -89650,15 +89694,60 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<magJ />
 			<magK />
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/09/14</lastupdate>
+		<lastupdate>16/03/03</lastupdate>
 		<description>This planet is a so-called Hot Jupiter which orbits tightly around its parent star in the Beehive Cluster, a collection of roughly 1,000 stars that appear to be swarming around a common center. The planet is not habitable but its sky would be starrier than what we see from Earth.</description>
 		<new />
 		<image>beehive</image>
 		<imagedescription>Artist's impression of a planet in the Beehive cluster.
 
 Image credit: NASA/JPL-Caltech</imagedescription>
+		<list>Confirmed planets</list>
+		<list>Planets in open clusters</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Pr0211 c</id_exoplaneteu>
+		<name>Pr0211 c</name>
+		<name>2MASS J08421149+1916373 c</name>
+		<id>Pr0211 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>7.95</mass>
+			<radius />
+			<orbit>
+				<period>5300</period>
+				<semimajoraxis>5.8</semimajoraxis>
+				<eccentricity>0.70</eccentricity>
+				<inclination />
+				<periastron>103</periastron>
+				<longitude />
+				<ascendingnode />
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9.3</spectraltype>
+			<mass>0.935</mass>
+			<radius>0.827</radius>
+			<metallicity>0.18</metallicity>
+			<distance>177</distance>
+			<temperature>5300</temperature>
+			<rightascension>08 42 11.492</rightascension>
+			<declination>+19 16 37.36</declination>
+			<angulardistance />
+			<magV>12.15</magV>
+			<magI />
+			<magH />
+			<magJ />
+			<magK />
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/03/03</lastupdate>
+		<description>Pr0211 c is a super-Jovian planet in a highly-elliptical orbit. The discovery of this planet was the first time a multiplanet system had been observed in an open cluster.</description>
+		<new />
+		<image />
+		<imagedescription />
 		<list>Confirmed planets</list>
 		<list>Planets in open clusters</list>
 	</planet>
@@ -92697,7 +92786,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/02/04</lastupdate>
-		<description>This Hot Jupiter was discovered by WASP-South. This low mass planet with a large radius is a good target for Transmission spectroscopy.</description>
+		<description>This Hot Jupiter was discovered by WASP-South. This low mass planet with a large radius is a good target for transmission spectroscopy.</description>
 		<new>1</new>
 		<image />
 		<imagedescription />
