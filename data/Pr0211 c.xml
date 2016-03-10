@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Pr0211 c</id_exoplaneteu>
+	<name>Pr0211 c</name>
+	<name>2MASS J08421149+1916373 c</name>
+	<id>Pr0211 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>7.95</mass>
+		<radius />
+		<orbit>
+			<period>5300</period>
+			<semimajoraxis>5.8</semimajoraxis>
+			<eccentricity>0.70</eccentricity>
+			<inclination />
+			<periastron>103</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G9.3</spectraltype>
+		<mass>0.935</mass>
+		<radius>0.827</radius>
+		<metallicity>0.18</metallicity>
+		<distance>177</distance>
+		<temperature>5300</temperature>
+		<rightascension>08 42 11.492</rightascension>
+		<declination>+19 16 37.36</declination>
+		<angulardistance />
+		<magV>12.15</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/03/03</lastupdate>
+	<description>Pr0211 c is a super-Jovian planet in a highly-elliptical orbit. The discovery of this planet was the first time a multiplanet system had been observed in an open cluster.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in open clusters</list>
+</planet>

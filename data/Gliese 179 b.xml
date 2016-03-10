@@ -14,22 +14,22 @@
 			<semimajoraxis>2.41</semimajoraxis>
 			<eccentricity>0.21</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>153</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>M3.5</spectraltype>
+		<spectraltype>M3.5 V</spectraltype>
 		<mass>0.357</mass>
 		<radius>0.38</radius>
-		<metallicity>0.3</metallicity>
-		<distance>12.3</distance>
-		<temperature>3370.0</temperature>
-		<rightascension>04 52 06</rightascension>
-		<declination>+06 28 36</declination>
+		<metallicity>0.30</metallicity>
+		<distance>12.29</distance>
+		<temperature>3370</temperature>
+		<rightascension>04 52 05.731</rightascension>
+		<declination>+06 28 35.64</declination>
 		<angulardistance />
-		<magV>11.96</magV>
+		<magV>12.018</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/03/19</lastupdate>
+	<lastupdate>16/03/09</lastupdate>
 	<description>The star Gliese 170 is located in the constellation Orion. The planet was discovered with the Keck Observatory on Mauna Kea in Hawaii.</description>
 	<new />
 	<image />
