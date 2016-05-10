@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1119 b</id_exoplaneteu>
+	<name>Kepler-1119 b</name>
+	<id>Kepler-1119 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.171</radius>
+		<orbit>
+			<period>8.326515300</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.11</mass>
+		<radius>1.17</radius>
+		<metallicity>0.03</metallicity>
+		<distance />
+		<temperature>6083.0</temperature>
+		<rightascension>19 48 05</rightascension>
+		<declination>+44 19 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

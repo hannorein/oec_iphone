@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-834 b</id_exoplaneteu>
+	<name>Kepler-834 b</name>
+	<id>Kepler-834 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.180</radius>
+		<orbit>
+			<period>13.323883010</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.70</mass>
+		<radius>0.66</radius>
+		<metallicity>-0.13</metallicity>
+		<distance />
+		<temperature>4554.0</temperature>
+		<rightascension>19 08 13</rightascension>
+		<declination>+45 10 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

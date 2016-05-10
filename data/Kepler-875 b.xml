@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-875 b</id_exoplaneteu>
+	<name>Kepler-875 b</name>
+	<id>Kepler-875 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.259</radius>
+		<orbit>
+			<period>27.507379900</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.06</mass>
+		<radius>1.11</radius>
+		<metallicity>0.03</metallicity>
+		<distance />
+		<temperature>5958.0</temperature>
+		<rightascension>19 49 12</rightascension>
+		<declination>+43 08 31</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

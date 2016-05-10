@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-695 b</id_exoplaneteu>
+	<name>Kepler-695 b</name>
+	<id>Kepler-695 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.822</radius>
+		<orbit>
+			<period>3.040330420</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.84</mass>
+		<radius>0.80</radius>
+		<metallicity>-0.01</metallicity>
+		<distance />
+		<temperature>5181.0</temperature>
+		<rightascension>19 57 16</rightascension>
+		<declination>+40 49 21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

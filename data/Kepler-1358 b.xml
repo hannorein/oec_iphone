@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1358 b</id_exoplaneteu>
+	<name>Kepler-1358 b</name>
+	<id>Kepler-1358 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.100</radius>
+		<orbit>
+			<period>7.063173410</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.82</mass>
+		<radius>0.79</radius>
+		<metallicity>-0.08</metallicity>
+		<distance />
+		<temperature>5181.0</temperature>
+		<rightascension>19 04 41</rightascension>
+		<declination>+43 00 32</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

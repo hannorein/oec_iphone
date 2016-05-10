@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-539 c</id_exoplaneteu>
+	<name>Kepler-539 c</name>
+	<id>Kepler-539 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius />
+		<orbit>
+			<period>1000.000000000</period>
+			<semimajoraxis>2.420000000</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.05</mass>
+		<radius>0.95</radius>
+		<metallicity>-0.01</metallicity>
+		<distance />
+		<temperature>5820.0</temperature>
+		<rightascension>19 56 29</rightascension>
+		<declination>+41 52 00</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-758 d</id_exoplaneteu>
+	<name>Kepler-758 d</name>
+	<id>Kepler-758 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.189</radius>
+		<orbit>
+			<period>20.496619700</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.16</mass>
+		<radius>1.42</radius>
+		<metallicity>-0.10</metallicity>
+		<distance />
+		<temperature>6228.0</temperature>
+		<rightascension>19 32 20</rightascension>
+		<declination>+41 08 08</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

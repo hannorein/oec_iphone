@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-770 c</id_exoplaneteu>
+	<name>Kepler-770 c</name>
+	<id>Kepler-770 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.107</radius>
+		<orbit>
+			<period>1.475322310</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.94</mass>
+		<radius>0.92</radius>
+		<metallicity>-0.01</metallicity>
+		<distance />
+		<temperature>5598.0</temperature>
+		<rightascension>19 05 58</rightascension>
+		<declination>+38 22 30</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

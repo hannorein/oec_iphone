@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1387 b</id_exoplaneteu>
+	<name>Kepler-1387 b</name>
+	<id>Kepler-1387 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.083</radius>
+		<orbit>
+			<period>2.279526660</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.82</mass>
+		<radius>0.77</radius>
+		<metallicity>0.02</metallicity>
+		<distance />
+		<temperature>5046.0</temperature>
+		<rightascension>19 29 46</rightascension>
+		<declination>+43 12 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

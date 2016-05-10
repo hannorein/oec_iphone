@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-603 c</id_exoplaneteu>
+	<name>Kepler-603 c</name>
+	<id>Kepler-603 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.580</radius>
+		<orbit>
+			<period>127.907577400</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.01</mass>
+		<radius>1.01</radius>
+		<metallicity>0.03</metallicity>
+		<distance />
+		<temperature>5808.0</temperature>
+		<rightascension>19 37 07</rightascension>
+		<declination>+42 17 27</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

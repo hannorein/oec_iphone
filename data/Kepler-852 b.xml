@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-852 b</id_exoplaneteu>
+	<name>Kepler-852 b</name>
+	<id>Kepler-852 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.227</radius>
+		<orbit>
+			<period>44.930980400</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.19</mass>
+		<radius>1.16</radius>
+		<metallicity>0.22</metallicity>
+		<distance />
+		<temperature>6100.0</temperature>
+		<rightascension>19 49 34</rightascension>
+		<declination>+48 33 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

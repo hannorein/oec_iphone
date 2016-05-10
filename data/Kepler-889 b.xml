@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-889 b</id_exoplaneteu>
+	<name>Kepler-889 b</name>
+	<id>Kepler-889 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.097</radius>
+		<orbit>
+			<period>3.744439000</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.14</mass>
+		<radius>1.25</radius>
+		<metallicity>0.19</metallicity>
+		<distance />
+		<temperature>5961.0</temperature>
+		<rightascension>19 25 52</rightascension>
+		<declination>+50 45 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

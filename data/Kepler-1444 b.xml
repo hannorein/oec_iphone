@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1444 b</id_exoplaneteu>
+	<name>Kepler-1444 b</name>
+	<id>Kepler-1444 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.194</radius>
+		<orbit>
+			<period>33.420350340</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.03</mass>
+		<radius>1.05</radius>
+		<metallicity>0.06</metallicity>
+		<distance />
+		<temperature>5810.0</temperature>
+		<rightascension>19 01 19</rightascension>
+		<declination>+42 02 26</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

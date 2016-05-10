@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1049 b</id_exoplaneteu>
+	<name>Kepler-1049 b</name>
+	<id>Kepler-1049 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.085</radius>
+		<orbit>
+			<period>3.273460740</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.51</mass>
+		<radius>0.49</radius>
+		<metallicity>-0.33</metallicity>
+		<distance />
+		<temperature>3864.0</temperature>
+		<rightascension>19 09 23</rightascension>
+		<declination>+47 46 23</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

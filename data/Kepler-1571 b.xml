@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1571 b</id_exoplaneteu>
+	<name>Kepler-1571 b</name>
+	<id>Kepler-1571 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.136</radius>
+		<orbit>
+			<period>3.385554880</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.23</mass>
+		<radius>1.39</radius>
+		<metallicity>0.04</metallicity>
+		<distance />
+		<temperature>6297.0</temperature>
+		<rightascension>20 03 44</rightascension>
+		<declination>+45 35 48</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

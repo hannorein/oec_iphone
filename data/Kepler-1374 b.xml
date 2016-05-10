@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1374 b</id_exoplaneteu>
+	<name>Kepler-1374 b</name>
+	<id>Kepler-1374 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.204</radius>
+		<orbit>
+			<period>10.652767070</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.85</mass>
+		<radius>0.81</radius>
+		<metallicity>-0.13</metallicity>
+		<distance />
+		<temperature>5323.0</temperature>
+		<rightascension>19 25 24</rightascension>
+		<declination>+45 10 20</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

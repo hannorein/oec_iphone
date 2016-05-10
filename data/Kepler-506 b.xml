@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-506 b</id_exoplaneteu>
+	<name>Kepler-506 b</name>
+	<id>Kepler-506 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.244</radius>
+		<orbit>
+			<period>6.883405500</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.19</mass>
+		<radius>1.19</radius>
+		<metallicity>0.09</metallicity>
+		<distance />
+		<temperature>6236.0</temperature>
+		<rightascension>18 58 32</rightascension>
+		<declination>+40 43 11</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

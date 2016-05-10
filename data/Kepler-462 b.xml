@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-462 b</id_exoplaneteu>
+	<name>Kepler-462 b</name>
+	<id>Kepler-462 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.336</radius>
+		<orbit>
+			<period>84.687980800</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.59</mass>
+		<radius>2.04</radius>
+		<metallicity>-0.06</metallicity>
+		<distance />
+		<temperature>7070.0</temperature>
+		<rightascension>19 59 17</rightascension>
+		<declination>+43 48 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

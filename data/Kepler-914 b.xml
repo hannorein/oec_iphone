@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-914 b</id_exoplaneteu>
+	<name>Kepler-914 b</name>
+	<id>Kepler-914 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.123</radius>
+		<orbit>
+			<period>4.409665480</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.10</mass>
+		<radius>1.15</radius>
+		<metallicity>0.22</metallicity>
+		<distance />
+		<temperature>5877.0</temperature>
+		<rightascension>19 21 39</rightascension>
+		<declination>+44 53 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

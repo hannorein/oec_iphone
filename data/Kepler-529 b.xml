@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-529 b</id_exoplaneteu>
+	<name>Kepler-529 b</name>
+	<id>Kepler-529 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.166</radius>
+		<orbit>
+			<period>1.980357660</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.07</mass>
+		<radius>1.14</radius>
+		<metallicity>-0.10</metallicity>
+		<distance />
+		<temperature>6087.0</temperature>
+		<rightascension>19 03 33</rightascension>
+		<declination>+47 52 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

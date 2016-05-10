@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1311 c</id_exoplaneteu>
+	<name>Kepler-1311 c</name>
+	<id>Kepler-1311 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.109</radius>
+		<orbit>
+			<period>2.535734240</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.05</mass>
+		<radius>1.40</radius>
+		<metallicity>0.09</metallicity>
+		<distance />
+		<temperature>5748.0</temperature>
+		<rightascension>19 18 36</rightascension>
+		<declination>+43 49 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

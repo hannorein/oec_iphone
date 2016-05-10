@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1419 b</id_exoplaneteu>
+	<name>Kepler-1419 b</name>
+	<id>Kepler-1419 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.255</radius>
+		<orbit>
+			<period>42.521589500</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.01</mass>
+		<radius>1.01</radius>
+		<metallicity>0.04</metallicity>
+		<distance />
+		<temperature>5796.0</temperature>
+		<rightascension>19 29 01</rightascension>
+		<declination>+37 58 17</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

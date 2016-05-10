@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-920 c</id_exoplaneteu>
+	<name>Kepler-920 c</name>
+	<id>Kepler-920 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.339</radius>
+		<orbit>
+			<period>100.827411300</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.89</mass>
+		<radius>0.85</radius>
+		<metallicity>0.00</metallicity>
+		<distance />
+		<temperature>5403.0</temperature>
+		<rightascension>18 57 11</rightascension>
+		<declination>+49 09 31</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

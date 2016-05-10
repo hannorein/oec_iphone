@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1242 b</id_exoplaneteu>
+	<name>Kepler-1242 b</name>
+	<id>Kepler-1242 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.202</radius>
+		<orbit>
+			<period>13.627984320</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.77</mass>
+		<radius>0.74</radius>
+		<metallicity>-0.05</metallicity>
+		<distance />
+		<temperature>4895.0</temperature>
+		<rightascension>18 58 25</rightascension>
+		<declination>+41 11 47</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

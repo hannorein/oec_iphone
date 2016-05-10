@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-1511 b</id_exoplaneteu>
+	<name>Kepler-1511 b</name>
+	<id>Kepler-1511 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.150</radius>
+		<orbit>
+			<period>23.238279200</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.17</mass>
+		<radius>1.29</radius>
+		<metallicity>0.14</metallicity>
+		<distance />
+		<temperature>6064.0</temperature>
+		<rightascension>19 13 41</rightascension>
+		<declination>+43 10 47</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

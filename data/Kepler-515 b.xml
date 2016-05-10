@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-515 b</id_exoplaneteu>
+	<name>Kepler-515 b</name>
+	<id>Kepler-515 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.130</radius>
+		<orbit>
+			<period>19.963713180</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.90</mass>
+		<radius>0.83</radius>
+		<metallicity>0.08</metallicity>
+		<distance />
+		<temperature>5293.0</temperature>
+		<rightascension>19 21 59</rightascension>
+		<declination>+52 03 20</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
