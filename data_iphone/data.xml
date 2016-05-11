@@ -1,4 +1,4 @@
-<planets date="2016-05-10" name="data" planets="3399">
+<planets date="2016-05-10" name="data" planets="3422">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -36908,7 +36908,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+41 20 34</declination>
 			<magV>11.92</magV>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-132 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -36937,7 +36937,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+41 20 34</declination>
 			<magV>11.92</magV>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-132 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -36966,10 +36966,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+41 20 34</declination>
 			<magV>11.92</magV>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-132 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-132 e</id_exoplaneteu>
+		<name>Kepler-132 e</name>
+		<id>Kepler-132 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.105</radius>
+			<orbit>
+				<period>110.286937400</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.178</radius>
+			<distance>331.08</distance>
+			<temperature>6003</temperature>
+			<rightascension>18 52 56</rightascension>
+			<declination>+41 20 34</declination>
+			<magV>11.92</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -42324,7 +42350,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 19 08</rightascension>
 			<declination>+46 51 31</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-148 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-148 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -42353,10 +42379,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 19 08</rightascension>
 			<declination>+46 51 31</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-148 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-148 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-148 d</id_exoplaneteu>
+		<name>Kepler-148 d</name>
+		<id>Kepler-148 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.774</radius>
+			<orbit>
+				<period>51.846885750</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.7770</mass>
+			<radius>0.851</radius>
+			<distance>934.81</distance>
+			<temperature>5272</temperature>
+			<rightascension>19 19 08</rightascension>
+			<declination>+46 51 31</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -44376,7 +44428,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 19 07</rightascension>
 			<declination>+49 53 47</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-154 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-154 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -44404,10 +44456,85 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 19 07</rightascension>
 			<declination>+49 53 47</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-154 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-154 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-154 d</id_exoplaneteu>
+		<name>Kepler-154 d</name>
+		<id>Kepler-154 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.343</radius>
+			<orbit>
+				<period>20.549818830</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.001</radius>
+			<distance>882.88</distance>
+			<temperature>5690</temperature>
+			<rightascension>19 19 07</rightascension>
+			<declination>+49 53 47</declination>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-154 e</id_exoplaneteu>
+		<name>Kepler-154 e</name>
+		<id>Kepler-154 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.134</radius>
+			<orbit>
+				<period>3.932764650</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.001</radius>
+			<distance>882.88</distance>
+			<temperature>5690</temperature>
+			<rightascension>19 19 07</rightascension>
+			<declination>+49 53 47</declination>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-154 f</id_exoplaneteu>
+		<name>Kepler-154 f</name>
+		<id>Kepler-154 f</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.134</radius>
+			<orbit>
+				<period>9.919356840</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.001</radius>
+			<distance>882.88</distance>
+			<temperature>5690</temperature>
+			<rightascension>19 19 07</rightascension>
+			<declination>+49 53 47</declination>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -45407,7 +45534,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 24 23</rightascension>
 			<declination>+38 52 32</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-157 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-157 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -45436,10 +45563,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 24 23</rightascension>
 			<declination>+38 52 32</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-157 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-157 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-157 d</id_exoplaneteu>
+		<name>Kepler-157 d</name>
+		<id>Kepler-157 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.130</radius>
+			<orbit>
+				<period>7.025734740</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.0280</mass>
+			<radius>1.044</radius>
+			<distance>742.16</distance>
+			<temperature>5774</temperature>
+			<rightascension>19 24 23</rightascension>
+			<declination>+38 52 32</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48050,7 +48203,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 32 38</rightascension>
 			<declination>+48 52 52</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-166 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-166 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -48079,10 +48232,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 32 38</rightascension>
 			<declination>+48 52 52</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-166 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-166 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-166 d</id_exoplaneteu>
+		<name>Kepler-166 d</name>
+		<id>Kepler-166 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.154</radius>
+			<orbit>
+				<period>1.554003930</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.8790</mass>
+			<radius>0.742</radius>
+			<distance>639.62</distance>
+			<temperature>5413</temperature>
+			<rightascension>19 32 38</rightascension>
+			<declination>+48 52 52</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48868,7 +49047,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 38 40</rightascension>
 			<declination>+43 51 11</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-176 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-176 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -48896,7 +49075,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 38 40</rightascension>
 			<declination>+43 51 11</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-176 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-176 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -48924,10 +49103,35 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 38 40</rightascension>
 			<declination>+43 51 11</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-176 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-176 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-176 e</id_exoplaneteu>
+		<name>Kepler-176 e</name>
+		<id>Kepler-176 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.129</radius>
+			<orbit>
+				<period>51.165790000</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>0.891</radius>
+			<distance>669.36</distance>
+			<temperature>5232</temperature>
+			<rightascension>19 38 40</rightascension>
+			<declination>+43 51 11</declination>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -50031,7 +50235,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 24 44</rightascension>
 			<declination>+45 19 23</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-191 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-191 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -50060,10 +50264,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 24 44</rightascension>
 			<declination>+45 19 23</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-191 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-191 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-191 d</id_exoplaneteu>
+		<name>Kepler-191 d</name>
+		<id>Kepler-191 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.203</radius>
+			<orbit>
+				<period>5.945041020</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.8280</mass>
+			<radius>0.789</radius>
+			<distance>680.33</distance>
+			<temperature>5282</temperature>
+			<rightascension>19 24 44</rightascension>
+			<declination>+45 19 23</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -50089,7 +50319,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 11 40</rightascension>
 			<declination>+45 35 34</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-192 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-192 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -50118,10 +50348,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 11 40</rightascension>
 			<declination>+45 35 34</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-192 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-192 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-192 d</id_exoplaneteu>
+		<name>Kepler-192 d</name>
+		<id>Kepler-192 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.091</radius>
+			<orbit>
+				<period>6.470275790</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.9050</mass>
+			<radius>1.007</radius>
+			<distance>683.40</distance>
+			<temperature>5479</temperature>
+			<rightascension>19 11 40</rightascension>
+			<declination>+45 35 34</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -50538,7 +50794,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 22 41</rightascension>
 			<declination>+38 41 27</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-198 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-198 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -50567,10 +50823,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 22 41</rightascension>
 			<declination>+38 41 27</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-198 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-198 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-198 d</id_exoplaneteu>
+		<name>Kepler-198 d</name>
+		<id>Kepler-198 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.136</radius>
+			<orbit>
+				<period>1.311844430</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.9580</mass>
+			<radius>0.940</radius>
+			<distance>516.78</distance>
+			<temperature>5574</temperature>
+			<rightascension>19 22 41</rightascension>
+			<declination>+38 41 27</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -52065,7 +52347,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 32 09</rightascension>
 			<declination>+46 16 39</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-217 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-217 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -52094,10 +52376,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 32 09</rightascension>
 			<declination>+46 16 39</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-217 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-217 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-217 d</id_exoplaneteu>
+		<name>Kepler-217 d</name>
+		<id>Kepler-217 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.118</radius>
+			<orbit>
+				<period>3.886895250</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.3830</mass>
+			<radius>1.799</radius>
+			<distance>1054.36</distance>
+			<temperature>6171</temperature>
+			<rightascension>19 32 09</rightascension>
+			<declination>+46 16 39</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -52123,7 +52431,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 41 39</rightascension>
 			<declination>+46 15 59</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-218 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-218 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -52152,10 +52460,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<rightascension>19 41 39</rightascension>
 			<declination>+46 15 59</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-218 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-218 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-218 d</id_exoplaneteu>
+		<name>Kepler-218 d</name>
+		<id>Kepler-218 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.237</radius>
+			<orbit>
+				<period>124.524464700</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.0190</mass>
+			<radius>1.063</radius>
+			<distance>675.18</distance>
+			<temperature>5502</temperature>
+			<rightascension>19 41 39</rightascension>
+			<declination>+46 15 59</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -54484,7 +54818,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 26 33</rightascension>
 			<declination>+42 26 10</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-245 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-245 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -54513,7 +54847,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 26 33</rightascension>
 			<declination>+42 26 10</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-245 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-245 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -54542,10 +54876,36 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 26 33</rightascension>
 			<declination>+42 26 10</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-245 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-245 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-245 e</id_exoplaneteu>
+		<name>Kepler-245 e</name>
+		<id>Kepler-245 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.156</radius>
+			<orbit>
+				<period>3.219821060</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.7770</mass>
+			<radius>0.795</radius>
+			<distance>919.92</distance>
+			<temperature>5100</temperature>
+			<rightascension>19 26 33</rightascension>
+			<declination>+42 26 10</declination>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -55393,7 +55753,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 44 15</rightascension>
 			<declination>+45 58 36</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-255 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-255 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -55422,10 +55782,36 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 44 15</rightascension>
 			<declination>+45 58 36</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-255 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-255 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-255 d</id_exoplaneteu>
+		<name>Kepler-255 d</name>
+		<id>Kepler-255 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.118</radius>
+			<orbit>
+				<period>1.045622660</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.8780</mass>
+			<radius>0.933</radius>
+			<distance>1287.37</distance>
+			<temperature>5573</temperature>
+			<rightascension>19 44 15</rightascension>
+			<declination>+45 58 36</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -56670,7 +57056,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>18 52 00</rightascension>
 			<declination>+44 17 03</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-271 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-271 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -56698,10 +57084,35 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>18 52 00</rightascension>
 			<declination>+44 17 03</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-271 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-271 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-271 d</id_exoplaneteu>
+		<name>Kepler-271 d</name>
+		<id>Kepler-271 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.059</radius>
+			<orbit>
+				<period>5.249725410</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>0.880</radius>
+			<distance>434.75</distance>
+			<temperature>5524</temperature>
+			<rightascension>18 52 00</rightascension>
+			<declination>+44 17 03</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -59344,7 +59755,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 37 46</rightascension>
 			<declination>+40 33 27</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-304 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-304 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -59373,7 +59784,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 37 46</rightascension>
 			<declination>+40 33 27</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-304 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-304 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -59402,10 +59813,36 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 37 46</rightascension>
 			<declination>+40 33 27</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-304 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-304 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-304 e</id_exoplaneteu>
+		<name>Kepler-304 e</name>
+		<id>Kepler-304 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.107</radius>
+			<orbit>
+				<period>1.499146950</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.6870</mass>
+			<radius>0.687</radius>
+			<distance>482.29</distance>
+			<temperature>4731</temperature>
+			<rightascension>19 37 46</rightascension>
+			<declination>+40 33 27</declination>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -62445,7 +62882,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 30 42</rightascension>
 			<declination>+46 43 36</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-342 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-342 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -62473,7 +62910,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 30 42</rightascension>
 			<declination>+46 43 36</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-342 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-342 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -62501,10 +62938,35 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<rightascension>19 30 42</rightascension>
 			<declination>+46 43 36</declination>
 		</star>
-		<multiplicity>3</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-342 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-342 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-342 e</id_exoplaneteu>
+		<name>Kepler-342 e</name>
+		<id>Kepler-342 e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.079</radius>
+			<orbit>
+				<period>1.644224610</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.472</radius>
+			<distance>807.28</distance>
+			<temperature>6175</temperature>
+			<rightascension>19 30 42</rightascension>
+			<declination>+46 43 36</declination>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -63055,7 +63517,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 05 48</rightascension>
 			<declination>+42 39 28</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-351 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-351 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -63083,10 +63545,35 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 05 48</rightascension>
 			<declination>+42 39 28</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-351 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-351 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-351 d</id_exoplaneteu>
+		<name>Kepler-351 d</name>
+		<id>Kepler-351 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.243</radius>
+			<orbit>
+				<period>142.544247000</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>0.854</radius>
+			<distance>1448.51</distance>
+			<temperature>5643</temperature>
+			<rightascension>19 05 48</rightascension>
+			<declination>+42 39 28</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -66111,7 +66598,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 25 52</rightascension>
 			<declination>+40 20 37</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-398 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-398 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -66140,10 +66627,36 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 25 52</rightascension>
 			<declination>+40 20 37</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-398 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-398 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-398 d</id_exoplaneteu>
+		<name>Kepler-398 d</name>
+		<id>Kepler-398 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.079</radius>
+			<orbit>
+				<period>6.834370010</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.6490</mass>
+			<radius>0.613</radius>
+			<distance>187.15</distance>
+			<temperature>4493</temperature>
+			<rightascension>19 25 52</rightascension>
+			<declination>+40 20 37</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -66348,7 +66861,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 20 19</rightascension>
 			<declination>+50 51 48</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-401 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-401 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -66376,10 +66889,35 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 20 19</rightascension>
 			<declination>+50 51 48</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-401 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-401 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-401 d</id_exoplaneteu>
+		<name>Kepler-401 d</name>
+		<id>Kepler-401 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.203</radius>
+			<orbit>
+				<period>184.256405000</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.333</radius>
+			<distance>774.02</distance>
+			<temperature>6117</temperature>
+			<rightascension>19 20 19</rightascension>
+			<declination>+50 51 48</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -66516,7 +67054,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 19 41</rightascension>
 			<declination>+46 44 40</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-403 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-403 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -66544,10 +67082,35 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<rightascension>19 19 41</rightascension>
 			<declination>+46 44 40</declination>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-403 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-403 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-403 d</id_exoplaneteu>
+		<name>Kepler-403 d</name>
+		<id>Kepler-403 d</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.127</radius>
+			<orbit>
+				<period>13.611591290</period>
+			</orbit>
+		</properties>
+		<star>
+			<radius>1.329</radius>
+			<distance>605.63</distance>
+			<temperature>6090</temperature>
+			<rightascension>19 19 41</rightascension>
+			<declination>+46 44 40</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -67479,6 +68042,34 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/01/28</lastupdate>
 		<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-436 c</id_exoplaneteu>
+		<name>Kepler-436 c</name>
+		<name>KOI-2529.01</name>
+		<id>Kepler-436 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.208</radius>
+			<orbit>
+				<period>16.797138740</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.729</mass>
+			<radius>0.697</radius>
+			<metallicity>0.01</metallicity>
+			<distance>618</distance>
+			<temperature>4651</temperature>
+			<rightascension>20 06 52.98</rightascension>
+			<declination>+44 24 43.4</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -80432,7 +81023,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<rightascension>19 44 27</rightascension>
 			<declination>+39 58 43</declination>
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-80 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 b are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -80461,7 +81052,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<rightascension>19 44 27</rightascension>
 			<declination>+39 58 43</declination>
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-80 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 c are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -80490,7 +81081,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<rightascension>19 44 27</rightascension>
 			<declination>+39 58 43</declination>
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-80 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 d are still unknown, the object is highly unlikely to be a false positive.</description>
@@ -80519,10 +81110,36 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<rightascension>19 44 27</rightascension>
 			<declination>+39 58 43</declination>
 		</star>
-		<multiplicity>4</multiplicity>
+		<multiplicity>5</multiplicity>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-80 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 e are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-80 f</id_exoplaneteu>
+		<name>Kepler-80 f</name>
+		<id>Kepler-80 f</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.110</radius>
+			<orbit>
+				<period>0.986787060</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.7220</mass>
+			<radius>0.637</radius>
+			<distance>418.17</distance>
+			<temperature>4613</temperature>
+			<rightascension>19 44 27</rightascension>
+			<declination>+39 58 43</declination>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/05/10</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -88943,33 +89560,6 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<lastupdate>15/03/18</lastupdate>
 		<description>The planet Kepler-417 c has been confirmed by transit timing variations.</description>
 		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>KOI-2529.01</id_exoplaneteu>
-		<name>KOI-2529.01</name>
-		<id>KOI-2529.01</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<radius>0.152</radius>
-			<orbit>
-				<period>16.79713874</period>
-				<inclination>89.95</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.729</mass>
-			<radius>0.697</radius>
-			<metallicity>0.01</metallicity>
-			<distance>618</distance>
-			<temperature>4651</temperature>
-			<rightascension>20 06 52.98</rightascension>
-			<declination>+44 24 43.4</declination>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/01/28</lastupdate>
-		<description>KOI-2529.01 is an unconfirmed exoplanet candidate that was identified in the Q1-Q6 Kepler KOI list.</description>
-		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>KOI-2672.01</id_exoplaneteu>
