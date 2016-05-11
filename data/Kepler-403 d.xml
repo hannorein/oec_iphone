@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-403 d</id_exoplaneteu>
+	<name>Kepler-403 d</name>
+	<id>Kepler-403 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.127</radius>
+		<orbit>
+			<period>13.611591290</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.329</radius>
+		<metallicity />
+		<distance>605.63</distance>
+		<temperature>6090</temperature>
+		<rightascension>19 19 41</rightascension>
+		<declination>+46 44 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

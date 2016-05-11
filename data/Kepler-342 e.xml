@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-342 e</id_exoplaneteu>
+	<name>Kepler-342 e</name>
+	<id>Kepler-342 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.079</radius>
+		<orbit>
+			<period>1.644224610</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.472</radius>
+		<metallicity />
+		<distance>807.28</distance>
+		<temperature>6175</temperature>
+		<rightascension>19 30 42</rightascension>
+		<declination>+46 43 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

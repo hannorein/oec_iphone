@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-271 d</id_exoplaneteu>
+	<name>Kepler-271 d</name>
+	<id>Kepler-271 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.059</radius>
+		<orbit>
+			<period>5.249725410</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.880</radius>
+		<metallicity />
+		<distance>434.75</distance>
+		<temperature>5524</temperature>
+		<rightascension>18 52 00</rightascension>
+		<declination>+44 17 03</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

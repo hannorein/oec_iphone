@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-80 f</id_exoplaneteu>
+	<name>Kepler-80 f</name>
+	<id>Kepler-80 f</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.110</radius>
+		<orbit>
+			<period>0.986787060</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.7220</mass>
+		<radius>0.637</radius>
+		<metallicity />
+		<distance>418.17</distance>
+		<temperature>4613</temperature>
+		<rightascension>19 44 27</rightascension>
+		<declination>+39 58 43</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

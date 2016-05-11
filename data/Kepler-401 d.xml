@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-401 d</id_exoplaneteu>
+	<name>Kepler-401 d</name>
+	<id>Kepler-401 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.203</radius>
+		<orbit>
+			<period>184.256405000</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.333</radius>
+		<metallicity />
+		<distance>774.02</distance>
+		<temperature>6117</temperature>
+		<rightascension>19 20 19</rightascension>
+		<declination>+50 51 48</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

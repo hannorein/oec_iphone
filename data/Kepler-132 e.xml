@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-132 e</id_exoplaneteu>
+	<name>Kepler-132 e</name>
+	<id>Kepler-132 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.105</radius>
+		<orbit>
+			<period>110.286937400</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>1.178</radius>
+		<metallicity />
+		<distance>331.08</distance>
+		<temperature>6003</temperature>
+		<rightascension>18 52 56</rightascension>
+		<declination>+41 20 34</declination>
+		<angulardistance />
+		<magV>11.92</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

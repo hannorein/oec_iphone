@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-166 d</id_exoplaneteu>
+	<name>Kepler-166 d</name>
+	<id>Kepler-166 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.154</radius>
+		<orbit>
+			<period>1.554003930</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.8790</mass>
+		<radius>0.742</radius>
+		<metallicity />
+		<distance>639.62</distance>
+		<temperature>5413</temperature>
+		<rightascension>19 32 38</rightascension>
+		<declination>+48 52 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

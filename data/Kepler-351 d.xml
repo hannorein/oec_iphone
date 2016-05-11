@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-351 d</id_exoplaneteu>
+	<name>Kepler-351 d</name>
+	<id>Kepler-351 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.243</radius>
+		<orbit>
+			<period>142.544247000</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass />
+		<radius>0.854</radius>
+		<metallicity />
+		<distance>1448.51</distance>
+		<temperature>5643</temperature>
+		<rightascension>19 05 48</rightascension>
+		<declination>+42 39 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

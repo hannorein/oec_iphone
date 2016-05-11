@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>Kepler-157 d</id_exoplaneteu>
+	<name>Kepler-157 d</name>
+	<id>Kepler-157 d</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.130</radius>
+		<orbit>
+			<period>7.025734740</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.0280</mass>
+		<radius>1.044</radius>
+		<metallicity />
+		<distance>742.16</distance>
+		<temperature>5774</temperature>
+		<rightascension>19 24 23</rightascension>
+		<declination>+38 52 32</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/10</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
