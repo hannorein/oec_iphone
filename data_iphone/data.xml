@@ -1,4 +1,4 @@
-<planets date="2016-06-21" name="data" planets="3423">
+<planets date="2016-07-10" name="data" planets="3424">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4841,7 +4841,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/06/21</lastupdate>
 		<description>This planet is a Super-Earth with a radius roughly 2 times that of Earth. The host star EPIC 210363145 was identified as a member of the approximately 120-Myr-old Pleiades cluster based on its kinematics and photometric distance.</description>
-		<new>1</new>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -12478,6 +12477,33 @@ Image credit: Vanessa Bailey</imagedescription>
 		<discoveryyear>1999</discoveryyear>
 		<lastupdate>10/12/08</lastupdate>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 131399 Ab</id_exoplaneteu>
+		<name>HD 131399 Ab</name>
+		<id>HD 131399 Ab</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>4</mass>
+			<orbit>
+				<period>200883.21</period>
+				<semimajoraxis>80</semimajoraxis>
+				<eccentricity>0.35</eccentricity>
+				<inclination>40</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A1V</spectraltype>
+			<mass>1.82</mass>
+			<temperature>9300</temperature>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/06</lastupdate>
+		<description>The semi-major axis of this planet is closer relative to that of its hierarchical triple star system than for any known exoplanet within a stellar binary or triple, making HD 131399 dynamically unlike any other known system.</description>
+		<new>1</new>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 131496 b</id_exoplaneteu>
