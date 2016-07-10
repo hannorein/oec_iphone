@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HD 131399 Ab</id_exoplaneteu>
+	<name>HD 131399 Ab</name>
+	<id>HD 131399 Ab</id>
+	<discoverymethod>imaging</discoverymethod>
+	<properties>
+		<mass>4</mass>
+		<radius />
+		<orbit>
+			<period>200883.21</period>
+			<semimajoraxis>80</semimajoraxis>
+			<eccentricity>0.35</eccentricity>
+			<inclination>40</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A1V</spectraltype>
+		<mass>1.82</mass>
+		<radius />
+		<metallicity />
+		<distance />
+		<temperature>9300</temperature>
+		<rightascension />
+		<declination />
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/06</lastupdate>
+	<description>The semi-major axis of this planet is closer relative to that of its hierarchical triple star system than for any known exoplanet within a stellar binary or triple, making HD 131399 dynamically unlike any other known system.</description>
+	<new>1</new>
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
