@@ -1,31 +1,33 @@
 <planet>
-	<id_exoplaneteu>PSR 1257 12 d</id_exoplaneteu>
+	<id_exoplaneteu>PSR 1257+12 C</id_exoplaneteu>
+	<name>PSR 1257+12 C</name>
+	<name>PSR B1257+12 C</name>
 	<name>PSR 1257 12 d</name>
 	<name>PSR B1257+12 d</name>
-	<id>PSR 1257 12 d</id>
+	<id>PSR 1257+12 C</id>
 	<discoverymethod>timing</discoverymethod>
 	<properties>
-		<mass>0.012</mass>
+		<mass>0.0123</mass>
 		<radius />
 		<orbit>
 			<period>98.2114</period>
 			<semimajoraxis>0.46</semimajoraxis>
 			<eccentricity>0.0252</eccentricity>
 			<inclination>47</inclination>
-			<periastron />
+			<periastron>108.3</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>3</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.00007</mass>
-		<radius />
+		<spectraltype>Pulsar</spectraltype>
+		<mass>1.4</mass>
+		<radius>0.000014</radius>
 		<metallicity />
-		<distance>500</distance>
-		<temperature>5700.0</temperature>
-		<rightascension>13 00 04</rightascension>
-		<declination>+12 40 56</declination>
+		<distance>710</distance>
+		<temperature />
+		<rightascension>13 00 03.5767</rightascension>
+		<declination>+12 40 56.4721</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -35,7 +37,7 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>1992</discoveryyear>
-	<lastupdate>10/12/22</lastupdate>
+	<lastupdate>16/04/12</lastupdate>
 	<description />
 	<new />
 	<image />

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>KELT-17 b</id_exoplaneteu>
+	<name>KELT-17 b</name>
+	<id>KELT-17 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.31</mass>
+		<radius>1.525</radius>
+		<orbit>
+			<period>3.0801716</period>
+			<semimajoraxis>0.04881</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.635</mass>
+		<radius>1.645</radius>
+		<metallicity>-0.018</metallicity>
+		<distance>210</distance>
+		<temperature>7454</temperature>
+		<rightascension>08 22 28.21</rightascension>
+		<declination>13 44 07.2</declination>
+		<angulardistance />
+		<magV>9.286</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/19</lastupdate>
+	<description>KELT-17 b is highly misaligned with respect to the stellar spin axis and was used to measure the level of differential rotation of its host star. Jointly discovered with KELT-North and KELT-South.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
