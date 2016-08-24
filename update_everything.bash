@@ -40,5 +40,5 @@ commit "automatic update: create_data_iphone_11"
 
 
 
-#git push
-#./deploy.bash
+git push
+./deploy.bash
