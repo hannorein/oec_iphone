@@ -1,4 +1,4 @@
-<planets date="2016-07-10" name="data" planets="3424">
+<planets date="2016-08-23" name="data" planets="3427">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1592,17 +1592,16 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G2 V</spectraltype>
-			<mass>1.100</mass>
-			<radius>1.227</radius>
-			<metallicity>0.20</metallicity>
-			<distance>1.3417</distance>
-			<temperature>5790</temperature>
+			<spectraltype>M5.5V</spectraltype>
+			<mass>0.120</mass>
+			<radius>0.141</radius>
+			<distance>1.295</distance>
+			<temperature>3050</temperature>
 			<rightascension>14 39 36.204</rightascension>
 			<declination>-60 50 08.23</declination>
 			<magV>0.01</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>15/11/17</lastupdate>
 		<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). The planet candidate Alpha Centauri Bb was announced as the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The candidate was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile. The planet's existence was challenged by Hatzes (2013) and was shown to be likely an artifact caused by the data sampling by Rajpaul et al. (2015).</description>
@@ -1629,17 +1628,16 @@
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G2 V</spectraltype>
-			<mass>1.100</mass>
-			<radius>1.227</radius>
-			<metallicity>0.20</metallicity>
-			<distance>1.3417</distance>
-			<temperature>5790</temperature>
+			<spectraltype>M5.5V</spectraltype>
+			<mass>0.120</mass>
+			<radius>0.141</radius>
+			<distance>1.295</distance>
+			<temperature>3050</temperature>
 			<rightascension>14 39 36.204</rightascension>
 			<declination>-60 50 08.23</declination>
 			<magV>0.01</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/17</lastupdate>
 		<description>A possible transit event was detected in Hubble Space Telescope photometry of Alpha Centauri B while searching for transits of the planet candidate Alpha Centauri Bb. This may be due to the presence of a roughly Earth-sized planet in an orbit less than 20 days.</description>
@@ -12496,6 +12494,8 @@ Image credit: Vanessa Bailey</imagedescription>
 			<spectraltype>A1V</spectraltype>
 			<mass>1.82</mass>
 			<temperature>9300</temperature>
+			<rightascension>14 54 25.30919</rightascension>
+			<declination>-34 08 34.0412</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -25142,6 +25142,35 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/09/29</lastupdate>
 		<description>KELT-15 b was discovered by the KELT-South survey.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-17 b</id_exoplaneteu>
+		<name>KELT-17 b</name>
+		<id>KELT-17 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.31</mass>
+			<radius>1.525</radius>
+			<orbit>
+				<period>3.0801716</period>
+				<semimajoraxis>0.04881</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.635</mass>
+			<radius>1.645</radius>
+			<metallicity>-0.018</metallicity>
+			<distance>210</distance>
+			<temperature>7454</temperature>
+			<rightascension>08 22 28.21</rightascension>
+			<declination>13 44 07.2</declination>
+			<magV>9.286</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/19</lastupdate>
+		<description>KELT-17 b is highly misaligned with respect to the stellar spin axis and was used to measure the level of differential rotation of its host star. Jointly discovered with KELT-North and KELT-South.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -91613,6 +91642,44 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Planets in open clusters</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Proxima Centauri b</id_exoplaneteu>
+		<name>Proxima Centauri b</name>
+		<name>&#945; Centauri C b</name>
+		<name>GL 551 b</name>
+		<name>HIP 70890 b</name>
+		<name>Proxima b</name>
+		<id>Proxima Centauri b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.004089</mass>
+			<orbit>
+				<period>11.186</period>
+				<semimajoraxis>0.0485</semimajoraxis>
+				<longitude>110</longitude>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M5.5V</spectraltype>
+			<mass>0.120</mass>
+			<radius>0.141</radius>
+			<distance>1.295</distance>
+			<temperature>3050</temperature>
+			<rightascension>14 39 36.204</rightascension>
+			<declination>-60 50 08.23</declination>
+			<magV>0.01</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/22</lastupdate>
+		<description>Astronomers using ESO telescopes and other facilities have found clear evidence of a planet orbiting the closest star to Earth, Proxima Centauri. The long-sought world, designated Proxima b, orbits its cool red parent star every 11 days and has a temperature suitable for liquid water to exist on its surface. This rocky world is a little more massive than the Earth and is the closest exoplanet to us &#8212; and it may also be the closest possible abode for life outside the Solar System.</description>
+		<image>eso1629a</image>
+		<imagedescription>This artist's impression shows a view of the surface of the planet Proxima b orbiting the red dwarf star Proxima Centauri, the closest star to the Solar System. The double star Alpha Centauri AB also appears in the image to the upper-right of Proxima itself. Proxima b is a little more massive than the Earth and orbits in the habitable zone around Proxima Centauri, where the temperature is suitable for liquid water to exist on its surface.
+
+Credit: ESO/M. Kornmesser.</imagedescription>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Psi-1 Draconis B b</id_exoplaneteu>
 		<name>Psi-1 Draconis B b</name>
 		<name>&#968;1 Dra B b</name>
@@ -91674,108 +91741,126 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Orphan planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>PSR 1257 12 b</id_exoplaneteu>
-		<name>PSR 1257 12 b</name>
+		<id_exoplaneteu>PSR 1257+12 A</id_exoplaneteu>
+		<name>PSR 1257+12 A</name>
+		<name>PSR B1257+12 A</name>
+		<name>PSR 1257+12 b</name>
 		<name>PSR B1257+12 b</name>
-		<id>PSR 1257 12 b</id>
+		<id>PSR 1257+12 A</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>0.00007</mass>
+			<mass>0.0000629</mass>
 			<orbit>
 				<period>25.262</period>
 				<semimajoraxis>0.19</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
+				<periastron>0.0</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.00007</mass>
-			<distance>500</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>13 00 04</rightascension>
-			<declination>+12 40 56</declination>
+			<spectraltype>Pulsar</spectraltype>
+			<mass>1.4</mass>
+			<radius>0.000014</radius>
+			<distance>710</distance>
+			<rightascension>13 00 03.5767</rightascension>
+			<declination>+12 40 56.4721</declination>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>1992</discoveryyear>
-		<lastupdate>10/12/22</lastupdate>
+		<lastupdate>16/04/12</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>PSR 1257 12 c</id_exoplaneteu>
-		<name>PSR 1257 12 c</name>
+		<id_exoplaneteu>PSR 1257+12 B</id_exoplaneteu>
+		<name>PSR 1257+12 B</name>
+		<name>PSR B1257+12 B</name>
+		<name>PSR 1257+12 c</name>
 		<name>PSR B1257+12 c</name>
-		<id>PSR 1257 12 c</id>
+		<id>PSR 1257+12 B</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>0.013</mass>
+			<mass>0.0135</mass>
 			<orbit>
 				<period>66.5419</period>
 				<semimajoraxis>0.36</semimajoraxis>
 				<eccentricity>0.0186</eccentricity>
 				<inclination>53</inclination>
+				<periastron>250.4</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.00007</mass>
-			<distance>500</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>13 00 04</rightascension>
-			<declination>+12 40 56</declination>
+			<spectraltype>Pulsar</spectraltype>
+			<mass>1.4</mass>
+			<radius>0.000014</radius>
+			<distance>710</distance>
+			<rightascension>13 00 03.5767</rightascension>
+			<declination>+12 40 56.4721</declination>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>1992</discoveryyear>
-		<lastupdate>10/12/22</lastupdate>
+		<lastupdate>16/04/12</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>PSR 1257 12 d</id_exoplaneteu>
+		<id_exoplaneteu>PSR 1257+12 C</id_exoplaneteu>
+		<name>PSR 1257+12 C</name>
+		<name>PSR B1257+12 C</name>
 		<name>PSR 1257 12 d</name>
 		<name>PSR B1257+12 d</name>
-		<id>PSR 1257 12 d</id>
+		<id>PSR 1257+12 C</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>0.012</mass>
+			<mass>0.0123</mass>
 			<orbit>
 				<period>98.2114</period>
 				<semimajoraxis>0.46</semimajoraxis>
 				<eccentricity>0.0252</eccentricity>
 				<inclination>47</inclination>
+				<periastron>108.3</periastron>
+				<ascendingnode>3</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.00007</mass>
-			<distance>500</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>13 00 04</rightascension>
-			<declination>+12 40 56</declination>
+			<spectraltype>Pulsar</spectraltype>
+			<mass>1.4</mass>
+			<radius>0.000014</radius>
+			<distance>710</distance>
+			<rightascension>13 00 03.5767</rightascension>
+			<declination>+12 40 56.4721</declination>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>1992</discoveryyear>
-		<lastupdate>10/12/22</lastupdate>
+		<lastupdate>16/04/12</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>PSR B1620-26 b</id_exoplaneteu>
 		<name>PSR B1620-26 b</name>
+		<name>B1620-26 b</name>
 		<name>PSR B1620-26 (AB) b</name>
+		<name>B1620-26 (AB) b</name>
 		<id>PSR B1620-26 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>2.5</mass>
+			<mass>1.7</mass>
 			<orbit>
-				<period>36525</period>
-				<semimajoraxis>23</semimajoraxis>
+				<period>24837</period>
+				<semimajoraxis>20</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>Pulsar</spectraltype>
 			<mass>1.35</mass>
-			<distance>3800</distance>
-			<rightascension>16 23 38</rightascension>
-			<declination>-26 31 53</declination>
+			<radius>0.000014</radius>
+			<distance>1800</distance>
+			<rightascension>16 23 38.2218</rightascension>
+			<declination>-26 31 53.769</declination>
 			<magV>24</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>1994</discoveryyear>
-		<lastupdate>12/11/27</lastupdate>
+		<lastupdate>16/04/12</lastupdate>
 		<description>PSR B1620-26 b is a circum-binary planet. It is orbiting a pulsar and a white dwarf in the globular cluster M4. The cluster is estimated to be 12.2 billion years old.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, P-type</list>
@@ -91784,29 +91869,27 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>PSR J1719-1438 b</id_exoplaneteu>
 		<name>PSR J1719-1438 b</name>
-		<name>PSR 1719-14 b</name>
+		<name>PSR J1719-14 b</name>
 		<id>PSR J1719-1438 b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
-			<mass>1.20</mass>
-			<radius>0.41</radius>
+			<mass>1.21</mass>
 			<orbit>
-				<period>0.0904</period>
+				<period>0.090706293</period>
 				<semimajoraxis>0.00442</semimajoraxis>
-				<eccentricity>0</eccentricity>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>Pulsar</spectraltype>
 			<mass>1.4</mass>
-			<radius>0.000028735632</radius>
+			<radius>0.000014</radius>
 			<distance>1200</distance>
-			<temperature>5375.9</temperature>
-			<rightascension>17 19 10</rightascension>
-			<declination>-14 38 01</declination>
+			<rightascension>17 19 10.0730</rightascension>
+			<declination>-14 38 00.96</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/01/01</lastupdate>
+		<lastupdate>16/04/12</lastupdate>
 		<description>The 5.7ms pulsar PSR J1719-14 shows timing variations on a 2.17 hour timescale. These can be explained with a Jovian planet. However, because of the planet's short distance to the star, its density has to be more then 20 times that of Jupiter. The planet is most likely a remnant of a binary star which avoided complete destruction. The chemical composition, pressure and dimensions of the planet indicate that it is crystallized, or in other words, a very big diamond (Bailes et al 2011).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -92473,7 +92556,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<distance>12.1</distance>
 			<temperature>2550</temperature>
 			<rightascension>23 06 30.34</rightascension>
-			<declination>05 02 36.44</declination>
+			<declination>-05 02 36.44</declination>
 			<magV>18.8</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -92509,7 +92592,7 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 			<distance>12.1</distance>
 			<temperature>2550</temperature>
 			<rightascension>23 06 30.34</rightascension>
-			<declination>05 02 36.44</declination>
+			<declination>-05 02 36.44</declination>
 			<magV>18.8</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -92544,7 +92627,7 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 			<distance>12.1</distance>
 			<temperature>2550</temperature>
 			<rightascension>23 06 30.34</rightascension>
-			<declination>05 02 36.44</declination>
+			<declination>-05 02 36.44</declination>
 			<magV>18.8</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -92796,6 +92879,36 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/22</lastupdate>
 		<description>The multiple planetary system orbiting TYC 1422-614-1 is the first finding of the TAPAS project, a HARPS-N monitoring of evolved planetary systems identified with the Hobby-Eberly Telescope.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TYC 3667-1280-1 b</id_exoplaneteu>
+		<name>TYC 3667-1280-1 b</name>
+		<id>TYC 3667-1280-1 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.4</mass>
+			<orbit>
+				<period>26.468</period>
+				<semimajoraxis>0.21</semimajoraxis>
+				<eccentricity>0.036</eccentricity>
+				<periastron>240</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.87</mass>
+			<radius>6.26</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>481</distance>
+			<temperature>5130</temperature>
+			<rightascension>00 51 32.9649</rightascension>
+			<declination>+58 25 34.268</declination>
+			<magV>9.86</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/04/11</lastupdate>
+		<description>TYC 3667-1280-1 b is on the brink of engulfment by its host star, which is a former A-type star entering the red giant branch.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
