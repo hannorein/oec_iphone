@@ -1,4 +1,4 @@
-<planets date="2017-02-21" name="data" planets="3524">
+<planets date="2017-02-21" name="data" planets="3559">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -4958,6 +4958,36 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Planets in open clusters</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 211391664 b</id_exoplaneteu>
+		<name>EPIC 211391664 b</name>
+		<id>EPIC 211391664 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.101</mass>
+			<radius>0.38</radius>
+			<orbit>
+				<period>10.13675</period>
+				<semimajoraxis>0.0943</semimajoraxis>
+				<inclination>89.0</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8V</spectraltype>
+			<mass>1.074</mass>
+			<radius>1.311</radius>
+			<metallicity>-0.2</metallicity>
+			<distance>435.0</distance>
+			<temperature>6120.0</temperature>
+			<rightascension>08 25 57</rightascension>
+			<declination>+11 30 40</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/04</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 211822797 b</id_exoplaneteu>
 		<name>EPIC 211822797 b</name>
 		<id>EPIC 211822797 b</id>
@@ -5843,6 +5873,36 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<lastupdate>15/04/21</lastupdate>
 		<description>The planet candidate orbiting GJ 422 was identified by Bayesian analysis of 24 UVES and 25 HARPS radial velocity measurements.</description>
 		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>GJ 536</id_exoplaneteu>
+		<name>GJ 536</name>
+		<id>GJ 536</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.0169</mass>
+			<orbit>
+				<period>8.7076</period>
+				<semimajoraxis>0.06661</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<periastron>288.7</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1</spectraltype>
+			<mass>0.52</mass>
+			<radius>0.5</radius>
+			<metallicity>-0.08</metallicity>
+			<distance>10.03</distance>
+			<temperature>3685.0</temperature>
+			<rightascension>14 01 03</rightascension>
+			<declination>-02 20 42</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/11/08</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>GJ 649.02</id_exoplaneteu>
@@ -10379,6 +10439,38 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-19 b</id_exoplaneteu>
+		<name>HATS-19 b</name>
+		<id>HATS-19 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.427</mass>
+			<radius>1.66</radius>
+			<orbit>
+				<period>4.569673</period>
+				<semimajoraxis>0.0589</semimajoraxis>
+				<eccentricity>0.3</eccentricity>
+				<inclination>86.6</inclination>
+				<periastron>44.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.303</mass>
+			<radius>1.74</radius>
+			<metallicity>0.24</metallicity>
+			<distance>780.0</distance>
+			<temperature>5896.0</temperature>
+			<rightascension>09 49 38</rightascension>
+			<declination>-33 46 53</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HATS-2 b</id_exoplaneteu>
 		<name>HATS-2 b</name>
 		<name>GSC 665-00236 b</name>
@@ -10409,6 +10501,314 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/04/08</lastupdate>
 		<description>HATS-2 b is the second planet discovered by HATSouth, a global network of autonomous wide-field telescopes. The transit light curves contain several anomalies, probably caused by starspots on the photosphere of the host star. The planet is on a 1.3 day orbit and only about 5 stellar radii away from the star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-20 b</id_exoplaneteu>
+		<name>HATS-20 b</name>
+		<id>HATS-20 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.273</mass>
+			<radius>0.776</radius>
+			<orbit>
+				<period>3.7992969</period>
+				<semimajoraxis>0.04619</semimajoraxis>
+				<eccentricity>0.5</eccentricity>
+				<inclination>87.16</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9V</spectraltype>
+			<mass>0.91</mass>
+			<radius>0.892</radius>
+			<metallicity>0.03</metallicity>
+			<distance>454.0</distance>
+			<temperature>5406.0</temperature>
+			<rightascension>13 12 32</rightascension>
+			<declination>-45 24 34</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-21 b</id_exoplaneteu>
+		<name>HATS-21 b</name>
+		<id>HATS-21 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.332</mass>
+			<radius>1.123</radius>
+			<orbit>
+				<period>3.5543973</period>
+				<semimajoraxis>0.04676</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>85.04</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G4V</spectraltype>
+			<mass>1.08</mass>
+			<radius>1.021</radius>
+			<metallicity>0.3</metallicity>
+			<distance>286.0</distance>
+			<temperature>5695.0</temperature>
+			<rightascension>18 40 44</rightascension>
+			<declination>-58 32 27</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-22 b</id_exoplaneteu>
+		<name>HATS-22 b</name>
+		<id>HATS-22 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.74</mass>
+			<radius>0.953</radius>
+			<orbit>
+				<period>4.7228124</period>
+				<semimajoraxis>0.05025</semimajoraxis>
+				<eccentricity>0.079</eccentricity>
+				<inclination>87.96</inclination>
+				<periastron>56.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.759</mass>
+			<radius>0.689</radius>
+			<metallicity>0.0</metallicity>
+			<distance>207.9</distance>
+			<temperature>4803.0</temperature>
+			<rightascension>11 36 02</rightascension>
+			<declination>-29 23 58</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-23 b</id_exoplaneteu>
+		<name>HATS-23 b</name>
+		<id>HATS-23 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.47</mass>
+			<radius>1.86</radius>
+			<orbit>
+				<period>2.1605156</period>
+				<semimajoraxis>0.03397</semimajoraxis>
+				<eccentricity>0.114</eccentricity>
+				<inclination>81.02</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.121</mass>
+			<radius>1.199</radius>
+			<metallicity>0.28</metallicity>
+			<distance>747.0</distance>
+			<temperature>5780.0</temperature>
+			<rightascension>19 05 28</rightascension>
+			<declination>-50 55 57</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-24 b</id_exoplaneteu>
+		<name>HATS-24 b</name>
+		<id>HATS-24 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.44</mass>
+			<radius>1.487</radius>
+			<orbit>
+				<period>1.3484954</period>
+				<semimajoraxis>0.02547</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
+				<inclination>86.6</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.212</mass>
+			<radius>1.172</radius>
+			<metallicity>0.0</metallicity>
+			<distance>510.0</distance>
+			<temperature>6346.0</temperature>
+			<rightascension>17 55 34</rightascension>
+			<declination>-61 15 10</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-25 b</id_exoplaneteu>
+		<name>HATS-25 b</name>
+		<id>HATS-25 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.613</mass>
+			<radius>1.26</radius>
+			<orbit>
+				<period>4.2986432</period>
+				<semimajoraxis>0.05163</semimajoraxis>
+				<eccentricity>0.088</eccentricity>
+				<inclination>86.93</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.994</mass>
+			<radius>1.107</radius>
+			<metallicity>0.02</metallicity>
+			<distance>466.0</distance>
+			<temperature>5715.0</temperature>
+			<rightascension>13 51 38</rightascension>
+			<declination>-23 13 08</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-26 b</id_exoplaneteu>
+		<name>HATS-26 b</name>
+		<id>HATS-26 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.65</mass>
+			<radius>1.75</radius>
+			<orbit>
+				<period>3.3023881</period>
+				<semimajoraxis>0.04735</semimajoraxis>
+				<eccentricity>0.122</eccentricity>
+				<inclination>86.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.299</mass>
+			<radius>2.04</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>907.0</distance>
+			<temperature>6071.0</temperature>
+			<rightascension>09 39 42</rightascension>
+			<declination>-28 24 52</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-27 b</id_exoplaneteu>
+		<name>HATS-27 b</name>
+		<id>HATS-27 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.53</mass>
+			<radius>1.5</radius>
+			<orbit>
+				<period>4.637038</period>
+				<semimajoraxis>0.0611</semimajoraxis>
+				<eccentricity>0.29</eccentricity>
+				<inclination>87.3</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.415</mass>
+			<radius>1.74</radius>
+			<metallicity>0.09</metallicity>
+			<distance>840.0</distance>
+			<temperature>6438.0</temperature>
+			<rightascension>12 54 13</rightascension>
+			<declination>-46 24 44</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-28 b</id_exoplaneteu>
+		<name>HATS-28 b</name>
+		<id>HATS-28 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.672</mass>
+			<radius>1.194</radius>
+			<orbit>
+				<period>3.1810781</period>
+				<semimajoraxis>0.04131</semimajoraxis>
+				<eccentricity>0.101</eccentricity>
+				<inclination>86.17</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.929</mass>
+			<radius>0.922</radius>
+			<metallicity>0.01</metallicity>
+			<distance>521.0</distance>
+			<temperature>5498.0</temperature>
+			<rightascension>18 57 36</rightascension>
+			<declination>-49 51 41</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-29 b</id_exoplaneteu>
+		<name>HATS-29 b</name>
+		<id>HATS-29 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.653</mass>
+			<radius>1.251</radius>
+			<orbit>
+				<period>4.6058749</period>
+				<semimajoraxis>0.05475</semimajoraxis>
+				<eccentricity>0.079</eccentricity>
+				<inclination>87.37</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.032</mass>
+			<radius>1.073</radius>
+			<metallicity>0.16</metallicity>
+			<distance>351.0</distance>
+			<temperature>5670.0</temperature>
+			<rightascension>09 00 23</rightascension>
+			<declination>-54 06 24</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -10444,6 +10844,186 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/06/04</lastupdate>
 		<description>HATS-3 b is a transiting exoplanet, discovered by HATSouth and confirmed with reconnaissance spectroscopy. HATSouth is a network of automated telescopes that is capable of year-round 24-hour monitoring of stars over the entire southern hemisphere of the sky. Because of the brightness of the host star, HATS-3 b is an interesting target for future observations to measure the Rossiter-McLaughlin effect and determine the spin-orbit alignment of the system.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-30 b</id_exoplaneteu>
+		<name>HATS-30 b</name>
+		<id>HATS-30 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.706</mass>
+			<radius>1.175</radius>
+			<orbit>
+				<period>3.1743516</period>
+				<semimajoraxis>0.04354</semimajoraxis>
+				<eccentricity>0.048</eccentricity>
+				<inclination>86.84</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.093</mass>
+			<radius>1.061</radius>
+			<metallicity>0.06</metallicity>
+			<distance>339.0</distance>
+			<temperature>5943.0</temperature>
+			<rightascension>00 22 28</rightascension>
+			<declination>-59 03 27</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/28</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-31 b</id_exoplaneteu>
+		<name>HATS-31 b</name>
+		<id>HATS-31 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.88</mass>
+			<radius>1.64</radius>
+			<orbit>
+				<period>3.37796</period>
+				<semimajoraxis>0.0478</semimajoraxis>
+				<eccentricity>0.233</eccentricity>
+				<inclination>85.0</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.275</mass>
+			<radius>1.87</radius>
+			<metallicity>0.0</metallicity>
+			<distance>872.0</distance>
+			<temperature>6050.0</temperature>
+			<rightascension>12 46 49</rightascension>
+			<declination>-24 34 21</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-32 b</id_exoplaneteu>
+		<name>HATS-32 b</name>
+		<id>HATS-32 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.92</mass>
+			<radius>1.249</radius>
+			<orbit>
+				<period>2.8126548</period>
+				<semimajoraxis>0.04024</semimajoraxis>
+				<eccentricity>0.471</eccentricity>
+				<inclination>87.1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.099</mass>
+			<radius>1.097</radius>
+			<metallicity>0.39</metallicity>
+			<distance>839.0</distance>
+			<temperature>5700.0</temperature>
+			<rightascension>23 04 18</rightascension>
+			<declination>-21 43 41</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-33 b</id_exoplaneteu>
+		<name>HATS-33 b</name>
+		<id>HATS-33 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.192</mass>
+			<radius>1.23</radius>
+			<orbit>
+				<period>2.5495551</period>
+				<semimajoraxis>0.03727</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<inclination>87.62</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.062</mass>
+			<radius>1.022</radius>
+			<metallicity>0.29</metallicity>
+			<distance>355.0</distance>
+			<temperature>5659.0</temperature>
+			<rightascension>19 38 32</rightascension>
+			<declination>-55 40 12</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-34 b</id_exoplaneteu>
+		<name>HATS-34 b</name>
+		<id>HATS-34 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.941</mass>
+			<radius>1.43</radius>
+			<orbit>
+				<period>2.1061607</period>
+				<semimajoraxis>0.03166</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>82.28</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.955</mass>
+			<radius>0.98</radius>
+			<metallicity>0.25</metallicity>
+			<distance>532.0</distance>
+			<temperature>5380.0</temperature>
+			<rightascension>00 03 06</rightascension>
+			<declination>-62 31 50</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-35 b</id_exoplaneteu>
+		<name>HATS-35 b</name>
+		<id>HATS-35 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.222</mass>
+			<radius>1.464</radius>
+			<orbit>
+				<period>1.8209933</period>
+				<semimajoraxis>0.03199</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>86.9</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.317</mass>
+			<radius>1.433</radius>
+			<metallicity>0.21</metallicity>
+			<distance>557.0</distance>
+			<temperature>6300.0</temperature>
+			<rightascension>19 46 45</rightascension>
+			<declination>-63 26 04</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -16310,6 +16890,36 @@ Image credit: Vanessa Bailey</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>10/01/26</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 175370 b</id_exoplaneteu>
+		<name>HD 175370 b</name>
+		<id>HD 175370 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>4.6</mass>
+			<orbit>
+				<period>349.5</period>
+				<semimajoraxis>0.98</semimajoraxis>
+				<eccentricity>0.22</eccentricity>
+				<periastron>162.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2 III</spectraltype>
+			<mass>1.02</mass>
+			<radius>23.5</radius>
+			<metallicity>-0.52</metallicity>
+			<distance>272.0</distance>
+			<temperature>4301.0</temperature>
+			<rightascension>18 52 60</rightascension>
+			<declination>+43 42 49</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/09/21</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -27012,6 +27622,35 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KELT-12 b</id_exoplaneteu>
+		<name>KELT-12 b</name>
+		<id>KELT-12 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.95</mass>
+			<radius>1.79</radius>
+			<orbit>
+				<period>5.03145</period>
+				<semimajoraxis>0.0671</semimajoraxis>
+				<inclination>84.46</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.592</mass>
+			<radius>2.37</radius>
+			<metallicity>0.19</metallicity>
+			<distance>360.0</distance>
+			<temperature>6278.0</temperature>
+			<rightascension>17 50 34</rightascension>
+			<declination>+36 34 13</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/17</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KELT-15 b</id_exoplaneteu>
 		<name>KELT-15 b</name>
 		<name>TYC 8146-86-1 b</name>
@@ -27041,6 +27680,35 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/09/29</lastupdate>
 		<description>KELT-15 b was discovered by the KELT-South survey.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-16 b</id_exoplaneteu>
+		<name>KELT-16 b</name>
+		<id>KELT-16 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.75</mass>
+			<radius>1.415</radius>
+			<orbit>
+				<period>0.9689951</period>
+				<semimajoraxis>0.02044</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7V</spectraltype>
+			<mass>1.211</mass>
+			<radius>1.36</radius>
+			<metallicity>-0.002</metallicity>
+			<distance>365.0</distance>
+			<temperature>6236.0</temperature>
+			<rightascension>20 57 04</rightascension>
+			<declination>+31 39 40</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/03</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -69294,6 +69962,36 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-433 b</id_exoplaneteu>
+		<name>Kepler-433 b</name>
+		<id>Kepler-433 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.82</mass>
+			<radius>1.45</radius>
+			<orbit>
+				<period>5.33408384</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>0.119</eccentricity>
+				<inclination>89.21</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>2.82</mass>
+			<radius>1.45</radius>
+			<metallicity>-0.01</metallicity>
+			<distance>1870.0</distance>
+			<temperature>6360.0</temperature>
+			<rightascension>19 50 22</rightascension>
+			<declination>+40 58 38</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>16/12/26</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-434 b</id_exoplaneteu>
 		<name>Kepler-434 b</name>
 		<name>KOI-614.01</name>
@@ -69324,6 +70022,36 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/01/07</lastupdate>
 		<description>Kepler-434 b is an exoplanet that was identified in the Q1-Q6 Kepler KOI list.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-435 b</id_exoplaneteu>
+		<name>Kepler-435 b</name>
+		<id>Kepler-435 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.84</mass>
+			<radius>1.99</radius>
+			<orbit>
+				<period>8.6001536</period>
+				<semimajoraxis>0.0948</semimajoraxis>
+				<eccentricity>0.114</eccentricity>
+				<inclination>85.51</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.538</mass>
+			<radius>3.21</radius>
+			<metallicity>-0.18</metallicity>
+			<distance>2070.0</distance>
+			<temperature>6161.0</temperature>
+			<rightascension>19 29 09</rightascension>
+			<declination>+43 11 50</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>16/12/26</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -91474,6 +92202,32 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Lalande 21185 b</id_exoplaneteu>
+		<name>Lalande 21185 b</name>
+		<id>Lalande 21185 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.012</mass>
+			<orbit>
+				<period>9.8693</period>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M1.5V</spectraltype>
+			<mass>0.46</mass>
+			<radius>0.393</radius>
+			<distance>2.55</distance>
+			<temperature>3828.0</temperature>
+			<rightascension>11 03 20</rightascension>
+			<declination>+35 58 12</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/02/14</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>LkCa 15 b</id_exoplaneteu>
 		<name>LkCa 15 b</name>
 		<id>LkCa 15 b</id>
@@ -93039,6 +93793,29 @@ Credit: Kains et al (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2015-BLG-0051L b</id_exoplaneteu>
+		<name>OGLE-2015-BLG-0051L b</name>
+		<id>OGLE-2015-BLG-0051L b</id>
+		<properties>
+			<mass>0.72</mass>
+			<orbit>
+				<semimajoraxis>0.73</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.1</mass>
+			<distance>8200.0</distance>
+			<rightascension>17 58 39</rightascension>
+			<declination>-28 58 06</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/25</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>OGLE-2015-BLG-0563L b</id_exoplaneteu>
 		<name>OGLE-2015-BLG-0563L b</name>
 		<id>OGLE-2015-BLG-0563L b</id>
@@ -94519,6 +95296,31 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>TAP 26 b</id_exoplaneteu>
+		<name>TAP 26 b</name>
+		<id>TAP 26 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.73</mass>
+			<orbit>
+				<period>10.91</period>
+				<semimajoraxis>0.0975</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K7</spectraltype>
+			<mass>1.04</mass>
+			<radius>1.36</radius>
+			<rightascension>04 18 52</rightascension>
+			<declination>+17 23 17</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/01/09</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>tau Boo A b</id_exoplaneteu>
 		<name>tau Boo A b</name>
 		<name>Tau Bo&#246;tis A b</name>
@@ -95617,6 +96419,35 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-102 b</id_exoplaneteu>
+		<name>WASP-102 b</name>
+		<id>WASP-102 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.624</mass>
+			<radius>1.259</radius>
+			<orbit>
+				<period>2.709813</period>
+				<semimajoraxis>0.0401</semimajoraxis>
+				<inclination>89.73</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.167</mass>
+			<radius>1.331</radius>
+			<metallicity>0.09</metallicity>
+			<temperature>5940.0</temperature>
+			<rightascension>22 25 51</rightascension>
+			<declination>+15 51 24</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/16</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-103 b</id_exoplaneteu>
 		<name>WASP-103 b</name>
 		<id>WASP-103 b</id>
@@ -96060,6 +96891,36 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-118 b</id_exoplaneteu>
+		<name>WASP-118 b</name>
+		<id>WASP-118 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.514</mass>
+			<radius>1.44</radius>
+			<orbit>
+				<period>4.0460435</period>
+				<semimajoraxis>0.05453</semimajoraxis>
+				<inclination>88.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6</spectraltype>
+			<mass>1.32</mass>
+			<radius>1.696</radius>
+			<metallicity>0.16</metallicity>
+			<distance>250.0</distance>
+			<temperature>6410.0</temperature>
+			<rightascension>01 18 12</rightascension>
+			<declination>+02 42 10</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/10</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-119 b</id_exoplaneteu>
 		<name>WASP-119 b</name>
 		<name>2MASS J03434402-6511378 b</name>
@@ -96326,6 +97187,34 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-127 b</id_exoplaneteu>
+		<name>WASP-127 b</name>
+		<id>WASP-127 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.18</mass>
+			<radius>1.37</radius>
+			<orbit>
+				<period>4.178062</period>
+				<semimajoraxis>0.052</semimajoraxis>
+				<inclination>88.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.08</mass>
+			<radius>1.39</radius>
+			<temperature>5620.0</temperature>
+			<rightascension>10 42 14</rightascension>
+			<declination>-03 09 54</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/27</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-129 b</id_exoplaneteu>
 		<name>WASP-129 b</name>
 		<name>TYC 7749-508-1 b</name>
@@ -96545,6 +97434,63 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/21</lastupdate>
 		<description>WASP-135b is a highly-irradiated and inflated hot Jupiter.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-136 b</id_exoplaneteu>
+		<name>WASP-136 b</name>
+		<id>WASP-136 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.51</mass>
+			<radius>1.38</radius>
+			<orbit>
+				<period>5.215357</period>
+				<semimajoraxis>0.0661</semimajoraxis>
+				<inclination>84.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.51</mass>
+			<radius>1.38</radius>
+			<distance>164.0</distance>
+			<temperature>6260.0</temperature>
+			<rightascension>00 01 18</rightascension>
+			<declination>-08 04 25</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/27</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-138 b</id_exoplaneteu>
+		<name>WASP-138 b</name>
+		<id>WASP-138 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.22</mass>
+			<orbit>
+				<period>3.634433</period>
+				<semimajoraxis>0.0494</semimajoraxis>
+				<inclination>88.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F9</spectraltype>
+			<mass>1.22</mass>
+			<radius>1.36</radius>
+			<metallicity>-0.09</metallicity>
+			<distance>308.0</distance>
+			<temperature>6272.0</temperature>
+			<rightascension>02 46 33</rightascension>
+			<declination>+00 32 10</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/27</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -99337,6 +100283,35 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-86 b</id_exoplaneteu>
+		<name>WASP-86 b</name>
+		<id>WASP-86 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.821</mass>
+			<radius>0.632</radius>
+			<orbit>
+				<period>5.031555</period>
+				<semimajoraxis>0.0617</semimajoraxis>
+				<inclination>89.85</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.239</mass>
+			<radius>1.291</radius>
+			<metallicity>0.23</metallicity>
+			<temperature>6330.0</temperature>
+			<rightascension>17 50 34</rightascension>
+			<declination>+36 34 13</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/16</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-87 b</id_exoplaneteu>
 		<name>WASP-87 b</name>
 		<id>WASP-87 b</id>
@@ -99488,6 +100463,67 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
 		<lastupdate>17/01/17</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>wasp-92 b</id_exoplaneteu>
+		<name>wasp-92 b</name>
+		<id>wasp-92 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.805</mass>
+			<radius>1.461</radius>
+			<orbit>
+				<period>2.1746742</period>
+				<semimajoraxis>0.0348</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>83.75</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.19</mass>
+			<radius>1.341</radius>
+			<metallicity>0.0</metallicity>
+			<distance>530.0</distance>
+			<temperature>6280.0</temperature>
+			<rightascension>16 26 46</rightascension>
+			<declination>+51 02 28</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/19</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-93 b</id_exoplaneteu>
+		<name>WASP-93 b</name>
+		<id>WASP-93 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.47</mass>
+			<radius>1.597</radius>
+			<orbit>
+				<period>2.7325321</period>
+				<semimajoraxis>0.04211</semimajoraxis>
+				<inclination>81.18</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F4</spectraltype>
+			<mass>1.3</mass>
+			<radius>1.06</radius>
+			<metallicity>0.07</metallicity>
+			<distance>250.0</distance>
+			<temperature>6700.0</temperature>
+			<rightascension>00 37 50</rightascension>
+			<declination>+51 17 20</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/07</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
