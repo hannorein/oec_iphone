@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 175370 b</id_exoplaneteu>
+	<name>HD 175370 b</name>
+	<id>HD 175370 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>4.6</mass>
+		<radius />
+		<orbit>
+			<period>349.5</period>
+			<semimajoraxis>0.98</semimajoraxis>
+			<eccentricity>0.22</eccentricity>
+			<inclination />
+			<periastron>162.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2 III</spectraltype>
+		<mass>1.02</mass>
+		<radius>23.5</radius>
+		<metallicity>-0.52</metallicity>
+		<distance>272.0</distance>
+		<temperature>4301.0</temperature>
+		<rightascension>18 52 60</rightascension>
+		<declination>+43 42 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/09/21</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

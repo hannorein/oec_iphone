@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-22 b</id_exoplaneteu>
+	<name>HATS-22 b</name>
+	<id>HATS-22 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.74</mass>
+		<radius>0.953</radius>
+		<orbit>
+			<period>4.7228124</period>
+			<semimajoraxis>0.05025</semimajoraxis>
+			<eccentricity>0.079</eccentricity>
+			<inclination>87.96</inclination>
+			<periastron>56.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.759</mass>
+		<radius>0.689</radius>
+		<metallicity>0.0</metallicity>
+		<distance>207.9</distance>
+		<temperature>4803.0</temperature>
+		<rightascension>11 36 02</rightascension>
+		<declination>-29 23 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

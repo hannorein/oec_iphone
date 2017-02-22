@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-30 b</id_exoplaneteu>
+	<name>HATS-30 b</name>
+	<id>HATS-30 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.706</mass>
+		<radius>1.175</radius>
+		<orbit>
+			<period>3.1743516</period>
+			<semimajoraxis>0.04354</semimajoraxis>
+			<eccentricity>0.048</eccentricity>
+			<inclination>86.84</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.093</mass>
+		<radius>1.061</radius>
+		<metallicity>0.06</metallicity>
+		<distance>339.0</distance>
+		<temperature>5943.0</temperature>
+		<rightascension>00 22 28</rightascension>
+		<declination>-59 03 27</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/28</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

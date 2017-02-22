@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-23 b</id_exoplaneteu>
+	<name>HATS-23 b</name>
+	<id>HATS-23 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.47</mass>
+		<radius>1.86</radius>
+		<orbit>
+			<period>2.1605156</period>
+			<semimajoraxis>0.03397</semimajoraxis>
+			<eccentricity>0.114</eccentricity>
+			<inclination>81.02</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.121</mass>
+		<radius>1.199</radius>
+		<metallicity>0.28</metallicity>
+		<distance>747.0</distance>
+		<temperature>5780.0</temperature>
+		<rightascension>19 05 28</rightascension>
+		<declination>-50 55 57</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

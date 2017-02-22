@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-20 b</id_exoplaneteu>
+	<name>HATS-20 b</name>
+	<id>HATS-20 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.273</mass>
+		<radius>0.776</radius>
+		<orbit>
+			<period>3.7992969</period>
+			<semimajoraxis>0.04619</semimajoraxis>
+			<eccentricity>0.5</eccentricity>
+			<inclination>87.16</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G9V</spectraltype>
+		<mass>0.91</mass>
+		<radius>0.892</radius>
+		<metallicity>0.03</metallicity>
+		<distance>454.0</distance>
+		<temperature>5406.0</temperature>
+		<rightascension>13 12 32</rightascension>
+		<declination>-45 24 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

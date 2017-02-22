@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-27 b</id_exoplaneteu>
+	<name>HATS-27 b</name>
+	<id>HATS-27 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.53</mass>
+		<radius>1.5</radius>
+		<orbit>
+			<period>4.637038</period>
+			<semimajoraxis>0.0611</semimajoraxis>
+			<eccentricity>0.29</eccentricity>
+			<inclination>87.3</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.415</mass>
+		<radius>1.74</radius>
+		<metallicity>0.09</metallicity>
+		<distance>840.0</distance>
+		<temperature>6438.0</temperature>
+		<rightascension>12 54 13</rightascension>
+		<declination>-46 24 44</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/28</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

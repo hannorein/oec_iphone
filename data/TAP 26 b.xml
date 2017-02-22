@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>TAP 26 b</id_exoplaneteu>
+	<name>TAP 26 b</name>
+	<id>TAP 26 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.73</mass>
+		<radius />
+		<orbit>
+			<period>10.91</period>
+			<semimajoraxis>0.0975</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K7</spectraltype>
+		<mass>1.04</mass>
+		<radius>1.36</radius>
+		<metallicity />
+		<distance />
+		<temperature />
+		<rightascension>04 18 52</rightascension>
+		<declination>+17 23 17</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/01/09</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

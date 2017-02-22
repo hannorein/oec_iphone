@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-136 b</id_exoplaneteu>
+	<name>WASP-136 b</name>
+	<id>WASP-136 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.51</mass>
+		<radius>1.38</radius>
+		<orbit>
+			<period>5.215357</period>
+			<semimajoraxis>0.0661</semimajoraxis>
+			<eccentricity />
+			<inclination>84.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.51</mass>
+		<radius>1.38</radius>
+		<metallicity />
+		<distance>164.0</distance>
+		<temperature>6260.0</temperature>
+		<rightascension>00 01 18</rightascension>
+		<declination>-08 04 25</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/27</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

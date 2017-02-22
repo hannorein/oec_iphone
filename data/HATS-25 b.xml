@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-25 b</id_exoplaneteu>
+	<name>HATS-25 b</name>
+	<id>HATS-25 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.613</mass>
+		<radius>1.26</radius>
+		<orbit>
+			<period>4.2986432</period>
+			<semimajoraxis>0.05163</semimajoraxis>
+			<eccentricity>0.088</eccentricity>
+			<inclination>86.93</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>0.994</mass>
+		<radius>1.107</radius>
+		<metallicity>0.02</metallicity>
+		<distance>466.0</distance>
+		<temperature>5715.0</temperature>
+		<rightascension>13 51 38</rightascension>
+		<declination>-23 13 08</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/28</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

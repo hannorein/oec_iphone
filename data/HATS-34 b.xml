@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-34 b</id_exoplaneteu>
+	<name>HATS-34 b</name>
+	<id>HATS-34 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.941</mass>
+		<radius>1.43</radius>
+		<orbit>
+			<period>2.1061607</period>
+			<semimajoraxis>0.03166</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>82.28</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.955</mass>
+		<radius>0.98</radius>
+		<metallicity>0.25</metallicity>
+		<distance>532.0</distance>
+		<temperature>5380.0</temperature>
+		<rightascension>00 03 06</rightascension>
+		<declination>-62 31 50</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

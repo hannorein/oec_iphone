@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-28 b</id_exoplaneteu>
+	<name>HATS-28 b</name>
+	<id>HATS-28 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.672</mass>
+		<radius>1.194</radius>
+		<orbit>
+			<period>3.1810781</period>
+			<semimajoraxis>0.04131</semimajoraxis>
+			<eccentricity>0.101</eccentricity>
+			<inclination>86.17</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>0.929</mass>
+		<radius>0.922</radius>
+		<metallicity>0.01</metallicity>
+		<distance>521.0</distance>
+		<temperature>5498.0</temperature>
+		<rightascension>18 57 36</rightascension>
+		<declination>-49 51 41</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/28</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

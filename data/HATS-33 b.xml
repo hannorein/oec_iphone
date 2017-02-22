@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-33 b</id_exoplaneteu>
+	<name>HATS-33 b</name>
+	<id>HATS-33 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.192</mass>
+		<radius>1.23</radius>
+		<orbit>
+			<period>2.5495551</period>
+			<semimajoraxis>0.03727</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<inclination>87.62</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.062</mass>
+		<radius>1.022</radius>
+		<metallicity>0.29</metallicity>
+		<distance>355.0</distance>
+		<temperature>5659.0</temperature>
+		<rightascension>19 38 32</rightascension>
+		<declination>-55 40 12</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

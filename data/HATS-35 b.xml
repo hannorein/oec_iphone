@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-35 b</id_exoplaneteu>
+	<name>HATS-35 b</name>
+	<id>HATS-35 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.222</mass>
+		<radius>1.464</radius>
+		<orbit>
+			<period>1.8209933</period>
+			<semimajoraxis>0.03199</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>86.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.317</mass>
+		<radius>1.433</radius>
+		<metallicity>0.21</metallicity>
+		<distance>557.0</distance>
+		<temperature>6300.0</temperature>
+		<rightascension>19 46 45</rightascension>
+		<declination>-63 26 04</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-26 b</id_exoplaneteu>
+	<name>HATS-26 b</name>
+	<id>HATS-26 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.65</mass>
+		<radius>1.75</radius>
+		<orbit>
+			<period>3.3023881</period>
+			<semimajoraxis>0.04735</semimajoraxis>
+			<eccentricity>0.122</eccentricity>
+			<inclination>86.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.299</mass>
+		<radius>2.04</radius>
+		<metallicity>-0.02</metallicity>
+		<distance>907.0</distance>
+		<temperature>6071.0</temperature>
+		<rightascension>09 39 42</rightascension>
+		<declination>-28 24 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/28</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

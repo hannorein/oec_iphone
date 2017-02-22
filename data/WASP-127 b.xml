@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-127 b</id_exoplaneteu>
+	<name>WASP-127 b</name>
+	<id>WASP-127 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.18</mass>
+		<radius>1.37</radius>
+		<orbit>
+			<period>4.178062</period>
+			<semimajoraxis>0.052</semimajoraxis>
+			<eccentricity />
+			<inclination>88.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>1.08</mass>
+		<radius>1.39</radius>
+		<metallicity />
+		<distance />
+		<temperature>5620.0</temperature>
+		<rightascension>10 42 14</rightascension>
+		<declination>-03 09 54</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/27</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
