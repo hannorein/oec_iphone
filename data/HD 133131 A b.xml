@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HD 133131 A b</id_exoplaneteu>
+	<name>HD 133131 A b</name>
+	<id>HD 133131 A b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.43</mass>
+		<radius />
+		<orbit>
+			<period>649.0</period>
+			<semimajoraxis>1.44</semimajoraxis>
+			<eccentricity>0.32</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2V</spectraltype>
+		<mass>0.95</mass>
+		<radius />
+		<metallicity>-0.306</metallicity>
+		<distance>47.0</distance>
+		<temperature>5799.0</temperature>
+		<rightascension>15 03 36</rightascension>
+		<declination>-27 09 32</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/08/24</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

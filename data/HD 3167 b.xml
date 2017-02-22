@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 3167 b</id_exoplaneteu>
+	<name>HD 3167 b</name>
+	<id>HD 3167 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.1423</radius>
+		<orbit>
+			<period>0.959627</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination>84.8</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>0.88</mass>
+		<radius>0.1423</radius>
+		<metallicity>0.0</metallicity>
+		<distance>45.8</distance>
+		<temperature>5367.0</temperature>
+		<rightascension>00 34 58</rightascension>
+		<declination>+04 22 53</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/20</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
