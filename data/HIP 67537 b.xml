@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HIP 67537 b</id_exoplaneteu>
+	<name>HIP 67537 b</name>
+	<id>HIP 67537 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>11.1</mass>
+		<radius />
+		<orbit>
+			<period>2592.5</period>
+			<semimajoraxis>4.96</semimajoraxis>
+			<eccentricity>0.59</eccentricity>
+			<inclination />
+			<periastron>120.7</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1III</spectraltype>
+		<mass>2.41</mass>
+		<radius>8.69</radius>
+		<metallicity>0.15</metallicity>
+		<distance>112.6</distance>
+		<temperature>4985.0</temperature>
+		<rightascension>13 50 19</rightascension>
+		<declination>-39 05 57</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/01/24</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

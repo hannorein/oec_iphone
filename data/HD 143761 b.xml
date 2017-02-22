@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 143761 b</id_exoplaneteu>
+	<name>HD 143761 b</name>
+	<id>HD 143761 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.045</mass>
+		<radius />
+		<orbit>
+			<period>39.8458</period>
+			<semimajoraxis>0.2196</semimajoraxis>
+			<eccentricity>0.037</eccentricity>
+			<inclination />
+			<periastron>270.6</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0V</spectraltype>
+		<mass>0.889</mass>
+		<radius>1.362</radius>
+		<metallicity>-0.31</metallicity>
+		<distance>17.236</distance>
+		<temperature>5627.0</temperature>
+		<rightascension>16 01 03</rightascension>
+		<declination>+33 18 13</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

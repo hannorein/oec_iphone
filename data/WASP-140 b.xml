@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-140 b</id_exoplaneteu>
+	<name>WASP-140 b</name>
+	<id>WASP-140 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.44</mass>
+		<radius>1.44</radius>
+		<orbit>
+			<period>2.2359835</period>
+			<semimajoraxis>0.0323</semimajoraxis>
+			<eccentricity>0.047</eccentricity>
+			<inclination>83.3</inclination>
+			<periastron>356.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0</spectraltype>
+		<mass>0.9</mass>
+		<radius>0.87</radius>
+		<metallicity>0.12</metallicity>
+		<distance>180.0</distance>
+		<temperature>5260.0</temperature>
+		<rightascension>04 01 33</rightascension>
+		<declination>-20 32 56</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

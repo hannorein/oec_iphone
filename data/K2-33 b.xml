@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-33 b</id_exoplaneteu>
+	<name>K2-33 b</name>
+	<id>K2-33 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.6</mass>
+		<radius>0.451</radius>
+		<orbit>
+			<period>5.42513</period>
+			<semimajoraxis>0.0409</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.1</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3.3</spectraltype>
+		<mass>0.54</mass>
+		<radius>1.06</radius>
+		<metallicity />
+		<distance>145.0</distance>
+		<temperature>3540.0</temperature>
+		<rightascension>16 10 15</rightascension>
+		<declination>-19 40 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/06/27</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

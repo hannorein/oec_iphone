@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 165155 b</id_exoplaneteu>
+	<name>HD 165155 b</name>
+	<id>HD 165155 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.89</mass>
+		<radius />
+		<orbit>
+			<period>434.5</period>
+			<semimajoraxis>1.13</semimajoraxis>
+			<eccentricity>0.2</eccentricity>
+			<inclination />
+			<periastron>211.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G8V</spectraltype>
+		<mass>1.02</mass>
+		<radius>0.95</radius>
+		<metallicity>0.09</metallicity>
+		<distance>64.98</distance>
+		<temperature>5426.0</temperature>
+		<rightascension>18 05 57</rightascension>
+		<declination>-29 04 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/04/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

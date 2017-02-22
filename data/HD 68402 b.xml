@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 68402 b</id_exoplaneteu>
+	<name>HD 68402 b</name>
+	<id>HD 68402 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>3.07</mass>
+		<radius />
+		<orbit>
+			<period>1103.0</period>
+			<semimajoraxis>2.18</semimajoraxis>
+			<eccentricity>0.03</eccentricity>
+			<inclination />
+			<periastron>341.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5IV/V</spectraltype>
+		<mass>1.12</mass>
+		<radius>1.02</radius>
+		<metallicity>0.29</metallicity>
+		<distance>78.0</distance>
+		<temperature>5950.0</temperature>
+		<rightascension>08 05 24</rightascension>
+		<declination>-74 35 22</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/04/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

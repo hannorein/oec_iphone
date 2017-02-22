@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-31 b</id_exoplaneteu>
+	<name>K2-31 b</name>
+	<id>K2-31 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>1.774</mass>
+		<radius>1.06</radius>
+		<orbit>
+			<period>1.25785</period>
+			<semimajoraxis>0.022</semimajoraxis>
+			<eccentricity />
+			<inclination>79.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G7V</spectraltype>
+		<mass>0.91</mass>
+		<radius>0.78</radius>
+		<metallicity>0.08</metallicity>
+		<distance />
+		<temperature>5280.0</temperature>
+		<rightascension>16 21 46</rightascension>
+		<declination>-23 27 08</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/01/25</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

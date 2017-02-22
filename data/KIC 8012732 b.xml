@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>KIC 8012732 b</id_exoplaneteu>
+	<name>KIC 8012732 b</name>
+	<id>KIC 8012732 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.87</radius>
+		<orbit>
+			<period>431.4681</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination>89.741</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.92</mass>
+		<radius>1.22</radius>
+		<metallicity>0.2</metallicity>
+		<distance />
+		<temperature>6221.0</temperature>
+		<rightascension>18 58 55</rightascension>
+		<declination>+43 51 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>16/05/23</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-108 b</id_exoplaneteu>
+	<name>K2-108 b</name>
+	<id>K2-108 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.187</mass>
+		<radius>0.471</radius>
+		<orbit>
+			<period>4.73401</period>
+			<semimajoraxis>0.0573</semimajoraxis>
+			<eccentricity>0.18</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.121</mass>
+		<radius>1.75</radius>
+		<metallicity>0.33</metallicity>
+		<distance>262.4</distance>
+		<temperature>5474.0</temperature>
+		<rightascension>08 13 32</rightascension>
+		<declination>+16 25 11</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/02/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

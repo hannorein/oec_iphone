@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 42618 b</id_exoplaneteu>
+	<name>HD 42618 b</name>
+	<id>HD 42618 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.0453</mass>
+		<radius />
+		<orbit>
+			<period>149.61</period>
+			<semimajoraxis>0.554</semimajoraxis>
+			<eccentricity>0.19</eccentricity>
+			<inclination />
+			<periastron>101.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G4V</spectraltype>
+		<mass>1.015</mass>
+		<radius>0.999</radius>
+		<metallicity>-0.09</metallicity>
+		<distance>23.5</distance>
+		<temperature>5727.0</temperature>
+		<rightascension>06 12 01</rightascension>
+		<declination>+06 46 59</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-60 b</id_exoplaneteu>
+	<name>K2-60 b</name>
+	<id>K2-60 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.426</mass>
+		<radius>0.683</radius>
+		<orbit>
+			<period>3.00265</period>
+			<semimajoraxis>0.045</semimajoraxis>
+			<eccentricity />
+			<inclination>88.49</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G4V</spectraltype>
+		<mass>0.97</mass>
+		<radius>1.12</radius>
+		<metallicity>0.01</metallicity>
+		<distance />
+		<temperature>5500.0</temperature>
+		<rightascension>22 34 25</rightascension>
+		<declination>-13 16 06</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/01/24</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

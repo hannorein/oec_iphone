@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-141 b</id_exoplaneteu>
+	<name>WASP-141 b</name>
+	<id>WASP-141 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.69</mass>
+		<radius>1.21</radius>
+		<orbit>
+			<period>3.310651</period>
+			<semimajoraxis>0.0469</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>87.6</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F9</spectraltype>
+		<mass>1.25</mass>
+		<radius>1.37</radius>
+		<metallicity>0.29</metallicity>
+		<distance>570.0</distance>
+		<temperature>5900.0</temperature>
+		<rightascension>04 47 18</rightascension>
+		<declination>-17 53 05</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

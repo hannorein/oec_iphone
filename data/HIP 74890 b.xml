@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HIP 74890 b</id_exoplaneteu>
+	<name>HIP 74890 b</name>
+	<id>HIP 74890 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.4</mass>
+		<radius />
+		<orbit>
+			<period>822.3</period>
+			<semimajoraxis>2.1</semimajoraxis>
+			<eccentricity>0.07</eccentricity>
+			<inclination />
+			<periastron>181.9</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1III</spectraltype>
+		<mass>1.74</mass>
+		<radius>5.77</radius>
+		<metallicity>0.2</metallicity>
+		<distance>91.6</distance>
+		<temperature>4850.0</temperature>
+		<rightascension>15 18 17</rightascension>
+		<declination>-41 34 46</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/03/17</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

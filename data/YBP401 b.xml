@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>YBP401 b</id_exoplaneteu>
+	<name>YBP401 b</name>
+	<id>YBP401 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.46</mass>
+		<radius />
+		<orbit>
+			<period>4.087</period>
+			<semimajoraxis />
+			<eccentricity>0.15</eccentricity>
+			<inclination />
+			<periastron>330.17</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F9V</spectraltype>
+		<mass>1.14</mass>
+		<radius />
+		<metallicity />
+		<distance>843.0</distance>
+		<temperature>6165.0</temperature>
+		<rightascension>08 51 19</rightascension>
+		<declination>+11 40 16</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/06/18</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

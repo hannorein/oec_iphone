@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-12 b</id_exoplaneteu>
+	<name>HATS-12 b</name>
+	<id>HATS-12 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.4</mass>
+		<radius>1.35</radius>
+		<orbit>
+			<period>3.142833</period>
+			<semimajoraxis>0.04795</semimajoraxis>
+			<eccentricity>0.085</eccentricity>
+			<inclination>82.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.49</mass>
+		<radius>2.21</radius>
+		<metallicity>-0.1</metallicity>
+		<distance>981.0</distance>
+		<temperature>6408.0</temperature>
+		<rightascension>19 16 49</rightascension>
+		<declination>-19 38 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/01</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

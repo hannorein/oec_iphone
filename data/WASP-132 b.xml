@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-132 b</id_exoplaneteu>
+	<name>WASP-132 b</name>
+	<id>WASP-132 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.41</mass>
+		<radius>0.87</radius>
+		<orbit>
+			<period>7.133521</period>
+			<semimajoraxis>0.067</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.6</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K4</spectraltype>
+		<mass>0.8</mass>
+		<radius>0.74</radius>
+		<metallicity>0.22</metallicity>
+		<distance>120.0</distance>
+		<temperature>4775.0</temperature>
+		<rightascension>14 30 26</rightascension>
+		<declination>-46 50 27</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

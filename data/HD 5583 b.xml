@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 5583 b</id_exoplaneteu>
+	<name>HD 5583 b</name>
+	<id>HD 5583 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>5.78</mass>
+		<radius />
+		<orbit>
+			<period>139.35</period>
+			<semimajoraxis>0.53</semimajoraxis>
+			<eccentricity>0.076</eccentricity>
+			<inclination />
+			<periastron>12.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0</spectraltype>
+		<mass>1.01</mass>
+		<radius>9.09</radius>
+		<metallicity>-0.5</metallicity>
+		<distance>221.0</distance>
+		<temperature>4830.0</temperature>
+		<rightascension>00 57 57</rightascension>
+		<declination>+34 59 08</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/03/21</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-91 b</id_exoplaneteu>
+	<name>WASP-91 b</name>
+	<id>WASP-91 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>1.34</mass>
+		<radius>1.03</radius>
+		<orbit>
+			<period>1.798581</period>
+			<semimajoraxis>0.037</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>86.8</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K3</spectraltype>
+		<mass>0.84</mass>
+		<radius>0.86</radius>
+		<metallicity>0.19</metallicity>
+		<distance />
+		<temperature>4920.0</temperature>
+		<rightascension>23 51 23</rightascension>
+		<declination>-70 50 50</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/01/17</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

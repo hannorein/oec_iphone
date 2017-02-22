@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 9174 b</id_exoplaneteu>
+	<name>HD 9174 b</name>
+	<id>HD 9174 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.11</mass>
+		<radius />
+		<orbit>
+			<period>1179.0</period>
+			<semimajoraxis>2.2</semimajoraxis>
+			<eccentricity>0.12</eccentricity>
+			<inclination />
+			<periastron>101.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G8IV</spectraltype>
+		<mass>1.03</mass>
+		<radius>1.67</radius>
+		<metallicity>0.39</metallicity>
+		<distance>78.93</distance>
+		<temperature>5577.0</temperature>
+		<rightascension>01 30 01</rightascension>
+		<declination>-19 23 44</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/04/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

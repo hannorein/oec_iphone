@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-11 b</id_exoplaneteu>
+	<name>HATS-11 b</name>
+	<id>HATS-11 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.85</mass>
+		<radius>1.51</radius>
+		<orbit>
+			<period>3.6191613</period>
+			<semimajoraxis>0.04614</semimajoraxis>
+			<eccentricity>0.34</eccentricity>
+			<inclination>88.31</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0</spectraltype>
+		<mass>1.0</mass>
+		<radius>1.44</radius>
+		<metallicity>-0.39</metallicity>
+		<distance>906.0</distance>
+		<temperature>6060.0</temperature>
+		<rightascension>19 17 36</rightascension>
+		<declination>-22 36 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/05/01</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

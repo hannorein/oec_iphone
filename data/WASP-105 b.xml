@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-105 b</id_exoplaneteu>
+	<name>WASP-105 b</name>
+	<id>WASP-105 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>1.8</mass>
+		<radius>0.96</radius>
+		<orbit>
+			<period>7.87288</period>
+			<semimajoraxis>0.075</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2</spectraltype>
+		<mass>0.89</mass>
+		<radius>0.9</radius>
+		<metallicity>0.28</metallicity>
+		<distance />
+		<temperature>5070.0</temperature>
+		<rightascension>01 36 40</rightascension>
+		<declination>-50 20 28</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/01/17</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

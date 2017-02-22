@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-29 b</id_exoplaneteu>
+	<name>K2-29 b</name>
+	<id>K2-29 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.73</mass>
+		<radius>1.19</radius>
+		<orbit>
+			<period>3.2588321</period>
+			<semimajoraxis>0.04217</semimajoraxis>
+			<eccentricity>0.066</eccentricity>
+			<inclination>86.656</inclination>
+			<periastron>132.0</periastron>
+			<longitude>1.5</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G7V</spectraltype>
+		<mass>0.73</mass>
+		<radius>1.19</radius>
+		<metallicity />
+		<distance />
+		<temperature />
+		<rightascension>04 10 41</rightascension>
+		<declination>+24 24 07</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/06/13</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

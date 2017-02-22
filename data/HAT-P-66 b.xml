@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HAT-P-66 b</id_exoplaneteu>
+	<name>HAT-P-66 b</name>
+	<id>HAT-P-66 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.783</mass>
+		<radius>1.59</radius>
+		<orbit>
+			<period>2.972086</period>
+			<semimajoraxis>0.04363</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>86.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.255</mass>
+		<radius>1.881</radius>
+		<metallicity>0.035</metallicity>
+		<distance>927.0</distance>
+		<temperature>6002.0</temperature>
+		<rightascension>10 02 18</rightascension>
+		<declination>+53 57 03</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/09/12</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

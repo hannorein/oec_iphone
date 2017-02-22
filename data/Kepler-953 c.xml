@@ -7,7 +7,7 @@
 		<mass />
 		<radius>0.106</radius>
 		<orbit>
-			<period>9.109671120</period>
+			<period>9.10967112</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -18,11 +18,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.95</mass>
-		<radius>0.99</radius>
-		<metallicity>0.26</metallicity>
+		<mass>0.94</mass>
+		<radius>0.822</radius>
+		<metallicity>0.015</metallicity>
 		<distance />
-		<temperature>5416.0</temperature>
+		<temperature>5114.0</temperature>
 		<rightascension>19 15 53</rightascension>
 		<declination>+44 37 28</declination>
 		<angulardistance />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/05/10</lastupdate>
-	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<lastupdate>16/05/24</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />
 	<imagedescription />

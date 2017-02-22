@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-139 b</id_exoplaneteu>
+	<name>WASP-139 b</name>
+	<id>WASP-139 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.117</mass>
+		<radius>0.8</radius>
+		<orbit>
+			<period>5.924262</period>
+			<semimajoraxis>0.062</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>88.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K0</spectraltype>
+		<mass>0.117</mass>
+		<radius>0.8</radius>
+		<metallicity>0.2</metallicity>
+		<distance>230.0</distance>
+		<temperature>5310.0</temperature>
+		<rightascension>03 18 15</rightascension>
+		<declination>-41 41 52</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

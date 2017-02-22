@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 72892 b</id_exoplaneteu>
+	<name>HD 72892 b</name>
+	<id>HD 72892 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>5.45</mass>
+		<radius />
+		<orbit>
+			<period>39.475</period>
+			<semimajoraxis>0.228</semimajoraxis>
+			<eccentricity>0.423</eccentricity>
+			<inclination />
+			<periastron>353.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5V</spectraltype>
+		<mass>1.02</mass>
+		<radius>1.22</radius>
+		<metallicity>0.25</metallicity>
+		<distance>72.78</distance>
+		<temperature>5688.0</temperature>
+		<rightascension>08 34 53</rightascension>
+		<declination>-14 32 36</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/04/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

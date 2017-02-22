@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HIP 41378 e</id_exoplaneteu>
+	<name>HIP 41378 e</name>
+	<id>HIP 41378 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.492</radius>
+		<orbit>
+			<period>131.0</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.15</mass>
+		<radius>1.4</radius>
+		<metallicity>-0.11</metallicity>
+		<distance>116.0</distance>
+		<temperature>6199.0</temperature>
+		<rightascension>08 26 28</rightascension>
+		<declination>+10 04 49</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/06/29</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

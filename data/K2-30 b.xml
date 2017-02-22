@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-30 b</id_exoplaneteu>
+	<name>K2-30 b</name>
+	<id>K2-30 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.624</mass>
+		<radius>1.196</radius>
+		<orbit>
+			<period>4.098507</period>
+			<semimajoraxis>0.04986</semimajoraxis>
+			<eccentricity>0.027</eccentricity>
+			<inclination>86.32</inclination>
+			<periastron>120.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G8</spectraltype>
+		<mass>0.984</mass>
+		<radius>0.941</radius>
+		<metallicity>0.136</metallicity>
+		<distance>323.0</distance>
+		<temperature>5581.0</temperature>
+		<rightascension>03 29 22</rightascension>
+		<declination>+22 17 58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/06/07</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

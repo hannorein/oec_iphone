@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-77 b</id_exoplaneteu>
+	<name>K2-77 b</name>
+	<id>K2-77 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>1.9</mass>
+		<radius>0.205</radius>
+		<orbit>
+			<period>8.199796</period>
+			<semimajoraxis />
+			<eccentricity>0.14</eccentricity>
+			<inclination>88.7</inclination>
+			<periastron>89.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K</spectraltype>
+		<mass>0.8</mass>
+		<radius>0.76</radius>
+		<metallicity>0.29</metallicity>
+		<distance>125.0</distance>
+		<temperature>4970.0</temperature>
+		<rightascension>03 40 55</rightascension>
+		<declination>+12 34 21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/01/25</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

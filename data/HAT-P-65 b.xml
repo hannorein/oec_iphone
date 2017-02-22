@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HAT-P-65 b</id_exoplaneteu>
+	<name>HAT-P-65 b</name>
+	<id>HAT-P-65 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.527</mass>
+		<radius>1.89</radius>
+		<orbit>
+			<period>2.6054552</period>
+			<semimajoraxis>0.03951</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
+			<inclination>84.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.212</mass>
+		<radius>1.86</radius>
+		<metallicity>0.1</metallicity>
+		<distance>841.0</distance>
+		<temperature>5835.0</temperature>
+		<rightascension>21 03 37</rightascension>
+		<declination>+11 59 22</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/09/12</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

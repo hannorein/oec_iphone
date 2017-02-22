@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>K2-39 b</id_exoplaneteu>
+	<name>K2-39 b</name>
+	<id>K2-39 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.125</mass>
+		<radius>0.73</radius>
+		<orbit>
+			<period>4.60543</period>
+			<semimajoraxis>0.062</semimajoraxis>
+			<eccentricity>0.152</eccentricity>
+			<inclination>80.0</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.53</mass>
+		<radius>3.88</radius>
+		<metallicity>0.32</metallicity>
+		<distance>255.0</distance>
+		<temperature>4881.0</temperature>
+		<rightascension>22 39 28</rightascension>
+		<declination>-09 58 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/02/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 128356 b</id_exoplaneteu>
+	<name>HD 128356 b</name>
+	<id>HD 128356 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.89</mass>
+		<radius />
+		<orbit>
+			<period>298.2</period>
+			<semimajoraxis>0.87</semimajoraxis>
+			<eccentricity>0.57</eccentricity>
+			<inclination />
+			<periastron>84.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K3V</spectraltype>
+		<mass>0.65</mass>
+		<radius>0.85</radius>
+		<metallicity>0.17</metallicity>
+		<distance>26.03</distance>
+		<temperature>4875.0</temperature>
+		<rightascension>14 37 05</rightascension>
+		<declination>-25 11 51</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/04/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 147873 c</id_exoplaneteu>
+	<name>HD 147873 c</name>
+	<id>HD 147873 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.3</mass>
+		<radius />
+		<orbit>
+			<period>491.54</period>
+			<semimajoraxis>1.36</semimajoraxis>
+			<eccentricity>0.23</eccentricity>
+			<inclination />
+			<periastron>42.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G1V</spectraltype>
+		<mass>1.38</mass>
+		<radius>2.29</radius>
+		<metallicity>-0.03</metallicity>
+		<distance>104.93</distance>
+		<temperature>5972.0</temperature>
+		<rightascension>16 25 45</rightascension>
+		<declination>-33 32 47</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/04/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

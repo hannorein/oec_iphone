@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-81 c</id_exoplaneteu>
+	<name>WASP-81 c</name>
+	<id>WASP-81 c</id>
+	<discoverymethod />
+	<properties>
+		<mass>56.6</mass>
+		<radius />
+		<orbit>
+			<period>1297.0</period>
+			<semimajoraxis>2.426</semimajoraxis>
+			<eccentricity>0.557</eccentricity>
+			<inclination />
+			<periastron>321.86</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G1</spectraltype>
+		<mass>1.08</mass>
+		<radius>1.283</radius>
+		<metallicity>-0.36</metallicity>
+		<distance>410.0</distance>
+		<temperature>5870.0</temperature>
+		<rightascension>20 16 50</rightascension>
+		<declination>+03 17 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/12/27</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

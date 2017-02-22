@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-18 b</id_exoplaneteu>
+	<name>HATS-18 b</name>
+	<id>HATS-18 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.98</mass>
+		<radius>1.337</radius>
+		<orbit>
+			<period>0.8378434</period>
+			<semimajoraxis>0.01761</semimajoraxis>
+			<eccentricity>0.166</eccentricity>
+			<inclination>85.5</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>1.037</mass>
+		<radius>1.02</radius>
+		<metallicity>0.28</metallicity>
+		<distance>645.0</distance>
+		<temperature>5600.0</temperature>
+		<rightascension>11 35 50</rightascension>
+		<declination>-29 50 38</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/06/06</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HAT-P-67 b</id_exoplaneteu>
+	<name>HAT-P-67 b</name>
+	<id>HAT-P-67 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>0.34</mass>
+		<radius>2.085</radius>
+		<orbit>
+			<period>4.81010205</period>
+			<semimajoraxis>0.06505</semimajoraxis>
+			<eccentricity>0.24</eccentricity>
+			<inclination>88.8</inclination>
+			<periastron>172.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.642</mass>
+		<radius>1.546</radius>
+		<metallicity>-0.08</metallicity>
+		<distance>320.0</distance>
+		<temperature>6406.0</temperature>
+		<rightascension>17 06 27</rightascension>
+		<declination>+44 46 37</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/02/07</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

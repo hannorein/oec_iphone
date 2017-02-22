@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>XO-6 b</id_exoplaneteu>
+	<name>XO-6 b</name>
+	<id>XO-6 b</id>
+	<discoverymethod />
+	<properties>
+		<mass>1.9</mass>
+		<radius>2.07</radius>
+		<orbit>
+			<period>3.7650007</period>
+			<semimajoraxis>0.0815</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>86.0</inclination>
+			<periastron />
+			<longitude>339.3</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F5</spectraltype>
+		<mass>1.47</mass>
+		<radius>1.93</radius>
+		<metallicity>-0.07</metallicity>
+		<distance>86.0</distance>
+		<temperature>6720.0</temperature>
+		<rightascension>06 19 10</rightascension>
+		<declination>+73 49 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/12/09</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
