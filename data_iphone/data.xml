@@ -1,4 +1,4 @@
-<planets date="2017-02-21" name="data" planets="3559">
+<planets date="2017-02-22" name="data" planets="3567">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -13941,6 +13941,92 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 133131 A b</id_exoplaneteu>
+		<name>HD 133131 A b</name>
+		<id>HD 133131 A b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.43</mass>
+			<orbit>
+				<period>649.0</period>
+				<semimajoraxis>1.44</semimajoraxis>
+				<eccentricity>0.32</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.95</mass>
+			<metallicity>-0.306</metallicity>
+			<distance>47.0</distance>
+			<temperature>5799.0</temperature>
+			<rightascension>15 03 36</rightascension>
+			<declination>-27 09 32</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/24</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 133131 A c</id_exoplaneteu>
+		<name>HD 133131 A c</name>
+		<id>HD 133131 A c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.48</mass>
+			<orbit>
+				<period>3407.0</period>
+				<semimajoraxis>4.36</semimajoraxis>
+				<eccentricity>0.47</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.95</mass>
+			<metallicity>-0.306</metallicity>
+			<distance>47.0</distance>
+			<temperature>5799.0</temperature>
+			<rightascension>15 03 36</rightascension>
+			<declination>-27 09 32</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/24</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 133131 B b</id_exoplaneteu>
+		<name>HD 133131 B b</name>
+		<id>HD 133131 B b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.5</mass>
+			<orbit>
+				<period>6119.0</period>
+				<eccentricity>0.62</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>0.95</mass>
+			<metallicity>-0.306</metallicity>
+			<distance>47.0</distance>
+			<temperature>5799.0</temperature>
+			<rightascension>15 03 36</rightascension>
+			<declination>-27 09 32</declination>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/24</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 134060 b</id_exoplaneteu>
 		<name>HD 134060 b</name>
 		<id>HD 134060 b</id>
@@ -20901,6 +20987,62 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 3167 b</id_exoplaneteu>
+		<name>HD 3167 b</name>
+		<id>HD 3167 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.1423</radius>
+			<orbit>
+				<period>0.959627</period>
+				<inclination>84.8</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.1423</radius>
+			<metallicity>0.0</metallicity>
+			<distance>45.8</distance>
+			<temperature>5367.0</temperature>
+			<rightascension>00 34 58</rightascension>
+			<declination>+04 22 53</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/20</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 3167 c</id_exoplaneteu>
+		<name>HD 3167 c</name>
+		<id>HD 3167 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.258</radius>
+			<orbit>
+				<period>29.8452</period>
+				<inclination>89.06</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.88</mass>
+			<radius>0.1423</radius>
+			<metallicity>0.0</metallicity>
+			<distance>45.8</distance>
+			<temperature>5367.0</temperature>
+			<rightascension>00 34 58</rightascension>
+			<declination>+04 22 53</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/07/20</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 32518 b</id_exoplaneteu>
 		<name>HD 32518 b</name>
 		<id>HD 32518 b</id>
@@ -23025,7 +23167,7 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>5.25</mass>
 			<radius>11.62</radius>
 			<distance>92</distance>
-			<temperature>728.2</temperature>
+			<temperature>5150.0</temperature>
 			<rightascension>07 31 48</rightascension>
 			<declination>+17 05 09</declination>
 			<magV>5.45</magV>
@@ -45940,6 +46082,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-1520 b</id_exoplaneteu>
 		<name>Kepler-1520 b</name>
+		<name>KIC 12557548 b</name>
 		<id>Kepler-1520 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -50119,6 +50262,37 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-1647 b</id_exoplaneteu>
+		<name>Kepler-1647 b</name>
+		<name>Kepler-1647 (AB) b</name>
+		<id>Kepler-1647 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.52</mass>
+			<radius>1.06</radius>
+			<orbit>
+				<period>1107.5923</period>
+				<semimajoraxis>2.7205</semimajoraxis>
+				<eccentricity>0.0581</eccentricity>
+				<inclination>90.0972</inclination>
+				<periastron>155.0464</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.210</mass>
+			<radius>1.79</radius>
+			<temperature>6210.0</temperature>
+			<rightascension>19 52 36</rightascension>
+			<declination>+40 39 22</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>16/10/14</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-165 b</id_exoplaneteu>
@@ -89814,6 +89988,32 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KIC 7917485 b</id_exoplaneteu>
+		<name>KIC 7917485 b</name>
+		<id>KIC 7917485 b</id>
+		<properties>
+			<mass>11.8</mass>
+			<orbit>
+				<period>840.0</period>
+				<semimajoraxis>2.03</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A</spectraltype>
+			<mass>1.63</mass>
+			<metallicity>-0.02</metallicity>
+			<temperature>7067.0</temperature>
+			<rightascension>19 57 44</rightascension>
+			<declination>+43 37 57</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>16/08/11</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KIC 8012732 b</id_exoplaneteu>
 		<name>KIC 8012732 b</name>
 		<id>KIC 8012732 b</id>
@@ -96144,11 +96344,12 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>UZ For(ab) d</id_exoplaneteu>
+		<id_exoplaneteu>UZ For (AB) d</id_exoplaneteu>
+		<name>UZ For (AB) d</name>
 		<name>UZ For(ab) d</name>
 		<name>UZ For d</name>
 		<name>UZ Fornacis d</name>
-		<id>UZ For(ab) d</id>
+		<id>UZ For (AB) d</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
 			<mass>7.7</mass>
@@ -96161,7 +96362,7 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<star>
 			<spectraltype>Catac. var.</spectraltype>
 			<mass>0.84</mass>
-			<temperature>127.9</temperature>
+			<temperature>5700.0</temperature>
 			<rightascension>03 35 29</rightascension>
 			<declination>-25 44 22</declination>
 			<magV>18.2</magV>
@@ -100775,6 +100976,26 @@ Image Credit: ESO/M. Kornmesser</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/04/22</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WISE 0855-0714</id_exoplaneteu>
+		<name>WISE 0855-0714</name>
+		<id>WISE 0855-0714</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>6.0</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<rightascension>08 55 11</rightascension>
+			<declination>-07 45 17</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>16/06/02</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
