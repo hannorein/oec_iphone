@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>GJ 3138 d</id_exoplaneteu>
+	<name>GJ 3138 d</name>
+	<id>GJ 3138 d</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.033</mass>
+		<radius />
+		<orbit>
+			<period>257.8</period>
+			<semimajoraxis>0.698</semimajoraxis>
+			<eccentricity>0.32</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M0</spectraltype>
+		<mass>0.681</mass>
+		<radius>0.5</radius>
+		<metallicity>-0.3</metallicity>
+		<distance />
+		<temperature>3717.0</temperature>
+		<rightascension>02 09 11</rightascension>
+		<declination>-16 39 37</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/03/21</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
