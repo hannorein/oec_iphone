@@ -1,4 +1,4 @@
-<planets date="2017-03-30" name="data" planets="3582">
+<planets date="2017-07-25" name="data" planets="3592">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -636,8 +636,9 @@
 			<radius>1.45</radius>
 			<metallicity>0.07</metallicity>
 			<temperature>6557.0</temperature>
-			<rightascension>12 53 11</rightascension>
-			<declination>-03 26 49</declination>
+			<rightascension>12 53 11.16</rightascension>
+			<declination>-03 33 11.2</declination>
+			<magV>6.11</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -4473,6 +4474,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<temperature>3503</temperature>
 			<rightascension>11 30 14.511</rightascension>
 			<declination>+07 35 18.21</declination>
+			<magV>13.50</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
@@ -4958,6 +4960,35 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Planets in open clusters</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 210894022 b</id_exoplaneteu>
+		<name>EPIC 210894022 b</name>
+		<id>EPIC 210894022 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.027</mass>
+			<radius>0.17</radius>
+			<orbit>
+				<period>5.35117</period>
+				<semimajoraxis>0.0621</semimajoraxis>
+				<inclination>86.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.89</mass>
+			<radius>1.23</radius>
+			<metallicity>-0.53</metallicity>
+			<distance>210.0</distance>
+			<temperature>5730.0</temperature>
+			<rightascension>03 59 34</rightascension>
+			<declination>+21 17 55</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/06</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 211391664 b</id_exoplaneteu>
 		<name>EPIC 211391664 b</name>
 		<id>EPIC 211391664 b</id>
@@ -5276,6 +5307,67 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/11/03</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 228754001 b</id_exoplaneteu>
+		<name>EPIC 228754001 b</name>
+		<id>EPIC 228754001 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.495</mass>
+			<radius>1.089</radius>
+			<orbit>
+				<period>9.1708</period>
+				<semimajoraxis>0.0916</semimajoraxis>
+				<eccentricity>0.29</eccentricity>
+				<inclination>77.56</inclination>
+				<periastron>82.6</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>1.19</mass>
+			<radius>4.11</radius>
+			<metallicity>-0.11</metallicity>
+			<temperature>4878.0</temperature>
+			<rightascension>12 08 40</rightascension>
+			<declination>-08 15 10</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/12</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 22881391 b</id_exoplaneteu>
+		<name>EPIC 22881391 b</name>
+		<id>EPIC 22881391 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.7</mass>
+			<radius>0.079</radius>
+			<orbit>
+				<period>0.179715</period>
+				<semimajoraxis>0.0058</semimajoraxis>
+				<inclination>89.6</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3 V</spectraltype>
+			<mass>0.463</mass>
+			<radius>0.442</radius>
+			<metallicity>0.08</metallicity>
+			<distance>95.0</distance>
+			<temperature>3492.0</temperature>
+			<rightascension>12 27 29</rightascension>
+			<declination>-06 48 17</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/17</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -5864,8 +5956,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>0.09</metallicity>
 			<distance>3.8</distance>
 			<temperature>3382.0</temperature>
-			<rightascension>07 27 24</rightascension>
-			<declination>+05 13 33</declination>
+			<rightascension>07 27 24.50</rightascension>
+			<declination>+05 13 32.8</declination>
+			<magV>9.872</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2017</discoveryyear>
@@ -5893,8 +5986,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>0.09</metallicity>
 			<distance>3.8</distance>
 			<temperature>3382.0</temperature>
-			<rightascension>07 27 24</rightascension>
-			<declination>+05 13 33</declination>
+			<rightascension>07 27 24.50</rightascension>
+			<declination>+05 13 32.8</declination>
+			<magV>9.872</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2017</discoveryyear>
@@ -6093,8 +6187,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			<metallicity>-0.08</metallicity>
 			<distance>10.03</distance>
 			<temperature>3685.0</temperature>
-			<rightascension>14 01 03</rightascension>
-			<declination>-02 20 42</declination>
+			<rightascension>14 01 03.19</rightascension>
+			<declination>-02 39 17.5</declination>
+			<magV>9.707</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -8263,8 +8358,9 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.0</metallicity>
 			<distance>268.0</distance>
 			<temperature>6703.0</temperature>
-			<rightascension>02 33 14</rightascension>
-			<declination>+30 21 38</declination>
+			<rightascension>02 33 19.95</rightascension>
+			<declination>+30 21 37.8</declination>
+			<magV>10.61</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -8293,8 +8389,9 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.02</metallicity>
 			<distance>305.0</distance>
 			<temperature>5946.0</temperature>
-			<rightascension>02 57 53</rightascension>
-			<declination>+30 37 33</declination>
+			<rightascension>02 57 53.02</rightascension>
+			<declination>+30 37 32.5</declination>
+			<magV>12.16</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -10201,8 +10298,9 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>-0.08</metallicity>
 			<distance>320.0</distance>
 			<temperature>6406.0</temperature>
-			<rightascension>17 06 27</rightascension>
-			<declination>+44 46 37</declination>
+			<rightascension>17 06 26.56</rightascension>
+			<declination>+44 46 37.1</declination>
+			<magV>10.11</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
@@ -10876,8 +10974,8 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.02</metallicity>
 			<distance>466.0</distance>
 			<temperature>5715.0</temperature>
-			<rightascension>13 51 38</rightascension>
-			<declination>-23 13 08</declination>
+			<rightascension>13 51 37.87</rightascension>
+			<declination>-23 46 52.2</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -11095,8 +11193,9 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<metallicity>0.0</metallicity>
 			<distance>872.0</distance>
 			<temperature>6050.0</temperature>
-			<rightascension>12 46 49</rightascension>
-			<declination>-24 34 21</declination>
+			<rightascension>12 46 48.68</rightascension>
+			<declination>-24 35 38.5</declination>
+			<magV>13.11</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -13896,8 +13995,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.17</metallicity>
 			<distance>26.03</distance>
 			<temperature>4875.0</temperature>
-			<rightascension>14 37 05</rightascension>
-			<declination>-25 11 51</declination>
+			<rightascension>14 37 04.89</rightascension>
+			<declination>-25 48 09.2</declination>
+			<magV>8.26</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -14157,8 +14257,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.306</metallicity>
 			<distance>47.0</distance>
 			<temperature>5799.0</temperature>
-			<rightascension>15 03 36</rightascension>
-			<declination>-27 09 32</declination>
+			<rightascension>15 03 35.44</rightascension>
+			<declination>-27 50 33.18</declination>
+			<magV>8.46</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -14186,8 +14287,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.306</metallicity>
 			<distance>47.0</distance>
 			<temperature>5799.0</temperature>
-			<rightascension>15 03 36</rightascension>
-			<declination>-27 09 32</declination>
+			<rightascension>15 03 35.44</rightascension>
+			<declination>-27 50 33.18</declination>
+			<magV>8.46</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -14214,8 +14316,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.306</metallicity>
 			<distance>47.0</distance>
 			<temperature>5799.0</temperature>
-			<rightascension>15 03 36</rightascension>
-			<declination>-27 09 32</declination>
+			<rightascension>15 03 35.44</rightascension>
+			<declination>-27 50 33.18</declination>
+			<magV>8.46</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -15097,8 +15200,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.31</metallicity>
 			<distance>17.236</distance>
 			<temperature>5627.0</temperature>
-			<rightascension>16 01 03</rightascension>
-			<declination>+33 18 13</declination>
+			<rightascension>16 01 02.66</rightascension>
+			<declination>+33 18 12.6</declination>
+			<magV>5.41</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -15127,8 +15231,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.31</metallicity>
 			<distance>17.236</distance>
 			<temperature>5627.0</temperature>
-			<rightascension>16 01 03</rightascension>
-			<declination>+33 18 13</declination>
+			<rightascension>16 01 02.66</rightascension>
+			<declination>+33 18 12.6</declination>
+			<magV>5.41</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -16696,8 +16801,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.09</metallicity>
 			<distance>64.98</distance>
 			<temperature>5426.0</temperature>
-			<rightascension>18 05 57</rightascension>
-			<declination>-29 04 58</declination>
+			<rightascension>18 05 57.35</rightascension>
+			<declination>-29 55 02.1</declination>
+			<magV>9.36</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -18161,6 +18267,28 @@ Image credit: Vanessa Bailey</imagedescription>
 		<description>The planet is orbiting a star that is part of a binary system. The planet's periastron is far enough away from the host star such that tides are not important.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 195689 b</id_exoplaneteu>
+		<name>HD 195689 b</name>
+		<id>HD 195689 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<orbit>
+				<period>1.48</period>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A0</spectraltype>
+			<temperature>10170.0</temperature>
+			<rightascension>20 31 26</rightascension>
+			<declination>+39 56 20</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/13</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 196050 A b</id_exoplaneteu>
@@ -21203,8 +21331,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.0</metallicity>
 			<distance>45.8</distance>
 			<temperature>5367.0</temperature>
-			<rightascension>00 34 58</rightascension>
-			<declination>+04 22 53</declination>
+			<rightascension>00 34 57.52</rightascension>
+			<declination>+04 22 53.3</declination>
+			<magV>8.94</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -21231,8 +21360,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.0</metallicity>
 			<distance>45.8</distance>
 			<temperature>5367.0</temperature>
-			<rightascension>00 34 58</rightascension>
-			<declination>+04 22 53</declination>
+			<rightascension>00 34 57.52</rightascension>
+			<declination>+04 22 53.3</declination>
+			<magV>8.94</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -22447,8 +22577,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>-0.09</metallicity>
 			<distance>23.5</distance>
 			<temperature>5727.0</temperature>
-			<rightascension>06 12 01</rightascension>
-			<declination>+06 46 59</declination>
+			<rightascension>06 12 00.57</rightascension>
+			<declination>+06 46 59.1</declination>
+			<magV>6.839</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -24055,8 +24186,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.25</metallicity>
 			<distance>72.78</distance>
 			<temperature>5688.0</temperature>
-			<rightascension>08 34 53</rightascension>
-			<declination>-14 32 36</declination>
+			<rightascension>08 34 52.60</rightascension>
+			<declination>-14 27 24.1</declination>
+			<magV>8.79</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -25285,8 +25417,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<metallicity>0.39</metallicity>
 			<distance>78.93</distance>
 			<temperature>5577.0</temperature>
-			<rightascension>01 30 01</rightascension>
-			<declination>-19 23 44</declination>
+			<rightascension>01 30 01.00</rightascension>
+			<declination>-19 36 16.2</declination>
+			<magV>8.37</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -25844,8 +25977,9 @@ Credit: ESO/J. Rameau</imagedescription>
 			<mass>1.2</mass>
 			<distance>47.1</distance>
 			<temperature>6315.0</temperature>
-			<rightascension>00 14 10</rightascension>
-			<declination>-07 48 03</declination>
+			<rightascension>00 14 10.25</rightascension>
+			<declination>-07 11 56.8</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
@@ -26585,6 +26719,33 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/06/18</lastupdate>
 		<description>The planet HIP 63242 b is the innermost planet detected around any intermediate-mass giant star. The lack of other close-in planets suggests that these planets might be destroyed by the large envelope of the host star during the red giant phase.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 65426</id_exoplaneteu>
+		<name>HIP 65426</name>
+		<id>HIP 65426</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>9.0</mass>
+			<radius>1.5</radius>
+			<orbit>
+				<semimajoraxis>92.0</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A2V</spectraltype>
+			<mass>1.96</mass>
+			<radius>1.77</radius>
+			<distance>11.1</distance>
+			<temperature>8840.0</temperature>
+			<rightascension>13 24 36</rightascension>
+			<declination>-51 29 44</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/08</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -28007,8 +28168,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<metallicity>0.18</metallicity>
 			<distance>98.0</distance>
 			<temperature>5370.0</temperature>
-			<rightascension>10 46 50</rightascension>
-			<declination>-09 36 03</declination>
+			<rightascension>10 46 49.74</rightascension>
+			<declination>-09 23 56.5</declination>
+			<magV>8.04</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -28036,8 +28198,9 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<metallicity>0.19</metallicity>
 			<distance>360.0</distance>
 			<temperature>6278.0</temperature>
-			<rightascension>17 50 34</rightascension>
-			<declination>+36 34 13</declination>
+			<rightascension>17 50 33.73</rightascension>
+			<declination>+36 34 12.8</declination>
+			<magV>10.59</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -28162,6 +28325,36 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
 		<lastupdate>17/02/07</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-20 b</id_exoplaneteu>
+		<name>KELT-20 b</name>
+		<id>KELT-20 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.518</mass>
+			<radius>1.735</radius>
+			<orbit>
+				<period>3.4741085</period>
+				<semimajoraxis>0.0542</semimajoraxis>
+				<inclination>86.2</inclination>
+				<longitude>3.4</longitude>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A2V</spectraltype>
+			<mass>2.0</mass>
+			<radius>1.561</radius>
+			<metallicity>-0.29</metallicity>
+			<temperature>8981.0</temperature>
+			<rightascension>19 38 39</rightascension>
+			<declination>+31 13 09</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/11</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -90128,6 +90321,31 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KIC 5095269(AB) b</id_exoplaneteu>
+		<name>KIC 5095269(AB) b</name>
+		<id>KIC 5095269(AB) b</id>
+		<properties>
+			<mass>7.698</mass>
+			<orbit>
+				<period>237.70817</period>
+				<eccentricity>0.0604</eccentricity>
+				<inclination>105.92</inclination>
+				<periastron>27.67</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7V/M</spectraltype>
+			<mass>7.698</mass>
+			<rightascension>19 22 12</rightascension>
+			<declination>+40 14 06</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/07</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KIC 5437945 b</id_exoplaneteu>
 		<name>KIC 5437945 b</name>
 		<name>KOI-3791.01</name>
@@ -94176,6 +94394,28 @@ Credit: Kains et al (2013).</imagedescription>
 		<list>Controversial</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2013-BLG-0132L b</id_exoplaneteu>
+		<name>OGLE-2013-BLG-0132L b</name>
+		<id>OGLE-2013-BLG-0132L b</id>
+		<properties>
+			<mass>0.29</mass>
+			<orbit>
+				<semimajoraxis>3.6</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.54</mass>
+			<distance>3900.0</distance>
+			<rightascension>17 59 04</rightascension>
+			<declination>-28 34 44</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/04</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>OGLE-2013-BLG-0341L B b</id_exoplaneteu>
 		<name>OGLE-2013-BLG-0341L B b</name>
 		<name>OGLE-2013-BLG-0341LBb</name>
@@ -94222,6 +94462,28 @@ Credit: Kains et al (2013).</imagedescription>
 		<description>OGLE-2013-BLG-0723LBb is a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It can therefore be considered either a scaled-up exommon system or a scaled-down planetary system. There is evidence that the system may also contain an additional, more luminous star around which the three known objects revolve.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2013-BLG-1721 b</id_exoplaneteu>
+		<name>OGLE-2013-BLG-1721 b</name>
+		<id>OGLE-2013-BLG-1721 b</id>
+		<properties>
+			<mass>0.64</mass>
+			<orbit>
+				<semimajoraxis>2.6</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.46</mass>
+			<distance>6300.0</distance>
+			<rightascension>17 52 30</rightascension>
+			<declination>-30 42 26</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/04</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>OGLE-2013-BLG-1761L b</id_exoplaneteu>
@@ -98371,6 +98633,37 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-167 b</id_exoplaneteu>
+		<name>WASP-167 b</name>
+		<id>WASP-167 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>8.0</mass>
+			<radius>1.51</radius>
+			<orbit>
+				<period>2.0219591</period>
+				<semimajoraxis>0.0365</semimajoraxis>
+				<inclination>79.9</inclination>
+				<longitude>195.0</longitude>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F1 V</spectraltype>
+			<mass>1.518</mass>
+			<radius>1.756</radius>
+			<metallicity>-0.04</metallicity>
+			<distance>381.0</distance>
+			<temperature>7043.0</temperature>
+			<rightascension>13 04 11</rightascension>
+			<declination>-35 27 02</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/06</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-17 b</id_exoplaneteu>
 		<name>WASP-17 b</name>
 		<name>2MASS J15595095-2803422 b</name>
@@ -99765,8 +100058,8 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>-0.2</metallicity>
 			<distance>330</distance>
 			<temperature>1160.1</temperature>
-			<rightascension>13 55 02</rightascension>
-			<declination>-17 30 13</declination>
+			<rightascension>13 35 01.95</rightascension>
+			<declination>-17 30 12.8</declination>
 			<magV>11.8</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -100828,7 +101121,7 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>0.29</metallicity>
 			<distance>300</distance>
 			<temperature>5480</temperature>
-			<rightascension>14 40 36.51</rightascension>
+			<rightascension>12 40 36.51</rightascension>
 			<declination>-19 17 03.4</declination>
 			<magV>12.9</magV>
 		</star>
@@ -101110,8 +101403,9 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>0.0</metallicity>
 			<distance>530.0</distance>
 			<temperature>6280.0</temperature>
-			<rightascension>16 26 46</rightascension>
-			<declination>+51 02 28</declination>
+			<rightascension>16 26 46.10</rightascension>
+			<declination>+51 02 27.9</declination>
+			<magV>12.92</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
