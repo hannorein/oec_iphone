@@ -1,14 +1,14 @@
 <planet>
-	<id_exoplaneteu>HD 984 b</id_exoplaneteu>
-	<name>HD 984 b</name>
-	<id>HD 984 b</id>
+	<id_exoplaneteu>HIP 65426</id_exoplaneteu>
+	<name>HIP 65426</name>
+	<id>HIP 65426</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>65.0</mass>
-		<radius />
+		<mass>9.0</mass>
+		<radius>1.5</radius>
 		<orbit>
 			<period />
-			<semimajoraxis>18.0</semimajoraxis>
+			<semimajoraxis>92.0</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -17,16 +17,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>F7V</spectraltype>
-		<mass>1.2</mass>
-		<radius />
+		<spectraltype>A2V</spectraltype>
+		<mass>1.96</mass>
+		<radius>1.77</radius>
 		<metallicity />
-		<distance>47.1</distance>
-		<temperature>6315.0</temperature>
-		<rightascension>00 14 10.25</rightascension>
-		<declination>-07 11 56.8</declination>
+		<distance>11.1</distance>
+		<temperature>8840.0</temperature>
+		<rightascension>13 24 36</rightascension>
+		<declination>-51 29 44</declination>
 		<angulardistance />
-		<magV>7.32</magV>
+		<magV />
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2017</discoveryyear>
-	<lastupdate>17/03/09</lastupdate>
+	<lastupdate>17/07/08</lastupdate>
 	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />

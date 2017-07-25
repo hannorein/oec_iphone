@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>WASP-167 b</id_exoplaneteu>
+	<name>WASP-167 b</name>
+	<id>WASP-167 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>8.0</mass>
+		<radius>1.51</radius>
+		<orbit>
+			<period>2.0219591</period>
+			<semimajoraxis>0.0365</semimajoraxis>
+			<eccentricity />
+			<inclination>79.9</inclination>
+			<periastron />
+			<longitude>195.0</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F1 V</spectraltype>
+		<mass>1.518</mass>
+		<radius>1.756</radius>
+		<metallicity>-0.04</metallicity>
+		<distance>381.0</distance>
+		<temperature>7043.0</temperature>
+		<rightascension>13 04 11</rightascension>
+		<declination>-35 27 02</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/06</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

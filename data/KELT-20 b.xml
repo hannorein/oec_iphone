@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>KELT-20 b</id_exoplaneteu>
+	<name>KELT-20 b</name>
+	<id>KELT-20 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.518</mass>
+		<radius>1.735</radius>
+		<orbit>
+			<period>3.4741085</period>
+			<semimajoraxis>0.0542</semimajoraxis>
+			<eccentricity />
+			<inclination>86.2</inclination>
+			<periastron />
+			<longitude>3.4</longitude>
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A2V</spectraltype>
+		<mass>2.0</mass>
+		<radius>1.561</radius>
+		<metallicity>-0.29</metallicity>
+		<distance />
+		<temperature>8981.0</temperature>
+		<rightascension>19 38 39</rightascension>
+		<declination>+31 13 09</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/11</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

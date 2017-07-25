@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>EPIC 210894022 b</id_exoplaneteu>
+	<name>EPIC 210894022 b</name>
+	<id>EPIC 210894022 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.027</mass>
+		<radius>0.17</radius>
+		<orbit>
+			<period>5.35117</period>
+			<semimajoraxis>0.0621</semimajoraxis>
+			<eccentricity />
+			<inclination>86.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.89</mass>
+		<radius>1.23</radius>
+		<metallicity>-0.53</metallicity>
+		<distance>210.0</distance>
+		<temperature>5730.0</temperature>
+		<rightascension>03 59 34</rightascension>
+		<declination>+21 17 55</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/06</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

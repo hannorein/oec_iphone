@@ -1,14 +1,14 @@
 <planet>
-	<id_exoplaneteu>HD 984 b</id_exoplaneteu>
-	<name>HD 984 b</name>
-	<id>HD 984 b</id>
-	<discoverymethod>imaging</discoverymethod>
+	<id_exoplaneteu>HD 195689 b</id_exoplaneteu>
+	<name>HD 195689 b</name>
+	<id>HD 195689 b</id>
+	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>65.0</mass>
+		<mass />
 		<radius />
 		<orbit>
-			<period />
-			<semimajoraxis>18.0</semimajoraxis>
+			<period>1.48</period>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -17,16 +17,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>F7V</spectraltype>
-		<mass>1.2</mass>
+		<spectraltype>A0</spectraltype>
+		<mass />
 		<radius />
 		<metallicity />
-		<distance>47.1</distance>
-		<temperature>6315.0</temperature>
-		<rightascension>00 14 10.25</rightascension>
-		<declination>-07 11 56.8</declination>
+		<distance />
+		<temperature>10170.0</temperature>
+		<rightascension>20 31 26</rightascension>
+		<declination>+39 56 20</declination>
 		<angulardistance />
-		<magV>7.32</magV>
+		<magV />
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2017</discoveryyear>
-	<lastupdate>17/03/09</lastupdate>
+	<lastupdate>17/07/13</lastupdate>
 	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />

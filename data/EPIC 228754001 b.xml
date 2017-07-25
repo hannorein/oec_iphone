@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>EPIC 228754001 b</id_exoplaneteu>
+	<name>EPIC 228754001 b</name>
+	<id>EPIC 228754001 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.495</mass>
+		<radius>1.089</radius>
+		<orbit>
+			<period>9.1708</period>
+			<semimajoraxis>0.0916</semimajoraxis>
+			<eccentricity>0.29</eccentricity>
+			<inclination>77.56</inclination>
+			<periastron>82.6</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K</spectraltype>
+		<mass>1.19</mass>
+		<radius>4.11</radius>
+		<metallicity>-0.11</metallicity>
+		<distance />
+		<temperature>4878.0</temperature>
+		<rightascension>12 08 40</rightascension>
+		<declination>-08 15 10</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/12</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
