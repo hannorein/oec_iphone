@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 29021 b</id_exoplaneteu>
+	<name>HD 29021 b</name>
+	<id>HD 29021 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>2.4</mass>
+		<radius />
+		<orbit>
+			<period>1362.3</period>
+			<semimajoraxis>2.28</semimajoraxis>
+			<eccentricity>0.459</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>0.85</mass>
+		<radius>0.85</radius>
+		<metallicity>-0.24</metallicity>
+		<distance>30.6</distance>
+		<temperature>5560.0</temperature>
+		<rightascension>04 37 52</rightascension>
+		<declination>+60 40 34</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/06/29</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

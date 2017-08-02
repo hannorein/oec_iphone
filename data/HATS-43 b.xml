@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-43 b</id_exoplaneteu>
+	<name>HATS-43 b</name>
+	<id>HATS-43 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.261</mass>
+		<radius>1.18</radius>
+		<orbit>
+			<period>4.3888497</period>
+			<semimajoraxis>0.04944</semimajoraxis>
+			<eccentricity>0.173</eccentricity>
+			<inclination>89.24</inclination>
+			<periastron>330.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K</spectraltype>
+		<mass>0.837</mass>
+		<radius>0.812</radius>
+		<metallicity>0.05</metallicity>
+		<distance>341.0</distance>
+		<temperature>5099.0</temperature>
+		<rightascension>05 22 09</rightascension>
+		<declination>-30 01 45</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/26</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

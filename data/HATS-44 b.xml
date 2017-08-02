@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-44 b</id_exoplaneteu>
+	<name>HATS-44 b</name>
+	<id>HATS-44 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.56</mass>
+		<radius>1.067</radius>
+		<orbit>
+			<period>2.7439004</period>
+			<semimajoraxis>0.03649</semimajoraxis>
+			<eccentricity>0.279</eccentricity>
+			<inclination>84.65</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K</spectraltype>
+		<mass>0.86</mass>
+		<radius>0.847</radius>
+		<metallicity>0.32</metallicity>
+		<distance>463.0</distance>
+		<temperature>5080.0</temperature>
+		<rightascension>05 37 18</rightascension>
+		<declination>-27 01 39</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/26</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

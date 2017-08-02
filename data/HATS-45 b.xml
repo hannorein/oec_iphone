@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HATS-45 b</id_exoplaneteu>
+	<name>HATS-45 b</name>
+	<id>HATS-45 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.7</mass>
+		<radius>1.286</radius>
+		<orbit>
+			<period>4.1876244</period>
+			<semimajoraxis>0.05511</semimajoraxis>
+			<eccentricity>0.24</eccentricity>
+			<inclination>85.61</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F</spectraltype>
+		<mass>1.272</mass>
+		<radius>1.315</radius>
+		<metallicity>0.02</metallicity>
+		<distance>818.0</distance>
+		<temperature>6450.0</temperature>
+		<rightascension>06 47 59</rightascension>
+		<declination>-21 05 21</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/26</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

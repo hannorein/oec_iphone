@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>CoRoT-31 b</id_exoplaneteu>
+	<name>CoRoT-31 b</name>
+	<id>CoRoT-31 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.85</mass>
+		<radius>1.5</radius>
+		<orbit>
+			<period>4.62941</period>
+			<semimajoraxis>0.059</semimajoraxis>
+			<eccentricity>0.02</eccentricity>
+			<inclination>83.2</inclination>
+			<periastron>306.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2IV</spectraltype>
+		<mass>1.26</mass>
+		<radius>2.2</radius>
+		<metallicity>0.0</metallicity>
+		<distance>220.0</distance>
+		<temperature>5700.0</temperature>
+		<rightascension>06 19 17</rightascension>
+		<declination>-04 34 40</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/08/01</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

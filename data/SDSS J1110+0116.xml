@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>SDSS J1110+0116</id_exoplaneteu>
+	<name>SDSS J1110+0116</name>
+	<id>SDSS J1110+0116</id>
+	<discoverymethod>imaging</discoverymethod>
+	<properties>
+		<mass>11.0</mass>
+		<radius>1.18</radius>
+		<orbit>
+			<period />
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>T5.5</spectraltype>
+		<mass>11.0</mass>
+		<radius>1.18</radius>
+		<metallicity />
+		<distance>19.19</distance>
+		<temperature>940.0</temperature>
+		<rightascension>11 10 10</rightascension>
+		<declination>+01 16 13</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>17/07/02</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
