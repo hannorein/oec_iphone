@@ -1,4 +1,4 @@
-<planets date="2017-07-25" name="data" planets="3592">
+<planets date="2017-08-02" name="data" planets="3607">
 	<planet>
 		<id_exoplaneteu>11 Com b</id_exoplaneteu>
 		<name>11 Com b</name>
@@ -1673,6 +1673,35 @@
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>BD+03 2562 b</id_exoplaneteu>
+		<name>BD+03 2562 b</name>
+		<id>BD+03 2562 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>6.4</mass>
+			<orbit>
+				<period>481.9</period>
+				<semimajoraxis>1.3</semimajoraxis>
+				<eccentricity>0.2</eccentricity>
+				<periastron>218.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.14</mass>
+			<radius>32.35</radius>
+			<metallicity>-0.71</metallicity>
+			<distance>2618.0</distance>
+			<temperature>4095.0</temperature>
+			<rightascension>11 50 16</rightascension>
+			<declination>+02 45 36</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/06/30</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>BD+14 4559 b</id_exoplaneteu>
 		<name>BD+14 4559 b</name>
 		<name>BD14 4559 b</name>
@@ -3015,6 +3044,70 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>12/04/05</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>CoRoT-30 b</id_exoplaneteu>
+		<name>CoRoT-30 b</name>
+		<id>CoRoT-30 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.84</mass>
+			<radius>1.02</radius>
+			<orbit>
+				<period>9.06005</period>
+				<semimajoraxis>0.084</semimajoraxis>
+				<eccentricity>0.007</eccentricity>
+				<inclination>90.0</inclination>
+				<periastron>178.1</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G3V</spectraltype>
+			<mass>0.97</mass>
+			<radius>0.92</radius>
+			<metallicity>0.02</metallicity>
+			<distance>960.0</distance>
+			<temperature>5650.0</temperature>
+			<rightascension>18 30 24</rightascension>
+			<declination>+06 50 09</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/08/01</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>CoRoT-31 b</id_exoplaneteu>
+		<name>CoRoT-31 b</name>
+		<id>CoRoT-31 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.85</mass>
+			<radius>1.5</radius>
+			<orbit>
+				<period>4.62941</period>
+				<semimajoraxis>0.059</semimajoraxis>
+				<eccentricity>0.02</eccentricity>
+				<inclination>83.2</inclination>
+				<periastron>306.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2IV</spectraltype>
+			<mass>1.26</mass>
+			<radius>2.2</radius>
+			<metallicity>0.0</metallicity>
+			<distance>220.0</distance>
+			<temperature>5700.0</temperature>
+			<rightascension>06 19 17</rightascension>
+			<declination>-04 34 40</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/08/01</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -5307,6 +5400,38 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/11/03</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 228735255 b</id_exoplaneteu>
+		<name>EPIC 228735255 b</name>
+		<id>EPIC 228735255 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.019</mass>
+			<radius>1.095</radius>
+			<orbit>
+				<period>6.5693</period>
+				<semimajoraxis>0.0591</semimajoraxis>
+				<eccentricity>0.12</eccentricity>
+				<inclination>88.51</inclination>
+				<periastron>98.88</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.005</mass>
+			<radius>0.987</radius>
+			<metallicity>0.12</metallicity>
+			<distance>340.24</distance>
+			<temperature>5654.0</temperature>
+			<rightascension>12 32 33</rightascension>
+			<declination>-09 23 32</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/06/25</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -8338,6 +8463,37 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HAT-36 b</id_exoplaneteu>
+		<name>HAT-36 b</name>
+		<id>HAT-36 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.79</mass>
+			<radius>1.263</radius>
+			<orbit>
+				<period>4.1752379</period>
+				<semimajoraxis>0.0529</semimajoraxis>
+				<eccentricity>0.294</eccentricity>
+				<inclination>87.57</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.135</mass>
+			<radius>1.186</radius>
+			<metallicity>0.13</metallicity>
+			<distance>977.0</distance>
+			<temperature>5970.0</temperature>
+			<rightascension>19 25 55</rightascension>
+			<declination>-23 47 50</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/06/29</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HAT-47 b</id_exoplaneteu>
 		<name>HAT-47 b</name>
 		<id>HAT-47 b</id>
@@ -9864,6 +10020,66 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Controversial</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HAT-P-47 b</id_exoplaneteu>
+		<name>HAT-P-47 b</name>
+		<id>HAT-P-47 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.206</mass>
+			<radius>1.313</radius>
+			<orbit>
+				<period>4.732182</period>
+				<semimajoraxis>0.0615</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>84.8</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.387</mass>
+			<radius>1.515</radius>
+			<metallicity>0.0</metallicity>
+			<distance>268.0</distance>
+			<temperature>6703.0</temperature>
+			<rightascension>02 33 14</rightascension>
+			<declination>+30 21 38</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/06/25</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-48 b</id_exoplaneteu>
+		<name>HAT-P-48 b</name>
+		<id>HAT-P-48 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.168</mass>
+			<radius>1.131</radius>
+			<orbit>
+				<period>4.40865</period>
+				<semimajoraxis>0.0543</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+				<inclination>86.8</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.099</mass>
+			<radius>1.223</radius>
+			<metallicity>0.02</metallicity>
+			<distance>305.0</distance>
+			<temperature>5946.0</temperature>
+			<rightascension>02 57 53</rightascension>
+			<declination>+30 37 33</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/06/25</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HAT-P-49 b</id_exoplaneteu>
 		<name>HAT-P-49 b</name>
 		<name>GSC 2163-00549 b</name>
@@ -11354,6 +11570,131 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>HATS-4 is a dense transiting planet orbiting around a high-metallicity star discovered by the HATSouth survey.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-43 b</id_exoplaneteu>
+		<name>HATS-43 b</name>
+		<id>HATS-43 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.261</mass>
+			<radius>1.18</radius>
+			<orbit>
+				<period>4.3888497</period>
+				<semimajoraxis>0.04944</semimajoraxis>
+				<eccentricity>0.173</eccentricity>
+				<inclination>89.24</inclination>
+				<periastron>330.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.837</mass>
+			<radius>0.812</radius>
+			<metallicity>0.05</metallicity>
+			<distance>341.0</distance>
+			<temperature>5099.0</temperature>
+			<rightascension>05 22 09</rightascension>
+			<declination>-30 01 45</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/26</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-44 b</id_exoplaneteu>
+		<name>HATS-44 b</name>
+		<id>HATS-44 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.56</mass>
+			<radius>1.067</radius>
+			<orbit>
+				<period>2.7439004</period>
+				<semimajoraxis>0.03649</semimajoraxis>
+				<eccentricity>0.279</eccentricity>
+				<inclination>84.65</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.86</mass>
+			<radius>0.847</radius>
+			<metallicity>0.32</metallicity>
+			<distance>463.0</distance>
+			<temperature>5080.0</temperature>
+			<rightascension>05 37 18</rightascension>
+			<declination>-27 01 39</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/26</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-45 b</id_exoplaneteu>
+		<name>HATS-45 b</name>
+		<id>HATS-45 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.7</mass>
+			<radius>1.286</radius>
+			<orbit>
+				<period>4.1876244</period>
+				<semimajoraxis>0.05511</semimajoraxis>
+				<eccentricity>0.24</eccentricity>
+				<inclination>85.61</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F</spectraltype>
+			<mass>1.272</mass>
+			<radius>1.315</radius>
+			<metallicity>0.02</metallicity>
+			<distance>818.0</distance>
+			<temperature>6450.0</temperature>
+			<rightascension>06 47 59</rightascension>
+			<declination>-21 05 21</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/26</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-46 b</id_exoplaneteu>
+		<name>HATS-46 b</name>
+		<id>HATS-46 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.173</mass>
+			<radius>0.903</radius>
+			<orbit>
+				<period>4.7423729</period>
+				<semimajoraxis>0.05367</semimajoraxis>
+				<eccentricity>0.559</eccentricity>
+				<inclination>87.32</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.917</mass>
+			<radius>0.853</radius>
+			<metallicity>-0.06</metallicity>
+			<distance>448.0</distance>
+			<temperature>5495.0</temperature>
+			<rightascension>00 26 49</rightascension>
+			<declination>-56 41 02</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/26</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -21018,6 +21359,35 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 29021 b</id_exoplaneteu>
+		<name>HD 29021 b</name>
+		<id>HD 29021 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.4</mass>
+			<orbit>
+				<period>1362.3</period>
+				<semimajoraxis>2.28</semimajoraxis>
+				<eccentricity>0.459</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>0.85</mass>
+			<radius>0.85</radius>
+			<metallicity>-0.24</metallicity>
+			<distance>30.6</distance>
+			<temperature>5560.0</temperature>
+			<rightascension>04 37 52</rightascension>
+			<declination>+60 40 34</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/06/29</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 290327 b</id_exoplaneteu>
 		<name>HD 290327 b</name>
 		<id>HD 290327 b</id>
@@ -22458,6 +22828,35 @@ Image credit: Vanessa Bailey</imagedescription>
 		<lastupdate>13/04/30</lastupdate>
 		<description>The planetary system HD 41248 consists of at least two planets. Both planets are most likely Super-Earths. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
 		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 42012 b</id_exoplaneteu>
+		<name>HD 42012 b</name>
+		<id>HD 42012 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.6</mass>
+			<orbit>
+				<period>857.5</period>
+				<semimajoraxis>1.67</semimajoraxis>
+				<eccentricity>0.0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.83</mass>
+			<radius>0.82</radius>
+			<metallicity>-0.09</metallicity>
+			<distance>37.1</distance>
+			<temperature>5405.0</temperature>
+			<rightascension>06 09 57</rightascension>
+			<declination>+34 08 07</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/06/29</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 4203 b</id_exoplaneteu>
@@ -95971,6 +96370,56 @@ Credit: ESO/L. Calcada</imagedescription>
 		<lastupdate>12/01/01</lastupdate>
 		<description>Saturn is best known for its extensive ring system.</description>
 		<list>Solar System</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>SDSS J1110+0116</id_exoplaneteu>
+		<name>SDSS J1110+0116</name>
+		<id>SDSS J1110+0116</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>11.0</mass>
+			<radius>1.18</radius>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>T5.5</spectraltype>
+			<mass>11.0</mass>
+			<radius>1.18</radius>
+			<distance>19.19</distance>
+			<temperature>940.0</temperature>
+			<rightascension>11 10 10</rightascension>
+			<declination>+01 16 13</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>17/07/02</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>SIMP0136+0933</id_exoplaneteu>
+		<name>SIMP0136+0933</name>
+		<id>SIMP0136+0933</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>12.7</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>T2.5</spectraltype>
+			<mass>12.7</mass>
+			<distance>6.0</distance>
+			<temperature>1098.0</temperature>
+			<rightascension>01 36 57</rightascension>
+			<declination>+09 33 47</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/07/02</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>SR 12 C</id_exoplaneteu>
