@@ -67,7 +67,6 @@ def databasesystems(name,description,inputdirectories):
             systems +=1
 		
 	# wrap it in an ElementTree instance, and save as XML
-        print(name)
 	root.attrib["name"]=name
 	root.attrib["planets"]="%d"%numpl
 	indent(root)
