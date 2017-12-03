@@ -6,12 +6,12 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>0.85</mass>
-		<radius>0.90</radius>
+		<radius>0.97</radius>
 		<orbit>
-			<period>2.850570</period>
-			<semimajoraxis>0.0390</semimajoraxis>
-			<eccentricity>0.082</eccentricity>
-			<inclination>87.3</inclination>
+			<period>2.8505615</period>
+			<semimajoraxis>0.0357</semimajoraxis>
+			<eccentricity />
+			<inclination>85.80</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -35,8 +35,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/04/07</lastupdate>
-	<description>CoRoT-29 b is a Jupiter-sized planet orbiting an oblate star. The transit dircovered is significantly asymmetric, a signature that the host star could have a non-spherical shape. It was discovered by the European space mission CoRoT.</description>
+	<lastupdate>17/11/29</lastupdate>
+	<description>CoRoT-29 b is a Jupiter-sized planet orbiting an oblate star. It was discovered by the European space mission CoRoT. The transits were originally announced by Cabrera et al. (2015) to be asymmetric but this was not confirmed by the follow-up study of Pall&#233; et al. (2016)</description>
 	<new />
 	<image />
 	<imagedescription />

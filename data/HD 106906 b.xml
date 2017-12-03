@@ -1,10 +1,11 @@
 <planet>
 	<id_exoplaneteu>HD 106906 b</id_exoplaneteu>
 	<name>HD 106906 b</name>
+	<name>HD 106906 (AB) b</name>
 	<id>HD 106906 b</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>11</mass>
+		<mass>12.3</mass>
 		<radius />
 		<orbit>
 			<period />
@@ -18,15 +19,15 @@
 	</properties>
 	<star>
 		<spectraltype>F5V</spectraltype>
-		<mass>1.5</mass>
+		<mass>1.34</mass>
 		<radius />
 		<metallicity />
 		<distance>92</distance>
-		<temperature>6516</temperature>
+		<temperature />
 		<rightascension>12 17 53.19228</rightascension>
 		<declination>-55 58 31.8890</declination>
 		<angulardistance />
-		<magV>7.81</magV>
+		<magV>8.11</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,12 +35,13 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/12/06</lastupdate>
-	<description>The star HD 106906 hosts a massive debris disk with an inner edge at 15-20 AU and an outer edge at 120 AU. New adaptive optics images from the Magellan telescope revealed a planetary mass companion far beyond the debris disk at 650 AU. Explaining the formation of such a wide companion is challenging.</description>
+	<lastupdate>17/11/30</lastupdate>
+	<description>The binary star HD 106906 hosts a massive debris disk with an inner edge at 15-20 AU and an outer edge at 120 AU. New adaptive optics images from the Magellan telescope revealed a planetary mass companion far beyond the debris disk at 650 AU. Explaining the formation of such a wide companion is challenging.</description>
 	<new />
 	<image>HD106906</image>
 	<imagedescription>Discovery image of HD 106906 b in thermal infrared light from MagAO/Clio2. The images has been processed to remove the bright light from the host star. 
 
 Image credit: Vanessa Bailey</imagedescription>
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
 </planet>

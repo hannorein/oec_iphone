@@ -5,14 +5,14 @@
 	<id>tau Ceti b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.0062914013</mass>
+		<mass>0.00629</mass>
 		<radius />
 		<orbit>
 			<period>13.965</period>
 			<semimajoraxis>0.105</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>86</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -20,12 +20,12 @@
 	<star>
 		<spectraltype>G8.5 V</spectraltype>
 		<mass>0.783</mass>
-		<radius>0.798</radius>
+		<radius>0.793</radius>
 		<metallicity>-0.55</metallicity>
-		<distance>3.65</distance>
-		<temperature />
-		<rightascension>01 44 04</rightascension>
-		<declination>-15 56 15</declination>
+		<distance>3.6502</distance>
+		<temperature>5344</temperature>
+		<rightascension>01 44 04.08338</rightascension>
+		<declination>-15 56 14.9262</declination>
 		<angulardistance />
 		<magV>3.50</magV>
 		<magI />
@@ -33,14 +33,14 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>5</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/12/19</lastupdate>
+	<lastupdate>17/11/28</lastupdate>
 	<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 	<new />
 	<image>tau_ceti</image>
 	<imagedescription>Artist's impression of the Tau Ceti system
 
 Picture credit: J. Pinfield for the RoPACS network at the University of Hertfordshire, 2012.</imagedescription>
-	<list>Controversial</list>
+	<list>Retracted planet candidate</list>
 </planet>

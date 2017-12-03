@@ -4,14 +4,14 @@
 	<id>HD 40307 g</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.02233447</mass>
+		<mass>0.0223</mass>
 		<radius />
 		<orbit>
 			<period>197.8</period>
-			<semimajoraxis>0.60</semimajoraxis>
+			<semimajoraxis>0.600</semimajoraxis>
 			<eccentricity>0.29</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>92</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>0.77</mass>
 		<radius />
 		<metallicity>-0.31</metallicity>
-		<distance>12.8</distance>
-		<temperature>804.5</temperature>
-		<rightascension>05 54 04</rightascension>
-		<declination>-60 01 24</declination>
+		<distance>12.995</distance>
+		<temperature>4977</temperature>
+		<rightascension>05 54 04.23991</rightascension>
+		<declination>-60 01 24.4977</declination>
 		<angulardistance />
 		<magV>7.17</magV>
 		<magI />
@@ -33,11 +33,11 @@
 		<magK />
 	</star>
 	<multiplicity>6</multiplicity>
-	<discoveryyear>2008</discoveryyear>
-	<lastupdate>12/11/08</lastupdate>
-	<description>The HD 40307 system hosts at least 5 planets. A signal of a sixth planet has also been reported but should be taken with a grain of salt as it might correlate with chromospheric emission from the star. If the signal is a genuine signal of planetary origin, then this super-Earth might be habitable as it could support liquid water on its surface.</description>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>17/11/27</lastupdate>
+	<description>The planet candidate HD 40307 g would be a sub-Neptune planet located in the habitable zone of the star. Follow-up analysis of the HARPS data for the system did not confirm this planet candidate. The spectral window function has peaks near this period, and there is also the possibility that it is an alias of the star's activity cycle.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 </planet>

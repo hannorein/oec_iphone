@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>CI Tau b</id_exoplaneteu>
+	<name>CI Tau b</name>
+	<id>CI Tau b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>12.31</mass>
+		<radius />
+		<orbit>
+			<period>8.9891</period>
+			<semimajoraxis />
+			<eccentricity>0.28</eccentricity>
+			<inclination>45.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K4IVe</spectraltype>
+		<mass>0.80</mass>
+		<radius />
+		<metallicity />
+		<distance />
+		<temperature />
+		<rightascension>04 33 52.005</rightascension>
+		<declination>+22 50 30.18</declination>
+		<angulardistance />
+		<magV>13.80</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/12/01</lastupdate>
+	<description>CI Tau b is a massive planet candidate orbiting a classical T Tauri star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

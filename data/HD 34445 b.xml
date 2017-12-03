@@ -4,14 +4,14 @@
 	<id>HD 34445 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.79</mass>
+		<mass>0.629</mass>
 		<radius />
 		<orbit>
-			<period>1049</period>
-			<semimajoraxis>2.07</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
+			<period>1056.7</period>
+			<semimajoraxis>2.075</semimajoraxis>
+			<eccentricity>0.014</eccentricity>
 			<inclination />
-			<periastron>104</periastron>
+			<periastron>115</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>1.07</mass>
 		<radius>1.38</radius>
 		<metallicity>0.14</metallicity>
-		<distance>46.5</distance>
+		<distance>45.37</distance>
 		<temperature>5836</temperature>
-		<rightascension>05 17 40.98051</rightascension>
-		<declination>+07 21 12.0508</declination>
+		<rightascension>05 17 40.9804</rightascension>
+		<declination>+07 21 12.053</declination>
 		<angulardistance />
 		<magV>7.33</magV>
 		<magI />
@@ -32,9 +32,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>6</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>16/03/09</lastupdate>
+	<lastupdate>17/10/28</lastupdate>
 	<description />
 	<new />
 	<image />

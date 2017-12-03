@@ -1,6 +1,9 @@
 <planet>
 	<id_exoplaneteu>Kepler-411 c</id_exoplaneteu>
 	<name>Kepler-411 c</name>
+	<name>KOI-1781.01</name>
+	<name>KOI-1781 c</name>
+	<name>KIC 11551692 c</name>
 	<id>Kepler-411 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
@@ -8,9 +11,9 @@
 		<radius>0.292</radius>
 		<orbit>
 			<period>7.834427880</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<semimajoraxis>0.073</semimajoraxis>
+			<eccentricity>0.00</eccentricity>
+			<inclination>89.03</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -23,8 +26,8 @@
 		<metallicity>0.05</metallicity>
 		<distance />
 		<temperature>4906.0</temperature>
-		<rightascension>19 10 25</rightascension>
-		<declination>+49 31 24</declination>
+		<rightascension>19 10 25.34</rightascension>
+		<declination>+49 31 23.7</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -32,9 +35,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>3</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/05/10</lastupdate>
+	<lastupdate>17/11/28</lastupdate>
 	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 	<new />
 	<image />

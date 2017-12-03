@@ -7,11 +7,11 @@
 		<mass>1.61</mass>
 		<radius />
 		<orbit>
-			<period>1173.0</period>
+			<period>1173</period>
 			<semimajoraxis>2.306</semimajoraxis>
 			<eccentricity>0.123</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>-6.8</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,12 +21,12 @@
 		<mass>1.19</mass>
 		<radius />
 		<metallicity>0.29</metallicity>
-		<distance />
-		<temperature>5620.0</temperature>
-		<rightascension>23 32 54</rightascension>
-		<declination>+63 09 20</declination>
+		<distance>55.55</distance>
+		<temperature>5620</temperature>
+		<rightascension>23 32 54.0465</rightascension>
+		<declination>+63 09 19.734</declination>
 		<angulardistance />
-		<magV />
+		<magV>7.44</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/04/29</lastupdate>
+	<lastupdate>17/11/27</lastupdate>
 	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />

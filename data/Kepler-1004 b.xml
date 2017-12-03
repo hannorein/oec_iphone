@@ -1,16 +1,18 @@
 <planet>
 	<id_exoplaneteu>Kepler-1004 b</id_exoplaneteu>
 	<name>Kepler-1004 b</name>
+	<name>KOI-1894.01</name>
+	<name>KOI-1894 b</name>
 	<id>Kepler-1004 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
+		<mass>0.18</mass>
 		<radius>0.560</radius>
 		<orbit>
 			<period>5.287897870</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<semimajoraxis>0.067</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>80.4</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -23,8 +25,8 @@
 		<metallicity>-0.04</metallicity>
 		<distance />
 		<temperature>4972.0</temperature>
-		<rightascension>19 49 26</rightascension>
-		<declination>+49 47 51</declination>
+		<rightascension>19 49 26.232</rightascension>
+		<declination>+49 47 51.18</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -33,9 +35,9 @@
 		<magK />
 	</star>
 	<multiplicity>1</multiplicity>
-	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/05/10</lastupdate>
-	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>17/11/28</lastupdate>
+	<description>The detection of KOI-1894.01 in radial velocity measurements is still marginal. This planet candidate thus remains unconfirmed. It was part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 	<new />
 	<image />
 	<imagedescription />

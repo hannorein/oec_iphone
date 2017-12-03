@@ -20,15 +20,15 @@
 	</properties>
 	<star>
 		<spectraltype>M7.5</spectraltype>
-		<mass>0.070</mass>
+		<mass />
 		<radius />
 		<metallicity />
 		<distance>12.7</distance>
-		<temperature>2620</temperature>
+		<temperature />
 		<rightascension>12 56 01.922</rightascension>
 		<declination>-12 57 23.990</declination>
 		<angulardistance />
-		<magV>17.759</magV>
+		<magV />
 		<magI />
 		<magH />
 		<magJ />
@@ -36,10 +36,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/07/23</lastupdate>
-	<description>VHS 1256-1257 b is a common-proper motion L-dwarf companion of a nearby red dwarf star. It is cooler than expected for a field L-dwarf, and its mass is close to the deuterium-burning limit.</description>
+	<lastupdate>17/11/30</lastupdate>
+	<description>VHS 1256-1257 b is a common-proper motion L-dwarf companion of a nearby red dwarf star. It is cooler than expected for a field L-dwarf, and its mass is close to the deuterium-burning limit. The primary was discovered to be a binary of near-equal mass brown dwarfs, there exists a discrepancy between the parallax distance and the spectrophotometric distance to the system.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, P-type</list>
 </planet>

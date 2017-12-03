@@ -4,14 +4,14 @@
 	<id>HD 42618 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.0453</mass>
+		<mass>0.04531</mass>
 		<radius />
 		<orbit>
 			<period>149.61</period>
 			<semimajoraxis>0.554</semimajoraxis>
 			<eccentricity>0.19</eccentricity>
 			<inclination />
-			<periastron>101.0</periastron>
+			<periastron>101</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>1.015</mass>
 		<radius>0.999</radius>
 		<metallicity>-0.09</metallicity>
-		<distance>23.5</distance>
-		<temperature>5727.0</temperature>
-		<rightascension>06 12 00.57</rightascension>
-		<declination>+06 46 59.1</declination>
+		<distance>24.36</distance>
+		<temperature>5727</temperature>
+		<rightascension>06 12 00.5669</rightascension>
+		<declination>+06 46 59.057</declination>
 		<angulardistance />
 		<magV>6.839</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/07/11</lastupdate>
+	<lastupdate>17/11/27</lastupdate>
 	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />

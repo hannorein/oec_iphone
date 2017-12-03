@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>KOI-72.X</id_exoplaneteu>
+	<name>KOI-72.X</name>
+	<id>KOI-72.X</id>
+	<discoverymethod>timing</discoverymethod>
+	<properties>
+		<mass>0.01856</mass>
+		<radius />
+		<orbit>
+			<period>102</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>0.91</mass>
+		<radius>1.065</radius>
+		<metallicity>-0.15</metallicity>
+		<distance>173</distance>
+		<temperature>5643</temperature>
+		<rightascension>19 02 43</rightascension>
+		<declination>+50 14 29</declination>
+		<angulardistance />
+		<magV>10.96</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/11/29</lastupdate>
+	<description>KOI-72.X is an unconfirmed third planet in the Kepler-10 system inferred from transit timing variations of Kepler-10c.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

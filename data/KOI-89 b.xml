@@ -1,13 +1,15 @@
 <planet>
-	<id_exoplaneteu>KOI-89.01</id_exoplaneteu>
+	<id_exoplaneteu>KOI-89 b</id_exoplaneteu>
+	<name>KOI-89 b</name>
+	<name>Kepler-462 b</name>
 	<name>KOI-89.01</name>
-	<id>KOI-89.01</id>
+	<id>KOI-89 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.45</radius>
+		<radius>0.336</radius>
 		<orbit>
-			<period>84.69</period>
+			<period>84.687980800</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination>89.340</inclination>
@@ -18,11 +20,11 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>1.965</mass>
-		<radius>2.3</radius>
-		<metallicity />
+		<mass>1.59</mass>
+		<radius>2.04</radius>
+		<metallicity>-0.06</metallicity>
 		<distance />
-		<temperature>7717</temperature>
+		<temperature>7070.0</temperature>
 		<rightascension>19 59 17.084</rightascension>
 		<declination>+43 48 51.43</declination>
 		<angulardistance />
@@ -34,7 +36,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>15/10/30</lastupdate>
+	<lastupdate>17/11/28</lastupdate>
 	<description>KOI-89.01 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32&#176; with respect to the stellar equator, while the derived true orbital obliquity is 72&#176;.</description>
 	<new />
 	<image />

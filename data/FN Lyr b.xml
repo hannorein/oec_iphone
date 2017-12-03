@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>FN Lyr b</id_exoplaneteu>
+	<name>FN Lyr b</name>
+	<id>FN Lyr b</id>
+	<discoverymethod>timing</discoverymethod>
+	<properties>
+		<mass>13.9</mass>
+		<radius />
+		<orbit>
+			<period>794.8</period>
+			<semimajoraxis>0.50</semimajoraxis>
+			<eccentricity>0.28</eccentricity>
+			<inclination />
+			<periastron>351</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.595</mass>
+		<radius />
+		<metallicity />
+		<distance>3000</distance>
+		<temperature>6457</temperature>
+		<rightascension>19 10 22.253</rightascension>
+		<declination>+42 27 31.63</declination>
+		<angulardistance />
+		<magV>12.731</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear />
+	<lastupdate />
+	<description>This planet was inferred from the timing of the pulsations of the RR Lyrae star FN Lyrae.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

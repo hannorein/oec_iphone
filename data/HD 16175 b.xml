@@ -4,29 +4,29 @@
 	<id>HD 16175 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>4.4</mass>
+		<mass>4.77</mass>
 		<radius />
 		<orbit>
-			<period>990</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<period>995.4</period>
+			<semimajoraxis>2.148</semimajoraxis>
+			<eccentricity>0.637</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>221.5</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G0</spectraltype>
-		<mass>1.35</mass>
+		<mass>1.34</mass>
 		<radius>1.87</radius>
-		<metallicity>0.23</metallicity>
-		<distance>59.8</distance>
-		<temperature>243.7</temperature>
-		<rightascension>02 37 02</rightascension>
-		<declination>+42 03 45</declination>
+		<metallicity>0.37</metallicity>
+		<distance>58.34</distance>
+		<temperature>6022</temperature>
+		<rightascension>02 37 01.9111</rightascension>
+		<declination>+42 03 45.468</declination>
 		<angulardistance />
-		<magV>7.28</magV>
+		<magV>7.291</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>09/04/21</lastupdate>
-	<description />
+	<lastupdate>17/11/27</lastupdate>
+	<description>HD 16175 b is an eccentric giant planet whose orbit crosses the habitable zone.</description>
 	<new />
 	<image />
 	<imagedescription />

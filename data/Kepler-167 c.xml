@@ -11,24 +11,24 @@
 		<mass />
 		<radius>0.12485</radius>
 		<orbit>
-			<period>7.406097</period>
-			<semimajoraxis />
-			<eccentricity />
-			<inclination />
+			<period>7.406114</period>
+			<semimajoraxis>0.0684</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>89.30</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.7130</mass>
-		<radius>0.696</radius>
-		<metallicity />
-		<distance>344.68</distance>
-		<temperature>4796</temperature>
-		<rightascension>19 30 38</rightascension>
-		<declination>+38 20 43</declination>
+		<spectraltype>K3-4</spectraltype>
+		<mass>0.770</mass>
+		<radius>0.726</radius>
+		<metallicity>-0.03</metallicity>
+		<distance>330</distance>
+		<temperature>4890</temperature>
+		<rightascension>19 30 38.024</rightascension>
+		<declination>+38 20 43.42</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -36,10 +36,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
+	<multiplicity>4</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
-	<description>Kepler-167 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-167 c are still unknown, the object is highly unlikely to be a false positive.</description>
+	<lastupdate>17/11/28</lastupdate>
+	<description>Kepler-167 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-167 c are still unknown, the object is highly unlikely to be a false positive. The probability that Kepler-167 c is a rocky planet is estimated to be 15.9%.</description>
 	<new />
 	<image />
 	<imagedescription />

@@ -3,28 +3,29 @@
 	<name>Rho Coronae Borealis b</name>
 	<name>rho CrB b</name>
 	<name>&#961; CrB b</name>
+	<name>HD 143761 b</name>
 	<id>Rho Coronae Borealis b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>169.7</mass>
+		<mass>1.0449</mass>
 		<radius />
 		<orbit>
-			<period>39.8449</period>
-			<semimajoraxis>0.24</semimajoraxis>
-			<eccentricity>0.057</eccentricity>
-			<inclination>0.4</inclination>
-			<periastron>303</periastron>
+			<period>39.8458</period>
+			<semimajoraxis>0.2196</semimajoraxis>
+			<eccentricity>0.0373</eccentricity>
+			<inclination />
+			<periastron>270.6</periastron>
 			<longitude />
-			<ascendingnode>266.4</ascendingnode>
+			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>1.00</mass>
-		<radius />
-		<metallicity />
+		<spectraltype>G0V</spectraltype>
+		<mass>0.889</mass>
+		<radius>1.3617</radius>
+		<metallicity>-0.31</metallicity>
 		<distance>17.24</distance>
-		<temperature>5823</temperature>
+		<temperature>5627</temperature>
 		<rightascension>16 01 02.662</rightascension>
 		<declination>+33 18 12.63</declination>
 		<angulardistance />
@@ -34,12 +35,12 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>1997</discoveryyear>
-	<lastupdate>15/04/20</lastupdate>
-	<description>The planet candidate orbiting Rho Coronae Borealis was one of the first exoplanet discoveries, with a radial velocity minimum mass of 1.093 Jupiter masses. Subsequent analysis of the Hipparcos astrometric data indicates that the companion is actually a low-mass star in a nearly face-on orbit.</description>
+	<lastupdate>17/11/27</lastupdate>
+	<description>The planet candidate orbiting Rho Coronae Borealis was one of the first exoplanet discoveries, with a radial velocity minimum mass of 1.093 Jupiter masses. Subsequent analysis of the Hipparcos astrometric data indicates that the companion is actually a low-mass star in a nearly face-on orbit, however this would make the system unstable.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Controversial</list>
+	<list>Confirmed planets</list>
 </planet>

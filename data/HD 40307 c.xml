@@ -4,15 +4,15 @@
 	<id>HD 40307 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.020761624</mass>
+		<mass>0.02023</mass>
 		<radius />
 		<orbit>
-			<period>9.6184</period>
-			<semimajoraxis>0.0799</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
+			<period>9.62070</period>
+			<semimajoraxis>0.0812</semimajoraxis>
+			<eccentricity />
 			<inclination />
 			<periastron />
-			<longitude />
+			<longitude>321.5</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
@@ -21,10 +21,10 @@
 		<mass>0.77</mass>
 		<radius />
 		<metallicity>-0.31</metallicity>
-		<distance>12.8</distance>
-		<temperature>804.5</temperature>
-		<rightascension>05 54 04</rightascension>
-		<declination>-60 01 24</declination>
+		<distance>12.995</distance>
+		<temperature>4977</temperature>
+		<rightascension>05 54 04.23991</rightascension>
+		<declination>-60 01 24.4977</declination>
 		<angulardistance />
 		<magV>7.17</magV>
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>6</multiplicity>
 	<discoveryyear>2008</discoveryyear>
-	<lastupdate>12/11/08</lastupdate>
-	<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
+	<lastupdate>17/11/27</lastupdate>
+	<description>The HD 40307 system hosts four confirmed planets. The first three planets were discovered in 2008, planet f was discovered in 2012.</description>
 	<new />
 	<image />
 	<imagedescription />

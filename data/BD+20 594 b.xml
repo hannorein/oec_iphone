@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>BD+20 594 b</id_exoplaneteu>
+	<name>BD+20 594 b</name>
+	<name>K2-56 b</name>
+	<id>BD+20 594 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.05129</mass>
+		<radius>0.1989</radius>
+		<orbit>
+			<period>41.6855</period>
+			<semimajoraxis>0.241</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>89.55</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>0.961</mass>
+		<radius>0.928</radius>
+		<metallicity>-0.15</metallicity>
+		<distance>173.0</distance>
+		<temperature>5766</temperature>
+		<rightascension>03 34 36.2296</rightascension>
+		<declination>+20 35 57.268</declination>
+		<angulardistance />
+		<magV>11.038</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/11/30</lastupdate>
+	<description>K2-56 b is a Neptune-sized planet with a density compatible with a mainly-rocky composition.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

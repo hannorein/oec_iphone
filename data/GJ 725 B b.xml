@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>GJ 725 B b</id_exoplaneteu>
+	<name>GJ 725 B b</name>
+	<id>GJ 725 B b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.00378</mass>
+		<radius />
+		<orbit>
+			<period>2.7</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3V</spectraltype>
+		<mass>0.334</mass>
+		<radius>0.351</radius>
+		<metallicity>-0.23</metallicity>
+		<distance>3.520</distance>
+		<temperature>3441</temperature>
+		<rightascension>18 42 46.69</rightascension>
+		<declination>+59 37 49.4</declination>
+		<angulardistance />
+		<magV>8.91</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/12/01</lastupdate>
+	<description>A possible planet candidate around GJ 725 B was identified by Berdi&#241;as et al. (2016). Further observations are necessary to verify that the RV variations are periodic.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

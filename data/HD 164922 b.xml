@@ -4,38 +4,38 @@
 	<id>HD 164922 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.36</mass>
+		<mass>0.33855</mass>
 		<radius />
 		<orbit>
-			<period>1155</period>
-			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<period>1201.1</period>
+			<semimajoraxis>2.115</semimajoraxis>
+			<eccentricity>0.126</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>129</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K0V</spectraltype>
-		<mass>0.94</mass>
-		<radius>0.9</radius>
-		<metallicity>0.17</metallicity>
-		<distance>21.93</distance>
-		<temperature>155.0</temperature>
-		<rightascension>18 02 30</rightascension>
-		<declination>+26 18 46</declination>
+		<spectraltype>G9V</spectraltype>
+		<mass>0.874</mass>
+		<radius>0.999</radius>
+		<metallicity>0.16</metallicity>
+		<distance>22.04</distance>
+		<temperature>5293</temperature>
+		<rightascension>18 02 30.8624</rightascension>
+		<declination>+26 18 46.805</declination>
 		<angulardistance />
-		<magV>7.01</magV>
+		<magV>6.99</magV>
 		<magI />
 		<magH />
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>2006</discoveryyear>
-	<lastupdate>06/07/15</lastupdate>
-	<description />
+	<lastupdate>17/11/27</lastupdate>
+	<description>HD 164922 b is a Saturn-mass planet orbiting a late G-type star.</description>
 	<new />
 	<image />
 	<imagedescription />

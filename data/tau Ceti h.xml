@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>tau Ceti h</id_exoplaneteu>
+	<name>tau Ceti h</name>
+	<name>HD 10700 h</name>
+	<id>tau Ceti h</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.00576</mass>
+		<radius />
+		<orbit>
+			<period>49.41</period>
+			<semimajoraxis>0.243</semimajoraxis>
+			<eccentricity>0.23</eccentricity>
+			<inclination />
+			<periastron>7.4</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G8.5 V</spectraltype>
+		<mass>0.783</mass>
+		<radius>0.793</radius>
+		<metallicity>-0.55</metallicity>
+		<distance>3.6502</distance>
+		<temperature>5344</temperature>
+		<rightascension>01 44 04.08338</rightascension>
+		<declination>-15 56 14.9262</declination>
+		<angulardistance />
+		<magV>3.50</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>7</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/11/28</lastupdate>
+	<description>Analysis of the Tau Ceti RV data taking into account wavelength-dependent noise indicated a four planet system around the star. Two of the previously-detected planets (e and f) were confirmed, while two new planets were found, designated g and h to avoid confusion with the previous candidates.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

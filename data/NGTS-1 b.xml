@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>NGTS-1 b</id_exoplaneteu>
+	<name>NGTS-1 b</name>
+	<name>2MASS J05305145-3637508 b</name>
+	<id>NGTS-1 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.812</mass>
+		<radius>1.33</radius>
+		<orbit>
+			<period>2.647298</period>
+			<semimajoraxis>0.0326</semimajoraxis>
+			<eccentricity>0.016</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.617</mass>
+		<radius>0.573</radius>
+		<metallicity />
+		<distance>224</distance>
+		<temperature>3916</temperature>
+		<rightascension>05 30 51.45</rightascension>
+		<declination>-36 37 50.83</declination>
+		<angulardistance />
+		<magV>15.524</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/10/30</lastupdate>
+	<description>This Hot Jupiter transiting an early M-dwarf was the first discovery of Next Generation Transit Survey (NGTS).</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>
