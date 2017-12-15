@@ -1,4 +1,4 @@
-<planets date="2017-12-02" name="data" planets="3615">
+<planets date="2017-12-15" name="data" planets="3647">
 	<planet>
 		<id_exoplaneteu>CoRoT-5 b</id_exoplaneteu>
 		<name>CoRoT-5 b</name>
@@ -43,22 +43,27 @@
 		<id>Kepler-80 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.24241</radius>
+			<mass>0.02180</mass>
+			<radius>0.2372</radius>
 			<orbit>
-				<period>7.053458</period>
+				<period>7.05246</period>
+				<semimajoraxis>0.0648</semimajoraxis>
+				<inclination>89.34</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.7220</mass>
-			<radius>0.637</radius>
-			<distance>418.17</distance>
-			<temperature>4613</temperature>
-			<rightascension>19 44 27</rightascension>
-			<declination>+39 58 43</declination>
+			<spectraltype>K5</spectraltype>
+			<mass>0.730</mass>
+			<radius>0.678</radius>
+			<metallicity>0.04</metallicity>
+			<distance>357</distance>
+			<temperature>4540</temperature>
+			<rightascension>19 44 27.016</rightascension>
+			<declination>+39 58 43.62</declination>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>Kepler-80 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -181,15 +186,15 @@
 			<mass>1.121</mass>
 			<radius>1.117</radius>
 			<metallicity>0.302</metallicity>
-			<distance>55.1</distance>
+			<distance>54.02</distance>
 			<temperature>5936</temperature>
-			<rightascension>19 28 24.6</rightascension>
-			<declination>+08 21 28.9</declination>
+			<rightascension>19 28 24.5718</rightascension>
+			<declination>+08 21 29.003</declination>
 			<magV>7.86</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 183263 b is a giant planet in an elliptical orbit.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -199,24 +204,25 @@
 		<id>LkCa 15 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>6</mass>
+			<mass>0.5</mass>
 			<orbit>
-				<period>40000</period>
+				<semimajoraxis>14.7</semimajoraxis>
+				<inclination>50</inclination>
+				<ascendingnode>150</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K5V</spectraltype>
+			<spectraltype>K5:Ve</spectraltype>
 			<mass>0.97</mass>
 			<distance>145</distance>
-			<temperature>5150.0</temperature>
-			<rightascension>04 39 18</rightascension>
-			<declination>+22 21 03</declination>
-			<magV>11.91</magV>
+			<temperature>4350</temperature>
+			<rightascension>04 39 17.796</rightascension>
+			<declination>+22 21 03.48</declination>
+			<magV>12.03</magV>
 		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/10/19</lastupdate>
-		<description>The young (2 Myr) solar analog LkCa 15 shows evidence for a (proto)planet surrounded by dusty material. The object is located in a known gap in the transitional disk. More planets might be present in this system.</description>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -642,26 +648,27 @@
 		<id>HD 37605 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.379</mass>
+			<mass>3.37</mass>
 			<orbit>
-				<period>2720</period>
-				<semimajoraxis>3.821</semimajoraxis>
-				<eccentricity>0.013</eccentricity>
+				<period>2455</period>
+				<semimajoraxis>3.56</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>136</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.8</mass>
+			<mass>1.00</mass>
 			<metallicity>0.39</metallicity>
-			<distance>42.9</distance>
-			<temperature>413.9</temperature>
-			<rightascension>05 40 01</rightascension>
-			<declination>+06 03 38</declination>
+			<distance>46.34</distance>
+			<temperature>5448.0</temperature>
+			<rightascension>05 40 01.7282</rightascension>
+			<declination>+06 03 38.073</declination>
 			<magV>8.69</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/01/19</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The planetary system HD 37605 hosts at least two planets. The inner planet is on a 55 day orbit with a very high eccentricity of 0.6767. This planet was discovered in 2004. In 2012, another planet on a 2720 day orbit was anounced. In contrast to the inner planet, HD 37605 c is on an almost circular orbit. This leads to interesting speculations on the origin of the planetary system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -787,27 +794,28 @@ Image credit: NASA Ames/JPL-Caltech/T. Pyle</imagedescription>
 		<id>HD 117207 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.06</mass>
+			<mass>1.90</mass>
 			<orbit>
-				<period>2627.08</period>
-				<semimajoraxis>3.78</semimajoraxis>
-				<eccentricity>0.16</eccentricity>
+				<period>2628</period>
+				<semimajoraxis>3.77</semimajoraxis>
+				<eccentricity>0.150</eccentricity>
+				<periastron>85</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G8VI/V</spectraltype>
-			<mass>1.07</mass>
+			<spectraltype>G7IV-V</spectraltype>
+			<mass>1.031</mass>
 			<radius>1.09</radius>
 			<metallicity>0.27</metallicity>
-			<distance>33</distance>
-			<temperature>128.4</temperature>
-			<rightascension>13 29 21</rightascension>
-			<declination>-35 34 15</declination>
-			<magV>7.26</magV>
+			<distance>33.05</distance>
+			<temperature>5432</temperature>
+			<rightascension>13 29 21.11390</rightascension>
+			<declination>-35 34 15.5929</declination>
+			<magV>7.25</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>10/12/31</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -1075,6 +1083,36 @@ Image credit: NASA Ames/JPL-Caltech/T. Pyle</imagedescription>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2008</discoveryyear>
 		<lastupdate>12/01/31</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>BD+15 2375 b</id_exoplaneteu>
+		<name>BD+15 2375 b</name>
+		<id>BD+15 2375 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.061</mass>
+			<orbit>
+				<period>153.22</period>
+				<semimajoraxis>0.576</semimajoraxis>
+				<eccentricity>0.001</eccentricity>
+				<periastron>55</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.08</mass>
+			<radius>8.95</radius>
+			<metallicity>-0.22</metallicity>
+			<distance>610</distance>
+			<temperature>4649</temperature>
+			<rightascension>11 45 55.7138</rightascension>
+			<declination>+14 36 58.938</declination>
+			<magV>10.31</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>BD+15 2375 b is a giant planet orbiting a red giant star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -4951,6 +4989,36 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 12484 b</id_exoplaneteu>
+		<name>HD 12484 b</name>
+		<id>HD 12484 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.98</mass>
+			<orbit>
+				<period>58.83</period>
+				<semimajoraxis>0.297</semimajoraxis>
+				<eccentricity>0.07</eccentricity>
+				<periastron>-35</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.01</mass>
+			<metallicity>0.05</metallicity>
+			<distance>48.7</distance>
+			<temperature>5920</temperature>
+			<rightascension>02 02 26.7304</rightascension>
+			<declination>+02 48 57.074</declination>
+			<magV>8.17</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HD 12484 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-433 b</id_exoplaneteu>
 		<name>Kepler-433 b</name>
 		<id>Kepler-433 b</id>
@@ -5941,26 +6009,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>HD 37605 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.813</mass>
+			<mass>2.802</mass>
 			<orbit>
 				<period>55.01307</period>
-				<semimajoraxis>0.2837</semimajoraxis>
+				<semimajoraxis>0.2831</semimajoraxis>
 				<eccentricity>0.6767</eccentricity>
+				<periastron>220.86</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0V</spectraltype>
-			<mass>0.8</mass>
+			<mass>1.00</mass>
 			<metallicity>0.39</metallicity>
-			<distance>42.9</distance>
-			<temperature>413.9</temperature>
-			<rightascension>05 40 01</rightascension>
-			<declination>+06 03 38</declination>
+			<distance>46.34</distance>
+			<temperature>5448.0</temperature>
+			<rightascension>05 40 01.7282</rightascension>
+			<declination>+06 03 38.073</declination>
 			<magV>8.69</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>12/01/19</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The planetary system HD 37605 hosts at least two planets. The inner planet is on a 55 day orbit with a very high eccentricity of 0.6767. This planet was discovered in 2004. In 2012, another planet on a 2720 day orbit was announced. In contrast to the inner planet, HD 37605 c is on an almost circular orbit. This leads to interesting speculations on the origin of the planetary system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -6029,24 +6098,25 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>Gliese 504 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>4</mass>
+			<radius>0.96</radius>
 			<orbit>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G0V</spectraltype>
-			<mass>1.22</mass>
-			<metallicity>0.28</metallicity>
+			<mass>1.16</mass>
+			<radius>1.36</radius>
+			<metallicity>0.13</metallicity>
 			<distance>17.56</distance>
-			<temperature>6234</temperature>
-			<rightascension>13 16 47</rightascension>
-			<declination>+09 25 27</declination>
+			<temperature>5978</temperature>
+			<rightascension>13 16 46.51596</rightascension>
+			<declination>+09 25 26.9590</declination>
 			<magV>5.22</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/07/22</lastupdate>
-		<description>Gliese 504 b is the first directly imaged planet on a wide orbit around a G-type main-sequence star with a mass similar to that of our Sun. The planet is a gas giant, about 4 times more massive than Jupiter. It was discovered by the SEEDS survey.</description>
+		<lastupdate>17/12/04</lastupdate>
+		<description>Gliese 504 b is a massive planet or brown dwarf orbiting a G-type star. Initial estimates of the system's age based on the rotation of the star suggested the object was around 4 Jupiter masses. Other properties of the star indicate that it is likely several billions of years old, resulting in higher mass estimates for the companion. The rapid rotation may have been caused by the star engulfing a hot Jupiter.</description>
 		<image>Gliese504</image>
 		<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
 			
@@ -6370,17 +6440,45 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>LkCa 15 c</id_exoplaneteu>
+		<name>LkCa 15 c</name>
+		<id>LkCa 15 c</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>0.5</mass>
+			<orbit>
+				<semimajoraxis>18.6</semimajoraxis>
+				<inclination>50</inclination>
+				<ascendingnode>150</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5:Ve</spectraltype>
+			<mass>0.97</mass>
+			<distance>145</distance>
+			<temperature>4350</temperature>
+			<rightascension>04 39 17.796</rightascension>
+			<declination>+22 21 03.48</declination>
+			<magV>12.03</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
+		<description>The young (2 Myr) solar analog LkCa 15 shows evidence for a (proto)planet surrounded by dusty material. The object is located in a known gap in the transitional disk. More planets might be present in this system.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 183263 c</id_exoplaneteu>
 		<name>HD 183263 c</name>
 		<id>HD 183263 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>6.90</mass>
+			<mass>9.0</mass>
 			<orbit>
-				<period>4684</period>
-				<semimajoraxis>5.69</semimajoraxis>
-				<eccentricity>0.051</eccentricity>
-				<periastron>299</periastron>
+				<period>5048</period>
+				<semimajoraxis>5.98</semimajoraxis>
+				<eccentricity>0.073</eccentricity>
+				<periastron>284.9</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -6388,15 +6486,15 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<mass>1.121</mass>
 			<radius>1.117</radius>
 			<metallicity>0.302</metallicity>
-			<distance>55.1</distance>
+			<distance>54.02</distance>
 			<temperature>5936</temperature>
-			<rightascension>19 28 24.6</rightascension>
-			<declination>+08 21 28.9</declination>
+			<rightascension>19 28 24.5718</rightascension>
+			<declination>+08 21 29.003</declination>
 			<magV>7.86</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 183263 c is a massive Jupiter-analogue in a system containing an inner giant planet in an eccentric orbit.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -6443,22 +6541,27 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>Kepler-80 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.25972</radius>
+			<mass>0.02121</mass>
+			<radius>0.2444</radius>
 			<orbit>
-				<period>9.521772</period>
+				<period>9.52355</period>
+				<semimajoraxis>0.0792</semimajoraxis>
+				<inclination>89.33</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.7220</mass>
-			<radius>0.637</radius>
-			<distance>418.17</distance>
-			<temperature>4613</temperature>
-			<rightascension>19 44 27</rightascension>
-			<declination>+39 58 43</declination>
+			<spectraltype>K5</spectraltype>
+			<mass>0.730</mass>
+			<radius>0.678</radius>
+			<metallicity>0.04</metallicity>
+			<distance>357</distance>
+			<temperature>4540</temperature>
+			<rightascension>19 44 27.016</rightascension>
+			<declination>+39 58 43.62</declination>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>Kepler-80 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -6522,12 +6625,12 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>HD 66428 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.194</mass>
+			<mass>3.09</mass>
 			<orbit>
-				<period>2293</period>
-				<semimajoraxis>3.471</semimajoraxis>
-				<eccentricity>0.440</eccentricity>
-				<periastron>180.4</periastron>
+				<period>2280.4</period>
+				<semimajoraxis>3.46</semimajoraxis>
+				<eccentricity>0.448</eccentricity>
+				<periastron>179.7</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -6535,15 +6638,15 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 			<mass>1.061</mass>
 			<radius>0.980</radius>
 			<metallicity>0.310</metallicity>
-			<distance>54.9</distance>
+			<distance>53.4</distance>
 			<temperature>5752</temperature>
-			<rightascension>08 03 28.7</rightascension>
-			<declination>-01 09 45.7</declination>
+			<rightascension>08 03 28.6672</rightascension>
+			<declination>-01 09 45.750</declination>
 			<magV>8.26</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 66428 b is a long-period giant planaet in an eccentric orbit. The radial velocities for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -7197,27 +7300,29 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>TRAPPIST-1 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.004341</mass>
-			<radius>0.096234</radius>
+			<mass>0.0051</mass>
+			<radius>0.0942</radius>
 			<orbit>
-				<period>2.4218233</period>
-				<semimajoraxis>0.01521</semimajoraxis>
+				<period>2.421818</period>
+				<semimajoraxis>0.01522</semimajoraxis>
+				<eccentricity>0.014</eccentricity>
 				<inclination>89.67</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -7450,6 +7555,35 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Ross 128 b</id_exoplaneteu>
+		<name>Ross 128 b</name>
+		<id>Ross 128 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.004405</mass>
+			<orbit>
+				<period>9.8658</period>
+				<semimajoraxis>0.0496</semimajoraxis>
+				<eccentricity>0.116</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M4V</spectraltype>
+			<mass>0.168</mass>
+			<radius>0.1967</radius>
+			<distance>3.3807</distance>
+			<temperature>3192</temperature>
+			<rightascension>11 47 44.3974</rightascension>
+			<declination>+00 48 16.395</declination>
+			<magV>11.153</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>Ross 128 b is a planet with a similar mass to the Earth located near the temperate zone of a nearby red dwarf star. It may be a candidate for being a habitable planet.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -8493,6 +8627,32 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>2MASS J21265040-8140293</id_exoplaneteu>
+		<name>2MASS J21265040-8140293</name>
+		<name>2MASS J2126-8140</name>
+		<name>TYC 9486-927-1 b</name>
+		<id>2MASS J21265040-8140293</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.0</spectraltype>
+			<mass>0.4</mass>
+			<distance>26.7</distance>
+			<temperature>1800</temperature>
+			<rightascension>21 25 27.4899</rightascension>
+			<declination>-81 38 27.673</declination>
+			<magV>11.821</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>2MASS J2126-8140 is a widely-separated common proper motion companion to the M-dwarf TYC 9486-927-1. The possible mass range spans the threshold for deuterium fusion.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-42 c</id_exoplaneteu>
 		<name>Kepler-42 c</name>
 		<name>KOI-961 c</name>
@@ -9190,6 +9350,37 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 114783 c</id_exoplaneteu>
+		<name>HD 114783 c</name>
+		<id>HD 114783 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.611</mass>
+			<orbit>
+				<period>4319</period>
+				<semimajoraxis>4.92</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>6.5</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.853</mass>
+			<radius>0.78</radius>
+			<metallicity>0.33</metallicity>
+			<distance>20.50</distance>
+			<temperature>5105.0</temperature>
+			<rightascension>13 12 43.78556</rightascension>
+			<declination>-02 15 54.1335</declination>
+			<magV>7.57</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 114783 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>EPIC 201505350 c</id_exoplaneteu>
 		<name>EPIC 201505350 c</name>
 		<name>EPIC 201505350.01</name>
@@ -9877,28 +10068,29 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id>WASP-103 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>1.47</mass>
-			<radius>1.603</radius>
+			<mass>1.490</mass>
+			<radius>1.528</radius>
 			<orbit>
 				<period>0.925542</period>
-				<semimajoraxis>0.01978</semimajoraxis>
+				<semimajoraxis>0.01985</semimajoraxis>
+				<eccentricity>0</eccentricity>
 				<inclination>86.3</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F8V</spectraltype>
-			<mass>1.204</mass>
-			<radius>1.419</radius>
+			<mass>1.220</mass>
+			<radius>1.436</radius>
 			<metallicity>0.06</metallicity>
 			<distance>470</distance>
 			<temperature>6110</temperature>
-			<rightascension>16 37 15</rightascension>
-			<declination>+07 11 00</declination>
+			<rightascension>16 37 15.568</rightascension>
+			<declination>+07 11 00.07</declination>
 			<magV>12.1</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/11/11</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -10411,28 +10603,29 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id>HD 114783 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1</mass>
+			<mass>1.10</mass>
 			<orbit>
-				<period>501</period>
-				<semimajoraxis>1.2</semimajoraxis>
-				<eccentricity>0.1</eccentricity>
+				<period>493.7</period>
+				<semimajoraxis>1.160</semimajoraxis>
+				<eccentricity>0.144</eccentricity>
 				<inclination>10</inclination>
+				<periastron>86</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0</spectraltype>
-			<mass>0.92</mass>
+			<mass>0.853</mass>
 			<radius>0.78</radius>
 			<metallicity>0.33</metallicity>
-			<distance>20.4</distance>
-			<temperature>181.4</temperature>
-			<rightascension>13 12 43</rightascension>
-			<declination>-02 15 54</declination>
+			<distance>20.50</distance>
+			<temperature>5105.0</temperature>
+			<rightascension>13 12 43.78556</rightascension>
+			<declination>-02 15 54.1335</declination>
 			<magV>7.57</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2001</discoveryyear>
-		<lastupdate>11/01/11</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -12435,27 +12628,29 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>TRAPPIST-1 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.002674</mass>
-			<radius>0.098967</radius>
+			<mass>0.00249</mass>
+			<radius>0.0969</radius>
 			<orbit>
-				<period>1.51087081</period>
+				<period>1.5108739</period>
 				<semimajoraxis>0.01111</semimajoraxis>
+				<eccentricity>0.019</eccentricity>
 				<inclination>89.65</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -13353,6 +13548,33 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>LkCa 15 d</id_exoplaneteu>
+		<name>LkCa 15 d</name>
+		<id>LkCa 15 d</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>0.5</mass>
+			<orbit>
+				<semimajoraxis>24.7</semimajoraxis>
+				<inclination>50</inclination>
+				<ascendingnode>150</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5:Ve</spectraltype>
+			<mass>0.97</mass>
+			<distance>145</distance>
+			<temperature>4350</temperature>
+			<rightascension>04 39 17.796</rightascension>
+			<declination>+22 21 03.48</declination>
+			<magV>12.03</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-469 b</id_exoplaneteu>
 		<name>Kepler-469 b</name>
 		<id>Kepler-469 b</id>
@@ -13491,22 +13713,27 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>Kepler-80 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.15857</radius>
+			<mass>0.02124</mass>
+			<radius>0.1365</radius>
 			<orbit>
-				<period>3.072186</period>
+				<period>3.07222</period>
+				<semimajoraxis>0.0372</semimajoraxis>
+				<inclination>88.35</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.7220</mass>
-			<radius>0.637</radius>
-			<distance>418.17</distance>
-			<temperature>4613</temperature>
-			<rightascension>19 44 27</rightascension>
-			<declination>+39 58 43</declination>
+			<spectraltype>K5</spectraltype>
+			<mass>0.730</mass>
+			<radius>0.678</radius>
+			<metallicity>0.04</metallicity>
+			<distance>357</distance>
+			<temperature>4540</temperature>
+			<rightascension>19 44 27.016</rightascension>
+			<declination>+39 58 43.62</declination>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>Kepler-80 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 d are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -13773,27 +14000,29 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>TRAPPIST-1 f</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.002139</mass>
-			<radius>0.095231</radius>
+			<mass>0.00113</mass>
+			<radius>0.0932</radius>
 			<orbit>
-				<period>9.206690</period>
+				<period>9.20648</period>
 				<semimajoraxis>0.0371</semimajoraxis>
+				<eccentricity>0.011</eccentricity>
 				<inclination>89.680</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -15210,16 +15439,17 @@ Credit: Jonah Gallagher.</imagedescription>
 		<star>
 			<spectraltype>A1V</spectraltype>
 			<mass>1.82</mass>
+			<distance>98.0</distance>
 			<temperature>9300</temperature>
 			<rightascension>14 54 25.30919</rightascension>
 			<declination>-34 08 34.0412</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/07/06</lastupdate>
-		<description>The semi-major axis of this planet is closer relative to that of its hierarchical triple star system than for any known exoplanet within a stellar binary or triple, making HD 131399 dynamically unlike any other known system.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
+		<lastupdate>17/12/09</lastupdate>
+		<description>The semi-major axis of this planet is closer relative to that of the outer binary of the hierarchical star system than for any known exoplanet within a stellar multiple, making HD 131399 dynamically unlike any other known system. Subsequent analysis by Nielsen et al. (2017) indicates that this object is a background star.</description>
+		<list>Controversial</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 45364 b</id_exoplaneteu>
@@ -16772,6 +17002,37 @@ Credit: Jonah Gallagher.</imagedescription>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>12/04/03</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>LHS 1140 b</id_exoplaneteu>
+		<name>LHS 1140 b</name>
+		<id>LHS 1140 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.02092</mass>
+			<radius>0.1276</radius>
+			<orbit>
+				<period>24.73712</period>
+				<semimajoraxis>0.0875</semimajoraxis>
+				<inclination>89.912</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M4.5</spectraltype>
+			<mass>0.146</mass>
+			<radius>0.186</radius>
+			<metallicity>-0.24</metallicity>
+			<distance>12.47</distance>
+			<temperature>3131</temperature>
+			<rightascension>00 44 59.31</rightascension>
+			<declination>-15 16 16.7</declination>
+			<magV>14.150</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>LHS 1140 b is a rocky super-Earth located in the potential liquid water zone of its star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -19743,27 +20004,29 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>TRAPPIST-1 g</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.004215</mass>
-			<radius>0.102704</radius>
+			<mass>0.00178</mass>
+			<radius>0.1005</radius>
 			<orbit>
-				<period>12.35294</period>
+				<period>12.35281</period>
 				<semimajoraxis>0.0451</semimajoraxis>
+				<eccentricity>0.003</eccentricity>
 				<inclination>89.710</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -19940,22 +20203,27 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>Kepler-80 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
+			<mass>0.01299</mass>
 			<radius>0.14945</radius>
 			<orbit>
-				<period>4.645387</period>
+				<period>4.64489</period>
+				<semimajoraxis>0.0491</semimajoraxis>
+				<inclination>88.79</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.7220</mass>
-			<radius>0.637</radius>
-			<distance>418.17</distance>
-			<temperature>4613</temperature>
-			<rightascension>19 44 27</rightascension>
-			<declination>+39 58 43</declination>
+			<spectraltype>K5</spectraltype>
+			<mass>0.730</mass>
+			<radius>0.678</radius>
+			<metallicity>0.04</metallicity>
+			<distance>357</distance>
+			<temperature>4540</temperature>
+			<rightascension>19 44 27.016</rightascension>
+			<declination>+39 58 43.62</declination>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/02/26</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>Kepler-80 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 e are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -19998,27 +20266,28 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>HD 50499 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.71</mass>
+			<mass>1.36</mass>
 			<orbit>
-				<period>2482.7</period>
-				<semimajoraxis>3.86</semimajoraxis>
-				<eccentricity>0.23</eccentricity>
+				<period>2453</period>
+				<semimajoraxis>3.87</semimajoraxis>
+				<eccentricity>0.334</eccentricity>
+				<periastron>241</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G IV</spectraltype>
-			<mass>1.27</mass>
+			<spectraltype>G0/2V</spectraltype>
+			<mass>1.280</mass>
 			<radius>1.38</radius>
 			<metallicity>0.23</metallicity>
-			<distance>47.26</distance>
-			<temperature>155.1</temperature>
-			<rightascension>06 52 02</rightascension>
-			<declination>-33 54 56</declination>
+			<distance>46.02</distance>
+			<temperature>5902</temperature>
+			<rightascension>06 52 02.0242</rightascension>
+			<declination>-33 54 56.019</declination>
 			<magV>7.22</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>10/12/29</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -20515,6 +20784,36 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>Kepler-80 g</id_exoplaneteu>
+		<name>Kepler-80 g</name>
+		<name>KOI-500 g</name>
+		<name>KIC 4852528 g</name>
+		<id>Kepler-80 g</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.1008</radius>
+			<orbit>
+				<period>14.64558</period>
+				<inclination>89.35</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5</spectraltype>
+			<mass>0.730</mass>
+			<radius>0.678</radius>
+			<metallicity>0.04</metallicity>
+			<distance>357</distance>
+			<temperature>4540</temperature>
+			<rightascension>19 44 27.016</rightascension>
+			<declination>+39 58 43.62</declination>
+		</star>
+		<multiplicity>6</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
+		<description>The planet Kepler-80 g was identified using machine learning. The Kepler-80 system contains a five-planet resonant chain.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>GJ 229 b</id_exoplaneteu>
 		<name>GJ 229 b</name>
 		<name>GJ 229 A b</name>
@@ -20790,27 +21089,29 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>TRAPPIST-1 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.001950</mass>
-			<radius>0.083658</radius>
+			<mass>0.0008</mass>
+			<radius>0.0819</radius>
 			<orbit>
-				<period>6.099615</period>
-				<semimajoraxis>0.02817</semimajoraxis>
+				<period>6.099570</period>
+				<semimajoraxis>0.02818</semimajoraxis>
+				<eccentricity>0.007</eccentricity>
 				<inclination>89.86</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -21773,12 +22074,12 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>HD 74156 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>7.997</mass>
+			<mass>7.77</mass>
 			<orbit>
-				<period>2448.9</period>
-				<semimajoraxis>3.820</semimajoraxis>
-				<eccentricity>0.3829</eccentricity>
-				<periastron>268.9</periastron>
+				<period>2460</period>
+				<semimajoraxis>3.83</semimajoraxis>
+				<eccentricity>0.370</eccentricity>
+				<periastron>267.1</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -21788,13 +22089,13 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<metallicity>0.131</metallicity>
 			<distance>64.4</distance>
 			<temperature>6068</temperature>
-			<rightascension>08 42 25.1</rightascension>
-			<declination>+04 34 41.1</declination>
+			<rightascension>08 42 25.12216</rightascension>
+			<declination>+04 34 41.1473</declination>
 			<magV>7.61</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 74156 c is a long-period giant planet in an eccentric orbit. It is the outer member of a hierarchical system of two planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -23021,27 +23322,28 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>HD 169830 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.94</mass>
+			<mass>2.88</mass>
 			<orbit>
-				<period>229.9</period>
-				<semimajoraxis>0.82</semimajoraxis>
-				<eccentricity>0.35</eccentricity>
+				<period>225.62</period>
+				<semimajoraxis>0.81</semimajoraxis>
+				<eccentricity>0.31</eccentricity>
+				<periastron>148</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F8 V</spectraltype>
-			<mass>1.4</mass>
+			<mass>1.410</mass>
 			<radius>1.84</radius>
 			<metallicity>0.21</metallicity>
-			<distance>36.32</distance>
+			<distance>36.60</distance>
 			<temperature>6300</temperature>
-			<rightascension>18 27 49</rightascension>
-			<declination>-29 49 00</declination>
-			<magV>5.9</magV>
+			<rightascension>18 27 49.48353</rightascension>
+			<declination>-29 49 00.7073</declination>
+			<magV>5.902</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2000</discoveryyear>
-		<lastupdate>14/06/24</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -25079,27 +25381,28 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<id>HD 169830 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>4.04</mass>
+			<mass>3.54</mass>
 			<orbit>
-				<period>2102</period>
-				<semimajoraxis>3.6</semimajoraxis>
-				<eccentricity>0.33</eccentricity>
+				<period>1834.3</period>
+				<semimajoraxis>3.29</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>95.7</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F8 V</spectraltype>
-			<mass>1.4</mass>
+			<mass>1.410</mass>
 			<radius>1.84</radius>
 			<metallicity>0.21</metallicity>
-			<distance>36.32</distance>
+			<distance>36.60</distance>
 			<temperature>6300</temperature>
-			<rightascension>18 27 49</rightascension>
-			<declination>-29 49 00</declination>
-			<magV>5.9</magV>
+			<rightascension>18 27 49.48353</rightascension>
+			<declination>-29 49 00.7073</declination>
+			<magV>5.902</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>10/12/23</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -26392,13 +26695,13 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<metallicity>0.131</metallicity>
 			<distance>64.4</distance>
 			<temperature>6068</temperature>
-			<rightascension>08 42 25.1</rightascension>
-			<declination>+04 34 41.1</declination>
+			<rightascension>08 42 25.12216</rightascension>
+			<declination>+04 34 41.1473</declination>
 			<magV>7.61</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2003</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 74156 b is a giant planet in a highly eccentric orbit. It is the inner member of a hierarchical system of two planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -26929,27 +27232,29 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>TRAPPIST-1 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.001290</mass>
-			<radius>0.070353</radius>
+			<mass>0.00104</mass>
+			<radius>0.0689</radius>
 			<orbit>
-				<period>4.049610</period>
-				<semimajoraxis>0.02144</semimajoraxis>
+				<period>4.04982</period>
+				<semimajoraxis>0.02145</semimajoraxis>
+				<eccentricity>0.003</eccentricity>
 				<inclination>89.75</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -27089,25 +27394,33 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 	<planet>
 		<id_exoplaneteu>Kepler-80 f</id_exoplaneteu>
 		<name>Kepler-80 f</name>
+		<name>KOI-500 f</name>
+		<name>KOI-500.05</name>
+		<name>KIC 4852528 f</name>
+		<name>KIC 4852528.05</name>
 		<id>Kepler-80 f</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.110</radius>
+			<radius>0.1079</radius>
 			<orbit>
-				<period>0.986787060</period>
+				<period>0.9867873</period>
+				<semimajoraxis>0.0175</semimajoraxis>
+				<inclination>86.50</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.7220</mass>
-			<radius>0.637</radius>
-			<distance>418.17</distance>
-			<temperature>4613</temperature>
-			<rightascension>19 44 27</rightascension>
-			<declination>+39 58 43</declination>
+			<spectraltype>K5</spectraltype>
+			<mass>0.730</mass>
+			<radius>0.678</radius>
+			<metallicity>0.04</metallicity>
+			<distance>357</distance>
+			<temperature>4540</temperature>
+			<rightascension>19 44 27.016</rightascension>
+			<declination>+39 58 43.62</declination>
 		</star>
-		<multiplicity>5</multiplicity>
+		<multiplicity>6</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/05/10</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -27551,27 +27864,29 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>HD 10180 f</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0717219</mass>
+			<mass>0.0722</mass>
 			<orbit>
-				<period>122.88</period>
-				<semimajoraxis>0.494</semimajoraxis>
-				<eccentricity>0.13</eccentricity>
+				<period>122.744</period>
+				<semimajoraxis>0.4929</semimajoraxis>
+				<eccentricity>0.119</eccentricity>
+				<periastron>327</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -29061,6 +29376,36 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>Kepler-90 i</id_exoplaneteu>
+		<name>Kepler-90 i</name>
+		<name>KOI-351 i</name>
+		<name>KIC 11442793 i</name>
+		<name>2MASS J18574403+4918185 i</name>
+		<id>Kepler-90 i</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.1178</radius>
+			<orbit>
+				<period>14.44912</period>
+				<inclination>89.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.20</mass>
+			<radius>1.2</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>780</distance>
+			<temperature>6080</temperature>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
+		</star>
+		<multiplicity>8</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
+		<description>The planet Kepler-90 i was identified using machine learning. At the time of discovery, Kepler-90 was the extrasolar planetary system with the largest number of known planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -30990,29 +31335,72 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 4113 b</id_exoplaneteu>
 		<name>HD 4113 b</name>
+		<name>HD 4113 A b</name>
 		<id>HD 4113 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.56</mass>
+			<mass>1.602</mass>
 			<orbit>
-				<period>526.62</period>
-				<semimajoraxis>1.28</semimajoraxis>
-				<eccentricity>0.903</eccentricity>
+				<period>526.686</period>
+				<semimajoraxis>1.298</semimajoraxis>
+				<eccentricity>0.8999</eccentricity>
+				<periastron>-48.45</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
-			<mass>0.99</mass>
+			<mass>1.05</mass>
 			<metallicity>0.2</metallicity>
-			<distance>44</distance>
-			<temperature>218.9</temperature>
-			<rightascension>00 43 13</rightascension>
-			<declination>-37 58 57</declination>
-			<magV>7.88</magV>
+			<distance>41.70</distance>
+			<temperature>5688</temperature>
+			<rightascension>00 43 12.5958</rightascension>
+			<declination>-37 58 57.473</declination>
+			<magV>7.880</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>10/12/17</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 4113 b is a planet in an extremely eccentric orbit. There is a brown dwarf (possibly a binary) in a 23 AU orbit that may be responsible for the high eccentricity.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 219134 h</id_exoplaneteu>
+		<name>HD 219134 h</name>
+		<name>BD+56 2966 h</name>
+		<name>GJ 892 h</name>
+		<name>Gliese 892 h</name>
+		<name>HIP 114622 h</name>
+		<name>HR 8832 h</name>
+		<name>2MASS J23131692+5710059 h</name>
+		<name>PPM 41599 h</name>
+		<name>TYC 4006-1866-1 h</name>
+		<id>HD 219134 h</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.281</mass>
+			<orbit>
+				<period>2198</period>
+				<semimajoraxis>3.064</semimajoraxis>
+				<eccentricity>0.37</eccentricity>
+				<periastron>180</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K3V</spectraltype>
+			<mass>0.81</mass>
+			<radius>0.778</radius>
+			<metallicity>0.11</metallicity>
+			<distance>6.546</distance>
+			<temperature>4699</temperature>
+			<rightascension>23 13 16.97632</rightascension>
+			<declination>+57 10 06.0823</declination>
+			<magV>5.570</magV>
+		</star>
+		<multiplicity>7</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>17/12/14</lastupdate>
+		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. In the HARPS-N solution, this planet was designated HD 219134 e and was assigned a shorter-period, more eccentric orbit.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -32130,11 +32518,11 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<name>KOI-351 h</name>
 		<name>KOI-351.01</name>
 		<name>KIC 11442793 h</name>
-		<name>2MASS 18574403+4918185 h</name>
+		<name>2MASS J18574403+4918185 h</name>
 		<id>Kepler-90 h</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>1.01</radius>
+			<radius>1.008</radius>
 			<orbit>
 				<period>331.60059</period>
 				<semimajoraxis>1.01</semimajoraxis>
@@ -32143,16 +32531,16 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>15/12/03</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -32961,22 +33349,24 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id>HD 95086 b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>5</mass>
+			<mass>4.4</mass>
+			<radius>1.32</radius>
 			<orbit>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>A8III</spectraltype>
-			<mass>1.6</mass>
-			<distance>90.27</distance>
-			<temperature>1000</temperature>
-			<rightascension>10 57 03</rightascension>
-			<declination>-68 40 02</declination>
+			<spectraltype>A8</spectraltype>
+			<mass>1.7</mass>
+			<radius>1.32</radius>
+			<distance>83.8</distance>
+			<temperature>7609</temperature>
+			<rightascension>10 57 03.0215</rightascension>
+			<declination>-68 40 02.450</declination>
 			<magV>7.36</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/28</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
 		<image>HD95086</image>
 		<imagedescription>This image from ESO's Very Large Telescope (VLT) shows the newly discovered planet HD95086 b, next to its parent star. The observations were made using NACO, the adaptative optics instrument for the VLT in infrared light, and using a technique called differential imaging, which improves the contrast between the planet and its dazzling host star. The star itself has been removed from the picture during processing to enhance the view of the faint exoplanet and its position is marked. The exoplanet appears at the lower left.
@@ -33301,27 +33691,29 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HD 10180 g</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.06920541</mass>
+			<mass>0.0732</mass>
 			<orbit>
-				<period>596</period>
-				<semimajoraxis>1.415</semimajoraxis>
-				<eccentricity>0.03</eccentricity>
+				<period>604.67</period>
+				<semimajoraxis>1.427</semimajoraxis>
+				<eccentricity>0.263</eccentricity>
+				<periastron>327</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -34006,27 +34398,29 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HD 10180 e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.078642</mass>
+			<mass>0.0805</mass>
 			<orbit>
-				<period>49.75</period>
-				<semimajoraxis>0.270</semimajoraxis>
-				<eccentricity>0.01</eccentricity>
+				<period>49.748</period>
+				<semimajoraxis>0.2699</semimajoraxis>
+				<eccentricity>0.051</eccentricity>
+				<periastron>147</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -34182,27 +34576,58 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HD 154345 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1</mass>
+			<mass>1.15</mass>
 			<orbit>
-				<period>3538</period>
-				<semimajoraxis>4.3</semimajoraxis>
-				<eccentricity>0.26</eccentricity>
+				<period>3267</period>
+				<semimajoraxis>4.15</semimajoraxis>
+				<eccentricity>0.038</eccentricity>
 				<inclination>50</inclination>
+				<periastron>341</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G8V</spectraltype>
-			<mass>0.88</mass>
+			<mass>0.893</mass>
 			<metallicity>-0.105</metallicity>
-			<distance>18.06</distance>
-			<temperature>106.4</temperature>
-			<rightascension>17 02 36</rightascension>
-			<declination>+47 04 55</declination>
+			<distance>18.262</distance>
+			<temperature>5468</temperature>
+			<rightascension>17 02 36.4037</rightascension>
+			<declination>+47 04 54.764</declination>
 			<magV>6.74</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>12/05/25</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>BD+26 1888 b</id_exoplaneteu>
+		<name>BD+26 1888 b</name>
+		<id>BD+26 1888 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>26</mass>
+			<orbit>
+				<period>536.78</period>
+				<semimajoraxis>1.19</semimajoraxis>
+				<eccentricity>0.2675</eccentricity>
+				<periastron>1.3</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K7</spectraltype>
+			<mass>0.76</mass>
+			<metallicity>0.02</metallicity>
+			<distance>41.20</distance>
+			<temperature>4748</temperature>
+			<rightascension>09 02 30.6419</rightascension>
+			<declination>+25 53 21.871</declination>
+			<magV>9.76</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>BD+26 1888 b is a massive planet or brown dwarf orbiting a K7 star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -35065,6 +35490,37 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 33142 c</id_exoplaneteu>
+		<name>HD 33142 c</name>
+		<id>HD 33142 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.97</mass>
+			<orbit>
+				<period>834</period>
+				<semimajoraxis>2.04</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<periastron>322</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 III</spectraltype>
+			<mass>1.620</mass>
+			<radius>4.2</radius>
+			<metallicity>0.05</metallicity>
+			<distance>116.0</distance>
+			<temperature>5052</temperature>
+			<rightascension>05 07 35.5414</rightascension>
+			<declination>-13 59 11.337</declination>
+			<magV>8.13</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 33142 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 168443 b</id_exoplaneteu>
 		<name>HD 168443 b</name>
 		<id>HD 168443 b</id>
@@ -35687,17 +36143,44 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Planets in open clusters</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>EPIC 203311200 b</id_exoplaneteu>
+		<name>EPIC 203311200 b</name>
+		<id>EPIC 203311200 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.51</radius>
+			<orbit>
+				<period>540</period>
+				<semimajoraxis>1.25</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.91</mass>
+			<radius>0.94</radius>
+			<distance>437</distance>
+			<temperature>5200</temperature>
+			<rightascension>16 03 54.334</rightascension>
+			<declination>-26 33 13.51</declination>
+			<magV>11.88</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>A possible planet has been identified orbiting EPIC 203311200 based on a single transit observed by the K2 mission. Confirmation of this planet will require additional observations.</description>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 24040 b</id_exoplaneteu>
 		<name>HD 24040 b</name>
 		<id>HD 24040 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>4.10</mass>
+			<mass>4.08</mass>
 			<orbit>
-				<period>3490</period>
-				<semimajoraxis>4.637</semimajoraxis>
-				<eccentricity>0.047</eccentricity>
-				<periastron>67</periastron>
+				<period>3498</period>
+				<semimajoraxis>4.77</semimajoraxis>
+				<eccentricity>0.010</eccentricity>
+				<periastron>332</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -35705,15 +36188,15 @@ Credit: ESO/J. Rameau</imagedescription>
 			<mass>1.18</mass>
 			<radius>1.154</radius>
 			<metallicity>0.206</metallicity>
-			<distance>46.6</distance>
+			<distance>45.85</distance>
 			<temperature>5853</temperature>
-			<rightascension>03 50 22.9</rightascension>
-			<declination>+17 28 34.9</declination>
+			<rightascension>03 50 22.9677</rightascension>
+			<declination>+17 28 34.928</declination>
 			<magV>7.52</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2006</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 24040 b is a massive Jupiter-analogue orbiting a sunlike star. The radial velocity measurements for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -38565,23 +39048,24 @@ Credit: ESO/J. Rameau</imagedescription>
 			<orbit>
 				<period>326.6</period>
 				<semimajoraxis>1.06</semimajoraxis>
-				<eccentricity>0</eccentricity>
+				<eccentricity>0.120</eccentricity>
+				<periastron>143</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K0</spectraltype>
-			<mass>1.48</mass>
+			<spectraltype>K0 III</spectraltype>
+			<mass>1.620</mass>
 			<radius>4.2</radius>
 			<metallicity>0.05</metallicity>
-			<distance>126</distance>
-			<temperature>442.1</temperature>
-			<rightascension>05 07 35.54</rightascension>
-			<declination>-13 59 11.3</declination>
+			<distance>116.0</distance>
+			<temperature>5052</temperature>
+			<rightascension>05 07 35.5414</rightascension>
+			<declination>-13 59 11.337</declination>
 			<magV>8.13</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/07/24</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The star HD 33142 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -39412,27 +39896,29 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>HD 10180 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.03743383</mass>
+			<mass>0.0378</mass>
 			<orbit>
-				<period>16.354</period>
-				<semimajoraxis>0.1284</semimajoraxis>
-				<eccentricity>0.11</eccentricity>
+				<period>16.3570</period>
+				<semimajoraxis>0.12859</semimajoraxis>
+				<eccentricity>0.131</eccentricity>
+				<periastron>325</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -44481,6 +44967,36 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HIP 109384 b</id_exoplaneteu>
+		<name>HIP 109384 b</name>
+		<id>HIP 109384 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.56</mass>
+			<orbit>
+				<period>499.48</period>
+				<semimajoraxis>1.134</semimajoraxis>
+				<eccentricity>0.549</eccentricity>
+				<periastron>104.49</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>0.78</mass>
+			<metallicity>-0.26</metallicity>
+			<distance>58.45</distance>
+			<temperature>5180</temperature>
+			<rightascension>22 09 37.3996</rightascension>
+			<declination>+71 18 51.595</declination>
+			<magV>9.63</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HIP 109384 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-412 b</id_exoplaneteu>
 		<name>Kepler-412 b</name>
 		<name>KOI-202.01</name>
@@ -46001,27 +46517,29 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id>HD 10180 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.04089410</mass>
+			<mass>0.0416</mass>
 			<orbit>
-				<period>5.75973</period>
-				<semimajoraxis>0.0641</semimajoraxis>
-				<eccentricity>0.07</eccentricity>
+				<period>5.75969</period>
+				<semimajoraxis>0.06412</semimajoraxis>
+				<eccentricity>0.073</eccentricity>
+				<periastron>328</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -46920,6 +47438,33 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-847 c</id_exoplaneteu>
+		<name>KOI-847 c</name>
+		<name>Kepler-700 c</name>
+		<id>KOI-847 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.50</radius>
+			<orbit>
+				<period>1106.243</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.98</mass>
+			<radius>0.96</radius>
+			<metallicity>0.04</metallicity>
+			<distance>1061.000</distance>
+			<temperature>5692.0</temperature>
+			<rightascension>19 08 37.032</rightascension>
+			<declination>+41 33 56.84</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>A possible second planet has been identified by Uehara et al. (2016) orbiting KOI-847 (Kepler-700) from two transits.</description>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-1073 b</id_exoplaneteu>
 		<name>Kepler-1073 b</name>
 		<id>Kepler-1073 b</id>
@@ -47186,24 +47731,25 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass>5.9</mass>
 			<orbit>
 				<period>778.1</period>
-				<semimajoraxis>2.01</semimajoraxis>
+				<semimajoraxis>2.03</semimajoraxis>
 				<eccentricity>0.211</eccentricity>
+				<periastron>182</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0</spectraltype>
-			<mass>1.95</mass>
+			<mass>1.30</mass>
 			<radius>6.3</radius>
 			<metallicity>0.3</metallicity>
-			<distance>158</distance>
-			<temperature>376.0</temperature>
-			<rightascension>11 46 46</rightascension>
-			<declination>+03 28 27</declination>
-			<magV>8.04</magV>
+			<distance>229</distance>
+			<temperature>4830.0</temperature>
+			<rightascension>11 46 46.6450</rightascension>
+			<declination>+03 28 27.457</declination>
+			<magV>7.89</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/07/24</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The star HD 102329 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -47326,22 +47872,23 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 				<period>139.35</period>
 				<semimajoraxis>0.53</semimajoraxis>
 				<eccentricity>0.076</eccentricity>
-				<periastron>12.0</periastron>
+				<periastron>12</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0</spectraltype>
 			<mass>1.01</mass>
 			<radius>9.09</radius>
-			<metallicity>-0.5</metallicity>
-			<distance>221.0</distance>
-			<temperature>4830.0</temperature>
-			<rightascension>00 57 57</rightascension>
-			<declination>+34 59 08</declination>
+			<metallicity>-0.50</metallicity>
+			<distance>222</distance>
+			<temperature>4830</temperature>
+			<rightascension>00 57 56.7154</rightascension>
+			<declination>+34 59 07.901</declination>
+			<magV>7.60</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/03/21</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -47681,27 +48228,28 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id>HD 72659 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.15</mass>
+			<mass>2.99</mass>
 			<orbit>
-				<period>3658</period>
-				<semimajoraxis>4.74</semimajoraxis>
-				<eccentricity>0.22</eccentricity>
+				<period>3506</period>
+				<semimajoraxis>4.62</semimajoraxis>
+				<eccentricity>0.249</eccentricity>
+				<periastron>272.7</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G2 V</spectraltype>
-			<mass>0.95</mass>
+			<mass>1.068</mass>
 			<radius>1.36</radius>
 			<metallicity>-0.02</metallicity>
-			<distance>49.8</distance>
-			<temperature>139.5</temperature>
-			<rightascension>08 34 03</rightascension>
-			<declination>-01 34 05</declination>
-			<magV>7.46</magV>
+			<distance>51.84</distance>
+			<temperature>5926</temperature>
+			<rightascension>08 34 03.1902</rightascension>
+			<declination>-01 34 05.572</declination>
+			<magV>7.47</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2002</discoveryyear>
-		<lastupdate>10/12/20</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -49092,12 +49640,12 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id>HD 13931 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.88</mass>
+			<mass>1.92</mass>
 			<orbit>
-				<period>4218</period>
-				<semimajoraxis>5.15</semimajoraxis>
-				<eccentricity>0.02</eccentricity>
-				<periastron>290</periastron>
+				<period>4460</period>
+				<semimajoraxis>5.34</semimajoraxis>
+				<eccentricity>0.033</eccentricity>
+				<periastron>18</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -49105,15 +49653,15 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass>1.022</mass>
 			<radius>1.23</radius>
 			<metallicity>0.03</metallicity>
-			<distance>44.2</distance>
+			<distance>46.75</distance>
 			<temperature>5829</temperature>
-			<rightascension>02 16 47.37946</rightascension>
-			<declination>+43 46 22.7907</declination>
+			<rightascension>02 16 47.3790</rightascension>
+			<declination>+43 46 22.788</declination>
 			<magV>7.60</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>16/03/09</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -49478,6 +50026,36 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/12</lastupdate>
 		<description>This planet is part of a large data release by the Euopean HARP team.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 220842</id_exoplaneteu>
+		<name>HD 220842</name>
+		<id>HD 220842</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.18</mass>
+			<orbit>
+				<period>218.47</period>
+				<semimajoraxis>0.740</semimajoraxis>
+				<eccentricity>0.404</eccentricity>
+				<periastron>-134.9</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F8</spectraltype>
+			<mass>1.13</mass>
+			<metallicity>-0.17</metallicity>
+			<distance>65.06</distance>
+			<temperature>5960</temperature>
+			<rightascension>23 26 36.9880</rightascension>
+			<declination>+56 53 11.513</declination>
+			<magV>7.99</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HD 220842 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -50763,6 +51341,37 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 102329 c</id_exoplaneteu>
+		<name>HD 102329 c</name>
+		<id>HD 102329 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.52</mass>
+			<orbit>
+				<period>1123</period>
+				<semimajoraxis>2.31</semimajoraxis>
+				<eccentricity>0.209</eccentricity>
+				<periastron>21</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>1.30</mass>
+			<radius>6.3</radius>
+			<metallicity>0.3</metallicity>
+			<distance>229</distance>
+			<temperature>4830.0</temperature>
+			<rightascension>11 46 46.6450</rightascension>
+			<declination>+03 28 27.457</declination>
+			<magV>7.89</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 102329 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HATS-23 b</id_exoplaneteu>
 		<name>HATS-23 b</name>
 		<id>HATS-23 b</id>
@@ -51612,6 +52221,34 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 143105 b</id_exoplaneteu>
+		<name>HD 143105 b</name>
+		<id>HD 143105 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.21</mass>
+			<orbit>
+				<period>2.1974</period>
+				<semimajoraxis>0.0379</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5</spectraltype>
+			<mass>1.51</mass>
+			<metallicity>0.15</metallicity>
+			<distance>49.95</distance>
+			<temperature>6380</temperature>
+			<rightascension>15 53 36.5585</rightascension>
+			<declination>+68 43 12.413</declination>
+			<magV>6.75</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HD 143105 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-529 b</id_exoplaneteu>
 		<name>Kepler-529 b</name>
 		<id>Kepler-529 b</id>
@@ -51972,28 +52609,30 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>HD 10180 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0040894108</mass>
+			<mass>0.00409</mass>
 			<orbit>
 				<period>1.17766</period>
 				<semimajoraxis>0.0222</semimajoraxis>
 				<eccentricity>0.05</eccentricity>
+				<periastron>155</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>17/12/15</lastupdate>
+		<description>The planet candidate HD 10180 b was originally announced as one of seven planet candidates in the HD 10180 system. Subsequent studies have failed to confirm the existence of this planet.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>omi CrB b</id_exoplaneteu>
@@ -53220,11 +53859,11 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M1.0</spectraltype>
+			<spectraltype>M1VIp</spectraltype>
 			<mass>0.281</mass>
 			<radius>0.291</radius>
 			<metallicity>-0.86</metallicity>
-			<distance>3.91</distance>
+			<distance>3.911</distance>
 			<temperature>3550.0</temperature>
 			<rightascension>05 11 40.58112</rightascension>
 			<declination>-45 01 06.2899</declination>
@@ -53232,9 +53871,9 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/05/24</lastupdate>
-		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability. Analysis by Robertson et al. (2015) indicates that the radial velocity signature attributed to this planet is an artifact of stellar activity.</description>
-		<list>Controversial</list>
+		<lastupdate>17/12/09</lastupdate>
+		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 11977 b</id_exoplaneteu>
@@ -53804,21 +54443,22 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<period>131.05</period>
 				<semimajoraxis>0.495</semimajoraxis>
 				<eccentricity>0.708</eccentricity>
+				<periastron>-95.8</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0</spectraltype>
-			<mass>0.93</mass>
+			<mass>0.930</mass>
 			<metallicity>0.14</metallicity>
-			<distance>36.6</distance>
-			<temperature>327.8</temperature>
-			<rightascension>17 12 23</rightascension>
-			<declination>+63 21 08</declination>
+			<distance>36.52</distance>
+			<temperature>5453.0</temperature>
+			<rightascension>17 12 23.2036</rightascension>
+			<declination>+63 21 07.532</declination>
 			<magV>8.08</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/11/04</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -53973,7 +54613,7 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id_exoplaneteu>HD 4203 b</id_exoplaneteu>
 		<name>HD 4203 b</name>
 		<name>SAO 74235 b</name>
-		<name>TYC 1194-00026-1 b</name>
+		<name>TYC 1194-26-1 b</name>
 		<name>BD+19 117 b</name>
 		<name>HIP 3502 b</name>
 		<name>2MASS J00444118+2026563 b</name>
@@ -53985,22 +54625,23 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 				<period>437.05</period>
 				<semimajoraxis>1.1735</semimajoraxis>
 				<eccentricity>0.52</eccentricity>
+				<periastron>328.03</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass>1.13</mass>
+			<mass>1.130</mass>
 			<radius>1.33</radius>
 			<metallicity>0.453</metallicity>
-			<distance>77.82</distance>
-			<temperature>263.9</temperature>
-			<rightascension>00 44 41</rightascension>
-			<declination>+20 26 56</declination>
-			<magV>8.68</magV>
+			<distance>78.92</distance>
+			<temperature>5702</temperature>
+			<rightascension>00 44 41.2002</rightascension>
+			<declination>+20 26 56.137</declination>
+			<magV>8.687</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2001</discoveryyear>
-		<lastupdate>14/03/11</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -54087,26 +54728,27 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<id>HD 11964 A b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.622</mass>
+			<mass>0.583</mass>
 			<orbit>
-				<period>1945</period>
-				<semimajoraxis>3.16</semimajoraxis>
-				<eccentricity>0.041</eccentricity>
+				<period>1956</period>
+				<semimajoraxis>3.14</semimajoraxis>
+				<eccentricity>0.073</eccentricity>
+				<periastron>158</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass>1.125</mass>
+			<mass>1.080</mass>
 			<radius>2.18</radius>
 			<metallicity>0.17</metallicity>
-			<distance>33.98</distance>
-			<rightascension>01 57 09</rightascension>
-			<declination>-10 14 32</declination>
+			<distance>32.85</distance>
+			<rightascension>01 57 09.60763</rightascension>
+			<declination>-10 14 32.7336</declination>
 			<magV>6.42</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -54605,6 +55247,37 @@ Credit: ESO/M. Kornmesser.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 47366 c</id_exoplaneteu>
+		<name>HD 47366 c</name>
+		<id>HD 47366 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.86</mass>
+			<orbit>
+				<period>684.7</period>
+				<semimajoraxis>1.853</semimajoraxis>
+				<eccentricity>0.278</eccentricity>
+				<periastron>132</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1 III</spectraltype>
+			<mass>1.81</mass>
+			<radius>7.30</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>80.0</distance>
+			<temperature>4866</temperature>
+			<rightascension>06 37 40.79354</rightascension>
+			<declination>-12 59 06.4138</declination>
+			<magV>6.106</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>The best-fit orbits for the HD 47366 system are unstable. Possibilities are that the system is in a 2:1 resonance, the eccentricity of the outer planet is less than 0.15, or the planets are in a mutually-retrograde configuration.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-254 c</id_exoplaneteu>
 		<name>Kepler-254 c</name>
 		<name>KOI-934 c</name>
@@ -55047,27 +55720,28 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 141399 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.22</mass>
+			<mass>1.18</mass>
 			<orbit>
-				<period>1070.35</period>
-				<semimajoraxis>2.1348</semimajoraxis>
-				<eccentricity>0.06</eccentricity>
-				<periastron>249.16</periastron>
+				<period>1069.8</period>
+				<semimajoraxis>2.09</semimajoraxis>
+				<eccentricity>0.074</eccentricity>
+				<periastron>-140</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
-			<mass>1.14</mass>
+			<spectraltype>K0</spectraltype>
+			<mass>1.07</mass>
 			<radius>1.46</radius>
-			<metallicity>0.18</metallicity>
-			<distance>36.17</distance>
-			<rightascension>15 46 53</rightascension>
-			<declination>+46 59 11</declination>
-			<magV>7.2</magV>
+			<metallicity>0.35</metallicity>
+			<distance>37.38</distance>
+			<temperature>5600</temperature>
+			<rightascension>15 46 53.8133</rightascension>
+			<declination>+46 59 10.542</declination>
+			<magV>7.20</magV>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/04/29</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -55405,6 +56079,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/01/28</lastupdate>
 		<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 35759 b</id_exoplaneteu>
+		<name>HD 35759 b</name>
+		<id>HD 35759 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.76</mass>
+			<orbit>
+				<period>82.467</period>
+				<semimajoraxis>0.389</semimajoraxis>
+				<eccentricity>0.389</eccentricity>
+				<periastron>-104.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0</spectraltype>
+			<mass>1.15</mass>
+			<metallicity>0.04</metallicity>
+			<distance>70.9</distance>
+			<temperature>6060</temperature>
+			<rightascension>05 31 33.3492</rightascension>
+			<declination>+64 19 07.589</declination>
+			<magV>7.74</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HD 35759 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -55894,27 +56598,28 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 141399 e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.69</mass>
+			<mass>0.66</mass>
 			<orbit>
-				<period>3717.35</period>
-				<semimajoraxis>4.8968</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<periastron>0</periastron>
+				<period>5000</period>
+				<semimajoraxis>5.0</semimajoraxis>
+				<eccentricity>0.26</eccentricity>
+				<periastron>-10</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
-			<mass>1.14</mass>
+			<spectraltype>K0</spectraltype>
+			<mass>1.07</mass>
 			<radius>1.46</radius>
-			<metallicity>0.18</metallicity>
-			<distance>36.17</distance>
-			<rightascension>15 46 53</rightascension>
-			<declination>+46 59 11</declination>
-			<magV>7.2</magV>
+			<metallicity>0.35</metallicity>
+			<distance>37.38</distance>
+			<temperature>5600</temperature>
+			<rightascension>15 46 53.8133</rightascension>
+			<declination>+46 59 10.542</declination>
+			<magV>7.20</magV>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/04/29</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -56292,6 +56997,37 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/10/26</lastupdate>
 		<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 47366 b</id_exoplaneteu>
+		<name>HD 47366 b</name>
+		<id>HD 47366 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.75</mass>
+			<orbit>
+				<period>363.3</period>
+				<semimajoraxis>1.214</semimajoraxis>
+				<eccentricity>0.089</eccentricity>
+				<periastron>100</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1 III</spectraltype>
+			<mass>1.81</mass>
+			<radius>7.30</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>80.0</distance>
+			<temperature>4866</temperature>
+			<rightascension>06 37 40.79354</rightascension>
+			<declination>-12 59 06.4138</declination>
+			<magV>6.106</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>The best-fit orbits for the HD 47366 system are unstable. Possibilities are that the system is in a 2:1 resonance, the eccentricity of the outer planet is less than 0.15, or the planets are in a mutually-retrograde configuration.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -56829,26 +57565,27 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 11964 A c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.079</mass>
+			<mass>0.0788</mass>
 			<orbit>
-				<period>37.91</period>
+				<period>37.910</period>
 				<semimajoraxis>0.229</semimajoraxis>
-				<eccentricity>0.3</eccentricity>
+				<eccentricity>0.30</eccentricity>
+				<periastron>102</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass>1.125</mass>
+			<mass>1.080</mass>
 			<radius>2.18</radius>
 			<metallicity>0.17</metallicity>
-			<distance>33.98</distance>
-			<rightascension>01 57 09</rightascension>
-			<declination>-10 14 32</declination>
+			<distance>32.85</distance>
+			<rightascension>01 57 09.60763</rightascension>
+			<declination>-10 14 32.7336</declination>
 			<magV>6.42</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>12/12/08</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -56925,34 +57662,35 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>HD 4203 c</id_exoplaneteu>
 		<name>HD 4203 c</name>
 		<name>SAO 74235 c</name>
-		<name>TYC 1194-00026-1 c</name>
+		<name>TYC 1194-26-1 c</name>
 		<name>BD+19 117 c</name>
 		<name>HIP 3502 c</name>
 		<name>2MASS J00444118+2026563 c</name>
 		<id>HD 4203 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>2.17</mass>
+			<mass>1.51</mass>
 			<orbit>
-				<period>6700</period>
-				<semimajoraxis>6.95</semimajoraxis>
-				<eccentricity>0.24</eccentricity>
+				<period>7053</period>
+				<semimajoraxis>7.50</semimajoraxis>
+				<eccentricity>0.182</eccentricity>
+				<periastron>232.2</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass>1.13</mass>
+			<mass>1.130</mass>
 			<radius>1.33</radius>
 			<metallicity>0.453</metallicity>
-			<distance>77.82</distance>
-			<temperature>263.9</temperature>
-			<rightascension>00 44 41</rightascension>
-			<declination>+20 26 56</declination>
-			<magV>8.68</magV>
+			<distance>78.92</distance>
+			<temperature>5702</temperature>
+			<rightascension>00 44 41.2002</rightascension>
+			<declination>+20 26 56.137</declination>
+			<magV>8.687</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/03/11</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -57342,6 +58080,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<description>EPIC 210490365 b is a Neptune-sized planet orbiting a red dwarf star in the Hyades cluster.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in open clusters</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 156279 c</id_exoplaneteu>
+		<name>HD 156279 c</name>
+		<id>HD 156279 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>8.60</mass>
+			<orbit>
+				<period>4191</period>
+				<semimajoraxis>4.97</semimajoraxis>
+				<eccentricity>0.231</eccentricity>
+				<periastron>101.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.930</mass>
+			<metallicity>0.14</metallicity>
+			<distance>36.52</distance>
+			<temperature>5453.0</temperature>
+			<rightascension>17 12 23.2036</rightascension>
+			<declination>+63 21 07.532</declination>
+			<magV>8.08</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 156279 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-1263 b</id_exoplaneteu>
@@ -57757,11 +58525,11 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M1.0</spectraltype>
+			<spectraltype>M1VIp</spectraltype>
 			<mass>0.281</mass>
 			<radius>0.291</radius>
 			<metallicity>-0.86</metallicity>
-			<distance>3.91</distance>
+			<distance>3.911</distance>
 			<temperature>3550.0</temperature>
 			<rightascension>05 11 40.58112</rightascension>
 			<declination>-45 01 06.2899</declination>
@@ -57769,7 +58537,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/06/06</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. The planetary system is roughly 11 billion years old and contains at least one other planet, Kapteyn b, which is close to a 5:2 period commensurability.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -60227,11 +60995,11 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		<name>KOI-351 c</name>
 		<name>KOI-351.05</name>
 		<name>KIC 11442793 c</name>
-		<name>2MASS 18574403+4918185 c</name>
+		<name>2MASS J18574403+4918185 c</name>
 		<id>Kepler-90 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.108445</radius>
+			<radius>0.1062</radius>
 			<orbit>
 				<period>8.719375</period>
 				<semimajoraxis>0.089</semimajoraxis>
@@ -60240,16 +61008,16 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -61520,6 +62288,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>HD 219134 c</name>
 		<name>BD+56 2966 c</name>
 		<name>GJ 892 c</name>
+		<name>Gliese 892 c</name>
 		<name>HIP 114622 c</name>
 		<name>HR 8832 c</name>
 		<name>2MASS J23131692+5710059 c</name>
@@ -61528,17 +62297,19 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 219134 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.011</mass>
+			<mass>0.01372</mass>
+			<radius>0.13480</radius>
 			<orbit>
-				<period>6.7635</period>
-				<semimajoraxis>0.064816</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<periastron>0</periastron>
+				<period>6.76458</period>
+				<semimajoraxis>0.06530</semimajoraxis>
+				<eccentricity>0.062</eccentricity>
+				<inclination>87.28</inclination>
+				<periastron>70</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3V</spectraltype>
-			<mass>0.794</mass>
+			<mass>0.81</mass>
 			<radius>0.778</radius>
 			<metallicity>0.11</metallicity>
 			<distance>6.546</distance>
@@ -61547,10 +62318,10 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+57 10 06.0823</declination>
 			<magV>5.570</magV>
 		</star>
-		<multiplicity>6</multiplicity>
+		<multiplicity>7</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/10/20</lastupdate>
-		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively</description>
+		<lastupdate>17/12/14</lastupdate>
+		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. Transits of the second planet were detected in 2017.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -61773,6 +62544,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>HD 219134 b</name>
 		<name>BD+56 2966 b</name>
 		<name>GJ 892 b</name>
+		<name>Gliese 892 b</name>
 		<name>HIP 114622 b</name>
 		<name>HR 8832 b</name>
 		<name>2MASS J23131692+5710059 b</name>
@@ -61781,19 +62553,19 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 219134 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.012</mass>
-			<radius>0.1433</radius>
+			<mass>0.01491</mass>
+			<radius>0.14292</radius>
 			<orbit>
-				<period>3.0931</period>
-				<semimajoraxis>0.0384740</semimajoraxis>
+				<period>3.092926</period>
+				<semimajoraxis>0.03876</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<inclination>85.058</inclination>
+				<inclination>85.05</inclination>
 				<periastron>0</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3V</spectraltype>
-			<mass>0.794</mass>
+			<mass>0.81</mass>
 			<radius>0.778</radius>
 			<metallicity>0.11</metallicity>
 			<distance>6.546</distance>
@@ -61802,9 +62574,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+57 10 06.0823</declination>
 			<magV>5.570</magV>
 		</star>
-		<multiplicity>6</multiplicity>
+		<multiplicity>7</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/10/20</lastupdate>
+		<lastupdate>17/12/14</lastupdate>
 		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. Spitzer observations allowed the discoverers to detect the transit of the innermost planet in front of the star making HD 219134 b the nearest known transiting planet to date.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -63286,11 +64058,11 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KOI-351 b</name>
 		<name>KOI-351.06</name>
 		<name>KIC 11442793 b</name>
-		<name>2MASS 18574403+4918185 b</name>
+		<name>2MASS J18574403+4918185 b</name>
 		<id>Kepler-90 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.119381</radius>
+			<radius>0.1169</radius>
 			<orbit>
 				<period>7.008151</period>
 				<semimajoraxis>0.074</semimajoraxis>
@@ -63299,16 +64071,16 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -63708,28 +64480,27 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>WASP-46 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.101</mass>
-			<radius>1.31</radius>
+			<mass>1.91</mass>
+			<radius>1.174</radius>
 			<orbit>
-				<period>1.43037</period>
-				<semimajoraxis>0.02448</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>82.63</inclination>
+				<period>1.43036763</period>
+				<semimajoraxis>0.02335</semimajoraxis>
+				<inclination>82.80</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G6V</spectraltype>
-			<mass>0.956</mass>
-			<radius>0.917</radius>
-			<metallicity>-0.37</metallicity>
-			<temperature>1516.6</temperature>
-			<rightascension>21 14 57</rightascension>
-			<declination>-55 52 18</declination>
+			<mass>0.828</mass>
+			<radius>0.858</radius>
+			<metallicity>-0.3</metallicity>
+			<temperature>5600</temperature>
+			<rightascension>21 14 56.981</rightascension>
+			<declination>-55 52 18.45</declination>
 			<magV>12.9</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/05/17</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>WASP-46 b has about twice the mass of Jupiter and orbits a G6V star which shows evidence of being photospherically and chromospherically active.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -65351,30 +66122,30 @@ Credit: ESO/L. Calcada</imagedescription>
 		<id>Kappa And b</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
-			<mass>50</mass>
+			<mass>22</mass>
 			<orbit>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>B9IV</spectraltype>
-			<mass>2.8</mass>
-			<radius>2.29</radius>
-			<metallicity>-0.36</metallicity>
+			<spectraltype>B9IVn</spectraltype>
+			<mass>2.768</mass>
+			<radius>2.109</radius>
+			<metallicity>0.00</metallicity>
 			<distance>51.6</distance>
-			<temperature>11361</temperature>
-			<rightascension>23 40 25</rightascension>
-			<declination>+44 20 02</declination>
-			<magV>4.1</magV>
+			<temperature>11327</temperature>
+			<rightascension>23 40 24.50763</rightascension>
+			<declination>+44 20 02.1566</declination>
+			<magV>4.14</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/11/19</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>Kappa Andromedae b is an extrasolar planet or possibly low-mass brown dwarf. Astronomers have directly imaged it using the Subaru telescope on Hawaii.</description>
 		<image>KappaAndromedae</image>
 		<imagedescription>Image of the star Kappa Andromedae and the planet or brown dwarf Kappa Andromedae (top left). 
 			
 Credit: J. Carson et al 2012.</imagedescription>
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 147018 c</id_exoplaneteu>
@@ -65440,27 +66211,29 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<id>HD 10180 i</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.00597683</mass>
+			<mass>0.00598</mass>
 			<orbit>
 				<period>9.655</period>
 				<semimajoraxis>0.0904</semimajoraxis>
 				<eccentricity>0.05</eccentricity>
+				<periastron>138</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
-		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 i was announced by Tuomi (2012), which together with HD 10180 j would have increased the number of planets in the HD 10180 system to nine. Subsequent studies failed to confirm the existence of this planet.</description>
 		<list>Controversial</list>
 	</planet>
 	<planet>
@@ -66756,11 +67529,11 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<name>KOI-351 f</name>
 		<name>KOI-351.07</name>
 		<name>KIC 11442793 f</name>
-		<name>2MASS 18574403+4918185 f</name>
+		<name>2MASS J18574403+4918185 f</name>
 		<id>Kepler-90 f</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.262455</radius>
+			<radius>0.2569</radius>
 			<orbit>
 				<period>124.9144</period>
 				<semimajoraxis>0.48</semimajoraxis>
@@ -66769,16 +67542,16 @@ Credit: J. Carson et al 2012.</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -67856,6 +68629,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>HD 219134 f</name>
 		<name>BD+56 2966 f</name>
 		<name>GJ 892 f</name>
+		<name>Gliese 892 f</name>
 		<name>HIP 114622 f</name>
 		<name>HR 8832 f</name>
 		<name>2MASS J23131692+5710059 f</name>
@@ -67864,17 +68638,17 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 219134 f</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.034</mass>
+			<mass>0.02297</mass>
 			<orbit>
-				<period>94.2</period>
-				<semimajoraxis>0.3753</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<periastron>0</periastron>
+				<period>22.717</period>
+				<semimajoraxis>0.1463</semimajoraxis>
+				<eccentricity>0.148</eccentricity>
+				<periastron>81</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3V</spectraltype>
-			<mass>0.794</mass>
+			<mass>0.81</mass>
 			<radius>0.778</radius>
 			<metallicity>0.11</metallicity>
 			<distance>6.546</distance>
@@ -67883,9 +68657,9 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+57 10 06.0823</declination>
 			<magV>5.570</magV>
 		</star>
-		<multiplicity>6</multiplicity>
+		<multiplicity>7</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/10/20</lastupdate>
+		<lastupdate>17/12/14</lastupdate>
 		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -68070,27 +68844,28 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 141399 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.46</mass>
+			<mass>0.451</mass>
 			<orbit>
-				<period>94.35</period>
-				<semimajoraxis>0.4225</semimajoraxis>
+				<period>94.44</period>
+				<semimajoraxis>0.415</semimajoraxis>
 				<eccentricity>0.04</eccentricity>
-				<periastron>191.37</periastron>
+				<periastron>-90</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
-			<mass>1.14</mass>
+			<spectraltype>K0</spectraltype>
+			<mass>1.07</mass>
 			<radius>1.46</radius>
-			<metallicity>0.18</metallicity>
-			<distance>36.17</distance>
-			<rightascension>15 46 53</rightascension>
-			<declination>+46 59 11</declination>
-			<magV>7.2</magV>
+			<metallicity>0.35</metallicity>
+			<distance>37.38</distance>
+			<temperature>5600</temperature>
+			<rightascension>15 46 53.8133</rightascension>
+			<declination>+46 59 10.542</declination>
+			<magV>7.20</magV>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/04/29</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -68238,27 +69013,28 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 141399 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.36</mass>
+			<mass>1.33</mass>
 			<orbit>
-				<period>202.08</period>
-				<semimajoraxis>0.7023</semimajoraxis>
-				<eccentricity>0.05</eccentricity>
-				<periastron>214.74</periastron>
+				<period>210.99</period>
+				<semimajoraxis>0.689</semimajoraxis>
+				<eccentricity>0.048</eccentricity>
+				<periastron>-140</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
-			<mass>1.14</mass>
+			<spectraltype>K0</spectraltype>
+			<mass>1.07</mass>
 			<radius>1.46</radius>
-			<metallicity>0.18</metallicity>
-			<distance>36.17</distance>
-			<rightascension>15 46 53</rightascension>
-			<declination>+46 59 11</declination>
-			<magV>7.2</magV>
+			<metallicity>0.35</metallicity>
+			<distance>37.38</distance>
+			<temperature>5600</temperature>
+			<rightascension>15 46 53.8133</rightascension>
+			<declination>+46 59 10.542</declination>
+			<magV>7.20</magV>
 		</star>
 		<multiplicity>4</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/04/29</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -68461,6 +69237,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>HD 219134 g</name>
 		<name>BD+56 2966 g</name>
 		<name>GJ 892 g</name>
+		<name>Gliese 892 g</name>
 		<name>HIP 114622 g</name>
 		<name>HR 8832 g</name>
 		<name>2MASS J23131692+5710059 g</name>
@@ -68469,17 +69246,17 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 219134 g</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.34</mass>
+			<mass>0.034</mass>
 			<orbit>
-				<period>2247</period>
-				<semimajoraxis>3.11</semimajoraxis>
-				<eccentricity>0.06</eccentricity>
-				<periastron>215</periastron>
+				<period>94.2</period>
+				<semimajoraxis>0.3753</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>0</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3V</spectraltype>
-			<mass>0.794</mass>
+			<mass>0.81</mass>
 			<radius>0.778</radius>
 			<metallicity>0.11</metallicity>
 			<distance>6.546</distance>
@@ -68488,10 +69265,10 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+57 10 06.0823</declination>
 			<magV>5.570</magV>
 		</star>
-		<multiplicity>6</multiplicity>
+		<multiplicity>7</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/10/20</lastupdate>
-		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. In the HARPS-N solution, this planet was designated HD 219134 e and was assigned a shorter-period, more eccentric orbit.</description>
+		<lastupdate>17/12/14</lastupdate>
+		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -69394,24 +70171,24 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<orbit>
 				<period>4.086052</period>
 				<semimajoraxis>0.0546</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<eccentricity>0</eccentricity>
 				<inclination>85.9</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F4</spectraltype>
-			<mass>1.3</mass>
+			<mass>1.30</mass>
 			<radius>1.75</radius>
 			<metallicity>-0.31</metallicity>
-			<distance>380</distance>
-			<temperature>1647.5</temperature>
-			<rightascension>10 32 54</rightascension>
-			<declination>-34 59 23</declination>
+			<distance>500</distance>
+			<temperature>6600.0</temperature>
+			<rightascension>10 32 53.9926</rightascension>
+			<declination>-34 59 23.452</declination>
 			<magV>11.6</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/04/24</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -69856,11 +70633,11 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<name>KOI-351 g</name>
 		<name>KOI-351.02</name>
 		<name>KIC 11442793 g</name>
-		<name>2MASS 18574403+4918185 g</name>
+		<name>2MASS J18574403+4918185 g</name>
 		<id>Kepler-90 g</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.72</radius>
+			<radius>0.723</radius>
 			<orbit>
 				<period>210.60697</period>
 				<semimajoraxis>0.71</semimajoraxis>
@@ -69869,16 +70646,16 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>15/12/03</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -71532,27 +72309,29 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 10180 h</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.206987</mass>
+			<mass>0.2066</mass>
 			<orbit>
-				<period>2300</period>
-				<semimajoraxis>3.49</semimajoraxis>
-				<eccentricity>0.18</eccentricity>
+				<period>2205.0</period>
+				<semimajoraxis>3.381</semimajoraxis>
+				<eccentricity>0.095</eccentricity>
+				<periastron>142</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -71924,27 +72703,29 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 10180 j</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.01604307</mass>
+			<mass>0.0160</mass>
 			<orbit>
 				<period>67.55</period>
 				<semimajoraxis>0.330</semimajoraxis>
 				<eccentricity>0.07</eccentricity>
+				<periastron>92</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G1V</spectraltype>
 			<mass>1.06</mass>
+			<radius>1.109</radius>
 			<metallicity>0.08</metallicity>
-			<distance>39.4</distance>
-			<temperature>1915.3</temperature>
-			<rightascension>01 37 54</rightascension>
-			<declination>-60 30 42</declination>
-			<magV>7.33</magV>
+			<distance>38.87</distance>
+			<temperature>5911</temperature>
+			<rightascension>01 37 53.5771</rightascension>
+			<declination>-60 30 41.482</declination>
+			<magV>7.32</magV>
 		</star>
 		<multiplicity>9</multiplicity>
-		<discoveryyear>2010</discoveryyear>
-		<lastupdate>12/11/10</lastupdate>
-		<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>17/12/15</lastupdate>
+		<description>HD 10180 j was announced by Tuomi (2012), which together with HD 10180 i would have increased the number of planets in the HD 10180 system to nine. Subsequent studies failed to confirm the existence of this planet.</description>
 		<list>Controversial</list>
 	</planet>
 	<planet>
@@ -73432,21 +74213,23 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 				<period>394.3</period>
 				<semimajoraxis>0.11</semimajoraxis>
 				<eccentricity>0.394</eccentricity>
+				<periastron>-31.9</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>F8</spectraltype>
 			<mass>1.08</mass>
 			<metallicity>-0.32</metallicity>
+			<distance>105.2</distance>
 			<temperature>5951</temperature>
-			<rightascension>05 53 19</rightascension>
-			<declination>+22 04 20</declination>
+			<rightascension>05 53 18.9952</rightascension>
+			<declination>+22 04 19.749</declination>
 			<magV>8.38</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/03/02</lastupdate>
-		<list>Controversial</list>
+		<lastupdate>17/12/09</lastupdate>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 116029 b</id_exoplaneteu>
@@ -73456,25 +74239,26 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<properties>
 			<mass>2.1</mass>
 			<orbit>
-				<period>670.2</period>
-				<semimajoraxis>1.73</semimajoraxis>
-				<eccentricity>0</eccentricity>
+				<period>670</period>
+				<semimajoraxis>1.78</semimajoraxis>
+				<eccentricity>0.054</eccentricity>
+				<periastron>40</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K1</spectraltype>
-			<mass>1.58</mass>
+			<spectraltype>K1IV</spectraltype>
+			<mass>1.33</mass>
 			<radius>4.6</radius>
 			<metallicity>0.18</metallicity>
-			<distance>123</distance>
-			<temperature>355.0</temperature>
-			<rightascension>13 20 39</rightascension>
-			<declination>+24 38 55</declination>
-			<magV>8.04</magV>
+			<distance>122.4</distance>
+			<temperature>4951</temperature>
+			<rightascension>13 20 39.5420</rightascension>
+			<declination>+24 38 55.310</declination>
+			<magV>7.89</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/07/24</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The star HD 116029 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -73625,11 +74409,11 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-351 e</name>
 		<name>KOI-351.04</name>
 		<name>KIC 11442793 e</name>
-		<name>2MASS 18574403+4918185 e</name>
+		<name>2MASS J18574403+4918185 e</name>
 		<id>Kepler-90 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.242407</radius>
+			<radius>0.2373</radius>
 			<orbit>
 				<period>91.93913</period>
 				<semimajoraxis>0.42</semimajoraxis>
@@ -73638,16 +74422,16 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -74143,6 +74927,36 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 122562 b</id_exoplaneteu>
+		<name>HD 122562 b</name>
+		<id>HD 122562 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>24</mass>
+			<orbit>
+				<period>2777</period>
+				<semimajoraxis>4.1</semimajoraxis>
+				<eccentricity>0.71</eccentricity>
+				<periastron>-53.9</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.13</mass>
+			<metallicity>0.31</metallicity>
+			<distance>53.02</distance>
+			<temperature>4958</temperature>
+			<rightascension>14 02 21.1635</rightascension>
+			<declination>+20 52 52.733</declination>
+			<magV>7.69</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HD 122562 b is a massive planet or brown dwarf in an eccentric orbit around a G-type star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>PSR B1620-26 b</id_exoplaneteu>
 		<name>PSR B1620-26 b</name>
 		<name>B1620-26 b</name>
@@ -74362,12 +75176,12 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 217107 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>4.513</mass>
+			<mass>4.48</mass>
 			<orbit>
-				<period>5189</period>
-				<semimajoraxis>6.074</semimajoraxis>
-				<eccentricity>0.3848</eccentricity>
-				<periastron>206.3</periastron>
+				<period>5178</period>
+				<semimajoraxis>6.06</semimajoraxis>
+				<eccentricity>0.376</eccentricity>
+				<periastron>206.2</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -74375,15 +75189,15 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.108</mass>
 			<radius>1.500</radius>
 			<metallicity>0.389</metallicity>
-			<distance>19.86</distance>
+			<distance>20.00</distance>
 			<temperature>5704</temperature>
-			<rightascension>22 58 15.5</rightascension>
-			<declination>-02 23 43.4</declination>
+			<rightascension>22 58 15.5409</rightascension>
+			<declination>-02 23 43.379</declination>
 			<magV>6.16</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2005</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 217107 c is a giant planet in a long-period, eccentric orbit. It is a member of a hierarchical two-planet system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -74822,6 +75636,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>HD 219134 e</name>
 		<name>BD+56 2966 e</name>
 		<name>GJ 892 e</name>
+		<name>Gliese 892 e</name>
 		<name>HIP 114622 e</name>
 		<name>HR 8832 e</name>
 		<name>2MASS J23131692+5710059 e</name>
@@ -74830,17 +75645,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 219134 e</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.067</mass>
+			<mass>0.223</mass>
 			<orbit>
-				<period>46.71</period>
-				<semimajoraxis>0.23508</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<periastron>0</periastron>
+				<period>1842</period>
+				<semimajoraxis>2.56</semimajoraxis>
+				<eccentricity>0.34</eccentricity>
+				<periastron>-14.58</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3V</spectraltype>
-			<mass>0.794</mass>
+			<mass>0.81</mass>
 			<radius>0.778</radius>
 			<metallicity>0.11</metallicity>
 			<distance>6.546</distance>
@@ -74849,11 +75664,11 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<declination>+57 10 06.0823</declination>
 			<magV>5.570</magV>
 		</star>
-		<multiplicity>6</multiplicity>
+		<multiplicity>7</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/10/20</lastupdate>
-		<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. This planet was designated HD 219134 d in the HARPS-N announcement.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>17/12/14</lastupdate>
+		<description>The planet candidate HD 219134 e was discovered by Motalebi et al. (2015). It was subsequently shown to be the same candidate as HD 219134 h from Vogt et al. (2015), and the latter name is now used for this planet.</description>
+		<list>Retracted planet candidate</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 34445 b</id_exoplaneteu>
@@ -75306,6 +76121,7 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>HD 219134 d</name>
 		<name>BD+56 2966 d</name>
 		<name>GJ 892 d</name>
+		<name>Gliese 892 d</name>
 		<name>HIP 114622 d</name>
 		<name>HR 8832 d</name>
 		<name>2MASS J23131692+5710059 d</name>
@@ -75314,17 +76130,17 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 219134 d</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.028</mass>
+			<mass>0.050877</mass>
 			<orbit>
-				<period>22.805</period>
-				<semimajoraxis>0.14574</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<periastron>0</periastron>
+				<period>46.859</period>
+				<semimajoraxis>0.2370</semimajoraxis>
+				<eccentricity>0.138</eccentricity>
+				<periastron>173</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K3V</spectraltype>
-			<mass>0.794</mass>
+			<mass>0.81</mass>
 			<radius>0.778</radius>
 			<metallicity>0.11</metallicity>
 			<distance>6.546</distance>
@@ -75333,10 +76149,10 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<declination>+57 10 06.0823</declination>
 			<magV>5.570</magV>
 		</star>
-		<multiplicity>6</multiplicity>
+		<multiplicity>7</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/10/20</lastupdate>
-		<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
+		<lastupdate>17/12/14</lastupdate>
+		<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. This planet was designated HD 219134 d in the HARPS-N announcement.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -75773,15 +76589,15 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<mass>1.108</mass>
 			<radius>1.500</radius>
 			<metallicity>0.389</metallicity>
-			<distance>19.86</distance>
+			<distance>20.00</distance>
 			<temperature>5704</temperature>
-			<rightascension>22 58 15.5</rightascension>
-			<declination>-02 23 43.4</declination>
+			<rightascension>22 58 15.5409</rightascension>
+			<declination>-02 23 43.379</declination>
 			<magV>6.16</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>1998</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 217107 b is a short-period gas giant, though its orbit has a longer period than the majority of hot Jupiters and is significantly elliptical. It is a member of a hierarchical two-planet system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -76720,11 +77536,11 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<name>KOI-351 d</name>
 		<name>KOI-351.03</name>
 		<name>KIC 11442793 d</name>
-		<name>2MASS 18574403+4918185 d</name>
+		<name>2MASS J18574403+4918185 d</name>
 		<id>Kepler-90 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.261544</radius>
+			<radius>0.2560</radius>
 			<orbit>
 				<period>59.73667</period>
 				<semimajoraxis>0.32</semimajoraxis>
@@ -76733,16 +77549,16 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		</properties>
 		<star>
 			<mass>1.20</mass>
-			<radius>1.20</radius>
+			<radius>1.2</radius>
 			<metallicity>-0.12</metallicity>
-			<distance>834.52</distance>
+			<distance>780</distance>
 			<temperature>6080</temperature>
-			<rightascension>18 57 44</rightascension>
-			<declination>+49 18 19</declination>
+			<rightascension>18 57 44.038</rightascension>
+			<declination>+49 18 18.58</declination>
 		</star>
-		<multiplicity>7</multiplicity>
+		<multiplicity>8</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/10/24</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -76810,6 +77626,37 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>15/04/23</lastupdate>
 		<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far. The transmission spectrum matches a hazy model with a temperature of 600 K.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 116029 c</id_exoplaneteu>
+		<name>HD 116029 c</name>
+		<id>HD 116029 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.27</mass>
+			<orbit>
+				<period>907</period>
+				<semimajoraxis>2.02</semimajoraxis>
+				<eccentricity>0.038</eccentricity>
+				<periastron>17.3</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K1IV</spectraltype>
+			<mass>1.33</mass>
+			<radius>4.6</radius>
+			<metallicity>0.18</metallicity>
+			<distance>122.4</distance>
+			<temperature>4951</temperature>
+			<rightascension>13 20 39.5420</rightascension>
+			<declination>+24 38 55.310</declination>
+			<magV>7.89</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 116029 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -77253,6 +78100,39 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KIC 7177553 A(ab) b</id_exoplaneteu>
+		<name>KIC 7177553 A(ab) b</name>
+		<name>KOI-6837 A(ab) b</name>
+		<id>KIC 7177553 A(ab) b</id>
+		<discoverymethod>timing</discoverymethod>
+		<properties>
+			<mass>5</mass>
+			<orbit>
+				<period>529</period>
+				<semimajoraxis>1.576</semimajoraxis>
+				<eccentricity>0.46</eccentricity>
+				<periastron>201</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.043</mass>
+			<radius>0.940</radius>
+			<metallicity>0.00</metallicity>
+			<distance>406</distance>
+			<temperature>5800</temperature>
+			<rightascension>18 52 02.914</rightascension>
+			<declination>+42 43 16.52</declination>
+			<magV>12.9</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>This circumbinary planet candidate is located in an SB4 system comprising an eclipsing binary (the planet host) and a secondary SB2 system. It was discovered by observing the system's eclipse timing variations. Further observations will be needed to confirm the existence. Evolutionary models predict a very young system age of 32&#8211;36 million years, implying the stars are still pre-main sequence stars.</description>
+		<list>Controversial</list>
+		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-215 c</id_exoplaneteu>
 		<name>Kepler-215 c</name>
 		<name>KOI-700 c</name>
@@ -77334,25 +78214,28 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	<planet>
 		<id_exoplaneteu>Kepler-700 b</id_exoplaneteu>
 		<name>Kepler-700 b</name>
+		<name>KOI-847.01</name>
+		<name>KOI-847 b</name>
 		<id>Kepler-700 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<radius>0.534</radius>
 			<orbit>
-				<period>80.872063900</period>
+				<period>80.8720639</period>
 			</orbit>
 		</properties>
 		<star>
 			<mass>0.98</mass>
 			<radius>0.96</radius>
 			<metallicity>0.04</metallicity>
+			<distance>1061.000</distance>
 			<temperature>5692.0</temperature>
-			<rightascension>19 08 37</rightascension>
-			<declination>+41 33 57</declination>
+			<rightascension>19 08 37.032</rightascension>
+			<declination>+41 33 56.84</declination>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/05/10</lastupdate>
+		<lastupdate>17/12/09</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -79735,6 +80618,37 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 99706 c</id_exoplaneteu>
+		<name>HD 99706 c</name>
+		<id>HD 99706 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>5.69</mass>
+			<orbit>
+				<period>1278</period>
+				<semimajoraxis>2.76</semimajoraxis>
+				<eccentricity>0.411</eccentricity>
+				<periastron>136</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>1.72</mass>
+			<radius>5.4</radius>
+			<metallicity>0.14</metallicity>
+			<distance>148.6</distance>
+			<temperature>4932.0</temperature>
+			<rightascension>11 28 30.2136</rightascension>
+			<declination>+43 57 59.685</declination>
+			<magV>7.81</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 99706 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-406 c</id_exoplaneteu>
 		<name>Kepler-406 c</name>
 		<name>KOI-321.02</name>
@@ -80539,6 +81453,36 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 109600 b</id_exoplaneteu>
+		<name>HIP 109600 b</name>
+		<id>HIP 109600 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>2.68</mass>
+			<orbit>
+				<period>232.08</period>
+				<semimajoraxis>0.706</semimajoraxis>
+				<eccentricity>0.163</eccentricity>
+				<periastron>-131.3</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>0.87</mass>
+			<metallicity>-0.12</metallicity>
+			<distance>66.7</distance>
+			<temperature>5530</temperature>
+			<rightascension>22 12 06.2522</rightascension>
+			<declination>+29 03 56.920</declination>
+			<magV>9.158</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HIP 109600 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -82964,6 +83908,7 @@ Credit: Kains et al (2013).</imagedescription>
 				<period>868</period>
 				<semimajoraxis>2.14</semimajoraxis>
 				<eccentricity>0.365</eccentricity>
+				<periastron>4</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -82971,15 +83916,15 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>1.72</mass>
 			<radius>5.4</radius>
 			<metallicity>0.14</metallicity>
-			<distance>129</distance>
-			<temperature>342.5</temperature>
-			<rightascension>11 28 30</rightascension>
-			<declination>+43 58 00</declination>
+			<distance>148.6</distance>
+			<temperature>4932.0</temperature>
+			<rightascension>11 28 30.2136</rightascension>
+			<declination>+43 57 59.685</declination>
 			<magV>7.81</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/07/24</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The star HD 99706 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -83271,15 +84216,15 @@ Credit: Kains et al (2013).</imagedescription>
 			<mass>1.204</mass>
 			<radius>1.627</radius>
 			<metallicity>-0.41</metallicity>
-			<distance>240</distance>
+			<distance>299</distance>
 			<temperature>6450</temperature>
-			<rightascension>12 21 17.92</rightascension>
-			<declination>-52 50 27.0</declination>
-			<magV>10.7</magV>
+			<rightascension>12 21 17.9274</rightascension>
+			<declination>-52 50 26.995</declination>
+			<magV>10.73</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/10/14</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -84163,30 +85108,31 @@ Credit: Kains et al (2013).</imagedescription>
 		<id>TRAPPIST-1 h</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.068803</radius>
+			<mass>0.00027</mass>
+			<radius>0.0638</radius>
 			<orbit>
-				<period>20</period>
-				<semimajoraxis>0.063</semimajoraxis>
-				<inclination>89.98</inclination>
+				<period>18.76626</period>
+				<semimajoraxis>0.0596</semimajoraxis>
+				<eccentricity>0.086</eccentricity>
+				<inclination>89.80</inclination>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>M8 V</spectraltype>
 			<mass>0.0802</mass>
-			<radius>0.117</radius>
+			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.1</distance>
+			<distance>12.56</distance>
 			<temperature>2559</temperature>
 			<rightascension>23 06 30.34</rightascension>
 			<declination>-05 02 36.44</declination>
-			<magV>18.8</magV>
+			<magV>18.75</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/02/22</lastupdate>
+		<lastupdate>17/04/13</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
-		<image>eso1706a</image>
-		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-1098 b</id_exoplaneteu>
@@ -85558,27 +86504,28 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<id>HD 73534 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.15</mass>
+			<mass>1.02</mass>
 			<orbit>
-				<period>1800</period>
-				<semimajoraxis>3.15</semimajoraxis>
-				<eccentricity>0.046</eccentricity>
+				<period>1707</period>
+				<semimajoraxis>2.95</semimajoraxis>
+				<eccentricity>0.022</eccentricity>
+				<periastron>83</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5IV</spectraltype>
-			<mass>1.29</mass>
+			<mass>1.170</mass>
 			<radius>2.65</radius>
 			<metallicity>0.16</metallicity>
-			<distance>96.99</distance>
-			<temperature>200.2</temperature>
-			<rightascension>08 39 16</rightascension>
-			<declination>+12 57 37</declination>
+			<distance>85.8</distance>
+			<temperature>4952</temperature>
+			<rightascension>08 39 15.8032</rightascension>
+			<declination>+12 57 37.346</declination>
 			<magV>8.24</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/08/13</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -87407,27 +88354,27 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>1.007</mass>
-			<radius>1.16</radius>
+			<radius>0.992</radius>
 			<orbit>
-				<period>3.1260876</period>
-				<semimajoraxis>0.04054</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>84.47</inclination>
+				<period>3.1260960</period>
+				<semimajoraxis>0.0405</semimajoraxis>
+				<inclination>84.686</inclination>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K2V</spectraltype>
-			<mass>0.909</mass>
-			<radius>0.945</radius>
-			<metallicity>0.36</metallicity>
-			<temperature>1094.2</temperature>
-			<rightascension>00 20 57</rightascension>
-			<declination>-35 59 54</declination>
-			<magV>12</magV>
+			<mass>0.904</mass>
+			<radius>0.917</radius>
+			<metallicity>0.5</metallicity>
+			<distance>225</distance>
+			<temperature>5100</temperature>
+			<rightascension>00 20 56.9941</rightascension>
+			<declination>-35 59 53.756</declination>
+			<magV>11.80</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/05/17</lastupdate>
+		<lastupdate>17/12/15</lastupdate>
 		<description>WASP-45 b is a Jupiter mass planet transiting in front of the limb of its host star. Emission from Ca H+K suggests that the star is chromospherically active.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -87625,6 +88572,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>EPIC 205071984 d</id_exoplaneteu>
 		<name>EPIC 205071984 d</name>
+		<name>K2-32 d</name>
 		<id>EPIC 205071984 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -87646,7 +88594,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/12/06</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -91645,6 +92593,28 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2014-BLG-1760L b</id_exoplaneteu>
+		<name>OGLE-2014-BLG-1760L b</name>
+		<id>OGLE-2014-BLG-1760L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.573</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.51</mass>
+			<distance>6860</distance>
+			<rightascension>17 57 38.16</rightascension>
+			<declination>-28 57 47.37</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>OGLE-2014-BLG-1760Lb is a cold giant planet orbiting a star located in or near the galactic bulge.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-257 d</id_exoplaneteu>
 		<name>Kepler-257 d</name>
 		<name>KOI-941 d</name>
@@ -92875,8 +93845,8 @@ Credit: Joe Gallagher.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/07/22</lastupdate>
-		<description>OGLE-2013-BLG-0723LBb is a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It can therefore be considered either a scaled-up exommon system or a scaled-down planetary system. There is evidence that the system may also contain an additional, more luminous star around which the three known objects revolve.</description>
-		<list>Confirmed planets</list>
+		<description>OGLE-2013-BLG-0723LBb was announced as a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It would therefore be considered either a scaled-up exommon system or a scaled-down planetary system. Han et al. (2016) showed that the light curve could be better modelled as a binary consisting of 0.2 and 0.1 solar mass stars without a planet.</description>
+		<list>Controversial</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
@@ -93175,12 +94145,12 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>HD 187123 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>1.818</mass>
+			<mass>1.80</mass>
 			<orbit>
-				<period>3324</period>
-				<semimajoraxis>4.417</semimajoraxis>
-				<eccentricity>0.280</eccentricity>
-				<periastron>258.5</periastron>
+				<period>3380</period>
+				<semimajoraxis>4.46</semimajoraxis>
+				<eccentricity>0.295</eccentricity>
+				<periastron>260.4</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -93190,13 +94160,13 @@ Credit: Joe Gallagher.</imagedescription>
 			<metallicity>0.121</metallicity>
 			<distance>48.3</distance>
 			<temperature>5815</temperature>
-			<rightascension>19 46 58.1</rightascension>
-			<declination>+34 25 10.3</declination>
+			<rightascension>19 46 58.11299</rightascension>
+			<declination>+34 25 10.2810</declination>
 			<magV>7.83</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 187123 c is a long-period giant planet on an eccentric orbit. It is a member of a hierarchical 2-planet system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -94458,13 +95428,13 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 			<metallicity>0.121</metallicity>
 			<distance>48.3</distance>
 			<temperature>5815</temperature>
-			<rightascension>19 46 58.1</rightascension>
-			<declination>+34 25 10.3</declination>
+			<rightascension>19 46 58.11299</rightascension>
+			<declination>+34 25 10.2810</declination>
 			<magV>7.83</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>1998</discoveryyear>
-		<lastupdate>15/08/15</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>HD 187123 b is a hot Jupiter discovered by precision radial velocity measurements. It is a member of a hierarchical 2-planet system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -98780,32 +99750,63 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HIP 65407 c</id_exoplaneteu>
+		<name>HIP 65407 c</name>
+		<id>HIP 65407 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.784</mass>
+			<orbit>
+				<period>67.30</period>
+				<semimajoraxis>0.316</semimajoraxis>
+				<eccentricity>0.12</eccentricity>
+				<periastron>-19</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.93</mass>
+			<metallicity>0.25</metallicity>
+			<distance>62.07</distance>
+			<temperature>5460</temperature>
+			<rightascension>13 24 21.0389</rightascension>
+			<declination>+48 5306.363</declination>
+			<magV>9.42</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HIP 65407 c is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 106270 b</id_exoplaneteu>
 		<name>HD 106270 b</name>
 		<id>HD 106270 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>11.0</mass>
+			<mass>9.78</mass>
 			<orbit>
-				<period>2890</period>
-				<semimajoraxis>4.3</semimajoraxis>
-				<eccentricity>0.402</eccentricity>
+				<period>1872</period>
+				<semimajoraxis>3.27</semimajoraxis>
+				<eccentricity>0.197</eccentricity>
+				<periastron>7.5</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5</spectraltype>
-			<mass>1.32</mass>
+			<mass>1.330</mass>
 			<radius>2.5</radius>
 			<metallicity>0.08</metallicity>
 			<distance>84.9</distance>
-			<temperature>187.6</temperature>
-			<rightascension>12 13 37</rightascension>
-			<declination>-09 30 47</declination>
-			<magV>7.73</magV>
+			<temperature>5638</temperature>
+			<rightascension>12 13 37.28529</rightascension>
+			<declination>-09 30 48.1691</declination>
+			<magV>7.58</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>12/07/24</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<description>The star HD 106270 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -99350,6 +100351,37 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 95089 c</id_exoplaneteu>
+		<name>HD 95089 c</name>
+		<id>HD 95089 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.97</mass>
+			<orbit>
+				<period>1860</period>
+				<semimajoraxis>3.30</semimajoraxis>
+				<eccentricity>0.294</eccentricity>
+				<periastron>74.6</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0 IV</spectraltype>
+			<mass>1.38</mass>
+			<radius>4.9</radius>
+			<metallicity>0.05</metallicity>
+			<distance>139</distance>
+			<temperature>5002</temperature>
+			<rightascension>10 58 47.73629</rightascension>
+			<declination>+01 43 45.1758</declination>
+			<magV>7.95</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/10</lastupdate>
+		<description>The planet HD 95089 c was discovered in a survey of long-period giant planets by Bryan et al. (2016)</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-1181 b</id_exoplaneteu>
 		<name>Kepler-1181 b</name>
 		<id>Kepler-1181 b</id>
@@ -99687,6 +100719,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 	<planet>
 		<id_exoplaneteu>EPIC 205071984 c</id_exoplaneteu>
 		<name>EPIC 205071984 c</name>
+		<name>K2-32 c</name>
 		<id>EPIC 205071984 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
@@ -99708,7 +100741,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/12/06</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -100477,9 +101510,11 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 	<planet>
 		<id_exoplaneteu>EPIC 205071984 b</id_exoplaneteu>
 		<name>EPIC 205071984 b</name>
+		<name>K2-32 b</name>
 		<id>EPIC 205071984 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
+			<mass>0.06639</mass>
 			<radius>0.480</radius>
 			<orbit>
 				<period>8.99218</period>
@@ -100498,7 +101533,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/12/06</lastupdate>
+		<lastupdate>17/12/04</lastupdate>
 		<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -100811,22 +101846,23 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 				<period>507</period>
 				<semimajoraxis>1.51</semimajoraxis>
 				<eccentricity>0.157</eccentricity>
+				<periastron>317</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>K0 IV</spectraltype>
-			<mass>1.58</mass>
+			<mass>1.38</mass>
 			<radius>4.9</radius>
 			<metallicity>0.05</metallicity>
 			<distance>139</distance>
-			<temperature>396.7</temperature>
-			<rightascension>10 58 48</rightascension>
-			<declination>+01 43 45</declination>
-			<magV>7.92</magV>
+			<temperature>5002</temperature>
+			<rightascension>10 58 47.73629</rightascension>
+			<declination>+01 43 45.1758</declination>
+			<magV>7.95</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/03/19</lastupdate>
+		<lastupdate>17/12/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -101304,6 +102340,36 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/02/04</lastupdate>
 		<description>This Hot Jupiter was discovered by WASP-South.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HIP 65407 b</id_exoplaneteu>
+		<name>HIP 65407 b</name>
+		<id>HIP 65407 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.428</mass>
+			<orbit>
+				<period>28.125</period>
+				<semimajoraxis>0.177</semimajoraxis>
+				<eccentricity>0.14</eccentricity>
+				<periastron>50</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0</spectraltype>
+			<mass>0.93</mass>
+			<metallicity>0.25</metallicity>
+			<distance>62.07</distance>
+			<temperature>5460</temperature>
+			<rightascension>13 24 21.0389</rightascension>
+			<declination>+48 5306.363</declination>
+			<magV>9.42</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/09</lastupdate>
+		<description>HIP 65407 b is one of a batch of twelve planets identified by the SOPHIE search for northern extrasolar planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
