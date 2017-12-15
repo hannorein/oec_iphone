@@ -1,32 +1,33 @@
 <planet>
 	<id_exoplaneteu>HD 4113 b</id_exoplaneteu>
 	<name>HD 4113 b</name>
+	<name>HD 4113 A b</name>
 	<id>HD 4113 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1.56</mass>
+		<mass>1.602</mass>
 		<radius />
 		<orbit>
-			<period>526.62</period>
-			<semimajoraxis>1.28</semimajoraxis>
-			<eccentricity>0.903</eccentricity>
+			<period>526.686</period>
+			<semimajoraxis>1.298</semimajoraxis>
+			<eccentricity>0.8999</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>-48.45</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G5V</spectraltype>
-		<mass>0.99</mass>
+		<mass>1.05</mass>
 		<radius />
 		<metallicity>0.2</metallicity>
-		<distance>44</distance>
-		<temperature>218.9</temperature>
-		<rightascension>00 43 13</rightascension>
-		<declination>-37 58 57</declination>
+		<distance>41.70</distance>
+		<temperature>5688</temperature>
+		<rightascension>00 43 12.5958</rightascension>
+		<declination>-37 58 57.473</declination>
 		<angulardistance />
-		<magV>7.88</magV>
+		<magV>7.880</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>10/12/17</lastupdate>
-	<description />
+	<lastupdate>17/12/15</lastupdate>
+	<description>HD 4113 b is a planet in an extremely eccentric orbit. There is a brown dwarf (possibly a binary) in a 23 AU orbit that may be responsible for the high eccentricity.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

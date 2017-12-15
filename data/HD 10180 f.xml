@@ -4,14 +4,14 @@
 	<id>HD 10180 f</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.0717219</mass>
+		<mass>0.0722</mass>
 		<radius />
 		<orbit>
-			<period>122.88</period>
-			<semimajoraxis>0.494</semimajoraxis>
-			<eccentricity>0.13</eccentricity>
+			<period>122.744</period>
+			<semimajoraxis>0.4929</semimajoraxis>
+			<eccentricity>0.119</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>327</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -19,14 +19,14 @@
 	<star>
 		<spectraltype>G1V</spectraltype>
 		<mass>1.06</mass>
-		<radius />
+		<radius>1.109</radius>
 		<metallicity>0.08</metallicity>
-		<distance>39.4</distance>
-		<temperature>1915.3</temperature>
-		<rightascension>01 37 54</rightascension>
-		<declination>-60 30 42</declination>
+		<distance>38.87</distance>
+		<temperature>5911</temperature>
+		<rightascension>01 37 53.5771</rightascension>
+		<declination>-60 30 41.482</declination>
 		<angulardistance />
-		<magV>7.33</magV>
+		<magV>7.32</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>9</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>12/11/10</lastupdate>
-	<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
+	<lastupdate>17/12/15</lastupdate>
+	<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 6 planets with masses comparable to the ice giants in the solar system. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 	<new />
 	<image />
 	<imagedescription />

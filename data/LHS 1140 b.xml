@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>LHS 1140 b</id_exoplaneteu>
+	<name>LHS 1140 b</name>
+	<id>LHS 1140 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.02092</mass>
+		<radius>0.1276</radius>
+		<orbit>
+			<period>24.73712</period>
+			<semimajoraxis>0.0875</semimajoraxis>
+			<eccentricity />
+			<inclination>89.912</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M4.5</spectraltype>
+		<mass>0.146</mass>
+		<radius>0.186</radius>
+		<metallicity>-0.24</metallicity>
+		<distance>12.47</distance>
+		<temperature>3131</temperature>
+		<rightascension>00 44 59.31</rightascension>
+		<declination>-15 16 16.7</declination>
+		<angulardistance />
+		<magV>14.150</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/12/10</lastupdate>
+	<description>LHS 1140 b is a rocky super-Earth located in the potential liquid water zone of its star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

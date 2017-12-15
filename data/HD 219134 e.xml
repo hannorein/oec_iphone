@@ -3,6 +3,7 @@
 	<name>HD 219134 e</name>
 	<name>BD+56 2966 e</name>
 	<name>GJ 892 e</name>
+	<name>Gliese 892 e</name>
 	<name>HIP 114622 e</name>
 	<name>HR 8832 e</name>
 	<name>2MASS J23131692+5710059 e</name>
@@ -11,21 +12,21 @@
 	<id>HD 219134 e</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.067</mass>
+		<mass>0.223</mass>
 		<radius />
 		<orbit>
-			<period>46.71</period>
-			<semimajoraxis>0.23508</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<period>1842</period>
+			<semimajoraxis>2.56</semimajoraxis>
+			<eccentricity>0.34</eccentricity>
 			<inclination />
-			<periastron>0</periastron>
+			<periastron>-14.58</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.794</mass>
+		<mass>0.81</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
 		<distance>6.546</distance>
@@ -39,12 +40,12 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/10/20</lastupdate>
-	<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. This planet was designated HD 219134 d in the HARPS-N announcement.</description>
+	<lastupdate>17/12/14</lastupdate>
+	<description>The planet candidate HD 219134 e was discovered by Motalebi et al. (2015). It was subsequently shown to be the same candidate as HD 219134 h from Vogt et al. (2015), and the latter name is now used for this planet.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Retracted planet candidate</list>
 </planet>

@@ -7,8 +7,8 @@
 	<id>HD 95086 b</id>
 	<discoverymethod>imaging</discoverymethod>
 	<properties>
-		<mass>5</mass>
-		<radius />
+		<mass>4.4</mass>
+		<radius>1.32</radius>
 		<orbit>
 			<period />
 			<semimajoraxis />
@@ -20,14 +20,14 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>A8III</spectraltype>
-		<mass>1.6</mass>
-		<radius />
+		<spectraltype>A8</spectraltype>
+		<mass>1.7</mass>
+		<radius>1.32</radius>
 		<metallicity />
-		<distance>90.27</distance>
-		<temperature>1000</temperature>
-		<rightascension>10 57 03</rightascension>
-		<declination>-68 40 02</declination>
+		<distance>83.8</distance>
+		<temperature>7609</temperature>
+		<rightascension>10 57 03.0215</rightascension>
+		<declination>-68 40 02.450</declination>
 		<angulardistance />
 		<magV>7.36</magV>
 		<magI />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2013</discoveryyear>
-	<lastupdate>13/10/28</lastupdate>
+	<lastupdate>17/12/04</lastupdate>
 	<description>HD 95086 b is a planet that has been directly imaged with ESO's Very Large Telescope. The mass, determined by evolutionary models, is 5 Jupitermasses, making it the lowest mass planet detected by direct imaging. The planet is very bright (and therefore detectable) because the system is only 17 million years old. The Solar System, as a comparison, is over 4 billion years old.</description>
 	<new />
 	<image>HD95086</image>

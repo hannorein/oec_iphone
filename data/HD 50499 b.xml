@@ -4,27 +4,27 @@
 	<id>HD 50499 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1.71</mass>
+		<mass>1.36</mass>
 		<radius />
 		<orbit>
-			<period>2482.7</period>
-			<semimajoraxis>3.86</semimajoraxis>
-			<eccentricity>0.23</eccentricity>
+			<period>2453</period>
+			<semimajoraxis>3.87</semimajoraxis>
+			<eccentricity>0.334</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>241</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G IV</spectraltype>
-		<mass>1.27</mass>
+		<spectraltype>G0/2V</spectraltype>
+		<mass>1.280</mass>
 		<radius>1.38</radius>
 		<metallicity>0.23</metallicity>
-		<distance>47.26</distance>
-		<temperature>155.1</temperature>
-		<rightascension>06 52 02</rightascension>
-		<declination>-33 54 56</declination>
+		<distance>46.02</distance>
+		<temperature>5902</temperature>
+		<rightascension>06 52 02.0242</rightascension>
+		<declination>-33 54 56.019</declination>
 		<angulardistance />
 		<magV>7.22</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2005</discoveryyear>
-	<lastupdate>10/12/29</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

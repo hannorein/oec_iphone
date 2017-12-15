@@ -11,20 +11,20 @@
 			<semimajoraxis>0.495</semimajoraxis>
 			<eccentricity>0.708</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>-95.8</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K0</spectraltype>
-		<mass>0.93</mass>
+		<mass>0.930</mass>
 		<radius />
 		<metallicity>0.14</metallicity>
-		<distance>36.6</distance>
-		<temperature>327.8</temperature>
-		<rightascension>17 12 23</rightascension>
-		<declination>+63 21 08</declination>
+		<distance>36.52</distance>
+		<temperature>5453.0</temperature>
+		<rightascension>17 12 23.2036</rightascension>
+		<declination>+63 21 07.532</declination>
 		<angulardistance />
 		<magV>8.08</magV>
 		<magI />
@@ -32,9 +32,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/11/04</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

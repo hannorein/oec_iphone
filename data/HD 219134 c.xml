@@ -3,6 +3,7 @@
 	<name>HD 219134 c</name>
 	<name>BD+56 2966 c</name>
 	<name>GJ 892 c</name>
+	<name>Gliese 892 c</name>
 	<name>HIP 114622 c</name>
 	<name>HR 8832 c</name>
 	<name>2MASS J23131692+5710059 c</name>
@@ -11,21 +12,21 @@
 	<id>HD 219134 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.011</mass>
-		<radius />
+		<mass>0.01372</mass>
+		<radius>0.13480</radius>
 		<orbit>
-			<period>6.7635</period>
-			<semimajoraxis>0.064816</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination />
-			<periastron>0</periastron>
+			<period>6.76458</period>
+			<semimajoraxis>0.06530</semimajoraxis>
+			<eccentricity>0.062</eccentricity>
+			<inclination>87.28</inclination>
+			<periastron>70</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.794</mass>
+		<mass>0.81</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
 		<distance>6.546</distance>
@@ -39,10 +40,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/10/20</lastupdate>
-	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively</description>
+	<lastupdate>17/12/14</lastupdate>
+	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. Transits of the second planet were detected in 2017.</description>
 	<new />
 	<image />
 	<imagedescription />

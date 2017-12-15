@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>Kepler-90 i</id_exoplaneteu>
+	<name>Kepler-90 i</name>
+	<name>KOI-351 i</name>
+	<name>KIC 11442793 i</name>
+	<name>2MASS J18574403+4918185 i</name>
+	<id>Kepler-90 i</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.1178</radius>
+		<orbit>
+			<period>14.44912</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination>89.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.20</mass>
+		<radius>1.2</radius>
+		<metallicity>-0.12</metallicity>
+		<distance>780</distance>
+		<temperature>6080</temperature>
+		<rightascension>18 57 44.038</rightascension>
+		<declination>+49 18 18.58</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>8</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/12/15</lastupdate>
+	<description>The planet Kepler-90 i was identified using machine learning. At the time of discovery, Kepler-90 was the extrasolar planetary system with the largest number of known planets.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

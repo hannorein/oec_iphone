@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>KOI-847 c</id_exoplaneteu>
+	<name>KOI-847 c</name>
+	<name>Kepler-700 c</name>
+	<id>KOI-847 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.50</radius>
+		<orbit>
+			<period>1106.243</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.98</mass>
+		<radius>0.96</radius>
+		<metallicity>0.04</metallicity>
+		<distance>1061.000</distance>
+		<temperature>5692.0</temperature>
+		<rightascension>19 08 37.032</rightascension>
+		<declination>+41 33 56.84</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/12/09</lastupdate>
+	<description>A possible second planet has been identified by Uehara et al. (2016) orbiting KOI-847 (Kepler-700) from two transits.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

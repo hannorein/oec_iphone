@@ -4,29 +4,29 @@
 	<id>HD 117207 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2.06</mass>
+		<mass>1.90</mass>
 		<radius />
 		<orbit>
-			<period>2627.08</period>
-			<semimajoraxis>3.78</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<period>2628</period>
+			<semimajoraxis>3.77</semimajoraxis>
+			<eccentricity>0.150</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>85</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G8VI/V</spectraltype>
-		<mass>1.07</mass>
+		<spectraltype>G7IV-V</spectraltype>
+		<mass>1.031</mass>
 		<radius>1.09</radius>
 		<metallicity>0.27</metallicity>
-		<distance>33</distance>
-		<temperature>128.4</temperature>
-		<rightascension>13 29 21</rightascension>
-		<declination>-35 34 15</declination>
+		<distance>33.05</distance>
+		<temperature>5432</temperature>
+		<rightascension>13 29 21.11390</rightascension>
+		<declination>-35 34 15.5929</declination>
 		<angulardistance />
-		<magV>7.26</magV>
+		<magV>7.25</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2004</discoveryyear>
-	<lastupdate>10/12/31</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

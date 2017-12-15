@@ -8,27 +8,27 @@
 	<id>Kepler-80 e</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass />
+		<mass>0.01299</mass>
 		<radius>0.14945</radius>
 		<orbit>
-			<period>4.645387</period>
-			<semimajoraxis />
+			<period>4.64489</period>
+			<semimajoraxis>0.0491</semimajoraxis>
 			<eccentricity />
-			<inclination />
+			<inclination>88.79</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.7220</mass>
-		<radius>0.637</radius>
-		<metallicity />
-		<distance>418.17</distance>
-		<temperature>4613</temperature>
-		<rightascension>19 44 27</rightascension>
-		<declination>+39 58 43</declination>
+		<spectraltype>K5</spectraltype>
+		<mass>0.730</mass>
+		<radius>0.678</radius>
+		<metallicity>0.04</metallicity>
+		<distance>357</distance>
+		<temperature>4540</temperature>
+		<rightascension>19 44 27.016</rightascension>
+		<declination>+39 58 43.62</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -36,9 +36,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>5</multiplicity>
+	<multiplicity>6</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/02/26</lastupdate>
+	<lastupdate>17/12/15</lastupdate>
 	<description>Kepler-80 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 e are still unknown, the object is highly unlikely to be a false positive.</description>
 	<new />
 	<image />

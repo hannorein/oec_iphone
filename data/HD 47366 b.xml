@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HD 47366 b</id_exoplaneteu>
+	<name>HD 47366 b</name>
+	<id>HD 47366 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.75</mass>
+		<radius />
+		<orbit>
+			<period>363.3</period>
+			<semimajoraxis>1.214</semimajoraxis>
+			<eccentricity>0.089</eccentricity>
+			<inclination />
+			<periastron>100</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1 III</spectraltype>
+		<mass>1.81</mass>
+		<radius>7.30</radius>
+		<metallicity>-0.02</metallicity>
+		<distance>80.0</distance>
+		<temperature>4866</temperature>
+		<rightascension>06 37 40.79354</rightascension>
+		<declination>-12 59 06.4138</declination>
+		<angulardistance />
+		<magV>6.106</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/12/09</lastupdate>
+	<description>The best-fit orbits for the HD 47366 system are unstable. Possibilities are that the system is in a 2:1 resonance, the eccentricity of the outer planet is less than 0.15, or the planets are in a mutually-retrograde configuration.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

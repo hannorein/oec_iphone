@@ -3,6 +3,7 @@
 	<name>HD 219134 f</name>
 	<name>BD+56 2966 f</name>
 	<name>GJ 892 f</name>
+	<name>Gliese 892 f</name>
 	<name>HIP 114622 f</name>
 	<name>HR 8832 f</name>
 	<name>2MASS J23131692+5710059 f</name>
@@ -11,21 +12,21 @@
 	<id>HD 219134 f</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.034</mass>
+		<mass>0.02297</mass>
 		<radius />
 		<orbit>
-			<period>94.2</period>
-			<semimajoraxis>0.3753</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<period>22.717</period>
+			<semimajoraxis>0.1463</semimajoraxis>
+			<eccentricity>0.148</eccentricity>
 			<inclination />
-			<periastron>0</periastron>
+			<periastron>81</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.794</mass>
+		<mass>0.81</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
 		<distance>6.546</distance>
@@ -39,9 +40,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/10/20</lastupdate>
+	<lastupdate>17/12/14</lastupdate>
 	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 	<new />
 	<image />

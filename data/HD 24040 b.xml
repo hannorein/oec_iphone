@@ -4,14 +4,14 @@
 	<id>HD 24040 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>4.10</mass>
+		<mass>4.08</mass>
 		<radius />
 		<orbit>
-			<period>3490</period>
-			<semimajoraxis>4.637</semimajoraxis>
-			<eccentricity>0.047</eccentricity>
+			<period>3498</period>
+			<semimajoraxis>4.77</semimajoraxis>
+			<eccentricity>0.010</eccentricity>
 			<inclination />
-			<periastron>67</periastron>
+			<periastron>332</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -21,10 +21,10 @@
 		<mass>1.18</mass>
 		<radius>1.154</radius>
 		<metallicity>0.206</metallicity>
-		<distance>46.6</distance>
+		<distance>45.85</distance>
 		<temperature>5853</temperature>
-		<rightascension>03 50 22.9</rightascension>
-		<declination>+17 28 34.9</declination>
+		<rightascension>03 50 22.9677</rightascension>
+		<declination>+17 28 34.928</declination>
 		<angulardistance />
 		<magV>7.52</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2006</discoveryyear>
-	<lastupdate>15/08/15</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description>HD 24040 b is a massive Jupiter-analogue orbiting a sunlike star. The radial velocity measurements for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 	<new />
 	<image />

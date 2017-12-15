@@ -7,12 +7,12 @@
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>1.007</mass>
-		<radius>1.16</radius>
+		<radius>0.992</radius>
 		<orbit>
-			<period>3.1260876</period>
-			<semimajoraxis>0.04054</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>84.47</inclination>
+			<period>3.1260960</period>
+			<semimajoraxis>0.0405</semimajoraxis>
+			<eccentricity />
+			<inclination>84.686</inclination>
 			<periastron />
 			<longitude />
 			<ascendingnode />
@@ -20,15 +20,15 @@
 	</properties>
 	<star>
 		<spectraltype>K2V</spectraltype>
-		<mass>0.909</mass>
-		<radius>0.945</radius>
-		<metallicity>0.36</metallicity>
-		<distance />
-		<temperature>1094.2</temperature>
-		<rightascension>00 20 57</rightascension>
-		<declination>-35 59 54</declination>
+		<mass>0.904</mass>
+		<radius>0.917</radius>
+		<metallicity>0.5</metallicity>
+		<distance>225</distance>
+		<temperature>5100</temperature>
+		<rightascension>00 20 56.9941</rightascension>
+		<declination>-35 59 53.756</declination>
 		<angulardistance />
-		<magV>12</magV>
+		<magV>11.80</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -36,7 +36,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/05/17</lastupdate>
+	<lastupdate>17/12/15</lastupdate>
 	<description>WASP-45 b is a Jupiter mass planet transiting in front of the limb of its host star. Emission from Ca H+K suggests that the star is chromospherically active.</description>
 	<new />
 	<image />

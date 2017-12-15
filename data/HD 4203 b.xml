@@ -2,7 +2,7 @@
 	<id_exoplaneteu>HD 4203 b</id_exoplaneteu>
 	<name>HD 4203 b</name>
 	<name>SAO 74235 b</name>
-	<name>TYC 1194-00026-1 b</name>
+	<name>TYC 1194-26-1 b</name>
 	<name>BD+19 117 b</name>
 	<name>HIP 3502 b</name>
 	<name>2MASS J00444118+2026563 b</name>
@@ -16,22 +16,22 @@
 			<semimajoraxis>1.1735</semimajoraxis>
 			<eccentricity>0.52</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>328.03</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G5</spectraltype>
-		<mass>1.13</mass>
+		<mass>1.130</mass>
 		<radius>1.33</radius>
 		<metallicity>0.453</metallicity>
-		<distance>77.82</distance>
-		<temperature>263.9</temperature>
-		<rightascension>00 44 41</rightascension>
-		<declination>+20 26 56</declination>
+		<distance>78.92</distance>
+		<temperature>5702</temperature>
+		<rightascension>00 44 41.2002</rightascension>
+		<declination>+20 26 56.137</declination>
 		<angulardistance />
-		<magV>8.68</magV>
+		<magV>8.687</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -39,7 +39,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2001</discoveryyear>
-	<lastupdate>14/03/11</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

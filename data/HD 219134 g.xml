@@ -3,6 +3,7 @@
 	<name>HD 219134 g</name>
 	<name>BD+56 2966 g</name>
 	<name>GJ 892 g</name>
+	<name>Gliese 892 g</name>
 	<name>HIP 114622 g</name>
 	<name>HR 8832 g</name>
 	<name>2MASS J23131692+5710059 g</name>
@@ -11,21 +12,21 @@
 	<id>HD 219134 g</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.34</mass>
+		<mass>0.034</mass>
 		<radius />
 		<orbit>
-			<period>2247</period>
-			<semimajoraxis>3.11</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
+			<period>94.2</period>
+			<semimajoraxis>0.3753</semimajoraxis>
+			<eccentricity>0</eccentricity>
 			<inclination />
-			<periastron>215</periastron>
+			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.794</mass>
+		<mass>0.81</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
 		<distance>6.546</distance>
@@ -39,10 +40,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/10/20</lastupdate>
-	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. In the HARPS-N solution, this planet was designated HD 219134 e and was assigned a shorter-period, more eccentric orbit.</description>
+	<lastupdate>17/12/14</lastupdate>
+	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 	<new />
 	<image />
 	<imagedescription />

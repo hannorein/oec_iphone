@@ -7,34 +7,34 @@
 		<mass>2.1</mass>
 		<radius />
 		<orbit>
-			<period>670.2</period>
-			<semimajoraxis>1.73</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<period>670</period>
+			<semimajoraxis>1.78</semimajoraxis>
+			<eccentricity>0.054</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>40</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K1</spectraltype>
-		<mass>1.58</mass>
+		<spectraltype>K1IV</spectraltype>
+		<mass>1.33</mass>
 		<radius>4.6</radius>
 		<metallicity>0.18</metallicity>
-		<distance>123</distance>
-		<temperature>355.0</temperature>
-		<rightascension>13 20 39</rightascension>
-		<declination>+24 38 55</declination>
+		<distance>122.4</distance>
+		<temperature>4951</temperature>
+		<rightascension>13 20 39.5420</rightascension>
+		<declination>+24 38 55.310</declination>
 		<angulardistance />
-		<magV>8.04</magV>
+		<magV>7.89</magV>
 		<magI />
 		<magH />
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>12/07/24</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description>The star HD 116029 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 	<new />
 	<image />

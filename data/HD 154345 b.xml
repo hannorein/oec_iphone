@@ -4,27 +4,27 @@
 	<id>HD 154345 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>1</mass>
+		<mass>1.15</mass>
 		<radius />
 		<orbit>
-			<period>3538</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
+			<period>3267</period>
+			<semimajoraxis>4.15</semimajoraxis>
+			<eccentricity>0.038</eccentricity>
 			<inclination>50</inclination>
-			<periastron />
+			<periastron>341</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G8V</spectraltype>
-		<mass>0.88</mass>
+		<mass>0.893</mass>
 		<radius />
 		<metallicity>-0.105</metallicity>
-		<distance>18.06</distance>
-		<temperature>106.4</temperature>
-		<rightascension>17 02 36</rightascension>
-		<declination>+47 04 55</declination>
+		<distance>18.262</distance>
+		<temperature>5468</temperature>
+		<rightascension>17 02 36.4037</rightascension>
+		<declination>+47 04 54.764</declination>
 		<angulardistance />
 		<magV>6.74</magV>
 		<magI />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2006</discoveryyear>
-	<lastupdate>12/05/25</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

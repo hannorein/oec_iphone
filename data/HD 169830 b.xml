@@ -4,29 +4,29 @@
 	<id>HD 169830 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2.94</mass>
+		<mass>2.88</mass>
 		<radius />
 		<orbit>
-			<period>229.9</period>
-			<semimajoraxis>0.82</semimajoraxis>
-			<eccentricity>0.35</eccentricity>
+			<period>225.62</period>
+			<semimajoraxis>0.81</semimajoraxis>
+			<eccentricity>0.31</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>148</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>F8 V</spectraltype>
-		<mass>1.4</mass>
+		<mass>1.410</mass>
 		<radius>1.84</radius>
 		<metallicity>0.21</metallicity>
-		<distance>36.32</distance>
+		<distance>36.60</distance>
 		<temperature>6300</temperature>
-		<rightascension>18 27 49</rightascension>
-		<declination>-29 49 00</declination>
+		<rightascension>18 27 49.48353</rightascension>
+		<declination>-29 49 00.7073</declination>
 		<angulardistance />
-		<magV>5.9</magV>
+		<magV>5.902</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2000</discoveryyear>
-	<lastupdate>14/06/24</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

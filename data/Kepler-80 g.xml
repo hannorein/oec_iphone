@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>Kepler-80 g</id_exoplaneteu>
+	<name>Kepler-80 g</name>
+	<name>KOI-500 g</name>
+	<name>KIC 4852528 g</name>
+	<id>Kepler-80 g</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.1008</radius>
+		<orbit>
+			<period>14.64558</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination>89.35</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K5</spectraltype>
+		<mass>0.730</mass>
+		<radius>0.678</radius>
+		<metallicity>0.04</metallicity>
+		<distance>357</distance>
+		<temperature>4540</temperature>
+		<rightascension>19 44 27.016</rightascension>
+		<declination>+39 58 43.62</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>6</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/12/15</lastupdate>
+	<description>The planet Kepler-80 g was identified using machine learning. The Kepler-80 system contains a five-planet resonant chain.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

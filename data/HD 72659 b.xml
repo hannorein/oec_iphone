@@ -4,29 +4,29 @@
 	<id>HD 72659 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>3.15</mass>
+		<mass>2.99</mass>
 		<radius />
 		<orbit>
-			<period>3658</period>
-			<semimajoraxis>4.74</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
+			<period>3506</period>
+			<semimajoraxis>4.62</semimajoraxis>
+			<eccentricity>0.249</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>272.7</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G2 V</spectraltype>
-		<mass>0.95</mass>
+		<mass>1.068</mass>
 		<radius>1.36</radius>
 		<metallicity>-0.02</metallicity>
-		<distance>49.8</distance>
-		<temperature>139.5</temperature>
-		<rightascension>08 34 03</rightascension>
-		<declination>-01 34 05</declination>
+		<distance>51.84</distance>
+		<temperature>5926</temperature>
+		<rightascension>08 34 03.1902</rightascension>
+		<declination>-01 34 05.572</declination>
 		<angulardistance />
-		<magV>7.46</magV>
+		<magV>7.47</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2002</discoveryyear>
-	<lastupdate>10/12/20</lastupdate>
+	<lastupdate>17/12/10</lastupdate>
 	<description />
 	<new />
 	<image />

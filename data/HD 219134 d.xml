@@ -3,6 +3,7 @@
 	<name>HD 219134 d</name>
 	<name>BD+56 2966 d</name>
 	<name>GJ 892 d</name>
+	<name>Gliese 892 d</name>
 	<name>HIP 114622 d</name>
 	<name>HR 8832 d</name>
 	<name>2MASS J23131692+5710059 d</name>
@@ -11,21 +12,21 @@
 	<id>HD 219134 d</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.028</mass>
+		<mass>0.050877</mass>
 		<radius />
 		<orbit>
-			<period>22.805</period>
-			<semimajoraxis>0.14574</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<period>46.859</period>
+			<semimajoraxis>0.2370</semimajoraxis>
+			<eccentricity>0.138</eccentricity>
 			<inclination />
-			<periastron>0</periastron>
+			<periastron>173</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.794</mass>
+		<mass>0.81</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
 		<distance>6.546</distance>
@@ -39,10 +40,10 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/10/20</lastupdate>
-	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
+	<lastupdate>17/12/14</lastupdate>
+	<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. This planet was designated HD 219134 d in the HARPS-N announcement.</description>
 	<new />
 	<image />
 	<imagedescription />

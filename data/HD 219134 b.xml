@@ -3,6 +3,7 @@
 	<name>HD 219134 b</name>
 	<name>BD+56 2966 b</name>
 	<name>GJ 892 b</name>
+	<name>Gliese 892 b</name>
 	<name>HIP 114622 b</name>
 	<name>HR 8832 b</name>
 	<name>2MASS J23131692+5710059 b</name>
@@ -11,13 +12,13 @@
 	<id>HD 219134 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.012</mass>
-		<radius>0.1433</radius>
+		<mass>0.01491</mass>
+		<radius>0.14292</radius>
 		<orbit>
-			<period>3.0931</period>
-			<semimajoraxis>0.0384740</semimajoraxis>
+			<period>3.092926</period>
+			<semimajoraxis>0.03876</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination>85.058</inclination>
+			<inclination>85.05</inclination>
 			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
@@ -25,7 +26,7 @@
 	</properties>
 	<star>
 		<spectraltype>K3V</spectraltype>
-		<mass>0.794</mass>
+		<mass>0.81</mass>
 		<radius>0.778</radius>
 		<metallicity>0.11</metallicity>
 		<distance>6.546</distance>
@@ -39,9 +40,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>6</multiplicity>
+	<multiplicity>7</multiplicity>
 	<discoveryyear>2015</discoveryyear>
-	<lastupdate>15/10/20</lastupdate>
+	<lastupdate>17/12/14</lastupdate>
 	<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. Spitzer observations allowed the discoverers to detect the transit of the innermost planet in front of the star making HD 219134 b the nearest known transiting planet to date.</description>
 	<new />
 	<image />
