@@ -1,4 +1,4 @@
-<planets date="2017-12-15" name="data" planets="3647">
+<planets date="2018-01-13" name="data" planets="3652">
 	<planet>
 		<id_exoplaneteu>CoRoT-5 b</id_exoplaneteu>
 		<name>CoRoT-5 b</name>
@@ -520,6 +520,7 @@
 			<temperature>6410.0</temperature>
 			<rightascension>01 18 12</rightascension>
 			<declination>+02 42 10</declination>
+			<magV>11.04</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -8273,30 +8274,36 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 	<planet>
 		<id_exoplaneteu>EPIC 201549860 b</id_exoplaneteu>
 		<name>EPIC 201549860 b</name>
+		<name>EPIC 201549860 A b</name>
+		<name>K2-35 b</name>
+		<name>K2-35 A b</name>
 		<name>EPIC 201549860.01</name>
 		<id>EPIC 201549860 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.203</radius>
+			<radius>0.172</radius>
 			<orbit>
-				<period>5.6084</period>
-				<semimajoraxis>0.0555</semimajoraxis>
+				<period>5.608352</period>
+				<semimajoraxis>0.055</semimajoraxis>
+				<eccentricity>0.120000</eccentricity>
+				<periastron>41.1600000</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.73</mass>
-			<radius>0.69</radius>
+			<mass>0.701968</mass>
+			<radius>0.619575</radius>
 			<metallicity>0.05</metallicity>
 			<distance>249</distance>
-			<temperature>4523</temperature>
+			<temperature>4402.713379</temperature>
 			<rightascension>11 20 24.739</rightascension>
 			<declination>+01 17 09.44</declination>
+			<magV>14.37</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
+		<lastupdate>17/12/19</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
-		<list>Controversial</list>
+		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
@@ -12012,6 +12019,41 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>EPIC 201549860 c</id_exoplaneteu>
+		<name>EPIC 201549860 c</name>
+		<name>EPIC 201549860 A c</name>
+		<name>K2-35 c</name>
+		<name>K2-35 A c</name>
+		<name>EPIC 201549860.02</name>
+		<id>EPIC 201549860 c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.118</radius>
+			<orbit>
+				<period>2.399964</period>
+				<semimajoraxis>0.031</semimajoraxis>
+				<eccentricity>0.130000</eccentricity>
+				<inclination>88.98</inclination>
+				<periastron>-74.5500000</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.701968</mass>
+			<radius>0.619575</radius>
+			<metallicity>0.05</metallicity>
+			<distance>249</distance>
+			<temperature>4402.713379</temperature>
+			<rightascension>11 20 24.739</rightascension>
+			<declination>+01 17 09.44</declination>
+			<magV>14.37</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/19</lastupdate>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 80606 b</id_exoplaneteu>
@@ -15738,6 +15780,32 @@ Credit: Jonah Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KOI-2700 b</id_exoplaneteu>
+		<name>KOI-2700 b</name>
+		<name>KIC 8639908 b</name>
+		<id>KOI-2700 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<orbit>
+				<period>0.9100259</period>
+				<inclination>87.06</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.632</mass>
+			<radius>0.574</radius>
+			<metallicity>-0.2</metallicity>
+			<temperature>4433</temperature>
+			<rightascension>19 48 00.852</rightascension>
+			<declination>44 46 30.32</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>17/12/21</lastupdate>
+		<description>KOI-2700 b is an evaporating planet with an orbital period less than one day.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>GJ 682 c</id_exoplaneteu>
 		<name>GJ 682 c</name>
 		<name>Gliese 682 c</name>
@@ -19171,6 +19239,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			<temperature>4430.0</temperature>
 			<rightascension>12 33 33</rightascension>
 			<declination>-10 51 14</declination>
+			<magV>11.47</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
@@ -19749,6 +19818,7 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id_exoplaneteu>V391 Peg b</id_exoplaneteu>
 		<name>V391 Peg b</name>
 		<name>V0391 Peg b</name>
+		<name>HS 2201+2610 b</name>
 		<id>V391 Peg b</id>
 		<discoverymethod>timing</discoverymethod>
 		<properties>
@@ -19760,19 +19830,20 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>sdB</spectraltype>
+			<spectraltype>sdBV</spectraltype>
 			<mass>0.5</mass>
 			<radius>0.23</radius>
 			<distance>1400</distance>
-			<temperature>475.2</temperature>
-			<rightascension>22 04 12</rightascension>
-			<declination>+26 25 08</declination>
-			<magV>14.57</magV>
+			<temperature>29300</temperature>
+			<rightascension>22 04 12.109</rightascension>
+			<declination>+26 25 07.77</declination>
+			<magV>14.61</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>07/09/14</lastupdate>
-		<list>Confirmed planets</list>
+		<lastupdate>17/12/15</lastupdate>
+		<description>Analysis of 13 years of photometric data for the pulsating sdB star V391 Peg indicated that the pulsation modes agree less well than before, making the presence of a planet orbiting the star more uncertain.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-181 b</id_exoplaneteu>
@@ -23835,37 +23906,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HAT-36 b</id_exoplaneteu>
-		<name>HAT-36 b</name>
-		<id>HAT-36 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>2.79</mass>
-			<radius>1.263</radius>
-			<orbit>
-				<period>4.1752379</period>
-				<semimajoraxis>0.0529</semimajoraxis>
-				<eccentricity>0.294</eccentricity>
-				<inclination>87.57</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G0V</spectraltype>
-			<mass>1.135</mass>
-			<radius>1.186</radius>
-			<metallicity>0.13</metallicity>
-			<distance>977.0</distance>
-			<temperature>5970.0</temperature>
-			<rightascension>19 25 54.8</rightascension>
-			<declination>-23 12 10</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/06/29</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-167 c</id_exoplaneteu>
 		<name>Kepler-167 c</name>
 		<name>KOI-490 c</name>
@@ -25541,9 +25581,9 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>wasp-92 b</id_exoplaneteu>
-		<name>wasp-92 b</name>
-		<id>wasp-92 b</id>
+		<id_exoplaneteu>WASP-92 b</id_exoplaneteu>
+		<name>WASP-92 b</name>
+		<id>WASP-92 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
 			<mass>0.805</mass>
@@ -27052,27 +27092,28 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>EPIC 201912552 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.206</radius>
+			<mass>0.02504</mass>
+			<radius>0.2123</radius>
 			<orbit>
-				<period>32.94488</period>
-				<semimajoraxis>0.1491</semimajoraxis>
+				<period>32.93963</period>
+				<semimajoraxis>0.143</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M2.8</spectraltype>
-			<mass>0.413</mass>
-			<radius>0.394</radius>
+			<mass>0.359</mass>
+			<radius>0.411</radius>
 			<metallicity>0.09</metallicity>
 			<distance>34</distance>
-			<temperature>3503</temperature>
-			<rightascension>11 30 14.511</rightascension>
+			<temperature>3457</temperature>
+			<rightascension>11 30 14.510</rightascension>
 			<declination>+07 35 18.21</declination>
 			<magV>13.50</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/07</lastupdate>
-		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets.</description>
+		<lastupdate>17/12/16</lastupdate>
+		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1. This planet may be an interesting target for atmospheric studies of transiting exoplanets. Its density lies between that of Earth-like and Neptune-like planets.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -27364,6 +27405,36 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>16/04/28</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>K2-18 c</id_exoplaneteu>
+		<name>K2-18 c</name>
+		<name>EPIC 201912552 c</name>
+		<id>K2-18 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.02363</mass>
+			<orbit>
+				<period>8.962</period>
+				<semimajoraxis>0.060</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.8</spectraltype>
+			<mass>0.359</mass>
+			<radius>0.411</radius>
+			<metallicity>0.09</metallicity>
+			<distance>34</distance>
+			<temperature>3457</temperature>
+			<rightascension>11 30 14.510</rightascension>
+			<declination>+07 35 18.21</declination>
+			<magV>13.50</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/16</lastupdate>
+		<description>K2-18 c is a non-transiting planet identified in radial velocity measurements of the K2-18 system.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -28077,7 +28148,7 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>WASP-34 b</id_exoplaneteu>
 		<name>WASP-34 b</name>
-		<name>TYC 6636-00540-1 b</name>
+		<name>TYC 6636-540-1 b</name>
 		<name>2MASS J11013589-2351382 b</name>
 		<id>WASP-34 b</id>
 		<discoverymethod>transit</discoverymethod>
@@ -28085,10 +28156,11 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>0.59</mass>
 			<radius>1.22</radius>
 			<orbit>
-				<period>4.3176782</period>
+				<period>4.3176779</period>
 				<semimajoraxis>0.0524</semimajoraxis>
-				<eccentricity>0.038</eccentricity>
+				<eccentricity>0.0109</eccentricity>
 				<inclination>85.2</inclination>
+				<periastron>-40.2</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -28096,15 +28168,15 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<mass>1.01</mass>
 			<radius>0.93</radius>
 			<metallicity>-0.02</metallicity>
-			<distance>120</distance>
-			<temperature>1058.7</temperature>
-			<rightascension>11 01 36</rightascension>
-			<declination>-23 51 38</declination>
-			<magV>10.4</magV>
+			<distance>112.7</distance>
+			<temperature>5700</temperature>
+			<rightascension>11 01 35.8969</rightascension>
+			<declination>-23 51 38.409</declination>
+			<magV>10.28</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/12/13</lastupdate>
+		<lastupdate>17/12/21</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -33570,6 +33642,39 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Planets in open clusters</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-34 c</id_exoplaneteu>
+		<name>WASP-34 c</name>
+		<name>TYC 6636-540-1 c</name>
+		<name>2MASS J11013589-2351382 c</name>
+		<id>WASP-34 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>14.96</mass>
+			<orbit>
+				<period>4093</period>
+				<semimajoraxis>14.96</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>90</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.01</mass>
+			<radius>0.93</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>112.7</distance>
+			<temperature>5700</temperature>
+			<rightascension>11 01 35.8969</rightascension>
+			<declination>-23 51 38.409</declination>
+			<magV>10.28</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>17/12/21</lastupdate>
+		<description>WASP-34 c was discovered in a radial velocity search for companions to known transiting planets. A full orbit has not yet been observed, the parameters are given assuming a circular orbit.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>GJ 3323 c</id_exoplaneteu>
 		<name>GJ 3323 c</name>
 		<id>GJ 3323 c</id>
@@ -36060,6 +36165,33 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/09/30</lastupdate>
 		<description>KOI-183 b is a half-Jupiter mass planet orbiting a very old Sun-like star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KIC 12557548 b</id_exoplaneteu>
+		<name>KIC 12557548 b</name>
+		<name>KOI-3794 b</name>
+		<name>KOI-3794.01</name>
+		<name>Kepler-1520 b</name>
+		<id>KIC 12557548 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<orbit>
+				<period>0.6535538</period>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.666</mass>
+			<radius>0.660</radius>
+			<metallicity>-0.180</metallicity>
+			<temperature>4550</temperature>
+			<rightascension>19 23 51.891</rightascension>
+			<declination>+51 30 17.00</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>17/12/21</lastupdate>
+		<description>KIC 12557548 is a small planet in a short-period orbit. The transits are asymmetric due to a tail of dust evaporating from the planet.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -45304,6 +45436,7 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<temperature>6700.0</temperature>
 			<rightascension>00 37 50</rightascension>
 			<declination>+51 17 20</declination>
+			<magV>11.09</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -54118,46 +54251,6 @@ ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium<
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>Gliese 436 c</id_exoplaneteu>
-		<name>Gliese 436 c</name>
-		<name>GJ 436 c</name>
-		<name>Gj 436 c</name>
-		<name>Gl 436 c</name>
-		<name>UCF-1.01</name>
-		<id>Gliese 436 c</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.0008807961</mass>
-			<radius>0.06014599</radius>
-			<orbit>
-				<period>1.3658</period>
-				<semimajoraxis>0.0185</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<inclination>85.1</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M2V</spectraltype>
-			<mass>0.452</mass>
-			<radius>0.464</radius>
-			<metallicity>-0.32</metallicity>
-			<distance>10.14</distance>
-			<temperature>650.3</temperature>
-			<rightascension>11 42 11</rightascension>
-			<declination>+26 42 23</declination>
-			<magV>10.59</magV>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/07/20</lastupdate>
-		<description>The star Gliese 436 is located in the constellation Leo. While observing the already known planet Gliese 436 b with the Spitzer Space Telescope, astronomers have discovered an additional transiting planet Gliese 436 c. The planet is also known as UCF-1.01. There might be even more planets in the system.</description>
-		<image>ucf101</image>
-		<imagedescription>This artist's concept shows what astronomers believe is an alien world just two-thirds the size of Earth. It was identified by NASA's Spitzer Space Telescope. UCF-1.01 might be the nearest world to our solar system that is smaller than our home planet. 
-	
-	Credit: NASA/JPL-Caltech</imagedescription>
-		<list>Controversial</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>kappa CrB b</id_exoplaneteu>
 		<name>kappa CrB b</name>
 		<name>kap CrB b</name>
@@ -55130,27 +55223,29 @@ Credit: ESO/M. Kornmesser.</imagedescription>
 		<id>HD 204313 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.054</mass>
+			<mass>0.0553</mass>
 			<orbit>
-				<period>34.873</period>
-				<semimajoraxis>0.2103</semimajoraxis>
-				<eccentricity>0.17</eccentricity>
+				<period>34.905</period>
+				<semimajoraxis>0.2099</semimajoraxis>
+				<eccentricity>0.155</eccentricity>
+				<periastron>238</periastron>
+				<longitude>46.5</longitude>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
-			<mass>1.045</mass>
+			<mass>1.02</mass>
 			<metallicity>0.18</metallicity>
-			<distance>47.37</distance>
-			<temperature>153.8</temperature>
-			<rightascension>21 28 12</rightascension>
-			<declination>-21 43 35</declination>
-			<magV>7.99</magV>
+			<distance>47.4</distance>
+			<temperature>5776</temperature>
+			<rightascension>21 28 12.20709</rightascension>
+			<declination>-21 43 34.5199</declination>
+			<magV>8.02</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/12</lastupdate>
-		<description>This planet is part of a large data release by the Euopean HARP team.</description>
+		<lastupdate>17/12/23</lastupdate>
+		<description>This planet is part of a large data release by the European HARPS team.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -57250,26 +57345,28 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>HD 204313 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>3.55</mass>
+			<mass>4.28</mass>
 			<orbit>
-				<period>1920.1</period>
+				<period>2024.1</period>
 				<semimajoraxis>3.04</semimajoraxis>
-				<eccentricity>0.23</eccentricity>
+				<eccentricity>0.0946</eccentricity>
+				<periastron>292.5</periastron>
+				<longitude>107.55</longitude>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
-			<mass>1.045</mass>
+			<mass>1.02</mass>
 			<metallicity>0.18</metallicity>
-			<distance>47.37</distance>
-			<temperature>153.8</temperature>
-			<rightascension>21 28 12</rightascension>
-			<declination>-21 43 35</declination>
-			<magV>7.99</magV>
+			<distance>47.4</distance>
+			<temperature>5776</temperature>
+			<rightascension>21 28 12.20709</rightascension>
+			<declination>-21 43 34.5199</declination>
+			<magV>8.02</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>12/05/22</lastupdate>
+		<lastupdate>17/12/23</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -57330,6 +57427,37 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/06/04</lastupdate>
 		<description>HATS-3 b is a transiting exoplanet, discovered by HATSouth and confirmed with reconnaissance spectroscopy. HATSouth is a network of automated telescopes that is capable of year-round 24-hour monitoring of stars over the entire southern hemisphere of the sky. Because of the brightness of the host star, HATS-3 b is an interesting target for future observations to measure the Rossiter-McLaughlin effect and determine the spin-orbit alignment of the system.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-36 b</id_exoplaneteu>
+		<name>HATS-36 b</name>
+		<id>HATS-36 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.79</mass>
+			<radius>1.263</radius>
+			<orbit>
+				<period>4.1752379</period>
+				<semimajoraxis>0.0529</semimajoraxis>
+				<eccentricity>0.294</eccentricity>
+				<inclination>87.57</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.135</mass>
+			<radius>1.186</radius>
+			<metallicity>0.13</metallicity>
+			<distance>977.0</distance>
+			<temperature>5970.0</temperature>
+			<rightascension>19 25 54.8</rightascension>
+			<declination>-23 12 10</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/06/29</lastupdate>
+		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -58140,34 +58268,34 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id_exoplaneteu>Gliese 436 b</id_exoplaneteu>
 		<name>Gliese 436 b</name>
 		<name>GJ 436 b</name>
-		<name>Gj 436 b</name>
 		<name>Gl 436 b</name>
 		<id>Gliese 436 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0727</mass>
-			<radius>0.3767</radius>
+			<mass>0.07992</mass>
+			<radius>0.361</radius>
 			<orbit>
-				<period>2.643850</period>
-				<semimajoraxis>0.02872</semimajoraxis>
-				<eccentricity>0.15</eccentricity>
-				<inclination>85.8</inclination>
+				<period>2.64389803</period>
+				<semimajoraxis>0.0286</semimajoraxis>
+				<eccentricity>0.1616</eccentricity>
+				<inclination>86.858</inclination>
+				<periastron>327.2</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M2V</spectraltype>
-			<mass>0.452</mass>
-			<radius>0.464</radius>
+			<spectraltype>M3V</spectraltype>
+			<mass>0.445</mass>
+			<radius>0.449</radius>
 			<metallicity>-0.32</metallicity>
-			<distance>10.14</distance>
-			<temperature>650.3</temperature>
-			<rightascension>11 42 11</rightascension>
-			<declination>+26 42 23</declination>
+			<distance>9.748</distance>
+			<temperature>3479</temperature>
+			<rightascension>11 42 11.0932</rightascension>
+			<declination>+26 42 23.653</declination>
 			<magV>10.59</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>3</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>14/03/31</lastupdate>
+		<lastupdate>17/12/22</lastupdate>
 		<description>The star Gliese 436 is located in the constellation Leo. Due to tidal forces the planet Gliese 436b is expected to circularise on short timescales. It might be perturbed by an additional planet in the system.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -58286,6 +58414,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<temperature>5890.0</temperature>
 			<rightascension>14 59 29</rightascension>
 			<declination>+46 57 36</declination>
+			<magV>11.771</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -59613,6 +59742,36 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<declination>+40 13 14.7</declination>
 		</star>
 		<multiplicity>3</multiplicity>
+		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 1461 e</id_exoplaneteu>
+		<name>HD 1461 e</name>
+		<id>HD 1461 e</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.2740</mass>
+			<orbit>
+				<period>5017</period>
+				<semimajoraxis>5.78</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.02</mass>
+			<radius>1.095</radius>
+			<metallicity>0.19</metallicity>
+			<distance>23.25</distance>
+			<temperature>5765</temperature>
+			<rightascension>00 18 41.86724</rightascension>
+			<declination>-08 03 10.8024</declination>
+			<magV>6.46</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>17/12/23</lastupdate>
+		<description>A planet candidate in a ~5000-day orbit was announced by Rivera et al. (2010). This planet was not confirmed by follow-up studies, and according to D&#237;az et al. (2016) the signal may be due to incomplete sampling of the stellar activity cycle. This planet candidate was originally designated HD 1461 d, however due to the use of HD 1461 c for the 13.5-day planet, the Extrasolar Planets Encyclopaedia uses the designation HD 1461 e to refer to this planet.</description>
 		<list>Controversial</list>
 	</planet>
 	<planet>
@@ -60958,6 +61117,41 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-213 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-213 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-8 c</id_exoplaneteu>
+		<name>WASP-8 c</name>
+		<name>WASP-8 A c</name>
+		<name>TYC 7522-505-1 c</name>
+		<name>2MASS J23593607-3501530 c</name>
+		<id>WASP-8 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>9.45</mass>
+			<orbit>
+				<period>4323</period>
+				<semimajoraxis>5.28</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<periastron>90</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6</spectraltype>
+			<mass>1.04</mass>
+			<radius>0.945</radius>
+			<metallicity>0.17</metallicity>
+			<distance>89.3</distance>
+			<temperature>5600.0</temperature>
+			<rightascension>23 59 36.0711</rightascension>
+			<declination>-35 01 52.920</declination>
+			<magV>9.87</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>17/12/21</lastupdate>
+		<description>WASP-8 c was discovered in a radial velocity search for companions to known transiting planets. A full orbit has not yet been observed, the parameters are given assuming a circular orbit.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Gliese 676 A d</id_exoplaneteu>
@@ -63989,29 +64183,30 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<id>WASP-8 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>2.244</mass>
+			<mass>2.24</mass>
 			<radius>1.038</radius>
 			<orbit>
-				<period>8.158715</period>
+				<period>8.158724</period>
 				<semimajoraxis>0.0801</semimajoraxis>
-				<eccentricity>0.31</eccentricity>
+				<eccentricity>0.3044</eccentricity>
 				<inclination>88.55</inclination>
+				<periastron>274.215</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G6</spectraltype>
-			<mass>1.033</mass>
-			<radius>0.953</radius>
+			<mass>1.04</mass>
+			<radius>0.945</radius>
 			<metallicity>0.17</metallicity>
-			<distance>87</distance>
+			<distance>89.3</distance>
 			<temperature>5600.0</temperature>
-			<rightascension>23 59 36</rightascension>
-			<declination>-35 01 53</declination>
-			<magV>9.9</magV>
+			<rightascension>23 59 36.0711</rightascension>
+			<declination>-35 01 52.920</declination>
+			<magV>9.87</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>12/04/08</lastupdate>
+		<lastupdate>17/12/21</lastupdate>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
@@ -65729,6 +65924,36 @@ Credit: ESO/L. Calcada</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HD 1461 d</id_exoplaneteu>
+		<name>HD 1461 d</name>
+		<id>HD 1461 d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.08778</mass>
+			<orbit>
+				<period>446</period>
+				<semimajoraxis>1.151</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.02</mass>
+			<radius>1.095</radius>
+			<metallicity>0.19</metallicity>
+			<distance>23.25</distance>
+			<temperature>5765</temperature>
+			<rightascension>00 18 41.86724</rightascension>
+			<declination>-08 03 10.8024</declination>
+			<magV>6.46</magV>
+		</star>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>17/12/23</lastupdate>
+		<description>A planet candidate in a ~450-day orbit was announced by Rivera et al. (2010). This planet was not confirmed by follow-up studies, and according to D&#237;az et al. (2016) the signal may be due to incomplete sampling of the stellar activity cycle. This planet candidate was originally designated HD 1461 c, however this designation was subsequently used for the 13.5-day planet. The Extrasolar Planets Encyclopaedia uses the designation HD 1461 d to refer to this planet.</description>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-333 c</id_exoplaneteu>
 		<name>Kepler-333 c</name>
 		<name>KOI-1908 c</name>
@@ -66895,7 +67120,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 			<orbit>
 				<period>361.1</period>
 				<semimajoraxis>0.99</semimajoraxis>
-				<eccentricity>0.</eccentricity>
 			</orbit>
 		</properties>
 		<star>
@@ -67199,32 +67423,6 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>13/05/29</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>K2-35 c</id_exoplaneteu>
-		<name>K2-35 c</name>
-		<id>K2-35 c</id>
-		<properties>
-			<radius>0.151</radius>
-			<orbit>
-				<period>5.60906</period>
-				<semimajoraxis>0.0539</semimajoraxis>
-				<inclination>87.85</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.663</mass>
-			<radius>0.601</radius>
-			<metallicity>0.04</metallicity>
-			<temperature>4426.0</temperature>
-			<rightascension>11 20 25</rightascension>
-			<declination>+01 17 09</declination>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2015</discoveryyear>
-		<lastupdate>17/02/17</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -70203,22 +70401,24 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				<period>2831.6</period>
 				<semimajoraxis>3.93</semimajoraxis>
 				<eccentricity>0.28</eccentricity>
+				<periastron>247</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G5V</spectraltype>
-			<mass>1.045</mass>
+			<mass>1.02</mass>
 			<metallicity>0.18</metallicity>
-			<distance>47.37</distance>
-			<temperature>153.8</temperature>
-			<rightascension>21 28 12</rightascension>
-			<declination>-21 43 35</declination>
-			<magV>7.99</magV>
+			<distance>47.4</distance>
+			<temperature>5776</temperature>
+			<rightascension>21 28 12.20709</rightascension>
+			<declination>-21 43 34.5199</declination>
+			<magV>8.02</magV>
 		</star>
 		<multiplicity>3</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/05/22</lastupdate>
-		<list>Confirmed planets</list>
+		<lastupdate>17/12/23</lastupdate>
+		<description>The planet candidate HD 204313 d was announced by Robertson et al. (2012) to be in a 3:2 resonance with the giant planet HD 204313 b. The follow-up study by D&#237;az et al. (2016) failed to confirm this planet candidate.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-23 b</id_exoplaneteu>
@@ -70900,32 +71100,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-132 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 c are still unknown, the object is highly unlikely to be a false positive.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>K2-35 b</id_exoplaneteu>
-		<name>K2-35 b</name>
-		<id>K2-35 b</id>
-		<properties>
-			<radius>0.0964</radius>
-			<orbit>
-				<period>2.39991</period>
-				<semimajoraxis>0.0306</semimajoraxis>
-				<inclination>86.1</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.663</mass>
-			<radius>0.601</radius>
-			<metallicity>0.04</metallicity>
-			<temperature>4426.0</temperature>
-			<rightascension>11 20 25</rightascension>
-			<declination>+01 17 09</declination>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2015</discoveryyear>
-		<lastupdate>17/02/20</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -72578,27 +72752,27 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 1461 c</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0186</mass>
+			<mass>0.01759</mass>
 			<orbit>
-				<period>13.505</period>
+				<period>13.5052</period>
 				<semimajoraxis>0.1117</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<longitude>317.9</longitude>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G0V</spectraltype>
-			<mass>1.08</mass>
+			<mass>1.02</mass>
 			<radius>1.095</radius>
 			<metallicity>0.19</metallicity>
-			<distance>23.4</distance>
-			<temperature>1054.8</temperature>
-			<rightascension>00 18 42</rightascension>
-			<declination>-08 03 11</declination>
-			<magV>6.64</magV>
+			<distance>23.25</distance>
+			<temperature>5765</temperature>
+			<rightascension>00 18 41.86724</rightascension>
+			<declination>-08 03 10.8024</declination>
+			<magV>6.46</magV>
 		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/09/12</lastupdate>
+		<multiplicity>4</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>17/12/23</lastupdate>
 		<description>This planet is part of a large data release by the Euopean HARP team.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -73147,37 +73321,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<description>The star HD 177830 A hosts at least two planets. The planets are close to the 4:1 resonance. The star is four times brighter than our Sun but only visible with binoculars from the Earth.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>HD 143761 b</id_exoplaneteu>
-		<name>HD 143761 b</name>
-		<id>HD 143761 b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>1.045</mass>
-			<orbit>
-				<period>39.8458</period>
-				<semimajoraxis>0.2196</semimajoraxis>
-				<eccentricity>0.037</eccentricity>
-				<periastron>270.6</periastron>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G0V</spectraltype>
-			<mass>0.889</mass>
-			<radius>1.362</radius>
-			<metallicity>-0.31</metallicity>
-			<distance>17.236</distance>
-			<temperature>5627.0</temperature>
-			<rightascension>16 01 02.66</rightascension>
-			<declination>+33 18 12.6</declination>
-			<magV>5.41</magV>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/07/11</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
-		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 156411 b</id_exoplaneteu>
@@ -78450,37 +78593,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>HD 143761 c</id_exoplaneteu>
-		<name>HD 143761 c</name>
-		<id>HD 143761 c</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.079</mass>
-			<orbit>
-				<period>102.54</period>
-				<semimajoraxis>0.4123</semimajoraxis>
-				<eccentricity>0.05</eccentricity>
-				<periastron>190.0</periastron>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>G0V</spectraltype>
-			<mass>0.889</mass>
-			<radius>1.362</radius>
-			<metallicity>-0.31</metallicity>
-			<distance>17.236</distance>
-			<temperature>5627.0</temperature>
-			<rightascension>16 01 02.66</rightascension>
-			<declination>+33 18 12.6</declination>
-			<magV>5.41</magV>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/07/11</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>HD 177830 A c</id_exoplaneteu>
 		<name>HD 177830 A c</name>
 		<name>HD 177830 c</name>
@@ -79090,27 +79202,27 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<id>HD 1461 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>0.0239</mass>
+			<mass>0.02026</mass>
 			<orbit>
-				<period>5.7727</period>
-				<semimajoraxis>0.063438</semimajoraxis>
-				<eccentricity>0.14</eccentricity>
+				<period>5.77152</period>
+				<semimajoraxis>0.0634</semimajoraxis>
+				<longitude>271.6</longitude>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>G0V</spectraltype>
-			<mass>1.08</mass>
+			<mass>1.02</mass>
 			<radius>1.095</radius>
 			<metallicity>0.19</metallicity>
-			<distance>23.4</distance>
-			<temperature>1054.8</temperature>
-			<rightascension>00 18 42</rightascension>
-			<declination>-08 03 11</declination>
-			<magV>6.64</magV>
+			<distance>23.25</distance>
+			<temperature>5765</temperature>
+			<rightascension>00 18 41.86724</rightascension>
+			<declination>-08 03 10.8024</declination>
+			<magV>6.46</magV>
 		</star>
-		<multiplicity>2</multiplicity>
+		<multiplicity>4</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/12/15</lastupdate>
+		<lastupdate>17/12/23</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -80770,29 +80882,30 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	<planet>
 		<id_exoplaneteu>CVSO 30 c</id_exoplaneteu>
 		<name>CVSO 30 c</name>
+		<name>PTFO 8-8695 c</name>
 		<id>CVSO 30 c</id>
 		<discoverymethod>imaging</discoverymethod>
 		<properties>
 			<mass>4.7</mass>
 			<radius>1.63</radius>
 			<orbit>
-				<semimajoraxis>662.0</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3 PMS</spectraltype>
-			<mass>0.39</mass>
-			<radius>1.39</radius>
-			<distance>330.0</distance>
-			<temperature>3740.0</temperature>
-			<rightascension>05 25 08</rightascension>
-			<declination>+01 34 24</declination>
+			<spectraltype>M3</spectraltype>
+			<mass>0.34</mass>
+			<radius>1.07</radius>
+			<distance>330</distance>
+			<temperature>3470</temperature>
+			<rightascension>05 25 07.557</rightascension>
+			<declination>+01 34 24.33</declination>
+			<magV>16.26</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/06/12</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>17/11/28</lastupdate>
+		<description>CVSO 30 c is a directly imaged candidate companion to the star PTFO 8-8695. It is not yet confirmed whether it is co-moving with the star.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-1415 b</id_exoplaneteu>
@@ -83433,8 +83546,8 @@ Credit: Kains et al (2013).</imagedescription>
 			<radius>1.07</radius>
 			<distance>330</distance>
 			<temperature>3470</temperature>
-			<rightascension>05 25 07.55</rightascension>
-			<declination>+01 34 24.3</declination>
+			<rightascension>05 25 07.557</rightascension>
+			<declination>+01 34 24.33</declination>
 			<magV>16.26</magV>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -83777,35 +83890,6 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>CVSO 30 b</id_exoplaneteu>
-		<name>CVSO 30 b</name>
-		<id>CVSO 30 b</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>6.2</mass>
-			<radius>1.91</radius>
-			<orbit>
-				<period>0.448413</period>
-				<semimajoraxis>0.00838</semimajoraxis>
-				<inclination>61.8</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M3 PMS</spectraltype>
-			<mass>0.39</mass>
-			<radius>1.39</radius>
-			<distance>330.0</distance>
-			<temperature>3740.0</temperature>
-			<rightascension>05 25 08</rightascension>
-			<declination>+01 34 24</declination>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>16/06/12</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -89446,6 +89530,7 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<temperature>5840.0</temperature>
 			<rightascension>13 26 37</rightascension>
 			<declination>-08 40 57</declination>
+			<magV>12.91</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -91412,6 +91497,33 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>UCF-1.02</id_exoplaneteu>
+		<name>UCF-1.02</name>
+		<id>UCF-1.02</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.0580</radius>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3V</spectraltype>
+			<mass>0.445</mass>
+			<radius>0.449</radius>
+			<metallicity>-0.32</metallicity>
+			<distance>9.748</distance>
+			<temperature>3479</temperature>
+			<rightascension>11 42 11.0932</rightascension>
+			<declination>+26 42 23.653</declination>
+			<magV>10.59</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>17/12/22</lastupdate>
+		<description>The planet candidate UCF-1.02 was identified based on the detection of two possible transits separated by 151 days. This is insufficient to determine an orbital period, and the candidate has not been confirmed.</description>
+		<list>Controversial</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 85390 b</id_exoplaneteu>
@@ -93871,6 +93983,7 @@ Credit: Joe Gallagher.</imagedescription>
 			<temperature>5870.0</temperature>
 			<rightascension>20 16 50</rightascension>
 			<declination>+03 17 39</declination>
+			<magV>12.47</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -95675,6 +95788,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 			<temperature>5870.0</temperature>
 			<rightascension>20 16 50</rightascension>
 			<declination>+03 17 39</declination>
+			<magV>12.47</magV>
 		</star>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2016</discoveryyear>
@@ -97974,6 +98088,39 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>UCF-1.01</id_exoplaneteu>
+		<name>UCF-1.01</name>
+		<id>UCF-1.01</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<radius>0.0589</radius>
+			<orbit>
+				<period>1.365862</period>
+				<inclination>85.17</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M3V</spectraltype>
+			<mass>0.445</mass>
+			<radius>0.449</radius>
+			<metallicity>-0.32</metallicity>
+			<distance>9.748</distance>
+			<temperature>3479</temperature>
+			<rightascension>11 42 11.0932</rightascension>
+			<declination>+26 42 23.653</declination>
+			<magV>10.59</magV>
+		</star>
+		<multiplicity>3</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>17/12/22</lastupdate>
+		<description>The star Gliese 436 is located in the constellation Leo. While observing the already known planet Gliese 436 b with the Spitzer Space Telescope, astronomers identified two sub-Earth sized candidates, UCF-1.01 and UCF-1.02. Follow-up observations by Stevenson et al. (2014) failed to find the planet.</description>
+		<image>ucf101</image>
+		<imagedescription>This artist's concept shows what astronomers believe is an alien world just two-thirds the size of Earth. It was identified by NASA's Spitzer Space Telescope. UCF-1.01 might be the nearest world to our solar system that is smaller than our home planet.
+
+	Credit: NASA/JPL-Caltech</imagedescription>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-293 c</id_exoplaneteu>
 		<name>Kepler-293 c</name>
 		<name>KOI-1366 c</name>
@@ -99770,7 +99917,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 			<distance>62.07</distance>
 			<temperature>5460</temperature>
 			<rightascension>13 24 21.0389</rightascension>
-			<declination>+48 5306.363</declination>
+			<declination>+48 53 06.363</declination>
 			<magV>9.42</magV>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -100098,6 +100245,38 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-176 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-176 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 147379 b</id_exoplaneteu>
+		<name>HD 147379 b</name>
+		<id>HD 147379 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.07771</mass>
+			<orbit>
+				<period>86.54</period>
+				<semimajoraxis>0.3193</semimajoraxis>
+				<eccentricity>0.01</eccentricity>
+				<periastron>93</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M0.0V</spectraltype>
+			<mass>0.58</mass>
+			<radius>0.57</radius>
+			<metallicity>0.16</metallicity>
+			<distance>10.735</distance>
+			<temperature>4090</temperature>
+			<rightascension>16 16 42.7462</rightascension>
+			<declination>+67 14 19.832</declination>
+			<magV>8.896</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/22</lastupdate>
+		<description>HD 147379 b is a Neptune-sized planet orbiting in the temperate zone of an early-M dwarf.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-1238 b</id_exoplaneteu>
@@ -102363,7 +102542,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 			<distance>62.07</distance>
 			<temperature>5460</temperature>
 			<rightascension>13 24 21.0389</rightascension>
-			<declination>+48 5306.363</declination>
+			<declination>+48 53 06.363</declination>
 			<magV>9.42</magV>
 		</star>
 		<multiplicity>2</multiplicity>
@@ -102771,6 +102950,7 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 			<temperature>5940.0</temperature>
 			<rightascension>21 50 40</rightascension>
 			<declination>+10 27 47</declination>
+			<magV>12.731</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
