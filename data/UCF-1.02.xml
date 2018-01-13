@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>UCF-1.02</id_exoplaneteu>
+	<name>UCF-1.02</name>
+	<id>UCF-1.02</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.0580</radius>
+		<orbit>
+			<period />
+			<semimajoraxis />
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3V</spectraltype>
+		<mass>0.445</mass>
+		<radius>0.449</radius>
+		<metallicity>-0.32</metallicity>
+		<distance>9.748</distance>
+		<temperature>3479</temperature>
+		<rightascension>11 42 11.0932</rightascension>
+		<declination>+26 42 23.653</declination>
+		<angulardistance />
+		<magV>10.59</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>17/12/22</lastupdate>
+	<description>The planet candidate UCF-1.02 was identified based on the detection of two possible transits separated by 151 days. This is insufficient to determine an orbital period, and the candidate has not been confirmed.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Controversial</list>
+</planet>

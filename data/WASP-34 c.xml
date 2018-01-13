@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>WASP-34 c</id_exoplaneteu>
+	<name>WASP-34 c</name>
+	<name>TYC 6636-540-1 c</name>
+	<name>2MASS J11013589-2351382 c</name>
+	<id>WASP-34 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>14.96</mass>
+		<radius />
+		<orbit>
+			<period>4093</period>
+			<semimajoraxis>14.96</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination />
+			<periastron>90</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G5</spectraltype>
+		<mass>1.01</mass>
+		<radius>0.93</radius>
+		<metallicity>-0.02</metallicity>
+		<distance>112.7</distance>
+		<temperature>5700</temperature>
+		<rightascension>11 01 35.8969</rightascension>
+		<declination>-23 51 38.409</declination>
+		<angulardistance />
+		<magV>10.28</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2014</discoveryyear>
+	<lastupdate>17/12/21</lastupdate>
+	<description>WASP-34 c was discovered in a radial velocity search for companions to known transiting planets. A full orbit has not yet been observed, the parameters are given assuming a circular orbit.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

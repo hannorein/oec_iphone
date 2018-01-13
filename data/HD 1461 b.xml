@@ -4,37 +4,37 @@
 	<id>HD 1461 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.0239</mass>
+		<mass>0.02026</mass>
 		<radius />
 		<orbit>
-			<period>5.7727</period>
-			<semimajoraxis>0.063438</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<period>5.77152</period>
+			<semimajoraxis>0.0634</semimajoraxis>
+			<eccentricity />
 			<inclination />
 			<periastron />
-			<longitude />
+			<longitude>271.6</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G0V</spectraltype>
-		<mass>1.08</mass>
+		<mass>1.02</mass>
 		<radius>1.095</radius>
 		<metallicity>0.19</metallicity>
-		<distance>23.4</distance>
-		<temperature>1054.8</temperature>
-		<rightascension>00 18 42</rightascension>
-		<declination>-08 03 11</declination>
+		<distance>23.25</distance>
+		<temperature>5765</temperature>
+		<rightascension>00 18 41.86724</rightascension>
+		<declination>-08 03 10.8024</declination>
 		<angulardistance />
-		<magV>6.64</magV>
+		<magV>6.46</magV>
 		<magI />
 		<magH />
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
+	<multiplicity>4</multiplicity>
 	<discoveryyear>2009</discoveryyear>
-	<lastupdate>09/12/15</lastupdate>
+	<lastupdate>17/12/23</lastupdate>
 	<description />
 	<new />
 	<image />

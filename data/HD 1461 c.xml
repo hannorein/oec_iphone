@@ -4,37 +4,37 @@
 	<id>HD 1461 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.0186</mass>
+		<mass>0.01759</mass>
 		<radius />
 		<orbit>
-			<period>13.505</period>
+			<period>13.5052</period>
 			<semimajoraxis>0.1117</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity />
 			<inclination />
 			<periastron />
-			<longitude />
+			<longitude>317.9</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G0V</spectraltype>
-		<mass>1.08</mass>
+		<mass>1.02</mass>
 		<radius>1.095</radius>
 		<metallicity>0.19</metallicity>
-		<distance>23.4</distance>
-		<temperature>1054.8</temperature>
-		<rightascension>00 18 42</rightascension>
-		<declination>-08 03 11</declination>
+		<distance>23.25</distance>
+		<temperature>5765</temperature>
+		<rightascension>00 18 41.86724</rightascension>
+		<declination>-08 03 10.8024</declination>
 		<angulardistance />
-		<magV>6.64</magV>
+		<magV>6.46</magV>
 		<magI />
 		<magH />
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>2</multiplicity>
-	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/09/12</lastupdate>
+	<multiplicity>4</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>17/12/23</lastupdate>
 	<description>This planet is part of a large data release by the Euopean HARP team.</description>
 	<new />
 	<image />

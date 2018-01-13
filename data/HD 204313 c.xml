@@ -4,29 +4,29 @@
 	<id>HD 204313 c</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.054</mass>
+		<mass>0.0553</mass>
 		<radius />
 		<orbit>
-			<period>34.873</period>
-			<semimajoraxis>0.2103</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
+			<period>34.905</period>
+			<semimajoraxis>0.2099</semimajoraxis>
+			<eccentricity>0.155</eccentricity>
 			<inclination />
-			<periastron />
-			<longitude />
+			<periastron>238</periastron>
+			<longitude>46.5</longitude>
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>G5V</spectraltype>
-		<mass>1.045</mass>
+		<mass>1.02</mass>
 		<radius />
 		<metallicity>0.18</metallicity>
-		<distance>47.37</distance>
-		<temperature>153.8</temperature>
-		<rightascension>21 28 12</rightascension>
-		<declination>-21 43 35</declination>
+		<distance>47.4</distance>
+		<temperature>5776</temperature>
+		<rightascension>21 28 12.20709</rightascension>
+		<declination>-21 43 34.5199</declination>
 		<angulardistance />
-		<magV>7.99</magV>
+		<magV>8.02</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>3</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/09/12</lastupdate>
-	<description>This planet is part of a large data release by the Euopean HARP team.</description>
+	<lastupdate>17/12/23</lastupdate>
+	<description>This planet is part of a large data release by the European HARPS team.</description>
 	<new />
 	<image />
 	<imagedescription />

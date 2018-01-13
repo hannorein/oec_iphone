@@ -1,21 +1,21 @@
 <planet>
-	<id_exoplaneteu>EPIC 201549860 b</id_exoplaneteu>
-	<name>EPIC 201549860 b</name>
-	<name>EPIC 201549860 A b</name>
-	<name>K2-35 b</name>
-	<name>K2-35 A b</name>
-	<name>EPIC 201549860.01</name>
-	<id>EPIC 201549860 b</id>
+	<id_exoplaneteu>EPIC 201549860 c</id_exoplaneteu>
+	<name>EPIC 201549860 c</name>
+	<name>EPIC 201549860 A c</name>
+	<name>K2-35 c</name>
+	<name>K2-35 A c</name>
+	<name>EPIC 201549860.02</name>
+	<id>EPIC 201549860 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.172</radius>
+		<radius>0.118</radius>
 		<orbit>
-			<period>5.608352</period>
-			<semimajoraxis>0.055</semimajoraxis>
-			<eccentricity>0.120000</eccentricity>
-			<inclination />
-			<periastron>41.1600000</periastron>
+			<period>2.399964</period>
+			<semimajoraxis>0.031</semimajoraxis>
+			<eccentricity>0.130000</eccentricity>
+			<inclination>88.98</inclination>
+			<periastron>-74.5500000</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -37,9 +37,9 @@
 		<magK />
 	</star>
 	<multiplicity>2</multiplicity>
-	<discoveryyear>2015</discoveryyear>
+	<discoveryyear>2016</discoveryyear>
 	<lastupdate>17/12/19</lastupdate>
-	<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+	<description />
 	<new />
 	<image />
 	<imagedescription />

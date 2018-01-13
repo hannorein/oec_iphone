@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>UCF-1.01</id_exoplaneteu>
+	<name>UCF-1.01</name>
+	<id>UCF-1.01</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.0589</radius>
+		<orbit>
+			<period>1.365862</period>
+			<semimajoraxis />
+			<eccentricity />
+			<inclination>85.17</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M3V</spectraltype>
+		<mass>0.445</mass>
+		<radius>0.449</radius>
+		<metallicity>-0.32</metallicity>
+		<distance>9.748</distance>
+		<temperature>3479</temperature>
+		<rightascension>11 42 11.0932</rightascension>
+		<declination>+26 42 23.653</declination>
+		<angulardistance />
+		<magV>10.59</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2012</discoveryyear>
+	<lastupdate>17/12/22</lastupdate>
+	<description>The star Gliese 436 is located in the constellation Leo. While observing the already known planet Gliese 436 b with the Spitzer Space Telescope, astronomers identified two sub-Earth sized candidates, UCF-1.01 and UCF-1.02. Follow-up observations by Stevenson et al. (2014) failed to find the planet.</description>
+	<new />
+	<image>ucf101</image>
+	<imagedescription>This artist's concept shows what astronomers believe is an alien world just two-thirds the size of Earth. It was identified by NASA's Spitzer Space Telescope. UCF-1.01 might be the nearest world to our solar system that is smaller than our home planet.
+
+	Credit: NASA/JPL-Caltech</imagedescription>
+	<list>Controversial</list>
+</planet>

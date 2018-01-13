@@ -1,20 +1,20 @@
 <planet>
-	<id_exoplaneteu>WASP-8 b</id_exoplaneteu>
-	<name>WASP-8 b</name>
-	<name>WASP-8 A b</name>
-	<name>TYC 7522-505-1 b</name>
-	<name>2MASS J23593607-3501530 b</name>
-	<id>WASP-8 b</id>
-	<discoverymethod>transit</discoverymethod>
+	<id_exoplaneteu>WASP-8 c</id_exoplaneteu>
+	<name>WASP-8 c</name>
+	<name>WASP-8 A c</name>
+	<name>TYC 7522-505-1 c</name>
+	<name>2MASS J23593607-3501530 c</name>
+	<id>WASP-8 c</id>
+	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>2.24</mass>
-		<radius>1.038</radius>
+		<mass>9.45</mass>
+		<radius />
 		<orbit>
-			<period>8.158724</period>
-			<semimajoraxis>0.0801</semimajoraxis>
-			<eccentricity>0.3044</eccentricity>
-			<inclination>88.55</inclination>
-			<periastron>274.215</periastron>
+			<period>4323</period>
+			<semimajoraxis>5.28</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination />
+			<periastron>90</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -36,9 +36,9 @@
 		<magK />
 	</star>
 	<multiplicity>2</multiplicity>
-	<discoveryyear>2008</discoveryyear>
+	<discoveryyear>2014</discoveryyear>
 	<lastupdate>17/12/21</lastupdate>
-	<description />
+	<description>WASP-8 c was discovered in a radial velocity search for companions to known transiting planets. A full orbit has not yet been observed, the parameters are given assuming a circular orbit.</description>
 	<new />
 	<image />
 	<imagedescription />

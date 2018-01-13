@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HD 147379 b</id_exoplaneteu>
+	<name>HD 147379 b</name>
+	<id>HD 147379 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.07771</mass>
+		<radius />
+		<orbit>
+			<period>86.54</period>
+			<semimajoraxis>0.3193</semimajoraxis>
+			<eccentricity>0.01</eccentricity>
+			<inclination />
+			<periastron>93</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M0.0V</spectraltype>
+		<mass>0.58</mass>
+		<radius>0.57</radius>
+		<metallicity>0.16</metallicity>
+		<distance>10.735</distance>
+		<temperature>4090</temperature>
+		<rightascension>16 16 42.7462</rightascension>
+		<declination>+67 14 19.832</declination>
+		<angulardistance />
+		<magV>8.896</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/12/22</lastupdate>
+	<description>HD 147379 b is a Neptune-sized planet orbiting in the temperate zone of an early-M dwarf.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

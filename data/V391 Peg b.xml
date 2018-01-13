@@ -2,6 +2,7 @@
 	<id_exoplaneteu>V391 Peg b</id_exoplaneteu>
 	<name>V391 Peg b</name>
 	<name>V0391 Peg b</name>
+	<name>HS 2201+2610 b</name>
 	<id>V391 Peg b</id>
 	<discoverymethod>timing</discoverymethod>
 	<properties>
@@ -18,16 +19,16 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>sdB</spectraltype>
+		<spectraltype>sdBV</spectraltype>
 		<mass>0.5</mass>
 		<radius>0.23</radius>
 		<metallicity />
 		<distance>1400</distance>
-		<temperature>475.2</temperature>
-		<rightascension>22 04 12</rightascension>
-		<declination>+26 25 08</declination>
+		<temperature>29300</temperature>
+		<rightascension>22 04 12.109</rightascension>
+		<declination>+26 25 07.77</declination>
 		<angulardistance />
-		<magV>14.57</magV>
+		<magV>14.61</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -35,10 +36,10 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>07/09/14</lastupdate>
-	<description />
+	<lastupdate>17/12/15</lastupdate>
+	<description>Analysis of 13 years of photometric data for the pulsating sdB star V391 Peg indicated that the pulsation modes agree less well than before, making the presence of a planet orbiting the star more uncertain.</description>
 	<new />
 	<image />
 	<imagedescription />
-	<list>Confirmed planets</list>
+	<list>Controversial</list>
 </planet>
