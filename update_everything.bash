@@ -1,4 +1,5 @@
 #!/bin/bash
+alias python=python2.7
 
 commit (){
   git add *
