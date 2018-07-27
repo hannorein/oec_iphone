@@ -1,32 +1,33 @@
 <planet>
 	<id_exoplaneteu>EPIC 211913977 b</id_exoplaneteu>
 	<name>EPIC 211913977 b</name>
+	<name>K2-101 b</name>
 	<id>EPIC 211913977 b</id>
 	<discoverymethod />
 	<properties>
 		<mass />
-		<radius>0.18</radius>
+		<radius>0.178</radius>
 		<orbit>
 			<period>14.677286</period>
 			<semimajoraxis />
-			<eccentricity>0.1</eccentricity>
+			<eccentricity>0.10</eccentricity>
 			<inclination>89.4</inclination>
-			<periastron />
+			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
-		<mass>0.8</mass>
+		<spectraltype>K3V</spectraltype>
+		<mass>0.80</mass>
 		<radius>0.73</radius>
-		<metallicity />
-		<distance />
-		<temperature>4819.0</temperature>
-		<rightascension>08 41 23</rightascension>
-		<declination>+18 56 02</declination>
+		<metallicity>0.14</metallicity>
+		<distance>181.5</distance>
+		<temperature>4819</temperature>
+		<rightascension>08 41 22.581</rightascension>
+		<declination>+18 56 02.08</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.96</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/09/07</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/03/23</lastupdate>
+	<description>K2-101 b is a sub-Neptune exoplanet located in the Praesepe cluster.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in open clusters</list>
 </planet>

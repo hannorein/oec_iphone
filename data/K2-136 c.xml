@@ -1,0 +1,50 @@
+<planet>
+	<id_exoplaneteu>K2-136 c</id_exoplaneteu>
+	<name>K2-136 c</name>
+	<name>K2-136 A c</name>
+	<name>EPIC 247589423 c</name>
+	<name>EPIC 247589423 A c</name>
+	<name>LP 358-348 c</name>
+	<name>LP 358-348 A c</name>
+	<id>K2-136 c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.2596</radius>
+		<orbit>
+			<period>17.307137</period>
+			<semimajoraxis />
+			<eccentricity>0.13</eccentricity>
+			<inclination>89.6</inclination>
+			<periastron>24</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K5V</spectraltype>
+		<mass>0.74</mass>
+		<radius>0.66</radius>
+		<metallicity>0.15</metallicity>
+		<distance>59.4</distance>
+		<temperature>4499</temperature>
+		<rightascension>04 29 38.993</rightascension>
+		<declination>+22 52 57.80</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>3</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>18/03/23</lastupdate>
+	<description>K2-136 is a binary star located in the Hyades open cluster. The system contains three known planets and was independently discovered by Ciardi et al., Mann et al. and Livingston et al.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in open clusters</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

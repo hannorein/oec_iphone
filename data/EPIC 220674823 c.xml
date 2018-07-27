@@ -1,8 +1,9 @@
 <planet>
 	<id_exoplaneteu>EPIC 220674823 c</id_exoplaneteu>
 	<name>EPIC 220674823 c</name>
+	<name>K2-106 c</name>
 	<id>EPIC 220674823 c</id>
-	<discoverymethod />
+	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
 		<radius>0.226</radius>
@@ -21,12 +22,12 @@
 		<mass>0.93</mass>
 		<radius>0.83</radius>
 		<metallicity>-0.28</metallicity>
-		<distance />
+		<distance>257.200</distance>
 		<temperature>5814.0</temperature>
-		<rightascension>00 52 19</rightascension>
-		<declination>+10 47 41</declination>
+		<rightascension>00 52 19.147</rightascension>
+		<declination>+10 47 40.92</declination>
 		<angulardistance />
-		<magV />
+		<magV>12.102</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +35,7 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/11/03</lastupdate>
+	<lastupdate>18/07/24</lastupdate>
 	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />

@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>WASP-145 A b</id_exoplaneteu>
+	<name>WASP-145 A b</name>
+	<name>1SWASP J212900.65-585008.4 b</name>
+	<name>2MASS J212900.65-585008.4 b</name>
+	<id>WASP-145 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.76</mass>
+		<radius>0.68</radius>
+		<orbit>
+			<period>1.7690381</period>
+			<semimajoraxis>0.0261</semimajoraxis>
+			<eccentricity />
+			<inclination>83.3</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2V</spectraltype>
+		<mass>0.76</mass>
+		<radius>0.68</radius>
+		<metallicity>0.04</metallicity>
+		<distance />
+		<temperature>4900</temperature>
+		<rightascension>21 29 00.90</rightascension>
+		<declination>-58 50 10.1</declination>
+		<angulardistance />
+		<magV>11.5</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/03/06</lastupdate>
+	<description>WASP-145Ab is a planet in a orbit with a grazing transit. This Hot Jupiter was discovered by WASP-South.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

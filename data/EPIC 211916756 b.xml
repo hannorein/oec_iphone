@@ -1,32 +1,34 @@
 <planet>
 	<id_exoplaneteu>EPIC 211916756 b</id_exoplaneteu>
 	<name>EPIC 211916756 b</name>
+	<name>K2-95 b</name>
+	<name>JS 183 b</name>
 	<id>EPIC 211916756 b</id>
 	<discoverymethod />
 	<properties>
 		<mass />
-		<radius>0.33</radius>
+		<radius>0.330</radius>
 		<orbit>
 			<period>10.135091</period>
 			<semimajoraxis>0.0653</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
 			<inclination>89.4</inclination>
-			<periastron />
+			<periastron>-2</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
+		<spectraltype>M2.0</spectraltype>
 		<mass>0.43</mass>
 		<radius>0.44</radius>
-		<metallicity />
-		<distance />
-		<temperature>3410.0</temperature>
-		<rightascension>08 37 27</rightascension>
-		<declination>+18 58 36</declination>
+		<metallicity>0.14</metallicity>
+		<distance>181.5</distance>
+		<temperature>3410</temperature>
+		<rightascension>08 37 27.058</rightascension>
+		<declination>+18 58 36.07</declination>
 		<angulardistance />
-		<magV />
+		<magV>17.27</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,10 +36,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/12/11</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/03/23</lastupdate>
+	<description>K2-95 b is a Neptune-sized exoplanet in the Praesepe cluster.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in open clusters</list>
 </planet>

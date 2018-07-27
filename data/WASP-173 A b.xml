@@ -1,0 +1,50 @@
+<planet>
+	<id_exoplaneteu>WASP-173 A b</id_exoplaneteu>
+	<name>WASP-173 A b</name>
+	<name>KELT-22 A b</name>
+	<name>1SWASP J233640.32-343640.4 b</name>
+	<name>2MASS J23364036-3436404 b</name>
+	<name>WDS J23366-3437 b</name>
+	<name>TYC 7518-468-1 b</name>
+	<id>WASP-173 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.69</mass>
+		<radius>1.20</radius>
+		<orbit>
+			<period>1.38665318</period>
+			<semimajoraxis>0.0248</semimajoraxis>
+			<eccentricity />
+			<inclination>85.2</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G3</spectraltype>
+		<mass>1.05</mass>
+		<radius>1.11</radius>
+		<metallicity>0.16</metallicity>
+		<distance>230</distance>
+		<temperature>5700</temperature>
+		<rightascension>23 36 40.38</rightascension>
+		<declination>-34 36 40.6</declination>
+		<angulardistance />
+		<magV>11.15</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/03/27</lastupdate>
+	<description>WASP-173Ab is a massive planet in a circular orbit. The host is a G3 star, being the brighter component of the double-star system WDS23366-3437, with a companion 6 arcsecs away and 0.8
+mags fainter. One of the two stars shows a rotational modulation. This Hot Jupiter was discovered by WASP-South. It was independently discovered as KELT-22Ab, with hints of a RV trend that may indicate a second companion.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

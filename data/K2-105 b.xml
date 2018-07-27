@@ -1,8 +1,9 @@
 <planet>
 	<id_exoplaneteu>K2-105 b</id_exoplaneteu>
 	<name>K2-105 b</name>
+	<name>EPIC 211525389 b</name>
 	<id>K2-105 b</id>
-	<discoverymethod />
+	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass>0.094</mass>
 		<radius>0.32</radius>
@@ -23,10 +24,10 @@
 		<metallicity>0.26</metallicity>
 		<distance>220.0</distance>
 		<temperature>5434.0</temperature>
-		<rightascension>08 21 41</rightascension>
-		<declination>+13 29 51</declination>
+		<rightascension>08 21 40.866</rightascension>
+		<declination>+13 29 51.11</declination>
 		<angulardistance />
-		<magV />
+		<magV>11.752</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,7 +35,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2017</discoveryyear>
-	<lastupdate>17/01/06</lastupdate>
+	<lastupdate>18/07/24</lastupdate>
 	<description>Data for this planet was imported from the exoplanet.eu database.</description>
 	<new />
 	<image />

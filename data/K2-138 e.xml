@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>K2-138 e</id_exoplaneteu>
+	<name>K2-138 e</name>
+	<name>EPIC 245950175 e</name>
+	<id>K2-138 e</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass />
+		<radius>0.2935</radius>
+		<orbit>
+			<period>8.26144</period>
+			<semimajoraxis>0.07807</semimajoraxis>
+			<eccentricity />
+			<inclination>88.70</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K1V</spectraltype>
+		<mass>0.93</mass>
+		<radius>0.86</radius>
+		<metallicity>0.16</metallicity>
+		<distance>183</distance>
+		<temperature>5378</temperature>
+		<rightascension>23 15 47.769</rightascension>
+		<declination>-10 50 58.91</declination>
+		<angulardistance />
+		<magV>12.21</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>5</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/01/24</lastupdate>
+	<description>The K2-138 system is a five planet system discovered by citizen scientists participating in the Exoplanet Explorers project on the Zooniverse platform.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

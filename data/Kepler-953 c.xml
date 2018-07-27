@@ -1,6 +1,9 @@
 <planet>
 	<id_exoplaneteu>Kepler-953 c</id_exoplaneteu>
 	<name>Kepler-953 c</name>
+	<name>KOI-1792 c</name>
+	<name>KOI-1792.03</name>
+	<name>KIC 8552719 c</name>
 	<id>Kepler-953 c</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
@@ -18,13 +21,13 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.94</mass>
-		<radius>0.822</radius>
-		<metallicity>0.015</metallicity>
-		<distance />
-		<temperature>5114.0</temperature>
-		<rightascension>19 15 53</rightascension>
-		<declination>+44 37 28</declination>
+		<mass>0.950</mass>
+		<radius>0.9900</radius>
+		<metallicity>0.260</metallicity>
+		<distance>240.000</distance>
+		<temperature>5416.000</temperature>
+		<rightascension>19 15 53.193</rightascension>
+		<declination>+44 37 28.34</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,8 +37,8 @@
 	</star>
 	<multiplicity>2</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/05/24</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/02/17</lastupdate>
+	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 	<new />
 	<image />
 	<imagedescription />

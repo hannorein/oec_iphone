@@ -1,6 +1,7 @@
 <planet>
 	<id_exoplaneteu>NGC 2423 3 b</id_exoplaneteu>
 	<name>NGC 2423 3 b</name>
+	<name>NGC 2423 MMU 3 b</name>
 	<name>BD-13 2130 b</name>
 	<id>NGC 2423 3 b</id>
 	<discoverymethod>RV</discoverymethod>
@@ -9,25 +10,25 @@
 		<radius />
 		<orbit>
 			<period>714.3</period>
-			<semimajoraxis>2.1</semimajoraxis>
+			<semimajoraxis>2.10</semimajoraxis>
 			<eccentricity>0.21</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>18</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>GIV/V</spectraltype>
+		<spectraltype>G5IV-V/K2III</spectraltype>
 		<mass>2.4</mass>
 		<radius />
 		<metallicity>0.14</metallicity>
 		<distance>766</distance>
-		<temperature>417.4</temperature>
-		<rightascension>07 37 09</rightascension>
-		<declination>-13 54 24</declination>
+		<temperature />
+		<rightascension>07 37 09.2328</rightascension>
+		<declination>-13 54 23.952</declination>
 		<angulardistance />
-		<magV>9.45</magV>
+		<magV>10.04</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -35,8 +36,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2007</discoveryyear>
-	<lastupdate>07/11/27</lastupdate>
-	<description />
+	<lastupdate>18/03/23</lastupdate>
+	<description>NGC 2423 MMU 3 b is a massive giant planet or brown dwarf orbiting a giant star in the open cluster NGC 2423.</description>
 	<new />
 	<image />
 	<imagedescription />

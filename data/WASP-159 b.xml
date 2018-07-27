@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>WASP-159 b</id_exoplaneteu>
+	<name>WASP-159 b</name>
+	<name>1SWASP J043232.73-385805.8 b</name>
+	<name>2MASS J04323274-3858060 b</name>
+	<name>TYC 7579-251-1 b</name>
+	<id>WASP-159 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.55</mass>
+		<radius>1.38</radius>
+		<orbit>
+			<period>3.840401</period>
+			<semimajoraxis>0.0538</semimajoraxis>
+			<eccentricity />
+			<inclination>88.1</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F9</spectraltype>
+		<mass>1.41</mass>
+		<radius>2.11</radius>
+		<metallicity>0.22</metallicity>
+		<distance>926</distance>
+		<temperature>6000</temperature>
+		<rightascension>04 32 32.76</rightascension>
+		<declination>-38 58 06.0</declination>
+		<angulardistance />
+		<magV>12.84</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/03/06</lastupdate>
+	<description>WASP-159b is a bloated Hot Jupiter. This planet was discovered by WASP-South.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

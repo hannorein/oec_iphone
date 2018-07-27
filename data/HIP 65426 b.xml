@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>HIP 65426 b</id_exoplaneteu>
+	<name>HIP 65426 b</name>
+	<id>HIP 65426 b</id>
+	<discoverymethod>imaging</discoverymethod>
+	<properties>
+		<mass>9.0</mass>
+		<radius>1.5</radius>
+		<orbit>
+			<period />
+			<semimajoraxis>92.0</semimajoraxis>
+			<eccentricity />
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A2V</spectraltype>
+		<mass>1.96</mass>
+		<radius>1.77</radius>
+		<metallicity />
+		<distance>11.1</distance>
+		<temperature>8840.0</temperature>
+		<rightascension>13 24 36</rightascension>
+		<declination>-51 29 44</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/07/08</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

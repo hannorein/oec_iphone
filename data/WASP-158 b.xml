@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>WASP-158 b</id_exoplaneteu>
+	<name>WASP-158 b</name>
+	<name>1SWASP J001635.09-105834.9 b</name>
+	<name>2MASS J001635.09-105834.9 b</name>
+	<name>TYC 5264-1048-1 b</name>
+	<id>WASP-158 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.79</mass>
+		<radius>1.07</radius>
+		<orbit>
+			<period>3.656333</period>
+			<semimajoraxis>0.0517</semimajoraxis>
+			<eccentricity />
+			<inclination>87.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F6V</spectraltype>
+		<mass>1.38</mass>
+		<radius>1.39</radius>
+		<metallicity>0.24</metallicity>
+		<distance>1136</distance>
+		<temperature>6350</temperature>
+		<rightascension>00 16 35.12</rightascension>
+		<declination>-10 58 35.1</declination>
+		<angulardistance />
+		<magV>12.04</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/03/06</lastupdate>
+	<description>This Hot Jupiter was discovered by WASP-South.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

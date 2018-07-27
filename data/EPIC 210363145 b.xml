@@ -1,17 +1,19 @@
 <planet>
 	<id_exoplaneteu>EPIC 210363145 b</id_exoplaneteu>
 	<name>EPIC 210363145 b</name>
+	<name>K2-77 b</name>
+	<name>EPIC 210363145.01</name>
 	<id>EPIC 210363145 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
-		<radius>0.209600</radius>
+		<radius>0.2052</radius>
 		<orbit>
-			<period>8.1998</period>
+			<period>8.199796</period>
 			<semimajoraxis />
 			<eccentricity>0.14</eccentricity>
 			<inclination>88.7</inclination>
-			<periastron />
+			<periastron>89</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -23,8 +25,8 @@
 		<metallicity>0.29</metallicity>
 		<distance>125</distance>
 		<temperature>4970</temperature>
-		<rightascension>03 40 54.82</rightascension>
-		<declination>+12 34 21.4</declination>
+		<rightascension>03 40 54.824</rightascension>
+		<declination>+12 34 21.41</declination>
 		<angulardistance />
 		<magV>12.158</magV>
 		<magI />
@@ -34,10 +36,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/06/21</lastupdate>
+	<lastupdate>18/02/17</lastupdate>
 	<description>This planet is a Super-Earth with a radius roughly 2 times that of Earth. The host star EPIC 210363145 was identified as a member of the approximately 120-Myr-old Pleiades cluster based on its kinematics and photometric distance.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in open clusters</list>
 </planet>

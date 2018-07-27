@@ -1,13 +1,16 @@
 <planet>
 	<id_exoplaneteu>Kepler-1359 b</id_exoplaneteu>
 	<name>Kepler-1359 b</name>
+	<name>KOI-2828 b</name>
+	<name>KOI-2828.01</name>
+	<name>KIC 6436029 b</name>
 	<id>Kepler-1359 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
 		<mass />
 		<radius>0.252</radius>
 		<orbit>
-			<period>59.497095200</period>
+			<period>59.4970952</period>
 			<semimajoraxis />
 			<eccentricity />
 			<inclination />
@@ -18,13 +21,13 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.78</mass>
-		<radius>0.72</radius>
-		<metallicity>0.11</metallicity>
-		<distance />
+		<mass>0.780</mass>
+		<radius>0.720</radius>
+		<metallicity>0.110</metallicity>
+		<distance>669.000</distance>
 		<temperature>4709.0</temperature>
-		<rightascension>19 18 09</rightascension>
-		<declination>+41 53 34</declination>
+		<rightascension>19 18 09.316</rightascension>
+		<declination>+41 53 34.16</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -32,9 +35,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/05/10</lastupdate>
+	<lastupdate>18/02/17</lastupdate>
 	<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 	<new />
 	<image />

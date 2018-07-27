@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>GJ 536 b</id_exoplaneteu>
+	<name>GJ 536 b</name>
+	<id>GJ 536 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.0169</mass>
+		<radius />
+		<orbit>
+			<period>8.7076</period>
+			<semimajoraxis>0.06661</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<inclination />
+			<periastron>288.7</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M1</spectraltype>
+		<mass>0.52</mass>
+		<radius>0.5</radius>
+		<metallicity>-0.08</metallicity>
+		<distance>10.03</distance>
+		<temperature>3685.0</temperature>
+		<rightascension>14 01 03.19</rightascension>
+		<declination>-02 39 17.5</declination>
+		<angulardistance />
+		<magV>9.707</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2016</discoveryyear>
+	<lastupdate>16/11/08</lastupdate>
+	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

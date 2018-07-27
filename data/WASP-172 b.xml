@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>WASP-172 b</id_exoplaneteu>
+	<name>WASP-172 b</name>
+	<name>1SWASP J131744.13-471415.3 b</name>
+	<name>2MASS J13174412-4714152 b</name>
+	<name>TYC 8251-515-1 b</name>
+	<id>WASP-172 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.47</mass>
+		<radius>1.57</radius>
+		<orbit>
+			<period>5.477433</period>
+			<semimajoraxis>0.0694</semimajoraxis>
+			<eccentricity />
+			<inclination>86.7</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F1V</spectraltype>
+		<mass>1.49</mass>
+		<radius>1.91</radius>
+		<metallicity>-0.1</metallicity>
+		<distance>562</distance>
+		<temperature>6900</temperature>
+		<rightascension>13 17 44.12</rightascension>
+		<declination>-47 14 15.3</declination>
+		<angulardistance />
+		<magV>10.99</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/03/06</lastupdate>
+	<description>WASP-172b is a bloated Hot Jupiter. This planet was discovered by WASP-South.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

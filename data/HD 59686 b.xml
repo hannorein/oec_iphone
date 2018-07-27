@@ -1,30 +1,31 @@
 <planet>
 	<id_exoplaneteu>HD 59686 b</id_exoplaneteu>
 	<name>HD 59686 b</name>
+	<name>HD 59686 A b</name>
 	<id>HD 59686 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>5.25</mass>
+		<mass>6.92</mass>
 		<radius />
 		<orbit>
-			<period>303</period>
-			<semimajoraxis>0.911</semimajoraxis>
-			<eccentricity />
+			<period>299.36</period>
+			<semimajoraxis>1.0860</semimajoraxis>
+			<eccentricity>0.05</eccentricity>
 			<inclination />
-			<periastron />
+			<periastron>121</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>K2 III</spectraltype>
-		<mass>5.25</mass>
-		<radius>11.62</radius>
-		<metallicity />
-		<distance>92</distance>
-		<temperature>5150.0</temperature>
-		<rightascension>07 31 48</rightascension>
-		<declination>+17 05 09</declination>
+		<mass>1.9</mass>
+		<radius>13.2</radius>
+		<metallicity>0.15</metallicity>
+		<distance>96.9</distance>
+		<temperature>4658</temperature>
+		<rightascension>07 31 48.39602</rightascension>
+		<declination>+17 05 09.7702</declination>
 		<angulardistance />
 		<magV>5.45</magV>
 		<magI />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2003</discoveryyear>
-	<lastupdate>11/01/03</lastupdate>
-	<description />
+	<lastupdate>18/07/25</lastupdate>
+	<description>HD 59686 b is a giant planet orbiting a giant star in a close, highly-eccentric binary system. The secondary star has not been directly detected and may be either a main sequence star or a white dwarf. If it is a white dwarf, HD 59686 b may be a second-generation planet.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

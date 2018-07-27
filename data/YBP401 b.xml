@@ -4,14 +4,14 @@
 	<id>YBP401 b</id>
 	<discoverymethod>RV</discoverymethod>
 	<properties>
-		<mass>0.46</mass>
+		<mass>0.42</mass>
 		<radius />
 		<orbit>
 			<period>4.087</period>
 			<semimajoraxis />
-			<eccentricity>0.15</eccentricity>
+			<eccentricity>0.16</eccentricity>
 			<inclination />
-			<periastron>330.17</periastron>
+			<periastron>343.33</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -20,13 +20,13 @@
 		<spectraltype>F9V</spectraltype>
 		<mass>1.14</mass>
 		<radius />
-		<metallicity />
-		<distance>843.0</distance>
-		<temperature>6165.0</temperature>
-		<rightascension>08 51 19</rightascension>
-		<declination>+11 40 16</declination>
+		<metallicity>0</metallicity>
+		<distance>843</distance>
+		<temperature>6165</temperature>
+		<rightascension>08 51 19.046</rightascension>
+		<declination>+11 40 15.67</declination>
 		<angulardistance />
-		<magV />
+		<magV>13.723</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/06/18</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/03/23</lastupdate>
+	<description>YBP401 b is a hot Jupiter in an eccentric orbit around an F-type star in the open cluster M67.</description>
 	<new />
 	<image />
 	<imagedescription />

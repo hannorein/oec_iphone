@@ -1,30 +1,31 @@
 <planet>
 	<id_exoplaneteu>EPIC 211822797 b</id_exoplaneteu>
 	<name>EPIC 211822797 b</name>
+	<name>K2-103 b</name>
 	<id>EPIC 211822797 b</id>
 	<discoverymethod />
 	<properties>
 		<mass />
-		<radius>0.2</radius>
+		<radius>0.196</radius>
 		<orbit>
 			<period>21.169619</period>
 			<semimajoraxis />
 			<eccentricity>0.18</eccentricity>
 			<inclination>89.5</inclination>
-			<periastron />
+			<periastron>0</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
+		<spectraltype>M0.4</spectraltype>
 		<mass>0.61</mass>
 		<radius>0.59</radius>
-		<metallicity />
-		<distance />
-		<temperature>3880.0</temperature>
-		<rightascension>08 41 38</rightascension>
-		<declination>+17 38 24</declination>
+		<metallicity>0.14</metallicity>
+		<distance>181.5</distance>
+		<temperature>3880</temperature>
+		<rightascension>08 41 38.483</rightascension>
+		<declination>+17 38 24.05</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/09/07</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/03/23</lastupdate>
+	<description>K2-103b is a sub-Neptune exoplanet in the Praesepe cluster.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in open clusters</list>
 </planet>
