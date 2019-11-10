@@ -1,4 +1,4 @@
-<planets date="2018-07-27" name="data" planets="3792">
+<planets date="2019-11-10" name="data" planets="3854">
 	<planet>
 		<id_exoplaneteu>CoRoT-5 b</id_exoplaneteu>
 		<name>CoRoT-5 b</name>
@@ -506,6 +506,64 @@
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>55 Cancri e</id_exoplaneteu>
+		<name>55 Cancri e</name>
+		<name>55 Cnc e</name>
+		<name>rho01 Cancri e</name>
+		<name>rho01 Cnc e</name>
+		<name>Rho&#185; Cancri e</name>
+		<name>Rho&#185; Cnc e</name>
+		<name>Rho-1 Cancri e</name>
+		<name>Rho-1 Cnc e</name>
+		<name>&#961;1 Cancri e</name>
+		<name>&#961;1 Cnc e</name>
+		<name>&#961;&#185; Cancri e</name>
+		<name>&#961;&#185; Cnc e</name>
+		<name>HR 3522 e</name>
+		<name>55 Cancri A e</name>
+		<name>55 Cnc A e</name>
+		<name>rho01 Cancri A e</name>
+		<name>rho01 Cnc A e</name>
+		<name>Rho&#185; Cancri A e</name>
+		<name>Rho&#185; Cnc A e</name>
+		<name>Rho-1 Cancri A e</name>
+		<name>Rho-1 Cnc A e</name>
+		<name>&#961;1 Cancri A e</name>
+		<name>&#961;1 Cnc A e</name>
+		<name>&#961;&#185; Cancri A e</name>
+		<name>&#961;&#185; Cnc A e</name>
+		<id>55 Cancri e</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.0251</mass>
+			<radius>0.16728</radius>
+			<orbit>
+				<period>0.7365474</period>
+				<semimajoraxis>0.01544</semimajoraxis>
+				<eccentricity>0.05</eccentricity>
+				<inclination>83.59</inclination>
+				<periastron>86.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0IV-V</spectraltype>
+			<mass>0.905</mass>
+			<radius>0.943</radius>
+			<metallicity>0.35</metallicity>
+			<distance>12.5901</distance>
+			<temperature>5172</temperature>
+			<rightascension>08 52 35.8113282132</rightascension>
+			<declination>+28 19 50.956901366</declination>
+			<magV>5.95</magV>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2004</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>55 Cancri e is a super-Earth which appears to exhibit extreme variations in brightness temperature. The cause of these variations is unknown but may be due to large-scale volcanic activity on the planet. The latest estimates of the planetary radius are compatible with a rocky composition, but a thick water envelope or a carbon-rich composition cannot be ruled out. The phase curve indicates that heat is being transported to the night side by an atmosphere, likely dominated by carbon monoxide or nitrogen.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-301 d</id_exoplaneteu>
 		<name>Kepler-301 d</name>
 		<name>KOI-1436 d</name>
@@ -652,6 +710,44 @@
 		<lastupdate>12/01/01</lastupdate>
 		<description>Uranus is visible with the naked eye but has never been recognized as a planet by ancient observers.</description>
 		<list>Solar System</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HAT-P-11 c</id_exoplaneteu>
+		<name>HAT-P-11 c</name>
+		<name>HIP 97657 c</name>
+		<name>TYC 3561-02092-1 c</name>
+		<name>BD+47 2936 c</name>
+		<name>2MASS J19505021+4804508 c</name>
+		<name>Kepler-3 c</name>
+		<name>KIC 10748390 c</name>
+		<name>KOI-3 c</name>
+		<id>HAT-P-11 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>1.595</mass>
+			<orbit>
+				<period>3407</period>
+				<semimajoraxis>4.13</semimajoraxis>
+				<eccentricity>0.601</eccentricity>
+				<periastron>143.7</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K4V</spectraltype>
+			<mass>0.809</mass>
+			<radius>0.683</radius>
+			<metallicity>0.31</metallicity>
+			<distance>37.89</distance>
+			<temperature>4780</temperature>
+			<rightascension>19 50 50.2474562793</rightascension>
+			<declination>+48 04 51.097364378</declination>
+			<magV>9.47</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/08/29</lastupdate>
+		<description>HAT-P-11 c is a jovian planet on a highly eccentric orbit around the star HAT-P-11. The planet may be responsible for the misalignment of the orbit of the inner super-Neptune HAT-P-11 b via nodal precession.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-173 A b</id_exoplaneteu>
@@ -1726,6 +1822,33 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2007-BLG-192L b</id_exoplaneteu>
+		<name>MOA-2007-BLG-192L b</name>
+		<id>MOA-2007-BLG-192L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0101</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M</spectraltype>
+			<mass>0.084</mass>
+			<distance>660</distance>
+			<rightascension>18 08 03.798</rightascension>
+			<declination>-27 09 00.27</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>The exoplanet MOA-2007-BLG-192L b is a super-Earth or sub-Neptune orbiting a low-mass red dwarf star.</description>
+		<image>MOA192</image>
+		<imagedescription>Artist's impression of the extrasolar planet MOA-2007-BLG-192L b. 
+			
+Credit: Joe Gallagher.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-227 b</id_exoplaneteu>
 		<name>Kepler-227 b</name>
 		<name>KOI-752 b</name>
@@ -1780,6 +1903,28 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2017-BLG-1522L b</id_exoplaneteu>
+		<name>OGLE-2017-BLG-1522L b</name>
+		<id>OGLE-2017-BLG-1522L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.75</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.045</mass>
+			<distance>7490</distance>
+			<rightascension>18 01 16.65</rightascension>
+			<declination>-28 27 43.1</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2017-BLG-1522Lb is a gas giant orbiting a brown dwarf in the Galactic bulge.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -2388,6 +2533,28 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2017-BLG-0482L b</id_exoplaneteu>
+		<name>OGLE-2017-BLG-0482L b</name>
+		<id>OGLE-2017-BLG-0482L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0283</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.20</mass>
+			<distance>5800</distance>
+			<rightascension>17 56 11.73</rightascension>
+			<declination>-30 31 42.1</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2017-BLG-0482Lb is a Uranus-mass planet orbiting a low-mass star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-221 d</id_exoplaneteu>
 		<name>Kepler-221 d</name>
 		<name>KOI-720 d</name>
@@ -2798,6 +2965,28 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2016-BLG-1195L b</id_exoplaneteu>
+		<name>OGLE-2016-BLG-1195L b</name>
+		<id>OGLE-2016-BLG-1195L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.00450</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.078</mass>
+			<distance>3910</distance>
+			<rightascension>17 55 23.50</rightascension>
+			<declination>-30 12 26.1</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>OGLE-2016-BLG-1195L b is an Earth-mass planet orbiting an ultracool dwarf star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-3681.02</id_exoplaneteu>
 		<name>KOI-3681.02</name>
 		<id>KOI-3681.02</id>
@@ -3108,45 +3297,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-342 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-342 b are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>55 Cnc f</id_exoplaneteu>
-		<name>55 Cnc f</name>
-		<name>rho01 Cnc f</name>
-		<name>&#961;1 Cnc f</name>
-		<name>HR 3522 f</name>
-		<name>55 Cnc A f</name>
-		<name>rho01 Cnc A f</name>
-		<name>&#961;1 Cnc A f</name>
-		<id>55 Cnc f</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.141</mass>
-			<orbit>
-				<period>262.00</period>
-				<semimajoraxis>0.7880</semimajoraxis>
-				<eccentricity>0.305</eccentricity>
-				<periastron>166</periastron>
-				<longitude>185.6</longitude>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.960</mass>
-			<radius>0.960</radius>
-			<metallicity>0.3</metallicity>
-			<distance>12.34</distance>
-			<temperature>5219</temperature>
-			<rightascension>08 52 35.81093</rightascension>
-			<declination>+28 19 50.9511</declination>
-			<magV>5.95</magV>
-		</star>
-		<multiplicity>5</multiplicity>
-		<discoveryyear>2007</discoveryyear>
-		<lastupdate>11/06/07</lastupdate>
-		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-56 b</id_exoplaneteu>
@@ -3960,28 +4110,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE-BLG-1195L b</id_exoplaneteu>
-		<name>OGLE-BLG-1195L b</name>
-		<id>OGLE-BLG-1195L b</id>
-		<properties>
-			<mass>0.016</mass>
-			<orbit>
-				<semimajoraxis>2.0</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.37</mass>
-			<distance>7200.0</distance>
-			<rightascension>17 55 24</rightascension>
-			<declination>-30 47 34</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/03/28</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-556 b</id_exoplaneteu>
 		<name>Kepler-556 b</name>
 		<name>KOI-444 b</name>
@@ -4181,6 +4309,71 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<description>AB Pictoris is a star in the constellation of Pictor. Because of its high mass, the companion could be a planet or a brown dwarf.</description>
 		<image>AB Pic</image>
 		<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NGTS-10 b</id_exoplaneteu>
+		<name>NGTS-10 b</name>
+		<name>2MASS J06072933-2535417 b</name>
+		<id>NGTS-10 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.162</mass>
+			<radius>1.205</radius>
+			<orbit>
+				<period>0.7668944</period>
+				<semimajoraxis>0.0143</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>79.11</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K5 V</spectraltype>
+			<mass>0.696</mass>
+			<radius>0.697</radius>
+			<metallicity>-0.02</metallicity>
+			<distance>325</distance>
+			<temperature>4400</temperature>
+			<rightascension>06 07 29.347</rightascension>
+			<declination>-25 35 41.63</declination>
+			<magV>14.340</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/09/26</lastupdate>
+		<description>This hot Jupiter has an ultra-short period.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NGTS-4 b</id_exoplaneteu>
+		<name>NGTS-4 b</name>
+		<name>2MASS J05582375-3048424 b</name>
+		<id>NGTS-4 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>6.47988248135461E-02</mass>
+			<radius>0.283702746</radius>
+			<orbit>
+				<period>1.3373508</period>
+				<semimajoraxis>0.019</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>82.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.75</mass>
+			<radius>0.84</radius>
+			<metallicity>-0.28</metallicity>
+			<distance>282.6</distance>
+			<temperature>5143</temperature>
+			<rightascension>05 58 23.76</rightascension>
+			<declination>-30 48 42.49</declination>
+			<magV>13.14</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/03</lastupdate>
+		<description>This planet is a sub-Neptune-sized planet transiting a 13th magnitude K-dwarf in a 1.34d orbit.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -5529,6 +5722,38 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-61 b</id_exoplaneteu>
+		<name>HATS-61 b</name>
+		<name>2MASS J04063786-2520589 b</name>
+		<id>HATS-61 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.4</mass>
+			<radius>1.195</radius>
+			<orbit>
+				<period>7.817953</period>
+				<semimajoraxis>0.07908</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.15</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.076</mass>
+			<radius>1.664</radius>
+			<metallicity>0.247</metallicity>
+			<distance>693.4</distance>
+			<temperature>5542</temperature>
+			<rightascension>04 06 37.868</rightascension>
+			<declination>-25 20 58.96</declination>
+			<magV>13.233</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This planet was discovered by the HATSouth project.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HATS-24 b</id_exoplaneteu>
 		<name>HATS-24 b</name>
 		<id>HATS-24 b</id>
@@ -6216,31 +6441,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>MOA-bin-1 b</id_exoplaneteu>
-		<name>MOA-bin-1 b</name>
-		<name>MOA-bin-1L b</name>
-		<id>MOA-bin-1 b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>3.7</mass>
-			<orbit>
-				<semimajoraxis>8.3</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.75</mass>
-			<distance>5100</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>17 51 10</rightascension>
-			<declination>-29 47 38</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/03/22</lastupdate>
-		<description>This planet has been discovered in data from the 2006-2007 MOA project by Bennett et al (2012). It is the first planetary event in which the stellar host is only detected through binary microlensing events. Note that the discovery paper has not been published in a peer-reviewed journal yet.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-777 b</id_exoplaneteu>
 		<name>Kepler-777 b</name>
 		<name>KOI-1141 b</name>
@@ -6820,31 +7020,88 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>HAT-P-11 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.081</mass>
-			<radius>0.452</radius>
+			<mass>0.07362</mass>
+			<radius>0.3890</radius>
 			<orbit>
-				<period>4.887804</period>
-				<semimajoraxis>0.053</semimajoraxis>
-				<eccentricity>0.198</eccentricity>
-				<inclination>88.5</inclination>
+				<period>4.887802443</period>
+				<semimajoraxis>0.05254</semimajoraxis>
+				<eccentricity>0.218</eccentricity>
+				<inclination>89.05</inclination>
+				<periastron>19</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K4</spectraltype>
-			<mass>0.81</mass>
-			<radius>0.75</radius>
+			<spectraltype>K4V</spectraltype>
+			<mass>0.809</mass>
+			<radius>0.683</radius>
 			<metallicity>0.31</metallicity>
-			<distance>38</distance>
-			<temperature>790.9</temperature>
-			<rightascension>19 50 50</rightascension>
-			<declination>+48 04 51</declination>
+			<distance>37.89</distance>
+			<temperature>4780</temperature>
+			<rightascension>19 50 50.2474562793</rightascension>
+			<declination>+48 04 51.097364378</declination>
 			<magV>9.47</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
-		<lastupdate>13/05/29</lastupdate>
+		<lastupdate>18/08/29</lastupdate>
 		<description>The star HAT-P-11b is located in the constellation Cygnus. The planetary companion HAT-P-11b is in the field of view of the Kepler spacecraft. The expected temperature is 878K. The planets orbit is highly inclined.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>55 Cancri d</id_exoplaneteu>
+		<name>55 Cancri d</name>
+		<name>55 Cnc d</name>
+		<name>rho01 Cancri d</name>
+		<name>rho01 Cnc d</name>
+		<name>Rho&#185; Cancri d</name>
+		<name>Rho&#185; Cnc d</name>
+		<name>Rho-1 Cancri d</name>
+		<name>Rho-1 Cnc d</name>
+		<name>&#961;1 Cancri d</name>
+		<name>&#961;1 Cnc d</name>
+		<name>&#961;&#185; Cancri d</name>
+		<name>&#961;&#185; Cnc d</name>
+		<name>HR 3522 d</name>
+		<name>55 Cancri A d</name>
+		<name>55 Cnc A d</name>
+		<name>rho01 Cancri A d</name>
+		<name>rho01 Cnc A d</name>
+		<name>Rho&#185; Cancri A d</name>
+		<name>Rho&#185; Cnc A d</name>
+		<name>Rho-1 Cancri A d</name>
+		<name>Rho-1 Cnc A d</name>
+		<name>&#961;1 Cancri A d</name>
+		<name>&#961;1 Cnc A d</name>
+		<name>&#961;&#185; Cancri A d</name>
+		<name>&#961;&#185; Cnc A d</name>
+		<id>55 Cancri d</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>3.12</mass>
+			<orbit>
+				<period>5574.2</period>
+				<semimajoraxis>5.957</semimajoraxis>
+				<eccentricity>0.13</eccentricity>
+				<periastron>-69.1</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0IV-V</spectraltype>
+			<mass>0.905</mass>
+			<radius>0.943</radius>
+			<metallicity>0.35</metallicity>
+			<distance>12.5901</distance>
+			<temperature>5172</temperature>
+			<rightascension>08 52 35.8113282132</rightascension>
+			<declination>+28 19 50.956901366</declination>
+			<magV>5.95</magV>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2002</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>EPIC 201613023 b</id_exoplaneteu>
@@ -6876,6 +7133,37 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<lastupdate>18/07/24</lastupdate>
 		<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>VB 10 b</id_exoplaneteu>
+		<name>VB 10 b</name>
+		<id>VB 10 b</id>
+		<discoverymethod>astrometry</discoverymethod>
+		<properties>
+			<mass>6.4</mass>
+			<orbit>
+				<period>271.7</period>
+				<semimajoraxis>0.360</semimajoraxis>
+				<inclination>96.9</inclination>
+				<ascendingnode>38.7</ascendingnode>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5V</spectraltype>
+			<mass>0.45</mass>
+			<radius>0.453</radius>
+			<metallicity>0.00</metallicity>
+			<distance>5.9116</distance>
+			<temperature>3557</temperature>
+			<rightascension>19 16 55.2565250393</rightascension>
+			<declination>+05 10 08.038856129</declination>
+			<magV>9.115</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<description>The planet candidate VB 10 b was claimed on the basis of astrometric measurements made as part of the Stellar Planet Survey (STEPS) program. Subsequent radial velocity and astrometric measurements failed to confirm the planet's existence.</description>
+		<list>Retracted planet candidate</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0026L b</id_exoplaneteu>
@@ -7292,6 +7580,28 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2014-BLG-1722L c</id_exoplaneteu>
+		<name>OGLE-2014-BLG-1722L c</name>
+		<id>OGLE-2014-BLG-1722L c</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.2633</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.40</mass>
+			<distance>6400</distance>
+			<rightascension>17 55 00.57</rightascension>
+			<declination>-31 28 08.6</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2014-BLG-1722L is a two-planet system detected by gravitational microlensing.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-730 b</id_exoplaneteu>
 		<name>Kepler-730 b</name>
 		<name>KOI-929 b</name>
@@ -7550,6 +7860,62 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-225 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-225 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>55 Cancri f</id_exoplaneteu>
+		<name>55 Cancri f</name>
+		<name>55 Cnc f</name>
+		<name>rho01 Cancri f</name>
+		<name>rho01 Cnc f</name>
+		<name>Rho&#185; Cancri f</name>
+		<name>Rho&#185; Cnc f</name>
+		<name>Rho-1 Cancri f</name>
+		<name>Rho-1 Cnc f</name>
+		<name>&#961;1 Cancri f</name>
+		<name>&#961;1 Cnc f</name>
+		<name>&#961;&#185; Cancri f</name>
+		<name>&#961;&#185; Cnc f</name>
+		<name>HR 3522 f</name>
+		<name>55 Cancri A f</name>
+		<name>55 Cnc A f</name>
+		<name>rho01 Cancri A f</name>
+		<name>rho01 Cnc A f</name>
+		<name>Rho&#185; Cancri A f</name>
+		<name>Rho&#185; Cnc A f</name>
+		<name>Rho-1 Cancri A f</name>
+		<name>Rho-1 Cnc A f</name>
+		<name>&#961;1 Cancri A f</name>
+		<name>&#961;1 Cnc A f</name>
+		<name>&#961;&#185; Cancri A f</name>
+		<name>&#961;&#185; Cnc A f</name>
+		<id>55 Cancri f</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.1503</mass>
+			<orbit>
+				<period>259.88</period>
+				<semimajoraxis>0.7708</semimajoraxis>
+				<eccentricity>0.08</eccentricity>
+				<periastron>-97.6</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0IV-V</spectraltype>
+			<mass>0.905</mass>
+			<radius>0.943</radius>
+			<metallicity>0.35</metallicity>
+			<distance>12.5901</distance>
+			<temperature>5172</temperature>
+			<rightascension>08 52 35.8113282132</rightascension>
+			<declination>+28 19 50.956901366</declination>
+			<magV>5.95</magV>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2007</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 30562 b</id_exoplaneteu>
@@ -8057,32 +8423,65 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<id>TRAPPIST-1 c</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0051</mass>
-			<radius>0.0942</radius>
+			<mass>0.003637</mass>
+			<radius>0.09769</radius>
 			<orbit>
 				<period>2.421818</period>
-				<semimajoraxis>0.01522</semimajoraxis>
-				<eccentricity>0.014</eccentricity>
+				<semimajoraxis>0.01581512</semimajoraxis>
+				<eccentricity>0.00654</eccentricity>
 				<inclination>89.67</inclination>
+				<periastron>282.45</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-63 b</id_exoplaneteu>
+		<name>HATS-63 b</name>
+		<name>2MASS J04294044-2811501 b</name>
+		<id>HATS-63 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.96</mass>
+			<radius>1.207</radius>
+			<orbit>
+				<period>3.0566527</period>
+				<semimajoraxis>0.04026</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.86</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.931</mass>
+			<radius>1.070</radius>
+			<metallicity>0.081</metallicity>
+			<distance>634.7</distance>
+			<temperature>5627</temperature>
+			<rightascension>04 29 40.453</rightascension>
+			<declination>-28 11 50.23</declination>
+			<magV>13.8920</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This planet was discovered by the HATSouth project.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -8150,6 +8549,28 @@ Credit: Kuzuhara et al. (2013).</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/07/28</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2016-BLG-0263L b</id_exoplaneteu>
+		<name>OGLE-2016-BLG-0263L b</name>
+		<id>OGLE-2016-BLG-0263L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>4.1</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.13</mass>
+			<distance>6500</distance>
+			<rightascension>17 59 34.9</rightascension>
+			<declination>-31 49 07.0</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2016-BLG-0263Lb is a massive planet orbiting a star near the bottom of the main sequence.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -8616,18 +9037,17 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		<properties>
 			<mass>1.85</mass>
 			<orbit>
-				<semimajoraxis>0.87</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>0.022</mass>
 			<distance>1760</distance>
-			<rightascension>17 42 47</rightascension>
-			<declination>-24 15 40</declination>
+			<rightascension>17 42 46.77</rightascension>
+			<declination>-24 15 39.6</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/07/25</lastupdate>
+		<lastupdate>18/09/20</lastupdate>
 		<description>OGLE-2012-BLG-0358L b is a planetary mass object which is orbiting a brown dwarf. The discovery of this system suggests that planets can form around brown dwarf hosts, probably in a protoplanetary disk analogous to those around main sequence stars.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -9478,8 +9898,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<radius>0.17</radius>
 			<metallicity>-0.3</metallicity>
 			<distance>38.7</distance>
-			<rightascension>19 28 52</rightascension>
-			<declination>+43 37 09</declination>
+			<rightascension>19 28 52.556</rightascension>
+			<declination>+44 37 09.62</declination>
 			<magV>16.124</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -9547,6 +9967,38 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NGTS-6 b</id_exoplaneteu>
+		<name>NGTS-6 b</name>
+		<name>2MASS J05031090-3023576 b</name>
+		<id>NGTS-6 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.339</mass>
+			<radius>1.326</radius>
+			<orbit>
+				<period>0.882059</period>
+				<semimajoraxis>0.01677</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>78.231</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.767</mass>
+			<radius>0.754</radius>
+			<metallicity>0.11</metallicity>
+			<distance>311.042</distance>
+			<temperature>4730</temperature>
+			<rightascension>05 03 10.9</rightascension>
+			<declination>-30 23 57.64</declination>
+			<magV>14.087</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/09/09</lastupdate>
+		<description>This planet is an ultra-short period hot Jupiter discovered by the Next Generation Transit Survey.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -10716,47 +11168,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>55 Cnc e</id_exoplaneteu>
-		<name>55 Cnc e</name>
-		<name>rho01 Cnc e</name>
-		<name>&#961;1 Cnc e</name>
-		<name>HR 3522 e</name>
-		<name>55 Cnc A e</name>
-		<name>rho01 Cnc A e</name>
-		<name>&#961;1 Cnc A e</name>
-		<id>55 Cnc e</id>
-		<discoverymethod>transit</discoverymethod>
-		<properties>
-			<mass>0.0254</mass>
-			<radius>0.1746</radius>
-			<orbit>
-				<period>0.7365515</period>
-				<semimajoraxis>0.015690907</semimajoraxis>
-				<eccentricity>0.040</eccentricity>
-				<inclination>90</inclination>
-				<periastron>72</periastron>
-				<longitude>134.3</longitude>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.960</mass>
-			<radius>0.960</radius>
-			<metallicity>0.3</metallicity>
-			<distance>12.34</distance>
-			<temperature>5219</temperature>
-			<rightascension>08 52 35.81093</rightascension>
-			<declination>+28 19 50.9511</declination>
-			<magV>5.95</magV>
-		</star>
-		<multiplicity>5</multiplicity>
-		<discoveryyear>2004</discoveryyear>
-		<lastupdate>17/11/29</lastupdate>
-		<description>55 Cancri e is a super-Earth which appears to exhibit extreme variations in brightness temperature. The cause of these variations is unknown but may be due to large-scale volcanic activity on the planet. The latest estimates of the planetary radius are compatible with a rocky composition, but a thick water envelope or a carbon-rich composition cannot be ruled out. The phase curve indicates that heat is being transported to the night side by an atmosphere, likely dominated by carbon monoxide or nitrogen.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-1273 b</id_exoplaneteu>
 		<name>Kepler-1273 b</name>
 		<name>KOI-2544 b</name>
@@ -11274,45 +11685,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>55 Cnc d</id_exoplaneteu>
-		<name>55 Cnc d</name>
-		<name>rho01 Cnc d</name>
-		<name>&#961;1 Cnc d</name>
-		<name>HR 3522 d</name>
-		<name>55 Cnc A d</name>
-		<name>rho01 Cnc A d</name>
-		<name>&#961;1 Cnc A d</name>
-		<id>55 Cnc d</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>3.878</mass>
-			<orbit>
-				<period>4825</period>
-				<semimajoraxis>5.503</semimajoraxis>
-				<eccentricity>0.019</eccentricity>
-				<periastron>44</periastron>
-				<longitude>291.78</longitude>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.960</mass>
-			<radius>0.960</radius>
-			<metallicity>0.3</metallicity>
-			<distance>12.34</distance>
-			<temperature>5219</temperature>
-			<rightascension>08 52 35.81093</rightascension>
-			<declination>+28 19 50.9511</declination>
-			<magV>5.95</magV>
-		</star>
-		<multiplicity>5</multiplicity>
-		<discoveryyear>2002</discoveryyear>
-		<lastupdate>15/01/26</lastupdate>
-		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 175370 b</id_exoplaneteu>
@@ -12651,8 +13023,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<radius>0.17</radius>
 			<metallicity>-0.3</metallicity>
 			<distance>38.7</distance>
-			<rightascension>19 28 52</rightascension>
-			<declination>+43 37 09</declination>
+			<rightascension>19 28 52.556</rightascension>
+			<declination>+44 37 09.62</declination>
 			<magV>16.124</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -13721,29 +14093,30 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>TRAPPIST-1 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.00249</mass>
-			<radius>0.0969</radius>
+			<mass>0.003200</mass>
+			<radius>0.10001</radius>
 			<orbit>
 				<period>1.5108739</period>
-				<semimajoraxis>0.01111</semimajoraxis>
-				<eccentricity>0.019</eccentricity>
+				<semimajoraxis>0.01154775</semimajoraxis>
+				<eccentricity>0.00622</eccentricity>
 				<inclination>89.65</inclination>
+				<periastron>336.86</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -14557,6 +14930,28 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2014-BLG-1722L b</id_exoplaneteu>
+		<name>OGLE-2014-BLG-1722L b</name>
+		<id>OGLE-2014-BLG-1722L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.1740</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.40</mass>
+			<distance>6400</distance>
+			<rightascension>17 55 00.57</rightascension>
+			<declination>-31 28 08.6</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2014-BLG-1722L is a two-planet system detected by gravitational microlensing.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-139 c</id_exoplaneteu>
 		<name>Kepler-139 c</name>
 		<name>KOI-316 c</name>
@@ -14584,6 +14979,62 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-139 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-139 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>55 Cancri c</id_exoplaneteu>
+		<name>55 Cancri c</name>
+		<name>55 Cnc c</name>
+		<name>rho01 Cancri c</name>
+		<name>rho01 Cnc c</name>
+		<name>Rho&#185; Cancri c</name>
+		<name>Rho&#185; Cnc c</name>
+		<name>Rho-1 Cancri c</name>
+		<name>Rho-1 Cnc c</name>
+		<name>&#961;1 Cancri c</name>
+		<name>&#961;1 Cnc c</name>
+		<name>&#961;&#185; Cancri c</name>
+		<name>&#961;&#185; Cnc c</name>
+		<name>HR 3522 c</name>
+		<name>55 Cancri A c</name>
+		<name>55 Cnc A c</name>
+		<name>rho01 Cancri A c</name>
+		<name>rho01 Cnc A c</name>
+		<name>Rho&#185; Cancri A c</name>
+		<name>Rho&#185; Cnc A c</name>
+		<name>Rho-1 Cancri A c</name>
+		<name>Rho-1 Cnc A c</name>
+		<name>&#961;1 Cancri A c</name>
+		<name>&#961;1 Cnc A c</name>
+		<name>&#961;&#185; Cancri A c</name>
+		<name>&#961;&#185; Cnc A c</name>
+		<id>55 Cancri c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.1611</mass>
+			<orbit>
+				<period>44.3989</period>
+				<semimajoraxis>0.2373</semimajoraxis>
+				<eccentricity>0.03</eccentricity>
+				<periastron>2.4</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0IV-V</spectraltype>
+			<mass>0.905</mass>
+			<radius>0.943</radius>
+			<metallicity>0.35</metallicity>
+			<distance>12.5901</distance>
+			<temperature>5172</temperature>
+			<rightascension>08 52 35.8113282132</rightascension>
+			<declination>+28 19 50.956901366</declination>
+			<magV>5.95</magV>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>2002</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-301 b</id_exoplaneteu>
@@ -15272,29 +15723,30 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id>TRAPPIST-1 f</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.00113</mass>
-			<radius>0.0932</radius>
+			<mass>0.002939</mass>
+			<radius>0.09332</radius>
 			<orbit>
 				<period>9.20648</period>
-				<semimajoraxis>0.0371</semimajoraxis>
-				<eccentricity>0.011</eccentricity>
+				<semimajoraxis>0.03853361</semimajoraxis>
+				<eccentricity>0.01007</eccentricity>
 				<inclination>89.680</inclination>
+				<periastron>368.81</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -16623,6 +17075,30 @@ Credit: Jonah Gallagher.</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2005-BLG-169L b</id_exoplaneteu>
+		<name>OGLE-2005-BLG-169L b</name>
+		<id>OGLE-2005-BLG-169L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0444</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K</spectraltype>
+			<mass>0.69</mass>
+			<distance>4100</distance>
+			<rightascension>18 06 05.32</rightascension>
+			<declination>-30 43 57.6</declination>
+			<magV>22.783</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>The planetary signal in the microlensing event OGLE-2005-BLG-169 was confirmed in 2015 with follow-up measurements of the relative proper motion of the source and lens stars. The lens system consists of a 14.1 Earth mass planet orbiting a 0.69 solar mass K-dwarf with a projected separation of 3.5 AU. Assuming random orientation of the system, the 3D separation is 4.0+2.2-0.6 AU, locating it well beyond the star's snowline. The planet likely represents a "failed Jupiter core".</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -19278,6 +19754,39 @@ Credit: Jonah Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-182 b</id_exoplaneteu>
+		<name>WASP-182 b</name>
+		<name>2MASS J20464156-4149151 b</name>
+		<id>WASP-182 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.148</mass>
+			<radius>0.850</radius>
+			<orbit>
+				<period>3.3769848</period>
+				<semimajoraxis>0.0451</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>83.88</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G5</spectraltype>
+			<mass>1.076</mass>
+			<radius>1.34</radius>
+			<metallicity>0.27</metallicity>
+			<distance>331</distance>
+			<temperature>5638</temperature>
+			<rightascension>20 46 41.58</rightascension>
+			<declination>-41 49 15.2</declination>
+			<magV>11.98</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/08/27</lastupdate>
+		<description>This is a bloated sub-Saturn mass planet.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 212301 b</id_exoplaneteu>
 		<name>HD 212301 b</name>
 		<id>HD 212301 b</id>
@@ -19746,6 +20255,38 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<multiplicity>2</multiplicity>
 		<discoveryyear>2009</discoveryyear>
 		<lastupdate>12/01/31</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-67 b</id_exoplaneteu>
+		<name>HATS-67 b</name>
+		<name>2MASS J12005011-4608110 b</name>
+		<id>HATS-67 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.45</mass>
+			<radius>1.685</radius>
+			<orbit>
+				<period>1.6091788</period>
+				<semimajoraxis>0.03032</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>79.03</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.435</mass>
+			<radius>1.441</radius>
+			<metallicity>0.332</metallicity>
+			<distance>987.1</distance>
+			<temperature>6594</temperature>
+			<rightascension>12 00 50.118</rightascension>
+			<declination>-46 08 11.12</declination>
+			<magV>13.095</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This is an inflated Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -21647,29 +22188,30 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>TRAPPIST-1 g</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.00178</mass>
-			<radius>0.1005</radius>
+			<mass>0.003612</mass>
+			<radius>0.10242</radius>
 			<orbit>
 				<period>12.35281</period>
-				<semimajoraxis>0.0451</semimajoraxis>
-				<eccentricity>0.003</eccentricity>
+				<semimajoraxis>0.04687692</semimajoraxis>
+				<eccentricity>0.00208</eccentricity>
 				<inclination>89.710</inclination>
+				<periastron>191.34</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -22133,6 +22675,95 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NGTS-2 b</id_exoplaneteu>
+		<name>NGTS-2 b</name>
+		<name>2MASS J14202949-3112074 b</name>
+		<id>NGTS-2 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.74</mass>
+			<radius>1.595</radius>
+			<orbit>
+				<period>4.511164</period>
+				<semimajoraxis>0.0630</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.5</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F5 V</spectraltype>
+			<mass>1.64</mass>
+			<radius>1.702</radius>
+			<metallicity>-0.06</metallicity>
+			<distance>360.3</distance>
+			<temperature>6478</temperature>
+			<rightascension>14 20 29.5</rightascension>
+			<declination>-31 12 06.68</declination>
+			<magV>10.961</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>This is an inflated hot-Jupiter transiting a bright F5V star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>55 Cancri b</id_exoplaneteu>
+		<name>55 Cancri b</name>
+		<name>55 Cnc b</name>
+		<name>rho01 Cancri b</name>
+		<name>rho01 Cnc b</name>
+		<name>Rho&#185; Cancri b</name>
+		<name>Rho&#185; Cnc b</name>
+		<name>Rho-1 Cancri b</name>
+		<name>Rho-1 Cnc b</name>
+		<name>&#961;1 Cancri b</name>
+		<name>&#961;1 Cnc b</name>
+		<name>&#961;&#185; Cancri b</name>
+		<name>&#961;&#185; Cnc b</name>
+		<name>HR 3522 b</name>
+		<name>55 Cancri A b</name>
+		<name>55 Cnc A b</name>
+		<name>rho01 Cancri A b</name>
+		<name>rho01 Cnc A b</name>
+		<name>Rho&#185; Cancri A b</name>
+		<name>Rho&#185; Cnc A b</name>
+		<name>Rho-1 Cancri A b</name>
+		<name>Rho-1 Cnc A b</name>
+		<name>&#961;1 Cancri A b</name>
+		<name>&#961;1 Cnc A b</name>
+		<name>&#961;&#185; Cancri A b</name>
+		<name>&#961;&#185; Cnc A b</name>
+		<id>55 Cancri b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.8036</mass>
+			<orbit>
+				<period>14.6516</period>
+				<semimajoraxis>0.1134</semimajoraxis>
+				<eccentricity>0.00</eccentricity>
+				<periastron>-21.5</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K0IV-V</spectraltype>
+			<mass>0.905</mass>
+			<radius>0.943</radius>
+			<metallicity>0.35</metallicity>
+			<distance>12.5901</distance>
+			<temperature>5172</temperature>
+			<rightascension>08 52 35.8113282132</rightascension>
+			<declination>+28 19 50.956901366</declination>
+			<magV>5.95</magV>
+		</star>
+		<multiplicity>5</multiplicity>
+		<discoveryyear>1996</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-1447 b</id_exoplaneteu>
@@ -22842,29 +23473,30 @@ Image credit: David A. Aguilar (CFA)</imagedescription>
 		<id>TRAPPIST-1 e</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.0008</mass>
-			<radius>0.0819</radius>
+			<mass>0.002429</mass>
+			<radius>0.08118</radius>
 			<orbit>
 				<period>6.099570</period>
-				<semimajoraxis>0.02818</semimajoraxis>
-				<eccentricity>0.007</eccentricity>
+				<semimajoraxis>0.02928285</semimajoraxis>
+				<eccentricity>0.00510</eccentricity>
 				<inclination>89.86</inclination>
+				<periastron>108.37</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -24077,6 +24709,39 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-58 A b</id_exoplaneteu>
+		<name>HATS-58 A b</name>
+		<name>2MASS J12270898-4858423 A b</name>
+		<name>GSC 08239-00065 A b</name>
+		<id>HATS-58 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.03</mass>
+			<radius>1.095</radius>
+			<orbit>
+				<period>4.2180896</period>
+				<semimajoraxis>0.05798</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.69</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.461</mass>
+			<radius>1.433</radius>
+			<distance>425.5</distance>
+			<temperature>7175</temperature>
+			<rightascension>12 27 08.988</rightascension>
+			<declination>-48 58 42.39</declination>
+			<magV>11.552</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/18</lastupdate>
+		<description>This hot-Jupiter orbits the brighter HATS-58A star.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-804 c</id_exoplaneteu>
 		<name>Kepler-804 c</name>
 		<name>KOI-1279 c</name>
@@ -24332,30 +24997,6 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE-2008-BLG-092L b</id_exoplaneteu>
-		<name>OGLE-2008-BLG-092L b</name>
-		<id>OGLE-2008-BLG-092L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.12347045</mass>
-			<orbit>
-				<semimajoraxis>13</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.58</mass>
-			<distance>7000</distance>
-			<rightascension>17 47 29</rightascension>
-			<declination>-34 43 36</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/09/04</lastupdate>
-		<description>The planet OGLE-2008-BLG-092L b is a Uranus-mass planet in a binary stellar system. The discovery was made using the gravitational microlensing method. Some of the physical parameters of the system are not well constrained and model dependent.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>PSR 1257+12 A</id_exoplaneteu>
 		<name>PSR 1257+12 A</name>
 		<name>PSR B1257+12 A</name>
@@ -24389,22 +25030,22 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<id_exoplaneteu>OGLE-2013-BLG-0132L b</id_exoplaneteu>
 		<name>OGLE-2013-BLG-0132L b</name>
 		<id>OGLE-2013-BLG-0132L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.29</mass>
 			<orbit>
-				<semimajoraxis>3.6</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>0.54</mass>
-			<distance>3900.0</distance>
-			<rightascension>17 59 04</rightascension>
-			<declination>-28 34 44</declination>
+			<distance>3900</distance>
+			<rightascension>17 59 03.51</rightascension>
+			<declination>-28 25 15.7</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/07/04</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2013-BLG-0132Lb is a Saturn-mass planet orbiting a low-mass star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -25693,6 +26334,29 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2007-BLG-349L (AB) c</id_exoplaneteu>
+		<name>OGLE-2007-BLG-349L (AB) c</name>
+		<id>OGLE-2007-BLG-349L (AB) c</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.252</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.41</mass>
+			<distance>2760</distance>
+			<rightascension>18 05 24.43</rightascension>
+			<declination>-26 25 19.0</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2016</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>The Saturn-mass planet OGLE-2007-BLG-349L(AB)c is the first circumbinary planet detected by microlensing.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-773 b</id_exoplaneteu>
 		<name>Kepler-773 b</name>
 		<name>KOI-1116 b</name>
@@ -26006,6 +26670,38 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-65 b</id_exoplaneteu>
+		<name>HATS-65 b</name>
+		<name>2MASS J19314555-2644246 b</name>
+		<id>HATS-65 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.821</mass>
+			<radius>1.501</radius>
+			<orbit>
+				<period>3.1051610</period>
+				<semimajoraxis>0.04497</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.82</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.257</mass>
+			<radius>1.310</radius>
+			<metallicity>0.199</metallicity>
+			<distance>500</distance>
+			<temperature>6277</temperature>
+			<rightascension>19 31 45.552</rightascension>
+			<declination>-26 44 24.72</declination>
+			<magV>12.497</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>The host system is possibly a binary star system.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-18 b</id_exoplaneteu>
 		<name>Kepler-18 b</name>
 		<name>KOI-137 b</name>
@@ -26161,45 +26857,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<lastupdate>11/06/08</lastupdate>
 		<description>UZ Fornacis is an eclipsing polar binary. High-speed photometry and archival eclipse timing data spanning 27 years suggest the presence of extrasolar planets (Potter et al 2011).</description>
 		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>55 Cnc c</id_exoplaneteu>
-		<name>55 Cnc c</name>
-		<name>rho01 Cnc c</name>
-		<name>&#961;1 Cnc c</name>
-		<name>HR 3522 c</name>
-		<name>55 Cnc A c</name>
-		<name>rho01 Cnc A c</name>
-		<name>&#961;1 Cnc A c</name>
-		<id>55 Cnc c</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.1714</mass>
-			<orbit>
-				<period>44.4175</period>
-				<semimajoraxis>0.241376</semimajoraxis>
-				<eccentricity>0.020</eccentricity>
-				<periastron>51</periastron>
-				<longitude>228.4</longitude>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.960</mass>
-			<radius>0.960</radius>
-			<metallicity>0.3</metallicity>
-			<distance>12.34</distance>
-			<temperature>5219</temperature>
-			<rightascension>08 52 35.81093</rightascension>
-			<declination>+28 19 50.9511</declination>
-			<magV>5.95</magV>
-		</star>
-		<multiplicity>5</multiplicity>
-		<discoveryyear>2002</discoveryyear>
-		<lastupdate>15/01/26</lastupdate>
-		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>eps Tau b</id_exoplaneteu>
@@ -26589,45 +27246,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>13/05/29</lastupdate>
 		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>55 Cnc b</id_exoplaneteu>
-		<name>55 Cnc b</name>
-		<name>rho01 Cnc b</name>
-		<name>&#961;1 Cnc b</name>
-		<name>HR 3522 b</name>
-		<name>55 Cnc A b</name>
-		<name>rho01 Cnc A b</name>
-		<name>&#961;1 Cnc A b</name>
-		<id>55 Cnc b</id>
-		<discoverymethod>RV</discoverymethod>
-		<properties>
-			<mass>0.8306</mass>
-			<orbit>
-				<period>14.65152</period>
-				<semimajoraxis>0.11522725</semimajoraxis>
-				<eccentricity>0.0034</eccentricity>
-				<periastron>98</periastron>
-				<longitude>61.44</longitude>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K0V</spectraltype>
-			<mass>0.960</mass>
-			<radius>0.960</radius>
-			<metallicity>0.3</metallicity>
-			<distance>12.34</distance>
-			<temperature>5219</temperature>
-			<rightascension>08 52 35.81093</rightascension>
-			<declination>+28 19 50.9511</declination>
-			<magV>5.95</magV>
-		</star>
-		<multiplicity>5</multiplicity>
-		<discoveryyear>1996</discoveryyear>
-		<lastupdate>15/01/26</lastupdate>
-		<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
-		<list>Confirmed planets</list>
-		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-218 d</id_exoplaneteu>
@@ -27620,10 +28238,10 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<mass>0.762</mass>
 			<radius>0.732</radius>
 			<metallicity>-0.06</metallicity>
-			<distance>3.6224</distance>
+			<distance>3.6389</distance>
 			<temperature>4568</temperature>
-			<rightascension>22 03 21.65809</rightascension>
-			<declination>-56 47 09.5169</declination>
+			<rightascension>22 03 21.6542294981</rightascension>
+			<declination>-56 47 09.537018193</declination>
 			<magV>4.69</magV>
 		</star>
 		<multiplicity>1</multiplicity>
@@ -28095,8 +28713,8 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<radius>0.17</radius>
 			<metallicity>-0.3</metallicity>
 			<distance>38.7</distance>
-			<rightascension>19 28 52</rightascension>
-			<declination>+43 37 09</declination>
+			<rightascension>19 28 52.556</rightascension>
+			<declination>+44 37 09.62</declination>
 			<magV>16.124</magV>
 		</star>
 		<multiplicity>3</multiplicity>
@@ -28682,22 +29300,22 @@ Credit: Thayne Currie.</imagedescription>
 		<id_exoplaneteu>OGLE-2015-BLG-0954L b</id_exoplaneteu>
 		<name>OGLE-2015-BLG-0954L b</name>
 		<id>OGLE-2015-BLG-0954L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>4.4</mass>
+			<mass>3.4</mass>
 			<orbit>
-				<semimajoraxis>1.2</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.37</mass>
-			<distance>600.0</distance>
-			<rightascension>18 00 44</rightascension>
-			<declination>-28 20 21</declination>
+			<mass>0.30</mass>
+			<distance>1200</distance>
+			<rightascension>18 00 44.24</rightascension>
+			<declination>-28 39 39.2</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/03/02</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>The planet OGLE-2015-BLG-0954Lb is a massive planet orbiting an M-dwarf host star. The source crossing time of the microlensing event was 16 minutes.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -29524,29 +30142,30 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<id>TRAPPIST-1 d</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.00104</mass>
-			<radius>0.0689</radius>
+			<mass>0.000934</mass>
+			<radius>0.06994</radius>
 			<orbit>
 				<period>4.04982</period>
-				<semimajoraxis>0.02145</semimajoraxis>
-				<eccentricity>0.003</eccentricity>
+				<semimajoraxis>0.02228038</semimajoraxis>
+				<eccentricity>0.00837</eccentricity>
 				<inclination>89.75</inclination>
+				<periastron>-8.73</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<image>eso1706a</image>
 		<imagedescription>Artist's impression of the TRAPPIST-1 planetary system. Credit: ESO/M. Kornmesser/spaceengine.org.</imagedescription>
@@ -30263,6 +30882,29 @@ Credit: NASA, ESA, and D. Aguilar (Harvard-Smithsonian Center for Astrophysics).
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-118 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-118 c are still unknown, the object is highly unlikely to be a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2013-BLG-0723L B b</id_exoplaneteu>
+		<name>OGLE-2013-BLG-0723L B b</name>
+		<id>OGLE-2013-BLG-0723L B b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0022</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.097</mass>
+			<distance>490</distance>
+			<rightascension>17 34 40.51</rightascension>
+			<declination>-27 26 53.2</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>15/07/22</lastupdate>
+		<description>OGLE-2013-BLG-0723LBb was announced as a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It would therefore be considered either a scaled-up exommon system or a scaled-down planetary system. Han et al. (2016) showed that the light curve could be better modelled as a binary consisting of 0.2 and 0.1 solar mass stars without a planet.</description>
+		<list>Controversial</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 125612 b</id_exoplaneteu>
@@ -31065,23 +31707,25 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2003-BLG-235L b</id_exoplaneteu>
 		<name>OGLE-2003-BLG-235L b</name>
+		<name>MOA-2003-BLG-53L b</name>
 		<id>OGLE-2003-BLG-235L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>2.6</mass>
 			<orbit>
-				<semimajoraxis>5.1</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
+			<spectraltype>K</spectraltype>
 			<mass>0.63</mass>
-			<distance>5200.0</distance>
-			<rightascension>18 05 16</rightascension>
-			<declination>-28 06 18</declination>
+			<distance>5800</distance>
+			<rightascension>18 05 16.35</rightascension>
+			<declination>-28 53 42.0</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2004</discoveryyear>
-		<lastupdate>16/02/26</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/18</lastupdate>
+		<description>OGLE-2003-BLG-235/MOA-2003-BLG-53 was the first microlensing event to result in a definitive planet detection. The host star was detected by Bennett et al. (2006) who discovered that it is a K-dwarf.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -31372,11 +32016,10 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2009-BLG-266L b</id_exoplaneteu>
 		<name>MOA-2009-BLG-266L b</name>
-		<name>MOA 2009-BLG-266 b</name>
 		<id>MOA-2009-BLG-266L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.0327</mass>
+			<mass>0.03272</mass>
 			<orbit>
 				<period>2780</period>
 				<semimajoraxis>3.2</semimajoraxis>
@@ -31385,13 +32028,12 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<star>
 			<mass>0.56</mass>
 			<distance>3040</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>17 48 06</rightascension>
-			<declination>-35 00 19</declination>
+			<rightascension>17 48 05.95</rightascension>
+			<declination>-35 00 19.48</declination>
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2010</discoveryyear>
-		<lastupdate>11/06/14</lastupdate>
+		<discoveryyear>2011</discoveryyear>
+		<lastupdate>18/09/19</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -32632,23 +33274,23 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<id_exoplaneteu>OGLE-2013-BLG-1761L b</id_exoplaneteu>
 		<name>OGLE-2013-BLG-1761L b</name>
 		<id>OGLE-2013-BLG-1761L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>2.8</mass>
 			<orbit>
-				<semimajoraxis>1.8</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M/K</spectraltype>
 			<mass>0.33</mass>
-			<distance>6900.0</distance>
-			<rightascension>17 53 38</rightascension>
-			<declination>-28 06 17</declination>
+			<distance>6900</distance>
+			<rightascension>17 53 38.28</rightascension>
+			<declination>-28 53 42.98</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/03/23</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2013-BLG-1761Lb is a jovian planet orbiting an M or K dwarf star which is likely to be located in the Galactic bulge.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -33358,6 +34000,28 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2017-BLG-0373L b</id_exoplaneteu>
+		<name>OGLE-2017-BLG-0373L b</name>
+		<id>OGLE-2017-BLG-0373L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.401</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.248</mass>
+			<distance>5915</distance>
+			<rightascension>17 57 19.06</rightascension>
+			<declination>-31 57 06.2</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2017-BLG-0373Lb is a giant planet orbiting a red dwarf star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-8 b</id_exoplaneteu>
 		<name>Kepler-8 b</name>
 		<name>2MASS J18450914+4227038 b</name>
@@ -33390,6 +34054,38 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
 		<lastupdate>15/12/03</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-62 b</id_exoplaneteu>
+		<name>HATS-62 b</name>
+		<name>2MASS J20494783-2418124 b</name>
+		<id>HATS-62 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.179</mass>
+			<radius>1.055</radius>
+			<orbit>
+				<period>3.2768837</period>
+				<semimajoraxis>0.04163</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.92</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.896</mass>
+			<radius>0.933</radius>
+			<metallicity>0.133</metallicity>
+			<distance>530.8</distance>
+			<temperature>5416</temperature>
+			<rightascension>20 49 47.833</rightascension>
+			<declination>-24 18 12.5</declination>
+			<magV>14.015</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This is a super-Neptune planet. The host system is possibly a binary star system.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -33832,6 +34528,28 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 		<description>HD 4113 b is a planet in an extremely eccentric orbit. There is a brown dwarf (possibly a binary) in a 23 AU orbit that may be responsible for the high eccentricity.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2017-BLG-1140L b</id_exoplaneteu>
+		<name>OGLE-2017-BLG-1140L b</name>
+		<id>OGLE-2017-BLG-1140L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>1.6</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.21</mass>
+			<distance>7100</distance>
+			<rightascension>17 47 31.93</rightascension>
+			<declination>-24 31 21.6</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2017-BLG-1140Lb is a giant planet orbiting at approximately 1 AU from a red dwarf star.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 219134 h</id_exoplaneteu>
@@ -34409,24 +35127,22 @@ Credit: NASA/Ames/JPL-Caltech</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2013-BLG-0341L B b</id_exoplaneteu>
 		<name>OGLE-2013-BLG-0341L B b</name>
-		<name>OGLE-2013-BLG-0341LBb</name>
 		<id>OGLE-2013-BLG-0341L B b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.005222</mass>
+			<mass>0.005223</mass>
 			<orbit>
-				<semimajoraxis>0.702</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.1127</mass>
+			<mass>0.1209</mass>
 			<distance>911</distance>
-			<rightascension>17 52 07</rightascension>
-			<declination>-29 50 46</declination>
+			<rightascension>17 52 07.49</rightascension>
+			<declination>-29 50 46.0</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/07/04</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>The planet OGLE-20130BLG-0341LB b was discovered with the gravitational microlensing method. The planet is orbiting a star with a very low luminosity. That is why even though the planet's semimajor axis is smaller than that of Earth, its temperature is well below freezing.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
@@ -37064,23 +37780,22 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id>MOA-2009-BLG-387L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>2.6</mass>
+			<mass>2.56</mass>
 			<orbit>
-				<period>1972.3</period>
-				<semimajoraxis>1.8</semimajoraxis>
+				<period>1983</period>
+				<semimajoraxis>1.82</semimajoraxis>
+				<inclination>52</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M</spectraltype>
 			<mass>0.19</mass>
-			<distance>5700</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>17 53 51</rightascension>
+			<distance>5690</distance>
+			<rightascension>17 53 50.79</rightascension>
 			<declination>-33 59 25</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/02/04</lastupdate>
+		<lastupdate>18/09/19</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -38283,6 +38998,29 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-298 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-298 d are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-bin-1L b</id_exoplaneteu>
+		<name>MOA-bin-1L b</name>
+		<id>MOA-bin-1L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>3.7</mass>
+			<orbit>
+				<semimajoraxis>8.3</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.75</mass>
+			<distance>5100</distance>
+			<rightascension>17 51 10.20</rightascension>
+			<declination>-29 47 38.3</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>18/09/19</lastupdate>
+		<description>This planet has been discovered in data from the 2006-2007 MOA project by Bennett et al (2012). It is the first planetary event in which the stellar host is only detected through binary microlensing events.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -40378,6 +41116,43 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KELT-23 A b</id_exoplaneteu>
+		<name>KELT-23 A b</name>
+		<name>BD+66 911 A b</name>
+		<name>2MASS J15283520+6621314 A b</name>
+		<name>TYC 4187-996-1 A b</name>
+		<name>UCAC4 782-024743 A b</name>
+		<id>KELT-23 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.938</mass>
+			<radius>1.323</radius>
+			<orbit>
+				<period>2.255251</period>
+				<semimajoraxis>0.03302</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.37</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2 V</spectraltype>
+			<mass>0.944</mass>
+			<radius>0.996</radius>
+			<metallicity>-0.105</metallicity>
+			<distance>126.7</distance>
+			<temperature>5899</temperature>
+			<rightascension>15 28 35.193</rightascension>
+			<declination>+66 21 31.54</declination>
+			<magV>10.253</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/05/23</lastupdate>
+		<description>This is a hot Jupiter orbiting a Near-Solar twin system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-940 b</id_exoplaneteu>
 		<name>Kepler-940 b</name>
 		<name>KOI-1723 b</name>
@@ -41400,6 +42175,38 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-60 b</id_exoplaneteu>
+		<name>HATS-60 b</name>
+		<name>2MASS J22452736-1459303 b</name>
+		<id>HATS-60 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.662</mass>
+			<radius>1.153</radius>
+			<orbit>
+				<period>3.560829</period>
+				<semimajoraxis>0.04708</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.28</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.097</mass>
+			<radius>1.460</radius>
+			<metallicity>0.335</metallicity>
+			<distance>493.3</distance>
+			<temperature>5688</temperature>
+			<rightascension>22 45 27.364</rightascension>
+			<declination>-14 59 30.35</declination>
+			<magV>12.641</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This planet was discovered by the HATSouth project.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>K2-65 b</id_exoplaneteu>
 		<name>K2-65 b</name>
 		<name>EPIC 206144956 b</name>
@@ -41805,23 +42612,23 @@ Credit: ESO/J. Rameau</imagedescription>
 		<id_exoplaneteu>OGLE-2012-BLG-0724L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0724L b</name>
 		<id>OGLE-2012-BLG-0724L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.47</mass>
 			<orbit>
-				<semimajoraxis>1.6</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M</spectraltype>
 			<mass>0.29</mass>
-			<distance>6700.0</distance>
-			<rightascension>17 55 52</rightascension>
-			<declination>-29 10 53</declination>
+			<distance>6700</distance>
+			<rightascension>17 55 52.39</rightascension>
+			<declination>-29 49 06.7</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/04/20</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2012-BLG-0724Lb is a Saturn-mass planet orbiting an M dwarf. The original analysis of the microlensing event identified the system as a stellar binary.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -41907,6 +42714,44 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>&#960; Mensae c</id_exoplaneteu>
+		<name>&#960; Mensae c</name>
+		<name>&#960; Men c</name>
+		<name>Pi Mensae c</name>
+		<name>Pi Men c</name>
+		<name>HD 39091 c</name>
+		<name>TOI 144.01</name>
+		<name>TOI 144 c</name>
+		<id>&#960; Mensae c</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.01517</mass>
+			<radius>0.1909</radius>
+			<orbit>
+				<period>6.2682</period>
+				<semimajoraxis>0.06839</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.27</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.094</mass>
+			<radius>1.10</radius>
+			<metallicity>0.08</metallicity>
+			<distance>18.27</distance>
+			<temperature>6037</temperature>
+			<rightascension>05 37 09.8851202601</rightascension>
+			<declination>-80 28 08.831347245</declination>
+			<magV>5.67</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>The planet &#960; Men c was the first planet to be announced from the TESS mission. The mass was confirmed with radial velocity data from HARPS and AAT/UCLES.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -43384,6 +44229,39 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>NGTS-5 b</id_exoplaneteu>
+		<name>NGTS-5 b</name>
+		<name>2MASS J14441396+0536195 b</name>
+		<id>NGTS-5 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.229</mass>
+			<radius>1.136</radius>
+			<orbit>
+				<period>3.3569866</period>
+				<semimajoraxis>0.0382</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.6</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2 V</spectraltype>
+			<mass>0.661</mass>
+			<radius>0.739</radius>
+			<metallicity>0.12</metallicity>
+			<distance>309.5</distance>
+			<temperature>4987</temperature>
+			<rightascension>14 44 13.984</rightascension>
+			<declination>+05 36 19.35</declination>
+			<magV>13.770</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/05/07</lastupdate>
+		<description>This is a  highly inflated planet offering insights into the sub-Jovian desert.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-1091 b</id_exoplaneteu>
 		<name>Kepler-1091 b</name>
 		<name>KOI-2095 b</name>
@@ -43862,8 +44740,8 @@ Credit: ESO/J. Rameau</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>K0</spectraltype>
-			<mass>0.117</mass>
-			<radius>0.8</radius>
+			<mass>0.92</mass>
+			<radius>0.80</radius>
 			<metallicity>0.2</metallicity>
 			<distance>230.0</distance>
 			<temperature>5310.0</temperature>
@@ -44197,6 +45075,71 @@ Credit: ESO/J. Rameau</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/07/28</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-64 b</id_exoplaneteu>
+		<name>HATS-64 b</name>
+		<name>2MASS J09370902-2948015 b</name>
+		<id>HATS-64 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.96</mass>
+			<radius>1.679</radius>
+			<orbit>
+				<period>4.908897</period>
+				<semimajoraxis>0.06562</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.24</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.564</mass>
+			<radius>2.113</radius>
+			<metallicity>0.220</metallicity>
+			<distance>1114</distance>
+			<temperature>6554</temperature>
+			<rightascension>09 37 09.03</rightascension>
+			<declination>-29 48 01.57</declination>
+			<magV>12.924</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>The host system is possibly a binary star system.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-181 b</id_exoplaneteu>
+		<name>WASP-181 b</name>
+		<name>1SWASP J014710.37+030759.0 b</name>
+		<id>WASP-181 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.299</mass>
+			<radius>1.184</radius>
+			<orbit>
+				<period>4.5195064</period>
+				<semimajoraxis>0.05427</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.38</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2</spectraltype>
+			<mass>1.04</mass>
+			<radius>0.965</radius>
+			<metallicity>0.09</metallicity>
+			<distance>443</distance>
+			<temperature>5839</temperature>
+			<rightascension>01 47 10.38</rightascension>
+			<declination>+03 07 58.9</declination>
+			<magV>12.91</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/03/15</lastupdate>
+		<description>This is a hot-Saturn planet.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -44732,6 +45675,27 @@ Credit: ESO/J. Rameau</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2014-BLG-0124L b</id_exoplaneteu>
+		<name>OGLE-2014-BLG-0124L b</name>
+		<id>OGLE-2014-BLG-0124L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.51</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.71</mass>
+			<distance>4100</distance>
+			<rightascension>18 02 29.21</rightascension>
+			<declination>-28 23 46.5</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<description>The microlens parallax of the microlensing event OGLE-2014-BLG-0124 was measured using data from the Spitzer Space Telescope.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-1010 b</id_exoplaneteu>
 		<name>Kepler-1010 b</name>
 		<name>KOI-1910 b</name>
@@ -44896,7 +45860,7 @@ Credit: ESO/J. Rameau</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/12/11</lastupdate>
+		<lastupdate>18/09/19</lastupdate>
 		<description>MOA-2011-BLG-028Lb is a Neptune-mass planet orbiting a star in the galactic bulge.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -45017,6 +45981,28 @@ Credit: ESO/J. Rameau</imagedescription>
 Image credit: Vanessa Bailey</imagedescription>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, P-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2013-BLG-0102L B</id_exoplaneteu>
+		<name>OGLE-2013-BLG-0102L B</name>
+		<id>OGLE-2013-BLG-0102L B</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>12.6</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.096</mass>
+			<distance>3040</distance>
+			<rightascension>17 52 07.08</rightascension>
+			<declination>-31 41 26.1</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2013-BLG-0102 was a microlensing event observed towards the galactic bulge. The lens system is a low-mass binary consisting of a primary at the hydrogen-burning limit and a secondary at the deuterium-burning limit. Depending on the definitions used, the secondary may either be regarded as a giant planet or a low-mass brown dwarf.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 19994 A b</id_exoplaneteu>
@@ -45465,28 +46451,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>KMT-2015-1 b</id_exoplaneteu>
-		<name>KMT-2015-1 b</name>
-		<id>KMT-2015-1 b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>2.2</mass>
-			<orbit>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.18</mass>
-			<distance>8200</distance>
-			<rightascension>17 58 39.01</rightascension>
-			<declination>-28 01 54.1</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/22</lastupdate>
-		<description>KMT-2015-1b is a Jovian planet orbiting a low-mass star, likely located in the galactic bulge. It was detected as part of the Korea Microlensing Telescope Network (KMTNet) lensing survey.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-184 d</id_exoplaneteu>
 		<name>Kepler-184 d</name>
 		<name>KOI-567 d</name>
@@ -45544,6 +46508,28 @@ Image credit: Vanessa Bailey</imagedescription>
 		<description>This planet is orbiting the star HD 41004 A. A second object has been found around the star HD 41004 B. With a mass estimate of about 19 Jupiter masses, it is considered to be a brown dwarf.</description>
 		<list>Confirmed planets</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>UKIRT-2017-BLG-001L b</id_exoplaneteu>
+		<name>UKIRT-2017-BLG-001L b</name>
+		<id>UKIRT-2017-BLG-001L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>1.28</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.81</mass>
+			<distance>6300</distance>
+			<rightascension>17 46 36.98</rightascension>
+			<declination>-29 12 40.9</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>The planet UKIRT-2017-BLG-001Lb was discovered by the UKIRT microlensing survey.</description>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HAT-P-51 b</id_exoplaneteu>
@@ -45731,7 +46717,6 @@ Image credit: Vanessa Bailey</imagedescription>
 		<properties>
 			<mass>4.8</mass>
 			<orbit>
-				<semimajoraxis>1.1</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
@@ -45739,9 +46724,9 @@ Image credit: Vanessa Bailey</imagedescription>
 			<mass>0.86</mass>
 			<radius>0.82</radius>
 			<distance>7700</distance>
-			<temperature>5180.0</temperature>
-			<rightascension>17 55 39</rightascension>
-			<declination>-28 28 37</declination>
+			<temperature>5180</temperature>
+			<rightascension>17 55 39.350</rightascension>
+			<declination>-28 28 36.65</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -46503,6 +47488,39 @@ Image credit: Vanessa Bailey</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-59 b</id_exoplaneteu>
+		<name>HATS-59 b</name>
+		<name>2MASS J11211786-2223174 b</name>
+		<name>GSC 06090-00133 b</name>
+		<id>HATS-59 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.806</mass>
+			<radius>1.126</radius>
+			<orbit>
+				<period>5.416081</period>
+				<semimajoraxis>0.06112</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.10</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.038</mass>
+			<radius>1.036</radius>
+			<metallicity>0.180</metallicity>
+			<distance>654.9</distance>
+			<temperature>5670</temperature>
+			<rightascension>11 21 17.865</rightascension>
+			<declination>-22 23 17.45</declination>
+			<magV>13.951</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/05/15</lastupdate>
+		<description>This is a transiting Hot-Jupiter around a Sun-Like star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-224 e</id_exoplaneteu>
 		<name>Kepler-224 e</name>
 		<name>KOI-733 e</name>
@@ -46538,18 +47556,16 @@ Image credit: Vanessa Bailey</imagedescription>
 		<id>MOA-2010-BLG-073L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>11</mass>
+			<mass>11.0</mass>
 			<orbit>
-				<semimajoraxis>1.21</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M</spectraltype>
 			<mass>0.16</mass>
 			<distance>2800</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>18 10 11</rightascension>
-			<declination>-26 31 22</declination>
+			<rightascension>18 10 11.342</rightascension>
+			<declination>-26 31 22.544</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
@@ -47514,6 +48530,36 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-59 c</id_exoplaneteu>
+		<name>HATS-59 c</name>
+		<name>2MASS J11211786-2223174 c</name>
+		<name>GSC 06090-00133 c</name>
+		<id>HATS-59 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>12.7</mass>
+			<orbit>
+				<period>1422</period>
+				<semimajoraxis>2.504</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.038</mass>
+			<radius>1.036</radius>
+			<metallicity>0.180</metallicity>
+			<distance>654.9</distance>
+			<temperature>5670</temperature>
+			<rightascension>11 21 17.865</rightascension>
+			<declination>-22 23 17.45</declination>
+			<magV>13.951</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/05/15</lastupdate>
+		<description>This is a cold massive giant planet around a Sun-Like star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 168746 b</id_exoplaneteu>
 		<name>HD 168746 b</name>
 		<id>HD 168746 b</id>
@@ -47797,6 +48843,28 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/13</lastupdate>
 		<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2017-BLG-1434L b</id_exoplaneteu>
+		<name>OGLE-2017-BLG-1434L b</name>
+		<id>OGLE-2017-BLG-1434L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0138</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.234</mass>
+			<distance>860</distance>
+			<rightascension>17 53 07.29</rightascension>
+			<declination>-30 14 44.6</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2017-BLG-1434Lb is a cold super-Earth or sub-Neptune planet orbiting a red dwarf star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48234,6 +49302,28 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/09/07</lastupdate>
 		<description>WASP-120 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a massive (5.0MJup) planet in a 3.6-day orbit around an F5 star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA-2016-BLG-227L b</id_exoplaneteu>
+		<name>MOA-2016-BLG-227L b</name>
+		<id>MOA-2016-BLG-227L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>2.8</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.29</mass>
+			<distance>6500</distance>
+			<rightascension>18 05 53.70</rightascension>
+			<declination>-27 42 51.43</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>MOA-2016-BLG-227Lb is a massive planet orbiting a low-mass star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -48886,24 +49976,24 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id_exoplaneteu>OGLE-2015-BLG-0051L b</id_exoplaneteu>
 		<name>OGLE-2015-BLG-0051L b</name>
 		<name>KMT-2015-BLG-0048L b</name>
+		<name>KMT-2015-1 b</name>
 		<id>OGLE-2015-BLG-0051L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.72</mass>
 			<orbit>
-				<semimajoraxis>0.73</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G</spectraltype>
-			<mass>0.1</mass>
-			<distance>8200.0</distance>
-			<rightascension>17 58 39</rightascension>
-			<declination>-28 58 06</declination>
+			<mass>0.10</mass>
+			<distance>8200</distance>
+			<rightascension>17 58 39.01</rightascension>
+			<declination>-28 01 54.1</declination>
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/07/25</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<discoveryyear>2015</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2015-BLG-0051Lb/KMT-2015-BLG-0048Lb is a giant planet orbiting a low-mass star in the Galactic bulge.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -49612,24 +50702,22 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id_exoplaneteu>OGLE-2012-BLG-0950L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0950L b</name>
 		<id>OGLE-2012-BLG-0950L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>0.11</mass>
 			<orbit>
-				<semimajoraxis>2.7</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M</spectraltype>
 			<mass>0.56</mass>
-			<distance>3000.0</distance>
-			<temperature>5500.0</temperature>
-			<rightascension>18 08 05</rightascension>
-			<declination>-29 16 06</declination>
+			<distance>3000</distance>
+			<rightascension>18 08 04.62</rightascension>
+			<declination>-29 43 53.7</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>17/01/31</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2012-BLG-0950Lb was the first planet with a mass measurement from only microlens parallax and lens flux.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -51017,6 +52105,26 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2010-BLG-311 b</id_exoplaneteu>
+		<name>MOA-2010-BLG-311 b</name>
+		<id>MOA-2010-BLG-311 b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<distance>6000</distance>
+			<rightascension>18 08 49.98</rightascension>
+			<declination>-25 57 04.27</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2012</discoveryyear>
+		<lastupdate>18/09/19</lastupdate>
+		<description>This object was observed in a gravitational microlensing event. A good mass estimate could not be obtained although the object is most likely of planetary nature. Unfortunately microlensing events are not repeatable and the planet is therefore marked as controversial. The lens may be a member of the globular cluster NGC 6553.</description>
+		<list>Controversial</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-1254 d</id_exoplaneteu>
 		<name>Kepler-1254 d</name>
 		<name>KOI-2485 d</name>
@@ -51609,13 +52717,14 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id>CoRoT-20 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>4.24</mass>
+			<mass>4.3</mass>
 			<radius>0.84</radius>
 			<orbit>
-				<period>9.2</period>
-				<semimajoraxis>0.0902</semimajoraxis>
-				<eccentricity>0.562</eccentricity>
+				<period>9.24285</period>
+				<semimajoraxis>0.090</semimajoraxis>
+				<eccentricity>0.59</eccentricity>
 				<inclination>88.21</inclination>
+				<periastron>60.1</periastron>
 			</orbit>
 		</properties>
 		<star>
@@ -51623,15 +52732,15 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 			<mass>1.14</mass>
 			<radius>1.02</radius>
 			<metallicity>0.14</metallicity>
-			<distance>1230</distance>
-			<temperature>1002</temperature>
-			<rightascension>06 30 53</rightascension>
-			<declination>+00 13 37</declination>
+			<distance>864</distance>
+			<temperature>5880</temperature>
+			<rightascension>06 30 52.9022405280</rightascension>
+			<declination>+00 13 36.858471822</declination>
 			<magV>14.66</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2011</discoveryyear>
-		<lastupdate>11/06/14</lastupdate>
+		<lastupdate>18/08/31</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -51893,6 +53002,28 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2005-BLG-71L b</id_exoplaneteu>
+		<name>OGLE-2005-BLG-71L b</name>
+		<id>OGLE-2005-BLG-71L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>3.8</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.46</mass>
+			<distance>3200</distance>
+			<rightascension>17 50 09.77</rightascension>
+			<declination>-34 40 23.5</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2005</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>OGLE 2005-BLG-71L b is a massive giant planet orbiting a red dwarf star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -52246,6 +53377,28 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2009-BLG-319L b</id_exoplaneteu>
+		<name>MOA-2009-BLG-319L b</name>
+		<id>MOA-2009-BLG-319L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.157</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K/M</spectraltype>
+			<mass>0.38</mass>
+			<distance>6100</distance>
+			<rightascension>18 06 58.13</rightascension>
+			<declination>-26 49 10.89</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2010</discoveryyear>
+		<lastupdate>18/09/19</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>KOI-1860 b</id_exoplaneteu>
 		<name>KOI-1860 b</name>
 		<name>Kepler-416 b</name>
@@ -52566,22 +53719,20 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<id>OGLE-2011-BLG-0265L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>1.0</mass>
+			<mass>0.88</mass>
 			<orbit>
-				<semimajoraxis>2.0</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M3.5</spectraltype>
-			<mass>0.23</mass>
-			<distance>3500</distance>
+			<spectraltype>M3-M4</spectraltype>
+			<mass>0.211</mass>
+			<distance>4380</distance>
 			<rightascension>17 57 47.72</rightascension>
 			<declination>-27 23 40.3</declination>
-			<magV>20.54</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/11/30</lastupdate>
+		<lastupdate>18/09/20</lastupdate>
 		<description>A cold Jupiter orbits an M-dwarf star that gave rise to the microlensing event OGLE-2011-BLG-0265. The preferred solution out of two host star/planet configurations is presented here.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -53401,32 +54552,6 @@ Credit: Marie-Eve Naud (Montreal).</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>15/11/23</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>OGLE-05-390L b</id_exoplaneteu>
-		<name>OGLE-05-390L b</name>
-		<name>OGLE 2005-BLG-390L b</name>
-		<id>OGLE-05-390L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.017</mass>
-			<orbit>
-				<period>3500</period>
-				<semimajoraxis>2.1</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M</spectraltype>
-			<mass>0.22</mass>
-			<distance>6500</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>17 54 19</rightascension>
-			<declination>-30 22 38</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2005</discoveryyear>
-		<lastupdate>06/04/12</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -54294,21 +55419,19 @@ Image credit: Joe Gallagher</imagedescription>
 		<id>OGLE-2007-BLG-368L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.0694</mass>
+			<mass>0.0629</mass>
 			<orbit>
-				<semimajoraxis>3.3</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>0.64</mass>
 			<distance>5900</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>17 56 26</rightascension>
-			<declination>-32 14 15</declination>
+			<rightascension>17 56 25.96</rightascension>
+			<declination>-32 14 14.7</declination>
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2008</discoveryyear>
-		<lastupdate>09/12/08</lastupdate>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -55185,6 +56308,28 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2012-BLG-006L b</id_exoplaneteu>
+		<name>MOA-2012-BLG-006L b</name>
+		<id>MOA-2012-BLG-006L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>8.4</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.49</mass>
+			<distance>5300</distance>
+			<rightascension>18 01 46.31</rightascension>
+			<declination>-29 06 31.6</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>MOA-2012-BLG-006Lb is an object near the dividing line between planets and brown dwarfs.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-26 b</id_exoplaneteu>
 		<name>Kepler-26 b</name>
 		<name>KOI-250 b</name>
@@ -55212,6 +56357,39 @@ Image credit: Joe Gallagher</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>16/01/13</lastupdate>
 		<description>Kepler-26 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 b are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-183 b</id_exoplaneteu>
+		<name>WASP-183 b</name>
+		<name>1SWASP J105509.36-004413.7 b</name>
+		<id>WASP-183 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.502</mass>
+			<radius>1.47</radius>
+			<orbit>
+				<period>4.1117771</period>
+				<semimajoraxis>0.04632</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.37</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G9</spectraltype>
+			<mass>0.784</mass>
+			<radius>0.871</radius>
+			<metallicity>-0.31</metallicity>
+			<distance>328.4</distance>
+			<temperature>5313</temperature>
+			<rightascension>10 55 09.354</rightascension>
+			<declination>-00 44 13.81</declination>
+			<magV>12.76</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/03/15</lastupdate>
+		<description>This is a hot Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -55398,6 +56576,37 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>CoRoT-20 c</id_exoplaneteu>
+		<name>CoRoT-20 c</name>
+		<id>CoRoT-20 c</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>17</mass>
+			<orbit>
+				<period>1675</period>
+				<semimajoraxis>2.90</semimajoraxis>
+				<eccentricity>0.60</eccentricity>
+				<periastron>65.0</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G2V</spectraltype>
+			<mass>1.14</mass>
+			<radius>1.02</radius>
+			<metallicity>0.14</metallicity>
+			<distance>864</distance>
+			<temperature>5880</temperature>
+			<rightascension>06 30 52.9022405280</rightascension>
+			<declination>+00 13 36.858471822</declination>
+			<magV>14.66</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/08/31</lastupdate>
+		<description>CoRoT-20 c is a massive radial velocity-detected companion to the exoplanet host star CoRoT-20. It may have excited the eccentricity of the transiting hot Jupiter via the Lidov-Kozai mechanism.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-121 c</id_exoplaneteu>
 		<name>Kepler-121 c</name>
 		<name>KOI-223 c</name>
@@ -55579,6 +56788,38 @@ Image credit: Joe Gallagher</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-66 b</id_exoplaneteu>
+		<name>HATS-66 b</name>
+		<name>2MASS J06453475-3352540 b</name>
+		<id>HATS-66 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>5.33</mass>
+			<radius>1.411</radius>
+			<orbit>
+				<period>3.1414391</period>
+				<semimajoraxis>0.04714</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.06</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.411</mass>
+			<radius>1.841</radius>
+			<metallicity>-0.017</metallicity>
+			<distance>1544</distance>
+			<temperature>6626</temperature>
+			<rightascension>06 45 34.757</rightascension>
+			<declination>-33 52 54.13</declination>
+			<magV>14.095</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This is a super-Jupiter.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>WASP-48 b</id_exoplaneteu>
 		<name>WASP-48 b</name>
 		<name>2MASS J19243895+5528233 b</name>
@@ -55693,6 +56934,38 @@ Image credit: Joe Gallagher</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>NGTS-3 A b</id_exoplaneteu>
+		<name>NGTS-3 A b</name>
+		<name>2MASS J06174675-3542230 A b</name>
+		<id>NGTS-3 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.38</mass>
+			<radius>1.48</radius>
+			<orbit>
+				<period>1.6753728</period>
+				<eccentricity>0</eccentricity>
+				<inclination>89.56</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G6 V</spectraltype>
+			<mass>1.017</mass>
+			<radius>0.93</radius>
+			<metallicity>0.12</metallicity>
+			<temperature>5600</temperature>
+			<rightascension>06 17 46.752</rightascension>
+			<declination>-35 42 23.02</declination>
+			<magV>14.642</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/05/03</lastupdate>
+		<description>This planet is a hot Jupiter found transiting the primary star of an unresolved binary system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-735 b</id_exoplaneteu>
@@ -57546,6 +58819,38 @@ Credit: ESO/L. Calcada</imagedescription>
 		<lastupdate>17/11/28</lastupdate>
 		<description>The KOI-1781 system was discovered by the Kepler spacecraft. The candidate KOI-1781.03 has not been confirmed.</description>
 		<list>Controversial</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HD 180617 b</id_exoplaneteu>
+		<name>HD 180617 b</name>
+		<id>HD 180617 b</id>
+		<discoverymethod>RV</discoverymethod>
+		<properties>
+			<mass>0.03839</mass>
+			<orbit>
+				<period>105.90</period>
+				<semimajoraxis>0.3357</semimajoraxis>
+				<eccentricity>0.16</eccentricity>
+				<periastron>269</periastron>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M2.5V</spectraltype>
+			<mass>0.45</mass>
+			<radius>0.453</radius>
+			<metallicity>0.00</metallicity>
+			<distance>5.9116</distance>
+			<temperature>3557</temperature>
+			<rightascension>19 16 55.2565250393</rightascension>
+			<declination>+05 10 08.038856129</declination>
+			<magV>9.115</magV>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/08/14</lastupdate>
+		<description>HD 180617 b is a Neptune-mass planet in an eccentric orbit near the liquid water zone of the M-dwarf primary of the LDS 6334 binary system. The secondary star is the ultracool dwarf VB 10.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>WASP-172 b</id_exoplaneteu>
@@ -60244,6 +61549,39 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-57 b</id_exoplaneteu>
+		<name>HATS-57 b</name>
+		<name>2MASS J04034760-1903242 b</name>
+		<name>TYC 5885-663-1 b</name>
+		<id>HATS-57 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.147</mass>
+			<radius>1.139</radius>
+			<orbit>
+				<period>2.3506210</period>
+				<semimajoraxis>0.03493</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.88</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.026</mass>
+			<radius>0.960</radius>
+			<metallicity>0.268</metallicity>
+			<distance>281.7</distance>
+			<temperature>5587</temperature>
+			<rightascension>04 03 47.601</rightascension>
+			<declination>-19 03 24.33</declination>
+			<magV>11.59</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/18</lastupdate>
+		<description>This is a short period hot Jupiter.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>OGLE-TR-56 b</id_exoplaneteu>
 		<name>OGLE-TR-56 b</name>
 		<name>OGLE-TR-056 b</name>
@@ -60452,28 +61790,6 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-110 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-110 c are still unknown, the object is highly unlikely to be a false positive.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>OGLE-2013-BLG-1721 b</id_exoplaneteu>
-		<name>OGLE-2013-BLG-1721 b</name>
-		<id>OGLE-2013-BLG-1721 b</id>
-		<properties>
-			<mass>0.64</mass>
-			<orbit>
-				<semimajoraxis>2.6</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.46</mass>
-			<distance>6300.0</distance>
-			<rightascension>17 52 30</rightascension>
-			<declination>-30 42 26</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/07/04</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -62881,28 +64197,25 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE-05-169L b</id_exoplaneteu>
-		<name>OGLE-05-169L b</name>
-		<name>OGLE 2005-BLG-169L b</name>
-		<id>OGLE-05-169L b</id>
+		<id_exoplaneteu>MOA 2011-BLG-322L b</id_exoplaneteu>
+		<name>MOA 2011-BLG-322L b</name>
+		<id>MOA 2011-BLG-322L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.0444</mass>
+			<mass>11.6</mass>
 			<orbit>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
-			<mass>0.69</mass>
-			<distance>4100</distance>
-			<rightascension>18 06 05</rightascension>
-			<declination>-30 43 57</declination>
-			<magV>22.783</magV>
+			<mass>0.39</mass>
+			<distance>7560</distance>
+			<rightascension>18 04 53.6</rightascension>
+			<declination>-27 13 15.4</declination>
 		</star>
 		<multiplicity>1</multiplicity>
-		<discoveryyear>2005</discoveryyear>
-		<lastupdate>15/08/01</lastupdate>
-		<description>The planetary signal in the microlensing event OGLE-2005-BLG-169 was confirmed in 2015 with follow-up measurements of the relative proper motion of the source and lens stars. The lens system consists of a 14.1 Earth mass planet orbiting a 0.69 solar mass K-dwarf with a projected separation of 3.5 AU. Assuming random orientation of the system, the 3D separation is 4.0+2.2-0.6 AU, locating it well beyond the star's snowline. The planet likely represents a "failed Jupiter core".</description>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>18/09/19</lastupdate>
+		<description>MOA-2011-BLG-322L b is a giant planet which was discovered by MOA, OGLE and the Wise Observatory. These observatories form a network and conduct a second generation microlensing survey. The survey aims to discover and characterize extrasolar planets and their frequency, by means of round-the-clock high-cadence monitoring of a large area of the Galactic bulge.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -63359,6 +64672,28 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-331 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-331 b are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2013-BLG-1721L b</id_exoplaneteu>
+		<name>OGLE-2013-BLG-1721L b</name>
+		<id>OGLE-2013-BLG-1721L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.64</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.46</mass>
+			<distance>6300</distance>
+			<rightascension>17 52 30.37</rightascension>
+			<declination>-30 17 33.7</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2013-BLG-1721Lb is a Saturn-mass planet orbiting a low-mass star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -65127,6 +66462,39 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-180 A b</id_exoplaneteu>
+		<name>WASP-180 A b</name>
+		<id>WASP-180 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.9</mass>
+			<radius>1.24</radius>
+			<orbit>
+				<period>3.409265</period>
+				<semimajoraxis>0.048</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.4</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7 V</spectraltype>
+			<mass>1.3</mass>
+			<radius>1.19</radius>
+			<metallicity>0.1</metallicity>
+			<distance>255.8</distance>
+			<temperature>1570</temperature>
+			<rightascension>08 13 34.1</rightascension>
+			<declination>-01 04 58.0</declination>
+			<magV>10.68</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/06/26</lastupdate>
+		<description>This is a hot Jupiter, discovered by the HATSouth project.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-215 d</id_exoplaneteu>
 		<name>Kepler-215 d</name>
 		<name>KOI-700 d</name>
@@ -65374,6 +66742,33 @@ Image credit: NASA/Tim Pyle</imagedescription>
 				Credit:	ESO/L. Calcada</imagedescription>
 		<list>Controversial</list>
 		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2011-BLG-251L b</id_exoplaneteu>
+		<name>OGLE-2011-BLG-251L b</name>
+		<id>OGLE-2011-BLG-251L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.53</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M</spectraltype>
+			<mass>0.26</mass>
+			<distance>2570</distance>
+			<rightascension>17 38 14.18</rightascension>
+			<declination>-27 08 10.1</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2013</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>The planet OGLE-2011-BLG-0251L b was discovered using gravitational microlensing. The host star is an M dwarf. It is located towards the Galactic Bulge. The planet lies beyond the snow-line, an important clue for planet formation models.</description>
+		<image>OGLE-2011-BLG-0251</image>
+		<imagedescription>This plot shows the light curve of the OGLE-2011-BLG-0251 microlensing event. The main magnification is due to the host star, only the tiny perturbation near the peak is the signal caused by the planet.
+			
+Credit: Kains et al (2013).</imagedescription>
+		<list>Confirmed planets</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HD 12648 b</id_exoplaneteu>
@@ -65763,24 +67158,30 @@ Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 		<id>Kepler-503 b</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<radius>0.559</radius>
+			<mass>79</mass>
+			<radius>0.96</radius>
 			<orbit>
-				<period>7.258447210</period>
+				<period>7.2584481</period>
+				<semimajoraxis>0.0786</semimajoraxis>
+				<eccentricity>0.025</eccentricity>
+				<inclination>88.04</inclination>
+				<periastron>33</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<mass>1.01</mass>
-			<radius>1.01</radius>
-			<metallicity>0.09</metallicity>
-			<temperature>5754.0</temperature>
-			<rightascension>19 22 33</rightascension>
-			<declination>+38 42 28</declination>
+			<mass>1.154</mass>
+			<radius>1.764</radius>
+			<metallicity>0.169</metallicity>
+			<distance>1628</distance>
+			<temperature>5670</temperature>
+			<rightascension>19 22 32.7571937112</rightascension>
+			<declination>+38 42 27.579129047</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/05/10</lastupdate>
-		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-		<list>Confirmed planets</list>
+		<lastupdate>18/08/16</lastupdate>
+		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Subsequent radial velocity analysis combined with the Gaia parallax revealed that the host star is a subgiant and the companion is at the hydrogen-burning limit.</description>
+		<list>Retracted planet candidate</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HW Vir (AB) b</id_exoplaneteu>
@@ -67063,28 +68464,6 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE-2013-BLG-0102LB</id_exoplaneteu>
-		<name>OGLE-2013-BLG-0102LB</name>
-		<id>OGLE-2013-BLG-0102LB</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>13</mass>
-			<orbit>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.012</mass>
-			<distance>3040</distance>
-			<rightascension>17 52 07.08</rightascension>
-			<declination>-31 41 26.1</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2014</discoveryyear>
-		<lastupdate>15/06/10</lastupdate>
-		<description>OGLE-2013-BLG-0102 was a microlensing event observed towards the galactic bulge. The lens system is a low-mass binary consisting of a primary at the hydrogen-burning limit and a secondary at the deuterium-burning limit. Depending on the definitions used, the secondary may either be regarded as a giant planet or a low-mass brown dwarf.</description>
-		<list>Controversial</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>KOI-179.01</id_exoplaneteu>
 		<name>KOI-179.01</name>
 		<name>Kepler-458 c</name>
@@ -67140,6 +68519,37 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-49 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-49 b are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-71 b</id_exoplaneteu>
+		<name>HATS-71 b</name>
+		<name>2MASS J01021226-6145216 b</name>
+		<id>HATS-71 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.45</mass>
+			<radius>1.08</radius>
+			<orbit>
+				<period>3.7955213</period>
+				<semimajoraxis>0.03946</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.85</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.569</mass>
+			<radius>0.5161</radius>
+			<metallicity>0.237</metallicity>
+			<distance>140.8</distance>
+			<temperature>3254</temperature>
+			<rightascension>01 02 12.281</rightascension>
+			<declination>-61 45 21.66</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/21</lastupdate>
+		<description>This planet is a transiting gas giant.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -67998,31 +69408,6 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>MOA-2008-BLG-310-L b</id_exoplaneteu>
-		<name>MOA-2008-BLG-310-L b</name>
-		<name>MOA 2008-BLG-310L b</name>
-		<id>MOA-2008-BLG-310-L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.23</mass>
-			<orbit>
-				<semimajoraxis>1.25</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>GV</spectraltype>
-			<mass>0.67</mass>
-			<distance>6000</distance>
-			<temperature>152.7</temperature>
-			<rightascension>17 54 14</rightascension>
-			<declination>-34 46 41</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2009</discoveryyear>
-		<lastupdate>09/08/10</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-49 c</id_exoplaneteu>
 		<name>Kepler-49 c</name>
 		<name>KOI-248 c</name>
@@ -68714,6 +70099,39 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/08/16</lastupdate>
 		<description>This planet was discovered by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature. However, due to aliasing one cannot rule out an alternative solution for the outer planet having a period of 438 days and a minimum mass of 3.7 Jupiter masses.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-55 b</id_exoplaneteu>
+		<name>HATS-55 b</name>
+		<name>2MASS J07370802-3245195 b</name>
+		<name>GSC 07109-00596 b</name>
+		<id>HATS-55 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.921</mass>
+			<radius>1.251</radius>
+			<orbit>
+				<period>4.2042001</period>
+				<semimajoraxis>0.05412</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>86.320</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.1955</mass>
+			<radius>1.126</radius>
+			<metallicity>0.108</metallicity>
+			<distance>620.7</distance>
+			<temperature>6214</temperature>
+			<rightascension>07 37 08.019</rightascension>
+			<declination>-32 45 19.52</declination>
+			<magV>13.470</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/18</lastupdate>
+		<description>This is a short period hot Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -70395,6 +71813,38 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-68 b</id_exoplaneteu>
+		<name>HATS-68 b</name>
+		<name>2MASS J01000141-5854172 b</name>
+		<id>HATS-68 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.290</mass>
+			<radius>1.232</radius>
+			<orbit>
+				<period>3.58622202</period>
+				<semimajoraxis>0.05071</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>83.21</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.351</mass>
+			<radius>1.748</radius>
+			<metallicity>0.210</metallicity>
+			<distance>614.6</distance>
+			<temperature>6147</temperature>
+			<rightascension>01 00 01.413</rightascension>
+			<declination>-58 54 17.12</declination>
+			<magV>12.281</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This planet was discovered by the HATSouth project.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-215 e</id_exoplaneteu>
 		<name>Kepler-215 e</name>
 		<name>KOI-700 e</name>
@@ -70735,29 +72185,34 @@ Credit: ESO/L. Calcada</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 176051 b</id_exoplaneteu>
 		<name>HD 176051 b</name>
+		<name>Inrakluk b</name>
 		<id>HD 176051 b</id>
-		<discoverymethod>RV</discoverymethod>
+		<discoverymethod>astrometry</discoverymethod>
 		<properties>
 			<mass>1.5</mass>
 			<orbit>
 				<period>1016</period>
 				<semimajoraxis>1.76</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
+				<eccentricity>0</eccentricity>
+				<inclination>115.8</inclination>
+				<periastron>0</periastron>
+				<ascendingnode>69</ascendingnode>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G0V</spectraltype>
-			<mass>1.5</mass>
-			<distance>14.99</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>18 57 02</rightascension>
-			<declination>+32 54 05</declination>
-			<magV>5.22</magV>
+			<spectraltype>F9V</spectraltype>
+			<mass>1.07</mass>
+			<distance>14.872</distance>
+			<rightascension>18 57 01.60985</rightascension>
+			<declination>+32 54 04.5723</declination>
+			<magV>5.277</magV>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/10/22</lastupdate>
+		<lastupdate>18/08/31</lastupdate>
+		<description>A planet orbiting one of the stars of the binary system HD 176051 was identified with PHASES differential astrometry. It is unknown which of the two stars the planet orbits.</description>
 		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-1488 b</id_exoplaneteu>
@@ -72167,6 +73622,39 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-51 b</id_exoplaneteu>
+		<name>HATS-51 b</name>
+		<name>2MASS J06512340-2903309 b</name>
+		<id>HATS-51 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.768</mass>
+			<radius>1.41</radius>
+			<orbit>
+				<period>3.3488702</period>
+				<semimajoraxis>0.04639</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.1</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.187</mass>
+			<radius>1.44</radius>
+			<metallicity>0.300</metallicity>
+			<distance>394</distance>
+			<temperature>5758</temperature>
+			<rightascension>06 51 23.401</rightascension>
+			<declination>-29 03 31.05</declination>
+			<magV>12.471</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/12</lastupdate>
+		<description>This is a close-in transiting hot-Jupiter around a G-type dwarf.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HATS-14 b</id_exoplaneteu>
 		<name>HATS-14 b</name>
 		<name>2MASS J20525171-2541144 b</name>
@@ -73570,6 +75058,29 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2010-BLG-117L b</id_exoplaneteu>
+		<name>MOA-2010-BLG-117L b</name>
+		<id>MOA-2010-BLG-117L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.54</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.58</mass>
+			<distance>3500</distance>
+			<rightascension>18 07 49.67</rightascension>
+			<declination>-25 20 40.7</declination>
+			<magV>24.3</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>MOA-2010-BLG-117 was a microlensing event with a binary source star. The lens system contains a gas giant orbiting a low-mass star.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-523 b</id_exoplaneteu>
 		<name>Kepler-523 b</name>
 		<name>KOI-323 b</name>
@@ -73857,6 +75368,42 @@ Credit: J. Carson et al 2012.</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-189 b</id_exoplaneteu>
+		<name>WASP-189 b</name>
+		<name>HD 133112 b</name>
+		<name>BD-02 3933 b</name>
+		<name>HIP 73608 b</name>
+		<name>PPM 198170 b</name>
+		<name>2MASS J15024486-0301530 b</name>
+		<id>WASP-189 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.86</mass>
+			<radius>1.38</radius>
+			<orbit>
+				<period>2.7240338</period>
+				<semimajoraxis>0.04770</semimajoraxis>
+				<inclination>83.4</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A4</spectraltype>
+			<mass>1.887</mass>
+			<radius>2.33</radius>
+			<metallicity>0</metallicity>
+			<distance>100.01</distance>
+			<temperature>8000</temperature>
+			<rightascension>15 02 44.868</rightascension>
+			<declination>-03 01 52.99</declination>
+			<magV>6.618</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/13</lastupdate>
+		<description>This ultra-hot Jupiter was discovered by WASP-South. The planet orbits the bright A star in a polar orbit.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -74438,6 +75985,39 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<discoveryyear>2015</discoveryyear>
 		<lastupdate>16/03/07</lastupdate>
 		<description>EPIC 206318379 b is a validated super-Earth candidate in the K2 Campaign 3 field. The planet has a similar radius and insolation to GJ 1214 b.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-174 b</id_exoplaneteu>
+		<name>WASP-174 b</name>
+		<name>2MASS J13031055-4123053 b</name>
+		<id>WASP-174 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>1.3</mass>
+			<radius>1.3</radius>
+			<orbit>
+				<period>4.233700</period>
+				<semimajoraxis>0.0559</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.2</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F6 V</spectraltype>
+			<mass>1.30</mass>
+			<radius>1.31</radius>
+			<metallicity>0.09</metallicity>
+			<distance>414.7</distance>
+			<temperature>6400</temperature>
+			<rightascension>13 03 10.563</rightascension>
+			<declination>-41 23 05.41</declination>
+			<magV>11.79</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/08/09</lastupdate>
+		<description>This is a planet with a near-grazing transit.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -75653,6 +77233,42 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>KELT-19 A b</id_exoplaneteu>
+		<name>KELT-19 A b</name>
+		<name>BD+07 1721 A b</name>
+		<name>TYC 764-1494-1 A b</name>
+		<name>2MASS J07260228+0736569 A b</name>
+		<id>KELT-19 A b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>4.07</mass>
+			<radius>1.91</radius>
+			<orbit>
+				<period>4.6117093</period>
+				<semimajoraxis>0.0637</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>85.41</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A8 V</spectraltype>
+			<mass>1.62</mass>
+			<radius>1.830</radius>
+			<metallicity>-0.12</metallicity>
+			<distance>278</distance>
+			<temperature>7500</temperature>
+			<rightascension>07 26 02.289</rightascension>
+			<declination>+07 36 56.83</declination>
+			<magV>9.885</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/22</lastupdate>
+		<description>This is a giant planet orbiting a binary star system.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>Kepler-1199 b</id_exoplaneteu>
 		<name>Kepler-1199 b</name>
 		<name>KOI-2342 b</name>
@@ -76821,29 +78437,6 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>MOA-2012-BLG-311 b</id_exoplaneteu>
-		<name>MOA-2012-BLG-311 b</name>
-		<id>MOA-2012-BLG-311 b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.208</mass>
-			<orbit>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.208</mass>
-			<distance>6000</distance>
-			<temperature>5460</temperature>
-			<rightascension>18 08 50</rightascension>
-			<declination>-25 57 04</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/10/24</lastupdate>
-		<description>This object was observed in a gravitational mirolensing event. A good mass estimate could not be obtained although the object is most likely of planetary nature. Unfortunately microlensing events are not repeatable and the planet is therefore marked as controversial.</description>
-		<list>Controversial</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>Kepler-758 d</id_exoplaneteu>
 		<name>Kepler-758 d</name>
 		<name>KOI-1060 d</name>
@@ -77996,12 +79589,12 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<star>
 			<mass>0.37</mass>
 			<distance>6800</distance>
-			<rightascension>17 59 09</rightascension>
-			<declination>-30 45 34</declination>
+			<rightascension>17 59 08.81</rightascension>
+			<declination>-30 45 34.1</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2008</discoveryyear>
-		<lastupdate>14/03/31</lastupdate>
+		<lastupdate>18/09/20</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -78161,30 +79754,37 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	<planet>
 		<id_exoplaneteu>HD 39091 b</id_exoplaneteu>
 		<name>HD 39091 b</name>
+		<name>&#960; Mensae b</name>
+		<name>&#960; Men b</name>
+		<name>Pi Mensae b</name>
+		<name>Pi Men b</name>
+		<name>TOI 144 b</name>
 		<id>HD 39091 b</id>
 		<discoverymethod>RV</discoverymethod>
 		<properties>
-			<mass>10.3</mass>
+			<mass>10.02</mass>
 			<orbit>
-				<period>2049</period>
-				<semimajoraxis>3.28</semimajoraxis>
-				<eccentricity>0.61</eccentricity>
+				<period>2093.07</period>
+				<semimajoraxis>3.10</semimajoraxis>
+				<eccentricity>0.637</eccentricity>
+				<periastron>330.61</periastron>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>G1 IV</spectraltype>
-			<mass>1.1</mass>
-			<radius>2.1</radius>
-			<metallicity>0.09</metallicity>
-			<distance>18.32</distance>
-			<temperature>202.4</temperature>
-			<rightascension>05 37 09</rightascension>
-			<declination>-80 28 08</declination>
+			<spectraltype>G0V</spectraltype>
+			<mass>1.094</mass>
+			<radius>1.10</radius>
+			<metallicity>0.08</metallicity>
+			<distance>18.27</distance>
+			<temperature>6037</temperature>
+			<rightascension>05 37 09.8851202601</rightascension>
+			<declination>-80 28 08.831347245</declination>
 			<magV>5.67</magV>
 		</star>
-		<multiplicity>1</multiplicity>
+		<multiplicity>2</multiplicity>
 		<discoveryyear>2001</discoveryyear>
-		<lastupdate>11/01/01</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
+		<description>HD 39091 b is a massive giant planet in a high-eccentricity orbit around the G-type star &#960; Mensae.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -80208,6 +81808,29 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>17/12/10</lastupdate>
 		<description>The star HD 116029 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>TCP J05074264+2447555L b</id_exoplaneteu>
+		<name>TCP J05074264+2447555L b</name>
+		<name>Feynman-01</name>
+		<id>TCP J05074264+2447555L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0289</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.25</mass>
+			<distance>380</distance>
+			<rightascension>05 07 42.64</rightascension>
+			<declination>+24 47 55.5</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>The light curve of the microlensing event TCP J05074264+2447555 indicates the lens system contains a 9.2 Earth mass planet orbiting a red dwarf star. The source star is the F dwarf UCAC4 574-013830.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -82595,24 +84218,22 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 	<planet>
 		<id_exoplaneteu>OGLE-2012-BLG-0406L b</id_exoplaneteu>
 		<name>OGLE-2012-BLG-0406L b</name>
-		<name>OGLE 2012-BLG-406L b</name>
 		<id>OGLE-2012-BLG-0406L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>3.9</mass>
+			<mass>2.73</mass>
 			<orbit>
-				<semimajoraxis>3.9</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.59</mass>
-			<distance>5100</distance>
-			<rightascension>17 53 18</rightascension>
-			<declination>-30 28 16</declination>
+			<mass>0.44</mass>
+			<distance>4970</distance>
+			<rightascension>17 53 18.17</rightascension>
+			<declination>-30 28 16.2</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/07/22</lastupdate>
+		<lastupdate>18/09/20</lastupdate>
 		<description>This planetary system was discovered during a high-magnification gravitational microlensing event. It is the first microlensing planet found by analyzing data from only a single telescope. The planet is located beyond the snow-line. Some core accretion theories favor the formation of massive planets inside the snow-line. However, planetary migration in the protoplanetary disk might explain why the planet has moved outwards.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -83894,6 +85515,39 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-53 b</id_exoplaneteu>
+		<name>HATS-53 b</name>
+		<name>2MASS J11463084-3351361 b</name>
+		<id>HATS-53 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.595</mass>
+			<radius>1.340</radius>
+			<orbit>
+				<period>3.8537768</period>
+				<semimajoraxis>0.04753</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.78</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>0.964</mass>
+			<radius>1.101</radius>
+			<metallicity>0.010</metallicity>
+			<distance>595.8</distance>
+			<temperature>5644</temperature>
+			<rightascension>11 46 30.841</rightascension>
+			<declination>-33 51 36.2</declination>
+			<magV>13.790</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/12</lastupdate>
+		<description>This is a close-in transiting hot-Jupiter around a G-type dwarf.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 116029 c</id_exoplaneteu>
 		<name>HD 116029 c</name>
 		<id>HD 116029 c</id>
@@ -84348,6 +86002,28 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-250 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-250 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>MOA 2008-BLG-310L b</id_exoplaneteu>
+		<name>MOA 2008-BLG-310L b</name>
+		<id>MOA 2008-BLG-310L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0736</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.21</mass>
+			<distance>770</distance>
+			<rightascension>17 54 14.530</rightascension>
+			<declination>-34 46 40.99</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2009</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>MOA-2008-BLG-310Lb is a super-Neptune orbiting a low-mass star. An earlier claimed detection of light from the host star was shown to be incorrect by Bhattacharya et al. (2017).</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -85292,6 +86968,29 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2008-BLG-092L A b</id_exoplaneteu>
+		<name>OGLE-2008-BLG-092L A b</name>
+		<id>OGLE-2008-BLG-092L A b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.178</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.71</mass>
+			<distance>8100</distance>
+			<rightascension>17 47 29.42</rightascension>
+			<declination>-34 43 35.6</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2014</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>The planet OGLE-2008-BLG-092LAb is a planet with 3.3 times the mass of Neptune in a binary stellar system. The discovery was made using the gravitational microlensing method. Some of the physical parameters of the system are not well constrained and model dependent.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, S-type</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>2M1207 b</id_exoplaneteu>
 		<name>2M1207 b</name>
 		<name>2MASS J12073346-3932539 b</name>
@@ -86086,33 +87785,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2012</discoveryyear>
 		<lastupdate>12/08/19</lastupdate>
 		<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 4.78 days for 2.8412 hours. Periodic transit timing variations confirm its planetary nature.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>OGLE-06-109L c</id_exoplaneteu>
-		<name>OGLE-06-109L c</name>
-		<name>OGLE 2006-BLG-109L c</name>
-		<id>OGLE-06-109L c</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.271</mass>
-			<orbit>
-				<period>4931</period>
-				<semimajoraxis>4.5</semimajoraxis>
-				<eccentricity>0.15</eccentricity>
-				<inclination>64</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.51</mass>
-			<distance>1510</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>17 52 35</rightascension>
-			<declination>-30 05 16</declination>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2008</discoveryyear>
-		<lastupdate>09/11/24</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -87815,31 +89487,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>MOA-2009-BLG-319 b</id_exoplaneteu>
-		<name>MOA-2009-BLG-319 b</name>
-		<name>MOA 2009-BLG-319L b</name>
-		<id>MOA-2009-BLG-319 b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.157</mass>
-			<orbit>
-				<semimajoraxis>2</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>K</spectraltype>
-			<mass>0.38</mass>
-			<distance>6100</distance>
-			<temperature>5150.0</temperature>
-			<rightascension>18 06 58</rightascension>
-			<declination>-26 49 11</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2010</discoveryyear>
-		<lastupdate>10/10/12</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>BD-17 63 b</id_exoplaneteu>
 		<name>BD-17 63 b</name>
 		<id>BD-17 63 b</id>
@@ -88203,6 +89850,31 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<discoveryyear>2013</discoveryyear>
 		<lastupdate>13/05/13</lastupdate>
 		<description>The planets orbiting the K7 star GJ 221 were discovered using publicly available HARPS data. The dataset was complemented with high precision Doppler measurements from Magellan/PFS. The system hosts at least two planets, one hot Super-Earth and one sub-Saturn mass planet.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2006-BLG-109L b</id_exoplaneteu>
+		<name>OGLE-2006-BLG-109L b</name>
+		<id>OGLE-2006-BLG-109L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.727</mass>
+			<orbit>
+				<period>1790</period>
+				<semimajoraxis>2.3</semimajoraxis>
+				<inclination>64</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.51</mass>
+			<distance>1510</distance>
+			<rightascension>17 52 34.55</rightascension>
+			<declination>-30 05 15.7</declination>
+		</star>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>OGLE-2006-BLG-109L is a two-planet system discovered by microlensing. The system resembles a scaled-down version of Jupiter and Saturn.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -89266,37 +90938,6 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>MOA-2007-BLG-192-L b</id_exoplaneteu>
-		<name>MOA-2007-BLG-192-L b</name>
-		<name>MOA 2007-BLG-192L b</name>
-		<name>MOA-192 b</name>
-		<id>MOA-2007-BLG-192-L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.01</mass>
-			<orbit>
-				<semimajoraxis>0.66</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<spectraltype>M</spectraltype>
-			<mass>0.06</mass>
-			<distance>700</distance>
-			<temperature>3840.0</temperature>
-			<rightascension>18 08 04</rightascension>
-			<declination>-27 09 00</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2008</discoveryyear>
-		<lastupdate>13/04/06</lastupdate>
-		<description>The exoplanet MOA-2007-BLG-192-L b is orbiting a low mass brown dwarf, roughly 6% the mass of our Sun. This makes the primary too small to sustain fusion.</description>
-		<image>MOA192</image>
-		<imagedescription>Artist's impression of the extrasolar planet MOA-2007-BLG-192-L b. 
-			
-Credit: Joe Gallagher.</imagedescription>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>HD 40307 e</id_exoplaneteu>
 		<name>HD 40307 e</name>
 		<id>HD 40307 e</id>
@@ -89616,32 +91257,29 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE-2011-BLG-0251 b</id_exoplaneteu>
-		<name>OGLE-2011-BLG-0251 b</name>
-		<name>OGLE 2011-BLG-251L b</name>
-		<id>OGLE-2011-BLG-0251 b</id>
+		<id_exoplaneteu>OGLE-2006-BLG-109L c</id_exoplaneteu>
+		<name>OGLE-2006-BLG-109L c</name>
+		<id>OGLE-2006-BLG-109L c</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.53</mass>
+			<mass>0.271</mass>
 			<orbit>
-				<semimajoraxis>2.72</semimajoraxis>
+				<period>4930</period>
+				<semimajoraxis>4.5</semimajoraxis>
+				<eccentricity>0.15</eccentricity>
+				<inclination>64</inclination>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>M</spectraltype>
-			<mass>0.26</mass>
-			<distance>2570</distance>
-			<rightascension>17 38 14</rightascension>
-			<declination>-27 08 10</declination>
+			<mass>0.51</mass>
+			<distance>1510</distance>
+			<rightascension>17 52 34.55</rightascension>
+			<declination>-30 05 15.7</declination>
 		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/03/07</lastupdate>
-		<description>The planet OGLE-2011-BLG-0251 b was discovered using gravitational microlensing. The host star is an M dwarf. It is located towards the Galactic Bulge. The planet lies beyond the snow-line, an important clue for planet formation models.</description>
-		<image>OGLE-2011-BLG-0251</image>
-		<imagedescription>This plot shows the light curve of the OGLE-2011-BLG-0251 microlensing event. The main magnification is due to the host star, only the tiny perturbation near the peak is the signal caused by the planet.
-			
-Credit: Kains et al (2013).</imagedescription>
+		<multiplicity>2</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>OGLE-2006-BLG-109L is a two-planet system discovered by microlensing. The system resembles a scaled-down version of Jupiter and Saturn.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -90362,8 +92000,8 @@ Credit: Kains et al (2013).</imagedescription>
 		</properties>
 		<star>
 			<spectraltype>G7V</spectraltype>
-			<mass>0.73</mass>
-			<radius>1.19</radius>
+			<mass>0.94</mass>
+			<radius>0.86</radius>
 			<rightascension>04 10 41</rightascension>
 			<declination>+24 24 07</declination>
 		</star>
@@ -90459,6 +92097,38 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2018</discoveryyear>
 		<lastupdate>18/07/24</lastupdate>
 		<description>This planet was announced as part of a batch of 149 validated planets from the K2 mission.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-69 b</id_exoplaneteu>
+		<name>HATS-69 b</name>
+		<name>2MASS J19171138-6053301 b</name>
+		<id>HATS-69 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.577</mass>
+			<radius>0.945</radius>
+			<orbit>
+				<period>2.2252577</period>
+				<semimajoraxis>0.03211</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>88.49</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.892</mass>
+			<radius>0.8785</radius>
+			<metallicity>0.377</metallicity>
+			<distance>419.5</distance>
+			<temperature>5137</temperature>
+			<rightascension>19 17 11.364</rightascension>
+			<declination>-60 53 30.06</declination>
+			<magV>13.945</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/13</lastupdate>
+		<description>This planet has the size of Saturn.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -91038,6 +92708,39 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>17/12/04</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-54 b</id_exoplaneteu>
+		<name>HATS-54 b</name>
+		<name>2MASS J13223237-4441196 b</name>
+		<name>GSC 07799-01184 b</name>
+		<id>HATS-54 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.76</mass>
+			<radius>1.067</radius>
+			<orbit>
+				<period>2.5441828</period>
+				<semimajoraxis>0.03763</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>83.08</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.097</mass>
+			<radius>1.317</radius>
+			<metallicity>0.396</metallicity>
+			<distance>764.4</distance>
+			<temperature>5702</temperature>
+			<rightascension>13 22 32.372</rightascension>
+			<declination>-44 41 19.7</declination>
+			<magV>13.913</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/18</lastupdate>
+		<description>This is a short period hot Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -92019,29 +93722,30 @@ Credit: Kains et al (2013).</imagedescription>
 		<id>TRAPPIST-1 h</id>
 		<discoverymethod>transit</discoverymethod>
 		<properties>
-			<mass>0.00027</mass>
-			<radius>0.0638</radius>
+			<mass>0.001041</mass>
+			<radius>0.06896</radius>
 			<orbit>
 				<period>18.76626</period>
-				<semimajoraxis>0.0596</semimajoraxis>
-				<eccentricity>0.086</eccentricity>
+				<semimajoraxis>0.06193488</semimajoraxis>
+				<eccentricity>0.00567</eccentricity>
 				<inclination>89.80</inclination>
+				<periastron>338.92</periastron>
 			</orbit>
 		</properties>
 		<star>
 			<spectraltype>M8 V</spectraltype>
-			<mass>0.0802</mass>
+			<mass>0.089</mass>
 			<radius>0.121</radius>
 			<metallicity>0.04</metallicity>
-			<distance>12.56</distance>
-			<temperature>2559</temperature>
-			<rightascension>23 06 30.34</rightascension>
-			<declination>-05 02 36.44</declination>
-			<magV>18.75</magV>
+			<distance>12.430</distance>
+			<temperature>2516</temperature>
+			<rightascension>23 06 29.3684052886</rightascension>
+			<declination>-05 02 29.031690445</declination>
+			<magV>18.798</magV>
 		</star>
 		<multiplicity>7</multiplicity>
 		<discoveryyear>2017</discoveryyear>
-		<lastupdate>17/04/13</lastupdate>
+		<lastupdate>18/09/18</lastupdate>
 		<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -92071,32 +93775,6 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>OGLE-06-109L b</id_exoplaneteu>
-		<name>OGLE-06-109L b</name>
-		<name>OGLE 2006-BLG-109L b</name>
-		<id>OGLE-06-109L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.727</mass>
-			<orbit>
-				<period>1790</period>
-				<semimajoraxis>2.3</semimajoraxis>
-				<inclination>64</inclination>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.51</mass>
-			<distance>1510</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>17 52 35</rightascension>
-			<declination>-30 05 16</declination>
-		</star>
-		<multiplicity>2</multiplicity>
-		<discoveryyear>2008</discoveryyear>
-		<lastupdate>09/11/24</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -92250,22 +93928,23 @@ Credit: Kains et al (2013).</imagedescription>
 		<id_exoplaneteu>OGLE-2014-BLG-0676L b</id_exoplaneteu>
 		<name>OGLE-2014-BLG-0676L b</name>
 		<id>OGLE-2014-BLG-0676L b</id>
+		<discoverymethod>microlensing</discoverymethod>
 		<properties>
 			<mass>3.09</mass>
 			<orbit>
-				<semimajoraxis>4.4</semimajoraxis>
+				<semimajoraxis>4.40</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>0.62</mass>
-			<distance>2220.0</distance>
-			<rightascension>17 52 25</rightascension>
-			<declination>-30 27 06</declination>
+			<distance>2220</distance>
+			<rightascension>17 52 24.50</rightascension>
+			<declination>-30 32 54.20</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2016</discoveryyear>
-		<lastupdate>16/12/15</lastupdate>
-		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2014-BLG-0676L is a cold gas-giant planet orbiting a 0.62 solar mass star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -92330,21 +94009,20 @@ Credit: Kains et al (2013).</imagedescription>
 		<id>MOA-2013-BLG-220L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.188780165497</mass>
+			<mass>0.80</mass>
 			<orbit>
-				<semimajoraxis>0.7</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
-			<mass>0.05</mass>
-			<distance>2000</distance>
-			<rightascension>18 03 57</rightascension>
-			<declination>-28 27 19</declination>
+			<mass>0.25</mass>
+			<distance>4500</distance>
+			<rightascension>18 03 56.470</rightascension>
+			<declination>-29 32 40.78</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2014</discoveryyear>
-		<lastupdate>14/04/05</lastupdate>
-		<description>MOA-2013-BLG-220L is a microlensing event observed in 2013. The most likely candidate for the lens system is a planet orbiting a brown dwarf host star. Many of the parameters are uncertain and followup observations are required to further constrain the system. Observations will become possible in 2021 when the lens and source will have separated sufficiently to be resolved in high resolution images.</description>
+		<lastupdate>18/09/19</lastupdate>
+		<description>MOA-2013-BLG-220L is a microlensing event observed in 2013. The lens system has a mass ratio of 0.003 but the distance and mass are not well constrained, so the system could range from a Saturn-mass planet orbiting a brown dwarf to a super-Jupiter orbiting a K-dwarf.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -92962,6 +94640,39 @@ Credit: Kains et al (2013).</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/07/20</lastupdate>
 		<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-56 b</id_exoplaneteu>
+		<name>HATS-56 b</name>
+		<name>2MASS J12003962-4547579 b</name>
+		<name>TYC 8229-2228-1 b</name>
+		<id>HATS-56 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.902</mass>
+			<radius>1.688</radius>
+			<orbit>
+				<period>4.324799</period>
+				<semimajoraxis>0.06043</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>83.29</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>1.573</mass>
+			<radius>2.201</radius>
+			<metallicity>0.19</metallicity>
+			<distance>573.5</distance>
+			<temperature>6536</temperature>
+			<rightascension>12 00 39.63</rightascension>
+			<declination>-45 47 58.0</declination>
+			<magV>11.48</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/12/18</lastupdate>
+		<description>This is an highly inflated hot-Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -94240,31 +95951,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2016</discoveryyear>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>OGLE-05-071L b</id_exoplaneteu>
-		<name>OGLE-05-071L b</name>
-		<name>OGLE 2005-BLG-71L b</name>
-		<id>OGLE-05-071L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>3.5</mass>
-			<orbit>
-				<period>3600</period>
-				<semimajoraxis>3.6</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.46</mass>
-			<distance>3300</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>17 50 09</rightascension>
-			<declination>-34 40 23</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2005</discoveryyear>
-		<lastupdate>08/04/10</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -95578,7 +97264,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2010-BLG-477L b</id_exoplaneteu>
 		<name>MOA-2010-BLG-477L b</name>
-		<name>MOA 2010-BLG-477L b</name>
 		<id>MOA-2010-BLG-477L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -95588,16 +97273,14 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			</orbit>
 		</properties>
 		<star>
-			<spectraltype>K</spectraltype>
 			<mass>0.67</mass>
 			<distance>2300</distance>
-			<temperature>120.7</temperature>
-			<rightascension>18 06 07</rightascension>
-			<declination>-31 27 16</declination>
+			<rightascension>18 06 07.44</rightascension>
+			<declination>-31 27 16.12</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2012</discoveryyear>
-		<lastupdate>12/06/02</lastupdate>
+		<lastupdate>18/09/19</lastupdate>
 		<description>Densely covered observations of a high-magnification event led to the discovery of the planet MOA-2010-BLG-477 b. Many different telescopes around the world have been used in this collaborative effort, including a 40cm telescope in Antartica.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -96841,31 +98524,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE235-MOA53 b</id_exoplaneteu>
-		<name>OGLE235-MOA53 b</name>
-		<name>OGLE-2003-BLG-235 b</name>
-		<name>MOA-2003-BLG-53 b</name>
-		<id>OGLE235-MOA53 b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>2.6</mass>
-			<orbit>
-				<semimajoraxis>5.1</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.63</mass>
-			<distance>5200</distance>
-			<temperature>5700.0</temperature>
-			<rightascension>18 05 16</rightascension>
-			<declination>-28 53 42</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2004</discoveryyear>
-		<lastupdate>06/06/10</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>HD 114613 b</id_exoplaneteu>
 		<name>HD 114613 b</name>
 		<id>HD 114613 b</id>
@@ -97208,6 +98866,29 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2016-BLG-0613L AB b</id_exoplaneteu>
+		<name>OGLE-2016-BLG-0613L AB b</name>
+		<id>OGLE-2016-BLG-0613L AB b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>4.18</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.72</mass>
+			<distance>3410</distance>
+			<rightascension>17 57 02.50</rightascension>
+			<declination>-28 06 58.2</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>Several possible models exist for the OGLE-2016-BLG-0613L system, including the possibility that the secondary star is a brown dwarf and where the planet is in an S-type orbit around the primary star.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>HATS-2 b</id_exoplaneteu>
@@ -97993,8 +99674,8 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/22</lastupdate>
-		<description>OGLE-2015-BLG-0563Lb is a Saturn-mass planet orbiting a low-mass dwarf star. The close model for the microlensing event give an alternate value for the projected separation of 0.74+0.26-0.42 AU.</description>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2015-BLG-0563Lb is a Saturn-mass planet orbiting a low-mass dwarf star. The wide model for the lens system gives an alternate value for the projected separation of 4.2+1.5/-2.5 AU.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -98397,6 +100078,29 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/02/26</lastupdate>
 		<description>Kepler-391 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-391 c are still unknown, the object is highly unlikely to be a false positive.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>OGLE-2005-BLG-390L b</id_exoplaneteu>
+		<name>OGLE-2005-BLG-390L b</name>
+		<id>OGLE-2005-BLG-390L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.0173</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M</spectraltype>
+			<mass>0.22</mass>
+			<distance>6600</distance>
+			<rightascension>17 54 .19</rightascension>
+			<declination>-30 22 38.3</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2006</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>OGLE-2005-BLG-390L b is a cold super-Earth or sub-Neptune planet orbiting a low-mass star.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -98982,7 +100686,6 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 	<planet>
 		<id_exoplaneteu>MOA-2008-BLG-379L b</id_exoplaneteu>
 		<name>MOA-2008-BLG-379L b</name>
-		<name>MOA 2008-BLG-379L b</name>
 		<id>MOA-2008-BLG-379L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
@@ -98994,12 +100697,12 @@ Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 		<star>
 			<mass>0.56</mass>
 			<distance>3300</distance>
-			<rightascension>17 58 49</rightascension>
-			<declination>-30 11 49</declination>
+			<rightascension>17 58 49.44</rightascension>
+			<declination>-30 11 48.95</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>14/04/18</lastupdate>
+		<lastupdate>18/09/19</lastupdate>
 		<description>MOA-2008-BLG-379Lb is a planetary mass object discovered by gravitational microlensing. Because a faint source star crossed a large resonant caustic, the planetary signal dominates the light curve. A statistical model has been used to determine the physical system parameters.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -101243,29 +102946,6 @@ Credit: Joe Gallagher.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
-		<id_exoplaneteu>OGLE-2013-BLG-0723LB b</id_exoplaneteu>
-		<name>OGLE-2013-BLG-0723LB b</name>
-		<id>OGLE-2013-BLG-0723LB b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.0022</mass>
-			<orbit>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.097</mass>
-			<distance>490</distance>
-			<rightascension>17 34 40.51</rightascension>
-			<declination>-27 26 53.2</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2015</discoveryyear>
-		<lastupdate>15/07/22</lastupdate>
-		<description>OGLE-2013-BLG-0723LBb was announced as a Venus-mass planet orbiting a brown dwarf of 32 Jupiter masses, which is itself orbiting a low-mass star. It would therefore be considered either a scaled-up exommon system or a scaled-down planetary system. Han et al. (2016) showed that the light curve could be better modelled as a binary consisting of 0.2 and 0.1 solar mass stars without a planet.</description>
-		<list>Controversial</list>
-		<list>Planets in binary systems, S-type</list>
-	</planet>
-	<planet>
 		<id_exoplaneteu>WASP-81 c</id_exoplaneteu>
 		<name>WASP-81 c</name>
 		<id>WASP-81 c</id>
@@ -102327,20 +104007,19 @@ Credit: Joe Gallagher.</imagedescription>
 		<id>MOA-2010-BLG-328L b</id>
 		<discoverymethod>microlensing</discoverymethod>
 		<properties>
-			<mass>0.028940</mass>
+			<mass>0.0289</mass>
 			<orbit>
-				<semimajoraxis>0.92</semimajoraxis>
 			</orbit>
 		</properties>
 		<star>
 			<mass>0.11</mass>
 			<distance>810</distance>
-			<rightascension>17 57 59</rightascension>
-			<declination>-30 43 55</declination>
+			<rightascension>17 57 59.12</rightascension>
+			<declination>-30 43 54.63</declination>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2013</discoveryyear>
-		<lastupdate>13/09/30</lastupdate>
+		<lastupdate>18/09/19</lastupdate>
 		<description>MOA-2010-BLG-328 is a planetary microlensing event. Multiple fits (including one with source orbital motion, xallarap) can explain the system. The mass of the companion might therefore change. However, all fits clearly show the presence of a planery mass object: MOA-2010-BLG-328L b.</description>
 		<list>Confirmed planets</list>
 	</planet>
@@ -103207,6 +104886,39 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>HATS-52 b</id_exoplaneteu>
+		<name>HATS-52 b</name>
+		<name>2MASS J09202105-3116095 b</name>
+		<id>HATS-52 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>2.24</mass>
+			<radius>1.382</radius>
+			<orbit>
+				<period>1.36665436</period>
+				<semimajoraxis>0.02498</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.7</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.111</mass>
+			<radius>1.046</radius>
+			<metallicity>0.22</metallicity>
+			<distance>564.1</distance>
+			<temperature>6010</temperature>
+			<rightascension>09 20 21.046</rightascension>
+			<declination>-31 16 09.49</declination>
+			<magV>13.669</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/12</lastupdate>
+		<description>This is a close-in transiting hot-Jupiter around a G-type dwarf.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HIP 97233 b</id_exoplaneteu>
 		<name>HIP 97233 b</name>
 		<id>HIP 97233 b</id>
@@ -103981,6 +105693,39 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/08</lastupdate>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>WASP-177 b</id_exoplaneteu>
+		<name>WASP-177 b</name>
+		<name>1SWASP J221911.19-015004.7 b</name>
+		<id>WASP-177 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.508</mass>
+			<radius>1.58</radius>
+			<orbit>
+				<period>3.071722</period>
+				<semimajoraxis>0.03957</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>84.14</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>K2</spectraltype>
+			<mass>0.876</mass>
+			<radius>0.885</radius>
+			<metallicity>0.25</metallicity>
+			<distance>177.7</distance>
+			<temperature>5017</temperature>
+			<rightascension>22 19 11.337</rightascension>
+			<declination>-01 50 03.08</declination>
+			<magV>12.58</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/03/15</lastupdate>
+		<description>This is a hot Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -104955,30 +106700,6 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		</star>
 		<multiplicity>1</multiplicity>
 		<discoveryyear>2007</discoveryyear>
-		<lastupdate>10/12/06</lastupdate>
-		<list>Confirmed planets</list>
-	</planet>
-	<planet>
-		<id_exoplaneteu>MOA-2007-BLG-400-L b</id_exoplaneteu>
-		<name>MOA-2007-BLG-400-L b</name>
-		<name>MOA 2007-BLG-400L b</name>
-		<id>MOA-2007-BLG-400-L b</id>
-		<discoverymethod>microlensing</discoverymethod>
-		<properties>
-			<mass>0.9</mass>
-			<orbit>
-				<semimajoraxis>0.85</semimajoraxis>
-			</orbit>
-		</properties>
-		<star>
-			<mass>0.35</mass>
-			<distance>6000</distance>
-			<temperature>104.6</temperature>
-			<rightascension>18 09 42</rightascension>
-			<declination>-29 13 27</declination>
-		</star>
-		<multiplicity>1</multiplicity>
-		<discoveryyear>2008</discoveryyear>
 		<lastupdate>10/12/06</lastupdate>
 		<list>Confirmed planets</list>
 	</planet>
@@ -106438,6 +108159,38 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>WASP-175 b</id_exoplaneteu>
+		<name>WASP-175 b</name>
+		<name>2MASS J11051653-3407219 b</name>
+		<id>WASP-175 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.99</mass>
+			<radius>1.208</radius>
+			<orbit>
+				<period>3.0652907</period>
+				<semimajoraxis>0.04403</semimajoraxis>
+				<inclination>85.33</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>F7</spectraltype>
+			<mass>1.212</mass>
+			<radius>1.204</radius>
+			<metallicity>0.150</metallicity>
+			<distance>584</distance>
+			<temperature>6229</temperature>
+			<rightascension>11 05 16.6</rightascension>
+			<declination>-34 07 20.3</declination>
+			<magV>12.04</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2019</discoveryyear>
+		<lastupdate>19/08/27</lastupdate>
+		<description>This is an inflated hot-Jupiter.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>BD+20 2457 c</id_exoplaneteu>
 		<name>BD+20 2457 c</name>
 		<name>BD20 2457 c</name>
@@ -107147,6 +108900,29 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>MOA-2007-BLG-400L b</id_exoplaneteu>
+		<name>MOA-2007-BLG-400L b</name>
+		<id>MOA-2007-BLG-400L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.83</mass>
+			<orbit>
+				<semimajoraxis>6.5</semimajoraxis>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.30</mass>
+			<distance>5800</distance>
+			<rightascension>18 09 41.98</rightascension>
+			<declination>-29 13 26.95</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2008</discoveryyear>
+		<lastupdate>18/09/18</lastupdate>
+		<description>MOA-2007-BLG-400Lb is a jovian planet on a wide orbit around a low-mass star. An alternative solution to the microlensing data gives a semimajor axis of 0.72 AU.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HAT-P-8 b</id_exoplaneteu>
 		<name>HAT-P-8 b</name>
 		<name>HAT-P-8 A b</name>
@@ -107297,6 +109073,31 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2016-BLG-1190L b</id_exoplaneteu>
+		<name>OGLE-2016-BLG-1190L b</name>
+		<id>OGLE-2016-BLG-1190L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>13.38</mass>
+			<orbit>
+				<period>1220</period>
+				<semimajoraxis>2.17</semimajoraxis>
+				<eccentricity>0.42</eccentricity>
+				<inclination>41.20</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.88</mass>
+			<distance>6800</distance>
+			<rightascension>17 58 52.30</rightascension>
+			<declination>-27 36 48.8</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<description>OGLE-2016-BLG-1190Lb is an object at the boundary between planets and brown dwarfs. The system lies in the Galactic bulge.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 73267 b</id_exoplaneteu>
 		<name>HD 73267 b</name>
 		<id>HD 73267 b</id>
@@ -107384,6 +109185,40 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<discoveryyear>2011</discoveryyear>
 		<lastupdate>11/09/22</lastupdate>
 		<description>This planet was not flagged as a potential planet candidate by the Kepler data pipeline. Citizen scientists discovered the transit simply by looking at many light curves by eye using the online tool at planethunters.org.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>KELT-21 b</id_exoplaneteu>
+		<name>KELT-21 b</name>
+		<name>HD 332124 b</name>
+		<name>2MASS J20191200+3234517 b</name>
+		<name>TYC 2676-1274-1 b</name>
+		<id>KELT-21 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>3.91</mass>
+			<radius>1.586</radius>
+			<orbit>
+				<period>3.6127628</period>
+				<semimajoraxis>0.05224</semimajoraxis>
+				<eccentricity>0</eccentricity>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>A8 V</spectraltype>
+			<mass>1.458</mass>
+			<radius>1.638</radius>
+			<metallicity>-0.405</metallicity>
+			<distance>415</distance>
+			<temperature>7598</temperature>
+			<rightascension>20 19 12.004</rightascension>
+			<declination>+32 34 51.77</declination>
+			<magV>10.48</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/01/17</lastupdate>
+		<description>This is a hot Jupiter.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -108337,6 +110172,28 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
+		<id_exoplaneteu>OGLE-2017-BLG-0173L b</id_exoplaneteu>
+		<name>OGLE-2017-BLG-0173L b</name>
+		<id>OGLE-2017-BLG-0173L b</id>
+		<discoverymethod>microlensing</discoverymethod>
+		<properties>
+			<mass>0.010285</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<mass>0.396</mass>
+			<distance>4705</distance>
+			<rightascension>17 51 52.95</rightascension>
+			<declination>-29 16 16.9</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>18/09/20</lastupdate>
+		<description>OGLE-2017-BLG-0173Lb was discovered in a "Hollywood" microlensing event. Alternative models result in planetary masses around 8 Earth masses.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
 		<id_exoplaneteu>HD 95089 c</id_exoplaneteu>
 		<name>HD 95089 c</name>
 		<id>HD 95089 c</id>
@@ -108886,6 +110743,39 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<discoveryyear>2014</discoveryyear>
 		<lastupdate>14/10/24</lastupdate>
 		<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
+		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>HATS-50 b</id_exoplaneteu>
+		<name>HATS-50 b</name>
+		<name>2MASS J20014273-2604392 b</name>
+		<id>HATS-50 b</id>
+		<discoverymethod>transit</discoverymethod>
+		<properties>
+			<mass>0.39</mass>
+			<radius>1.130</radius>
+			<orbit>
+				<period>3.8297015</period>
+				<semimajoraxis>0.05046</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination>87.54</inclination>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>G</spectraltype>
+			<mass>1.168</mass>
+			<radius>1.117</radius>
+			<metallicity>0.300</metallicity>
+			<distance>773.2</distance>
+			<temperature>5990</temperature>
+			<rightascension>20 01 42.73</rightascension>
+			<declination>-26 04 39.29</declination>
+			<magV>14.033</magV>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2017</discoveryyear>
+		<lastupdate>17/12/12</lastupdate>
+		<description>This is a close-in transiting hot-Jupiter around a G-type dwarf.</description>
 		<list>Confirmed planets</list>
 	</planet>
 	<planet>
@@ -111504,6 +113394,31 @@ Credit: ESO/Digitized Sky Survey 2 and  Davide De Martin.</imagedescription>
 		<lastupdate>16/05/10</lastupdate>
 		<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 		<list>Confirmed planets</list>
+	</planet>
+	<planet>
+		<id_exoplaneteu>2MASS J02495639-0557352 c</id_exoplaneteu>
+		<name>2MASS J02495639-0557352 c</name>
+		<name>2MASS J0249-0557 c</name>
+		<id>2MASS J02495639-0557352 c</id>
+		<discoverymethod>imaging</discoverymethod>
+		<properties>
+			<mass>11.6</mass>
+			<orbit>
+			</orbit>
+		</properties>
+		<star>
+			<spectraltype>M6</spectraltype>
+			<mass>0.0458</mass>
+			<distance>48.9</distance>
+			<rightascension>02 49 56.3884942122</rightascension>
+			<declination>-05 57 35.410808361</declination>
+		</star>
+		<multiplicity>1</multiplicity>
+		<discoveryyear>2018</discoveryyear>
+		<lastupdate>18/07/28</lastupdate>
+		<description>2MASS J0249-0557 c is a wide-separation, planetary-mass companion to a low-mass binary system of brown dwarfs in the Beta Pictoris Moving Group. The object appears to be a near-twin of the planet Beta Pictoris b.</description>
+		<list>Confirmed planets</list>
+		<list>Planets in binary systems, P-type</list>
 	</planet>
 	<planet>
 		<id_exoplaneteu>Kepler-487 c</id_exoplaneteu>
