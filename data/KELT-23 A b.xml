@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>KELT-23 A b</id_exoplaneteu>
+	<name>KELT-23 A b</name>
+	<name>BD+66 911 A b</name>
+	<name>2MASS J15283520+6621314 A b</name>
+	<name>TYC 4187-996-1 A b</name>
+	<name>UCAC4 782-024743 A b</name>
+	<id>KELT-23 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.938</mass>
+		<radius>1.323</radius>
+		<orbit>
+			<period>2.255251</period>
+			<semimajoraxis>0.03302</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>85.37</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2 V</spectraltype>
+		<mass>0.944</mass>
+		<radius>0.996</radius>
+		<metallicity>-0.105</metallicity>
+		<distance>126.7</distance>
+		<temperature>5899</temperature>
+		<rightascension>15 28 35.193</rightascension>
+		<declination>+66 21 31.54</declination>
+		<angulardistance />
+		<magV>10.253</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/05/23</lastupdate>
+	<description>This is a hot Jupiter orbiting a Near-Solar twin system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-67 b</id_exoplaneteu>
+	<name>HATS-67 b</name>
+	<name>2MASS J12005011-4608110 b</name>
+	<id>HATS-67 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.45</mass>
+		<radius>1.685</radius>
+		<orbit>
+			<period>1.6091788</period>
+			<semimajoraxis>0.03032</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>79.03</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.435</mass>
+		<radius>1.441</radius>
+		<metallicity>0.332</metallicity>
+		<distance>987.1</distance>
+		<temperature>6594</temperature>
+		<rightascension>12 00 50.118</rightascension>
+		<declination>-46 08 11.12</declination>
+		<angulardistance />
+		<magV>13.095</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This is an inflated Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

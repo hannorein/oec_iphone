@@ -1,0 +1,50 @@
+<planet>
+	<id_exoplaneteu>HAT-P-11 c</id_exoplaneteu>
+	<name>HAT-P-11 c</name>
+	<name>HIP 97657 c</name>
+	<name>TYC 3561-02092-1 c</name>
+	<name>BD+47 2936 c</name>
+	<name>2MASS J19505021+4804508 c</name>
+	<name>Kepler-3 c</name>
+	<name>KIC 10748390 c</name>
+	<name>KOI-3 c</name>
+	<id>HAT-P-11 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>1.595</mass>
+		<radius />
+		<orbit>
+			<period>3407</period>
+			<semimajoraxis>4.13</semimajoraxis>
+			<eccentricity>0.601</eccentricity>
+			<inclination />
+			<periastron>143.7</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K4V</spectraltype>
+		<mass>0.809</mass>
+		<radius>0.683</radius>
+		<metallicity>0.31</metallicity>
+		<distance>37.89</distance>
+		<temperature>4780</temperature>
+		<rightascension>19 50 50.2474562793</rightascension>
+		<declination>+48 04 51.097364378</declination>
+		<angulardistance />
+		<magV>9.47</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/08/29</lastupdate>
+	<description>HAT-P-11 c is a jovian planet on a highly eccentric orbit around the star HAT-P-11. The planet may be responsible for the misalignment of the orbit of the inner super-Neptune HAT-P-11 b via nodal precession.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

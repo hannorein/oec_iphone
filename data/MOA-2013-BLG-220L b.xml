@@ -4,11 +4,11 @@
 	<id>MOA-2013-BLG-220L b</id>
 	<discoverymethod>microlensing</discoverymethod>
 	<properties>
-		<mass>0.188780165497</mass>
+		<mass>0.80</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>0.7</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -18,13 +18,13 @@
 	</properties>
 	<star>
 		<spectraltype />
-		<mass>0.05</mass>
+		<mass>0.25</mass>
 		<radius />
 		<metallicity />
-		<distance>2000</distance>
+		<distance>4500</distance>
 		<temperature />
-		<rightascension>18 03 57</rightascension>
-		<declination>-28 27 19</declination>
+		<rightascension>18 03 56.470</rightascension>
+		<declination>-29 32 40.78</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2014</discoveryyear>
-	<lastupdate>14/04/05</lastupdate>
-	<description>MOA-2013-BLG-220L is a microlensing event observed in 2013. The most likely candidate for the lens system is a planet orbiting a brown dwarf host star. Many of the parameters are uncertain and followup observations are required to further constrain the system. Observations will become possible in 2021 when the lens and source will have separated sufficiently to be resolved in high resolution images.</description>
+	<lastupdate>18/09/19</lastupdate>
+	<description>MOA-2013-BLG-220L is a microlensing event observed in 2013. The lens system has a mass ratio of 0.003 but the distance and mass are not well constrained, so the system could range from a Saturn-mass planet orbiting a brown dwarf to a super-Jupiter orbiting a K-dwarf.</description>
 	<new />
 	<image />
 	<imagedescription />

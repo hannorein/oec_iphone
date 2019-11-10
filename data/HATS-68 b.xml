@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-68 b</id_exoplaneteu>
+	<name>HATS-68 b</name>
+	<name>2MASS J01000141-5854172 b</name>
+	<id>HATS-68 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.290</mass>
+		<radius>1.232</radius>
+		<orbit>
+			<period>3.58622202</period>
+			<semimajoraxis>0.05071</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>83.21</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.351</mass>
+		<radius>1.748</radius>
+		<metallicity>0.210</metallicity>
+		<distance>614.6</distance>
+		<temperature>6147</temperature>
+		<rightascension>01 00 01.413</rightascension>
+		<declination>-58 54 17.12</declination>
+		<angulardistance />
+		<magV>12.281</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This planet was discovered by the HATSouth project.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

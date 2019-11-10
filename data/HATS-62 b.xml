@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-62 b</id_exoplaneteu>
+	<name>HATS-62 b</name>
+	<name>2MASS J20494783-2418124 b</name>
+	<id>HATS-62 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.179</mass>
+		<radius>1.055</radius>
+		<orbit>
+			<period>3.2768837</period>
+			<semimajoraxis>0.04163</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.92</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.896</mass>
+		<radius>0.933</radius>
+		<metallicity>0.133</metallicity>
+		<distance>530.8</distance>
+		<temperature>5416</temperature>
+		<rightascension>20 49 47.833</rightascension>
+		<declination>-24 18 12.5</declination>
+		<angulardistance />
+		<magV>14.015</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This is a super-Neptune planet. The host system is possibly a binary star system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

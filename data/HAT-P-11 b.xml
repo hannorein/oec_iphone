@@ -12,27 +12,27 @@
 	<id>HAT-P-11 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.081</mass>
-		<radius>0.452</radius>
+		<mass>0.07362</mass>
+		<radius>0.3890</radius>
 		<orbit>
-			<period>4.887804</period>
-			<semimajoraxis>0.053</semimajoraxis>
-			<eccentricity>0.198</eccentricity>
-			<inclination>88.5</inclination>
-			<periastron />
+			<period>4.887802443</period>
+			<semimajoraxis>0.05254</semimajoraxis>
+			<eccentricity>0.218</eccentricity>
+			<inclination>89.05</inclination>
+			<periastron>19</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K4</spectraltype>
-		<mass>0.81</mass>
-		<radius>0.75</radius>
+		<spectraltype>K4V</spectraltype>
+		<mass>0.809</mass>
+		<radius>0.683</radius>
 		<metallicity>0.31</metallicity>
-		<distance>38</distance>
-		<temperature>790.9</temperature>
-		<rightascension>19 50 50</rightascension>
-		<declination>+48 04 51</declination>
+		<distance>37.89</distance>
+		<temperature>4780</temperature>
+		<rightascension>19 50 50.2474562793</rightascension>
+		<declination>+48 04 51.097364378</declination>
 		<angulardistance />
 		<magV>9.47</magV>
 		<magI />
@@ -40,9 +40,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>2009</discoveryyear>
-	<lastupdate>13/05/29</lastupdate>
+	<lastupdate>18/08/29</lastupdate>
 	<description>The star HAT-P-11b is located in the constellation Cygnus. The planetary companion HAT-P-11b is in the field of view of the Kepler spacecraft. The expected temperature is 878K. The planets orbit is highly inclined.</description>
 	<new />
 	<image />

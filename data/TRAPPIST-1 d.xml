@@ -7,29 +7,29 @@
 	<id>TRAPPIST-1 d</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>0.00104</mass>
-		<radius>0.0689</radius>
+		<mass>0.000934</mass>
+		<radius>0.06994</radius>
 		<orbit>
 			<period>4.04982</period>
-			<semimajoraxis>0.02145</semimajoraxis>
-			<eccentricity>0.003</eccentricity>
+			<semimajoraxis>0.02228038</semimajoraxis>
+			<eccentricity>0.00837</eccentricity>
 			<inclination>89.75</inclination>
-			<periastron />
+			<periastron>-8.73</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
 	</properties>
 	<star>
 		<spectraltype>M8 V</spectraltype>
-		<mass>0.0802</mass>
+		<mass>0.089</mass>
 		<radius>0.121</radius>
 		<metallicity>0.04</metallicity>
-		<distance>12.56</distance>
-		<temperature>2559</temperature>
-		<rightascension>23 06 30.34</rightascension>
-		<declination>-05 02 36.44</declination>
+		<distance>12.430</distance>
+		<temperature>2516</temperature>
+		<rightascension>23 06 29.3684052886</rightascension>
+		<declination>-05 02 29.031690445</declination>
 		<angulardistance />
-		<magV>18.75</magV>
+		<magV>18.798</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -37,7 +37,7 @@
 	</star>
 	<multiplicity>7</multiplicity>
 	<discoveryyear>2017</discoveryyear>
-	<lastupdate>17/04/13</lastupdate>
+	<lastupdate>18/09/18</lastupdate>
 	<description>Astronomers have found this system of seven Earth-sized planets just 40 light-years away. Using ground and space telescopes the planets were all detected as they passed in front of their parent star, the ultracool dwarf star known as TRAPPIST-1. The six inner planets form a near-resonant chain such that their orbital periods (1.51, 2.42, 4.04, 6.06, 9.21, 12.35 days) are near ratios of small integers. This architecture suggests that the planets formed farther from the star and migrated inward. The seven planets have equilibrium temperatures low enough to support liquid water on their surfaces.</description>
 	<new />
 	<image>eso1706a</image>

@@ -1,32 +1,33 @@
 <planet>
 	<id_exoplaneteu>HD 176051 b</id_exoplaneteu>
 	<name>HD 176051 b</name>
+	<name>Inrakluk b</name>
 	<id>HD 176051 b</id>
-	<discoverymethod>RV</discoverymethod>
+	<discoverymethod>astrometry</discoverymethod>
 	<properties>
 		<mass>1.5</mass>
 		<radius />
 		<orbit>
 			<period>1016</period>
 			<semimajoraxis>1.76</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination />
-			<periastron />
+			<eccentricity>0</eccentricity>
+			<inclination>115.8</inclination>
+			<periastron>0</periastron>
 			<longitude />
-			<ascendingnode />
+			<ascendingnode>69</ascendingnode>
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G0V</spectraltype>
-		<mass>1.5</mass>
+		<spectraltype>F9V</spectraltype>
+		<mass>1.07</mass>
 		<radius />
 		<metallicity />
-		<distance>14.99</distance>
-		<temperature>5700.0</temperature>
-		<rightascension>18 57 02</rightascension>
-		<declination>+32 54 05</declination>
+		<distance>14.872</distance>
+		<temperature />
+		<rightascension>18 57 01.60985</rightascension>
+		<declination>+32 54 04.5723</declination>
 		<angulardistance />
-		<magV>5.22</magV>
+		<magV>5.277</magV>
 		<magI />
 		<magH />
 		<magJ />
@@ -34,10 +35,11 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2010</discoveryyear>
-	<lastupdate>10/10/22</lastupdate>
-	<description />
+	<lastupdate>18/08/31</lastupdate>
+	<description>A planet orbiting one of the stars of the binary system HD 176051 was identified with PHASES differential astrometry. It is unknown which of the two stars the planet orbits.</description>
 	<new />
 	<image />
 	<imagedescription />
 	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
 </planet>

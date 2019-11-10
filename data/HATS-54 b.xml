@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HATS-54 b</id_exoplaneteu>
+	<name>HATS-54 b</name>
+	<name>2MASS J13223237-4441196 b</name>
+	<name>GSC 07799-01184 b</name>
+	<id>HATS-54 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.76</mass>
+		<radius>1.067</radius>
+		<orbit>
+			<period>2.5441828</period>
+			<semimajoraxis>0.03763</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>83.08</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.097</mass>
+		<radius>1.317</radius>
+		<metallicity>0.396</metallicity>
+		<distance>764.4</distance>
+		<temperature>5702</temperature>
+		<rightascension>13 22 32.372</rightascension>
+		<declination>-44 41 19.7</declination>
+		<angulardistance />
+		<magV>13.913</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/18</lastupdate>
+	<description>This is a short period hot Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

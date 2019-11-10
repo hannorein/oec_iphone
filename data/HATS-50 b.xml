@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-50 b</id_exoplaneteu>
+	<name>HATS-50 b</name>
+	<name>2MASS J20014273-2604392 b</name>
+	<id>HATS-50 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.39</mass>
+		<radius>1.130</radius>
+		<orbit>
+			<period>3.8297015</period>
+			<semimajoraxis>0.05046</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.54</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G</spectraltype>
+		<mass>1.168</mass>
+		<radius>1.117</radius>
+		<metallicity>0.300</metallicity>
+		<distance>773.2</distance>
+		<temperature>5990</temperature>
+		<rightascension>20 01 42.73</rightascension>
+		<declination>-26 04 39.29</declination>
+		<angulardistance />
+		<magV>14.033</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/12/12</lastupdate>
+	<description>This is a close-in transiting hot-Jupiter around a G-type dwarf.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

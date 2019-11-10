@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>NGTS-6 b</id_exoplaneteu>
+	<name>NGTS-6 b</name>
+	<name>2MASS J05031090-3023576 b</name>
+	<id>NGTS-6 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.339</mass>
+		<radius>1.326</radius>
+		<orbit>
+			<period>0.882059</period>
+			<semimajoraxis>0.01677</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>78.231</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.767</mass>
+		<radius>0.754</radius>
+		<metallicity>0.11</metallicity>
+		<distance>311.042</distance>
+		<temperature>4730</temperature>
+		<rightascension>05 03 10.9</rightascension>
+		<declination>-30 23 57.64</declination>
+		<angulardistance />
+		<magV>14.087</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/09/09</lastupdate>
+	<description>This planet is an ultra-short period hot Jupiter discovered by the Next Generation Transit Survey.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,43 @@
+<planet>
+	<id_exoplaneteu>CoRoT-20 c</id_exoplaneteu>
+	<name>CoRoT-20 c</name>
+	<id>CoRoT-20 c</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>17</mass>
+		<radius />
+		<orbit>
+			<period>1675</period>
+			<semimajoraxis>2.90</semimajoraxis>
+			<eccentricity>0.60</eccentricity>
+			<inclination />
+			<periastron>65.0</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2V</spectraltype>
+		<mass>1.14</mass>
+		<radius>1.02</radius>
+		<metallicity>0.14</metallicity>
+		<distance>864</distance>
+		<temperature>5880</temperature>
+		<rightascension>06 30 52.9022405280</rightascension>
+		<declination>+00 13 36.858471822</declination>
+		<angulardistance />
+		<magV>14.66</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/08/31</lastupdate>
+	<description>CoRoT-20 c is a massive radial velocity-detected companion to the exoplanet host star CoRoT-20. It may have excited the eccentricity of the transiting hot Jupiter via the Lidov-Kozai mechanism.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

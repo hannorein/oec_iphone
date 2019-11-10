@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-65 b</id_exoplaneteu>
+	<name>HATS-65 b</name>
+	<name>2MASS J19314555-2644246 b</name>
+	<id>HATS-65 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.821</mass>
+		<radius>1.501</radius>
+		<orbit>
+			<period>3.1051610</period>
+			<semimajoraxis>0.04497</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>84.82</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.257</mass>
+		<radius>1.310</radius>
+		<metallicity>0.199</metallicity>
+		<distance>500</distance>
+		<temperature>6277</temperature>
+		<rightascension>19 31 45.552</rightascension>
+		<declination>-26 44 24.72</declination>
+		<angulardistance />
+		<magV>12.497</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>The host system is possibly a binary star system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

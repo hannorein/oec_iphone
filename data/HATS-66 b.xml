@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-66 b</id_exoplaneteu>
+	<name>HATS-66 b</name>
+	<name>2MASS J06453475-3352540 b</name>
+	<id>HATS-66 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>5.33</mass>
+		<radius>1.411</radius>
+		<orbit>
+			<period>3.1414391</period>
+			<semimajoraxis>0.04714</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.06</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.411</mass>
+		<radius>1.841</radius>
+		<metallicity>-0.017</metallicity>
+		<distance>1544</distance>
+		<temperature>6626</temperature>
+		<rightascension>06 45 34.757</rightascension>
+		<declination>-33 52 54.13</declination>
+		<angulardistance />
+		<magV>14.095</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This is a super-Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

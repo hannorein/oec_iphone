@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-175 b</id_exoplaneteu>
+	<name>WASP-175 b</name>
+	<name>2MASS J11051653-3407219 b</name>
+	<id>WASP-175 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.99</mass>
+		<radius>1.208</radius>
+		<orbit>
+			<period>3.0652907</period>
+			<semimajoraxis>0.04403</semimajoraxis>
+			<eccentricity />
+			<inclination>85.33</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F7</spectraltype>
+		<mass>1.212</mass>
+		<radius>1.204</radius>
+		<metallicity>0.150</metallicity>
+		<distance>584</distance>
+		<temperature>6229</temperature>
+		<rightascension>11 05 16.6</rightascension>
+		<declination>-34 07 20.3</declination>
+		<angulardistance />
+		<magV>12.04</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/08/27</lastupdate>
+	<description>This is an inflated hot-Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>NGTS-5 b</id_exoplaneteu>
+	<name>NGTS-5 b</name>
+	<name>2MASS J14441396+0536195 b</name>
+	<id>NGTS-5 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.229</mass>
+		<radius>1.136</radius>
+		<orbit>
+			<period>3.3569866</period>
+			<semimajoraxis>0.0382</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>86.6</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2 V</spectraltype>
+		<mass>0.661</mass>
+		<radius>0.739</radius>
+		<metallicity>0.12</metallicity>
+		<distance>309.5</distance>
+		<temperature>4987</temperature>
+		<rightascension>14 44 13.984</rightascension>
+		<declination>+05 36 19.35</declination>
+		<angulardistance />
+		<magV>13.770</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/05/07</lastupdate>
+	<description>This is a  highly inflated planet offering insights into the sub-Jovian desert.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

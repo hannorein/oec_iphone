@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>NGTS-4 b</id_exoplaneteu>
+	<name>NGTS-4 b</name>
+	<name>2MASS J05582375-3048424 b</name>
+	<id>NGTS-4 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>6.47988248135461E-02</mass>
+		<radius>0.283702746</radius>
+		<orbit>
+			<period>1.3373508</period>
+			<semimajoraxis>0.019</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>82.5</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.75</mass>
+		<radius>0.84</radius>
+		<metallicity>-0.28</metallicity>
+		<distance>282.6</distance>
+		<temperature>5143</temperature>
+		<rightascension>05 58 23.76</rightascension>
+		<declination>-30 48 42.49</declination>
+		<angulardistance />
+		<magV>13.14</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/09/03</lastupdate>
+	<description>This planet is a sub-Neptune-sized planet transiting a 13th magnitude K-dwarf in a 1.34d orbit.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

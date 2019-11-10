@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-177 b</id_exoplaneteu>
+	<name>WASP-177 b</name>
+	<name>1SWASP J221911.19-015004.7 b</name>
+	<id>WASP-177 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.508</mass>
+		<radius>1.58</radius>
+		<orbit>
+			<period>3.071722</period>
+			<semimajoraxis>0.03957</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>84.14</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K2</spectraltype>
+		<mass>0.876</mass>
+		<radius>0.885</radius>
+		<metallicity>0.25</metallicity>
+		<distance>177.7</distance>
+		<temperature>5017</temperature>
+		<rightascension>22 19 11.337</rightascension>
+		<declination>-01 50 03.08</declination>
+		<angulardistance />
+		<magV>12.58</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/03/15</lastupdate>
+	<description>This is a hot Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

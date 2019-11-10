@@ -7,14 +7,14 @@
 	<id>CoRoT-20 b</id>
 	<discoverymethod>transit</discoverymethod>
 	<properties>
-		<mass>4.24</mass>
+		<mass>4.3</mass>
 		<radius>0.84</radius>
 		<orbit>
-			<period>9.2</period>
-			<semimajoraxis>0.0902</semimajoraxis>
-			<eccentricity>0.562</eccentricity>
+			<period>9.24285</period>
+			<semimajoraxis>0.090</semimajoraxis>
+			<eccentricity>0.59</eccentricity>
 			<inclination>88.21</inclination>
-			<periastron />
+			<periastron>60.1</periastron>
 			<longitude />
 			<ascendingnode />
 		</orbit>
@@ -24,10 +24,10 @@
 		<mass>1.14</mass>
 		<radius>1.02</radius>
 		<metallicity>0.14</metallicity>
-		<distance>1230</distance>
-		<temperature>1002</temperature>
-		<rightascension>06 30 53</rightascension>
-		<declination>+00 13 37</declination>
+		<distance>864</distance>
+		<temperature>5880</temperature>
+		<rightascension>06 30 52.9022405280</rightascension>
+		<declination>+00 13 36.858471822</declination>
 		<angulardistance />
 		<magV>14.66</magV>
 		<magI />
@@ -35,9 +35,9 @@
 		<magJ />
 		<magK />
 	</star>
-	<multiplicity>1</multiplicity>
+	<multiplicity>2</multiplicity>
 	<discoveryyear>2011</discoveryyear>
-	<lastupdate>11/06/14</lastupdate>
+	<lastupdate>18/08/31</lastupdate>
 	<description />
 	<new />
 	<image />

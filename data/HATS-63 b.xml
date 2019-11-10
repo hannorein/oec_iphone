@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-63 b</id_exoplaneteu>
+	<name>HATS-63 b</name>
+	<name>2MASS J04294044-2811501 b</name>
+	<id>HATS-63 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.96</mass>
+		<radius>1.207</radius>
+		<orbit>
+			<period>3.0566527</period>
+			<semimajoraxis>0.04026</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>84.86</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.931</mass>
+		<radius>1.070</radius>
+		<metallicity>0.081</metallicity>
+		<distance>634.7</distance>
+		<temperature>5627</temperature>
+		<rightascension>04 29 40.453</rightascension>
+		<declination>-28 11 50.23</declination>
+		<angulardistance />
+		<magV>13.8920</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This planet was discovered by the HATSouth project.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

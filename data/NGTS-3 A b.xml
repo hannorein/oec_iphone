@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>NGTS-3 A b</id_exoplaneteu>
+	<name>NGTS-3 A b</name>
+	<name>2MASS J06174675-3542230 A b</name>
+	<id>NGTS-3 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.38</mass>
+		<radius>1.48</radius>
+		<orbit>
+			<period>1.6753728</period>
+			<semimajoraxis />
+			<eccentricity>0</eccentricity>
+			<inclination>89.56</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G6 V</spectraltype>
+		<mass>1.017</mass>
+		<radius>0.93</radius>
+		<metallicity>0.12</metallicity>
+		<distance />
+		<temperature>5600</temperature>
+		<rightascension>06 17 46.752</rightascension>
+		<declination>-35 42 23.02</declination>
+		<angulardistance />
+		<magV>14.642</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/05/03</lastupdate>
+	<description>This planet is a hot Jupiter found transiting the primary star of an unresolved binary system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

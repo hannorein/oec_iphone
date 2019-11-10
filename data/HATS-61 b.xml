@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-61 b</id_exoplaneteu>
+	<name>HATS-61 b</name>
+	<name>2MASS J04063786-2520589 b</name>
+	<id>HATS-61 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.4</mass>
+		<radius>1.195</radius>
+		<orbit>
+			<period>7.817953</period>
+			<semimajoraxis>0.07908</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.15</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.076</mass>
+		<radius>1.664</radius>
+		<metallicity>0.247</metallicity>
+		<distance>693.4</distance>
+		<temperature>5542</temperature>
+		<rightascension>04 06 37.868</rightascension>
+		<declination>-25 20 58.96</declination>
+		<angulardistance />
+		<magV>13.233</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This planet was discovered by the HATSouth project.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

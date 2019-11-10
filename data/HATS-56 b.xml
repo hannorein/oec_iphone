@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HATS-56 b</id_exoplaneteu>
+	<name>HATS-56 b</name>
+	<name>2MASS J12003962-4547579 b</name>
+	<name>TYC 8229-2228-1 b</name>
+	<id>HATS-56 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.902</mass>
+		<radius>1.688</radius>
+		<orbit>
+			<period>4.324799</period>
+			<semimajoraxis>0.06043</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>83.29</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.573</mass>
+		<radius>2.201</radius>
+		<metallicity>0.19</metallicity>
+		<distance>573.5</distance>
+		<temperature>6536</temperature>
+		<rightascension>12 00 39.63</rightascension>
+		<declination>-45 47 58.0</declination>
+		<angulardistance />
+		<magV>11.48</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/18</lastupdate>
+	<description>This is an highly inflated hot-Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

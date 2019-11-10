@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-64 b</id_exoplaneteu>
+	<name>HATS-64 b</name>
+	<name>2MASS J09370902-2948015 b</name>
+	<id>HATS-64 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.96</mass>
+		<radius>1.679</radius>
+		<orbit>
+			<period>4.908897</period>
+			<semimajoraxis>0.06562</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.24</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.564</mass>
+		<radius>2.113</radius>
+		<metallicity>0.220</metallicity>
+		<distance>1114</distance>
+		<temperature>6554</temperature>
+		<rightascension>09 37 09.03</rightascension>
+		<declination>-29 48 01.57</declination>
+		<angulardistance />
+		<magV>12.924</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>The host system is possibly a binary star system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

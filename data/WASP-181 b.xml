@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>WASP-181 b</id_exoplaneteu>
+	<name>WASP-181 b</name>
+	<name>1SWASP J014710.37+030759.0 b</name>
+	<id>WASP-181 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.299</mass>
+		<radius>1.184</radius>
+		<orbit>
+			<period>4.5195064</period>
+			<semimajoraxis>0.05427</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.38</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G2</spectraltype>
+		<mass>1.04</mass>
+		<radius>0.965</radius>
+		<metallicity>0.09</metallicity>
+		<distance>443</distance>
+		<temperature>5839</temperature>
+		<rightascension>01 47 10.38</rightascension>
+		<declination>+03 07 58.9</declination>
+		<angulardistance />
+		<magV>12.91</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/03/15</lastupdate>
+	<description>This is a hot-Saturn planet.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

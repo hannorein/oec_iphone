@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-69 b</id_exoplaneteu>
+	<name>HATS-69 b</name>
+	<name>2MASS J19171138-6053301 b</name>
+	<id>HATS-69 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.577</mass>
+		<radius>0.945</radius>
+		<orbit>
+			<period>2.2252577</period>
+			<semimajoraxis>0.03211</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.49</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.892</mass>
+		<radius>0.8785</radius>
+		<metallicity>0.377</metallicity>
+		<distance>419.5</distance>
+		<temperature>5137</temperature>
+		<rightascension>19 17 11.364</rightascension>
+		<declination>-60 53 30.06</declination>
+		<angulardistance />
+		<magV>13.945</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This planet has the size of Saturn.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

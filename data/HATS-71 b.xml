@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-71 b</id_exoplaneteu>
+	<name>HATS-71 b</name>
+	<name>2MASS J01021226-6145216 b</name>
+	<id>HATS-71 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.45</mass>
+		<radius>1.08</radius>
+		<orbit>
+			<period>3.7955213</period>
+			<semimajoraxis>0.03946</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.85</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>0.569</mass>
+		<radius>0.5161</radius>
+		<metallicity>0.237</metallicity>
+		<distance>140.8</distance>
+		<temperature>3254</temperature>
+		<rightascension>01 02 12.281</rightascension>
+		<declination>-61 45 21.66</declination>
+		<angulardistance />
+		<magV />
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/21</lastupdate>
+	<description>This planet is a transiting gas giant.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

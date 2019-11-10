@@ -1,14 +1,15 @@
 <planet>
 	<id_exoplaneteu>OGLE-2003-BLG-235L b</id_exoplaneteu>
 	<name>OGLE-2003-BLG-235L b</name>
+	<name>MOA-2003-BLG-53L b</name>
 	<id>OGLE-2003-BLG-235L b</id>
-	<discoverymethod />
+	<discoverymethod>microlensing</discoverymethod>
 	<properties>
 		<mass>2.6</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>5.1</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -17,14 +18,14 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype />
+		<spectraltype>K</spectraltype>
 		<mass>0.63</mass>
 		<radius />
 		<metallicity />
-		<distance>5200.0</distance>
+		<distance>5800</distance>
 		<temperature />
-		<rightascension>18 05 16</rightascension>
-		<declination>-28 06 18</declination>
+		<rightascension>18 05 16.35</rightascension>
+		<declination>-28 53 42.0</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,8 +35,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2004</discoveryyear>
-	<lastupdate>16/02/26</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/09/18</lastupdate>
+	<description>OGLE-2003-BLG-235/MOA-2003-BLG-53 was the first microlensing event to result in a definitive planet detection. The host star was detected by Bennett et al. (2006) who discovered that it is a K-dwarf.</description>
 	<new />
 	<image />
 	<imagedescription />

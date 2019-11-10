@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>KELT-21 b</id_exoplaneteu>
+	<name>KELT-21 b</name>
+	<name>HD 332124 b</name>
+	<name>2MASS J20191200+3234517 b</name>
+	<name>TYC 2676-1274-1 b</name>
+	<id>KELT-21 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.91</mass>
+		<radius>1.586</radius>
+		<orbit>
+			<period>3.6127628</period>
+			<semimajoraxis>0.05224</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination />
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A8 V</spectraltype>
+		<mass>1.458</mass>
+		<radius>1.638</radius>
+		<metallicity>-0.405</metallicity>
+		<distance>415</distance>
+		<temperature>7598</temperature>
+		<rightascension>20 19 12.004</rightascension>
+		<declination>+32 34 51.77</declination>
+		<angulardistance />
+		<magV>10.48</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/01/17</lastupdate>
+	<description>This is a hot Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

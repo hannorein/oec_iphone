@@ -1,7 +1,6 @@
 <planet>
 	<id_exoplaneteu>MOA-2010-BLG-477L b</id_exoplaneteu>
 	<name>MOA-2010-BLG-477L b</name>
-	<name>MOA 2010-BLG-477L b</name>
 	<id>MOA-2010-BLG-477L b</id>
 	<discoverymethod>microlensing</discoverymethod>
 	<properties>
@@ -18,14 +17,14 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>K</spectraltype>
+		<spectraltype />
 		<mass>0.67</mass>
 		<radius />
 		<metallicity />
 		<distance>2300</distance>
-		<temperature>120.7</temperature>
-		<rightascension>18 06 07</rightascension>
-		<declination>-31 27 16</declination>
+		<temperature />
+		<rightascension>18 06 07.44</rightascension>
+		<declination>-31 27 16.12</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -35,7 +34,7 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2012</discoveryyear>
-	<lastupdate>12/06/02</lastupdate>
+	<lastupdate>18/09/19</lastupdate>
 	<description>Densely covered observations of a high-magnification event led to the discovery of the planet MOA-2010-BLG-477 b. Many different telescopes around the world have been used in this collaborative effort, including a 40cm telescope in Antartica.</description>
 	<new />
 	<image />

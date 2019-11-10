@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>NGTS-10 b</id_exoplaneteu>
+	<name>NGTS-10 b</name>
+	<name>2MASS J06072933-2535417 b</name>
+	<id>NGTS-10 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>2.162</mass>
+		<radius>1.205</radius>
+		<orbit>
+			<period>0.7668944</period>
+			<semimajoraxis>0.0143</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>79.11</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>K5 V</spectraltype>
+		<mass>0.696</mass>
+		<radius>0.697</radius>
+		<metallicity>-0.02</metallicity>
+		<distance>325</distance>
+		<temperature>4400</temperature>
+		<rightascension>06 07 29.347</rightascension>
+		<declination>-25 35 41.63</declination>
+		<angulardistance />
+		<magV>14.340</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2019</discoveryyear>
+	<lastupdate>19/09/26</lastupdate>
+	<description>This hot Jupiter has an ultra-short period.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

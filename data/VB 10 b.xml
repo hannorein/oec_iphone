@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>VB 10 b</id_exoplaneteu>
+	<name>VB 10 b</name>
+	<id>VB 10 b</id>
+	<discoverymethod>astrometry</discoverymethod>
+	<properties>
+		<mass>6.4</mass>
+		<radius />
+		<orbit>
+			<period>271.7</period>
+			<semimajoraxis>0.360</semimajoraxis>
+			<eccentricity />
+			<inclination>96.9</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode>38.7</ascendingnode>
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2.5V</spectraltype>
+		<mass>0.45</mass>
+		<radius>0.453</radius>
+		<metallicity>0.00</metallicity>
+		<distance>5.9116</distance>
+		<temperature>3557</temperature>
+		<rightascension>19 16 55.2565250393</rightascension>
+		<declination>+05 10 08.038856129</declination>
+		<angulardistance />
+		<magV>9.115</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2009</discoveryyear>
+	<lastupdate />
+	<description>The planet candidate VB 10 b was claimed on the basis of astrometric measurements made as part of the Stellar Planet Survey (STEPS) program. Subsequent radial velocity and astrometric measurements failed to confirm the planet's existence.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Retracted planet candidate</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

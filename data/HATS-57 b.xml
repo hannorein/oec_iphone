@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HATS-57 b</id_exoplaneteu>
+	<name>HATS-57 b</name>
+	<name>2MASS J04034760-1903242 b</name>
+	<name>TYC 5885-663-1 b</name>
+	<id>HATS-57 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>3.147</mass>
+		<radius>1.139</radius>
+		<orbit>
+			<period>2.3506210</period>
+			<semimajoraxis>0.03493</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.88</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.026</mass>
+		<radius>0.960</radius>
+		<metallicity>0.268</metallicity>
+		<distance>281.7</distance>
+		<temperature>5587</temperature>
+		<rightascension>04 03 47.601</rightascension>
+		<declination>-19 03 24.33</declination>
+		<angulardistance />
+		<magV>11.59</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/18</lastupdate>
+	<description>This is a short period hot Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

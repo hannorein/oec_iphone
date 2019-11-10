@@ -1,0 +1,48 @@
+<planet>
+	<id_exoplaneteu>WASP-189 b</id_exoplaneteu>
+	<name>WASP-189 b</name>
+	<name>HD 133112 b</name>
+	<name>BD-02 3933 b</name>
+	<name>HIP 73608 b</name>
+	<name>PPM 198170 b</name>
+	<name>2MASS J15024486-0301530 b</name>
+	<id>WASP-189 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.86</mass>
+		<radius>1.38</radius>
+		<orbit>
+			<period>2.7240338</period>
+			<semimajoraxis>0.04770</semimajoraxis>
+			<eccentricity />
+			<inclination>83.4</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A4</spectraltype>
+		<mass>1.887</mass>
+		<radius>2.33</radius>
+		<metallicity>0</metallicity>
+		<distance>100.01</distance>
+		<temperature>8000</temperature>
+		<rightascension>15 02 44.868</rightascension>
+		<declination>-03 01 52.99</declination>
+		<angulardistance />
+		<magV>6.618</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/09/13</lastupdate>
+	<description>This ultra-hot Jupiter was discovered by WASP-South. The planet orbits the bright A star in a polar orbit.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

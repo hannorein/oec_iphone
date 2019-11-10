@@ -2,13 +2,13 @@
 	<id_exoplaneteu>OGLE-2014-BLG-0676L b</id_exoplaneteu>
 	<name>OGLE-2014-BLG-0676L b</name>
 	<id>OGLE-2014-BLG-0676L b</id>
-	<discoverymethod />
+	<discoverymethod>microlensing</discoverymethod>
 	<properties>
 		<mass>3.09</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>4.4</semimajoraxis>
+			<semimajoraxis>4.40</semimajoraxis>
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -21,10 +21,10 @@
 		<mass>0.62</mass>
 		<radius />
 		<metallicity />
-		<distance>2220.0</distance>
+		<distance>2220</distance>
 		<temperature />
-		<rightascension>17 52 25</rightascension>
-		<declination>-30 27 06</declination>
+		<rightascension>17 52 24.50</rightascension>
+		<declination>-30 32 54.20</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/12/15</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/09/20</lastupdate>
+	<description>OGLE-2014-BLG-0676L is a cold gas-giant planet orbiting a 0.62 solar mass star.</description>
 	<new />
 	<image />
 	<imagedescription />

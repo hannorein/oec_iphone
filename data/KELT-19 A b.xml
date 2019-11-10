@@ -1,0 +1,47 @@
+<planet>
+	<id_exoplaneteu>KELT-19 A b</id_exoplaneteu>
+	<name>KELT-19 A b</name>
+	<name>BD+07 1721 A b</name>
+	<name>TYC 764-1494-1 A b</name>
+	<name>2MASS J07260228+0736569 A b</name>
+	<id>KELT-19 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>4.07</mass>
+		<radius>1.91</radius>
+		<orbit>
+			<period>4.6117093</period>
+			<semimajoraxis>0.0637</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>85.41</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>A8 V</spectraltype>
+		<mass>1.62</mass>
+		<radius>1.830</radius>
+		<metallicity>-0.12</metallicity>
+		<distance>278</distance>
+		<temperature>7500</temperature>
+		<rightascension>07 26 02.289</rightascension>
+		<declination>+07 36 56.83</declination>
+		<angulardistance />
+		<magV>9.885</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2017</discoveryyear>
+	<lastupdate>17/12/22</lastupdate>
+	<description>This is a giant planet orbiting a binary star system.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

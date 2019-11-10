@@ -2,14 +2,15 @@
 	<id_exoplaneteu>OGLE-2015-BLG-0051L b</id_exoplaneteu>
 	<name>OGLE-2015-BLG-0051L b</name>
 	<name>KMT-2015-BLG-0048L b</name>
+	<name>KMT-2015-1 b</name>
 	<id>OGLE-2015-BLG-0051L b</id>
-	<discoverymethod />
+	<discoverymethod>microlensing</discoverymethod>
 	<properties>
 		<mass>0.72</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>0.73</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -18,14 +19,14 @@
 		</orbit>
 	</properties>
 	<star>
-		<spectraltype>G</spectraltype>
-		<mass>0.1</mass>
+		<spectraltype />
+		<mass>0.10</mass>
 		<radius />
 		<metallicity />
-		<distance>8200.0</distance>
+		<distance>8200</distance>
 		<temperature />
-		<rightascension>17 58 39</rightascension>
-		<declination>-28 58 06</declination>
+		<rightascension>17 58 39.01</rightascension>
+		<declination>-28 01 54.1</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,9 +35,9 @@
 		<magK />
 	</star>
 	<multiplicity>1</multiplicity>
-	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/07/25</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<discoveryyear>2015</discoveryyear>
+	<lastupdate>18/09/20</lastupdate>
+	<description>OGLE-2015-BLG-0051Lb/KMT-2015-BLG-0048Lb is a giant planet orbiting a low-mass star in the Galactic bulge.</description>
 	<new />
 	<image />
 	<imagedescription />

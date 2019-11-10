@@ -2,13 +2,13 @@
 	<id_exoplaneteu>OGLE-2012-BLG-0724L b</id_exoplaneteu>
 	<name>OGLE-2012-BLG-0724L b</name>
 	<id>OGLE-2012-BLG-0724L b</id>
-	<discoverymethod />
+	<discoverymethod>microlensing</discoverymethod>
 	<properties>
 		<mass>0.47</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>1.6</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -21,10 +21,10 @@
 		<mass>0.29</mass>
 		<radius />
 		<metallicity />
-		<distance>6700.0</distance>
+		<distance>6700</distance>
 		<temperature />
-		<rightascension>17 55 52</rightascension>
-		<declination>-29 10 53</declination>
+		<rightascension>17 55 52.39</rightascension>
+		<declination>-29 49 06.7</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2016</discoveryyear>
-	<lastupdate>16/04/20</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/09/20</lastupdate>
+	<description>OGLE-2012-BLG-0724Lb is a Saturn-mass planet orbiting an M dwarf. The original analysis of the microlensing event identified the system as a stellar binary.</description>
 	<new />
 	<image />
 	<imagedescription />

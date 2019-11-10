@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HD 180617 b</id_exoplaneteu>
+	<name>HD 180617 b</name>
+	<id>HD 180617 b</id>
+	<discoverymethod>RV</discoverymethod>
+	<properties>
+		<mass>0.03839</mass>
+		<radius />
+		<orbit>
+			<period>105.90</period>
+			<semimajoraxis>0.3357</semimajoraxis>
+			<eccentricity>0.16</eccentricity>
+			<inclination />
+			<periastron>269</periastron>
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>M2.5V</spectraltype>
+		<mass>0.45</mass>
+		<radius>0.453</radius>
+		<metallicity>0.00</metallicity>
+		<distance>5.9116</distance>
+		<temperature>3557</temperature>
+		<rightascension>19 16 55.2565250393</rightascension>
+		<declination>+05 10 08.038856129</declination>
+		<angulardistance />
+		<magV>9.115</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/08/14</lastupdate>
+	<description>HD 180617 b is a Neptune-mass planet in an eccentric orbit near the liquid water zone of the M-dwarf primary of the LDS 6334 binary system. The secondary star is the ultracool dwarf VB 10.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>

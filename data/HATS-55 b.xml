@@ -1,0 +1,45 @@
+<planet>
+	<id_exoplaneteu>HATS-55 b</id_exoplaneteu>
+	<name>HATS-55 b</name>
+	<name>2MASS J07370802-3245195 b</name>
+	<name>GSC 07109-00596 b</name>
+	<id>HATS-55 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.921</mass>
+		<radius>1.251</radius>
+		<orbit>
+			<period>4.2042001</period>
+			<semimajoraxis>0.05412</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>86.320</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.1955</mass>
+		<radius>1.126</radius>
+		<metallicity>0.108</metallicity>
+		<distance>620.7</distance>
+		<temperature>6214</temperature>
+		<rightascension>07 37 08.019</rightascension>
+		<declination>-32 45 19.52</declination>
+		<angulardistance />
+		<magV>13.470</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/18</lastupdate>
+	<description>This is a short period hot Jupiter.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

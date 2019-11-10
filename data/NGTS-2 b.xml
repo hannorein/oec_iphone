@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>NGTS-2 b</id_exoplaneteu>
+	<name>NGTS-2 b</name>
+	<name>2MASS J14202949-3112074 b</name>
+	<id>NGTS-2 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.74</mass>
+		<radius>1.595</radius>
+		<orbit>
+			<period>4.511164</period>
+			<semimajoraxis>0.0630</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>88.5</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>F5 V</spectraltype>
+		<mass>1.64</mass>
+		<radius>1.702</radius>
+		<metallicity>-0.06</metallicity>
+		<distance>360.3</distance>
+		<temperature>6478</temperature>
+		<rightascension>14 20 29.5</rightascension>
+		<declination>-31 12 06.68</declination>
+		<angulardistance />
+		<magV>10.961</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/09/20</lastupdate>
+	<description>This is an inflated hot-Jupiter transiting a bright F5V star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

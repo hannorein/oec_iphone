@@ -2,13 +2,13 @@
 	<id_exoplaneteu>OGLE-2013-BLG-0132L b</id_exoplaneteu>
 	<name>OGLE-2013-BLG-0132L b</name>
 	<id>OGLE-2013-BLG-0132L b</id>
-	<discoverymethod />
+	<discoverymethod>microlensing</discoverymethod>
 	<properties>
 		<mass>0.29</mass>
 		<radius />
 		<orbit>
 			<period />
-			<semimajoraxis>3.6</semimajoraxis>
+			<semimajoraxis />
 			<eccentricity />
 			<inclination />
 			<periastron />
@@ -21,10 +21,10 @@
 		<mass>0.54</mass>
 		<radius />
 		<metallicity />
-		<distance>3900.0</distance>
+		<distance>3900</distance>
 		<temperature />
-		<rightascension>17 59 04</rightascension>
-		<declination>-28 34 44</declination>
+		<rightascension>17 59 03.51</rightascension>
+		<declination>-28 25 15.7</declination>
 		<angulardistance />
 		<magV />
 		<magI />
@@ -34,8 +34,8 @@
 	</star>
 	<multiplicity>1</multiplicity>
 	<discoveryyear>2017</discoveryyear>
-	<lastupdate>17/07/04</lastupdate>
-	<description>Data for this planet was imported from the exoplanet.eu database.</description>
+	<lastupdate>18/09/20</lastupdate>
+	<description>OGLE-2013-BLG-0132Lb is a Saturn-mass planet orbiting a low-mass star.</description>
 	<new />
 	<image />
 	<imagedescription />

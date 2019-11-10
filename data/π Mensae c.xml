@@ -1,0 +1,49 @@
+<planet>
+	<id_exoplaneteu>&#960; Mensae c</id_exoplaneteu>
+	<name>&#960; Mensae c</name>
+	<name>&#960; Men c</name>
+	<name>Pi Mensae c</name>
+	<name>Pi Men c</name>
+	<name>HD 39091 c</name>
+	<name>TOI 144.01</name>
+	<name>TOI 144 c</name>
+	<id>&#960; Mensae c</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.01517</mass>
+		<radius>0.1909</radius>
+		<orbit>
+			<period>6.2682</period>
+			<semimajoraxis>0.06839</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>87.27</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype>G0V</spectraltype>
+		<mass>1.094</mass>
+		<radius>1.10</radius>
+		<metallicity>0.08</metallicity>
+		<distance>18.27</distance>
+		<temperature>6037</temperature>
+		<rightascension>05 37 09.8851202601</rightascension>
+		<declination>-80 28 08.831347245</declination>
+		<angulardistance />
+		<magV>5.67</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>2</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/09/18</lastupdate>
+	<description>The planet &#960; Men c was the first planet to be announced from the TESS mission. The mass was confirmed with radial velocity data from HARPS and AAT/UCLES.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

@@ -1,0 +1,44 @@
+<planet>
+	<id_exoplaneteu>HATS-60 b</id_exoplaneteu>
+	<name>HATS-60 b</name>
+	<name>2MASS J22452736-1459303 b</name>
+	<id>HATS-60 b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>0.662</mass>
+		<radius>1.153</radius>
+		<orbit>
+			<period>3.560829</period>
+			<semimajoraxis>0.04708</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>86.28</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.097</mass>
+		<radius>1.460</radius>
+		<metallicity>0.335</metallicity>
+		<distance>493.3</distance>
+		<temperature>5688</temperature>
+		<rightascension>22 45 27.364</rightascension>
+		<declination>-14 59 30.35</declination>
+		<angulardistance />
+		<magV>12.641</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/13</lastupdate>
+	<description>This planet was discovered by the HATSouth project.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+</planet>

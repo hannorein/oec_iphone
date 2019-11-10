@@ -1,0 +1,46 @@
+<planet>
+	<id_exoplaneteu>HATS-58 A b</id_exoplaneteu>
+	<name>HATS-58 A b</name>
+	<name>2MASS J12270898-4858423 A b</name>
+	<name>GSC 08239-00065 A b</name>
+	<id>HATS-58 A b</id>
+	<discoverymethod>transit</discoverymethod>
+	<properties>
+		<mass>1.03</mass>
+		<radius>1.095</radius>
+		<orbit>
+			<period>4.2180896</period>
+			<semimajoraxis>0.05798</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>85.69</inclination>
+			<periastron />
+			<longitude />
+			<ascendingnode />
+		</orbit>
+	</properties>
+	<star>
+		<spectraltype />
+		<mass>1.461</mass>
+		<radius>1.433</radius>
+		<metallicity />
+		<distance>425.5</distance>
+		<temperature>7175</temperature>
+		<rightascension>12 27 08.988</rightascension>
+		<declination>-48 58 42.39</declination>
+		<angulardistance />
+		<magV>11.552</magV>
+		<magI />
+		<magH />
+		<magJ />
+		<magK />
+	</star>
+	<multiplicity>1</multiplicity>
+	<discoveryyear>2018</discoveryyear>
+	<lastupdate>18/12/18</lastupdate>
+	<description>This hot-Jupiter orbits the brighter HATS-58A star.</description>
+	<new />
+	<image />
+	<imagedescription />
+	<list>Confirmed planets</list>
+	<list>Planets in binary systems, S-type</list>
+</planet>
