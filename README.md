@@ -1,6 +1,9 @@
 oec_iphone
 ==========
 
-Derivative of the Open Exoplanet Catalogue for the iPhone app 'Exoplanet'.
+Repository Archived
+--------------
 
-It is mainly a wrapper to create files that the iPhone can easily parse.
+This repository is no longer maintained. All data is now part of the main [Open Exoplanet Catalogue](https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue).
+
+Hanno Rein - June 2020
